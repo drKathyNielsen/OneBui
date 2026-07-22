@@ -1,28 +1,30 @@
 import './App.css'
+import Container from 'react-bootstrap/Container';
+import Row from 'react-bootstrap/Row';
+import Col from 'react-bootstrap/Col';
+
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
 
 
   return (
     <>
-      <section id="center">
+      <Container fluid >
+          <Row lg={6} md={6} sm={6} xs={12}>
+            <Col  >
+              1 of 2 ab
+            </Col>
+            <Col  >
+              2 of 2
+            </Col>
+          </Row>
+      </Container>
 
-        <div>
-          <h1>Get started</h1>
-          <p>
-            Edit
-          </p>
-        </div>
-       
-      </section>
-
-      <div className="ticks"></div>
-
-
-      <div className="ticks"></div>
-      <section id="spacer"></section>
     </>
   )
 }
 
 export default App
+
+
