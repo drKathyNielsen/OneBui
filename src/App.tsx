@@ -5,22 +5,27 @@ import Col from 'react-bootstrap/Col';
 
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-function App() {
+import TopNavBar from './components/TopNavBar';
+import CitySideBar from './components/CitySideBar';
+import Content from './components/Content';
+import Footer from './components/Footer';
 
+function App() {
 
   return (
     <>
-      <Container fluid >
-          <Row lg={6} md={6} sm={6} xs={12}>
-            <Col  >
-              1 of 2 ab
-            </Col>
-            <Col  >
-              2 of 2
-            </Col>
-          </Row>
+      <TopNavBar />
+      <Container fluid>
+        <Row>
+          <Col lg={2} md={3} sm={5} xs={12} className="border-end">
+            <CitySideBar />
+          </Col>
+          <Col lg={10} md={9} sm={7} xs={12}>
+            <Content />
+          </Col>
+        </Row>
       </Container>
-
+      <Footer />
     </>
   )
 }
