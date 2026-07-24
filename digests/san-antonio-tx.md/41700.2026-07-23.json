@@ -1,0 +1,41 @@
+{
+  "metro": "San Antonio-New Braunfels, TX",
+  "date": "2026-07-23",
+  "are_you_ok": {
+    "title": "Dangerous heat grips South Texas before slight cooldown | Weather Impact Alert",
+    "summary": "Broad population affected by dangerous heat, check-in worthy",
+    "description": "Triple-digit heat returns Wednesday, with heat index values up to 114 degrees as Texas power demand reaches record levels.",
+    "topic": "heat",
+    "url": "https://www.kens5.com/article/weather/forecast/heat-advisory-san-antonio-ercot-power-grid-electricity-triple-digits-heat-index-energy-demand-forecast-summer-hydration-air-conditioning/273-41ced3d1-9b66-4961-a7dc-a98c34a6a579",
+    "published_at": "2026-07-23T11:56:48+00:00"
+  },
+  "conversation_starters": [
+    {
+      "title": "San Antonio has lost 2K manufacturing jobs since 2024. Industry experts say they aren’t too concerned.",
+      "summary": "2K manufacturing jobs lost since 2024 — metro-level employment story. You could open with: 'Did you see San Antonio's shed a couple thousand manufacturing jobs — experts say not to worry?'",
+      "description": "<figure><img alt=\"A yellow telescopic lift on display at JCB&#039;s under-construction factory during a tour by company chairman Lord Anthony Bamford on March 30, 2026.\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/sanantonioreport.org/wp-content/uploads/2026/03/JCBManufacturing_SouthsideFacilityUpdates_02_03.30.2026_JasperKenzoSundeen.jpg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>Greater:SATX, an organization tasked with bringing jobs to the San Antonio region, attributes the decline to the labor market settling.<hr style=\"border-top: black solid 1px;\" /><a href=\"https://sanantonioreport.org/san-antonio-texas-lost-2k-manufacturing-jobs/\">San Antonio has lost 2K manufacturing jobs since 2024. Industry experts say they aren&#8217;t too concerned.</a> was first posted on July 23, 2026 at 5:00 am.<br />&copy;2021 &quot;<a href=\"https://sanantonioreport.org\">San Antonio Report</a>&quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at <!--email_off-->hello@rivardreport.com<!--/email_off--><br />",
+      "topic": "business-jobs",
+      "url": "https://sanantonioreport.org/san-antonio-texas-lost-2k-manufacturing-jobs/",
+      "published_at": "2026-07-23T10:00:00+00:00"
+    },
+    {
+      "title": "Free Sounds of Downtown concert series kicks off at Travis Park",
+      "summary": "Free downtown summer concert series — a work-safe, fun local opener. You could open with: 'Have you caught any of the free Sounds of Downtown shows at Travis Park?'",
+      "description": "Live music, food trucks and free parking return to downtown San Antonio with a weekly summer concert series.",
+      "topic": "civic-events",
+      "url": "https://www.kens5.com/article/news/local/sounds-downtown-travis-park-centro-san-antonio-district1-sukh-kaur-live-music-food-trucks-free-concert-downtown-thursdays-summer/273-79e77772-e272-4310-bb1d-f200cfe24f24",
+      "published_at": "2026-07-23T12:50:17+00:00"
+    }
+  ],
+  "sports": [],
+  "you_should_know": [
+    {
+      "title": "Data centers emerge as flashpoint in Texas governor's race",
+      "summary": "Data centers becoming a flashpoint in the governor's race — political context landing on TX water/power/land. Political, so not a conversation starter; kept as context.",
+      "description": "Concerns over water, power and rural land are turning AI data centers into a major issue in Texas politics.",
+      "topic": "data-centers",
+      "url": "https://www.kens5.com/article/news/local/texas/data-centers-ai-greg-abbott-gina-hinojosa-rural-texas-water-electricity-power-grid-campaign-governor-election-infrastructure-development/273-912a31c5-9d2d-420f-a4e8-8e517f000a8c",
+      "published_at": "2026-07-23T11:49:21+00:00"
+    }
+  ]
+}

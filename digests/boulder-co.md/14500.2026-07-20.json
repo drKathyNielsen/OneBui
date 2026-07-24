@@ -1,0 +1,65 @@
+{
+  "metro": "Boulder, CO",
+  "date": "2026-07-20",
+  "are_you_ok": {
+    "title": "Denver hits 100-degree mark for first time in 2026",
+    "summary": "Denver hits 100 for first time in 2026 after 10 straight 90-degree days — diffuse heat effect over the metro, a genuine check-in on how people are coping.",
+    "description": "We've also been mired in a string of 90-degree days recently, hitting the mark 10 consecutive days.",
+    "topic": "heat",
+    "url": "https://www.9news.com/article/weather/weather-colorado/denver-colorado-weather-hot-temperatures-100-degrees/73-aabe5599-a775-42de-a96c-6b2dfeb7018a",
+    "published_at": "2026-07-20T21:50:32+00:00"
+  },
+  "conversation_starters": [
+    {
+      "title": "Airline to cut Denver flights to Ireland",
+      "summary": "Aer Lingus ending nonstop Dublin-Denver flights, cutting 500 jobs and 6% capacity — metro-prominent employer/airport news, widely noticed. You could open with: 'Did you catch that Aer Lingus is dropping the Denver-Dublin route?'",
+      "description": "Aer Lingus will end its nonstop flights from Dublin to Denver on Sept. 28 as part of a broader cut, impacting 500 jobs and reducing flight capacity by 6%.",
+      "topic": "business-jobs",
+      "url": "https://www.9news.com/article/travel/denver-international-airport/aer-lingus-ireland-denver-flights-ending/73-4e680f09-d887-4f21-ad8a-ab815b4c63fc",
+      "published_at": "2026-07-20T15:42:35+00:00"
+    },
+    {
+      "title": "Arizona man arrested for \"surfing\" naked on locomotive in Colorado",
+      "summary": "Quirky, harmless, novel local oddity — prime light conversation starter. You could open with: 'Did you see the guy who got arrested for surfing a train naked in Julesburg?'",
+      "description": "A naked 37-year-old man was provided an orange jumpsuit and jailed last week after he was spotted on top of a Union Pacific locomotive in Julesburg.",
+      "topic": "human-interest",
+      "url": "https://www.cbsnews.com/colorado/news/arizona-man-arrested-surfing-naked-locomotive-colorado/",
+      "published_at": "2026-07-20T22:29:32+00:00"
+    },
+    {
+      "title": "RTD to replace A Line rail service with bus shuttles Saturday",
+      "summary": "RTD replacing A Line rail with bus shuttles Saturday for maintenance — a single, bounded transit/commute change affecting DIA travelers; work-safe and locally useful. You could open with: 'Heads up if you're flying Saturday — the A Line's running bus shuttles for maintenance.'",
+      "description": "Commuters traveling to and from Denver International Airport on Saturday should plan for extra time as bus shuttles replace rail service for maintenance.",
+      "topic": "transportation",
+      "url": "https://www.9news.com/article/travel/rtd-replace-a-line-rail-service-bus-shuttles-saturday/73-6e984e9c-f38e-4454-b4f8-10579e8fc2f6",
+      "published_at": "2026-07-20T19:47:51+00:00"
+    }
+  ],
+  "sports": [],
+  "you_should_know": [
+    {
+      "title": "Neighbors push for accountability, transparency from Broomfield Police following shooting death of man in June",
+      "summary": "Neighbors pressing Broomfield PD for accountability after a June police shooting death — police-accountability dispute landing in-metro; unsafe opener, awareness context. You-should-know.",
+      "description": "Neighbors identified the victim as Morris Selden, describing him as a giant teddy bear who was beloved in their neighborhood.",
+      "topic": "policing",
+      "url": "https://www.9news.com/article/news/local/neighbors-push-for-accountability-transparency-from-broomfield-police-following-shooting-death-of-man/73-4a9eea0a-6b03-4834-9f4f-bd527c8800ed",
+      "published_at": "2026-07-20T00:00:42+00:00"
+    },
+    {
+      "title": "As Boulder’s power grid falters, Xcel begins major undergrounding projects",
+      "summary": "Xcel starting undergrounding projects amid a faltering Boulder grid to cut outages/wildfire risk — infrastructure affecting reliability in-metro; awareness context rather than a check-in or opener. Borderline; keep as you-should-know.",
+      "description": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"683\" src=\"https://i0.wp.com/boulderreportinglab.org/wp-content/uploads/2024/04/DSC00825-scaled.jpeg?fit=1024%2C683&amp;ssl=1\" width=\"1024\" /></figure>\n<p>Xcel is moving forward with projects along U.S. 36 and 75th Street while Boulder develops a broader strategy to reduce outages and wildfire risk.</p>\n<p>The post <a href=\"https://boulderreportinglab.org/2026/07/19/as-boulders-power-grid-falters-xcel-begins-major-undergrounding-projects/\">As Boulder&#8217;s power grid falters, Xcel begins major undergrounding projects</a> appeared first on <a href=\"https://boulderreportinglab.org\">The Boulder Reporting Lab</a>.</p>",
+      "topic": "transportation",
+      "url": "https://boulderreportinglab.org/2026/07/19/as-boulders-power-grid-falters-xcel-begins-major-undergrounding-projects/",
+      "published_at": "2026-07-20T04:42:48+00:00"
+    },
+    {
+      "title": "Feds indict nearly 100 alleged members of TdA gang for hacking bank ATMs nationwide, including Colorado",
+      "summary": "Federal indictment of ~100 alleged TdA gang members for ATM hacking nationwide, including Colorado — a systemic financial-crime outcome touching CO banks; awareness context, but a bounded set of specific defendants, not a personal check-in. You-should-know.",
+      "description": "The U.S. Department of Justice says a violent Venezuelan gang is responsible for stealing more than $6 million from American banks across the country.",
+      "topic": "violent-crime",
+      "url": "https://www.cbsnews.com/colorado/news/tda-gang-hacking-bank-atms-nebraska-colorado/",
+      "published_at": "2026-07-20T22:34:03+00:00"
+    }
+  ]
+}

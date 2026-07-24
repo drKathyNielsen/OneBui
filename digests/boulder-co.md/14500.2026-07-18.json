@@ -1,0 +1,48 @@
+{
+  "metro": "Boulder, CO",
+  "date": "2026-07-18",
+  "are_you_ok": {
+    "title": "Flight restrictions ordered over Aspen Acres Fire in southern Colorado, drone pilot facing charges",
+    "summary": "Wildfire in southern Colorado with flight restrictions — affects daily life in the area. Dedup with 34.",
+    "description": "",
+    "topic": "wildfire",
+    "url": "https://www.cbsnews.com/colorado/news/flight-restrictions-aspen-acres-fire-southern-colorado-drone-pilot-facing-charges/",
+    "published_at": "2026-07-18T21:13:00+00:00"
+  },
+  "conversation_starters": [],
+  "sports": [
+    {
+      "team": "Rockies",
+      "scores": [
+        "Rockies 10, Reds 3",
+        "Reds 7, Rockies 2"
+      ]
+    }
+  ],
+  "you_should_know": [
+    {
+      "title": "RTD budget proposals could eliminate most transit service in Broomfield",
+      "summary": "RTD proposal could eliminate most Broomfield transit — a bounded transit/commute change; keep as context for those affected. Borderline conversation starter but transit policy leans institutional.",
+      "description": "",
+      "topic": "transportation",
+      "url": "https://www.9news.com/article/news/local/rtd-budget-proposals-transit-service-broomfield-impact/73-6ddc20d2-0fa1-4c67-a10c-7a21d63bc944",
+      "published_at": "2026-07-18T01:01:19+00:00"
+    },
+    {
+      "title": "Injured protester shares story after shooting involving GEO ICE Aurora detention center employee",
+      "summary": "Shooting involving Aurora ICE detention center employee — part of the local ICE-enforcement climate. Unsafe opener; walk in aware. Dedup with 21, 25.",
+      "description": "",
+      "topic": "immigration-enforcement",
+      "url": "https://www.cbsnews.com/colorado/news/injured-protester-shares-story-shooting-geo-ice-aurora-detention-center/",
+      "published_at": "2026-07-18T22:54:00+00:00"
+    },
+    {
+      "title": "Colorado wildlife commission rejects ban on commercial fur sales after approving new trapping limits",
+      "summary": "State wildlife commission decision on fur sales/trapping — state-level government outcome landing on Colorado. Context, unsafe opener.",
+      "description": "",
+      "topic": "other",
+      "url": "https://www.9news.com/article/life/animals/colorado-wildlife-commission-rejects-ban-on-commercial-fur-sales-after-approving-new-trapping-limits/73-e7b75c28-4d05-4a3e-b1d2-2e8b8877a0b2",
+      "published_at": "2026-07-18T04:45:52+00:00"
+    }
+  ]
+}

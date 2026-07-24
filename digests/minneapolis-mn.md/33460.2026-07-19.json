@@ -1,0 +1,63 @@
+{
+  "metro": "Minneapolis-St. Paul-Bloomington, MN-WI",
+  "date": "2026-07-19",
+  "are_you_ok": {
+    "title": "9 injured in an overnight shooting outside Minneapolis nightclub",
+    "summary": "Mass shooting outside Minneapolis nightclub, 9 injured — major widely-known local event affecting the metro; a check-in impulse fits.",
+    "description": "",
+    "topic": "violent-crime",
+    "url": "https://www.kare11.com/article/news/local/9-injured-in-an-overnight-shooting-outside-minneapolis-nightclub/89-1dd76b52-79bf-4075-ae42-050645118a91",
+    "published_at": "2026-07-19T19:12:59+00:00"
+  },
+  "conversation_starters": [
+    {
+      "title": "Peruvian Festival to celebrate culture and heritage in Columbia Heights on July 26",
+      "summary": "Marquee cultural festival, metro-level prominence. You could open with: 'Did you hear Minnesota's biggest Peruvian festival is happening in Columbia Heights on July 26?'",
+      "description": "Minnesota's largest Peruvian festival is set to take place on July 26 in Columbia Heights, featuring cultural performances, live music, and cuisine.",
+      "topic": "civic-events",
+      "url": "https://www.kare11.com/article/news/local/peruvian-festival-to-celebrate-culture-and-heritage-in-columbia-heights-on-july-26-mn/89-857515bb-9c1a-4aa7-b80a-6d43828da534",
+      "published_at": "2026-07-19T21:32:12+00:00"
+    },
+    {
+      "title": "The 35th annual Powderhorn Art Fair returns August 1-2",
+      "summary": "Marquee local festival returning Aug 1-2. You could open with: 'Are you heading to the Powderhorn Art Fair this year?'",
+      "description": "",
+      "topic": "civic-events",
+      "url": "https://www.kare11.com/article/news/local/the-35th-annual-powderhorn-art-fair-returns-august-1-2/89-9dbbdc46-cd5d-4320-abba-ebfad0144a57",
+      "published_at": "2026-07-19T17:31:27+00:00"
+    }
+  ],
+  "sports": [
+    {
+      "team": "Twins",
+      "scores": [
+        "Cubs 10, Twins 1",
+        "Cubs 6, Twins 2"
+      ]
+    },
+    {
+      "team": "Lynx",
+      "scores": [
+        "Lynx 101, Fire 93"
+      ]
+    }
+  ],
+  "you_should_know": [
+    {
+      "title": "Minnesota DNR announces stricter burning restrictions amid worsening fire conditions",
+      "summary": "DNR stricter burning restrictions amid worsening fire conditions — official action on the fire situation; context worth walking in aware of.",
+      "description": "",
+      "topic": "wildfire",
+      "url": "https://www.kare11.com/article/news/local/minnesota-dnr-announces-stricter-burning-restrictions-amid-worsening-fire-conditions/89-407f0343-db7e-4e3a-816b-06f2546f3a51",
+      "published_at": "2026-07-19T18:44:58+00:00"
+    },
+    {
+      "title": "Mary Moriarty talks about latest developments in Minneapolis ICE shootings",
+      "summary": "Moriarty on Minneapolis ICE shooting developments — local ICE-enforcement climate and prosecutor response; context to walk in aware of.",
+      "description": "",
+      "topic": "immigration-enforcement",
+      "url": "https://www.cbsnews.com/minnesota/video/mary-moriarty-talks-about-latest-developments-in-minneapolis-ice-shootings/",
+      "published_at": "2026-07-19T15:47:00+00:00"
+    }
+  ]
+}

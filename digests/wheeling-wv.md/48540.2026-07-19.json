@@ -1,0 +1,31 @@
+{
+  "metro": "Wheeling, WV-OH",
+  "date": "2026-07-19",
+  "are_you_ok": {
+    "title": "Air Quality Alert Issued for West Virginia",
+    "summary": "Air quality alert for WV from wildfire smoke — affects broad local population, breathing/health. Groups with the Canadian smoke cluster.",
+    "description": "",
+    "topic": "air-quality",
+    "url": "https://www.wtrf.com/weather/code-orange-air-quality-alert-issued-for-northern-west-virginia/",
+    "published_at": "2026-07-19T19:23:00+00:00"
+  },
+  "conversation_starters": [],
+  "sports": [
+    {
+      "team": "OVAC All-Stars",
+      "scores": [
+        "Ohio 28, West Virginia 21 (OVAC All-Star)"
+      ]
+    }
+  ],
+  "you_should_know": [
+    {
+      "title": "City of Huntington’s $2.1 million contract with Flock Safety draws mixed reaction from officials",
+      "summary": "Huntington's $2.1M surveillance contract drawing mixed official reaction — institutional/political-institutional story landing locally; walk in aware, don't raise.",
+      "description": "",
+      "topic": "policing",
+      "url": "https://wvmetronews.com/2026/07/19/city-of-huntingtons-2-1-million-contract-with-flock-safety-draws-concern-from-cabell-county-officials/",
+      "published_at": "2026-07-19T12:04:59+00:00"
+    }
+  ]
+}

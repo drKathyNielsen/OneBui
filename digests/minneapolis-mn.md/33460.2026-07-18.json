@@ -1,0 +1,32 @@
+{
+  "metro": "Minneapolis-St. Paul-Bloomington, MN-WI",
+  "date": "2026-07-18",
+  "are_you_ok": {
+    "title": "Air quality alert issued for much of Minnesota as wildfire smoke pushes AQI into red category",
+    "summary": "Wildfire smoke pushing AQI into red across much of MN affects the broad local population's health/daily life — genuine check-in.",
+    "description": "",
+    "topic": "air-quality",
+    "url": "https://www.kare11.com/article/news/local/air-quality-alert-issued-for-much-of-minnesota-wildfire-smoke-pushes-aqi-into-red-category/89-d5f6673a-6112-4403-a3aa-b964786d9727",
+    "published_at": "2026-07-18T23:01:31+00:00"
+  },
+  "conversation_starters": [
+    {
+      "title": "Minneapolis Aquatennial kicks off 87th year with Model Sailboat Pond",
+      "summary": "Marquee Minneapolis civic festival (87th Aquatennial) kicking off — prime work-safe opener. You could open with: 'Did you catch that the Aquatennial's kicking off again this year?'",
+      "description": "",
+      "topic": "civic-events",
+      "url": "https://www.kare11.com/article/news/local/minneapolis-aquatennial-kicks-off-87th-year-with-model-sailboat-pond-mn/89-650686cc-a7a2-4db0-ae3c-81285d3ac104",
+      "published_at": "2026-07-18T22:34:18+00:00"
+    },
+    {
+      "title": "Wildfires, Boundary Waters closure hurt Ely-area businesses during peak season",
+      "summary": "Wildfire/BWCA closure hurting Ely peak-season businesses is a notable statewide-interest local condition story. You could open with: 'Have you been following how the Boundary Waters fires are hitting the Ely businesses up north?'",
+      "description": "",
+      "topic": "wildfire",
+      "url": "https://www.kare11.com/article/news/local/wildfires-boundary-waters-closure-hurt-ely-area-businesses-peak-season/89-70dd0c27-dbd6-4089-b1f9-f6fd4f6caa40",
+      "published_at": "2026-07-18T22:36:41+00:00"
+    }
+  ],
+  "sports": [],
+  "you_should_know": []
+}

@@ -1,0 +1,40 @@
+{
+  "metro": "San Antonio-New Braunfels, TX",
+  "date": "2026-07-18",
+  "are_you_ok": {
+    "title": "Mandatory evacuations leave people displaced in Crystal City after Nueces River rises",
+    "summary": "Mandatory evacuations displacing people in Crystal City — broad local safety/daily-life impact, genuine check-in.",
+    "description": "",
+    "topic": "flood",
+    "url": "https://www.kens5.com/article/news/local/texas/texas-crystal-city-mandatory-evacuations-people-displaced-nueces-river-rises/273-5e88af9e-1c0f-4a31-a8e9-4ccb0f5ee60f",
+    "published_at": "2026-07-18T01:16:57+00:00"
+  },
+  "conversation_starters": [
+    {
+      "title": "Medina Lake levels surge after heavy rains, bringing hope to businesses and visitors",
+      "summary": "Medina Lake levels surge, boon to businesses — positive local condition, work-safe. You could open with: 'Heard Medina Lake finally came up after the rains — good news for the folks out there.'",
+      "description": "",
+      "topic": "drought-water",
+      "url": "https://www.kens5.com/article/news/local/medina-lake-levels-surge-after-heavy-rains-bringing-hope-to-businesses-and-visitors/273-91dccff4-c8a0-4896-93c0-7084af156302",
+      "published_at": "2026-07-18T15:15:12+00:00"
+    },
+    {
+      "title": "San Antonio hospital sees CAR T-cell therapy surge for cancer patients. Researchers are trying to find out if it could be used to treat MS and lupus.",
+      "summary": "Local hospital's cutting-edge cancer therapy research surge — notable metro medical story, work-safe. You could open with: 'Saw a San Antonio hospital is expanding that CAR T-cell therapy into MS and lupus research — pretty remarkable.'",
+      "description": "",
+      "topic": "public-health",
+      "url": "https://sanantonioreport.org/san-antonio-car-t-cell-therapy-autoimmune-methodist-healthcare/",
+      "published_at": "2026-07-18T14:00:00+00:00"
+    },
+    {
+      "title": "Salvation Army to distribute free supplies Saturday as flood cleanup begins in Kerrville",
+      "summary": "Relief effort (free supplies) tied to major local flooding — positive/mitigation framing makes it a conversation starter, not a check-in. You could open with: 'Did you hear the Salvation Army is handing out free supplies in Kerrville this weekend for the flood cleanup?'",
+      "description": "",
+      "topic": "flood",
+      "url": "https://www.kens5.com/article/news/local/texas/kerrville-flood-help-supplies-distribution-kroc-center-salvation-army-saturday-texas/273-02d15208-384d-4ed5-9413-102cf6ab0de3",
+      "published_at": "2026-07-18T03:04:05+00:00"
+    }
+  ],
+  "sports": [],
+  "you_should_know": []
+}

@@ -1,0 +1,65 @@
+{
+  "metro": "Boulder, CO",
+  "date": "2026-07-21",
+  "are_you_ok": {
+    "title": "Platte River Power Authority issues energy emergency alert through 9 p.m. tonight",
+    "summary": "Energy emergency alert affecting multiple Colorado towns amid heat, broad local impact.",
+    "description": "Customers within Estes Park, Fort Collins, Longmont and Loveland are asked to reduce their use of non-critical appliances amid widespread high temperatures.",
+    "topic": "heat",
+    "url": "https://www.9news.com/article/news/local/platte-river-power-authority-issues-energy-emergency-alert-through-9-pm-tonight/73-8bd3b55e-438a-4db6-88f3-8b62f197e8a9",
+    "published_at": "2026-07-21T00:40:48+00:00"
+  },
+  "conversation_starters": [
+    {
+      "title": "5K on Denver airport runway sells out in 6 hours",
+      "summary": "Novel sold-out 5K on the Denver airport runway — fun, work-safe local oddity. You could open with: 'Did you hear the 5K on the DEN runway sold out in six hours?'",
+      "description": "Runners can experience a 5K on a Denver airport runway as the Denver Colfax Marathon brings back the sold-out event.",
+      "topic": "civic-events",
+      "url": "https://www.9news.com/article/life/style/colorado-guide/5k-race-on-runway-denver-airport/73-f3bc2c62-7cbd-4f9d-899e-f9dc443ec2f9",
+      "published_at": "2026-07-21T17:23:26+00:00"
+    },
+    {
+      "title": "Long line of supporters in Colorado honor fallen firefighter Nicholas Dale as procession carries him across state",
+      "summary": "Statewide procession honoring fallen firefighting pilot Nicholas Dale — widely-known local memorial event, work-safe. You could open with: 'Did you see the crowds lining I-70 for the fallen firefighter pilot?'",
+      "description": "People lined Interstate 70 and highways across Colorado to honor fallen firefighter pilot Nicholas Dale as his body was transported from Montrose to Denver before returning home to Canada.",
+      "topic": "human-interest",
+      "url": "https://www.cbsnews.com/colorado/news/firefighter-pilot-nicholas-dale-colorado-body-supporters/",
+      "published_at": "2026-07-21T02:21:22+00:00"
+    },
+    {
+      "title": "WATCH: Mountain lion family walks together in Colorado",
+      "summary": "Rare security-cam footage of five mountain lions — quirky, fun local oddity, work-safe. You could open with: 'Did you see the video of the five mountain lions caught on a security cam?'",
+      "description": "A homeowner's security video in Colorado captured a rare sight of five mountain lions together, showcasing the elusive creatures' fascinating yet solitary behavior.",
+      "topic": "human-interest",
+      "url": "https://www.9news.com/article/life/style/colorado-guide/mountain-lion-family-pack-colorado/73-0d6a7f66-a9e1-4554-984c-702ab220f95c",
+      "published_at": "2026-07-21T13:36:49+00:00"
+    }
+  ],
+  "sports": [],
+  "you_should_know": [
+    {
+      "title": "Colorado heat causes Interstate 70 truck breakdowns in the mountains",
+      "summary": "Acute heat impact on major highway, worth knowing about.",
+      "description": "Triple-digit temperatures caused overheating vehicles and traffic headaches on Interstate 70 Monday.",
+      "topic": "heat",
+      "url": "https://www.cbsnews.com/colorado/news/colorado-heat-interstate-70-truck-breakdowns-mountains/",
+      "published_at": "2026-07-21T04:38:25+00:00"
+    },
+    {
+      "title": "Potential changes to nightclub licensing postponed after early morning club shooting",
+      "summary": "Denver council postpones nightclub 4 a.m. licensing changes after the club shooting — metro-wide public-safety policy context tied to a major local event.",
+      "description": "Denver city council is considering allowing clubs to stay open until 4 a.m., but with other public safety requirements.",
+      "topic": "policing",
+      "url": "https://www.9news.com/article/news/latest-news-ott/nightclub-licensing-changes-postponed-after-early-morning-club-shooting/73-544218a1-ee13-4156-b88a-ce4b94f01ade",
+      "published_at": "2026-07-21T01:34:45+00:00"
+    },
+    {
+      "title": "Medical advocate raises alarm about conditions inside of ICE detention cells in Aurora facility",
+      "summary": "ICE detention conditions concern; context reader should know.",
+      "description": "Some immigrant advocacy groups say they are hearing from detainees that the cells don't have cooling systems or access to clean water, and that the heat inside the cells is extreme.",
+      "topic": "immigration-enforcement",
+      "url": "https://www.cbsnews.com/colorado/video/medical-advocate-raises-alarm-about-conditions-inside-of-ice-detention-cells-in-aurora-facility/",
+      "published_at": "2026-07-21T04:22:00+00:00"
+    }
+  ]
+}

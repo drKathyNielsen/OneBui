@@ -1,0 +1,65 @@
+{
+  "metro": "Boulder, CO",
+  "date": "2026-07-23",
+  "are_you_ok": {
+    "title": "1.6 million eggs recalled at Kroger and other stores over salmonella risk, FDA says",
+    "summary": "Systemic food recall affecting six states including likely local grocery buyers; check-in worthy.",
+    "description": "The recall affects white-shell and cage-free eggs sold under multiple grocery brands in six states. No illnesses have been reported.",
+    "topic": "public-health",
+    "url": "https://www.cbsnews.com/colorado/news/egg-recall-salmonella-midwest-poultry-kroger/",
+    "published_at": "2026-07-23T14:39:56+00:00"
+  },
+  "conversation_starters": [
+    {
+      "title": "More storms target Colorado Thursday with heavy rain and flash flood threat before weekend heat retu",
+      "summary": "Local storm/flash flood forecast, good opener. You could open with: 'Did you see the flash flood warnings for tonight before the heat comes back?'",
+      "description": "Watch meteorologist Callie Zanandrie's forecast.",
+      "topic": "severe-weather",
+      "url": "https://www.cbsnews.com/colorado/video/more-storms-target-colorado-thursday-with-heavy-rain-and-flash-flood-threat-before-weekend-heat-retu/",
+      "published_at": "2026-07-23T14:07:00+00:00"
+    },
+    {
+      "title": "I-70 back open in western Colorado after large mudslides prompted closure",
+      "summary": "Major highway closure/reopening due to mudslides, notable local infrastructure event. You could open with: 'Did you hear I-70 finally reopened after that mudslide near Silt?'",
+      "description": "The highway had been fully closed since Monday evening between Silt and New Castle due to mud and debris covering the lanes.",
+      "topic": "transportation",
+      "url": "https://www.9news.com/article/traffic/mudslide-closes-interstate-70/73-c2404566-328f-4a8f-87ec-08a2a949e62d",
+      "published_at": "2026-07-23T04:26:04+00:00"
+    },
+    {
+      "title": "Castle Rock implements Stage 2 drought restrictions as Colorado residents fear for their plants",
+      "summary": "Local drought restriction affecting residents. You could open with: 'Did you hear Castle Rock just went to Stage 2 water restrictions?'",
+      "description": "The Town of Castle Rock has implemented Stage 2 drought restrictions in response to sustained high water demand and low water supply.",
+      "topic": "drought-water",
+      "url": "https://www.cbsnews.com/colorado/news/castle-rock-implements-stage-2-drought-restrictions/",
+      "published_at": "2026-07-23T04:27:15+00:00"
+    }
+  ],
+  "sports": [],
+  "you_should_know": [
+    {
+      "title": "Licenses suspended at Denver nightclub where 9 people shot",
+      "summary": "Mass shooting (9 shot) at a Denver nightclub with city licensing action — high-impact, widely-known local event. Outcome (license suspension/closure). You should know.",
+      "description": "Denver Department of Licensing and Consumer Protection documents allege multiple instances of violence and licensing issues at the Ultra Lounge East nightclub.",
+      "topic": "violent-crime",
+      "url": "https://www.9news.com/article/news/crime/denver-nightclub-license-suspended-shooting/73-57591559-9169-4074-97bb-9c63fc1c3fde",
+      "published_at": "2026-07-23T04:37:16+00:00"
+    },
+    {
+      "title": "Family briefly returns to Bishop Castle before new mandatory wildfire evacuations",
+      "summary": "Active wildfire forcing mandatory evacuations near a well-known CO landmark. Point hazard in-region; awareness-worthy. You should know.",
+      "description": "The Bishop family was able to briefly return to Bishop Castle on Monday, before new mandatory evacuations went into effect. The castle remains closed.",
+      "topic": "wildfire",
+      "url": "https://www.9news.com/article/news/local/wildfire/returns-bishop-castle-new-wildfire-evacuations/73-9d20ad38-a656-4a02-a2c0-7ae4506e7e75",
+      "published_at": "2026-07-23T01:11:16+00:00"
+    },
+    {
+      "title": "Fort Collins pays $500K after officer arrested sober driver for DUI",
+      "summary": "$500K payout over wrongful DUI arrests by a CO officer — police accountability outcome, notable statewide. You should know.",
+      "description": "An internal investigation found in at least nine instances, no alcohol or drugs were found in blood tests for people then-Officer Jason Haferman arrested for DUI.",
+      "topic": "policing",
+      "url": "https://www.9news.com/article/news/local/colorado-news/fort-collins-pays-500k-after-officer-arrested-sober-driver/73-c7bf2f8d-6c10-4c02-9290-a3f831a21db5",
+      "published_at": "2026-07-23T01:12:25+00:00"
+    }
+  ]
+}

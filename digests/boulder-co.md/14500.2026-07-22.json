@@ -1,0 +1,58 @@
+{
+  "metro": "Boulder, CO",
+  "date": "2026-07-22",
+  "are_you_ok": null,
+  "conversation_starters": [
+    {
+      "title": "New wolf pack confirmed in Colorado: Piney Ridge Pack",
+      "summary": "New confirmed wolf pack — CO wolf reintroduction is a live statewide talking point. You could open with: 'Did you see they confirmed a new wolf pack — the Piney Ridge Pack?'",
+      "description": "Colorado Parks and Wildfire confirms four successful wolf groups in the state.",
+      "topic": "human-interest",
+      "url": "https://www.9news.com/article/news/local/colorado-wolves/new-wolf-pack-colorado-piney-ridge-pack/73-84eaac10-a825-4003-bf21-eb5729b45b7e",
+      "published_at": "2026-07-22T23:06:00+00:00"
+    },
+    {
+      "title": "Denver Summit FC releases updated stadium renderings",
+      "summary": "Denver Summit FC (NWSL) new stadium renderings — major local development project, metro-prominent. You could open with: 'Did you see the updated renderings for the Summit FC stadium at Santa Fe Yards?'",
+      "description": "Denver Summit FC unveils updated plans for its new stadium at Santa Fe Yards, featuring larger social spaces for fans, following community feedback.",
+      "topic": "sports",
+      "url": "https://www.9news.com/article/sports/soccer/denver-summit/denver-summit-fc-updated-stadium-renderings/73-c7195ba1-1756-40da-a76d-bdcfd5c456d7",
+      "published_at": "2026-07-22T15:13:30+00:00"
+    },
+    {
+      "title": "Denver sees explosion of parking court cases after dispute office cuts",
+      "summary": "Surge in Denver parking-court cases after office cuts — affects local drivers' daily hassle, work-safe. You could open with: 'Have you gotten caught up in the Denver parking-court backlog?'",
+      "description": "Some drivers schedule court hearings only to have them cancelled in the days and weeks before because right of way agents can't appear in court.",
+      "topic": "transportation",
+      "url": "https://www.9news.com/article/money/consumer/steve-on-your-side/denver-parking-court-dispute-office-cuts/73-378dfa6e-a5af-4aab-a085-60ced24a0149",
+      "published_at": "2026-07-22T23:53:07+00:00"
+    }
+  ],
+  "sports": [],
+  "you_should_know": [
+    {
+      "title": "These are the wildfires burning in Colorado",
+      "summary": "Statewide wildfire roundup, awareness context for the season.",
+      "description": "Here's the latest on the fires burning across the state.",
+      "topic": "wildfire",
+      "url": "https://www.9news.com/article/news/local/wildfire/wildfires-colorado-july-2026/73-5addb18e-df03-4ac1-a60a-53a7bae3f356",
+      "published_at": "2026-07-22T23:08:44+00:00"
+    },
+    {
+      "title": "Aurora asked everyone to cut back water usage. The city says its largest user has refused",
+      "summary": "City water-cutback request and largest user refusing — water-supply condition affecting Aurora residents. Institutional dispute over conservation. You should walk in aware of the local water situation.",
+      "description": "The Aurora City Council met with water officials Monday to discuss what it can do about Niagara Bottling and its usage.",
+      "topic": "drought-water",
+      "url": "https://www.9news.com/article/news/local/aurora-asked-everyone-to-cut-back-water-usage-the-city-says-its-largest-user-has-refused/73-cde4e6e1-0c51-4052-88f5-bfe507ef777c",
+      "published_at": "2026-07-22T12:50:21+00:00"
+    },
+    {
+      "title": "Denver Mayor talks changes to childcare licensing and affordable housing in State of the City address",
+      "summary": "Denver mayor State of the City — affordable housing and childcare licensing plans, metro-wide policy context. You should walk in aware.",
+      "description": "Mayor Mike Johnston introduced plans for a citywide listening tour and thousands of affordable housing units in his 2026 State of the City speech.",
+      "topic": "housing",
+      "url": "https://www.9news.com/article/news/local/local-politics/denver-mayor-state-of-the-city-address-2026/73-81c99c36-a124-4fe8-adef-75acdbc9078a",
+      "published_at": "2026-07-22T04:44:47+00:00"
+    }
+  ]
+}

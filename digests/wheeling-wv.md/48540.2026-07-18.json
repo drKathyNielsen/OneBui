@@ -1,0 +1,26 @@
+{
+  "metro": "Wheeling, WV-OH",
+  "date": "2026-07-18",
+  "are_you_ok": null,
+  "conversation_starters": [
+    {
+      "title": "New elk calves starting to appear on Tomblin WMA",
+      "summary": "New elk calves on Tomblin WMA — light, novel, positive local nature story; safe fun opener. You could open with: 'Did you see the new elk calves showing up on Tomblin WMA?'",
+      "description": "",
+      "topic": "human-interest",
+      "url": "https://wvmetronews.com/2026/07/18/new-elk-calves-starting-to-appear-on-tomblin-wma/",
+      "published_at": "2026-07-18T09:43:02+00:00"
+    }
+  ],
+  "sports": [],
+  "you_should_know": [
+    {
+      "title": "Wheeling residents gather in protest of proposed data centers",
+      "summary": "Wheeling residents protesting proposed data centers — local development/institutional dispute landing here; walk in aware.",
+      "description": "",
+      "topic": "data-centers",
+      "url": "https://www.wtrf.com/news/wheeling-residents-gather-in-protest-of-proposed-data-centers/",
+      "published_at": "2026-07-18T21:57:36+00:00"
+    }
+  ]
+}

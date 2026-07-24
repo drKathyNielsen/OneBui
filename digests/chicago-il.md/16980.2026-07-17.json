@@ -1,0 +1,49 @@
+{
+  "metro": "Chicago-Naperville-Elgin, IL-IN-WI",
+  "date": "2026-07-17",
+  "are_you_ok": {
+    "title": "Air quality alert for Chicago, Day 2, as wildfire smoke from Canada shuts down beaches, venues",
+    "summary": "Wildfire smoke air quality alert affecting all of Chicago, Day 2, beaches/venues closed — broad daily-life impact. Prefer local outlet.",
+    "description": "",
+    "topic": "air-quality",
+    "url": "https://chicago.suntimes.com/weather/2026/07/17/air-quality-alert-extends-into-day-two-as-wildfire-smoke-from-canada-shuts-down-beaches-venues-citywide",
+    "published_at": "2026-07-17T21:40:00+00:00"
+  },
+  "conversation_starters": [
+    {
+      "title": "West Loop's Fairlife pauses U.S. production after cyberattack",
+      "summary": "Major local employer (West Loop Fairlife) pauses US production after cyberattack — metro-prominent business news. You could open with: 'Did you see Fairlife had to pause production after that cyberattack?'",
+      "description": "",
+      "topic": "business-jobs",
+      "url": "https://chicago.suntimes.com/technology/2026/07/17/west-loop-fairlife-coca-cola-pauses-us-production-cyberattack",
+      "published_at": "2026-07-17T21:23:18+00:00"
+    },
+    {
+      "title": "117th NAACP National Convention kicks off in Chicago",
+      "summary": "Marquee national convention hosted in Chicago; widely-known civic event, work-safe. You could open with: 'I heard the NAACP national convention is in town this week — big deal for the city.'",
+      "description": "",
+      "topic": "civic-events",
+      "url": "https://wgntv.com/news/chicago-news/naacp-national-convention-kicks-off-in-chicago/",
+      "published_at": "2026-07-17T23:00:22+00:00"
+    },
+    {
+      "title": "Faygo, Puppies — And Tom Skilling? Check Out William Shatner’s Riot Fest Rider",
+      "summary": "Fun, novel local story tied to marquee Riot Fest — light work-safe opener. You could open with: 'Did you see William Shatner's Riot Fest rider asks for Faygo and Tom Skilling?'",
+      "description": "",
+      "topic": "civic-events",
+      "url": "https://blockclubchicago.org/2026/07/17/check-out-william-shatners-unhinged-riot-fest-rider/",
+      "published_at": "2026-07-17T15:45:00+00:00"
+    }
+  ],
+  "sports": [],
+  "you_should_know": [
+    {
+      "title": "At council hearing, Chicago police say they’ve implemented mayor’s order to target ICE — 6 months later",
+      "summary": "Local ICE-enforcement climate / police policy landing on Chicago; institutional context to walk in aware of, not an opener.",
+      "description": "",
+      "topic": "immigration-enforcement",
+      "url": "https://chicago.suntimes.com/city-hall/2026/07/17/ice-midway-blitz-chicago-police-brandon-johnson",
+      "published_at": "2026-07-17T22:33:51+00:00"
+    }
+  ]
+}

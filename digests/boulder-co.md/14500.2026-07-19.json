@@ -1,0 +1,48 @@
+{
+  "metro": "Boulder, CO",
+  "date": "2026-07-19",
+  "are_you_ok": {
+    "title": "Weather Impact Alert: Heat advisory issued for Front Range and plains",
+    "summary": "Heat advisory for Front Range/plains — broad local population, safety impact.",
+    "description": "",
+    "topic": "heat",
+    "url": "https://www.9news.com/article/weather/weather-impact/weather-impact-alert-heat-advisory-front-range-plains/73-b33b0965-09b0-446a-9405-f3b9d6d6f272",
+    "published_at": "2026-07-19T18:37:36+00:00"
+  },
+  "conversation_starters": [
+    {
+      "title": "Denver to open cooling centers as intense heat continues",
+      "summary": "Cooling centers opening is mitigation/benefit tied to heat — positive framing, so conversation starter not check-in. You could open with: 'Denver's opening cooling centers with this heat — have you been staying cool?'",
+      "description": "",
+      "topic": "heat",
+      "url": "https://www.cbsnews.com/colorado/video/denver-to-open-cooling-centers-as-intense-heat-continues/",
+      "published_at": "2026-07-19T00:04:00+00:00"
+    },
+    {
+      "title": "Green Ridge Fire south of Steamboat Springs, Colorado reaches 100% containment",
+      "summary": "Local Colorado wildfire reaching 100% containment — positive resolution, work-safe. You could open with: 'Good news that the Green Ridge Fire near Steamboat is fully contained now — were you following that at all?'",
+      "description": "",
+      "topic": "wildfire",
+      "url": "https://www.cbsnews.com/colorado/news/green-ridge-fire-colorado-100-percent-containment/",
+      "published_at": "2026-07-19T19:36:00+00:00"
+    }
+  ],
+  "sports": [
+    {
+      "team": "Rockies",
+      "scores": [
+        "Reds 9, Rockies 6"
+      ]
+    }
+  ],
+  "you_should_know": [
+    {
+      "title": "Employee of Aurora ICE Processing Center arrested, accused of shooting Colorado protester",
+      "summary": "Aurora ICE facility employee accused of shooting a protester — partisan, politically charged ICE-enforcement story landing locally. Unsafe opener; walk in aware.",
+      "description": "",
+      "topic": "immigration-enforcement",
+      "url": "https://www.cbsnews.com/colorado/news/employee-who-works-at-aurora-ice-processing-center-arrested-accused-of-shooting-and-injuring-colorado-protester/",
+      "published_at": "2026-07-19T02:07:36+00:00"
+    }
+  ]
+}

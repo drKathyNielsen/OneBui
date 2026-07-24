@@ -1,0 +1,70 @@
+{
+  "metro": "Minneapolis-St. Paul-Bloomington, MN-WI",
+  "date": "2026-07-21",
+  "are_you_ok": {
+    "title": "Minneapolis mass shootings: How MPD is responding to weekend violence",
+    "summary": "Weekend mass shootings in Minneapolis affecting broad public safety; genuine check-in territory for metro residents.",
+    "description": "Minneapolis police will make changes in both Uptown and Stevens Square after two mass shootings on Sunday. Here's what Chief Bill Peterson says the department is doing and why East 19th Street and Nicollet has been a problem.",
+    "topic": "violent-crime",
+    "url": "https://www.fox9.com/news/minneapolis-mass-shootings-how-mpd-is-responding-weekend-violence",
+    "published_at": "2026-07-21T14:06:02+00:00"
+  },
+  "conversation_starters": [
+    {
+      "title": "Minnesota State Fair new beers, drinks for 2026",
+      "summary": "Marquee annual civic event announcement. You could open with: Did you see the new State Fair food and drinks list for this year?",
+      "description": "The Minnesota State Fair announced 75 new specialty beers and drinks exclusive to this year's event.",
+      "topic": "civic-events",
+      "url": "https://www.fox9.com/news/minnesota-state-fair-new-beers-drinks-2026",
+      "published_at": "2026-07-21T13:32:10+00:00"
+    },
+    {
+      "title": "Minnesota weather: A break in the heat Tuesday as comfortable sunshine returns",
+      "summary": "Break in prolonged heat wave — a just-happened weather event people are talking about. You could open with: 'Nice to finally get a break from that heat — did you get outside this weekend?'",
+      "description": "After a prolonged heat wave, Minnesotans can look forward to a more comfortable Tuesday with plenty of sunshine and highs in the 70s and 80s.",
+      "topic": "heat",
+      "url": "https://www.fox9.com/weather/minnesota-weather-forecast-july-21-2026",
+      "published_at": "2026-07-21T11:15:09+00:00"
+    }
+  ],
+  "sports": [
+    {
+      "team": "Lynx",
+      "scores": [
+        "Lynx 105, Storm 102"
+      ]
+    },
+    {
+      "team": "Twins",
+      "scores": [
+        "Guardians 13, Twins 4"
+      ]
+    }
+  ],
+  "you_should_know": [
+    {
+      "title": "Eagan recycling plant sued over children's alleged lead exposure",
+      "summary": "Lawsuit over lead exposure at Eagan recycling plant — local health/pollution story, awareness context. Bounded set of affected (workers' kids), so not are-you-ok.",
+      "description": "There are new accusations surrounding pollution problems at a battery recycling plant in Minnesota. An attorney says lead migration from Gopher Resource in Eagan poisoned some kids connected to workers.",
+      "topic": "public-health",
+      "url": "https://www.cbsnews.com/minnesota/news/eagan-recycling-plant-lawsuit-kids-lead-exposure/",
+      "published_at": "2026-07-21T04:06:06+00:00"
+    },
+    {
+      "title": "MN Education Department announces 45 school districts statewide will test a new kindergarten assessment this school year",
+      "summary": "State Education Department statewide kindergarten assessment rollout — state-level school policy landing here. Kept as context.",
+      "description": "The assessment will be implemented at all school districts statewide in 2027.",
+      "topic": "education",
+      "url": "https://www.kare11.com/article/news/education/minnesota-education-department-45-school-districts-statewide-test-new-kindergarten-assessment/89-7f35d2ab-420b-4161-bd48-92d587130b3f",
+      "published_at": "2026-07-21T23:20:41+00:00"
+    },
+    {
+      "title": "FBI agents told to stand down on assault probes involving ICE officers; DOJ denies policy shift",
+      "summary": "National ICE-oversight policy story; part of enforcement climate context. Not a local check-in.",
+      "description": "Homeland Security Investigations is an arm of ICE, meaning the immigration enforcement agency would effectively be investigating incidents involving its own agents.",
+      "topic": "immigration-enforcement",
+      "url": "https://www.cbsnews.com/minnesota/news/fbi-immigration-agent-cases-deferred-hsi/",
+      "published_at": "2026-07-21T03:00:00+00:00"
+    }
+  ]
+}

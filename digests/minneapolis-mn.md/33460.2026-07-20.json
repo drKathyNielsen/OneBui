@@ -1,0 +1,33 @@
+{
+  "metro": "Minneapolis-St. Paul-Bloomington, MN-WI",
+  "date": "2026-07-20",
+  "are_you_ok": {
+    "title": "Two mass shootings rock Minneapolis in 20 hours, 14 shot and 1 dead",
+    "summary": "Major violent crime event affecting broad local population's sense of safety, discrete acute incident.",
+    "description": "A violent Sunday in Minneapolis left fourteen people wounded and one man dead after two mass shootings just hours and blocks apart.",
+    "topic": "violent-crime",
+    "url": "https://www.fox9.com/news/two-mass-shootings-rock-minneapolis-20-hours-14-hurt-1-dead",
+    "published_at": "2026-07-20T23:13:19+00:00"
+  },
+  "conversation_starters": [
+    {
+      "title": "Twin Cities gas prices rise to $3.93/gallon, could hit $4 within days",
+      "summary": "Twin Cities gas prices nearing $4 — local everyday-cost story people notice. You could open with: 'Gas is creeping toward $4 again — you commute far?'",
+      "description": "Gas prices are climbing again in the Twin Cities, and drivers are feeling the pinch at the pump.",
+      "topic": "other",
+      "url": "https://www.fox9.com/news/twin-cities-gas-prices-rise-3-93-gallon-could-hit-4-within-days",
+      "published_at": "2026-07-20T20:29:52+00:00"
+    }
+  ],
+  "sports": [],
+  "you_should_know": [
+    {
+      "title": "Fire crews detect 3 new wildfires in northern MN; Boundary Waters remain closed",
+      "summary": "Ongoing wildfire condition affecting northern MN, Boundary Waters closure - regional impact.",
+      "description": "According to the U.S. Forest Service, more than 63,000 acres have burned in northern Minnesota, with another 8,400 crossing over into Canada.",
+      "topic": "wildfire",
+      "url": "https://www.kare11.com/article/news/local/fire-crews-detect-3-new-wildfires-in-northern-minnesota-boundary-waters-remain-closed/89-1b896812-5a38-450b-983c-0fd6b6e850cd",
+      "published_at": "2026-07-20T22:39:03+00:00"
+    }
+  ]
+}

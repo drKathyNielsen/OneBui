@@ -1,0 +1,72 @@
+{
+  "metro": "Minneapolis-St. Paul-Bloomington, MN-WI",
+  "date": "2026-07-23",
+  "are_you_ok": {
+    "title": "1.5 million eggs sold at Kroger, Brookshire and smaller stores recalled",
+    "summary": "Systemic effect recall (salmonella eggs) reaching wherever sold, likely includes this metro.",
+    "description": "Salmonella fears spurred the recall of over 1.5 million eggs that were sold in multiple states under several different brand names.",
+    "topic": "public-health",
+    "url": "https://www.fox9.com/news/1-5-million-eggs-sold-kroger-brookshire-smaller-stores-recalled",
+    "published_at": "2026-07-23T03:06:23+00:00"
+  },
+  "conversation_starters": [
+    {
+      "title": "Loring Park Art Festival brings 165 artists, live music, and fashion shows to Minneapolis this weeke",
+      "summary": "Marquee Minneapolis festival, good conversation starter. You could open with: 'Are you heading to the Loring Park Art Festival this weekend?'",
+      "description": "The two-day outdoor festival features visual artists, live music, a culinary market, and a fashion show both days at 1:30 p.m.",
+      "topic": "civic-events",
+      "url": "https://www.cbsnews.com/minnesota/video/loring-park-art-festival-brings-165-artists-live-music-and-fashion-shows-to-minneapolis-this-weeke/",
+      "published_at": "2026-07-23T15:24:00+00:00"
+    },
+    {
+      "title": "New report shows crime trending down in Minneapolis",
+      "summary": "Metro-wide crime trend (homicide down 30%) — widely known, positive, work-safe. You could open with: 'Did you see crime's actually trending down in Minneapolis this year?'",
+      "description": "The homicide rate has lowered 30% in Minneapolis in 2026 as compared to the previous year.",
+      "topic": "violent-crime",
+      "url": "https://www.kare11.com/article/news/local/new-report-shows-crime-trending-down-in-minneapolis/89-70bec431-526c-4894-b613-c760962daf02",
+      "published_at": "2026-07-23T11:41:00+00:00"
+    },
+    {
+      "title": "This Lake Superior island seen in Split Rock Lighthouse photos now has a following of its own — and you can walk to it",
+      "summary": "Charming local-lore story about a Lake Superior island; fun, novel, work-safe. You could open with: 'Did you hear about that little island that keeps showing up in Split Rock Lighthouse photos?'",
+      "description": "Thousands of pictures of Split Rock Lighthouse​ are taken each year. And oftentimes a little island appears in those photos. Ellingsen Island has developed a following of its own.",
+      "topic": "human-interest",
+      "url": "https://www.cbsnews.com/minnesota/news/ellingsen-island-lake-superior-finding-minnesota/",
+      "published_at": "2026-07-23T03:37:26+00:00"
+    }
+  ],
+  "sports": [
+    {
+      "team": "Minnesota United",
+      "scores": [
+        "Sporting KC 2, Minnesota United 1"
+      ]
+    }
+  ],
+  "you_should_know": [
+    {
+      "title": "Live updates: Vance Boelter to be sentenced for MN lawmakers shootings",
+      "summary": "Major local case outcome, sentencing of lawmaker shooter - high impact current event.",
+      "description": "Vance Boelter will appear in court to face sentencing on Thursday for the shootings of two Minnesota lawmakers last year.",
+      "topic": "violent-crime",
+      "url": "https://www.fox9.com/live-blog/news/live-updates-vance-boelter-be-sentenced-mn-lawmakers-shootings",
+      "published_at": "2026-07-23T15:48:52+00:00"
+    },
+    {
+      "title": "St. Paul leasing office shooting victims remembered for kindness, friendship and devotion to family",
+      "summary": "Court appearance for St. Paul leasing-office mass shooting; a widely-known local killing with victims remembered. Outcome-oriented, worth walking in aware of, not a safe opener.",
+      "description": "The man charged in the killings made his first court appearance Wednesday. His bail remains set at $10 million.",
+      "topic": "violent-crime",
+      "url": "https://www.kare11.com/article/news/local/st-paul-leasing-office-shooting-victims-remembered-kindness-friendship-devotion-family/89-982485e4-8b10-4bb2-9f11-621e01abdb3c",
+      "published_at": "2026-07-23T02:37:25+00:00"
+    },
+    {
+      "title": "St. Paul authorizes $1 million for expanding shelters ahead of planned encampment closures",
+      "summary": "St. Paul City Council funds shelter expansion ahead of encampment closures — a local government outcome on homelessness landing here. Institutional context, not a check-in or safe opener.",
+      "description": "After officials in Minnesota's capital city announced they would shut down encampments​ for those experiencing homelessness, the City Council approved more than $1 million to expand capacity at local shelters.",
+      "topic": "housing",
+      "url": "https://www.cbsnews.com/minnesota/news/st-paul-authorizes-1-million-for-shelters-ahead-of-encampment-closures/",
+      "published_at": "2026-07-23T12:47:26+00:00"
+    }
+  ]
+}

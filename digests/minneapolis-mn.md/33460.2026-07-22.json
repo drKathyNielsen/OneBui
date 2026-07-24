@@ -1,0 +1,65 @@
+{
+  "metro": "Minneapolis-St. Paul-Bloomington, MN-WI",
+  "date": "2026-07-22",
+  "are_you_ok": null,
+  "conversation_starters": [
+    {
+      "title": "St. Paul's Dragon Divas: How dragon boat racing became medicine for breast cancer survivors",
+      "summary": "Uplifting local breast-cancer-survivor dragon boat team heading to international competition; work-safe and heartwarming. You could open with: 'Did you hear about the St. Paul dragon boat team of breast cancer survivors competing internationally?'",
+      "description": "A local dragon boat racing team is making waves as they get ready to compete on the international stage.",
+      "topic": "human-interest",
+      "url": "https://www.fox9.com/news/st-pauls-dragon-divas-racing-became-medicine-breast-cancer-survivors-july-2026",
+      "published_at": "2026-07-22T21:38:05+00:00"
+    },
+    {
+      "title": "Summer GDQ: The fundraiser that keeps on giving (and keeps on coming back)",
+      "summary": "Games Done Quick returned to Minneapolis for 10th year, raised $2.4M for charity — notable recurring metro event, work-safe. You could open with: 'Did you catch that gaming marathon in Minneapolis raised $2.4 million for charity?'",
+      "description": "The video game fundraiser for Doctors Without Borders USA returned to Minneapolis for the 10th year, raising $2.4 million dollars.",
+      "topic": "civic-events",
+      "url": "https://www.kare11.com/article/news/local/kare11-extras/summer-gdq-the-fundraiser-that-keeps-on-giving-and-keeps-on-coming-back-mn/89-aa1557bf-0d32-4a24-bb90-ef4a1e3c42ce",
+      "published_at": "2026-07-22T03:24:15+00:00"
+    },
+    {
+      "title": "As wildfires burn in northern Minnesota, one expert says there's reason for our changing weather",
+      "summary": "Northern MN wildfires — distant point hazards up-state, not a metro check-in, but conversation-worthy. You could open with: 'Have you been following the wildfires up north?'",
+      "description": "Climate scientist Dr. John Abraham says we've contributed by releasing heat-trapping gases for years.",
+      "topic": "wildfire",
+      "url": "https://www.kare11.com/article/news/local/breaking-the-news/wildfires-northern-minnesota-reason-changing-weather/89-b051050a-f74e-4e60-b085-09e412f93de6",
+      "published_at": "2026-07-22T00:09:52+00:00"
+    }
+  ],
+  "sports": [
+    {
+      "team": "Lynx",
+      "scores": [
+        "Lynx 86, Storm 76"
+      ]
+    }
+  ],
+  "you_should_know": [
+    {
+      "title": "Vance Boelter expected to be sentenced to life in prison Thursday for Minnesota lawmaker shootings",
+      "summary": "Major outcome (sentencing) in high-profile MN lawmaker shooting case.",
+      "description": "The U.S. Attorney's Office has called Boelter's crimes \"among the most serious ever committed in the District of Minnesota.\"",
+      "topic": "violent-crime",
+      "url": "https://www.kare11.com/article/news/local/vance-boelter-expected-to-be-sentenced-to-life-in-prison-thursday-for-minnesota-lawmaker-shootings/89-7080c202-2767-49c3-b60f-c42df8b1b983",
+      "published_at": "2026-07-22T23:14:41+00:00"
+    },
+    {
+      "title": "Profile in Courage award recipients call on MN congressional leaders to hold ICE accountable",
+      "summary": "Award recipients call on MN congressional leaders re ICE accountability — a letter/initiating action, but MN ICE-climate context. Keep-when-unsure on political context boundary.",
+      "description": "The four recipients wrote a letter addressing their concerns.",
+      "topic": "immigration-enforcement",
+      "url": "https://www.kare11.com/article/news/local/profile-in-courage-award-recipients-call-on-mn-congressional-leaders-to-hold-ice-accountable/89-6bb93114-7013-4451-9a32-c45303570715",
+      "published_at": "2026-07-22T22:18:55+00:00"
+    },
+    {
+      "title": "Trump administration says it's deferring $1B in Medicaid payments to California and Minnesota",
+      "summary": "Trump admin deferring $1B Medicaid to MN and CA — political-institutional action landing on the state. Fraud framing makes it dicey as opener; kept as you-should-know context.",
+      "description": "The Trump administration says it's deferring over $1 billion in Medicaid payments to Minnesota and California because of suspected fraud and noncompliance.",
+      "topic": "elections-politics",
+      "url": "https://www.kare11.com/article/syndication/associatedpress/trump-administration-says-its-deferring-1b-in-medicaid-payments-to-california-and-minnesota/616-90bc6b2a-beaf-49d6-ab14-bf6b724a36c3",
+      "published_at": "2026-07-22T00:11:45+00:00"
+    }
+  ]
+}

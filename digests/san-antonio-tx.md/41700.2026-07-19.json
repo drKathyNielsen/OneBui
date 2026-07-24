@@ -1,0 +1,57 @@
+{
+  "metro": "San Antonio-New Braunfels, TX",
+  "date": "2026-07-19",
+  "are_you_ok": {
+    "title": "Frio River rising 1 foot every 2 minutes leads to voluntary evacuation notice from officials",
+    "summary": "Frio River rising fast, voluntary evacuation — acute local flood hazard affecting residents/visitors.",
+    "description": "",
+    "topic": "flood",
+    "url": "https://www.kens5.com/article/news/local/public-safety/texas-frio-river-rising-1-foot-2-minutes-voluntary-evacuation-notice/273-808c6ea3-2328-40cb-b883-68594bf1aa25",
+    "published_at": "2026-07-19T02:27:39+00:00"
+  },
+  "conversation_starters": [
+    {
+      "title": "WWE Monday Night RAW returning to San Antonio this September. Here's when tickets go on sale",
+      "summary": "Marquee event returning to San Antonio, work-safe fun opener. You could open with: 'Heard WWE Raw is coming back to SA in September — thinking of grabbing tickets?'",
+      "description": "",
+      "topic": "civic-events",
+      "url": "https://www.kens5.com/article/entertainment/wwe-monday-night-raw-san-antonio-september-ticket-sales/273-cc4ad1cb-0ae2-49f4-b9db-e5638be06ada",
+      "published_at": "2026-07-19T17:09:05+00:00"
+    },
+    {
+      "title": "National affordable housing builder plans first project in San Antonio despite market challenges",
+      "summary": "Metro-level development: national builder's first SA project, 404 affordable units amid a slow market — a work-safe, locally notable opener. You could open with: 'Did you see that national developer is putting up 400+ affordable units here even with the market this tough?'",
+      "description": "<figure><img alt=\"\" class=\"attachment-rss-image-size size-rss-image-size wp-post-image\" height=\"767\" src=\"https://i0.wp.com/sanantonioreport.org/wp-content/uploads/2026/07/IMG_7168-scaled.jpeg?fit=1024%2C767&amp;ssl=1\" width=\"1024\" /></figure>A national affordable housing developer is building 404 apartment units in San Antonio even as market challenges are slowing construction.<hr style=\"border-top: black solid 1px;\" /><a href=\"https://sanantonioreport.org/national-affordable-housing-builder-plans-first-project-in-san-antonio/\">National affordable housing builder plans first project in San Antonio despite market challenges</a> was first posted on July 19, 2026 at 4:00 pm.<br />&copy;2021 &quot;<a href=\"https://sanantonioreport.org\">San Antonio Report</a>&quot;. Use of this feed is for personal non-commercial use only. If you are not reading this article in your feed reader, then the site is guilty of copyright infringement. Please contact me at <!--email_off-->hello@rivardreport.com<!--/email_off--><br />",
+      "topic": "housing",
+      "url": "https://sanantonioreport.org/national-affordable-housing-builder-plans-first-project-in-san-antonio/",
+      "published_at": "2026-07-19T21:00:00+00:00"
+    },
+    {
+      "title": "TROPICAL UPDATE: Tropical Depression Two has formed",
+      "summary": "Coming meteorological event people ask about. You could open with: 'Did you catch that Tropical Depression Two just formed — think it'll amount to anything here?'",
+      "description": "",
+      "topic": "severe-weather",
+      "url": "https://www.kens5.com/article/weather/severe-weather/weather-update-tropical-depression-two-formation-texas-impact/273-541549cb-4c01-4b92-9754-416e340ee3ce",
+      "published_at": "2026-07-19T17:12:40+00:00"
+    }
+  ],
+  "sports": [],
+  "you_should_know": [
+    {
+      "title": "San Antonio council members’ fundraising has dried up — now some want to change the rules",
+      "summary": "Local council fundraising/rule-change dispute — political-institutional context landing on the metro. Context-vs-noise boundary: keep as you should know.",
+      "description": "",
+      "topic": "elections-politics",
+      "url": "https://sanantonioreport.org/san-antonio-city-council-fundraising-stalls-donor-limits-reconsidered/",
+      "published_at": "2026-07-19T10:00:00+00:00"
+    },
+    {
+      "title": "Proposed EPA rule could weaken Texans’ voice on certain air permits used by data centers",
+      "summary": "Political-institutional rule change landing on Texans' air permits (data centers) — walk-in-aware context, not a safe opener or check-in.",
+      "description": "",
+      "topic": "data-centers",
+      "url": "https://sanantonioreport.org/proposed-epa-rule-weaken-texans-voice-air-permits-data-centers/",
+      "published_at": "2026-07-19T19:00:00+00:00"
+    }
+  ]
+}

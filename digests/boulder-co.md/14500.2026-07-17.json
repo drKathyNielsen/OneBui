@@ -1,0 +1,42 @@
+{
+  "metro": "Boulder, CO",
+  "date": "2026-07-17",
+  "are_you_ok": null,
+  "conversation_starters": [
+    {
+      "title": "Fire chiefs warn against trespassing in missile silos – unless you're prepared to pay $5K fee",
+      "summary": "Fire chiefs warning about people entering missile silos — novel, fun local oddity, work-safe. You could open with: 'Did you hear people are sneaking into old missile silos out here — apparently there's a $5K rescue fee now?'",
+      "description": "",
+      "topic": "human-interest",
+      "url": "https://www.9news.com/article/news/local/fire-chiefs-warning-after-two-silo-rescues/73-f2fa5d13-eb51-4fed-a45f-c359aeecd4e2",
+      "published_at": "2026-07-17T00:16:55+00:00"
+    },
+    {
+      "title": "Colorado bride with MS surprises wedding guests by walking down aisle",
+      "summary": "Colorado bride with MS walks down the aisle — light, uplifting local human interest that sparks a natural exchange. You could open with: 'Did you catch that Colorado bride with MS who surprised everyone by walking down the aisle?'",
+      "description": "",
+      "topic": "human-interest",
+      "url": "https://www.9news.com/article/features/colorado-bride-ms-surprises-wedding-guests-walking-down-aisle/73-a3c6cdb3-561f-4ed1-8f87-e90ff561e86a",
+      "published_at": "2026-07-17T01:44:17+00:00"
+    },
+    {
+      "title": "'It is extremely hot' | Construction workers tough out the July heat to install AC in some DPS schools",
+      "summary": "Crews installing AC in DPS schools during July heat — this is relief/mitigation framing, so conversation starter, not are-you-ok. You could open with: 'Did you see they're finally putting AC in some DPS schools during this heat?'",
+      "description": "",
+      "topic": "heat",
+      "url": "https://www.9news.com/article/news/local/dps-schools-air-conditioning-summer-work/73-fd36f088-be1d-4504-a295-96e07ca85e46",
+      "published_at": "2026-07-17T02:22:27+00:00"
+    }
+  ],
+  "sports": [],
+  "you_should_know": [
+    {
+      "title": "Boulder police are closing complaints against officers before independent review",
+      "summary": "Boulder PD closing complaints before independent review — police-accountability institutional story landing locally. Unsafe opener; context.",
+      "description": "",
+      "topic": "policing",
+      "url": "https://boulderreportinglab.org/2026/07/16/boulder-police-are-closing-complaints-against-officers-before-independent-review/",
+      "published_at": "2026-07-17T04:51:51+00:00"
+    }
+  ]
+}
