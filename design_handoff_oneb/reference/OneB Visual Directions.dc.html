@@ -1,0 +1,689 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet data-dc-atomics>
+<meta name="design_doc_mode" content="canvas">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;0,6..72,700;1,6..72,400;1,6..72,500&family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  body{margin:0;background:#e9e7e2;font-family:'Inter',system-ui,sans-serif;color:#1a1a1a}
+  .dv-turn{padding:40px 48px 44px}
+  .dv-thd{display:flex;align-items:baseline;gap:10px;margin:0 0 6px}
+  .dv-tid{font:600 10px 'IBM Plex Mono',monospace;padding:3px 7px;background:#1a1a1a;color:#fff;border-radius:4px;text-decoration:none}
+  .dv-tname{font:600 13px/1.2 'Inter',sans-serif;color:#1a1a1a}
+  .dv-tsub{font:400 12px/1.55 'Inter',sans-serif;color:rgba(0,0,0,.5);margin:0 0 22px;max-width:720px}
+  .seg{display:inline-flex;padding:3px;background:#dcd9d0;border-radius:11px;gap:3px}
+  .seg button{padding:8px 16px;border:none;border-radius:8px;cursor:pointer;font:600 12.5px 'Inter';white-space:nowrap}
+  .phone{width:378px;border-radius:34px;overflow:hidden;position:relative}
+  a{color:#3a6ea5}
+  a:hover{color:#2b5480}
+</style>
+</helmet>
+
+<section class="dv-turn" id="app">
+  <div class="dv-thd"><a class="dv-tid" href="#app">★</a><span class="dv-tname">One B — interactive prototype</span></div>
+  <p class="dv-tsub">Live app: the appearance bar at the top of the phone switches Classic newspaper ⇄ Modern editorial and Light ⇄ Dark. Tap the metro name to switch cities. Same real feed for all four states.</p>
+
+  <div style="display:flex;justify-content:flex-start">
+
+    <!-- ===== CLASSIC · LIGHT ===== -->
+    <sc-if value="{{ isCL }}" hint-placeholder-val="{{ true }}">
+      <div style="display:flex;gap:28px;align-items:flex-start;flex-wrap:wrap">
+      <div>
+      <div style="font:700 11px 'IBM Plex Mono',monospace;letter-spacing:.1em;color:#6a6555;margin-bottom:8px;text-transform:uppercase">Phone · 390px</div>
+      <div class="phone" style="background:#f5f3ec;border:1px solid #d7d2c5;box-shadow:0 12px 34px rgba(40,36,26,.14)">
+        <div style="display:flex;justify-content:space-between;align-items:center;gap:8px;padding:9px 14px;background:#efeadd;border-bottom:1px solid #d7d2c5">
+          <div style="display:inline-flex;padding:3px;background:#dcd6c7;border-radius:8px;gap:3px"><button onClick="{{ setClassic }}" style="padding:5px 11px;border:none;border-radius:6px;cursor:pointer;font:600 10.5px 'Inter';{{ classicSeg }}">Classic</button><button onClick="{{ setModern }}" style="padding:5px 11px;border:none;border-radius:6px;cursor:pointer;font:600 10.5px 'Inter';{{ modernSeg }}">Modern</button></div>
+          <div style="display:inline-flex;padding:3px;background:#dcd6c7;border-radius:8px;gap:3px"><button onClick="{{ setLight }}" style="padding:5px 10px;border:none;border-radius:6px;cursor:pointer;font:600 11px 'Inter';{{ lightSeg }}">☀</button><button onClick="{{ setDark }}" style="padding:5px 10px;border:none;border-radius:6px;cursor:pointer;font:600 11px 'Inter';{{ darkSeg }}">☾</button></div>
+        </div>
+        <div style="padding:16px 20px 12px;border-bottom:3px double #1a1a17">
+          <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:12px">
+            <div style="display:flex;align-items:center;gap:8px"><div style="height:22px;padding:0 8px;border-radius:5px;background:#1a1a17;color:#f5f3ec;font:800 10px 'IBM Plex Mono',monospace;display:flex;align-items:center;justify-content:center;white-space:nowrap">One B</div></div>
+          </div>
+          <div style="font:600 8.5px 'IBM Plex Mono',monospace;letter-spacing:.2em;color:#6a6555;text-align:center">SECTION 1B — LOCAL BRIEF</div>
+          <button onClick="{{ togglePicker }}" style="all:unset;cursor:pointer;display:flex;align-items:center;justify-content:center;gap:7px;width:100%;box-sizing:border-box;margin:6px 0 7px">
+            <span style="font:700 26px/1.05 'Newsreader',serif;letter-spacing:-.01em;color:#1a1a17">{{ city.shortName }}</span>
+            <span style="width:22px;height:22px;border-radius:50%;background:#1a1a17;color:#f5f3ec;font:600 12px/22px 'IBM Plex Mono',monospace;text-align:center;flex:none">▾</span>
+          </button>
+          <sc-if value="{{ pickerOpen }}" hint-placeholder-val="{{ false }}">
+            <div style="border:1px solid #d7d2c5;border-radius:8px;overflow:hidden;background:#ece7d8;margin-bottom:8px">
+              <sc-for list="{{ cityList }}" as="item" hint-placeholder-count="4">
+                <button onClick="{{ item.onSelect }}" style="all:unset;cursor:pointer;display:block;width:100%;box-sizing:border-box;padding:9px 14px;font:600 12px 'Inter';color:#1a1a17;border-top:1px solid #d9d2bd">{{ item.label }}</button>
+              </sc-for>
+            </div>
+          </sc-if>
+          <div style="font:500 8.5px 'IBM Plex Mono',monospace;letter-spacing:.16em;color:#6a6555;text-align:center;border-top:1px solid #d7d2c5;padding-top:7px">{{ city.dateLong }}</div>
+        </div>
+        <div style="display:flex;justify-content:center;gap:24px;padding:9px 0;border-bottom:1px solid #d0cbbe">
+          <span style="font:600 11px 'IBM Plex Mono',monospace;color:#1a1a17;border-bottom:2px solid #1a1a17;padding-bottom:2px">TODAY</span>
+          <span style="font:500 11px 'IBM Plex Mono',monospace;color:#a29c8c">WEEKLY <span style="font:500 8px 'IBM Plex Mono';vertical-align:1px">(soon)</span></span>
+        </div>
+        <sc-if value="{{ city.hasAreOk }}" hint-placeholder-val="{{ true }}">
+        <div style="padding:15px 20px 4px">
+          <div style="background:#ece7d8;border:1px solid #d9d2bd;border-radius:12px;padding:15px 16px">
+            <div style="font:700 12px 'IBM Plex Mono',monospace;letter-spacing:.12em;color:#1a1a17;margin-bottom:8px">ARE THEY OK?</div>
+            <div style="font:600 17px/1.3 'Newsreader',serif;color:#1a1a17">{{ city.areOk.title }}</div>
+            <div style="margin-top:8px;display:flex;gap:9px;align-items:flex-start"><span style="font:700 46px/0.7 'Newsreader',serif;color:#1a1a17;flex:none">{{ city.areOk.dropCap }}</span><span style="font:400 12.5px/1.55 'Inter';color:#433f36">{{ city.areOk.descRest }}</span></div>
+            <div style="margin-top:10px;font:500 11px 'Inter';color:#6a6555"><a href="{{ city.areOk.url }}" style="color:inherit;text-decoration:underline">{{ city.areOk.source }}</a> · {{ city.areOk.topic }}</div>
+          </div>
+        </div>
+        </sc-if>
+        <sc-if value="{{ city.hasStarters }}" hint-placeholder-val="{{ true }}">
+        <div style="padding:16px 20px 4px">
+          <div style="display:flex;align-items:center;gap:10px;margin-bottom:2px"><span style="font:700 12px 'IBM Plex Mono',monospace;letter-spacing:.12em;color:#1a1a17;white-space:nowrap">CONVERSATION STARTERS</span><span style="flex:1;height:0;border-top:1px solid #cbc6b8"></span></div>
+          <sc-for list="{{ city.starters }}" as="item" hint-placeholder-count="3">
+            <div style="display:flex;gap:12px;padding:13px 0;border-bottom:1px solid #ddd8cc">
+              <span style="font:600 18px/1.35 'Newsreader',serif;color:#1a1a17">{{ item.n }}</span>
+              <div style="border-left:1px solid #cbc6b8;padding-left:12px">
+                <div style="font:600 15px/1.32 'Newsreader',serif;color:#1a1a17">{{ item.title }}</div>
+                <div style="margin-top:6px;font:400 12.5px/1.5 'Inter';color:#433f36">{{ item.description }}</div>
+                <div style="margin-top:7px;font:500 11px 'Inter';color:#6a6555"><a href="{{ item.url }}" style="color:inherit;text-decoration:underline">{{ item.source }}</a> · {{ item.topic }}</div>
+              </div>
+            </div>
+          </sc-for>
+        </div>
+        </sc-if>
+        <sc-if value="{{ city.hasKnow }}" hint-placeholder-val="{{ true }}">
+        <div style="padding:16px 20px 4px">
+          <div style="display:flex;align-items:center;gap:10px;margin-bottom:2px"><span style="font:700 12px 'IBM Plex Mono',monospace;letter-spacing:.12em;color:#1a1a17;white-space:nowrap">YOU SHOULD KNOW</span><span style="flex:1;height:0;border-top:1px solid #cbc6b8"></span></div>
+          <sc-for list="{{ city.know }}" as="item" hint-placeholder-count="3">
+            <div style="display:flex;gap:12px;padding:13px 0;border-bottom:1px solid #ddd8cc">
+              <span style="font:600 14px 'Newsreader',serif;color:#726d61">▪</span>
+              <div style="border-left:1px solid #cbc6b8;padding-left:12px">
+                <div style="font:600 15px/1.32 'Newsreader',serif;color:#1a1a17">{{ item.title }}</div>
+                <div style="margin-top:6px;font:400 12.5px/1.5 'Inter';color:#433f36">{{ item.description }}</div>
+                <div style="margin-top:7px;font:500 11px 'Inter';color:#6a6555"><a href="{{ item.url }}" style="color:inherit;text-decoration:underline">{{ item.source }}</a> · {{ item.topic }}</div>
+              </div>
+            </div>
+          </sc-for>
+        </div>
+        </sc-if>
+        <sc-if value="{{ city.hasSports }}" hint-placeholder-val="{{ true }}">
+        <div style="padding:12px 20px 24px">
+          <div style="display:flex;align-items:center;gap:10px;margin:6px 0 12px"><span style="font:700 12px 'IBM Plex Mono',monospace;letter-spacing:.12em;color:#1a1a17">SPORTING NEWS</span><span style="flex:1;height:0;border-top:1px solid #cbc6b8"></span></div>
+          <sc-for list="{{ city.sports }}" as="team" hint-placeholder-count="1">
+            <div style="margin-bottom:13px">
+              <div style="font:600 14px 'Newsreader',serif;color:#1a1a17">{{ team.team }}</div>
+              <sc-for list="{{ team.scores }}" as="s" hint-placeholder-count="1">
+                <div style="margin-top:5px;font:italic 500 12.5px/1.4 'Newsreader',serif;color:#433f36">{{ s }}</div>
+              </sc-for>
+            </div>
+          </sc-for>
+        </div>
+        </sc-if>
+      </div>
+      </div>
+
+      <div>
+      <div style="font:700 11px 'IBM Plex Mono',monospace;letter-spacing:.1em;color:#6a6555;margin-bottom:8px;text-transform:uppercase">Tablet · 820px</div>
+      <div style="width:760px;background:#f5f3ec;border:1px solid #d7d2c5;box-shadow:0 12px 34px rgba(40,36,26,.14)">
+        <div style="display:flex;justify-content:space-between;align-items:center;gap:8px;padding:9px 16px;background:#efeadd;border-bottom:1px solid #d7d2c5">
+          <div style="display:inline-flex;padding:3px;background:#dcd6c7;border-radius:8px;gap:3px"><button onClick="{{ setClassic }}" style="padding:5px 11px;border:none;border-radius:6px;cursor:pointer;font:600 10.5px 'Inter';{{ classicSeg }}">Classic</button><button onClick="{{ setModern }}" style="padding:5px 11px;border:none;border-radius:6px;cursor:pointer;font:600 10.5px 'Inter';{{ modernSeg }}">Modern</button></div>
+          <div style="display:inline-flex;padding:3px;background:#dcd6c7;border-radius:8px;gap:3px"><button onClick="{{ setLight }}" style="padding:5px 10px;border:none;border-radius:6px;cursor:pointer;font:600 11px 'Inter';{{ lightSeg }}">☀</button><button onClick="{{ setDark }}" style="padding:5px 10px;border:none;border-radius:6px;cursor:pointer;font:600 11px 'Inter';{{ darkSeg }}">☾</button></div>
+        </div>
+        <div style="padding:22px 36px 16px;border-bottom:3px double #1a1a17;text-align:center">
+          <div style="height:24px;padding:0 9px;border-radius:5px;background:#1a1a17;color:#f5f3ec;font:800 11px 'IBM Plex Mono',monospace;display:inline-flex;align-items:center;justify-content:center;margin-bottom:10px">One B</div>
+          <div style="font:600 9px 'IBM Plex Mono',monospace;letter-spacing:.2em;color:#6a6555">SECTION 1B — LOCAL BRIEF</div>
+          <button onClick="{{ togglePicker }}" style="all:unset;cursor:pointer;display:flex;align-items:center;justify-content:center;gap:9px;width:100%;box-sizing:border-box;margin:8px 0 9px">
+            <span style="font:700 34px/1.05 'Newsreader',serif;letter-spacing:-.01em;color:#1a1a17">{{ city.shortName }}</span>
+            <span style="width:24px;height:24px;border-radius:50%;background:#1a1a17;color:#f5f3ec;font:600 13px/24px 'IBM Plex Mono',monospace;text-align:center;flex:none">▾</span>
+          </button>
+          <div style="font:500 9px 'IBM Plex Mono',monospace;letter-spacing:.16em;color:#6a6555;border-top:1px solid #d7d2c5;padding-top:8px;display:inline-block">{{ city.dateLong }}</div>
+        </div>
+        <div style="display:flex;justify-content:center;gap:28px;padding:10px 0;border-bottom:1px solid #d0cbbe">
+          <span style="font:600 12px 'IBM Plex Mono',monospace;color:#1a1a17;border-bottom:2px solid #1a1a17;padding-bottom:2px">TODAY</span>
+          <span style="font:500 12px 'IBM Plex Mono',monospace;color:#a29c8c">WEEKLY <span style="font:500 9px 'IBM Plex Mono';vertical-align:1px">(soon)</span></span>
+        </div>
+        <sc-if value="{{ city.hasAreOk }}" hint-placeholder-val="{{ true }}">
+        <div style="padding:20px 36px 6px">
+          <div style="background:#ece7d8;border:1px solid #d9d2bd;border-radius:12px;padding:18px 20px">
+            <div style="font:700 12px 'IBM Plex Mono',monospace;letter-spacing:.12em;color:#1a1a17;margin-bottom:9px">ARE THEY OK?</div>
+            <div style="font:600 20px/1.3 'Newsreader',serif;color:#1a1a17">{{ city.areOk.title }}</div>
+            <div style="margin-top:9px;display:flex;gap:10px;align-items:flex-start"><span style="font:700 52px/0.7 'Newsreader',serif;color:#1a1a17;flex:none">{{ city.areOk.dropCap }}</span><span style="font:400 13.5px/1.55 'Inter';color:#433f36">{{ city.areOk.descRest }}</span></div>
+            <div style="margin-top:11px;font:500 11.5px 'Inter';color:#6a6555"><a href="{{ city.areOk.url }}" style="color:inherit;text-decoration:underline">{{ city.areOk.source }}</a> · {{ city.areOk.topic }}</div>
+          </div>
+        </div>
+        </sc-if>
+        <div style="display:grid;grid-template-columns:1fr 1fr;gap:32px;padding:18px 36px 30px">
+          <div>
+            <sc-if value="{{ city.hasStarters }}" hint-placeholder-val="{{ true }}">
+            <div style="display:flex;align-items:center;gap:10px;margin-bottom:2px"><span style="font:700 12px 'IBM Plex Mono',monospace;letter-spacing:.12em;color:#1a1a17;white-space:nowrap">CONVERSATION STARTERS</span><span style="flex:1;height:0;border-top:1px solid #cbc6b8"></span></div>
+            <sc-for list="{{ city.starters }}" as="item" hint-placeholder-count="3">
+              <div style="display:flex;gap:12px;padding:13px 0;border-bottom:1px solid #ddd8cc">
+                <span style="font:600 18px/1.35 'Newsreader',serif;color:#1a1a17">{{ item.n }}</span>
+                <div style="border-left:1px solid #cbc6b8;padding-left:12px">
+                  <div style="font:600 15px/1.32 'Newsreader',serif;color:#1a1a17">{{ item.title }}</div>
+                  <div style="margin-top:6px;font:400 12.5px/1.5 'Inter';color:#433f36">{{ item.description }}</div>
+                  <div style="margin-top:7px;font:500 11px 'Inter';color:#6a6555"><a href="{{ item.url }}" style="color:inherit;text-decoration:underline">{{ item.source }}</a> · {{ item.topic }}</div>
+                </div>
+              </div>
+            </sc-for>
+            </sc-if>
+          </div>
+          <div>
+            <sc-if value="{{ city.hasKnow }}" hint-placeholder-val="{{ true }}">
+            <div style="display:flex;align-items:center;gap:10px;margin-bottom:2px"><span style="font:700 12px 'IBM Plex Mono',monospace;letter-spacing:.12em;color:#1a1a17;white-space:nowrap">YOU SHOULD KNOW</span><span style="flex:1;height:0;border-top:1px solid #cbc6b8"></span></div>
+            <sc-for list="{{ city.know }}" as="item" hint-placeholder-count="3">
+              <div style="display:flex;gap:12px;padding:13px 0;border-bottom:1px solid #ddd8cc">
+                <span style="font:600 14px 'Newsreader',serif;color:#726d61">▪</span>
+                <div style="border-left:1px solid #cbc6b8;padding-left:12px">
+                  <div style="font:600 15px/1.32 'Newsreader',serif;color:#1a1a17">{{ item.title }}</div>
+                  <div style="margin-top:6px;font:400 12.5px/1.5 'Inter';color:#433f36">{{ item.description }}</div>
+                  <div style="margin-top:7px;font:500 11px 'Inter';color:#6a6555"><a href="{{ item.url }}" style="color:inherit;text-decoration:underline">{{ item.source }}</a> · {{ item.topic }}</div>
+                </div>
+              </div>
+            </sc-for>
+            </sc-if>
+            <sc-if value="{{ city.hasSports }}" hint-placeholder-val="{{ true }}">
+            <div style="margin-top:10px">
+              <div style="display:flex;align-items:center;gap:10px;margin:6px 0 12px"><span style="font:700 12px 'IBM Plex Mono',monospace;letter-spacing:.12em;color:#1a1a17">SPORTING NEWS</span><span style="flex:1;height:0;border-top:1px solid #cbc6b8"></span></div>
+              <sc-for list="{{ city.sports }}" as="team" hint-placeholder-count="1">
+                <div style="margin-bottom:13px">
+                  <div style="font:600 14px 'Newsreader',serif;color:#1a1a17">{{ team.team }}</div>
+                  <sc-for list="{{ team.scores }}" as="s" hint-placeholder-count="1">
+                    <div style="margin-top:5px;font:italic 500 12.5px/1.4 'Newsreader',serif;color:#433f36">{{ s }}</div>
+                  </sc-for>
+                </div>
+              </sc-for>
+            </div>
+            </sc-if>
+          </div>
+        </div>
+      </div>
+      </div>
+
+      <div>
+      <div style="font:700 11px 'IBM Plex Mono',monospace;letter-spacing:.1em;color:#6a6555;margin-bottom:8px;text-transform:uppercase">Desktop · 1440px</div>
+      <div style="width:1160px;background:#f5f3ec;border:1px solid #d7d2c5;box-shadow:0 12px 34px rgba(40,36,26,.14)">
+        <div style="display:flex;justify-content:space-between;align-items:center;gap:6px;padding:10px 20px;background:#efeadd;border-bottom:1px solid #d7d2c5">
+          <div style="display:flex;align-items:center;gap:6px"><span style="width:9px;height:9px;border-radius:50%;background:#d9928a"></span><span style="width:9px;height:9px;border-radius:50%;background:#dccf9a"></span><span style="width:9px;height:9px;border-radius:50%;background:#a7c79a"></span></div>
+          <div style="display:flex;gap:8px">
+            <div style="display:inline-flex;padding:3px;background:#dcd6c7;border-radius:8px;gap:3px"><button onClick="{{ setClassic }}" style="padding:5px 11px;border:none;border-radius:6px;cursor:pointer;font:600 10.5px 'Inter';{{ classicSeg }}">Classic</button><button onClick="{{ setModern }}" style="padding:5px 11px;border:none;border-radius:6px;cursor:pointer;font:600 10.5px 'Inter';{{ modernSeg }}">Modern</button></div>
+            <div style="display:inline-flex;padding:3px;background:#dcd6c7;border-radius:8px;gap:3px"><button onClick="{{ setLight }}" style="padding:5px 10px;border:none;border-radius:6px;cursor:pointer;font:600 11px 'Inter';{{ lightSeg }}">☀</button><button onClick="{{ setDark }}" style="padding:5px 10px;border:none;border-radius:6px;cursor:pointer;font:600 11px 'Inter';{{ darkSeg }}">☾</button></div>
+          </div>
+        </div>
+        <div style="padding:24px 48px 16px;border-bottom:3px double #1a1a17;text-align:center">
+          <div style="height:26px;padding:0 10px;border-radius:5px;background:#1a1a17;color:#f5f3ec;font:800 12px 'IBM Plex Mono',monospace;display:inline-flex;align-items:center;justify-content:center;margin-bottom:12px">One B</div>
+          <div style="font:600 9.5px 'IBM Plex Mono',monospace;letter-spacing:.22em;color:#6a6555">SECTION 1B — LOCAL BRIEF</div>
+          <button onClick="{{ togglePicker }}" style="all:unset;cursor:pointer;display:flex;align-items:center;justify-content:center;gap:10px;width:100%;box-sizing:border-box;margin:10px 0 10px">
+            <span style="font:700 44px/1.05 'Newsreader',serif;letter-spacing:-.01em;color:#1a1a17">{{ city.shortName }}</span>
+            <span style="width:26px;height:26px;border-radius:50%;background:#1a1a17;color:#f5f3ec;font:600 13px/26px 'IBM Plex Mono',monospace;text-align:center;flex:none">▾</span>
+          </button>
+          <sc-if value="{{ pickerOpen }}" hint-placeholder-val="{{ false }}">
+            <div style="border:1px solid #d7d2c5;border-radius:8px;overflow:hidden;background:#ece7d8;margin:0 auto 8px;max-width:320px">
+              <sc-for list="{{ cityList }}" as="item" hint-placeholder-count="4">
+                <button onClick="{{ item.onSelect }}" style="all:unset;cursor:pointer;display:block;width:100%;box-sizing:border-box;padding:9px 14px;font:600 12px 'Inter';color:#1a1a17;border-top:1px solid #d9d2bd">{{ item.label }}</button>
+              </sc-for>
+            </div>
+          </sc-if>
+          <div style="font:500 9.5px 'IBM Plex Mono',monospace;letter-spacing:.18em;color:#6a6555;border-top:1px solid #d7d2c5;padding-top:8px;display:inline-block">{{ city.dateLong }}</div>
+          <div style="margin-top:12px;display:flex;justify-content:center;gap:28px">
+            <span style="font:600 12px 'IBM Plex Mono',monospace;color:#1a1a17;border-bottom:2px solid #1a1a17;padding-bottom:2px">TODAY</span>
+            <span style="font:500 12px 'IBM Plex Mono',monospace;color:#a29c8c">WEEKLY <span style="font:500 9px 'IBM Plex Mono';vertical-align:1px">(soon)</span></span>
+          </div>
+        </div>
+        <div style="display:grid;grid-template-columns:1.15fr 1fr 0.85fr;gap:0;padding:30px 48px 40px">
+          <div style="padding-right:32px">
+            <sc-if value="{{ city.hasAreOk }}" hint-placeholder-val="{{ true }}">
+            <div style="background:#ece7d8;border:1px solid #d9d2bd;border-radius:12px;padding:20px 22px">
+              <div style="font:700 12.5px 'IBM Plex Mono',monospace;letter-spacing:.12em;color:#1a1a17;margin-bottom:10px">ARE THEY OK?</div>
+              <div style="font:600 22px/1.28 'Newsreader',serif;color:#1a1a17">{{ city.areOk.title }}</div>
+              <div style="margin-top:10px;display:flex;gap:11px;align-items:flex-start"><span style="font:700 58px/0.68 'Newsreader',serif;color:#1a1a17;flex:none">{{ city.areOk.dropCap }}</span><span style="font:400 14px/1.6 'Inter';color:#433f36">{{ city.areOk.descRest }}</span></div>
+              <div style="margin-top:12px;font:500 11.5px 'Inter';color:#6a6555"><a href="{{ city.areOk.url }}" style="color:inherit;text-decoration:underline">{{ city.areOk.source }}</a> · {{ city.areOk.topic }}</div>
+            </div>
+            </sc-if>
+          </div>
+          <div style="border-left:1px solid #d0cbbe;padding-left:32px;padding-right:32px">
+            <sc-if value="{{ city.hasStarters }}" hint-placeholder-val="{{ true }}">
+            <div style="display:flex;align-items:center;gap:10px;margin-bottom:2px"><span style="font:700 12px 'IBM Plex Mono',monospace;letter-spacing:.12em;color:#1a1a17;white-space:nowrap">CONVERSATION STARTERS</span><span style="flex:1;height:0;border-top:1px solid #cbc6b8"></span></div>
+            <sc-for list="{{ city.starters }}" as="item" hint-placeholder-count="3">
+              <div style="display:flex;gap:12px;padding:14px 0;border-bottom:1px solid #ddd8cc">
+                <span style="font:600 18px/1.35 'Newsreader',serif;color:#1a1a17">{{ item.n }}</span>
+                <div style="border-left:1px solid #cbc6b8;padding-left:12px">
+                  <div style="font:600 16px/1.32 'Newsreader',serif;color:#1a1a17">{{ item.title }}</div>
+                  <div style="margin-top:6px;font:400 13px/1.55 'Inter';color:#433f36">{{ item.description }}</div>
+                  <div style="margin-top:7px;font:500 11px 'Inter';color:#6a6555"><a href="{{ item.url }}" style="color:inherit;text-decoration:underline">{{ item.source }}</a> · {{ item.topic }}</div>
+                </div>
+              </div>
+            </sc-for>
+            </sc-if>
+          </div>
+          <div style="border-left:1px solid #d0cbbe;padding-left:32px">
+            <sc-if value="{{ city.hasKnow }}" hint-placeholder-val="{{ true }}">
+            <div style="display:flex;align-items:center;gap:10px;margin-bottom:2px"><span style="font:700 12px 'IBM Plex Mono',monospace;letter-spacing:.12em;color:#1a1a17;white-space:nowrap">YOU SHOULD KNOW</span><span style="flex:1;height:0;border-top:1px solid #cbc6b8"></span></div>
+            <sc-for list="{{ city.know }}" as="item" hint-placeholder-count="3">
+              <div style="display:flex;gap:10px;padding:12px 0;border-bottom:1px solid #ddd8cc">
+                <span style="font:600 13px 'Newsreader',serif;color:#726d61">▪</span>
+                <div style="border-left:1px solid #cbc6b8;padding-left:10px">
+                  <div style="font:600 13.5px/1.32 'Newsreader',serif;color:#1a1a17">{{ item.title }}</div>
+                  <div style="margin-top:5px;font:400 11.5px/1.5 'Inter';color:#433f36">{{ item.description }}</div>
+                  <div style="margin-top:6px;font:500 10.5px 'Inter';color:#6a6555"><a href="{{ item.url }}" style="color:inherit;text-decoration:underline">{{ item.source }}</a> · {{ item.topic }}</div>
+                </div>
+              </div>
+            </sc-for>
+            </sc-if>
+            <sc-if value="{{ city.hasSports }}" hint-placeholder-val="{{ true }}">
+            <div style="margin-top:10px">
+              <div style="display:flex;align-items:center;gap:10px;margin:6px 0 12px"><span style="font:700 12px 'IBM Plex Mono',monospace;letter-spacing:.12em;color:#1a1a17">SPORTING NEWS</span><span style="flex:1;height:0;border-top:1px solid #cbc6b8"></span></div>
+              <sc-for list="{{ city.sports }}" as="team" hint-placeholder-count="1">
+                <div style="margin-bottom:13px">
+                  <div style="font:600 13.5px 'Newsreader',serif;color:#1a1a17">{{ team.team }}</div>
+                  <sc-for list="{{ team.scores }}" as="s" hint-placeholder-count="1">
+                    <div style="margin-top:5px;font:italic 500 12px/1.4 'Newsreader',serif;color:#433f36">{{ s }}</div>
+                  </sc-for>
+                </div>
+              </sc-for>
+            </div>
+            </sc-if>
+          </div>
+        </div>
+      </div>
+      </div>
+
+      </div>
+    </sc-if>
+
+    <!-- ===== CLASSIC · DARK ===== -->
+    <sc-if value="{{ isCD }}" hint-placeholder-val="{{ false }}">
+      <div class="phone" style="background:#17150f;border:1px solid #322e23;box-shadow:0 16px 44px rgba(0,0,0,.5)">
+        <div style="display:flex;justify-content:space-between;align-items:center;gap:8px;padding:9px 14px;background:#1f1c14;border-bottom:1px solid #322e23">
+          <div style="display:inline-flex;padding:3px;background:#2b2619;border-radius:8px;gap:3px"><button onClick="{{ setClassic }}" style="padding:5px 11px;border:none;border-radius:6px;cursor:pointer;font:600 10.5px 'Inter';{{ classicSeg }}">Classic</button><button onClick="{{ setModern }}" style="padding:5px 11px;border:none;border-radius:6px;cursor:pointer;font:600 10.5px 'Inter';{{ modernSeg }}">Modern</button></div>
+          <div style="display:inline-flex;padding:3px;background:#2b2619;border-radius:8px;gap:3px"><button onClick="{{ setLight }}" style="padding:5px 10px;border:none;border-radius:6px;cursor:pointer;font:600 11px 'Inter';{{ lightSeg }}">☀</button><button onClick="{{ setDark }}" style="padding:5px 10px;border:none;border-radius:6px;cursor:pointer;font:600 11px 'Inter';{{ darkSeg }}">☾</button></div>
+        </div>
+        <div style="padding:16px 20px 12px;border-bottom:3px double #d8d2c2">
+          <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:12px">
+            <div style="display:flex;align-items:center;gap:8px"><div style="height:22px;padding:0 8px;border-radius:5px;background:#ece7d9;color:#17150f;font:800 10px 'IBM Plex Mono',monospace;display:flex;align-items:center;justify-content:center;white-space:nowrap">One B</div></div>
+          </div>
+          <div style="font:600 8.5px 'IBM Plex Mono',monospace;letter-spacing:.2em;color:#8a8474;text-align:center">SECTION 1B — LOCAL BRIEF</div>
+          <button onClick="{{ togglePicker }}" style="all:unset;cursor:pointer;display:flex;align-items:center;justify-content:center;gap:7px;width:100%;box-sizing:border-box;margin:6px 0 7px">
+            <span style="font:700 26px/1.05 'Newsreader',serif;letter-spacing:-.01em;color:#f2ede0">{{ city.shortName }}</span>
+            <span style="width:22px;height:22px;border-radius:50%;background:#ece7d9;color:#17150f;font:600 12px/22px 'IBM Plex Mono',monospace;text-align:center;flex:none">▾</span>
+          </button>
+          <sc-if value="{{ pickerOpen }}" hint-placeholder-val="{{ false }}">
+            <div style="border:1px solid #423d2f;border-radius:8px;overflow:hidden;background:#221f16;margin-bottom:8px">
+              <sc-for list="{{ cityList }}" as="item" hint-placeholder-count="4">
+                <button onClick="{{ item.onSelect }}" style="all:unset;cursor:pointer;display:block;width:100%;box-sizing:border-box;padding:9px 14px;font:600 12px 'Inter';color:#f2ede0;border-top:1px solid #322e23">{{ item.label }}</button>
+              </sc-for>
+            </div>
+          </sc-if>
+          <div style="font:500 8.5px 'IBM Plex Mono',monospace;letter-spacing:.16em;color:#8a8474;text-align:center;border-top:1px solid #322e23;padding-top:7px">{{ city.dateLong }}</div>
+        </div>
+        <div style="display:flex;justify-content:center;gap:24px;padding:9px 0;border-bottom:1px solid #2c2820">
+          <span style="font:600 11px 'IBM Plex Mono',monospace;color:#f2ede0;border-bottom:2px solid #f2ede0;padding-bottom:2px">TODAY</span>
+          <span style="font:500 11px 'IBM Plex Mono',monospace;color:#7a745f">WEEKLY <span style="font:500 8px 'IBM Plex Mono';vertical-align:1px">(soon)</span></span>
+        </div>
+        <sc-if value="{{ city.hasAreOk }}" hint-placeholder-val="{{ true }}">
+        <div style="padding:15px 20px 4px">
+          <div style="background:#39311f;border:1px solid #5c5030;border-radius:12px;padding:15px 16px">
+            <div style="font:700 12px 'IBM Plex Mono',monospace;letter-spacing:.12em;color:#f2ede0;margin-bottom:8px">ARE THEY OK?</div>
+            <div style="font:600 17px/1.3 'Newsreader',serif;color:#f2ede0">{{ city.areOk.title }}</div>
+            <div style="margin-top:8px;display:flex;gap:9px;align-items:flex-start"><span style="font:700 46px/0.7 'Newsreader',serif;color:#f2ede0;flex:none">{{ city.areOk.dropCap }}</span><span style="font:400 12.5px/1.55 'Inter';color:#b4af9f">{{ city.areOk.descRest }}</span></div>
+            <div style="margin-top:10px;font:500 11px 'Inter';color:#948f80"><a href="{{ city.areOk.url }}" style="color:inherit;text-decoration:underline">{{ city.areOk.source }}</a> · {{ city.areOk.topic }}</div>
+          </div>
+        </div>
+        </sc-if>
+        <sc-if value="{{ city.hasStarters }}" hint-placeholder-val="{{ true }}">
+        <div style="padding:16px 20px 4px">
+          <div style="display:flex;align-items:center;gap:10px;margin-bottom:2px"><span style="font:700 12px 'IBM Plex Mono',monospace;letter-spacing:.12em;color:#f2ede0;white-space:nowrap">CONVERSATION STARTERS</span><span style="flex:1;height:0;border-top:1px solid #423d2f"></span></div>
+          <sc-for list="{{ city.starters }}" as="item" hint-placeholder-count="3">
+            <div style="display:flex;gap:12px;padding:13px 0;border-bottom:1px solid #2c2820">
+              <span style="font:600 18px/1.35 'Newsreader',serif;color:#f2ede0">{{ item.n }}</span>
+              <div style="border-left:1px solid #423d2f;padding-left:12px">
+                <div style="font:600 15px/1.32 'Newsreader',serif;color:#f2ede0">{{ item.title }}</div>
+                <div style="margin-top:6px;font:400 12.5px/1.5 'Inter';color:#b4af9f">{{ item.description }}</div>
+                <div style="margin-top:7px;font:500 11px 'Inter';color:#948f80"><a href="{{ item.url }}" style="color:inherit;text-decoration:underline">{{ item.source }}</a> · {{ item.topic }}</div>
+              </div>
+            </div>
+          </sc-for>
+        </div>
+        </sc-if>
+        <sc-if value="{{ city.hasKnow }}" hint-placeholder-val="{{ true }}">
+        <div style="padding:16px 20px 4px">
+          <div style="display:flex;align-items:center;gap:10px;margin-bottom:2px"><span style="font:700 12px 'IBM Plex Mono',monospace;letter-spacing:.12em;color:#f2ede0;white-space:nowrap">YOU SHOULD KNOW</span><span style="flex:1;height:0;border-top:1px solid #423d2f"></span></div>
+          <sc-for list="{{ city.know }}" as="item" hint-placeholder-count="3">
+            <div style="display:flex;gap:12px;padding:13px 0;border-bottom:1px solid #2c2820">
+              <span style="font:600 14px 'Newsreader',serif;color:#948f80">▪</span>
+              <div style="border-left:1px solid #423d2f;padding-left:12px">
+                <div style="font:600 15px/1.32 'Newsreader',serif;color:#f2ede0">{{ item.title }}</div>
+                <div style="margin-top:6px;font:400 12.5px/1.5 'Inter';color:#b4af9f">{{ item.description }}</div>
+                <div style="margin-top:7px;font:500 11px 'Inter';color:#948f80"><a href="{{ item.url }}" style="color:inherit;text-decoration:underline">{{ item.source }}</a> · {{ item.topic }}</div>
+              </div>
+            </div>
+          </sc-for>
+        </div>
+        </sc-if>
+        <sc-if value="{{ city.hasSports }}" hint-placeholder-val="{{ true }}">
+        <div style="padding:12px 20px 24px">
+          <div style="display:flex;align-items:center;gap:10px;margin:6px 0 12px"><span style="font:700 12px 'IBM Plex Mono',monospace;letter-spacing:.12em;color:#f2ede0">SPORTING NEWS</span><span style="flex:1;height:0;border-top:1px solid #423d2f"></span></div>
+          <sc-for list="{{ city.sports }}" as="team" hint-placeholder-count="1">
+            <div style="margin-bottom:13px">
+              <div style="font:600 14px 'Newsreader',serif;color:#f2ede0">{{ team.team }}</div>
+              <sc-for list="{{ team.scores }}" as="s" hint-placeholder-count="1">
+                <div style="margin-top:5px;font:italic 500 12.5px/1.4 'Newsreader',serif;color:#b4af9f">{{ s }}</div>
+              </sc-for>
+            </div>
+          </sc-for>
+        </div>
+        </sc-if>
+      </div>
+    </sc-if>
+
+    <!-- ===== MODERN · LIGHT ===== -->
+    <sc-if value="{{ isML }}" hint-placeholder-val="{{ false }}">
+      <div class="phone" style="background:#fbfaf8;border:1px solid #e8e5de;box-shadow:0 12px 34px rgba(30,34,45,.10)">
+        <div style="display:flex;justify-content:space-between;align-items:center;gap:8px;padding:9px 14px;background:#f2f0ea;border-bottom:1px solid #e8e5de">
+          <div style="display:inline-flex;padding:3px;background:#e2ded4;border-radius:8px;gap:3px"><button onClick="{{ setClassic }}" style="padding:5px 11px;border:none;border-radius:6px;cursor:pointer;font:600 10.5px 'Inter';{{ classicSeg }}">Classic</button><button onClick="{{ setModern }}" style="padding:5px 11px;border:none;border-radius:6px;cursor:pointer;font:600 10.5px 'Inter';{{ modernSeg }}">Modern</button></div>
+          <div style="display:inline-flex;padding:3px;background:#e2ded4;border-radius:8px;gap:3px"><button onClick="{{ setLight }}" style="padding:5px 10px;border:none;border-radius:6px;cursor:pointer;font:600 11px 'Inter';{{ lightSeg }}">☀</button><button onClick="{{ setDark }}" style="padding:5px 10px;border:none;border-radius:6px;cursor:pointer;font:600 11px 'Inter';{{ darkSeg }}">☾</button></div>
+        </div>
+        <div style="padding:20px 22px 14px;border-bottom:1px solid #efece5">
+          <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:16px">
+            <div style="display:flex;align-items:center;gap:8px"><div style="height:22px;padding:0 8px;border-radius:6px;background:#2f5aa8;display:flex;align-items:center;justify-content:center;color:#fff;font:700 10px 'IBM Plex Mono',monospace;white-space:nowrap">One B</div></div>
+          </div>
+          <button onClick="{{ togglePicker }}" style="all:unset;cursor:pointer;display:flex;align-items:center;gap:7px">
+            <span style="font:600 24px/1.08 'Newsreader',serif;color:#1a1c22;letter-spacing:-.01em">{{ city.shortName }}</span>
+            <span style="width:22px;height:22px;border-radius:8px;background:#2f5aa8;color:#fff;font:600 11px/22px 'IBM Plex Mono',monospace;text-align:center;flex:none">▾</span>
+          </button>
+          <sc-if value="{{ pickerOpen }}" hint-placeholder-val="{{ false }}">
+            <div style="border:1px solid #e8e5de;border-radius:10px;overflow:hidden;background:#f4f2ec;margin-top:8px">
+              <sc-for list="{{ cityList }}" as="item" hint-placeholder-count="4">
+                <button onClick="{{ item.onSelect }}" style="all:unset;cursor:pointer;display:block;width:100%;box-sizing:border-box;padding:9px 14px;font:500 12.5px 'Inter';color:#1a1c22;border-top:1px solid #efece5">{{ item.label }}</button>
+              </sc-for>
+            </div>
+          </sc-if>
+          <div style="margin-top:5px;font:500 11px 'Inter';color:#78766c">Talking points · {{ city.dateShort }}</div>
+          <div style="margin-top:14px;display:flex;gap:20px;font:500 12px 'Inter'"><span style="color:#1a1c22;border-bottom:2px solid #2f5aa8;padding-bottom:6px">Today</span><span style="color:#a9a598">Weekly <span style="font:500 9px 'Inter'">(soon)</span></span></div>
+        </div>
+        <sc-if value="{{ city.hasAreOk }}" hint-placeholder-val="{{ true }}">
+        <div style="padding:18px 22px 4px">
+          <div style="background:#eef2fb;border:1px solid #dbe3f4;border-radius:14px;padding:15px 16px">
+            <div style="font:700 12.5px 'Inter';letter-spacing:.05em;text-transform:uppercase;color:#6e6a5f;margin-bottom:9px">Are they ok?</div>
+            <div style="font:600 16.5px/1.3 'Newsreader',serif;color:#1a1c22">{{ city.areOk.title }}</div>
+            <div style="margin-top:8px;font:400 12.5px/1.55 'Inter';color:#5c5f68">{{ city.areOk.description }}</div>
+            <div style="margin-top:11px;font:500 11px 'Inter';color:#6e6a5f"><a href="{{ city.areOk.url }}" style="color:inherit;text-decoration:underline">{{ city.areOk.source }}</a> · {{ city.areOk.topic }}</div>
+          </div>
+        </div>
+        </sc-if>
+        <sc-if value="{{ city.hasStarters }}" hint-placeholder-val="{{ true }}">
+        <div style="padding:18px 22px 4px">
+          <div style="font:700 12.5px 'Inter';letter-spacing:.05em;text-transform:uppercase;color:#6e6a5f;margin-bottom:2px">Conversation starters</div>
+          <sc-for list="{{ city.starters }}" as="item" hint-placeholder-count="3">
+            <div style="padding:13px 0;border-bottom:1px solid #efece5">
+              <div style="font:600 15px/1.32 'Newsreader',serif;color:#1a1c22">{{ item.title }}</div>
+              <div style="margin-top:6px;font:400 12.5px/1.5 'Inter';color:#5c5f68">{{ item.description }}</div>
+              <div style="margin-top:7px;font:500 11px 'Inter';color:#6e6a5f"><a href="{{ item.url }}" style="color:inherit;text-decoration:underline">{{ item.source }}</a> · {{ item.topic }}</div>
+            </div>
+          </sc-for>
+        </div>
+        </sc-if>
+        <sc-if value="{{ city.hasKnow }}" hint-placeholder-val="{{ true }}">
+        <div style="padding:18px 22px 4px">
+          <div style="font:700 12.5px 'Inter';letter-spacing:.05em;text-transform:uppercase;color:#6e6a5f;margin-bottom:2px">You should know</div>
+          <sc-for list="{{ city.know }}" as="item" hint-placeholder-count="3">
+            <div style="padding:13px 0;border-bottom:1px solid #efece5">
+              <div style="font:600 15px/1.32 'Newsreader',serif;color:#1a1c22">{{ item.title }}</div>
+              <div style="margin-top:6px;font:400 12.5px/1.5 'Inter';color:#5c5f68">{{ item.description }}</div>
+              <div style="margin-top:7px;font:500 11px 'Inter';color:#6e6a5f"><a href="{{ item.url }}" style="color:inherit;text-decoration:underline">{{ item.source }}</a> · {{ item.topic }}</div>
+            </div>
+          </sc-for>
+        </div>
+        </sc-if>
+        <sc-if value="{{ city.hasSports }}" hint-placeholder-val="{{ true }}">
+        <div style="padding:16px 22px 24px">
+          <div style="font:700 12.5px 'Inter';letter-spacing:.05em;text-transform:uppercase;color:#6e6a5f;margin-bottom:12px">Sports</div>
+          <sc-for list="{{ city.sports }}" as="team" hint-placeholder-count="1">
+            <div style="margin-bottom:13px">
+              <div style="font:600 14px 'Newsreader',serif;color:#1a1c22">{{ team.team }}</div>
+              <sc-for list="{{ team.scores }}" as="s" hint-placeholder-count="1">
+                <div style="margin-top:5px;font:500 12.5px/1.4 'Inter';color:#5c5f68">{{ s }}</div>
+              </sc-for>
+            </div>
+          </sc-for>
+        </div>
+        </sc-if>
+      </div>
+    </sc-if>
+
+    <!-- ===== MODERN · DARK ===== -->
+    <sc-if value="{{ isMD }}" hint-placeholder-val="{{ false }}">
+      <div class="phone" style="background:#10141c;border:1px solid #232c3d;box-shadow:0 16px 44px rgba(0,0,0,.5)">
+        <div style="display:flex;justify-content:space-between;align-items:center;gap:8px;padding:9px 14px;background:#141a24;border-bottom:1px solid #1e2632">
+          <div style="display:inline-flex;padding:3px;background:#1c2433;border-radius:8px;gap:3px"><button onClick="{{ setClassic }}" style="padding:5px 11px;border:none;border-radius:6px;cursor:pointer;font:600 10.5px 'Inter';{{ classicSeg }}">Classic</button><button onClick="{{ setModern }}" style="padding:5px 11px;border:none;border-radius:6px;cursor:pointer;font:600 10.5px 'Inter';{{ modernSeg }}">Modern</button></div>
+          <div style="display:inline-flex;padding:3px;background:#1c2433;border-radius:8px;gap:3px"><button onClick="{{ setLight }}" style="padding:5px 10px;border:none;border-radius:6px;cursor:pointer;font:600 11px 'Inter';{{ lightSeg }}">☀</button><button onClick="{{ setDark }}" style="padding:5px 10px;border:none;border-radius:6px;cursor:pointer;font:600 11px 'Inter';{{ darkSeg }}">☾</button></div>
+        </div>
+        <div style="padding:20px 22px 14px;border-bottom:1px solid #1e2632">
+          <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:16px">
+            <div style="display:flex;align-items:center;gap:8px"><div style="height:22px;padding:0 8px;border-radius:6px;background:#4677b8;display:flex;align-items:center;justify-content:center;color:#fff;font:700 10px 'IBM Plex Mono',monospace;white-space:nowrap">One B</div></div>
+          </div>
+          <button onClick="{{ togglePicker }}" style="all:unset;cursor:pointer;display:flex;align-items:center;gap:7px">
+            <span style="font:600 24px/1.08 'Newsreader',serif;color:#eef1f6;letter-spacing:-.01em">{{ city.shortName }}</span>
+            <span style="width:22px;height:22px;border-radius:8px;background:#4677b8;color:#fff;font:600 11px/22px 'IBM Plex Mono',monospace;text-align:center;flex:none">▾</span>
+          </button>
+          <sc-if value="{{ pickerOpen }}" hint-placeholder-val="{{ false }}">
+            <div style="border:1px solid #2c3a52;border-radius:10px;overflow:hidden;background:#17202c;margin-top:8px">
+              <sc-for list="{{ cityList }}" as="item" hint-placeholder-count="4">
+                <button onClick="{{ item.onSelect }}" style="all:unset;cursor:pointer;display:block;width:100%;box-sizing:border-box;padding:9px 14px;font:500 12.5px 'Inter';color:#eef1f6;border-top:1px solid #1e2632">{{ item.label }}</button>
+              </sc-for>
+            </div>
+          </sc-if>
+          <div style="margin-top:5px;font:500 11px 'Inter';color:#7a8494">Talking points · {{ city.dateShort }}</div>
+          <div style="margin-top:14px;display:flex;gap:20px;font:500 12px 'Inter'"><span style="color:#eef1f6;border-bottom:2px solid #4677b8;padding-bottom:6px">Today</span><span style="color:#4d5666">Weekly <span style="font:500 9px 'Inter'">(soon)</span></span></div>
+        </div>
+        <sc-if value="{{ city.hasAreOk }}" hint-placeholder-val="{{ true }}">
+        <div style="padding:18px 22px 4px">
+          <div style="background:#182437;border:1px solid #34507a;border-radius:14px;padding:15px 16px">
+            <div style="font:700 12.5px 'Inter';letter-spacing:.05em;text-transform:uppercase;color:#818c9c;margin-bottom:9px">Are they ok?</div>
+            <div style="font:600 16.5px/1.3 'Newsreader',serif;color:#eef1f6">{{ city.areOk.title }}</div>
+            <div style="margin-top:8px;font:400 12.5px/1.55 'Inter';color:#a7b0c0">{{ city.areOk.description }}</div>
+            <div style="margin-top:11px;font:500 11px 'Inter';color:#818c9c"><a href="{{ city.areOk.url }}" style="color:inherit;text-decoration:underline">{{ city.areOk.source }}</a> · {{ city.areOk.topic }}</div>
+          </div>
+        </div>
+        </sc-if>
+        <sc-if value="{{ city.hasStarters }}" hint-placeholder-val="{{ true }}">
+        <div style="padding:18px 22px 4px">
+          <div style="font:700 12.5px 'Inter';letter-spacing:.05em;text-transform:uppercase;color:#818c9c;margin-bottom:2px">Conversation starters</div>
+          <sc-for list="{{ city.starters }}" as="item" hint-placeholder-count="3">
+            <div style="padding:13px 0;border-bottom:1px solid #1e2632">
+              <div style="font:600 15px/1.32 'Newsreader',serif;color:#eef1f6">{{ item.title }}</div>
+              <div style="margin-top:6px;font:400 12.5px/1.5 'Inter';color:#a7b0c0">{{ item.description }}</div>
+              <div style="margin-top:7px;font:500 11px 'Inter';color:#818c9c"><a href="{{ item.url }}" style="color:inherit;text-decoration:underline">{{ item.source }}</a> · {{ item.topic }}</div>
+            </div>
+          </sc-for>
+        </div>
+        </sc-if>
+        <sc-if value="{{ city.hasKnow }}" hint-placeholder-val="{{ true }}">
+        <div style="padding:18px 22px 4px">
+          <div style="font:700 12.5px 'Inter';letter-spacing:.05em;text-transform:uppercase;color:#818c9c;margin-bottom:2px">You should know</div>
+          <sc-for list="{{ city.know }}" as="item" hint-placeholder-count="3">
+            <div style="padding:13px 0;border-bottom:1px solid #1e2632">
+              <div style="font:600 15px/1.32 'Newsreader',serif;color:#eef1f6">{{ item.title }}</div>
+              <div style="margin-top:6px;font:400 12.5px/1.5 'Inter';color:#a7b0c0">{{ item.description }}</div>
+              <div style="margin-top:7px;font:500 11px 'Inter';color:#818c9c"><a href="{{ item.url }}" style="color:inherit;text-decoration:underline">{{ item.source }}</a> · {{ item.topic }}</div>
+            </div>
+          </sc-for>
+        </div>
+        </sc-if>
+        <sc-if value="{{ city.hasSports }}" hint-placeholder-val="{{ true }}">
+        <div style="padding:16px 22px 24px">
+          <div style="font:700 12.5px 'Inter';letter-spacing:.05em;text-transform:uppercase;color:#818c9c;margin-bottom:12px">Sports</div>
+          <sc-for list="{{ city.sports }}" as="team" hint-placeholder-count="1">
+            <div style="margin-bottom:13px">
+              <div style="font:600 14px 'Newsreader',serif;color:#eef1f6">{{ team.team }}</div>
+              <sc-for list="{{ team.scores }}" as="s" hint-placeholder-count="1">
+                <div style="margin-top:5px;font:500 12.5px/1.4 'Inter';color:#a7b0c0">{{ s }}</div>
+              </sc-for>
+            </div>
+          </sc-for>
+        </div>
+        </sc-if>
+      </div>
+    </sc-if>
+
+  </div>
+</section>
+</x-dc>
+<script type="text/x-dc" data-dc-script>
+const RAW_CITIES = [
+  {
+    shortName: "Boulder, CO",
+    date: "2026-07-23",
+    are_you_ok: {
+      title: "1.6 million eggs recalled at Kroger and other stores over salmonella risk, FDA says",
+      description: "The recall affects white-shell and cage-free eggs sold under multiple grocery brands in six states. No illnesses have been reported.",
+      topic: "public-health",
+      url: "https://www.cbsnews.com/colorado/news/egg-recall-salmonella-midwest-poultry-kroger/"
+    },
+    conversation_starters: [
+      { title: "More storms target Colorado Thursday with heavy rain and flash flood threat before weekend heat returns", description: "Watch meteorologist Callie Zanandrie's forecast.", topic: "severe-weather", url: "https://www.cbsnews.com/colorado/video/more-storms-target-colorado-thursday-with-heavy-rain-and-flash-flood-threat-before-weekend-heat-retu/" },
+      { title: "I-70 back open in western Colorado after large mudslides prompted closure", description: "The highway had been fully closed since Monday evening between Silt and New Castle due to mud and debris covering the lanes.", topic: "transportation", url: "https://www.9news.com/article/traffic/mudslide-closes-interstate-70/73-c2404566-328f-4a8f-87ec-08a2a949e62d" },
+      { title: "Castle Rock implements Stage 2 drought restrictions as Colorado residents fear for their plants", description: "The Town of Castle Rock has implemented Stage 2 drought restrictions in response to sustained high water demand and low water supply.", topic: "drought-water", url: "https://www.cbsnews.com/colorado/news/castle-rock-implements-stage-2-drought-restrictions/" }
+    ],
+    sports: [],
+    you_should_know: [
+      { title: "Licenses suspended at Denver nightclub where 9 people shot", description: "Denver Department of Licensing and Consumer Protection documents allege multiple instances of violence and licensing issues at the Ultra Lounge East nightclub.", topic: "violent-crime", url: "https://www.9news.com/article/news/crime/denver-nightclub-license-suspended-shooting/73-57591559-9169-4074-97bb-9c63fc1c3fde" },
+      { title: "Family briefly returns to Bishop Castle before new mandatory wildfire evacuations", description: "The Bishop family was able to briefly return to Bishop Castle on Monday, before new mandatory evacuations went into effect. The castle remains closed.", topic: "wildfire", url: "https://www.9news.com/article/news/local/wildfire/returns-bishop-castle-new-wildfire-evacuations/73-9d20ad38-a656-4a02-a2c0-7ae4506e7e75" },
+      { title: "Fort Collins pays $500K after officer arrested sober driver for DUI", description: "An internal investigation found in at least nine instances, no alcohol or drugs were found in blood tests for people then-Officer Jason Haferman arrested for DUI.", topic: "policing", url: "https://www.9news.com/article/news/local/colorado-news/fort-collins-pays-500k-after-officer-arrested-sober-driver/73-c7bf2f8d-6c10-4c02-9290-a3f831a21db5" }
+    ]
+  },
+  {
+    shortName: "Minneapolis–St. Paul",
+    date: "2026-07-23",
+    are_you_ok: {
+      title: "1.5 million eggs sold at Kroger, Brookshire and smaller stores recalled",
+      description: "Salmonella fears spurred the recall of over 1.5 million eggs that were sold in multiple states under several different brand names.",
+      topic: "public-health",
+      url: "https://www.fox9.com/news/1-5-million-eggs-sold-kroger-brookshire-smaller-stores-recalled"
+    },
+    conversation_starters: [
+      { title: "Loring Park Art Festival brings 165 artists, live music, and fashion shows to Minneapolis this weekend", description: "The two-day outdoor festival features visual artists, live music, a culinary market, and a fashion show both days at 1:30 p.m.", topic: "civic-events", url: "https://www.cbsnews.com/minnesota/video/loring-park-art-festival-brings-165-artists-live-music-and-fashion-shows-to-minneapolis-this-weeke/" },
+      { title: "New report shows crime trending down in Minneapolis", description: "The homicide rate has lowered 30% in Minneapolis in 2026 as compared to the previous year.", topic: "violent-crime", url: "https://www.kare11.com/article/news/local/new-report-shows-crime-trending-down-in-minneapolis/89-70bec431-526c-4894-b613-c760962daf02" },
+      { title: "This Lake Superior island seen in Split Rock Lighthouse photos now has a following of its own — and you can walk to it", description: "Thousands of pictures of Split Rock Lighthouse are taken each year. And oftentimes a little island appears in those photos. Ellingsen Island has developed a following of its own.", topic: "human-interest", url: "https://www.cbsnews.com/minnesota/news/ellingsen-island-lake-superior-finding-minnesota/" }
+    ],
+    sports: [ { team: "Minnesota United", scores: ["Sporting KC 2, Minnesota United 1"] } ],
+    you_should_know: [
+      { title: "Live updates: Vance Boelter to be sentenced for MN lawmakers shootings", description: "Vance Boelter will appear in court to face sentencing on Thursday for the shootings of two Minnesota lawmakers last year.", topic: "violent-crime", url: "https://www.fox9.com/live-blog/news/live-updates-vance-boelter-be-sentenced-mn-lawmakers-shootings" },
+      { title: "St. Paul leasing office shooting victims remembered for kindness, friendship and devotion to family", description: "The man charged in the killings made his first court appearance Wednesday. His bail remains set at $10 million.", topic: "violent-crime", url: "https://www.kare11.com/article/news/local/st-paul-leasing-office-shooting-victims-remembered-kindness-friendship-devotion-family/89-982485e4-8b10-4bb2-9f11-621e01abdb3c" },
+      { title: "St. Paul authorizes $1 million for expanding shelters ahead of planned encampment closures", description: "After officials in Minnesota's capital city announced they would shut down encampments for those experiencing homelessness, the City Council approved more than $1 million to expand capacity at local shelters.", topic: "housing", url: "https://www.cbsnews.com/minnesota/news/st-paul-authorizes-1-million-for-shelters-ahead-of-encampment-closures/" }
+    ]
+  },
+  {
+    shortName: "San Antonio, TX",
+    date: "2026-07-23",
+    are_you_ok: {
+      title: "Dangerous heat grips South Texas before slight cooldown",
+      description: "Triple-digit heat returns Wednesday, with heat index values up to 114 degrees as Texas power demand reaches record levels.",
+      topic: "heat",
+      url: "https://www.kens5.com/article/weather/forecast/heat-advisory-san-antonio-ercot-power-grid-electricity-triple-digits-heat-index-energy-demand-forecast-summer-hydration-air-conditioning/273-41ced3d1-9b66-4961-a7dc-a98c34a6a579"
+    },
+    conversation_starters: [
+      { title: "San Antonio has lost 2K manufacturing jobs since 2024. Industry experts say they aren't too concerned.", description: "Greater:SATX, an organization tasked with bringing jobs to the San Antonio region, attributes the decline to the labor market settling.", topic: "business-jobs", url: "https://sanantonioreport.org/san-antonio-texas-lost-2k-manufacturing-jobs/" },
+      { title: "Free Sounds of Downtown concert series kicks off at Travis Park", description: "Live music, food trucks and free parking return to downtown San Antonio with a weekly summer concert series.", topic: "civic-events", url: "https://www.kens5.com/article/news/local/sounds-downtown-travis-park-centro-san-antonio-district1-sukh-kaur-live-music-food-trucks-free-concert-downtown-thursdays-summer/273-79e77772-e272-4310-bb1d-f200cfe24f24" }
+    ],
+    sports: [],
+    you_should_know: [
+      { title: "Data centers emerge as flashpoint in Texas governor's race", description: "Concerns over water, power and rural land are turning AI data centers into a major issue in Texas politics.", topic: "data-centers", url: "https://www.kens5.com/article/news/local/texas/data-centers-ai-greg-abbott-gina-hinojosa-rural-texas-water-electricity-power-grid-campaign-governor-election-infrastructure-development/273-912a31c5-9d2d-420f-a4e8-8e517f000a8c" }
+    ]
+  },
+  {
+    shortName: "Wheeling, WV-OH",
+    date: "2026-07-23",
+    are_you_ok: null,
+    conversation_starters: [],
+    sports: [],
+    you_should_know: [
+      { title: "West Virginia Wesleyan College, American Red Cross among groups aiding Upshur County relief", description: "WVWC serves as the hub for supply donations to the area, aiding relief efforts after the major Upshur County flood disaster.", topic: "flood", url: "https://wvmetronews.com/2026/07/23/west-virginia-wesleyan-college-american-red-cross-among-groups-aiding-upshur-county-relief/" },
+      { title: "About As Good As It Gets In Late July", description: "Multiple tornado warnings were issued in the area and two tornadoes touched down in Muskingum County Tuesday afternoon, part of a severe storm system moving through the region.", topic: "severe-weather", url: "https://www.wtrf.com/weather/about-as-good-as-it-gets-in-late-july/" }
+    ]
+  }
+];
+
+function sourceLabel(url) {
+  if (url.includes("cbsnews.com/colorado")) return "CBS Colorado";
+  if (url.includes("cbsnews.com/minnesota")) return "CBS Minnesota";
+  if (url.includes("9news.com")) return "9NEWS";
+  if (url.includes("fox9.com")) return "FOX 9";
+  if (url.includes("kare11.com")) return "KARE 11";
+  if (url.includes("kens5.com")) return "KENS 5";
+  if (url.includes("sanantonioreport.org")) return "San Antonio Report";
+  if (url.includes("wvmetronews.com")) return "WV MetroNews";
+  if (url.includes("wtrf.com")) return "WTRF";
+  return "Source";
+}
+function topicLabel(t) { return t.replace(/-/g, " "); }
+const DOW = ["SUNDAY","MONDAY","TUESDAY","WEDNESDAY","THURSDAY","FRIDAY","SATURDAY"];
+const MON = ["January","February","March","April","May","June","July","August","September","October","November","December"];
+function formatDate(iso) {
+  const d = new Date(iso + "T12:00:00");
+  const dow = DOW[d.getDay()];
+  const mon = MON[d.getMonth()];
+  const day = d.getDate();
+  const year = d.getFullYear();
+  return {
+    long: dow + ", " + mon.toUpperCase() + " " + day + ", " + year,
+    short: dow.charAt(0) + dow.slice(1).toLowerCase() + ", " + mon + " " + day
+  };
+}
+const NUM_WORDS = ["1","2","3","4","5"];
+const SEG_ON_L = "background:#1a1a17;color:#f5f3ec";
+const SEG_ON_D = "background:#ece7d9;color:#17150f";
+const SEG_OFF_L = "background:transparent;color:#57534a";
+const SEG_OFF_D = "background:transparent;color:#9c9686";
+
+class Component extends DCLogic {
+  state = { style: "classic", theme: "light", cityIdx: 1, pickerOpen: false };
+  selectCity = (idx) => { this.setState({ cityIdx: idx, pickerOpen: false }); };
+  renderVals() {
+    const s = this.state;
+    const isC = s.style === "classic";
+    const isL = s.theme === "light";
+    const raw = RAW_CITIES[s.cityIdx];
+    const dates = formatDate(raw.date);
+    const mapItem = (it) => ({ title: it.title, description: it.description, url: it.url, source: sourceLabel(it.url), topic: topicLabel(it.topic) });
+    const city = {
+      shortName: raw.shortName,
+      dateLong: dates.long,
+      dateShort: dates.short,
+      hasAreOk: !!raw.are_you_ok,
+      areOk: (() => { const ao = raw.are_you_ok ? mapItem(raw.are_you_ok) : null; if (ao) { ao.dropCap = ao.description.charAt(0); ao.descRest = ao.description.slice(1); } return ao; })(),
+      hasStarters: raw.conversation_starters.length > 0,
+      starters: raw.conversation_starters.map((it, i) => Object.assign({ n: NUM_WORDS[i] }, mapItem(it))),
+      hasKnow: raw.you_should_know.length > 0,
+      know: raw.you_should_know.map(mapItem),
+      hasSports: raw.sports.length > 0,
+      sports: raw.sports
+    };
+    const cityList = RAW_CITIES.map((c, i) => ({
+      idx: i,
+      label: (i === s.cityIdx ? "✓ " : "") + c.shortName,
+      onSelect: () => this.selectCity(i)
+    }));
+    return {
+      city,
+      cityList,
+      pickerOpen: s.pickerOpen,
+      isCL: isC && isL,
+      isCD: isC && !isL,
+      isML: !isC && isL,
+      isMD: !isC && !isL,
+      classicSeg: isC ? (isL ? SEG_ON_L : SEG_ON_D) : (isL ? SEG_OFF_L : SEG_OFF_D),
+      modernSeg: !isC ? (isL ? SEG_ON_L : SEG_ON_D) : (isL ? SEG_OFF_L : SEG_OFF_D),
+      lightSeg: isL ? (isL ? SEG_ON_L : SEG_ON_D) : (isL ? SEG_OFF_L : SEG_OFF_D),
+      darkSeg: !isL ? (isL ? SEG_ON_L : SEG_ON_D) : (isL ? SEG_OFF_L : SEG_OFF_D),
+      togglePicker: () => this.setState(st => ({ pickerOpen: !st.pickerOpen })),
+      toggleTheme: () => this.setState(st => ({ theme: st.theme === "light" ? "dark" : "light" })),
+      setClassic: () => this.setState({ style: "classic" }),
+      setModern: () => this.setState({ style: "modern" }),
+      setLight: () => this.setState({ theme: "light" }),
+      setDark: () => this.setState({ theme: "dark" })
+    };
+  }
+}
+</script>
+</body>
+</html>

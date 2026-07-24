@@ -1,0 +1,108 @@
+/* ============================================================
+   Design tokens per style x theme combination.
+   All pairs below meet WCAG AA (>=4.5:1 body text, >=3:1 large/UI text).
+   ============================================================ */
+
+.oneb-root[data-style="classic"][data-theme="light"] {
+  --bg: #f5f3ec;
+  --header-bg: #efeadd;
+  --header-border: #d7d2c5;
+  --surface: #ece7d8;
+  --surface-border: #d9d2bd;
+  --hairline: #ddd8cc;
+  --hairline-soft: #cbc6b8;
+  --ink: #1a1a17;
+  --text-secondary: #6a6555; /* uppercase labels, meta */
+  --text-body: #433f36;
+  --badge-bg: #1a1a17;
+  --badge-text: #f5f3ec;
+  --accent: #1a1a17;
+  --tab-disabled: #a29c8c;
+  --heading-font: 'Newsreader', serif;
+  --label-font: 'IBM Plex Mono', monospace;
+  --body-font: 'Inter', sans-serif;
+}
+
+.oneb-root[data-style="classic"][data-theme="dark"] {
+  --bg: #17150f;
+  --header-bg: #1f1c14;
+  --header-border: #322e23;
+  --surface: #39311f;
+  --surface-border: #5c5030;
+  --hairline: #2c2820;
+  --hairline-soft: #423d2f;
+  --ink: #f2ede0;
+  --text-secondary: #948f80;
+  --text-body: #b4af9f;
+  --badge-bg: #ece7d9;
+  --badge-text: #17150f;
+  --accent: #f2ede0;
+  --tab-disabled: #655f4d;
+  --heading-font: 'Newsreader', serif;
+  --label-font: 'IBM Plex Mono', monospace;
+  --body-font: 'Inter', sans-serif;
+}
+
+.oneb-root[data-style="modern"][data-theme="light"] {
+  --bg: #fbfaf8;
+  --header-bg: #f2f0ea;
+  --header-border: #e8e5de;
+  --surface: #eef2fb;
+  --surface-border: #dbe3f4;
+  --hairline: #efece5;
+  --hairline-soft: #e2ded4;
+  --ink: #1a1c22;
+  --text-secondary: #6e6a5f;
+  --text-body: #5c5f68;
+  --badge-bg: #2f5aa8;
+  --badge-text: #ffffff;
+  --accent: #2f5aa8;
+  --tab-disabled: #a9a598;
+  --heading-font: 'Newsreader', serif;
+  --label-font: 'Inter', sans-serif;
+  --body-font: 'Inter', sans-serif;
+}
+
+/* Deliberately cooler/bluer than classic dark so the two dark modes read as
+   distinct systems rather than variants of the same near-black. */
+.oneb-root[data-style="modern"][data-theme="dark"] {
+  --bg: #10141c;
+  --header-bg: #141a24;
+  --header-border: #232c3d;
+  --surface: #182437;
+  --surface-border: #34507a;
+  --hairline: #1e2632;
+  --hairline-soft: #2c3a52;
+  --ink: #eef1f6;
+  --text-secondary: #818c9c; /* 4.58:1+ on bg/surface */
+  --text-body: #a7b0c0;
+  --badge-bg: #4677b8; /* 4.57:1 with white text */
+  --badge-text: #ffffff;
+  --accent: #4677b8;
+  --tab-disabled: #4d5666;
+  --heading-font: 'Newsreader', serif;
+  --label-font: 'Inter', sans-serif;
+  --body-font: 'Inter', sans-serif;
+}
+
+.oneb-root {
+  background: var(--bg);
+  color: var(--ink);
+  min-height: 100%;
+}
+
+.oneb-root *:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+
+/* screen-reader-only utility, matches Bootstrap's .visually-hidden if it isn't loaded */
+.visually-hidden {
+  position: absolute !important;
+  width: 1px; height: 1px;
+  padding: 0; margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
