@@ -1,0 +1,93 @@
+{
+  "shortName": "San Antonio, TX",
+  "metroCode": "41700",
+  "metro": "San Antonio-New Braunfels, TX",
+  "date": "2026-07-24",
+  "are_you_ok": {
+    "title": "Third death reported from Hill Country and South Texas flooding last week, Gov. Abbott says",
+    "summary": "Flooding deaths in region, broad population safety check-in relevant to metro area",
+    "source": "KENS 5",
+    "topic": "flood",
+    "url": "https://www.kens5.com/article/news/local/third-death-reported-from-hill-country-and-south-texas-flooding-last-week-gov-abbott-says/273-b0376749-339b-4fe8-808d-3da008d257be",
+    "published_at": "2026-07-24T21:36:35+00:00",
+    "image": {
+      "url": "https://media.tegna-media.com/assets/KENS/images/e71e495f-f627-4be9-bf83-069c3dfdc1e6/20260501T195052/e71e495f-f627-4be9-bf83-069c3dfdc1e6_750x422.jpg",
+      "alt": ""
+    },
+    "description": "Severe weather in South Texas claimed at least three lives after Val Verde County officials confirmed an 71-year-old woman died amid rising floodwaters."
+  },
+  "conversation_starters": [
+    {
+      "title": "San Antonio’s homicide decline is clear — it’s less clear why",
+      "summary": "San Antonio homicides fell 8% — a positive, metro-wide, work-safe civic-data story. You could open with: 'Did you see San Antonio homicides dropped another 8%? Interesting nobody's sure why.'",
+      "source": "San Antonio Report",
+      "topic": "violent-crime",
+      "url": "https://sanantonioreport.org/san-antonios-homicide-decline-is-clear-its-less-clear-why/",
+      "published_at": "2026-07-24T17:25:18+00:00",
+      "image": {
+        "url": "https://i0.wp.com/sanantonioreport.org/wp-content/uploads/2026/07/Brenda-Bazan-Hays-st-east-side-2-scaled-1.jpg?fit=1024%2C768&ssl=1",
+        "alt": ""
+      },
+      "description": "San Antonio homicides fell another 8%, raising new questions about which public safety strategies are reducing violence.San Antonio’s homicide decline is clear — it’s less clear why was first posted on July 24, 2026 at 12:25 pm.©2021 \"San Antonio Report\". Use of this feed is for"
+    },
+    {
+      "title": "Boaters return as Canyon Lake reaches full conservation pool for first time in more than 4 years",
+      "summary": "Canyon Lake reaches full conservation pool for first time in 4+ years — notable regional water-condition turnaround and a natural talker for locals. You could open with: 'Heard Canyon Lake finally hit full pool for the first time in four years — boaters are back out there.'",
+      "source": "KENS 5",
+      "topic": "drought-water",
+      "url": "https://www.kens5.com/article/news/local/texas/canyon-lake-100-full-first-time-4-years-texas/273-7250ad51-6586-46fa-8fec-389af1d7b2bd",
+      "published_at": "2026-07-24T03:48:58+00:00",
+      "image": null,
+      "description": "The U.S. Army Corps of Engineers encourages people to have fun but keep cautious due to flood debris and other hazards on the lake."
+    },
+    {
+      "title": "From local streets and heroes to SCOTUS justices and vibes, here’s how San Antonio schools got their names",
+      "summary": "Light, novel local piece on how SA schools got their names — a fun, work-safe opener. You could open with: 'Did you see that piece on how San Antonio schools got their names — some named after SCOTUS justices, some just for the vibes?'",
+      "source": "San Antonio Report",
+      "topic": "human-interest",
+      "url": "https://sanantonioreport.org/school-name-history-of-san-antonio-2026/",
+      "published_at": "2026-07-24T10:00:00+00:00",
+      "image": {
+        "url": "https://i0.wp.com/sanantonioreport.org/wp-content/uploads/2026/07/School-Names-6-Block.1.jpg?fit=1024%2C683&ssl=1",
+        "alt": ""
+      },
+      "description": "In San Antonio, schools are named after neighborhoods, Supreme Court Justices, literary talents and local heroes. From local streets and heroes to SCOTUS justices and vibes, here’s how San Antonio schools got their names was first posted on July 24, 2026 at 5:00 am.©2021 \"San"
+    }
+  ],
+  "sports": [],
+  "you_should_know": [
+    {
+      "title": "Arrests made in migrant deaths discovered in Laredo and San Antonio in May",
+      "summary": "Arrests in migrant deaths in Laredo and San Antonio — part of the local immigration/enforcement climate a manager should walk in aware of; not a work-safe opener and not a broad check-in.",
+      "source": "KENS 5",
+      "topic": "immigration-enforcement",
+      "url": "https://www.kens5.com/article/news/local/us-attorneys-office-announces-update-in-migrant-deaths-discovered-in-laredo-and-san-antonio-in-may/273-88612381-fe34-4d9a-aad4-a74b5169a30b",
+      "published_at": "2026-07-24T16:09:24+00:00",
+      "image": null,
+      "description": "Multiple arrests have been made in connection to migrant deaths in Laredo and San Antonio, authorities say."
+    },
+    {
+      "title": "Gov. Abbott heads to Cotulla as La Salle County begins flood recovery",
+      "summary": "Abbott visits Cotulla as La Salle County recovers from flooding; La Salle is in-region south of the metro. Flood-recovery/official-visit framing means awareness, not a broad metro check-in.",
+      "source": "KENS 5",
+      "topic": "flood",
+      "url": "https://www.kens5.com/article/news/local/cotulla-abbott-la-salle-county-nueces-river-flooding-recovery-mustang-creek-road-closures-istat-tdem-damage-cleanup-floodwaters-court/273-cce7ca68-4f84-444e-a0ee-997cf7f4be9a",
+      "published_at": "2026-07-24T15:17:48+00:00",
+      "image": null,
+      "description": "Gov. Greg Abbott will visit Cotulla Friday as families assess flood damage, roads remain closed and recovery efforts continue across La Salle County."
+    },
+    {
+      "title": "Discord agrees to court-ordered safety measures for Texas kids after temporary injunction",
+      "summary": "State-level court outcome (injunction) requiring Discord child-safety measures for Texas kids — statewide institutional context; keep-when-unsure. Affects families broadly but is a legal/policy outcome, not an acute check-in event.",
+      "source": "KENS 5",
+      "topic": "public-health",
+      "url": "https://www.kens5.com/article/news/local/texas/discord-safety-measures-texas-kids-temporary-injunction/269-e96feb2a-be51-4cb9-b6b3-cca5ccb5fa34",
+      "published_at": "2026-07-24T21:20:00+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/WFAA/images/b8851bb6-ca3b-4575-a77a-3c7cac21d634/20260225T182136/b8851bb6-ca3b-4575-a77a-3c7cac21d634_750x422.jpg",
+        "alt": ""
+      },
+      "description": "Texas has secured a temporary injunction requiring Discord to activate UK-level safety measures for children in Texas within 90 days."
+    }
+  ]
+}

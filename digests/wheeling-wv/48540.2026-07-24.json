@@ -1,0 +1,77 @@
+{
+  "shortName": "Wheeling, WV",
+  "metroCode": "48540",
+  "metro": "Wheeling, WV-OH",
+  "date": "2026-07-24",
+  "are_you_ok": null,
+  "conversation_starters": [
+    {
+      "title": "43rd Upper Ohio Valley Italian Heritage Festival brings together traditional foods with cooking demonstrations at Little Italy Tent",
+      "summary": "Marquee local festival, good conversation starter. You could open with: Did you catch the Italian Heritage Festival in Wheeling this year?",
+      "source": "Wheeling News and Weather",
+      "topic": "civic-events",
+      "url": "https://www.wtrf.com/community/43rd-upper-ohio-valley-italian-heritage-festival-brings-together-traditional-foods-with-cooking-demonstrations-at-little-italy-tent/",
+      "published_at": "2026-07-24T22:50:48+00:00",
+      "image": {
+        "url": "https://www.wtrf.com/wp-content/uploads/sites/25/2026/07/ITALIAN-COOKING-PKG-.00_01_47_23.Still001.jpg?w=900",
+        "alt": ""
+      },
+      "description": "WHEELING, W.Va. (WTRF) - From pasta to desserts, there is a taste for everyone at the Upper Ohio Valley Italian Heritage Festival. At the Little Italy Tent, festival goers will be able to see live demonstrations of how some of these traditional foods are made. One of the things"
+    },
+    {
+      "title": "EF-1 Tornado confirmed in Pendleton County, full report released",
+      "summary": "Confirmed tornado event with damage report, relevant weather story. You could open with: Did you hear an EF-1 tornado touched down in Pendleton County?",
+      "source": "WV MetroNews",
+      "topic": "severe-weather",
+      "url": "https://wvmetronews.com/2026/07/24/ef-1-tornado-confirmed-in-pendleton-county-full-report-released/",
+      "published_at": "2026-07-24T21:30:06+00:00",
+      "image": {
+        "url": "https://s3.us-east-005.backblazeb2.com/wvmn-s3/2026/07/Image-7-24-26-at-5.22%E2%80%AFPM-300x225.jpeg",
+        "alt": ""
+      },
+      "description": "PENDLETON COUNTY, W.Va. — The National Weather Service has officially confirmed that an EF-1 tornado touched down in Pendleton County on Tuesday evening, packing peak winds of 100 mph and leaving a nearly 10.5-mile path of destruction in its wake. Despite the widespread damage,"
+    },
+    {
+      "title": "Walmart commits $500,000 to mobilize showers, laundry services in Weston and Buckhannon",
+      "summary": "Walmart commits $500K for mobile showers/laundry for flood-affected Weston and Buckhannon. Relief/benefit framing tied to the flood, so conversation starter rather than are-you-ok. You could open with: 'Did you see Walmart set up showers and laundry for the flood recovery in Weston and Buckhannon?'",
+      "source": "WV MetroNews",
+      "topic": "flood",
+      "url": "https://wvmetronews.com/2026/07/24/walmart-mobilizes-showers-and-meals-in-buckhannon/",
+      "published_at": "2026-07-24T22:29:16+00:00",
+      "image": {
+        "url": "https://s3.us-east-005.backblazeb2.com/wvmn-s3/2026/07/58f29273-abc0-4065-a4a4-091c4792d34a-225x300.jpg",
+        "alt": ""
+      },
+      "description": "Services being offered at the Walmart Supercenter in Buckhannon. The post Walmart commits $500,000 to mobilize showers, laundry services in Weston and Buckhannon appeared first on WV MetroNews."
+    }
+  ],
+  "sports": [],
+  "you_should_know": [
+    {
+      "title": "Names released in flood fatality",
+      "summary": "Flood fatalities named - significant local impact context tied to ongoing flood disaster.",
+      "source": "WV MetroNews",
+      "topic": "flood",
+      "url": "https://wvmetronews.com/2026/07/24/names-released-in-flood-fatality/",
+      "published_at": "2026-07-24T18:12:26+00:00",
+      "image": {
+        "url": "https://s3.us-east-005.backblazeb2.com/wvmn-s3/2026/07/State-Police-Flood-300x202.jpg",
+        "alt": ""
+      },
+      "description": "Man and woman identified in flood related deaths. The post Names released in flood fatality appeared first on WV MetroNews."
+    },
+    {
+      "title": "House speaker requests special session to remove delegate from office after sex crime charges",
+      "summary": "Speaker calling special session to expel delegate over sex crime charges — political-institutional outcome landing on state; you should know.",
+      "source": "WV MetroNews",
+      "topic": "elections-politics",
+      "url": "https://wvmetronews.com/2026/07/24/house-speaker-requests-special-session-focused-on-removing-delegate-from-office-after-sex-crime-charges/",
+      "published_at": "2026-07-24T15:35:22+00:00",
+      "image": {
+        "url": "https://wvmetronews.com/wp-content/uploads/2023/02/PBZ_8824-1-300x200.jpg",
+        "alt": ""
+      },
+      "description": "Roger Hanshaw sent a letter requesting the special session on August 10 'for the limited purpose of considering and acting upon a resolution to expel Delegate D. Elliott Pritt from membership in the West Virginia House of Delegates.' The post House speaker requests special"
+    }
+  ]
+}

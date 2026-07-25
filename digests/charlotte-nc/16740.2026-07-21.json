@@ -1,0 +1,41 @@
+{
+  "shortName": "Charlotte, NC",
+  "metroCode": "16740",
+  "metro": "Charlotte-Concord-Gastonia, NC-SC",
+  "date": "2026-07-21",
+  "are_you_ok": {
+    "title": "NC cyclosporiasis cases surge past 500; health officials still looking for source",
+    "summary": "Statewide disease outbreak surging, systemic public health effect reaching the metro - genuine check-in item.",
+    "source": "NBC Charlotte",
+    "topic": "public-health",
+    "url": "https://www.wcnc.com/article/news/health/north-carolina-cyclosporiasis-cases-july-21-2026/275-95a9ffef-0621-43f3-88ad-d1203d75f55a",
+    "published_at": "2026-07-21T21:49:36+00:00",
+    "image": null,
+    "description": "North Carolina's cyclosporiasis cases have nearly doubled in a week to 561, and health officials still haven't found the source."
+  },
+  "conversation_starters": [
+    {
+      "title": "Shutdown lifted for Fury 325 at Carowinds, NC Labor Commissioner says",
+      "summary": "Fury 325 at Carowinds cleared to reopen after foundation shutdown — a beloved regional landmark ride, light work-safe local news. You could open with: 'Fury 325's back open at Carowinds — you a coaster person?'",
+      "source": "NBC Charlotte",
+      "topic": "other",
+      "url": "https://www.wcnc.com/article/news/local/shutdown-lifted-for-fury-325-at-carowinds/275-af4c5585-c08a-4bcc-9614-8d27afbbfa1a",
+      "published_at": "2026-07-21T23:56:11+00:00",
+      "image": null,
+      "description": "Fury 325 was closed on July 7 for a foundation issue."
+    }
+  ],
+  "sports": [],
+  "you_should_know": [
+    {
+      "title": "Lost Ground: Politics stalled North Carolina landslide mapping years before Helene slides killed 31",
+      "summary": "Investigation into how politics stalled NC landslide mapping before Helene's deadly slides — political-institutional accountability story landing on the state; keep as context per keep-when-unsure on the political boundary.",
+      "source": "NBC Charlotte",
+      "topic": "elections-politics",
+      "url": "https://www.wcnc.com/article/news/investigations/lost-ground-political-missteps-helene-landslides-killed-western-north-carolina-residents/275-f9719997-8309-4fc0-a9e0-a199e334e746",
+      "published_at": "2026-07-21T18:53:57+00:00",
+      "image": null,
+      "description": "As Helene devastated western North Carolina, the state's on again, off again landslide mapping program left many without critical safety information."
+    }
+  ]
+}

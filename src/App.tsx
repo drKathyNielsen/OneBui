@@ -1,35 +1,31 @@
-import './App.css'
-import Container from 'react-bootstrap/Container';
-import Row from 'react-bootstrap/Row';
-import Col from 'react-bootstrap/Col';
-
-import 'bootstrap/dist/css/bootstrap.min.css';
-
+import { useState } from 'react';
+import { useAppearance } from './hooks/useAppearance';
+import { RAW_CITIES } from './data/cities';
 import TopNavBar from './components/TopNavBar';
 import CitySideBar from './components/CitySideBar';
-import Content from './components/Content';
+import NewsDigest from './components/NewsDigest';
 import Footer from './components/Footer';
 
-function App() {
+export default function App() {
+  const { style, theme, setStyle, setTheme } = useAppearance();
+  const [cityIdx, setCityIdx] = useState(1);
 
   return (
-    <>
-      <TopNavBar />
-      <Container fluid>
-        <Row>
-          <Col lg={2} md={3} sm={5} xs={12} className="border-end">
-            <CitySideBar />
-          </Col>
-          <Col lg={10} md={9} sm={7} xs={12}>
-            <Content />
-          </Col>
-        </Row>
-      </Container>
+    <div className="oneb-root" data-style={style} data-theme={theme}>
+      <TopNavBar style={style} theme={theme} onStyleChange={setStyle} onThemeChange={setTheme} />
+      <div className="oneb-shell">
+        <div className="container-fluid">
+          <div className="row">
+            <div className="col-12 col-md-3 col-lg-2 oneb-sidebar-col">
+              <CitySideBar cities={RAW_CITIES} cityIdx={cityIdx} onSelect={setCityIdx} />
+            </div>
+            <div className="col-12 col-md-9 col-lg-10 oneb-content-col">
+              <NewsDigest city={RAW_CITIES[cityIdx]} />
+            </div>
+          </div>
+        </div>
+      </div>
       <Footer />
-    </>
-  )
+    </div>
+  );
 }
-
-export default App
-
-

@@ -1,0 +1,77 @@
+{
+  "shortName": "San Antonio, TX",
+  "metroCode": "41700",
+  "metro": "San Antonio-New Braunfels, TX",
+  "date": "2026-07-25",
+  "are_you_ok": null,
+  "conversation_starters": [
+    {
+      "title": "San Antonio Animal Care Services waives adoption fees as shelter exceeds capacity after recent weather",
+      "summary": "Animal shelter waiving adoption fees after weather surge — light, actionable local feel-good story; safe metro opener. You could open with: 'Did you see the San Antonio shelter is waiving adoption fees right now?'",
+      "source": "KENS 5",
+      "topic": "human-interest",
+      "url": "https://www.kens5.com/article/life/animals/san-antonio-animal-care-services-0-adoption-fees-shelter-capacity-texas-weather-flood/273-0859bf4b-dcc1-434d-9d7e-322d70d3dd6e",
+      "published_at": "2026-07-25T04:10:31+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/dc3ca437-59bd-4329-91bd-877644d69674/dc3ca437-59bd-4329-91bd-877644d69674_750x422.jpg",
+        "alt": ""
+      },
+      "description": "San Antonio's animal shelter is waiving adoption fees amid overcrowding from a surge in pets following severe weather, urging locals to adopt or foster to help."
+    },
+    {
+      "title": "AC/DC brings electric POWER UP Tour to San Antonio's Alamodome",
+      "summary": "Marquee concert at the Alamodome — a light, fun local opener. You could open with: 'Did you catch AC/DC at the Alamodome? How was it?'",
+      "source": "KENS 5",
+      "topic": "civic-events",
+      "url": "https://www.kens5.com/article/news/local/san-antonio-texas-satx-acdc-power-up-tour-alamodome-concert-photos-july-2026/273-831e158e-ab44-47c0-b71d-1aae3c0b6907",
+      "published_at": "2026-07-25T19:32:22+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/e6b95942-e978-4c78-81f4-d52619e08253/20260725T151734/e6b95942-e978-4c78-81f4-d52619e08253_750x422.jpg",
+        "alt": ""
+      },
+      "description": "AC/DC electrified San Antonio's Alamodome with their POWER UP Tour, delivering classic rock anthems and high-energy performances, captivating a sea of fans."
+    },
+    {
+      "title": "LiftFund launches new Hill Country flood relief program as businesses rebuild all over again",
+      "summary": "Flood relief grants for Hill Country businesses — mitigation/benefit framing, not a check-in; bounded to affected businesses. Regional interest. You could open with: 'Did you hear LiftFund is offering flood-recovery grants to Hill Country businesses?'",
+      "source": "San Antonio Report",
+      "topic": "flood",
+      "url": "https://sanantonioreport.org/liftfund-launches-new-hill-country-flood-relief-program-as-businesses-rebuild-all-over-again/",
+      "published_at": "2026-07-25T19:00:00+00:00",
+      "image": {
+        "url": "https://i0.wp.com/sanantonioreport.org/wp-content/uploads/2026/07/download-12.jpeg?fit=1024%2C576&ssl=1",
+        "alt": ""
+      },
+      "description": "After another round of destructive flooding, LiftFund is offering grants of up to $10,000 to affected small businesses and nonprofits.LiftFund launches new Hill Country flood relief program as businesses rebuild all over again was first posted on July 25, 2026 at 2:00 pm.©2021"
+    }
+  ],
+  "sports": [],
+  "you_should_know": [
+    {
+      "title": "11 indicted in migrant-smuggling case linked to 7 deaths",
+      "summary": "Federal indictment of 11 in migrant-smuggling case with 7 deaths — major current-events outcome with Texas/immigration context; not a check-in (bounded set of defendants).",
+      "source": "San Antonio Report",
+      "topic": "immigration-enforcement",
+      "url": "https://sanantonioreport.org/11-indicted-in-migrant-smuggling-case-linked-to-7-deaths/",
+      "published_at": "2026-07-25T00:59:27+00:00",
+      "image": {
+        "url": "https://i0.wp.com/sanantonioreport.org/wp-content/uploads/2026/07/crop-smuggling.jpg?fit=1024%2C683&ssl=1",
+        "alt": ""
+      },
+      "description": "A federal grand jury has indicted 11 people accused of participating in a migrant-smuggling operation that resulted in seven deaths in May.11 indicted in migrant-smuggling case linked to 7 deaths was first posted on July 24, 2026 at 7:59 pm.©2021 \"San Antonio Report\". Use of"
+    },
+    {
+      "title": "Mayor Jones asks business, philanthropic community to help fund San Antonio events and groups amid budget deficit",
+      "summary": "Mayor seeking alternative funding amid budget deficit — city-institutional context landing on the metro; keep-when-unsure on the context/noise boundary.",
+      "source": "KENS 5",
+      "topic": "elections-politics",
+      "url": "https://www.kens5.com/article/news/politics/san-antonio-budget-deficit-mayor-jones-letter-funding-help-botanical-garden-book-fest/273-4e0441c4-9360-4ccc-a4ce-808f06bbef67",
+      "published_at": "2026-07-25T03:32:32+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/d5959cff-cf67-4faf-b4df-19af16fbf3fd/d5959cff-cf67-4faf-b4df-19af16fbf3fd_750x422.jpg",
+        "alt": ""
+      },
+      "description": "Mayor Gina Ortiz Jones is hunting alternative funding for some San Antonio groups as one way to address the looming budget deficit."
+    }
+  ]
+}

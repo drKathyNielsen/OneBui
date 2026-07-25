@@ -1,0 +1,67 @@
+{
+  "shortName": "San Antonio, TX",
+  "metroCode": "41700",
+  "metro": "San Antonio-New Braunfels, TX",
+  "date": "2026-07-23",
+  "are_you_ok": {
+    "title": "Dangerous heat grips South Texas before slight cooldown | Weather Impact Alert",
+    "summary": "Broad population affected by dangerous heat, check-in worthy",
+    "source": "KENS 5",
+    "topic": "heat",
+    "url": "https://www.kens5.com/article/weather/forecast/heat-advisory-san-antonio-ercot-power-grid-electricity-triple-digits-heat-index-energy-demand-forecast-summer-hydration-air-conditioning/273-41ced3d1-9b66-4961-a7dc-a98c34a6a579",
+    "published_at": "2026-07-23T11:56:48+00:00",
+    "image": null,
+    "description": "Triple-digit heat returns Wednesday, with heat index values up to 114 degrees as Texas power demand reaches record levels."
+  },
+  "conversation_starters": [
+    {
+      "title": "Faces of the Spurs listening tour: Residents excited, concerned about downtown arena, Project Marvel",
+      "summary": "Residents weigh in on the proposed downtown Spurs arena/Project Marvel — a major metro development everyone's talking about, work-safe. You could open with: 'Have you been following the Project Marvel arena talk downtown? Curious what you make of the affordability and traffic concerns.'",
+      "source": "San Antonio Report",
+      "topic": "housing",
+      "url": "https://sanantonioreport.org/spurs-listening-tour-feedback-faces/",
+      "published_at": "2026-07-23T16:24:29+00:00",
+      "image": {
+        "url": "https://i0.wp.com/sanantonioreport.org/wp-content/uploads/2026/07/SpursSports_ListeningSession_DowntownSportsArena_EntertainmentDistrict_ProjectMarvel24_07.22.2026_AmberEsparza-scaled.jpg?fit=1024%2C683&ssl=1",
+        "alt": ""
+      },
+      "description": "The conversations about a new arena district downtown ranged from concerns about affordability, traffic and transparency to fan nostalgia and anticipation for a new arena.Faces of the Spurs listening tour: Residents excited, concerned about downtown arena, Project Marvel was"
+    },
+    {
+      "title": "San Antonio has lost 2K manufacturing jobs since 2024. Industry experts say they aren’t too concerned.",
+      "summary": "2K manufacturing jobs lost since 2024 — metro-level employment story. You could open with: 'Did you see San Antonio's shed a couple thousand manufacturing jobs — experts say not to worry?'",
+      "source": "San Antonio Report",
+      "topic": "business-jobs",
+      "url": "https://sanantonioreport.org/san-antonio-texas-lost-2k-manufacturing-jobs/",
+      "published_at": "2026-07-23T10:00:00+00:00",
+      "image": {
+        "url": "https://i0.wp.com/sanantonioreport.org/wp-content/uploads/2026/03/JCBManufacturing_SouthsideFacilityUpdates_02_03.30.2026_JasperKenzoSundeen.jpg?fit=1024%2C683&ssl=1",
+        "alt": "A yellow telescopic lift on display at JCB's under-construction factory during a tour by company chairman Lord Anthony Bamford on March 30, 2026."
+      },
+      "description": "A yellow telescopic lift on display at JCB's under-construction factory during a tour by company chairman Lord Anthony Bamford on March 30, 2026. Greater:SATX, an organization tasked with bringing jobs to the San Antonio region, attributes the decline to the labor market"
+    },
+    {
+      "title": "JBSA-Fort Sam Houston barracks set for replacement after mold, construction issues",
+      "summary": "DoD to demolish/replace five moldy JBSA-Fort Sam Houston barracks affecting 6,000 trainees; JBSA is a major SA institution, metro-prominent and work-safe. You could open with: 'Did you catch that JBSA is tearing down and replacing those barracks over mold — 6,000 trainees affected?'",
+      "source": "KENS 5",
+      "topic": "other",
+      "url": "https://www.kens5.com/article/news/local/san-antonio-texas-jbsa-fort-sam-houston-barracks-demolition-replacement-mold-construction-statement-joaquin-castro-military-july-2026/273-0875254a-8351-4b2a-a40b-7b4c55a790ff",
+      "published_at": "2026-07-23T22:18:42+00:00",
+      "image": null,
+      "description": "The Department of Defense plans to demolish and replace five barracks at Joint Base San Antonio due to mold and construction issues, impacting 6,000 trainees."
+    }
+  ],
+  "sports": [],
+  "you_should_know": [
+    {
+      "title": "Data centers emerge as flashpoint in Texas governor's race",
+      "summary": "Data centers becoming a flashpoint in the governor's race — political context landing on TX water/power/land. Political, so not a conversation starter; kept as context.",
+      "source": "KENS 5",
+      "topic": "data-centers",
+      "url": "https://www.kens5.com/article/news/local/texas/data-centers-ai-greg-abbott-gina-hinojosa-rural-texas-water-electricity-power-grid-campaign-governor-election-infrastructure-development/273-912a31c5-9d2d-420f-a4e8-8e517f000a8c",
+      "published_at": "2026-07-23T11:49:21+00:00",
+      "image": null,
+      "description": "Concerns over water, power and rural land are turning AI data centers into a major issue in Texas politics."
+    }
+  ]
+}

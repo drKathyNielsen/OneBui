@@ -1,0 +1,47 @@
+{
+  "shortName": "Wheeling, WV",
+  "metroCode": "48540",
+  "metro": "Wheeling, WV-OH",
+  "date": "2026-07-23",
+  "are_you_ok": null,
+  "conversation_starters": [],
+  "sports": [],
+  "you_should_know": [
+    {
+      "title": "West Virginia Wesleyan College, American Red Cross among groups aiding Upshur County relief",
+      "summary": "Relief effort follow-up to the major Upshur County flood disaster.",
+      "source": "WV MetroNews",
+      "topic": "flood",
+      "url": "https://wvmetronews.com/2026/07/23/west-virginia-wesleyan-college-american-red-cross-among-groups-aiding-upshur-county-relief/",
+      "published_at": "2026-07-23T16:06:03+00:00",
+      "image": {
+        "url": "https://s3.us-east-005.backblazeb2.com/wvmn-s3/2026/07/IMG_8454-300x225.jpeg",
+        "alt": ""
+      },
+      "description": "WVWC serves as the hub for supply donations to the area. The post West Virginia Wesleyan College, American Red Cross among groups aiding Upshur County relief appeared first on WV MetroNews."
+    },
+    {
+      "title": "About As Good As It Gets In Late July",
+      "summary": "Tornado touchdowns and severe storm system across the region.",
+      "source": "Wheeling News and Weather",
+      "topic": "severe-weather",
+      "url": "https://www.wtrf.com/weather/about-as-good-as-it-gets-in-late-july/",
+      "published_at": "2026-07-23T01:51:07+00:00",
+      "image": null,
+      "description": "Tuesday was definitely a busy day in the Stormtracker7 Weather Center. Multiple tornado warnings were issued in the area and according to the National Weather Service in Pittsburgh two tornadoes touched down in the Muskingum County Tuesday afternoon. There were multiple"
+    },
+    {
+      "title": "Pritt Fooled Us",
+      "summary": "Opinion/commentary tied to the David Pritt (delegate) enticing-a-minor charge — a state-legislature scandal landing on WV politics. Politically sensitive, not a safe opener and not a check-in; keep as you-should-know context. Dedup with [13] on the same underlying event.",
+      "source": "WV MetroNews",
+      "topic": "elections-politics",
+      "url": "https://wvmetronews.com/2026/07/23/pritt-fooled-us/",
+      "published_at": "2026-07-23T21:58:55+00:00",
+      "image": {
+        "url": "https://s3.us-east-005.backblazeb2.com/wvmn-s3/2026/07/ChatGPT-Image-Jul-23-2026-05_51_47-PM-300x200.png",
+        "alt": ""
+      },
+      "description": "Certainly, by now you’ve heard of Delegate Elliott Pritt, even if you’d never heard of him before Wednesday. Has he ever appeared on Talkline — at least since Hoppy Kercheval retired? I honestly don’t remember. I’m not sure I’ve ever exchanged a word with him. But legislators"
+    }
+  ]
+}

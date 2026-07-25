@@ -1,0 +1,324 @@
+.oneb-shell {
+  max-width: 1280px;
+  margin: 0 auto;
+}
+
+.oneb-root a { color: var(--accent); }
+.oneb-root a:hover { color: var(--accent); opacity: 0.8; }
+.oneb-source-link { color: inherit; text-decoration: underline; }
+
+/* ---------- Top utility bar: app-wide, not tied to any one metro ---------- */
+.oneb-topnav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 11px 24px;
+  background: var(--header-bg);
+  border-bottom: 1px solid var(--header-border);
+}
+
+.oneb-topnav-brand {
+  display: inline-flex;
+  align-items: center;
+  height: 22px;
+  padding: 0 8px;
+  border-radius: 5px;
+  background: var(--badge-bg);
+  color: var(--badge-text);
+  font: 800 11px var(--label-font);
+}
+
+.oneb-topnav-right {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.oneb-pill-btn {
+  font: 600 11px var(--body-font);
+  color: var(--ink);
+  background: transparent;
+  padding: 4px 10px;
+  border-radius: 12px;
+  border: 1px solid var(--surface-border);
+  cursor: pointer;
+}
+
+.oneb-topnav-links { gap: 20px; align-items: center; }
+.oneb-topnav-link {
+  background: none;
+  border: none;
+  font: 600 12px var(--body-font);
+  color: var(--ink);
+  cursor: not-allowed;
+}
+
+.oneb-topnav-menu-wrap { position: relative; }
+.oneb-topnav-burger {
+  background: none;
+  border: none;
+  font-size: 18px;
+  line-height: 1;
+  color: var(--ink);
+  cursor: pointer;
+  padding: 4px;
+}
+.oneb-topnav-menu {
+  position: absolute;
+  right: 0;
+  top: 100%;
+  margin: 6px 0 0;
+  padding: 6px 0;
+  list-style: none;
+  min-width: 160px;
+  background: var(--surface);
+  border: 1px solid var(--surface-border);
+  border-radius: 8px;
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.18);
+  z-index: 20;
+}
+.oneb-topnav-menu-item {
+  all: unset;
+  box-sizing: border-box;
+  display: block;
+  width: 100%;
+  padding: 8px 14px;
+  font: 600 12px var(--body-font);
+  color: var(--ink);
+  cursor: not-allowed;
+}
+
+/* ---------- Sidebar (tablet/desktop) ---------- */
+.oneb-sidebar-col { border-right: 1px solid var(--hairline); padding-top: 18px; }
+.oneb-sidebar-heading {
+  margin: 0 0 10px;
+  font: 700 11px var(--label-font);
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--text-secondary);
+}
+.oneb-sidebar-list { display: flex; flex-direction: column; gap: 9px; }
+.oneb-sidebar-item {
+  all: unset;
+  cursor: pointer;
+  font: 500 13px var(--body-font);
+  color: var(--text-secondary);
+}
+.oneb-sidebar-item--active { font-weight: 700; color: var(--ink); }
+.oneb-sidebar-add {
+  all: unset;
+  cursor: not-allowed;
+  display: block;
+  margin-top: 16px;
+  font: 600 12px var(--body-font);
+  color: var(--accent);
+}
+
+/* ---------- City rail (phone) ---------- */
+.oneb-city-rail {
+  display: flex;
+  gap: 8px;
+  overflow-x: auto;
+  padding: 10px 16px;
+  background: var(--surface);
+  border-bottom: 1px solid var(--header-border);
+}
+.oneb-city-chip {
+  flex: none;
+  font: 500 12px var(--body-font);
+  padding: 6px 13px;
+  border-radius: 20px;
+  border: 1px solid var(--surface-border);
+  background: transparent;
+  color: var(--text-secondary);
+  cursor: pointer;
+  white-space: nowrap;
+}
+.oneb-city-chip--active { background: var(--ink); color: var(--bg); border-color: var(--ink); }
+.oneb-city-chip--add { color: var(--accent); border-style: dashed; cursor: not-allowed; }
+
+/* ---------- Masthead ---------- */
+.oneb-masthead {
+  padding: 22px 32px 16px;
+  text-align: center;
+  border-bottom: 3px double var(--ink);
+}
+
+.oneb-kicker {
+  margin: 0;
+  font: 600 9.5px var(--label-font);
+  letter-spacing: 0.2em;
+  color: var(--text-secondary);
+}
+
+.oneb-city-name {
+  margin: 8px 0 0;
+  font: 700 clamp(24px, 3vw, 40px)/1.08 var(--heading-font);
+  letter-spacing: -0.01em;
+  color: var(--ink);
+}
+
+.oneb-date {
+  margin: 9px 0 0;
+  font: 500 9.5px var(--label-font);
+  letter-spacing: 0.16em;
+  color: var(--text-secondary);
+  display: inline-block;
+  border-top: 1px solid var(--header-border);
+  padding-top: 8px;
+}
+
+/* ---------- Today/Weekly + day chips ---------- */
+.oneb-tabs {
+  display: flex;
+  justify-content: center;
+  gap: 28px;
+  padding: 10px 0;
+}
+
+.oneb-tab {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font: 500 12px var(--label-font);
+  color: var(--tab-disabled);
+  padding-bottom: 2px;
+}
+
+.oneb-tab--active {
+  color: var(--ink);
+  border-bottom: 2px solid var(--ink);
+  font-weight: 600;
+}
+
+.oneb-day-chips {
+  display: flex;
+  justify-content: center;
+  gap: 18px;
+  padding: 4px 16px 10px;
+  overflow-x: auto;
+  border-bottom: 1px solid var(--hairline);
+}
+.oneb-day-chip {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font: 500 11px var(--label-font);
+  color: var(--tab-disabled);
+  padding-bottom: 2px;
+  flex: none;
+}
+.oneb-day-chip--active { color: var(--ink); border-bottom: 2px solid var(--ink); font-weight: 600; }
+
+.oneb-main { padding: 28px 24px 40px; }
+
+/* column rules appear only once columns sit side by side (tablet md+) */
+@media (min-width: 768px) {
+  .oneb-col-divider { border-left: 1px solid var(--hairline-soft); padding-left: 28px; }
+}
+
+.oneb-card {
+  background: var(--surface);
+  border: 1px solid var(--surface-border);
+  border-radius: 12px;
+  padding: 18px 20px;
+}
+
+.oneb-card-top { display: flex; gap: 12px; align-items: flex-start; }
+
+.oneb-thumb {
+  flex: none;
+  width: 44px;
+  height: 44px;
+  border-radius: 5px;
+  background: var(--surface-border);
+  overflow: hidden;
+}
+.oneb-thumb--lead { width: 64px; height: 64px; }
+.oneb-thumb img { width: 100%; height: 100%; object-fit: cover; display: block; }
+
+.oneb-eyebrow {
+  margin: 0 0 9px;
+  font: 700 12px var(--label-font);
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--text-secondary);
+}
+
+.oneb-headline {
+  margin: 0;
+  font: 600 clamp(17px, 1.6vw, 22px)/1.3 var(--heading-font);
+  color: var(--ink);
+}
+
+.oneb-lead {
+  margin: 10px 0 0;
+  font: 400 13.5px/1.6 var(--body-font);
+  color: var(--text-body);
+}
+
+.oneb-meta {
+  margin: 11px 0 0;
+  font: 500 11px var(--body-font);
+  color: var(--text-secondary);
+}
+
+.oneb-section { margin-bottom: 8px; }
+
+.oneb-section-heading {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin: 0 0 2px;
+  font: 700 12px var(--label-font);
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--ink);
+}
+
+.oneb-section-heading::after {
+  content: '';
+  flex: 1;
+  height: 0;
+  border-top: 1px solid var(--hairline-soft);
+}
+
+/* Heading inside a card (Are they ok?) — same dark label type, no trailing rule */
+.oneb-section-heading--plain { margin-bottom: 12px; }
+.oneb-section-heading--plain::after { display: none; }
+
+.oneb-article {
+  display: flex;
+  gap: 12px;
+  padding: 13px 0;
+  border-bottom: 1px solid var(--hairline);
+  align-items: flex-start;
+}
+
+.oneb-article-body {
+  min-width: 0;
+}
+
+.oneb-article-title {
+  margin: 0;
+  font: 600 15px/1.32 var(--heading-font);
+  color: var(--ink);
+}
+
+.oneb-article-desc {
+  margin: 6px 0 0;
+  font: 400 12.5px/1.5 var(--body-font);
+  color: var(--text-body);
+}
+
+.oneb-sports-team { margin-bottom: 13px; }
+.oneb-sports-team-name { margin: 0; font: 600 14px var(--heading-font); color: var(--ink); }
+.oneb-sports-score { margin: 5px 0 0; font: italic 500 12.5px/1.4 var(--heading-font); color: var(--text-body); }
+
+.oneb-footer {
+  text-align: center;
+  padding: 18px 0 26px;
+  font: 500 11px var(--body-font);
+  color: var(--text-secondary);
+}

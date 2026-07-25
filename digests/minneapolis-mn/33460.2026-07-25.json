@@ -1,0 +1,96 @@
+{
+  "shortName": "Minneapolis, MN",
+  "metroCode": "33460",
+  "metro": "Minneapolis-St. Paul-Bloomington, MN-WI",
+  "date": "2026-07-25",
+  "are_you_ok": {
+    "title": "NEXT Weather | 8 a.m. weather report for Saturday, July 25, 2026",
+    "summary": "Extreme heat and severe-weather alert coming to the metro — diffuse effect on broad local population, genuine check-in.",
+    "source": "CBS Minnesota",
+    "topic": "heat",
+    "url": "https://www.cbsnews.com/minnesota/video/next-weather-8-a-m-weather-report-for-saturday-july-25-2026/",
+    "published_at": "2026-07-25T15:58:00+00:00",
+    "image": {
+      "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/07/25/106d9431-150e-4229-a5a2-fea019b1fdd5/thumbnail/1024x576/847bff19d71acff9872249ab0132ed3b/ba1481d3421b2dec49ce1de0020ebe45.jpg",
+      "alt": ""
+    },
+    "description": "The heat and humidity has returned. Feels like temperatures on Saturday will get into the triple digits, while high temps will be in the low 90s. Sunday will feel similar. Sunday also comes with a severe weather alert. Meteorologist Katie Steiner shares what you need to know for"
+  },
+  "conversation_starters": [
+    {
+      "title": "After 5 car washes, driver's car still \"smells like a barn\" after driving through manure on highway",
+      "summary": "Quirky, memorable local road story — a work-safe fun opener. You could open with: 'Did you hear about the manure spill on Highway 62 — one driver says his car still smells like a barn after five washes?'",
+      "source": "CBS Minnesota",
+      "topic": "transportation",
+      "url": "https://www.cbsnews.com/minnesota/news/after-5-car-washes-liquid-manure-highway-62/",
+      "published_at": "2026-07-25T17:41:22+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/25/d3e37389-ab2d-475c-9cbf-a19babd0afd9/thumbnail/1024x576/f5b1f048952f9db3140abcd4b5a5e7f3/6p-vo-manure-spill-folo-wccoaxvr.jpg",
+        "alt": ""
+      },
+      "description": "Thursday morning's commute was tough for some on Minneapolis' Highway 62. Liquid manure covered a section of the road. The Minnesota State Patrol says it was \"inches deep\" in both lanes."
+    },
+    {
+      "title": "People named Ryan attempt to break record involving a roller coaster at MOA",
+      "summary": "Fun quirky local story, great conversation starter. You could open with: 'Did you hear about the Ryans trying to break a rollercoaster record at Mall of America?'",
+      "source": "CBS Minnesota",
+      "topic": "human-interest",
+      "url": "https://www.cbsnews.com/minnesota/video/people-named-ryan-attempt-to-break-record-involving-a-roller-coaster-at-moa/",
+      "published_at": "2026-07-25T03:46:00+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/07/25/47261e44-91c5-4fd8-aa1d-e02cd226fe08/thumbnail/1024x576/61adfb548c6887187aad4efa5c969aed/70dc7597618fd0eb2faeeb1b123f5b9b.png",
+        "alt": ""
+      },
+      "description": "On Friday, the Mall of America invited anyone in the world named Ryan to show up for a same-name celebration. They attempted to break the World Record for \"most Ryans on a rollercoaster\" at Nickelodeon Universe."
+    }
+  ],
+  "sports": [
+    {
+      "team": "Twins",
+      "scores": [
+        "Twins 0, Athletics 2"
+      ]
+    }
+  ],
+  "you_should_know": [
+    {
+      "title": "Helix Apartments fire: St. Louis Park residents still locked out",
+      "summary": "Ongoing displacement from apartment fire in the metro; a bounded set of specific residents affected — awareness, not a broad check-in.",
+      "source": "FOX 9",
+      "topic": "other",
+      "url": "https://www.fox9.com/news/helix-apartments-fire-st-louis-park-residents-still-locked-out",
+      "published_at": "2026-07-25T01:43:03+00:00",
+      "image": {
+        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/07/vlcsnap-2026-07-24-20h31m11s770.jpg",
+        "alt": ""
+      },
+      "description": "One week after a fire tore through the Helix Apartments, some residents are still waiting to find out what they can salvage from their homes."
+    },
+    {
+      "title": "Congress members visit Whipple Federal Building: \"I was shocked to see that everyone in here has leg restraints\"",
+      "summary": "Congressional oversight of ICE processing in MN — local enforcement climate, institutional context worth walking in aware of.",
+      "source": "CBS Minnesota",
+      "topic": "immigration-enforcement",
+      "url": "https://www.cbsnews.com/minnesota/news/whipple-federal-building-visit-omar-jayapal/",
+      "published_at": "2026-07-25T00:06:24+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/24/ecfee3ef-389d-4bf5-b4ad-e6ae52743e19/thumbnail/1024x576/87d7a942a66cbcd6f4eda471bb4d413c/4p-vo-whipple-tease-wccoaxud.jpg",
+        "alt": ""
+      },
+      "description": "U.S. Immigration and Customs Enforcement agents have been taking people they detain in Minnesota to the Whipple Federal Building for processing. On Friday, members of Congress were there for an oversight visit."
+    },
+    {
+      "title": "Case dismissed against woman accused of crashing into ICE agent's vehicle in Inver Grove Heights",
+      "summary": "Court outcome tied to local ICE-enforcement climate; institutional context to walk in aware of, not a safe opener.",
+      "source": "KARE 11",
+      "topic": "immigration-enforcement",
+      "url": "https://www.kare11.com/article/news/local/ice-in-minnesota/case-dismissed-against-woman-accused-of-crashing-into-ice-agents-vehicle-inver-grove-heights/89-93c31925-8fad-42df-93c0-ddcbf49a26b5",
+      "published_at": "2026-07-25T00:41:12+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/f53d2cff-aeeb-4747-b8a8-8bb2ad7a541c/f53d2cff-aeeb-4747-b8a8-8bb2ad7a541c_750x422.jpg",
+        "alt": ""
+      },
+      "description": "Federal prosecutors requested the case be dismissed after they said there wasn't enough evidence to support that the assault occurred."
+    }
+  ]
+}

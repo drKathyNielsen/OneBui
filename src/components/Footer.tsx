@@ -1,9 +1,7 @@
-function Footer() {
+export default function Footer() {
   return (
-    <div className="mt-4 py-3">
-      <div className="small">&copy; 2026</div>
-    </div>
-  )
+    <footer className="oneb-footer">
+      <span>&copy; 2026 One B</span>
+    </footer>
+  );
 }
-
-export default Footer
