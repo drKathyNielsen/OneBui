@@ -1,28 +1,28 @@
-import type { RawCity } from '../types';
+import type { Metro } from '../data/digests';
 
 interface Props {
-  cities: RawCity[];
-  cityIdx: number;
+  metros: Metro[];
+  metroIdx: number;
   onSelect: (idx: number) => void;
 }
 
 // Renders twice via CSS: a vertical "Your selections" column on tablet/desktop,
 // a horizontally-scrollable chip rail on phone. Same data and behavior either way.
-export default function CitySideBar({ cities, cityIdx, onSelect }: Props) {
+export default function CitySideBar({ metros, metroIdx, onSelect }: Props) {
   return (
     <>
       <nav className="oneb-sidebar d-none d-md-block" aria-label="Your selections">
         <h2 className="oneb-sidebar-heading">Your selections</h2>
         <div className="oneb-sidebar-list">
-          {cities.map((c, i) => (
+          {metros.map((m, i) => (
             <button
-              key={c.shortName}
+              key={m.slug}
               type="button"
-              className={`oneb-sidebar-item${i === cityIdx ? ' oneb-sidebar-item--active' : ''}`}
-              aria-current={i === cityIdx ? 'true' : undefined}
+              className={`oneb-sidebar-item${i === metroIdx ? ' oneb-sidebar-item--active' : ''}`}
+              aria-current={i === metroIdx ? 'true' : undefined}
               onClick={() => onSelect(i)}
             >
-              {c.shortName}
+              {m.shortName}
             </button>
           ))}
         </div>
@@ -30,15 +30,15 @@ export default function CitySideBar({ cities, cityIdx, onSelect }: Props) {
       </nav>
 
       <nav className="oneb-city-rail d-md-none" aria-label="Your selections">
-        {cities.map((c, i) => (
+        {metros.map((m, i) => (
           <button
-            key={c.shortName}
+            key={m.slug}
             type="button"
-            className={`oneb-city-chip${i === cityIdx ? ' oneb-city-chip--active' : ''}`}
-            aria-current={i === cityIdx ? 'true' : undefined}
+            className={`oneb-city-chip${i === metroIdx ? ' oneb-city-chip--active' : ''}`}
+            aria-current={i === metroIdx ? 'true' : undefined}
             onClick={() => onSelect(i)}
           >
-            {c.shortName}
+            {m.shortName}
           </button>
         ))}
         <button type="button" className="oneb-city-chip oneb-city-chip--add" disabled title="Coming soon">+ Add</button>

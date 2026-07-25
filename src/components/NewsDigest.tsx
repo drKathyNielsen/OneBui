@@ -1,6 +1,7 @@
 import { useMemo } from 'react';
 import type { RawCity } from '../types';
-import { toCityViewModel, formatDate } from '../utils/format';
+import type { MetroDay } from '../data/digests';
+import { toCityViewModel, formatDate, dayChipLabel } from '../utils/format';
 import PeriodNav from './PeriodNav';
 import AreTheyOk from './AreTheyOk';
 import ArticleList from './ArticleList';
@@ -8,14 +9,18 @@ import Sports from './Sports';
 
 interface Props {
   city: RawCity;
+  days: MetroDay[]; // the metro's available days, newest first
+  selectedDate: string;
+  onDaySelect: (iso: string) => void;
 }
 
 // Renders the masthead + content for one metro. Layout is responsive via
 // Bootstrap's grid: stacked on phone (<768px), hero-then-two-columns on
 // tablet (>=768px), three columns side by side on desktop (>=992px).
-export default function NewsDigest({ city: raw }: Props) {
+export default function NewsDigest({ city: raw, days, selectedDate, onDaySelect }: Props) {
   const city = useMemo(() => toCityViewModel(raw), [raw]);
   const dates = formatDate(raw.date);
+  const dayOptions = useMemo(() => days.map((d) => ({ iso: d.date, label: dayChipLabel(d.date) })), [days]);
 
   return (
     <div className="oneb-digest">
@@ -25,7 +30,7 @@ export default function NewsDigest({ city: raw }: Props) {
         <p className="oneb-date">{dates.long}</p>
       </header>
 
-      <PeriodNav dateIso={raw.date} />
+      <PeriodNav days={dayOptions} selectedIso={selectedDate} onDaySelect={onDaySelect} />
 
       <main className="container-fluid oneb-main">
         {city.hasAreOk && city.areOk && (
