@@ -8,24 +8,51 @@ interface Props {
   onThemeChange: (t: Theme) => void;
 }
 
+// Reading style now has three options, so it's a dropdown rather than a toggle.
+const STYLES: Style[] = ['classic', 'modern', 'friendly'];
+const STYLE_LABELS: Record<Style, string> = { classic: 'Classic', modern: 'Modern', friendly: 'Friendly' };
+
 // Persistent utility bar: app-wide controls that apply no matter which metro
 // is selected (appearance, account, add-cities) -- kept out of the digest
 // masthead so the editorial identity there stays uncluttered.
 export default function TopNavBar({ style, theme, onStyleChange, onThemeChange }: Props) {
   const [menuOpen, setMenuOpen] = useState(false);
+  const [styleOpen, setStyleOpen] = useState(false);
 
   return (
     <header className="oneb-topnav">
       <span className="oneb-topnav-brand">One B</span>
       <div className="oneb-topnav-right">
-        <button
-          type="button"
-          className="oneb-pill-btn"
-          onClick={() => onStyleChange(style === 'classic' ? 'modern' : 'classic')}
-          aria-label={`Reading style: ${style}. Click to switch.`}
-        >
-          {style === 'classic' ? 'Classic' : 'Modern'}
-        </button>
+        <div className="oneb-topnav-menu-wrap">
+          <button
+            type="button"
+            className="oneb-pill-btn"
+            aria-haspopup="menu"
+            aria-expanded={styleOpen}
+            onClick={() => setStyleOpen((v) => !v)}
+            aria-label={`Reading style: ${style}. Click to choose.`}
+          >
+            {STYLE_LABELS[style]} ▾
+          </button>
+          {styleOpen && (
+            <ul className="oneb-topnav-menu" role="menu" aria-label="Reading style">
+              {STYLES.map((s) => (
+                <li role="none" key={s}>
+                  <button
+                    type="button"
+                    role="menuitemradio"
+                    aria-checked={s === style}
+                    aria-label={STYLE_LABELS[s]}
+                    className={`oneb-topnav-menu-item oneb-topnav-menu-item--choice${s === style ? ' oneb-topnav-menu-item--active' : ''}`}
+                    onClick={() => { onStyleChange(s); setStyleOpen(false); }}
+                  >
+                    {STYLE_LABELS[s]}
+                  </button>
+                </li>
+              ))}
+            </ul>
+          )}
+        </div>
         <button
           type="button"
           className="oneb-pill-btn"

@@ -81,6 +81,52 @@
   --body-font: 'Inter', sans-serif;
 }
 
+/* "Friendly" style — soft peach light mode, deep terracotta dark mode.
+   Same coral accent in both so the two read as one system, not a reskin.
+   Additive: --card-bg / --card-shadow are new tokens only friendly defines;
+   classic/modern fall back to --surface (see .oneb-card) and are unchanged. */
+.oneb-root[data-style="friendly"][data-theme="light"] {
+  --bg: #fff4ee;
+  --header-bg: #fff4ee;
+  --header-border: #ffe2d5;
+  --surface: #ffe6dc;
+  --surface-border: #ffe0d4;
+  --hairline: #ffe2d5;
+  --hairline-soft: #ffd9c9;
+  --ink: #2a1c17;
+  --text-secondary: #8a4a38; /* deep terracotta: 4.5:1+ on --bg, --surface AND white --card-bg */
+  --text-body: #7a5f55;
+  --badge-bg: #e85d75; /* raspberry highlight; dark text on it clears AA */
+  --badge-text: #2a1c17;
+  --accent: #a82f4c; /* deep raspberry link/focus: 4.5:1+ as text on peach, surface, and white card */
+  --card-bg: #ffffff;
+  --card-shadow: 0 3px 12px rgba(255, 120, 80, .08);
+  --heading-font: 'Nunito', sans-serif;
+  --label-font: 'Nunito', sans-serif;
+  --body-font: 'Nunito', sans-serif;
+}
+
+.oneb-root[data-style="friendly"][data-theme="dark"] {
+  --bg: #241813;
+  --header-bg: #241813;
+  --header-border: #3a2a22;
+  --surface: #3a2820;
+  --surface-border: #3a2820;
+  --hairline: #3a2a22;
+  --hairline-soft: #4a352b;
+  --ink: #f5e6de;
+  --text-secondary: #c99686; /* 4.5:1+ on --bg and --surface */
+  --text-body: #c99686;
+  --badge-bg: #e85d75; /* raspberry highlight; dark text on it clears AA */
+  --badge-text: #241813;
+  --accent: #f27a92; /* lighter raspberry so links clear 4.5:1 on the dark surface/cards */
+  --card-bg: #2e2119;
+  --card-shadow: 0 3px 12px rgba(0, 0, 0, .25);
+  --heading-font: 'Nunito', sans-serif;
+  --label-font: 'Nunito', sans-serif;
+  --body-font: 'Nunito', sans-serif;
+}
+
 .oneb-root {
   background: var(--bg);
   color: var(--ink);

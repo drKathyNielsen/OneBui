@@ -10,6 +10,8 @@ interface Props {
   hasWeekly: boolean; // hide the Weekly toggle when the metro has no aggregate
   days: DayOption[]; // the metro's available days, newest first
   selectedIso: string;
+  todayLabel: string; // per-style label for the daily tab
+  weeklyLabel: string; // per-style label for the weekly tab
   onPeriodChange: (p: Period) => void;
   onDaySelect: (iso: string) => void;
 }
@@ -17,7 +19,7 @@ interface Props {
 // "Today" is the daily view with a chip row of the metro's ≤4 available days;
 // "Weekly" is the single editorial aggregate and shows no day chips. Toggling
 // back to Daily restores the selected/newest day (the date is held upstream).
-export default function PeriodNav({ period, hasWeekly, days, selectedIso, onPeriodChange, onDaySelect }: Props) {
+export default function PeriodNav({ period, hasWeekly, days, selectedIso, todayLabel, weeklyLabel, onPeriodChange, onDaySelect }: Props) {
   return (
     <>
       <nav className="oneb-tabs" role="tablist" aria-label="Digest period">
@@ -28,7 +30,7 @@ export default function PeriodNav({ period, hasWeekly, days, selectedIso, onPeri
           className={`oneb-tab${period === 'daily' ? ' oneb-tab--active' : ''}`}
           onClick={() => onPeriodChange('daily')}
         >
-          Today
+          {todayLabel}
         </button>
         {hasWeekly && (
           <button
@@ -38,7 +40,7 @@ export default function PeriodNav({ period, hasWeekly, days, selectedIso, onPeri
             className={`oneb-tab${period === 'weekly' ? ' oneb-tab--active' : ''}`}
             onClick={() => onPeriodChange('weekly')}
           >
-            Weekly
+            {weeklyLabel}
           </button>
         )}
       </nav>

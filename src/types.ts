@@ -1,4 +1,4 @@
-export type Style = 'classic' | 'modern';
+export type Style = 'classic' | 'modern' | 'friendly';
 export type Theme = 'light' | 'dark';
 
 // Mirrors docs/DIGEST_OUTPUT_CONTRACT.md §4. Treat as a stable interface:

@@ -1,7 +1,8 @@
 import { useMemo } from 'react';
-import type { DigestViewModel, Period } from '../types';
+import type { DigestViewModel, Period, Style } from '../types';
 import type { MetroDay } from '../data/digests';
 import { dayChipLabel } from '../utils/format';
+import { getStrings } from '../data/strings';
 import PeriodNav from './PeriodNav';
 import AreTheyOk from './AreTheyOk';
 import ArticleList from './ArticleList';
@@ -13,6 +14,7 @@ interface Props {
   hasWeekly: boolean; // whether the metro has a weekly aggregate to toggle to
   period: Period;
   selectedDate: string;
+  style: Style; // drives per-style section/nav microcopy (see data/strings)
   onPeriodChange: (p: Period) => void;
   onDaySelect: (iso: string) => void;
 }
@@ -20,9 +22,10 @@ interface Props {
 // Renders the masthead + content for one metro. Layout is responsive via
 // Bootstrap's grid: stacked on phone (<768px), hero-then-two-columns on
 // tablet (>=768px), three columns side by side on desktop (>=992px).
-export default function NewsDigest({ vm, days, hasWeekly, period, selectedDate, onPeriodChange, onDaySelect }: Props) {
+export default function NewsDigest({ vm, days, hasWeekly, period, selectedDate, style, onPeriodChange, onDaySelect }: Props) {
   const dayOptions = useMemo(() => days.map((d) => ({ iso: d.date, label: dayChipLabel(d.date) })), [days]);
   const mastheadDate = vm.period === 'weekly' ? vm.rangeLabel : vm.dateLong;
+  const strings = getStrings(style);
 
   return (
     <div className="oneb-digest">
@@ -37,6 +40,8 @@ export default function NewsDigest({ vm, days, hasWeekly, period, selectedDate, 
         hasWeekly={hasWeekly}
         days={dayOptions}
         selectedIso={selectedDate}
+        todayLabel={strings.todayLabel}
+        weeklyLabel={strings.weeklyLabel}
         onPeriodChange={onPeriodChange}
         onDaySelect={onDaySelect}
       />
@@ -45,24 +50,24 @@ export default function NewsDigest({ vm, days, hasWeekly, period, selectedDate, 
         {vm.areOk.map((article) => (
           <div className="row mb-4" key={article.url}>
             <div className="col-12">
-              <AreTheyOk article={article} />
+              <AreTheyOk article={article} eyebrow={strings.areOkEyebrow} />
             </div>
           </div>
         ))}
 
         <div className="row gy-4">
           <div className="col-12 col-md-6">
-            {vm.starters.length > 0 && <ArticleList heading="Conversation starters" items={vm.starters} />}
+            {vm.starters.length > 0 && <ArticleList heading={strings.startersHeading} items={vm.starters} />}
           </div>
           <div className="col-12 col-md-6 oneb-col-divider">
-            {vm.know.length > 0 && <ArticleList heading="You should know" items={vm.know} />}
+            {vm.know.length > 0 && <ArticleList heading={strings.knowHeading} items={vm.know} />}
           </div>
         </div>
 
         {vm.sports.length > 0 && (
           <div className="row mt-4">
             <div className="col-12">
-              <Sports sports={vm.sports} />
+              <Sports sports={vm.sports} heading={strings.sportsHeading} />
             </div>
           </div>
         )}
