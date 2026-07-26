@@ -12,6 +12,9 @@
     "test:a11y:ci": "npm run build && npm run test:a11y",
     "prepare": "git config core.hooksPath .githooks"
   },
+  "overrides": {
+    "brace-expansion": "5.0.8"
+  },
   "dependencies": {
     "bootstrap": "^5.3.8",
     "react": "^19.2.7",
