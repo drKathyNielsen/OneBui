@@ -20,7 +20,7 @@ export function formatDate(iso: string): { long: string; short: string } {
 }
 
 function mapItem(it: RawArticle): Article {
-  return { title: it.title, description: it.description ?? '', url: it.url, image: it.image?.url, source: it.source, topic: topicLabel(it.topic) };
+  return { title: it.title, description: it.description ?? '', url: it.url, image: it.image?.url, alt: it.image?.alt ?? '', source: it.source, topic: topicLabel(it.topic) };
 }
 
 // Compact label for a day chip, e.g. "THU 23". Weekday alone can repeat across a

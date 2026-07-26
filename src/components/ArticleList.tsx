@@ -6,14 +6,19 @@ interface Props {
 }
 
 export default function ArticleList({ heading, items }: Props) {
+  const headingId = `heading-${heading.toLowerCase().replace(/\s+/g, '-')}`;
   return (
-    <section className="oneb-section" aria-labelledby={`heading-${heading}`}>
-      <h2 className="oneb-section-heading" id={`heading-${heading}`}>{heading}</h2>
+    <section className="oneb-section" aria-labelledby={headingId}>
+      <h2 className="oneb-section-heading" id={headingId}>{heading}</h2>
       <ol className="oneb-article-list list-unstyled">
         {items.map((item) => (
           <li key={item.url} className="oneb-article">
-            <div className="oneb-thumb" role="img" aria-label={item.image ? '' : 'No image available'}>
-              {item.image && <img src={item.image} alt="" />}
+            <div
+              className="oneb-thumb"
+              role={item.image ? undefined : 'img'}
+              aria-label={item.image ? undefined : 'No image available'}
+            >
+              {item.image && <img src={item.image} alt={item.alt ?? ''} />}
             </div>
             <div className="oneb-article-body">
               <h3 className="oneb-article-title">{item.title}</h3>

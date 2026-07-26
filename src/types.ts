@@ -36,7 +36,8 @@ export interface Article {
   source: string;
   topic: string;
   url: string;
-  image?: string;
+  image?: string; // resolved thumbnail URL
+  alt?: string; // image alt text ('' when decorative/unknown)
 }
 
 export type Period = 'today' | 'weekly';
