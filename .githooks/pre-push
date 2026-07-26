@@ -1,0 +1,18 @@
+#!/bin/sh
+# Block pushes that introduce accessibility violations.
+# Builds the app and runs pa11y-ci (WCAG2AA) against the preview.
+# Wired via `git config core.hooksPath .githooks` (the package.json "prepare" script).
+#
+# Requires Node 20 for the Vite build; loads nvm's Node 20 if available.
+if [ -s "$HOME/.nvm/nvm.sh" ]; then
+  # shellcheck disable=SC1091
+  . "$HOME/.nvm/nvm.sh"
+  nvm use 20 >/dev/null 2>&1 || true
+fi
+
+echo "pre-push: running accessibility check (npm run test:a11y:ci)…"
+if ! npm run test:a11y:ci; then
+  echo "pre-push: accessibility check failed — push aborted. Fix the reported issues or run 'npm run test:a11y:ci' locally to reproduce." >&2
+  echo "pre-push: to bypass in an emergency, use 'git push --no-verify'." >&2
+  exit 1
+fi

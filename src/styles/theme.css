@@ -17,7 +17,6 @@
   --badge-bg: #1a1a17;
   --badge-text: #f5f3ec;
   --accent: #1a1a17;
-  --tab-disabled: #a29c8c;
   --heading-font: 'Newsreader', serif;
   --label-font: 'IBM Plex Mono', monospace;
   --body-font: 'Inter', sans-serif;
@@ -37,7 +36,6 @@
   --badge-bg: #ece7d9;
   --badge-text: #17150f;
   --accent: #f2ede0;
-  --tab-disabled: #655f4d;
   --heading-font: 'Newsreader', serif;
   --label-font: 'IBM Plex Mono', monospace;
   --body-font: 'Inter', sans-serif;
@@ -57,7 +55,6 @@
   --badge-bg: #2f5aa8;
   --badge-text: #ffffff;
   --accent: #2f5aa8;
-  --tab-disabled: #a9a598;
   --heading-font: 'Newsreader', serif;
   --label-font: 'Inter', sans-serif;
   --body-font: 'Inter', sans-serif;
@@ -79,7 +76,6 @@
   --badge-bg: #4677b8; /* 4.57:1 with white text */
   --badge-text: #ffffff;
   --accent: #4677b8;
-  --tab-disabled: #4d5666;
   --heading-font: 'Newsreader', serif;
   --label-font: 'Inter', sans-serif;
   --body-font: 'Inter', sans-serif;
