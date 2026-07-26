@@ -105,6 +105,7 @@ export default function App() {
                 hasWeekly={metro.weekly !== null}
                 period={period}
                 selectedDate={day.date}
+                style={style}
                 onPeriodChange={changePeriod}
                 onDaySelect={selectDay}
               />

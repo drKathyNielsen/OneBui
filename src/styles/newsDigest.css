@@ -89,6 +89,12 @@
   cursor: not-allowed;
 }
 
+/* Interactive menu items (the reading-style chooser) — unlike the disabled
+   "Add cities"/"Account" placeholders, these are selectable. */
+.oneb-topnav-menu-item--choice { cursor: pointer; }
+.oneb-topnav-menu-item--choice:hover { background: var(--surface-border); }
+.oneb-topnav-menu-item--active { background: var(--badge-bg); color: var(--badge-text); }
+
 /* ---------- Sidebar (tablet/desktop) ---------- */
 .oneb-sidebar-col { border-right: 1px solid var(--hairline); padding-top: 18px; }
 .oneb-sidebar-heading {
@@ -117,26 +123,53 @@
 
 /* ---------- City rail (phone) ---------- */
 .oneb-city-rail {
-  display: flex;
-  gap: 8px;
-  overflow-x: auto;
   padding: 10px 16px;
   background: var(--surface);
   border-bottom: 1px solid var(--header-border);
 }
-.oneb-city-chip {
-  flex: none;
-  font: 500 12px var(--body-font);
-  padding: 6px 13px;
-  border-radius: 20px;
+.oneb-city-select { position: relative; }
+.oneb-city-select-trigger {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  width: 100%;
+  font: 600 14px var(--body-font);
+  color: var(--ink);
+  background: var(--bg);
   border: 1px solid var(--surface-border);
-  background: transparent;
-  color: var(--text-secondary);
+  border-radius: 10px;
+  padding: 10px 14px;
   cursor: pointer;
-  white-space: nowrap;
 }
-.oneb-city-chip--active { background: var(--ink); color: var(--bg); border-color: var(--ink); }
-.oneb-city-chip--add { color: var(--accent); border-style: dashed; cursor: not-allowed; }
+.oneb-city-menu {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 100%;
+  margin: 6px 0 0;
+  padding: 6px 0;
+  list-style: none;
+  background: var(--bg);
+  border: 1px solid var(--surface-border);
+  border-radius: 10px;
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.18);
+  z-index: 20;
+  max-height: 60vh;
+  overflow-y: auto;
+}
+.oneb-city-menu-item {
+  all: unset;
+  box-sizing: border-box;
+  display: block;
+  width: 100%;
+  padding: 11px 14px;
+  font: 600 14px var(--body-font);
+  color: var(--ink);
+  cursor: pointer;
+}
+.oneb-city-menu-item:hover { background: var(--surface); }
+.oneb-city-menu-item--active { background: var(--badge-bg); color: var(--badge-text); }
 
 /* ---------- Masthead ---------- */
 .oneb-masthead {
@@ -219,7 +252,10 @@
 }
 
 .oneb-card {
+  /* The "Are they ok?" hero stays on the tinted surface in every style; friendly
+     adds a soft drop shadow (classic/modern define no --card-shadow → none). */
   background: var(--surface);
+  box-shadow: var(--card-shadow, none);
   border: 1px solid var(--surface-border);
   border-radius: 12px;
   padding: 18px 20px;
@@ -296,6 +332,8 @@
 /* Heading inside a card (Are they ok?) — same dark label type, no trailing rule */
 .oneb-section-heading--plain { margin-bottom: 12px; }
 .oneb-section-heading--plain::after { display: none; }
+/* Friendly tints the "Heads up!" eyebrow with the accent; classic/modern keep ink. */
+.oneb-root[data-style="friendly"] .oneb-section-heading--plain { color: var(--accent); }
 
 .oneb-article {
   display: flex;
@@ -304,6 +342,19 @@
   border-bottom: 1px solid var(--hairline);
   align-items: flex-start;
 }
+
+/* Friendly boxes each article in its own white card floating on the tinted
+   ground; classic/modern define no --card-bg so they keep the flat,
+   hairline-separated list rows above (unchanged). */
+.oneb-root[data-style="friendly"] .oneb-article {
+  background: var(--card-bg);
+  box-shadow: var(--card-shadow);
+  border: 1px solid var(--surface-border);
+  border-radius: 12px;
+  padding: 14px 16px;
+  margin-bottom: 12px;
+}
+.oneb-root[data-style="friendly"] .oneb-article:last-child { margin-bottom: 0; }
 
 .oneb-article-body {
   min-width: 0;

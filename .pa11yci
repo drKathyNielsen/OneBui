@@ -21,15 +21,38 @@
       "url": "http://localhost:4173/",
       "actions": [
         "click element [aria-label^=\"Reading style\"]",
+        "wait for element [aria-label=\"Modern\"] to be visible",
+        "click element [aria-label=\"Modern\"]",
         "wait for element .oneb-root[data-style=\"modern\"] to be visible"
       ]
     },
     {
       "url": "http://localhost:4173/",
       "actions": [
-        "click element [aria-label^=\"Reading style\"]",
         "click element [aria-label^=\"Color theme\"]",
+        "click element [aria-label^=\"Reading style\"]",
+        "wait for element [aria-label=\"Modern\"] to be visible",
+        "click element [aria-label=\"Modern\"]",
         "wait for element .oneb-root[data-style=\"modern\"][data-theme=\"dark\"] to be visible"
+      ]
+    },
+    {
+      "url": "http://localhost:4173/",
+      "actions": [
+        "click element [aria-label^=\"Reading style\"]",
+        "wait for element [aria-label=\"Friendly\"] to be visible",
+        "click element [aria-label=\"Friendly\"]",
+        "wait for element .oneb-root[data-style=\"friendly\"] to be visible"
+      ]
+    },
+    {
+      "url": "http://localhost:4173/",
+      "actions": [
+        "click element [aria-label^=\"Color theme\"]",
+        "click element [aria-label^=\"Reading style\"]",
+        "wait for element [aria-label=\"Friendly\"] to be visible",
+        "click element [aria-label=\"Friendly\"]",
+        "wait for element .oneb-root[data-style=\"friendly\"][data-theme=\"dark\"] to be visible"
       ]
     }
   ]
