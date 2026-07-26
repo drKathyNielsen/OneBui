@@ -3,16 +3,18 @@
   "metroCode": "14500",
   "metro": "Boulder, CO",
   "date": "2026-07-20",
-  "are_you_ok": {
-    "title": "Denver hits 100-degree mark for first time in 2026",
-    "summary": "Denver hits 100 for first time in 2026 after 10 straight 90-degree days — diffuse heat effect over the metro, a genuine check-in on how people are coping.",
-    "source": "9NEWS",
-    "topic": "heat",
-    "url": "https://www.9news.com/article/weather/weather-colorado/denver-colorado-weather-hot-temperatures-100-degrees/73-aabe5599-a775-42de-a96c-6b2dfeb7018a",
-    "published_at": "2026-07-20T21:50:32+00:00",
-    "image": null,
-    "description": "We've also been mired in a string of 90-degree days recently, hitting the mark 10 consecutive days."
-  },
+  "are_you_ok": [
+    {
+      "title": "Denver hits 100-degree mark for first time in 2026",
+      "summary": "Denver hits 100 for first time in 2026 after 10 straight 90-degree days — diffuse heat effect over the metro, a genuine check-in on how people are coping.",
+      "source": "9NEWS",
+      "topic": "heat",
+      "url": "https://www.9news.com/article/weather/weather-colorado/denver-colorado-weather-hot-temperatures-100-degrees/73-aabe5599-a775-42de-a96c-6b2dfeb7018a",
+      "published_at": "2026-07-20T21:50:32+00:00",
+      "image": null,
+      "description": "We've also been mired in a string of 90-degree days recently, hitting the mark 10 consecutive days."
+    }
+  ],
   "conversation_starters": [
     {
       "title": "Airline to cut Denver flights to Ireland",

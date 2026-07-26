@@ -3,15 +3,17 @@
   "metroCode": "41700",
   "metro": "San Antonio-New Braunfels, TX",
   "date": "2026-07-19",
-  "are_you_ok": {
-    "title": "Frio River rising 1 foot every 2 minutes leads to voluntary evacuation notice from officials",
-    "summary": "Frio River rising fast, voluntary evacuation — acute local flood hazard affecting residents/visitors.",
-    "source": "KENS 5",
-    "topic": "flood",
-    "url": "https://www.kens5.com/article/news/local/public-safety/texas-frio-river-rising-1-foot-2-minutes-voluntary-evacuation-notice/273-808c6ea3-2328-40cb-b883-68594bf1aa25",
-    "published_at": "2026-07-19T02:27:39+00:00",
-    "image": null
-  },
+  "are_you_ok": [
+    {
+      "title": "Frio River rising 1 foot every 2 minutes leads to voluntary evacuation notice from officials",
+      "summary": "Frio River rising fast, voluntary evacuation — acute local flood hazard affecting residents/visitors.",
+      "source": "KENS 5",
+      "topic": "flood",
+      "url": "https://www.kens5.com/article/news/local/public-safety/texas-frio-river-rising-1-foot-2-minutes-voluntary-evacuation-notice/273-808c6ea3-2328-40cb-b883-68594bf1aa25",
+      "published_at": "2026-07-19T02:27:39+00:00",
+      "image": null
+    }
+  ],
   "conversation_starters": [
     {
       "title": "WWE Monday Night RAW returning to San Antonio this September. Here's when tickets go on sale",

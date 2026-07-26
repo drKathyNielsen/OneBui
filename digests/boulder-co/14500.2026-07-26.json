@@ -1,0 +1,98 @@
+{
+  "shortName": "Boulder, CO",
+  "metroCode": "14500",
+  "metro": "Boulder, CO",
+  "date": "2026-07-26",
+  "are_you_ok": [
+    {
+      "title": "Colorado cities break heat records amid soaring temperatures",
+      "summary": "Record heat across Colorado cities, broad local impact - are you ok check-in on extreme heat affecting the metro.",
+      "source": "CBS Colorado",
+      "topic": "heat",
+      "url": "https://www.cbsnews.com/colorado/news/colorado-cities-break-heat-records-amid-soaring-temperatures/",
+      "published_at": "2026-07-26T17:46:00+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/26/48122297-0339-4c81-9f77-e3772ce61640/thumbnail/1024x576/47076da58ae0eb7cba7b5a44d051d510/gettyimages-2185688436.jpg",
+        "alt": ""
+      },
+      "description": "One CBS Colorado viewer put it best when they said the state is \"spinning around in the devil's air fryer.\" It certainly feels that way across Colorado, where multiple cities, including Denver, broke heat records on Saturday."
+    }
+  ],
+  "conversation_starters": [
+    {
+      "title": "Record heat doesn't stop crowds at Underground Music Showcase's first year in RiNo",
+      "summary": "Marquee local festival (UMS) in its new RiNo home despite record heat -> a natural, work-safe opener. You could open with: 'Did you make it to the Underground Music Showcase in RiNo this year?'",
+      "source": "9NEWS",
+      "topic": "civic-events",
+      "url": "https://www.9news.com/article/entertainment/record-heat-doesnt-stop-crowds-at-underground-music-showcases-first-year-in-rino/73-e9b5701e-bdc7-4b1d-83de-c8b55e7bd1a1",
+      "published_at": "2026-07-26T03:57:24+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/ee79e176-5f83-4fa8-a375-643c3ab9aba4/20260726T021856/ee79e176-5f83-4fa8-a375-643c3ab9aba4_750x422.jpg",
+        "alt": ""
+      },
+      "description": "Despite record-breaking heat in Denver, people attended the Underground Music Showcase in its new RiNo location, enjoying local talent amid safety measures."
+    },
+    {
+      "title": "Denver Zoo changes Sunday operating hours due to extreme heat forecast",
+      "summary": "Mitigation/adjustment tied to extreme heat, positive framing -> not are-you-ok; a light, work-safe local opener. You could open with: 'Did you catch that the Denver Zoo moved up its hours for the heat this weekend?'",
+      "source": "9NEWS",
+      "topic": "heat",
+      "url": "https://www.9news.com/article/news/local/denver-zoo-changes-hours-due-to-extreme-heat/73-a5812b09-d1b4-47f6-93fc-36e33e2bddbd",
+      "published_at": "2026-07-26T13:44:27+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/b49e2cd3-91de-4b01-8222-81c016d70b1b/20240711T041125/b49e2cd3-91de-4b01-8222-81c016d70b1b_750x422.jpg",
+        "alt": ""
+      },
+      "description": "The popular attraction will be open early Sunday to beat the heat, with flexible entry and activities adjusted for a cooler morning visit."
+    },
+    {
+      "title": "Aurora's Day of Resilience honors theater shooting victims while supporting long-term healing",
+      "summary": "Aurora theater-shooting memorial/healing event is locally resonant and community-known; sensitive but not partisan. Light, respectful opener. You could open with: 'Did you hear about Aurora's Day of Resilience honoring the theater victims?'",
+      "source": "CBS Colorado",
+      "topic": "human-interest",
+      "url": "https://www.cbsnews.com/colorado/video/auroras-day-of-resilience-honors-theater-shooting-victims-while-supporting-long-term-healing/",
+      "published_at": "2026-07-26T02:55:00+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/07/26/69d38529-1f52-4a75-9926-b993f81109db/thumbnail/1024x576/ec677773b793d1980b215653f5fe0b16/8648dc32a56f532105a1459d3092f27f.jpg",
+        "alt": ""
+      },
+      "description": "Khloey Pace and Peyton Soltis are the young faces behind Veronica's Lemonade Stand at Aurora's Day of Resilience, where every cup served honors the memory of 6-year-old Veronica Moser-Sullivan, the youngest victim of the 2012 Aurora theater shooting."
+    }
+  ],
+  "sports": [
+    {
+      "team": "Rockies",
+      "scores": [
+        "Brewers 8, Rockies 5"
+      ]
+    }
+  ],
+  "you_should_know": [
+    {
+      "title": "4th firefighter dies from burn injuries battling Colorado's Knowles wildfire",
+      "summary": "Firefighter death from wildfire is a significant local event worth reader awareness.",
+      "source": "CBS Colorado",
+      "topic": "wildfire",
+      "url": "https://www.cbsnews.com/colorado/video/4th-firefighter-dies-from-burn-injuries-battling-colorados-knowles-wildfire/",
+      "published_at": "2026-07-26T02:50:00+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/26/6375b5ac-6ba9-4cde-a4d1-bfb84bf35a4d/thumbnail/1024x576/6df11556851627b4fb756b1d1d2f5842/ad3a4a57979a111a51ae086bb120cb4f.jpg",
+        "alt": ""
+      },
+      "description": "A fourth firefighter died from burn injuries battling Colorado's Knowles wildfire in the western part of the state at the end of June."
+    },
+    {
+      "title": "Drought task force says Colorado wildfires cost taxpayers $266 million",
+      "summary": "Statewide wildfire cost tally from Drought Task Force; retrospective context landing on the state, not an active check-in. Awareness context.",
+      "source": "CBS Colorado",
+      "topic": "wildfire",
+      "url": "https://www.cbsnews.com/colorado/news/drought-task-force-colorado-wildfires-266-million/",
+      "published_at": "2026-07-26T02:37:56+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/26/2691fe00-b3ec-4fab-8bc9-f4bb0c605a27/thumbnail/1024x576/571407e2a08e79a136e30e186aedb450/aspen-acres-fire-division-b-supervisor-shows-dozer-line-july-19-2026.png",
+        "alt": ""
+      },
+      "description": "In a recent meeting of Colorado's Drought Task Force, officials said the four largest wildfires in the state have cost taxpayers $266 million."
+    }
+  ]
+}

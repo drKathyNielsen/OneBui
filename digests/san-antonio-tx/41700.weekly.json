@@ -1,0 +1,428 @@
+{
+  "period": "weekly",
+  "shortName": "San Antonio, TX",
+  "metroCode": "41700",
+  "metro": "San Antonio-New Braunfels, TX",
+  "range": {
+    "start": "2026-07-20",
+    "end": "2026-07-26"
+  },
+  "are_you_ok": [
+    {
+      "title": "Third death reported from Hill Country and South Texas flooding last week, Gov. Abbott says",
+      "summary": "The Hill Country and South Texas floods dominated the week: a third death was confirmed Friday, survivors in Uvalde were warned about recovery scams, and river and reservoir levels stayed dangerous — Nueces in La Salle County cresting mid-week, Canyon Lake near capacity, and Choke Canyon rising with downstream flood risk still flagged into the weekend.",
+      "source": "KENS 5",
+      "topic": "flood",
+      "url": "https://www.kens5.com/article/news/local/third-death-reported-from-hill-country-and-south-texas-flooding-last-week-gov-abbott-says/273-b0376749-339b-4fe8-808d-3da008d257be",
+      "published_at": "2026-07-24T21:36:35+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/e71e495f-f627-4be9-bf83-069c3dfdc1e6/20260501T195052/e71e495f-f627-4be9-bf83-069c3dfdc1e6_750x422.jpg",
+        "alt": ""
+      },
+      "description": "Severe weather in South Texas claimed at least three lives after Val Verde County officials confirmed an 71-year-old woman died amid rising floodwaters.",
+      "thread": [
+        {
+          "title": "Uvalde man escapes floodwaters after car becomes stranded in Leona River",
+          "summary": "Anchor of the major Hill Country flooding event — 15-25 inches of rain, near a year's worth. A diffuse regional flood event in the metro's region; broad daily-life effect warrants a check-in. Uvalde escape detail is the local hook for this event cluster.",
+          "source": "KENS 5",
+          "topic": "flood",
+          "url": "https://www.kens5.com/article/weather/uvalde-man-escapes-floodwaters-leona-river-weather-texas/273-4865c260-40af-47fd-a916-01f6f5d5f376",
+          "published_at": "2026-07-21T00:42:48+00:00",
+          "image": null,
+          "description": "Some communities saw 15 to 25 inches of rain over just a few days, with some areas receiving nearly a year's worth of rainfall."
+        },
+        {
+          "title": "Canyon Lake reaches 99.8 percent capacity; boat ramps closed after storms",
+          "summary": "Canyon Lake near full, boat ramps closed, overflow concerns after storms — condition affecting the metro area. You could open with... kept as check-in on flooding risk.",
+          "source": "KENS 5",
+          "topic": "flood",
+          "url": "https://www.kens5.com/article/news/local/canyon-lake-reaches-998-percent-capacity-boat-ramps-closed-after-storms/273-efe11e8e-16a6-444b-a521-6cee5f409e51",
+          "published_at": "2026-07-21T13:41:51+00:00",
+          "image": null,
+          "description": "Heavy rains in Hill Country have led to historic flooding and filled Canyon Lake to nearly full capacity, raising concerns about potential overflow."
+        },
+        {
+          "title": "Nueces River level in La Salle County could start to drop Wednesday night",
+          "summary": "Nueces River flooding, 100+ self-evacuated in La Salle County — active hazard affecting the region.",
+          "source": "KENS 5",
+          "topic": "flood",
+          "url": "https://www.kens5.com/article/news/local/nueces-river-level-in-la-salle-county-could-start-to-drop-wednesday-night/273-79184b14-5307-4fcb-ac8a-ca3995744cbb",
+          "published_at": "2026-07-22T15:32:34+00:00",
+          "image": null,
+          "description": "La Salle County remains on high alert as the Nueces River's flood level exceeds 28 feet, prompting over 100 residents to self-evacuate after heavy rains."
+        },
+        {
+          "title": "Uvalde flood survivors urged to watch for scams as recovery resources expand",
+          "summary": "Flood recovery in Uvalde with scam warnings — affects survivors' daily life in the region.",
+          "source": "KENS 5",
+          "topic": "flood",
+          "url": "https://www.kens5.com/article/news/local/texas/uvalde-flood-recovery-fema-tdem-better-business-bureau-chdi-hamlane-revive-church-resiliency-center-scams-contractors-legal-aid-mental/273-e48cb150-278d-4d01-8893-bd198a7ce52c",
+          "published_at": "2026-07-23T11:47:45+00:00",
+          "image": null,
+          "description": "Disaster assistance, supplies and emotional support are available in Uvalde as officials warn flood survivors to be on alert for scams."
+        },
+        {
+          "title": "Third death reported from Hill Country and South Texas flooding last week, Gov. Abbott says",
+          "summary": "Flooding deaths in region, broad population safety check-in relevant to metro area",
+          "source": "KENS 5",
+          "topic": "flood",
+          "url": "https://www.kens5.com/article/news/local/third-death-reported-from-hill-country-and-south-texas-flooding-last-week-gov-abbott-says/273-b0376749-339b-4fe8-808d-3da008d257be",
+          "published_at": "2026-07-24T21:36:35+00:00",
+          "image": {
+            "url": "https://media.tegna-media.com/assets/KENS/images/e71e495f-f627-4be9-bf83-069c3dfdc1e6/20260501T195052/e71e495f-f627-4be9-bf83-069c3dfdc1e6_750x422.jpg",
+            "alt": ""
+          },
+          "description": "Severe weather in South Texas claimed at least three lives after Val Verde County officials confirmed an 71-year-old woman died amid rising floodwaters."
+        },
+        {
+          "title": "City of Austin extends partial waterway bans until July 27",
+          "summary": "City of Austin extends partial waterway bans due to dangerous conditions — an ongoing water-hazard restriction affecting residents' daily use of the waterways. Keep; leans check-in as it reflects hazardous conditions on the broad population.",
+          "source": "KENS 5",
+          "topic": "flood",
+          "url": "https://www.kens5.com/article/news/local/texas/austin-texas-waterway-ban-hill-country-flooding/269-f0268b04-c808-4cd9-bf52-426369dbbd21",
+          "published_at": "2026-07-26T03:01:17+00:00",
+          "image": {
+            "url": "https://media.tegna-media.com/assets/KVUE/images/ad0f8035-dccb-422e-a28f-3c57e85ca73a/20260715T232359/ad0f8035-dccb-422e-a28f-3c57e85ca73a_750x422.jpg",
+            "alt": ""
+          },
+          "description": "After initially extending it through July 25, a portion of the ban is now set to remain in effect until 5 p.m. on Monday."
+        },
+        {
+          "title": "Choke Canyon rises after Hill Country rains, but officials warn of flood risks downstream",
+          "summary": "Officials warn of dangerous currents and rising river levels threatening nearby Hill Country/South Texas communities downstream — a flood hazard affecting the broad local population. Keep as check-in.",
+          "source": "KENS 5",
+          "topic": "flood",
+          "url": "https://www.kens5.com/article/news/local/choke-canyon-fills-after-hill-country-rains-but-officials-warn-of-flood-risks-downstream/503-b459d2f4-6383-4668-86a6-c453943a53b0",
+          "published_at": "2026-07-26T12:02:44+00:00",
+          "image": {
+            "url": "https://media.tegna-media.com/assets/KIII/images/429cd1f3-91a9-465e-8746-416caa468321/20260724T035756/429cd1f3-91a9-465e-8746-416caa468321_750x422.jpg",
+            "alt": ""
+          },
+          "description": "Recent rains are refilling Choke Canyon and bringing anglers back, but officials warn dangerous currents and rising river levels could threaten nearby communities."
+        }
+      ]
+    },
+    {
+      "title": "Heat advisory issued as dangerous temperatures return to San Antonio; here’s how to stay safe",
+      "summary": "Dangerous heat returned to San Antonio and South Texas mid-week, with a heat advisory issued for the city before a slight cooldown — worth a check-in for anyone working or living outdoors.",
+      "source": "San Antonio Report",
+      "topic": "heat",
+      "url": "https://sanantonioreport.org/heat-advisory-dangerous-temperatures-san-antonio/",
+      "published_at": "2026-07-22T11:30:00+00:00",
+      "image": {
+        "url": "https://i0.wp.com/sanantonioreport.org/wp-content/uploads/2026/07/ExtremeHeat_SouthTexas_BrightHotSunnyWeather_Shade02_06.24.2026_AmberEsparza-scaled-1.jpg?fit=1024%2C683&ssl=1",
+        "alt": ""
+      },
+      "description": "Dangerous heat returns to San Antonio this week, with a heat advisory in effect Wednesday and heat index values reaching up to 112 degrees.Heat advisory issued as dangerous temperatures return to San Antonio; here’s how to stay safe was first posted on July 22, 2026 at 6:30",
+      "thread": [
+        {
+          "title": "Heat advisory issued as dangerous temperatures return to San Antonio; here’s how to stay safe",
+          "summary": "Dangerous heat advisory affecting broad San Antonio population now",
+          "source": "San Antonio Report",
+          "topic": "heat",
+          "url": "https://sanantonioreport.org/heat-advisory-dangerous-temperatures-san-antonio/",
+          "published_at": "2026-07-22T11:30:00+00:00",
+          "image": {
+            "url": "https://i0.wp.com/sanantonioreport.org/wp-content/uploads/2026/07/ExtremeHeat_SouthTexas_BrightHotSunnyWeather_Shade02_06.24.2026_AmberEsparza-scaled-1.jpg?fit=1024%2C683&ssl=1",
+            "alt": ""
+          },
+          "description": "Dangerous heat returns to San Antonio this week, with a heat advisory in effect Wednesday and heat index values reaching up to 112 degrees.Heat advisory issued as dangerous temperatures return to San Antonio; here’s how to stay safe was first posted on July 22, 2026 at 6:30"
+        },
+        {
+          "title": "Dangerous heat grips South Texas before slight cooldown | Weather Impact Alert",
+          "summary": "Broad population affected by dangerous heat, check-in worthy",
+          "source": "KENS 5",
+          "topic": "heat",
+          "url": "https://www.kens5.com/article/weather/forecast/heat-advisory-san-antonio-ercot-power-grid-electricity-triple-digits-heat-index-energy-demand-forecast-summer-hydration-air-conditioning/273-41ced3d1-9b66-4961-a7dc-a98c34a6a579",
+          "published_at": "2026-07-23T11:56:48+00:00",
+          "image": null,
+          "description": "Triple-digit heat returns Wednesday, with heat index values up to 114 degrees as Texas power demand reaches record levels."
+        }
+      ]
+    }
+  ],
+  "conversation_starters": [
+    {
+      "title": "Boaters return as Canyon Lake reaches full conservation pool for first time in more than 4 years",
+      "summary": "Canyon Lake hit full conservation pool for the first time in over four years and boaters returned — a rare good-news water story after years of drought, even as storms briefly closed ramps.",
+      "source": "KENS 5",
+      "topic": "drought-water",
+      "url": "https://www.kens5.com/article/news/local/texas/canyon-lake-100-full-first-time-4-years-texas/273-7250ad51-6586-46fa-8fec-389af1d7b2bd",
+      "published_at": "2026-07-24T03:48:58+00:00",
+      "image": null,
+      "description": "The U.S. Army Corps of Engineers encourages people to have fun but keep cautious due to flood debris and other hazards on the lake.",
+      "thread": [
+        {
+          "title": "Canyon Lake reaches 99.8 percent capacity; boat ramps closed after storms",
+          "summary": "Canyon Lake near full, boat ramps closed, overflow concerns after storms — condition affecting the metro area. You could open with... kept as check-in on flooding risk.",
+          "source": "KENS 5",
+          "topic": "flood",
+          "url": "https://www.kens5.com/article/news/local/canyon-lake-reaches-998-percent-capacity-boat-ramps-closed-after-storms/273-efe11e8e-16a6-444b-a521-6cee5f409e51",
+          "published_at": "2026-07-21T13:41:51+00:00",
+          "image": null,
+          "description": "Heavy rains in Hill Country have led to historic flooding and filled Canyon Lake to nearly full capacity, raising concerns about potential overflow."
+        },
+        {
+          "title": "Boaters return as Canyon Lake reaches full conservation pool for first time in more than 4 years",
+          "summary": "Canyon Lake reaches full conservation pool for first time in 4+ years — notable regional water-condition turnaround and a natural talker for locals. You could open with: 'Heard Canyon Lake finally hit full pool for the first time in four years — boaters are back out there.'",
+          "source": "KENS 5",
+          "topic": "drought-water",
+          "url": "https://www.kens5.com/article/news/local/texas/canyon-lake-100-full-first-time-4-years-texas/273-7250ad51-6586-46fa-8fec-389af1d7b2bd",
+          "published_at": "2026-07-24T03:48:58+00:00",
+          "image": null,
+          "description": "The U.S. Army Corps of Engineers encourages people to have fun but keep cautious due to flood debris and other hazards on the lake."
+        }
+      ]
+    },
+    {
+      "title": "San Antonio Animal Care Services waives adoption fees as shelter exceeds capacity after recent weather",
+      "summary": "San Antonio Animal Care Services waived adoption fees after the shelter exceeded capacity following the recent weather — an easy, warm opener that invites a real exchange.",
+      "source": "KENS 5",
+      "topic": "human-interest",
+      "url": "https://www.kens5.com/article/life/animals/san-antonio-animal-care-services-0-adoption-fees-shelter-capacity-texas-weather-flood/273-0859bf4b-dcc1-434d-9d7e-322d70d3dd6e",
+      "published_at": "2026-07-25T04:10:31+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/dc3ca437-59bd-4329-91bd-877644d69674/dc3ca437-59bd-4329-91bd-877644d69674_750x422.jpg",
+        "alt": ""
+      },
+      "description": "San Antonio's animal shelter is waiving adoption fees amid overcrowding from a surge in pets following severe weather, urging locals to adopt or foster to help."
+    },
+    {
+      "title": "AC/DC brings electric POWER UP Tour to San Antonio's Alamodome",
+      "summary": "The Alamodome's summer concert slate filled out this week, headlined by AC/DC's POWER UP Tour and the KPOPWORLD Festival with Jay Park and The Rose.",
+      "source": "KENS 5",
+      "topic": "civic-events",
+      "url": "https://www.kens5.com/article/news/local/san-antonio-texas-satx-acdc-power-up-tour-alamodome-concert-photos-july-2026/273-831e158e-ab44-47c0-b71d-1aae3c0b6907",
+      "published_at": "2026-07-25T19:32:22+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/e6b95942-e978-4c78-81f4-d52619e08253/20260725T151734/e6b95942-e978-4c78-81f4-d52619e08253_750x422.jpg",
+        "alt": ""
+      },
+      "description": "AC/DC electrified San Antonio's Alamodome with their POWER UP Tour, delivering classic rock anthems and high-energy performances, captivating a sea of fans.",
+      "thread": [
+        {
+          "title": "KPOPWORLD Festival bringing Jay Park, The Rose and more to Alamodome",
+          "summary": "Marquee new festival coming to Alamodome. You could open with: 'Did you hear a big K-pop festival is coming to the Alamodome this fall?'",
+          "source": "KENS 5",
+          "topic": "civic-events",
+          "url": "https://www.kens5.com/article/news/local/kpopworld-alamodome-jay-park-rose-sb19-jessi-artms-cravity-xdinary-heroes-wonho-dean-tabber-heyoon-dayoung-dance-championship-vendor/273-879e1834-27a9-428a-bcc6-10a7dbd9feed",
+          "published_at": "2026-07-21T13:57:48+00:00",
+          "image": null,
+          "description": "The first KPOPWORLD Festival in Texas is coming to San Antonio this fall with global artists, a dance championship and an international vendor village."
+        },
+        {
+          "title": "AC/DC brings electric POWER UP Tour to San Antonio's Alamodome",
+          "summary": "Marquee concert at the Alamodome — a light, fun local opener. You could open with: 'Did you catch AC/DC at the Alamodome? How was it?'",
+          "source": "KENS 5",
+          "topic": "civic-events",
+          "url": "https://www.kens5.com/article/news/local/san-antonio-texas-satx-acdc-power-up-tour-alamodome-concert-photos-july-2026/273-831e158e-ab44-47c0-b71d-1aae3c0b6907",
+          "published_at": "2026-07-25T19:32:22+00:00",
+          "image": {
+            "url": "https://media.tegna-media.com/assets/KENS/images/e6b95942-e978-4c78-81f4-d52619e08253/20260725T151734/e6b95942-e978-4c78-81f4-d52619e08253_750x422.jpg",
+            "alt": ""
+          },
+          "description": "AC/DC electrified San Antonio's Alamodome with their POWER UP Tour, delivering classic rock anthems and high-energy performances, captivating a sea of fans."
+        }
+      ]
+    },
+    {
+      "title": "SeaWorld San Antonio's 'Red, White & BBQ' festival returns with 35+ smoky, saucy favorites",
+      "summary": "Festival and free-event season is in full swing — SeaWorld's 'Red, White & BBQ' returned with 35+ smoky favorites, and the free Sounds of Downtown concert series kicked off at Travis Park.",
+      "source": "KENS 5",
+      "topic": "civic-events",
+      "url": "https://www.kens5.com/article/news/local/san-antonio-texas-satx-seaworld-red-white-bbq-festival-returns-summer-august-september-destinations-menu-cocktails-2026/273-433fd4c1-43de-45d0-a0b8-8a80146ecbc7",
+      "published_at": "2026-07-23T16:57:15+00:00",
+      "image": null,
+      "description": "SeaWorld San Antonio's Red, White & BBQ festival returns Aug. 8-Sept. 7, offering global barbecue flavors and new dishes every weekend.",
+      "thread": [
+        {
+          "title": "Free Sounds of Downtown concert series kicks off at Travis Park",
+          "summary": "Free downtown summer concert series — a work-safe, fun local opener. You could open with: 'Have you caught any of the free Sounds of Downtown shows at Travis Park?'",
+          "source": "KENS 5",
+          "topic": "civic-events",
+          "url": "https://www.kens5.com/article/news/local/sounds-downtown-travis-park-centro-san-antonio-district1-sukh-kaur-live-music-food-trucks-free-concert-downtown-thursdays-summer/273-79e77772-e272-4310-bb1d-f200cfe24f24",
+          "published_at": "2026-07-23T12:50:17+00:00",
+          "image": null,
+          "description": "Live music, food trucks and free parking return to downtown San Antonio with a weekly summer concert series."
+        },
+        {
+          "title": "SeaWorld San Antonio's 'Red, White & BBQ' festival returns with 35+ smoky, saucy favorites",
+          "summary": "SeaWorld San Antonio's Red, White & BBQ festival returns Aug 8–Sept 7 with 35+ dishes — a fun, work-safe seasonal talker. You could open with: 'SeaWorld's BBQ festival is back next month — 35-plus dishes, new ones every weekend. Might have to go.'",
+          "source": "KENS 5",
+          "topic": "civic-events",
+          "url": "https://www.kens5.com/article/news/local/san-antonio-texas-satx-seaworld-red-white-bbq-festival-returns-summer-august-september-destinations-menu-cocktails-2026/273-433fd4c1-43de-45d0-a0b8-8a80146ecbc7",
+          "published_at": "2026-07-23T16:57:15+00:00",
+          "image": null,
+          "description": "SeaWorld San Antonio's Red, White & BBQ festival returns Aug. 8-Sept. 7, offering global barbecue flavors and new dishes every weekend."
+        }
+      ]
+    },
+    {
+      "title": "Faces of the Spurs listening tour: Residents excited, concerned about downtown arena, Project Marvel",
+      "summary": "The Spurs' downtown arena and Project Marvel listening tour drew a mix of excitement and concern from residents — a live civic debate that's easy to bring up.",
+      "source": "San Antonio Report",
+      "topic": "housing",
+      "url": "https://sanantonioreport.org/spurs-listening-tour-feedback-faces/",
+      "published_at": "2026-07-23T16:24:29+00:00",
+      "image": {
+        "url": "https://i0.wp.com/sanantonioreport.org/wp-content/uploads/2026/07/SpursSports_ListeningSession_DowntownSportsArena_EntertainmentDistrict_ProjectMarvel24_07.22.2026_AmberEsparza-scaled.jpg?fit=1024%2C683&ssl=1",
+        "alt": ""
+      },
+      "description": "The conversations about a new arena district downtown ranged from concerns about affordability, traffic and transparency to fan nostalgia and anticipation for a new arena.Faces of the Spurs listening tour: Residents excited, concerned about downtown arena, Project Marvel was"
+    }
+  ],
+  "you_should_know": [
+    {
+      "title": "11 indicted in migrant-smuggling case linked to 7 deaths",
+      "summary": "Migrant-smuggling enforcement hit the metro this week: 11 people were indicted in a case linked to seven deaths, and arrests were made in the migrant deaths discovered in Laredo and San Antonio back in May.",
+      "source": "San Antonio Report",
+      "topic": "immigration-enforcement",
+      "url": "https://sanantonioreport.org/11-indicted-in-migrant-smuggling-case-linked-to-7-deaths/",
+      "published_at": "2026-07-25T00:59:27+00:00",
+      "image": {
+        "url": "https://i0.wp.com/sanantonioreport.org/wp-content/uploads/2026/07/crop-smuggling.jpg?fit=1024%2C683&ssl=1",
+        "alt": ""
+      },
+      "description": "A federal grand jury has indicted 11 people accused of participating in a migrant-smuggling operation that resulted in seven deaths in May.11 indicted in migrant-smuggling case linked to 7 deaths was first posted on July 24, 2026 at 7:59 pm.©2021 \"San Antonio Report\". Use of",
+      "thread": [
+        {
+          "title": "Arrests made in migrant deaths discovered in Laredo and San Antonio in May",
+          "summary": "Arrests in migrant deaths in Laredo and San Antonio — part of the local immigration/enforcement climate a manager should walk in aware of; not a work-safe opener and not a broad check-in.",
+          "source": "KENS 5",
+          "topic": "immigration-enforcement",
+          "url": "https://www.kens5.com/article/news/local/us-attorneys-office-announces-update-in-migrant-deaths-discovered-in-laredo-and-san-antonio-in-may/273-88612381-fe34-4d9a-aad4-a74b5169a30b",
+          "published_at": "2026-07-24T16:09:24+00:00",
+          "image": null,
+          "description": "Multiple arrests have been made in connection to migrant deaths in Laredo and San Antonio, authorities say."
+        },
+        {
+          "title": "11 indicted in migrant-smuggling case linked to 7 deaths",
+          "summary": "Federal indictment of 11 in migrant-smuggling case with 7 deaths — major current-events outcome with Texas/immigration context; not a check-in (bounded set of defendants).",
+          "source": "San Antonio Report",
+          "topic": "immigration-enforcement",
+          "url": "https://sanantonioreport.org/11-indicted-in-migrant-smuggling-case-linked-to-7-deaths/",
+          "published_at": "2026-07-25T00:59:27+00:00",
+          "image": {
+            "url": "https://i0.wp.com/sanantonioreport.org/wp-content/uploads/2026/07/crop-smuggling.jpg?fit=1024%2C683&ssl=1",
+            "alt": ""
+          },
+          "description": "A federal grand jury has indicted 11 people accused of participating in a migrant-smuggling operation that resulted in seven deaths in May.11 indicted in migrant-smuggling case linked to 7 deaths was first posted on July 24, 2026 at 7:59 pm.©2021 \"San Antonio Report\". Use of"
+        }
+      ]
+    },
+    {
+      "title": "Mayor Jones asks business, philanthropic community to help fund San Antonio events and groups amid budget deficit",
+      "summary": "San Antonio's budget deficit shaped City Hall all week — Mayor Jones asked business and philanthropic donors to help fund events and groups, and her proposal to end Ready to Work early split council members and drew a warning from the city attorney that it may run afoul of state law.",
+      "source": "KENS 5",
+      "topic": "elections-politics",
+      "url": "https://www.kens5.com/article/news/politics/san-antonio-budget-deficit-mayor-jones-letter-funding-help-botanical-garden-book-fest/273-4e0441c4-9360-4ccc-a4ce-808f06bbef67",
+      "published_at": "2026-07-25T03:32:32+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/d5959cff-cf67-4faf-b4df-19af16fbf3fd/d5959cff-cf67-4faf-b4df-19af16fbf3fd_750x422.jpg",
+        "alt": ""
+      },
+      "description": "Mayor Gina Ortiz Jones is hunting alternative funding for some San Antonio groups as one way to address the looming budget deficit.",
+      "thread": [
+        {
+          "title": "Mayor Jones proposed ending Ready to Work to help address SA's budget gap. Council members who sit on its board are split",
+          "summary": "Mayor proposing to end taxpayer-funded jobs-training program amid budget gap — local institutional context. Political, kept as context.",
+          "source": "KENS 5",
+          "topic": "business-jobs",
+          "url": "https://www.kens5.com/article/news/local/ready-to-work-san-antonio-budget-deficit-city-council-mayor-jones-memo/273-802cd9ab-6628-413c-adb6-0630eca7dc70",
+          "published_at": "2026-07-22T23:19:12+00:00",
+          "image": null,
+          "description": "The mayor's suggestion comes at a time when the taxpayer-funded workplace training program is finding more success connecting San Antonio residents with jobs."
+        },
+        {
+          "title": "City attorney suggests mayor’s plan to end Ready to Work early may run afoul of state law",
+          "summary": "Mayor's plan to end Ready to Work early may conflict with state law — local political-institutional dispute over a major SA jobs program; awareness context, unsafe opener. Keep per keep-when-unsure on the you-should-know boundary.",
+          "source": "San Antonio Report",
+          "topic": "elections-politics",
+          "url": "https://sanantonioreport.org/city-attorney-ready-to-work-response/",
+          "published_at": "2026-07-24T00:34:15+00:00",
+          "image": {
+            "url": "https://i0.wp.com/sanantonioreport.org/wp-content/uploads/2026/07/CityCouncil_SpecialSession_MayorCensure_01_02.27.2026_AmberEsparza0A-scaled-1.jpg?fit=1024%2C683&ssl=1",
+            "alt": ""
+          },
+          "description": "Mayor Gina Ortiz Jones didn't seem to take city attorney Andy Segovia's response to her suggestion to divert Ready to Work funds as a \"no.\"City attorney suggests mayor’s plan to end Ready to Work early may run afoul of state law was first posted on July 23, 2026 at 7:34 pm.©2021"
+        },
+        {
+          "title": "Mayor Jones asks business, philanthropic community to help fund San Antonio events and groups amid budget deficit",
+          "summary": "Mayor seeking alternative funding amid budget deficit — city-institutional context landing on the metro; keep-when-unsure on the context/noise boundary.",
+          "source": "KENS 5",
+          "topic": "elections-politics",
+          "url": "https://www.kens5.com/article/news/politics/san-antonio-budget-deficit-mayor-jones-letter-funding-help-botanical-garden-book-fest/273-4e0441c4-9360-4ccc-a4ce-808f06bbef67",
+          "published_at": "2026-07-25T03:32:32+00:00",
+          "image": {
+            "url": "https://media.tegna-media.com/assets/KENS/images/d5959cff-cf67-4faf-b4df-19af16fbf3fd/d5959cff-cf67-4faf-b4df-19af16fbf3fd_750x422.jpg",
+            "alt": ""
+          },
+          "description": "Mayor Gina Ortiz Jones is hunting alternative funding for some San Antonio groups as one way to address the looming budget deficit."
+        }
+      ]
+    },
+    {
+      "title": "Gov. Abbott heads to Cotulla as La Salle County begins flood recovery",
+      "summary": "Flood recovery moved into its official phase: Gov. Abbott traveled to Cotulla as La Salle County began recovery, sought federal aid, and credited preparedness after the Hill Country floods.",
+      "source": "KENS 5",
+      "topic": "flood",
+      "url": "https://www.kens5.com/article/news/local/cotulla-abbott-la-salle-county-nueces-river-flooding-recovery-mustang-creek-road-closures-istat-tdem-damage-cleanup-floodwaters-court/273-cce7ca68-4f84-444e-a0ee-997cf7f4be9a",
+      "published_at": "2026-07-24T15:17:48+00:00",
+      "image": null,
+      "description": "Gov. Greg Abbott will visit Cotulla Friday as families assess flood damage, roads remain closed and recovery efforts continue across La Salle County.",
+      "thread": [
+        {
+          "title": "Gov. Abbott seeks federal aid, credits preparedness after Hill Country floods",
+          "summary": "State-level government outcome (disaster declaration, federal aid request) tied to major flood event",
+          "source": "KENS 5",
+          "topic": "flood",
+          "url": "https://www.kens5.com/article/news/local/texas/governor-abbott-federal-aid-improved-preparedness-hill-country-floods/273-b43c9209-020e-4eb6-8490-6a2fcd1e1607",
+          "published_at": "2026-07-20T23:26:00+00:00",
+          "image": null,
+          "description": "Abbott has issued a state disaster declaration and requested a major federal disaster declaration for 28 counties to help communities recover."
+        },
+        {
+          "title": "Gov. Abbott heads to Cotulla as La Salle County begins flood recovery",
+          "summary": "Abbott visits Cotulla as La Salle County recovers from flooding; La Salle is in-region south of the metro. Flood-recovery/official-visit framing means awareness, not a broad metro check-in.",
+          "source": "KENS 5",
+          "topic": "flood",
+          "url": "https://www.kens5.com/article/news/local/cotulla-abbott-la-salle-county-nueces-river-flooding-recovery-mustang-creek-road-closures-istat-tdem-damage-cleanup-floodwaters-court/273-cce7ca68-4f84-444e-a0ee-997cf7f4be9a",
+          "published_at": "2026-07-24T15:17:48+00:00",
+          "image": null,
+          "description": "Gov. Greg Abbott will visit Cotulla Friday as families assess flood damage, roads remain closed and recovery efforts continue across La Salle County."
+        }
+      ]
+    },
+    {
+      "title": "Data centers emerge as flashpoint in Texas governor's race",
+      "summary": "Data centers emerged as a flashpoint in the Texas governor's race — a growing statewide issue over power and water demand worth walking in aware of.",
+      "source": "KENS 5",
+      "topic": "data-centers",
+      "url": "https://www.kens5.com/article/news/local/texas/data-centers-ai-greg-abbott-gina-hinojosa-rural-texas-water-electricity-power-grid-campaign-governor-election-infrastructure-development/273-912a31c5-9d2d-420f-a4e8-8e517f000a8c",
+      "published_at": "2026-07-23T11:49:21+00:00",
+      "image": null,
+      "description": "Concerns over water, power and rural land are turning AI data centers into a major issue in Texas politics."
+    },
+    {
+      "title": "Discord agrees to court-ordered safety measures for Texas kids after temporary injunction",
+      "summary": "Discord agreed to court-ordered safety measures for Texas kids after a temporary injunction — a notable state-level outcome on child online safety.",
+      "source": "KENS 5",
+      "topic": "public-health",
+      "url": "https://www.kens5.com/article/news/local/texas/discord-safety-measures-texas-kids-temporary-injunction/269-e96feb2a-be51-4cb9-b6b3-cca5ccb5fa34",
+      "published_at": "2026-07-24T21:20:00+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/WFAA/images/b8851bb6-ca3b-4575-a77a-3c7cac21d634/20260225T182136/b8851bb6-ca3b-4575-a77a-3c7cac21d634_750x422.jpg",
+        "alt": ""
+      },
+      "description": "Texas has secured a temporary injunction requiring Discord to activate UK-level safety measures for children in Texas within 90 days."
+    }
+  ],
+  "sports": [
+    {
+      "team": "Rangers",
+      "scores": [
+        "Rangers 7, Mariners 1"
+      ]
+    }
+  ]
+}

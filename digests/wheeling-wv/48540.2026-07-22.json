@@ -3,19 +3,21 @@
   "metroCode": "48540",
   "metro": "Wheeling, WV-OH",
   "date": "2026-07-22",
-  "are_you_ok": {
-    "title": "FirstEnergy continues restoration efforts following historic storm",
-    "summary": "Ongoing power-restoration after the historic storm that ravaged WV Tuesday night — a just-happened big storm with active outages hitting the area's broad population. Diffuse effect footprint reaches the metro; genuine check-in impulse, keep as are-you-ok.",
-    "source": "WV MetroNews",
-    "topic": "severe-weather",
-    "url": "https://wvmetronews.com/2026/07/22/firstenergy-continues-restoration-efforts-following-historic-storm/",
-    "published_at": "2026-07-22T18:40:43+00:00",
-    "image": {
-      "url": "https://s3.us-east-005.backblazeb2.com/wvmn-s3/2026/07/IMG_9891-300x225.jpg",
-      "alt": ""
-    },
-    "description": "Storms ravaged West Virginia Tuesday night. The post FirstEnergy continues restoration efforts following historic storm appeared first on WV MetroNews."
-  },
+  "are_you_ok": [
+    {
+      "title": "FirstEnergy continues restoration efforts following historic storm",
+      "summary": "Ongoing power-restoration after the historic storm that ravaged WV Tuesday night — a just-happened big storm with active outages hitting the area's broad population. Diffuse effect footprint reaches the metro; genuine check-in impulse, keep as are-you-ok.",
+      "source": "WV MetroNews",
+      "topic": "severe-weather",
+      "url": "https://wvmetronews.com/2026/07/22/firstenergy-continues-restoration-efforts-following-historic-storm/",
+      "published_at": "2026-07-22T18:40:43+00:00",
+      "image": {
+        "url": "https://s3.us-east-005.backblazeb2.com/wvmn-s3/2026/07/IMG_9891-300x225.jpg",
+        "alt": ""
+      },
+      "description": "Storms ravaged West Virginia Tuesday night. The post FirstEnergy continues restoration efforts following historic storm appeared first on WV MetroNews."
+    }
+  ],
   "conversation_starters": [
     {
       "title": "Smells of Greece fill Chapline Street as the 25th Annual Grecian Festival kicks off in Wheeling",

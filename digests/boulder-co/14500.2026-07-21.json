@@ -3,16 +3,18 @@
   "metroCode": "14500",
   "metro": "Boulder, CO",
   "date": "2026-07-21",
-  "are_you_ok": {
-    "title": "Platte River Power Authority issues energy emergency alert through 9 p.m. tonight",
-    "summary": "Energy emergency alert affecting multiple Colorado towns amid heat, broad local impact.",
-    "source": "9NEWS",
-    "topic": "heat",
-    "url": "https://www.9news.com/article/news/local/platte-river-power-authority-issues-energy-emergency-alert-through-9-pm-tonight/73-8bd3b55e-438a-4db6-88f3-8b62f197e8a9",
-    "published_at": "2026-07-21T00:40:48+00:00",
-    "image": null,
-    "description": "Customers within Estes Park, Fort Collins, Longmont and Loveland are asked to reduce their use of non-critical appliances amid widespread high temperatures."
-  },
+  "are_you_ok": [
+    {
+      "title": "Platte River Power Authority issues energy emergency alert through 9 p.m. tonight",
+      "summary": "Energy emergency alert affecting multiple Colorado towns amid heat, broad local impact.",
+      "source": "9NEWS",
+      "topic": "heat",
+      "url": "https://www.9news.com/article/news/local/platte-river-power-authority-issues-energy-emergency-alert-through-9-pm-tonight/73-8bd3b55e-438a-4db6-88f3-8b62f197e8a9",
+      "published_at": "2026-07-21T00:40:48+00:00",
+      "image": null,
+      "description": "Customers within Estes Park, Fort Collins, Longmont and Loveland are asked to reduce their use of non-critical appliances amid widespread high temperatures."
+    }
+  ],
   "conversation_starters": [
     {
       "title": "5K on Denver airport runway sells out in 6 hours",

@@ -1,0 +1,37 @@
+{
+  "shortName": "Wheeling, WV",
+  "metroCode": "48540",
+  "metro": "Wheeling, WV-OH",
+  "date": "2026-07-26",
+  "are_you_ok": [],
+  "conversation_starters": [],
+  "sports": [],
+  "you_should_know": [
+    {
+      "title": "Morrisey makes federal disaster request for 7 counties after July 21 storms",
+      "summary": "Governor's federal disaster request for 7 counties after the July 21 storms — an institutional, forward-looking outcome landing on the state/region after a high-impact flooding event. Context worth walking in aware of; not a check-in on the request itself. Same underlying event as [4].",
+      "source": "WV MetroNews",
+      "topic": "flood",
+      "url": "https://wvmetronews.com/2026/07/26/morrisey-makes-federal-disaster-request-for-7-counties-after-july-21-storms/",
+      "published_at": "2026-07-26T11:00:20+00:00",
+      "image": {
+        "url": "https://s3.us-east-005.backblazeb2.com/wvmn-s3/2026/07/IMG_4686-300x225.jpg",
+        "alt": ""
+      },
+      "description": "Morrisey hoping for both individual and public assistance. The post Morrisey makes federal disaster request for 7 counties after July 21 storms appeared first on WV MetroNews."
+    },
+    {
+      "title": "Morrisey considering calling special session to remove Pritt from office",
+      "summary": "Governor considering a special session to remove a delegate over 'heinous' allegations — a political-institutional dispute among state officials landing on this state. Unsafe opener, not a check-in; keep as you-should-know context (keep-when-unsure on the context/noise boundary).",
+      "source": "WV MetroNews",
+      "topic": "elections-politics",
+      "url": "https://wvmetronews.com/2026/07/25/morrisey-considering-calling-special-to-remove-pritt-from-office/",
+      "published_at": "2026-07-26T02:12:54+00:00",
+      "image": {
+        "url": "https://s3.us-east-005.backblazeb2.com/wvmn-s3/2026/03/55151624200_0b2bcb92be_c-300x200.jpg",
+        "alt": ""
+      },
+      "description": "Gov. Patrick Morrisey calls allegations against Del. Elliott Pritt ‘heinous.’ The post Morrisey considering calling special session to remove Pritt from office appeared first on WV MetroNews."
+    }
+  ]
+}

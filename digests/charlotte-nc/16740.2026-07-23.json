@@ -3,16 +3,18 @@
   "metroCode": "16740",
   "metro": "Charlotte-Concord-Gastonia, NC-SC",
   "date": "2026-07-23",
-  "are_you_ok": {
-    "title": "Attorneys for Charlotte mothers arrested during immigration operation prepare for legal fight",
-    "summary": "Charlotte mothers arrested in immigration operation, attorneys report multiple similar encounters — enforcement action landing on the local population now. Check-in impulse for anyone affected.",
-    "source": "NBC Charlotte",
-    "topic": "immigration-enforcement",
-    "url": "https://www.wcnc.com/article/news/local/attorneys-for-charlotte-mothers-arrested-during-immigration-operation-prepare-for-legal-fight/275-88bf2552-de95-4323-a3ae-819a95580b25",
-    "published_at": "2026-07-23T16:29:44+00:00",
-    "image": null,
-    "description": "The attorneys representing two Charlotte mothers arrested says they're now representing multiple people who report similar encounters."
-  },
+  "are_you_ok": [
+    {
+      "title": "Attorneys for Charlotte mothers arrested during immigration operation prepare for legal fight",
+      "summary": "Charlotte mothers arrested in immigration operation, attorneys report multiple similar encounters — enforcement action landing on the local population now. Check-in impulse for anyone affected.",
+      "source": "NBC Charlotte",
+      "topic": "immigration-enforcement",
+      "url": "https://www.wcnc.com/article/news/local/attorneys-for-charlotte-mothers-arrested-during-immigration-operation-prepare-for-legal-fight/275-88bf2552-de95-4323-a3ae-819a95580b25",
+      "published_at": "2026-07-23T16:29:44+00:00",
+      "image": null,
+      "description": "The attorneys representing two Charlotte mothers arrested says they're now representing multiple people who report similar encounters."
+    }
+  ],
   "conversation_starters": [
     {
       "title": "QC HAPPENINGS: Queen's Feast returns, MLS All-Star celebration, concerts and more",

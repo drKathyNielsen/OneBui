@@ -1,0 +1,422 @@
+{
+  "period": "weekly",
+  "shortName": "Wheeling, WV",
+  "metroCode": "48540",
+  "metro": "Wheeling, WV-OH",
+  "range": {
+    "start": "2026-07-20",
+    "end": "2026-07-26"
+  },
+  "are_you_ok": [
+    {
+      "title": "Flood Watch goes into effect this afternoon for much of the area",
+      "summary": "The July 21 storms and flash flooding defined the week: a Flood Watch took effect Monday, localized flooding and a car rescue hit Marshall County that night, Weston's E 4th St. flooded, and by mid-week FirstEnergy was still restoring power from a historic storm — a check-in on how the water and outages touched people here still lands even now.",
+      "source": "Wheeling News and Weather",
+      "topic": "flood",
+      "url": "https://www.wtrf.com/news/flood-watch-goes-into-effect-this-afternoon-for-much-of-the-area/",
+      "published_at": "2026-07-21T09:48:22+00:00",
+      "image": null,
+      "description": "WHEELING, W.Va. (WTRF) - The National Weather Service (NWS) offices in Pittsburgh, PA and Charleston, WV have issued a Flood Watch for much of the area that goes into effect at 1 PM this afternoon and runs until 11 PM tonight. Included in this watch are the following counties:",
+      "thread": [
+        {
+          "title": "Flood Watch goes into effect this afternoon for much of the area",
+          "summary": "Active flood watch affecting area today, worth knowing.",
+          "source": "Wheeling News and Weather",
+          "topic": "flood",
+          "url": "https://www.wtrf.com/news/flood-watch-goes-into-effect-this-afternoon-for-much-of-the-area/",
+          "published_at": "2026-07-21T09:48:22+00:00",
+          "image": null,
+          "description": "WHEELING, W.Va. (WTRF) - The National Weather Service (NWS) offices in Pittsburgh, PA and Charleston, WV have issued a Flood Watch for much of the area that goes into effect at 1 PM this afternoon and runs until 11 PM tonight. Included in this watch are the following counties:"
+        },
+        {
+          "title": "Localized flooding in several areas of Marshall County amid flash flood warning, driver rescued from car",
+          "summary": "Flash flood warning and localized flooding in Marshall County with a water rescue; acute event affecting the metro area. Check-in warranted.",
+          "source": "Wheeling News and Weather",
+          "topic": "flood",
+          "url": "https://www.wtrf.com/top-stories/localized-flooding-in-several-areas-of-marshall-county-amid-flash-flood-warning-driver-rescued-from-car/",
+          "published_at": "2026-07-21T23:32:10+00:00",
+          "image": null,
+          "description": "MARSHALL COUNTY, W.Va. (WTRF) - Severe weather prompted a flash flood warning across the Ohio Valley Tuesday, including Marshall County, W.Va.   The national weather service extended that warning until 8:00 p.m. Tuesday.   Around 3:00 p.m., Marshall County’s EMA Director Tom"
+        },
+        {
+          "title": "Morrisey requests federal funding to help Boone, Logan counties impacted by June flooding",
+          "summary": "Governor requesting federal funding for June flooding in Boone/Logan; relief/mitigation and forward-looking, so you-should-know not are-you-ok. Southern WV, somewhat distant from metro.",
+          "source": "WV MetroNews",
+          "topic": "flood",
+          "url": "https://wvmetronews.com/2026/07/21/morrisey-requests-federal-funding-to-help-boone-logan-counties-impacted-by-june-flooding/",
+          "published_at": "2026-07-22T00:06:38+00:00",
+          "image": null,
+          "description": "Flooding devastated southern West Virginia June 22-23. The post Morrisey requests federal funding to help Boone, Logan counties impacted by June flooding appeared first on WV MetroNews."
+        },
+        {
+          "title": "Video: Flooding on E 4th St., Weston",
+          "summary": "Active flooding in Weston, point/diffuse hazard affecting residents' daily life. Check-in warranted for those in the area.",
+          "source": "WV MetroNews",
+          "topic": "flood",
+          "url": "https://wvmetronews.com/2026/07/22/video-flooding-on-e-4th-st-weston/",
+          "published_at": "2026-07-22T14:26:35+00:00",
+          "image": {
+            "url": "https://s3.us-east-005.backblazeb2.com/wvmn-s3/2026/07/Screenshot-2026-07-22-at-10.26.05%E2%80%AFAM-300x168.png",
+            "alt": ""
+          },
+          "description": "The post Video: Flooding on E 4th St., Weston appeared first on WV MetroNews."
+        },
+        {
+          "title": "FirstEnergy continues restoration efforts following historic storm",
+          "summary": "Ongoing power-restoration after the historic storm that ravaged WV Tuesday night — a just-happened big storm with active outages hitting the area's broad population. Diffuse effect footprint reaches the metro; genuine check-in impulse, keep as are-you-ok.",
+          "source": "WV MetroNews",
+          "topic": "severe-weather",
+          "url": "https://wvmetronews.com/2026/07/22/firstenergy-continues-restoration-efforts-following-historic-storm/",
+          "published_at": "2026-07-22T18:40:43+00:00",
+          "image": {
+            "url": "https://s3.us-east-005.backblazeb2.com/wvmn-s3/2026/07/IMG_9891-300x225.jpg",
+            "alt": ""
+          },
+          "description": "Storms ravaged West Virginia Tuesday night. The post FirstEnergy continues restoration efforts following historic storm appeared first on WV MetroNews."
+        }
+      ]
+    },
+    {
+      "title": "Mischief knocks out internet service to several thousand in Kanawha County",
+      "summary": "Separately from the flooding, vandalism knocked out internet for several thousand in Kanawha County — worth asking whether the contact or their people lost service.",
+      "source": "WV MetroNews",
+      "topic": "transportation",
+      "url": "https://wvmetronews.com/2026/07/25/mischief-knocks-out-internet-service-to-several-thousand-in-kanawha-county/",
+      "published_at": "2026-07-25T17:48:11+00:00",
+      "image": {
+        "url": "https://s3.us-east-005.backblazeb2.com/wvmn-s3/2026/07/Optimum-Outage-300x283.jpg",
+        "alt": ""
+      },
+      "description": "Thieves target an Optimum operation in St. Albans, damaging equipment and knocking out service to customers The post Mischief knocks out internet service to several thousand in Kanawha County appeared first on WV MetroNews."
+    }
+  ],
+  "conversation_starters": [
+    {
+      "title": "Smells of Greece fill Chapline Street as the 25th Annual Grecian Festival kicks off in Wheeling",
+      "summary": "The 25th Annual Grecian Festival filled Chapline Street in Wheeling — a clean, local, work-safe opener with wide appeal.",
+      "source": "Wheeling News and Weather",
+      "topic": "civic-events",
+      "url": "https://www.wtrf.com/top-stories/smells-of-greece-fill-chapline-street-as-the-25th-annual-grecian-festival-kicks-off-in-wheeling/",
+      "published_at": "2026-07-22T22:56:29+00:00",
+      "image": null,
+      "description": "WHEELING, W.Va. (WTRF) - The sights, sounds and smells of Greece filled the air on Chapline Street outside of St. John the Divine Greek Orthodox Church Wednesday as they kicked off their 25th Annual Grecian Festival. The three-day event is running now until Friday, July 24. Each"
+    },
+    {
+      "title": "43rd Upper Ohio Valley Italian Heritage Festival brings together traditional foods with cooking demonstrations at Little Italy Tent",
+      "summary": "The 43rd Upper Ohio Valley Italian Heritage Festival paired traditional foods with cooking demos at the Little Italy Tent — a second nearby heritage festival to bring up.",
+      "source": "Wheeling News and Weather",
+      "topic": "civic-events",
+      "url": "https://www.wtrf.com/community/43rd-upper-ohio-valley-italian-heritage-festival-brings-together-traditional-foods-with-cooking-demonstrations-at-little-italy-tent/",
+      "published_at": "2026-07-24T22:50:48+00:00",
+      "image": {
+        "url": "https://www.wtrf.com/wp-content/uploads/sites/25/2026/07/ITALIAN-COOKING-PKG-.00_01_47_23.Still001.jpg?w=900",
+        "alt": ""
+      },
+      "description": "WHEELING, W.Va. (WTRF) - From pasta to desserts, there is a taste for everyone at the Upper Ohio Valley Italian Heritage Festival. At the Little Italy Tent, festival goers will be able to see live demonstrations of how some of these traditional foods are made. One of the things"
+    },
+    {
+      "title": "Walmart commits $500,000 to mobilize showers, laundry services in Weston and Buckhannon",
+      "summary": "A wave of flood relief efforts drew the community together: Walmart committed $500,000 to mobilize showers and laundry in Weston and Buckhannon, and WVRC Media ran a flood relief drive in Charleston — a positive, easy way to talk about pitching in.",
+      "source": "WV MetroNews",
+      "topic": "flood",
+      "url": "https://wvmetronews.com/2026/07/24/walmart-mobilizes-showers-and-meals-in-buckhannon/",
+      "published_at": "2026-07-24T22:29:16+00:00",
+      "image": {
+        "url": "https://s3.us-east-005.backblazeb2.com/wvmn-s3/2026/07/58f29273-abc0-4065-a4a4-091c4792d34a-225x300.jpg",
+        "alt": ""
+      },
+      "description": "Services being offered at the Walmart Supercenter in Buckhannon. The post Walmart commits $500,000 to mobilize showers, laundry services in Weston and Buckhannon appeared first on WV MetroNews.",
+      "thread": [
+        {
+          "title": "A community united: The WVRC Media Flood Relief Drive in Charleston",
+          "summary": "WVRC Media flood-relief supply drive in Charleston. Relief/benefit framing tied to the flood; conversation starter. You could open with: 'Did you hear about the flood relief supply drive in Charleston?'",
+          "source": "WV MetroNews",
+          "topic": "flood",
+          "url": "https://wvmetronews.com/2026/07/24/a-community-united-the-wvrc-media-flood-relief-drive-in-charleston/",
+          "published_at": "2026-07-24T19:41:06+00:00",
+          "image": {
+            "url": "https://s3.us-east-005.backblazeb2.com/wvmn-s3/2026/07/Photo-Jul-24-2026-12-30-29-PM-300x225.jpg",
+            "alt": ""
+          },
+          "description": "WVRC Media hosted a supply drive on Friday. The post A community united: The WVRC Media Flood Relief Drive in Charleston appeared first on WV MetroNews."
+        },
+        {
+          "title": "Walmart commits $500,000 to mobilize showers, laundry services in Weston and Buckhannon",
+          "summary": "Walmart commits $500K for mobile showers/laundry for flood-affected Weston and Buckhannon. Relief/benefit framing tied to the flood, so conversation starter rather than are-you-ok. You could open with: 'Did you see Walmart set up showers and laundry for the flood recovery in Weston and Buckhannon?'",
+          "source": "WV MetroNews",
+          "topic": "flood",
+          "url": "https://wvmetronews.com/2026/07/24/walmart-mobilizes-showers-and-meals-in-buckhannon/",
+          "published_at": "2026-07-24T22:29:16+00:00",
+          "image": {
+            "url": "https://s3.us-east-005.backblazeb2.com/wvmn-s3/2026/07/58f29273-abc0-4065-a4a4-091c4792d34a-225x300.jpg",
+            "alt": ""
+          },
+          "description": "Services being offered at the Walmart Supercenter in Buckhannon. The post Walmart commits $500,000 to mobilize showers, laundry services in Weston and Buckhannon appeared first on WV MetroNews."
+        }
+      ]
+    },
+    {
+      "title": "2026 National Scout Jamboree begins its 10-day run at Bechtel Summit in Fayette County",
+      "summary": "The 2026 National Scout Jamboree began its 10-day run at Bechtel Summit in Fayette County, drawing scouts from across the country to the state.",
+      "source": "WV MetroNews",
+      "topic": "civic-events",
+      "url": "https://wvmetronews.com/2026/07/22/2026-national-scout-jamboree-begins-its-10-day-run-at-bechtel-summit-in-fayette-county/",
+      "published_at": "2026-07-22T22:41:57+00:00",
+      "image": {
+        "url": "https://s3.us-east-005.backblazeb2.com/wvmn-s3/2026/07/scouts-300x300.jpg",
+        "alt": ""
+      },
+      "description": "Tens of thousands of scouts are participating this year. The post 2026 National Scout Jamboree begins its 10-day run at Bechtel Summit in Fayette County appeared first on WV MetroNews."
+    },
+    {
+      "title": "Helsing plans call for rapid, significant drone production at announced Martinsburg facility",
+      "summary": "Jobs news to talk shop about: Helsing announced plans for rapid drone production at a new Martinsburg facility, and a Fairmont aluminum manufacturer is close to restarting operations and hiring.",
+      "source": "WV MetroNews",
+      "topic": "business-jobs",
+      "url": "https://wvmetronews.com/2026/07/20/helsing-plans-call-for-rapid-significant-drone-production-at-announced-martinsburg-facility/",
+      "published_at": "2026-07-20T15:49:55+00:00",
+      "image": {
+        "url": "https://s3.us-east-005.backblazeb2.com/wvmn-s3/2026/07/Drone-300x225.jpg",
+        "alt": ""
+      },
+      "description": "Defense contractor announced planned Eastern Panhandle development last week. The post Helsing plans call for rapid, significant drone production at announced Martinsburg facility appeared first on WV MetroNews.",
+      "thread": [
+        {
+          "title": "Helsing plans call for rapid, significant drone production at announced Martinsburg facility",
+          "summary": "Defense contractor Helsing planning a major drone-production facility in Martinsburg — significant new employer/development. You could open with: 'Did you see Helsing is building a drone plant in Martinsburg?'",
+          "source": "WV MetroNews",
+          "topic": "business-jobs",
+          "url": "https://wvmetronews.com/2026/07/20/helsing-plans-call-for-rapid-significant-drone-production-at-announced-martinsburg-facility/",
+          "published_at": "2026-07-20T15:49:55+00:00",
+          "image": {
+            "url": "https://s3.us-east-005.backblazeb2.com/wvmn-s3/2026/07/Drone-300x225.jpg",
+            "alt": ""
+          },
+          "description": "Defense contractor announced planned Eastern Panhandle development last week. The post Helsing plans call for rapid, significant drone production at announced Martinsburg facility appeared first on WV MetroNews."
+        },
+        {
+          "title": "Fairmont aluminum manufacturer close to restarting operations, hiring",
+          "summary": "Aluminum manufacturer restarting operations and hiring — local-employer jobs news of metro interest. You could open with: 'Did you hear Kibar Americas is restarting the Fairmont aluminum plant and hiring?'",
+          "source": "WV MetroNews",
+          "topic": "business-jobs",
+          "url": "https://wvmetronews.com/2026/07/20/fairmont-aluminum-manufacturer-close-to-restarting-operations-hiring/",
+          "published_at": "2026-07-20T21:04:53+00:00",
+          "image": {
+            "url": "https://s3.us-east-005.backblazeb2.com/wvmn-s3/2026/07/Kibar_Americas_Fairmont-300x212.jpg",
+            "alt": ""
+          },
+          "description": "Fairmont City Manager Travis Blosser says Kibar Americas has already made some hires. The post Fairmont aluminum manufacturer close to restarting operations, hiring appeared first on WV MetroNews."
+        }
+      ]
+    }
+  ],
+  "you_should_know": [
+    {
+      "title": "Morrisey makes federal disaster request for 7 counties after July 21 storms",
+      "summary": "The flood aftermath dominated the week: a State of Emergency in Barbour County early on, cleanup dragging in Lewis and Upshur counties, a released fatality, and Gov. Morrisey touring the state before making a federal disaster request for 7 counties (with a parallel request for Boone and Logan) by Sunday.",
+      "source": "WV MetroNews",
+      "topic": "flood",
+      "url": "https://wvmetronews.com/2026/07/26/morrisey-makes-federal-disaster-request-for-7-counties-after-july-21-storms/",
+      "published_at": "2026-07-26T11:00:20+00:00",
+      "image": {
+        "url": "https://s3.us-east-005.backblazeb2.com/wvmn-s3/2026/07/IMG_4686-300x225.jpg",
+        "alt": ""
+      },
+      "description": "Morrisey hoping for both individual and public assistance. The post Morrisey makes federal disaster request for 7 counties after July 21 storms appeared first on WV MetroNews.",
+      "thread": [
+        {
+          "title": "State of Emergency declared in Barbour County",
+          "summary": "Governor declares state of emergency for infrastructure repair in county, significant local impact.",
+          "source": "WV MetroNews",
+          "topic": "other",
+          "url": "https://wvmetronews.com/2026/07/20/state-of-emergency-declared-in-barbour-county/",
+          "published_at": "2026-07-20T18:06:19+00:00",
+          "image": {
+            "url": "https://s3.us-east-005.backblazeb2.com/wvmn-s3/2026/07/Barbour-Food-300x226.jpg",
+            "alt": ""
+          },
+          "description": "Governor Patrick Morrisey issued a declaration of a state of emergency in Barbour County, speeding state resources to help cleanup and make repairs to roads, bridges, and water lines The post State of Emergency declared in Barbour County appeared first on WV MetroNews."
+        },
+        {
+          "title": "Morrisey requests federal funding to help Boone, Logan counties impacted by June flooding",
+          "summary": "Governor requesting federal funding for June flooding in Boone/Logan; relief/mitigation and forward-looking, so you-should-know not are-you-ok. Southern WV, somewhat distant from metro.",
+          "source": "WV MetroNews",
+          "topic": "flood",
+          "url": "https://wvmetronews.com/2026/07/21/morrisey-requests-federal-funding-to-help-boone-logan-counties-impacted-by-june-flooding/",
+          "published_at": "2026-07-22T00:06:38+00:00",
+          "image": null,
+          "description": "Flooding devastated southern West Virginia June 22-23. The post Morrisey requests federal funding to help Boone, Logan counties impacted by June flooding appeared first on WV MetroNews."
+        },
+        {
+          "title": "Cleanup in Lewis County will take time",
+          "summary": "Flood cleanup aftermath in Lewis County; retrospective/cleanup framing rather than acute event, but ongoing local recovery context. Borderline keep as awareness.",
+          "source": "WV MetroNews",
+          "topic": "flood",
+          "url": "https://wvmetronews.com/2026/07/22/cleanup-in-lewis-county-will-take-time/",
+          "published_at": "2026-07-22T17:00:26+00:00",
+          "image": {
+            "url": "https://s3.us-east-005.backblazeb2.com/wvmn-s3/2026/07/Weston-1-300x225.jpg",
+            "alt": ""
+          },
+          "description": "Residents and leaders vow to clean up and restart despite the difficulty of seeing so many suffering The post Cleanup in Lewis County will take time appeared first on WV MetroNews."
+        },
+        {
+          "title": "West Virginia Wesleyan College, American Red Cross among groups aiding Upshur County relief",
+          "summary": "Relief effort follow-up to the major Upshur County flood disaster.",
+          "source": "WV MetroNews",
+          "topic": "flood",
+          "url": "https://wvmetronews.com/2026/07/23/west-virginia-wesleyan-college-american-red-cross-among-groups-aiding-upshur-county-relief/",
+          "published_at": "2026-07-23T16:06:03+00:00",
+          "image": {
+            "url": "https://s3.us-east-005.backblazeb2.com/wvmn-s3/2026/07/IMG_8454-300x225.jpeg",
+            "alt": ""
+          },
+          "description": "WVWC serves as the hub for supply donations to the area. The post West Virginia Wesleyan College, American Red Cross among groups aiding Upshur County relief appeared first on WV MetroNews."
+        },
+        {
+          "title": "Names released in flood fatality",
+          "summary": "Flood fatalities named - significant local impact context tied to ongoing flood disaster.",
+          "source": "WV MetroNews",
+          "topic": "flood",
+          "url": "https://wvmetronews.com/2026/07/24/names-released-in-flood-fatality/",
+          "published_at": "2026-07-24T18:12:26+00:00",
+          "image": {
+            "url": "https://s3.us-east-005.backblazeb2.com/wvmn-s3/2026/07/State-Police-Flood-300x202.jpg",
+            "alt": ""
+          },
+          "description": "Man and woman identified in flood related deaths. The post Names released in flood fatality appeared first on WV MetroNews."
+        },
+        {
+          "title": "Gov. Morrisey making stops throughout the state as flood recovery continues",
+          "summary": "Governor touring flood-recovery sites (St. Marys, Weston). Part of the ongoing WV flood story landing on the region; context worth being aware of. Shares flood-recovery framing but distinct event from relief drives.",
+          "source": "WV MetroNews",
+          "topic": "flood",
+          "url": "https://wvmetronews.com/2026/07/25/gov-morrisey-making-stops-throughout-the-state-as-flood-recovery-continues/",
+          "published_at": "2026-07-25T12:11:03+00:00",
+          "image": {
+            "url": "https://s3.us-east-005.backblazeb2.com/wvmn-s3/2026/07/Buckhannon_water-300x203.jpg",
+            "alt": ""
+          },
+          "description": "The governor is in St. Marys and Weston Saturday. The post Gov. Morrisey making stops throughout the state as flood recovery continues appeared first on WV MetroNews."
+        },
+        {
+          "title": "Morrisey makes federal disaster request for 7 counties after July 21 storms",
+          "summary": "Governor's federal disaster request for 7 counties after the July 21 storms — an institutional, forward-looking outcome landing on the state/region after a high-impact flooding event. Context worth walking in aware of; not a check-in on the request itself. Same underlying event as [4].",
+          "source": "WV MetroNews",
+          "topic": "flood",
+          "url": "https://wvmetronews.com/2026/07/26/morrisey-makes-federal-disaster-request-for-7-counties-after-july-21-storms/",
+          "published_at": "2026-07-26T11:00:20+00:00",
+          "image": {
+            "url": "https://s3.us-east-005.backblazeb2.com/wvmn-s3/2026/07/IMG_4686-300x225.jpg",
+            "alt": ""
+          },
+          "description": "Morrisey hoping for both individual and public assistance. The post Morrisey makes federal disaster request for 7 counties after July 21 storms appeared first on WV MetroNews."
+        }
+      ]
+    },
+    {
+      "title": "Morrisey considering calling special session to remove Pritt from office",
+      "summary": "A political removal saga built through the week: a state delegate/teacher faced federal charges of seducing a 15-year-old, the House speaker requested a special session to remove him, and by the weekend Morrisey was weighing calling that special session to remove Pritt from office.",
+      "source": "WV MetroNews",
+      "topic": "elections-politics",
+      "url": "https://wvmetronews.com/2026/07/25/morrisey-considering-calling-special-to-remove-pritt-from-office/",
+      "published_at": "2026-07-26T02:12:54+00:00",
+      "image": {
+        "url": "https://s3.us-east-005.backblazeb2.com/wvmn-s3/2026/03/55151624200_0b2bcb92be_c-300x200.jpg",
+        "alt": ""
+      },
+      "description": "Gov. Patrick Morrisey calls allegations against Del. Elliott Pritt ‘heinous.’ The post Morrisey considering calling special session to remove Pritt from office appeared first on WV MetroNews.",
+      "thread": [
+        {
+          "title": "State delegate who works as a teacher faces federal charges of seducing 15-year-old girl",
+          "summary": "Sitting state delegate charged federally and removed by the Speaker; political-institutional event landing on the state. Unsafe opener; walk in aware. Not conversation starters (official/political).",
+          "source": "WV MetroNews",
+          "topic": "elections-politics",
+          "url": "https://wvmetronews.com/2026/07/22/state-delegate-who-works-as-a-teacher-faces-federal-charges-of-seducing-15-year-old-girl/",
+          "published_at": "2026-07-22T22:35:55+00:00",
+          "image": {
+            "url": "https://wvmetronews.com/wp-content/uploads/2023/02/PBZ_8824-1-300x200.jpg",
+            "alt": ""
+          },
+          "description": "A state delegate who is also a school teacher is being accused in federal court of seducing a 15-year-old girl. Delegate Elliott Pritt, a Republican from Fayette County, was charged with enticement of a minor and made an initial appearance before U.S. Magistrate Judge Dwane"
+        },
+        {
+          "title": "Pritt Fooled Us",
+          "summary": "Opinion/commentary tied to the David Pritt (delegate) enticing-a-minor charge — a state-legislature scandal landing on WV politics. Politically sensitive, not a safe opener and not a check-in; keep as you-should-know context. Dedup with [13] on the same underlying event.",
+          "source": "WV MetroNews",
+          "topic": "elections-politics",
+          "url": "https://wvmetronews.com/2026/07/23/pritt-fooled-us/",
+          "published_at": "2026-07-23T21:58:55+00:00",
+          "image": {
+            "url": "https://s3.us-east-005.backblazeb2.com/wvmn-s3/2026/07/ChatGPT-Image-Jul-23-2026-05_51_47-PM-300x200.png",
+            "alt": ""
+          },
+          "description": "Certainly, by now you’ve heard of Delegate Elliott Pritt, even if you’d never heard of him before Wednesday. Has he ever appeared on Talkline — at least since Hoppy Kercheval retired? I honestly don’t remember. I’m not sure I’ve ever exchanged a word with him. But legislators"
+        },
+        {
+          "title": "House speaker requests special session to remove delegate from office after sex crime charges",
+          "summary": "Speaker calling special session to expel delegate over sex crime charges — political-institutional outcome landing on state; you should know.",
+          "source": "WV MetroNews",
+          "topic": "elections-politics",
+          "url": "https://wvmetronews.com/2026/07/24/house-speaker-requests-special-session-focused-on-removing-delegate-from-office-after-sex-crime-charges/",
+          "published_at": "2026-07-24T15:35:22+00:00",
+          "image": {
+            "url": "https://wvmetronews.com/wp-content/uploads/2023/02/PBZ_8824-1-300x200.jpg",
+            "alt": ""
+          },
+          "description": "Roger Hanshaw sent a letter requesting the special session on August 10 'for the limited purpose of considering and acting upon a resolution to expel Delegate D. Elliott Pritt from membership in the West Virginia House of Delegates.' The post House speaker requests special"
+        },
+        {
+          "title": "Morrisey considering calling special session to remove Pritt from office",
+          "summary": "Governor considering a special session to remove a delegate over 'heinous' allegations — a political-institutional dispute among state officials landing on this state. Unsafe opener, not a check-in; keep as you-should-know context (keep-when-unsure on the context/noise boundary).",
+          "source": "WV MetroNews",
+          "topic": "elections-politics",
+          "url": "https://wvmetronews.com/2026/07/25/morrisey-considering-calling-special-to-remove-pritt-from-office/",
+          "published_at": "2026-07-26T02:12:54+00:00",
+          "image": {
+            "url": "https://s3.us-east-005.backblazeb2.com/wvmn-s3/2026/03/55151624200_0b2bcb92be_c-300x200.jpg",
+            "alt": ""
+          },
+          "description": "Gov. Patrick Morrisey calls allegations against Del. Elliott Pritt ‘heinous.’ The post Morrisey considering calling special session to remove Pritt from office appeared first on WV MetroNews."
+        }
+      ]
+    },
+    {
+      "title": "PSC approves West Virginia-American Water purchase of Lincoln County water utility for $12.9 million",
+      "summary": "The PSC approved West Virginia-American Water's $12.9 million purchase of the Lincoln County water utility — a shift in who runs local water service.",
+      "source": "WV MetroNews",
+      "topic": "drought-water",
+      "url": "https://wvmetronews.com/2026/07/25/psc-approves-west-virginia-american-water-purchase-of-lincoln-county-water-utility-for-12-9-million/",
+      "published_at": "2026-07-25T15:28:28+00:00",
+      "image": {
+        "url": "https://wvmetronews.com/wp-content/uploads/2022/10/PSC-buiding-new-e1494868448457-1440x1080-1-300x225.jpg",
+        "alt": ""
+      },
+      "description": "The Lincoln Public Service District serves customers in Lincoln, Kanawha, and Boone counties. The post PSC approves West Virginia-American Water purchase of Lincoln County water utility for $12.9 million appeared first on WV MetroNews."
+    },
+    {
+      "title": "Harrison County Board of Education holds first meeting since partial state takeover",
+      "summary": "The Harrison County Board of Education held its first meeting since the partial state takeover — a governance story for anyone tied to the schools.",
+      "source": "WV MetroNews",
+      "topic": "education",
+      "url": "https://wvmetronews.com/2026/07/21/harrison-county-board-of-education-holds-first-meeting-since-partial-state-takeover/",
+      "published_at": "2026-07-22T02:02:18+00:00",
+      "image": {
+        "url": "https://s3.us-east-005.backblazeb2.com/wvmn-s3/2026/07/Screenshot_21-7-2026_215548_www.youtube.com_-300x183.jpeg",
+        "alt": ""
+      },
+      "description": "The state Board of Education seized partial control over Harrison County Schools earlier this month. The post Harrison County Board of Education holds first meeting since partial state takeover appeared first on WV MetroNews."
+    },
+    {
+      "title": "About As Good As It Gets In Late July",
+      "summary": "After the storms, a stretch of about-as-good-as-it-gets late-July weather offered a welcome break.",
+      "source": "Wheeling News and Weather",
+      "topic": "severe-weather",
+      "url": "https://www.wtrf.com/weather/about-as-good-as-it-gets-in-late-july/",
+      "published_at": "2026-07-23T01:51:07+00:00",
+      "image": null,
+      "description": "Tuesday was definitely a busy day in the Stormtracker7 Weather Center. Multiple tornado warnings were issued in the area and according to the National Weather Service in Pittsburgh two tornadoes touched down in the Muskingum County Tuesday afternoon. There were multiple"
+    }
+  ],
+  "sports": []
+}

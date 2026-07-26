@@ -1,0 +1,416 @@
+{
+  "period": "weekly",
+  "shortName": "Boulder, CO",
+  "metroCode": "14500",
+  "metro": "Boulder, CO",
+  "range": {
+    "start": "2026-07-20",
+    "end": "2026-07-26"
+  },
+  "are_you_ok": [
+    {
+      "title": "Denver weather: Heat Advisory issued as temperatures near 100 before monsoon storms return to Colora",
+      "summary": "A week-long heat wave defined Colorado: Denver hit 100 for the first time in 2026 (Jul 20), a Heat Advisory and PRPA energy emergency followed mid-week, cities broke records by the weekend (Jul 26), and monsoon moisture only partly relieved it. A check-in on how the reader's contacts and their pets weathered the extended heat still lands.",
+      "source": "CBS Colorado",
+      "topic": "heat",
+      "url": "https://www.cbsnews.com/colorado/video/denver-weather-heat-advisory-issued-as-temperatures-near-100-before-monsoon-storms-return-to-colora/",
+      "published_at": "2026-07-24T14:10:00+00:00",
+      "image": null,
+      "description": "Watch meteorologist Callie Zanandrie's forecast.",
+      "thread": [
+        {
+          "title": "Denver hits 100-degree mark for first time in 2026",
+          "summary": "Denver hits 100 for first time in 2026 after 10 straight 90-degree days — diffuse heat effect over the metro, a genuine check-in on how people are coping.",
+          "source": "9NEWS",
+          "topic": "heat",
+          "url": "https://www.9news.com/article/weather/weather-colorado/denver-colorado-weather-hot-temperatures-100-degrees/73-aabe5599-a775-42de-a96c-6b2dfeb7018a",
+          "published_at": "2026-07-20T21:50:32+00:00",
+          "image": null,
+          "description": "We've also been mired in a string of 90-degree days recently, hitting the mark 10 consecutive days."
+        },
+        {
+          "title": "Platte River Power Authority issues energy emergency alert through 9 p.m. tonight",
+          "summary": "Energy emergency alert affecting multiple Colorado towns amid heat, broad local impact.",
+          "source": "9NEWS",
+          "topic": "heat",
+          "url": "https://www.9news.com/article/news/local/platte-river-power-authority-issues-energy-emergency-alert-through-9-pm-tonight/73-8bd3b55e-438a-4db6-88f3-8b62f197e8a9",
+          "published_at": "2026-07-21T00:40:48+00:00",
+          "image": null,
+          "description": "Customers within Estes Park, Fort Collins, Longmont and Loveland are asked to reduce their use of non-critical appliances amid widespread high temperatures."
+        },
+        {
+          "title": "Monsoon moisture arrives in Eastern Colorado while staying hot across the state",
+          "summary": "Incoming monsoon moisture and continued heat statewide — imminent weather event with diffuse footprint reaching the metro.",
+          "source": "CBS Colorado",
+          "topic": "heat",
+          "url": "https://www.cbsnews.com/colorado/video/monsoon-moisture-arrives-in-eastern-colorado-while-staying-hot-across-the-state/",
+          "published_at": "2026-07-21T14:09:00+00:00",
+          "image": null,
+          "description": "Watch Alex Lehnert's forecast"
+        },
+        {
+          "title": "Denver weather: Heat Advisory issued as temperatures near 100 before monsoon storms return to Colora",
+          "summary": "Heat advisory ahead of monsoon storms, direct local weather impact.",
+          "source": "CBS Colorado",
+          "topic": "heat",
+          "url": "https://www.cbsnews.com/colorado/video/denver-weather-heat-advisory-issued-as-temperatures-near-100-before-monsoon-storms-return-to-colora/",
+          "published_at": "2026-07-24T14:10:00+00:00",
+          "image": null,
+          "description": "Watch meteorologist Callie Zanandrie's forecast."
+        },
+        {
+          "title": "Denver health specialists warn of extreme heat risks for people and pets",
+          "summary": "Extreme heat health warning affecting the whole metro population this weekend.",
+          "source": "CBS Colorado",
+          "topic": "heat",
+          "url": "https://www.cbsnews.com/colorado/video/denver-health-specialists-warn-of-extreme-heat-risks-for-people-and-pets/",
+          "published_at": "2026-07-25T19:54:00+00:00",
+          "image": {
+            "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/25/5b8cfa51-9100-41fa-a4f7-baa96c497b54/thumbnail/1024x576/bb44212fdea2fdb5dbabcc49bb1e18a4/568e405d523832bf77f0e2ff77cdd98e.jpg",
+            "alt": ""
+          },
+          "description": "With continued high temperatures across Colorado, it's important to recognize the symptoms of heat related illness. Health experts are sharing tips to protect yourself and your pets this weekend."
+        },
+        {
+          "title": "Colorado cities break heat records amid soaring temperatures",
+          "summary": "Record heat across Colorado cities, broad local impact - are you ok check-in on extreme heat affecting the metro.",
+          "source": "CBS Colorado",
+          "topic": "heat",
+          "url": "https://www.cbsnews.com/colorado/news/colorado-cities-break-heat-records-amid-soaring-temperatures/",
+          "published_at": "2026-07-26T17:46:00+00:00",
+          "image": {
+            "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/26/48122297-0339-4c81-9f77-e3772ce61640/thumbnail/1024x576/47076da58ae0eb7cba7b5a44d051d510/gettyimages-2185688436.jpg",
+            "alt": ""
+          },
+          "description": "One CBS Colorado viewer put it best when they said the state is \"spinning around in the devil's air fryer.\" It certainly feels that way across Colorado, where multiple cities, including Denver, broke heat records on Saturday."
+        }
+      ]
+    },
+    {
+      "title": "Federal agents arrest passenger as she boards flight at Denver airport",
+      "summary": "Two immigration-enforcement detentions at Denver airport in successive days (Jul 23-24), including a passenger arrested as she boarded and a woman whose friends rallied for her — an anxious backdrop for anyone in the reader's circle touched by enforcement.",
+      "source": "9NEWS",
+      "topic": "immigration-enforcement",
+      "url": "https://www.9news.com/article/news/local/federal-agents-arrest-passenger-as-she-boards-flight-denver-airport/73-71df351b-0cf0-4a54-8233-cf8297533613",
+      "published_at": "2026-07-23T00:53:08+00:00",
+      "image": null,
+      "description": "ICE confirmed Chantal Alejandra Morales Rojas was arrested on a Southwest Airlines jetway at DIA. ICE said she is in the country on an expired visa.",
+      "thread": [
+        {
+          "title": "Federal agents arrest passenger as she boards flight at Denver airport",
+          "summary": "ICE enforcement action landing directly on local airport population; discrete event affecting broad local population.",
+          "source": "9NEWS",
+          "topic": "immigration-enforcement",
+          "url": "https://www.9news.com/article/news/local/federal-agents-arrest-passenger-as-she-boards-flight-denver-airport/73-71df351b-0cf0-4a54-8233-cf8297533613",
+          "published_at": "2026-07-23T00:53:08+00:00",
+          "image": null,
+          "description": "ICE confirmed Chantal Alejandra Morales Rojas was arrested on a Southwest Airlines jetway at DIA. ICE said she is in the country on an expired visa."
+        },
+        {
+          "title": "Friends rally for woman detained by ICE at Denver airport",
+          "summary": "ICE detention of a person at Denver airport — enforcement action landing on people here now, are-you-ok climate.",
+          "source": "9NEWS",
+          "topic": "immigration-enforcement",
+          "url": "https://www.9news.com/article/news/local/rally-for-woman-detained-by-ice-at-denver-airport/73-c0835e98-5ec5-40c2-89de-cb367bdd9ca5",
+          "published_at": "2026-07-24T12:27:27+00:00",
+          "image": null,
+          "description": "A friend and former employer of a woman detained by federal agents at Denver International Airport has been advocating for her release from detention."
+        }
+      ]
+    }
+  ],
+  "conversation_starters": [
+    {
+      "title": "New wolf pack confirmed in Colorado: Piney Ridge Pack",
+      "summary": "Colorado wildlife had a moment this week: a new wolf pack (the Piney Ridge Pack) was confirmed and a mountain-lion family was caught walking together on camera — easy, delightful openers.",
+      "source": "9NEWS",
+      "topic": "human-interest",
+      "url": "https://www.9news.com/article/news/local/colorado-wolves/new-wolf-pack-colorado-piney-ridge-pack/73-84eaac10-a825-4003-bf21-eb5729b45b7e",
+      "published_at": "2026-07-22T23:06:00+00:00",
+      "image": null,
+      "description": "Colorado Parks and Wildfire confirms four successful wolf groups in the state.",
+      "thread": [
+        {
+          "title": "WATCH: Mountain lion family walks together in Colorado",
+          "summary": "Rare security-cam footage of five mountain lions — quirky, fun local oddity, work-safe. You could open with: 'Did you see the video of the five mountain lions caught on a security cam?'",
+          "source": "9NEWS",
+          "topic": "human-interest",
+          "url": "https://www.9news.com/article/life/style/colorado-guide/mountain-lion-family-pack-colorado/73-0d6a7f66-a9e1-4554-984c-702ab220f95c",
+          "published_at": "2026-07-21T13:36:49+00:00",
+          "image": null,
+          "description": "A homeowner's security video in Colorado captured a rare sight of five mountain lions together, showcasing the elusive creatures' fascinating yet solitary behavior."
+        },
+        {
+          "title": "New wolf pack confirmed in Colorado: Piney Ridge Pack",
+          "summary": "New confirmed wolf pack — CO wolf reintroduction is a live statewide talking point. You could open with: 'Did you see they confirmed a new wolf pack — the Piney Ridge Pack?'",
+          "source": "9NEWS",
+          "topic": "human-interest",
+          "url": "https://www.9news.com/article/news/local/colorado-wolves/new-wolf-pack-colorado-piney-ridge-pack/73-84eaac10-a825-4003-bf21-eb5729b45b7e",
+          "published_at": "2026-07-22T23:06:00+00:00",
+          "image": null,
+          "description": "Colorado Parks and Wildfire confirms four successful wolf groups in the state."
+        }
+      ]
+    },
+    {
+      "title": "Record heat doesn't stop crowds at Underground Music Showcase's first year in RiNo",
+      "summary": "The Underground Music Showcase drew big crowds for its first year in RiNo despite record heat — a work-safe local culture opener.",
+      "source": "9NEWS",
+      "topic": "civic-events",
+      "url": "https://www.9news.com/article/entertainment/record-heat-doesnt-stop-crowds-at-underground-music-showcases-first-year-in-rino/73-e9b5701e-bdc7-4b1d-83de-c8b55e7bd1a1",
+      "published_at": "2026-07-26T03:57:24+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/ee79e176-5f83-4fa8-a375-643c3ab9aba4/20260726T021856/ee79e176-5f83-4fa8-a375-643c3ab9aba4_750x422.jpg",
+        "alt": ""
+      },
+      "description": "Despite record-breaking heat in Denver, people attended the Underground Music Showcase in its new RiNo location, enjoying local talent amid safety measures."
+    },
+    {
+      "title": "5K on Denver airport runway sells out in 6 hours",
+      "summary": "A 5K run on a Denver airport runway sold out in six hours — a quirky, only-in-Denver event people would happily talk about.",
+      "source": "9NEWS",
+      "topic": "civic-events",
+      "url": "https://www.9news.com/article/life/style/colorado-guide/5k-race-on-runway-denver-airport/73-f3bc2c62-7cbd-4f9d-899e-f9dc443ec2f9",
+      "published_at": "2026-07-21T17:23:26+00:00",
+      "image": null,
+      "description": "Runners can experience a 5K on a Denver airport runway as the Denver Colfax Marathon brings back the sold-out event."
+    },
+    {
+      "title": "Aurora's Day of Resilience honors theater shooting victims while supporting long-term healing",
+      "summary": "Aurora's Day of Resilience honored the theater-shooting victims while focusing on long-term healing — a meaningful, respectful community story.",
+      "source": "CBS Colorado",
+      "topic": "human-interest",
+      "url": "https://www.cbsnews.com/colorado/video/auroras-day-of-resilience-honors-theater-shooting-victims-while-supporting-long-term-healing/",
+      "published_at": "2026-07-26T02:55:00+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/07/26/69d38529-1f52-4a75-9926-b993f81109db/thumbnail/1024x576/ec677773b793d1980b215653f5fe0b16/8648dc32a56f532105a1459d3092f27f.jpg",
+        "alt": ""
+      },
+      "description": "Khloey Pace and Peyton Soltis are the young faces behind Veronica's Lemonade Stand at Aurora's Day of Resilience, where every cup served honors the memory of 6-year-old Veronica Moser-Sullivan, the youngest victim of the 2012 Aurora theater shooting."
+    },
+    {
+      "title": "Arizona man arrested for \"surfing\" naked on locomotive in Colorado",
+      "summary": "An Arizona man was arrested for 'surfing' naked on a locomotive in Colorado — an absurd headline that practically starts the conversation itself.",
+      "source": "CBS Colorado",
+      "topic": "human-interest",
+      "url": "https://www.cbsnews.com/colorado/news/arizona-man-arrested-surfing-naked-locomotive-colorado/",
+      "published_at": "2026-07-20T22:29:32+00:00",
+      "image": null,
+      "description": "A naked 37-year-old man was provided an orange jumpsuit and jailed last week after he was spotted on top of a Union Pacific locomotive in Julesburg."
+    }
+  ],
+  "you_should_know": [
+    {
+      "title": "4th firefighter dies from burn injuries battling Colorado's Knowles wildfire",
+      "summary": "Colorado's wildfire season turned costly and deadly: a fourth firefighter died from burn injuries on the Knowles fire (reported Jul 25-26), a pilot who died fighting a fire was honored along I-70, and a drought task force put the season's cost to taxpayers at $266 million.",
+      "source": "CBS Colorado",
+      "topic": "wildfire",
+      "url": "https://www.cbsnews.com/colorado/video/4th-firefighter-dies-from-burn-injuries-battling-colorados-knowles-wildfire/",
+      "published_at": "2026-07-26T02:50:00+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/26/6375b5ac-6ba9-4cde-a4d1-bfb84bf35a4d/thumbnail/1024x576/6df11556851627b4fb756b1d1d2f5842/ad3a4a57979a111a51ae086bb120cb4f.jpg",
+        "alt": ""
+      },
+      "description": "A fourth firefighter died from burn injuries battling Colorado's Knowles wildfire in the western part of the state at the end of June.",
+      "thread": [
+        {
+          "title": "Pilot who died fighting Colorado wildfire honored with procession along I-70",
+          "summary": "Memorial procession for a pilot who died fighting the Gold Mountain Fire — a somber but work-safe, widely-known local tribute along I-70. You could open with: 'Did you hear about the procession for the pilot who died fighting the Gold Mountain Fire?'",
+          "source": "9NEWS",
+          "topic": "wildfire",
+          "url": "https://www.9news.com/article/news/local/wildfire/procession-helicopter-pilot-nicholas-dale/73-4dbb70d1-0c71-48c8-8713-d50bf0a6f794",
+          "published_at": "2026-07-20T22:13:31+00:00",
+          "image": null,
+          "description": "Pilot Nicholas Dale, from British Columbia, will be honored with a memorial procession across Colorado after dying while battling the Gold Mountain Fire."
+        },
+        {
+          "title": "These are the wildfires burning in Colorado",
+          "summary": "Statewide wildfire roundup, awareness context for the season.",
+          "source": "9NEWS",
+          "topic": "wildfire",
+          "url": "https://www.9news.com/article/news/local/wildfire/wildfires-colorado-july-2026/73-5addb18e-df03-4ac1-a60a-53a7bae3f356",
+          "published_at": "2026-07-22T23:08:44+00:00",
+          "image": null,
+          "description": "Here's the latest on the fires burning across the state."
+        },
+        {
+          "title": "4th firefighter dies from burn injuries battling Colorado's Knowles wildfire",
+          "summary": "Fourth firefighter death from CO wildfire, significant local impact context.",
+          "source": "CBS Colorado",
+          "topic": "wildfire",
+          "url": "https://www.cbsnews.com/colorado/news/nathan-matthews-dies-knowles-wildfire-colorado/",
+          "published_at": "2026-07-25T17:38:00+00:00",
+          "image": {
+            "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/06/28/3299d9e3-7aa5-4785-94a3-d9a5afb9a979/thumbnail/1024x576/bec701260e1c4872cc96ff48e5fb3dda/synder-fire-2-u-s-wildland-fire-service.jpg",
+            "alt": ""
+          },
+          "description": "Nathan Matthews, 43, of Lincoln, Nebraska, died from injuries sustained while battling the blaze, the Department of the Interior said."
+        },
+        {
+          "title": "Drought task force says Colorado wildfires cost taxpayers $266 million",
+          "summary": "Statewide wildfire cost tally from Drought Task Force; retrospective context landing on the state, not an active check-in. Awareness context.",
+          "source": "CBS Colorado",
+          "topic": "wildfire",
+          "url": "https://www.cbsnews.com/colorado/news/drought-task-force-colorado-wildfires-266-million/",
+          "published_at": "2026-07-26T02:37:56+00:00",
+          "image": {
+            "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/26/2691fe00-b3ec-4fab-8bc9-f4bb0c605a27/thumbnail/1024x576/571407e2a08e79a136e30e186aedb450/aspen-acres-fire-division-b-supervisor-shows-dozer-line-july-19-2026.png",
+            "alt": ""
+          },
+          "description": "In a recent meeting of Colorado's Drought Task Force, officials said the four largest wildfires in the state have cost taxpayers $266 million."
+        },
+        {
+          "title": "4th firefighter dies from burn injuries battling Colorado's Knowles wildfire",
+          "summary": "Firefighter death from wildfire is a significant local event worth reader awareness.",
+          "source": "CBS Colorado",
+          "topic": "wildfire",
+          "url": "https://www.cbsnews.com/colorado/video/4th-firefighter-dies-from-burn-injuries-battling-colorados-knowles-wildfire/",
+          "published_at": "2026-07-26T02:50:00+00:00",
+          "image": {
+            "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/26/6375b5ac-6ba9-4cde-a4d1-bfb84bf35a4d/thumbnail/1024x576/6df11556851627b4fb756b1d1d2f5842/ad3a4a57979a111a51ae086bb120cb4f.jpg",
+            "alt": ""
+          },
+          "description": "A fourth firefighter died from burn injuries battling Colorado's Knowles wildfire in the western part of the state at the end of June."
+        }
+      ]
+    },
+    {
+      "title": "Westbound lanes of I-70 closed again in western Colorado due to flooding",
+      "summary": "Monsoon rains brought flash flooding and mudslides to the high country mid-week (Jul 22-25): I-70's westbound lanes closed again, and a motorcyclist was swept off a highway into a river.",
+      "source": "CBS Colorado",
+      "topic": "flood",
+      "url": "https://www.cbsnews.com/colorado/news/westbound-lanes-i-70-closed-western-colorado-flooding/",
+      "published_at": "2026-07-24T15:17:45+00:00",
+      "image": null,
+      "description": "The westbound lanes of I-70 were closed in western Colorado once again on Friday morning due to flooding.",
+      "thread": [
+        {
+          "title": "Motorcyclist swept off Colorado highway by mudslide into river",
+          "summary": "Mudslides closing Hwy 145 and injuring a motorist — infrastructure/road-closure impact. Point hazard in-region. You should know.",
+          "source": "9NEWS",
+          "topic": "flood",
+          "url": "https://www.9news.com/article/traffic/san-miguel-county-colorado-mudslides/73-7d5ae608-85e5-4704-a0b5-f7daea01d60f",
+          "published_at": "2026-07-22T21:59:03+00:00",
+          "image": null,
+          "description": "A series of mudslides closed Highway 145 in Colorado, injuring a motorcyclist swept off the road into the San Miguel River, the sheriff's office reports."
+        },
+        {
+          "title": "Westbound lanes of I-70 closed again in western Colorado due to flooding",
+          "summary": "Recurring flooding closing a major highway, affects travel broadly in region.",
+          "source": "CBS Colorado",
+          "topic": "flood",
+          "url": "https://www.cbsnews.com/colorado/news/westbound-lanes-i-70-closed-western-colorado-flooding/",
+          "published_at": "2026-07-24T15:17:45+00:00",
+          "image": null,
+          "description": "The westbound lanes of I-70 were closed in western Colorado once again on Friday morning due to flooding."
+        },
+        {
+          "title": "Heavy rains cause flash flooding, mudslides in Colorado high country",
+          "summary": "Flash flooding / mudslides in Colorado high country; just-happened weather event with road impact. Distant point event but a natural did-you-hear opener. You could open with: 'Did you hear about the flash flooding and mudslides up in the high country?'",
+          "source": "CBS Colorado",
+          "topic": "flood",
+          "url": "https://www.cbsnews.com/colorado/video/heavy-rains-cause-flash-flooding-mudslides-in-colorado-high-country/",
+          "published_at": "2026-07-25T04:07:00+00:00",
+          "image": {
+            "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/25/7a88fa26-8a34-4c01-829d-9456a59f2ddc/thumbnail/1024x576/78e14ba12b8afac0fef2be5b34982baf/4f089a770665102e88ea4cb04d44df00.png",
+            "alt": ""
+          },
+          "description": "Some drivers traveling through Colorado's high country should be prepared for delays due to a mudslide in Red Mountain Pass."
+        }
+      ]
+    },
+    {
+      "title": "Aurora asked everyone to cut back water usage. The city says its largest user has refused",
+      "summary": "Water tensions escalated: Denver Water pressed customers to conserve while Aurora said its single largest user refused to cut back despite a citywide ask.",
+      "source": "9NEWS",
+      "topic": "drought-water",
+      "url": "https://www.9news.com/article/news/local/aurora-asked-everyone-to-cut-back-water-usage-the-city-says-its-largest-user-has-refused/73-cde4e6e1-0c51-4052-88f5-bfe507ef777c",
+      "published_at": "2026-07-22T12:50:21+00:00",
+      "image": null,
+      "description": "The Aurora City Council met with water officials Monday to discuss what it can do about Niagara Bottling and its usage.",
+      "thread": [
+        {
+          "title": "Aurora asked everyone to cut back water usage. The city says its largest user has refused",
+          "summary": "City water-cutback request and largest user refusing — water-supply condition affecting Aurora residents. Institutional dispute over conservation. You should walk in aware of the local water situation.",
+          "source": "9NEWS",
+          "topic": "drought-water",
+          "url": "https://www.9news.com/article/news/local/aurora-asked-everyone-to-cut-back-water-usage-the-city-says-its-largest-user-has-refused/73-cde4e6e1-0c51-4052-88f5-bfe507ef777c",
+          "published_at": "2026-07-22T12:50:21+00:00",
+          "image": null,
+          "description": "The Aurora City Council met with water officials Monday to discuss what it can do about Niagara Bottling and its usage."
+        },
+        {
+          "title": "Denver Water asks customers to stick to watering restrictions, hopes residents \"work even harder at conserving\"",
+          "summary": "Ongoing drought/water conservation appeal affecting metro residents directly.",
+          "source": "CBS Colorado",
+          "topic": "drought-water",
+          "url": "https://www.cbsnews.com/colorado/news/denver-water-watering-restrictions-drought/",
+          "published_at": "2026-07-24T02:58:14+00:00",
+          "image": null,
+          "description": "Denver Water says its customers are using less water than they were this time last year, but officials warn conservation efforts are still falling well short of what is needed as the drought persists​."
+        }
+      ]
+    },
+    {
+      "title": "Faith leaders and community members sue Colorado town of Hudson in effort to block planned ICE detention center",
+      "summary": "Immigration enforcement drew local pushback: faith leaders sued to block a planned ICE detention center in Hudson (in-region), while an advocate raised alarms over conditions inside the Aurora ICE facility.",
+      "source": "CBS Colorado",
+      "topic": "immigration-enforcement",
+      "url": "https://www.cbsnews.com/colorado/news/hudson-lawsuit-ice-detention-center-big-horn-facility/",
+      "published_at": "2026-07-24T03:59:10+00:00",
+      "image": null,
+      "description": "The town of Hudson is now facing a lawsuit over plans to open an ICE detention center in the eastern Colorado town.",
+      "thread": [
+        {
+          "title": "Medical advocate raises alarm about conditions inside of ICE detention cells in Aurora facility",
+          "summary": "ICE detention conditions concern; context reader should know.",
+          "source": "CBS Colorado",
+          "topic": "immigration-enforcement",
+          "url": "https://www.cbsnews.com/colorado/video/medical-advocate-raises-alarm-about-conditions-inside-of-ice-detention-cells-in-aurora-facility/",
+          "published_at": "2026-07-21T04:22:00+00:00",
+          "image": null,
+          "description": "Some immigrant advocacy groups say they are hearing from detainees that the cells don't have cooling systems or access to clean water, and that the heat inside the cells is extreme."
+        },
+        {
+          "title": "Faith leaders and community members sue Colorado town of Hudson in effort to block planned ICE detention center",
+          "summary": "Lawsuit over planned ICE detention center — institutional/forward-looking apparatus, you-should-know not check-in per action-vs-apparatus rule.",
+          "source": "CBS Colorado",
+          "topic": "immigration-enforcement",
+          "url": "https://www.cbsnews.com/colorado/news/hudson-lawsuit-ice-detention-center-big-horn-facility/",
+          "published_at": "2026-07-24T03:59:10+00:00",
+          "image": null,
+          "description": "The town of Hudson is now facing a lawsuit over plans to open an ICE detention center in the eastern Colorado town."
+        }
+      ]
+    },
+    {
+      "title": "Colorado Secretary of State's Office finds Republican Gubernatorial nominee Victor Marx broke campaign finance law",
+      "summary": "The Secretary of State's Office found GOP gubernatorial nominee Victor Marx broke campaign finance law — a notable development in the governor's race.",
+      "source": "CBS Colorado",
+      "topic": "elections-politics",
+      "url": "https://www.cbsnews.com/colorado/news/colorado-secretary-state-republican-gubernatorial-nominee-victor-marx-campaign-finance-law/",
+      "published_at": "2026-07-25T02:22:00+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/06/17/d6906b51-d4ee-41f1-a5c5-e85180295088/thumbnail/1024x576/1427acf0a09e5789b856d797480d3c70/c20c1c5854235e9cf2e796d754e37765.jpg",
+        "alt": ""
+      },
+      "description": "The Colorado Secretary of State's Office says the Republican gubernatorial nominee Victor Marx's campaign received nearly 200 illegal campaign contributions during the primary election."
+    }
+  ],
+  "sports": [
+    {
+      "team": "Rockies",
+      "scores": [
+        "Brewers 8, Rockies 5",
+        "Rockies 5, Brewers 2",
+        "Nationals 8, Rockies 0"
+      ]
+    },
+    {
+      "team": "Rapids",
+      "scores": [
+        "Rapids 1, San Diego FC 0"
+      ]
+    }
+  ]
+}

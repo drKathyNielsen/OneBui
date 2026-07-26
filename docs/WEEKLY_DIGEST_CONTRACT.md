@@ -64,3 +64,27 @@ accordingly and **re-emit existing daily files** so `are_you_ok` is `[]` (was `n
 - [ ] Every `Article` validates against `DIGEST_OUTPUT_CONTRACT.md` §4 (no HTML in `description`,
       `source` present, `image` object-or-null, etc.).
 - [ ] Daily `are_you_ok` re-emitted as an array across all existing dates.
+
+## 7. Implementation notes — how `oneb` emits this (deliberate divergences)
+
+The generator does not know our repo layout, so a few things differ from §2–§4 as implemented. All
+are additive or naming-only; nothing removes a documented field.
+
+- **Filename.** Our daily files are `<metroCode>.<date>.json` inside the per-slug directory, so the
+  weekly file is **`<metroCode>.weekly.json`** in that same directory (e.g.
+  `digests/minneapolis-mn/33460.weekly.json`), not a bare `weekly.json`. Still exactly one per metro,
+  overwritten in place.
+- **Extra `metro` header field.** Weekly carries the full CBSA `metro` name alongside `shortName`,
+  matching our daily files. The UI can ignore it.
+- **`thread` on weekly Articles (new, additive).** A weekly item that clusters a multi-day sequence
+  ("smoke coming in" → "smoke here") carries a **`thread: Article[]`** — every contributing article,
+  ordered oldest→newest by `published_at` — for a "read more" / timeline affordance. Single-article
+  items omit `thread`. Each thread member is a full §4 `Article`. The item's own `summary` narrates
+  the arc (an addendum to the representative's `description`); dates are shown by the UI from each
+  article's `published_at`, not synthesized into prose.
+- **Daily `are_you_ok` array (§5): done.** The daily document now emits `are_you_ok` as `[]` or
+  `[ {…} ]`, and all existing dates were re-emitted.
+
+Two-file pipeline internals (not part of the UI contract): our `prioritize` app writes a
+self-contained `<metroCode>.weekly-ranked.json` (the editorial selection); our `render` app turns it
+into the `weekly.json` above and computes the mechanical `sports` section over the window.

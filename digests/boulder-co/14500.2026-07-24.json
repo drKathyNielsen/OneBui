@@ -3,16 +3,18 @@
   "metroCode": "14500",
   "metro": "Boulder, CO",
   "date": "2026-07-24",
-  "are_you_ok": {
-    "title": "Friends rally for woman detained by ICE at Denver airport",
-    "summary": "ICE detention of a person at Denver airport — enforcement action landing on people here now, are-you-ok climate.",
-    "source": "9NEWS",
-    "topic": "immigration-enforcement",
-    "url": "https://www.9news.com/article/news/local/rally-for-woman-detained-by-ice-at-denver-airport/73-c0835e98-5ec5-40c2-89de-cb367bdd9ca5",
-    "published_at": "2026-07-24T12:27:27+00:00",
-    "image": null,
-    "description": "A friend and former employer of a woman detained by federal agents at Denver International Airport has been advocating for her release from detention."
-  },
+  "are_you_ok": [
+    {
+      "title": "Friends rally for woman detained by ICE at Denver airport",
+      "summary": "ICE detention of a person at Denver airport — enforcement action landing on people here now, are-you-ok climate.",
+      "source": "9NEWS",
+      "topic": "immigration-enforcement",
+      "url": "https://www.9news.com/article/news/local/rally-for-woman-detained-by-ice-at-denver-airport/73-c0835e98-5ec5-40c2-89de-cb367bdd9ca5",
+      "published_at": "2026-07-24T12:27:27+00:00",
+      "image": null,
+      "description": "A friend and former employer of a woman detained by federal agents at Denver International Airport has been advocating for her release from detention."
+    }
+  ],
   "conversation_starters": [
     {
       "title": "Colorado bear activity surges in Douglas County as drought pushes wildlife into Front Range",

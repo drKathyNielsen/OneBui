@@ -3,15 +3,17 @@
   "metroCode": "14500",
   "metro": "Boulder, CO",
   "date": "2026-07-18",
-  "are_you_ok": {
-    "title": "Flight restrictions ordered over Aspen Acres Fire in southern Colorado, drone pilot facing charges",
-    "summary": "Wildfire in southern Colorado with flight restrictions — affects daily life in the area. Dedup with 34.",
-    "topic": "wildfire",
-    "url": "https://www.cbsnews.com/colorado/news/flight-restrictions-aspen-acres-fire-southern-colorado-drone-pilot-facing-charges/",
-    "published_at": "2026-07-18T21:13:00+00:00",
-    "image": null,
-    "source": "CBS Colorado"
-  },
+  "are_you_ok": [
+    {
+      "title": "Flight restrictions ordered over Aspen Acres Fire in southern Colorado, drone pilot facing charges",
+      "summary": "Wildfire in southern Colorado with flight restrictions — affects daily life in the area. Dedup with 34.",
+      "topic": "wildfire",
+      "url": "https://www.cbsnews.com/colorado/news/flight-restrictions-aspen-acres-fire-southern-colorado-drone-pilot-facing-charges/",
+      "published_at": "2026-07-18T21:13:00+00:00",
+      "image": null,
+      "source": "CBS Colorado"
+    }
+  ],
   "conversation_starters": [],
   "sports": [
     {

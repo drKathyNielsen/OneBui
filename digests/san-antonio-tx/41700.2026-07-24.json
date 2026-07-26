@@ -3,19 +3,21 @@
   "metroCode": "41700",
   "metro": "San Antonio-New Braunfels, TX",
   "date": "2026-07-24",
-  "are_you_ok": {
-    "title": "Third death reported from Hill Country and South Texas flooding last week, Gov. Abbott says",
-    "summary": "Flooding deaths in region, broad population safety check-in relevant to metro area",
-    "source": "KENS 5",
-    "topic": "flood",
-    "url": "https://www.kens5.com/article/news/local/third-death-reported-from-hill-country-and-south-texas-flooding-last-week-gov-abbott-says/273-b0376749-339b-4fe8-808d-3da008d257be",
-    "published_at": "2026-07-24T21:36:35+00:00",
-    "image": {
-      "url": "https://media.tegna-media.com/assets/KENS/images/e71e495f-f627-4be9-bf83-069c3dfdc1e6/20260501T195052/e71e495f-f627-4be9-bf83-069c3dfdc1e6_750x422.jpg",
-      "alt": ""
-    },
-    "description": "Severe weather in South Texas claimed at least three lives after Val Verde County officials confirmed an 71-year-old woman died amid rising floodwaters."
-  },
+  "are_you_ok": [
+    {
+      "title": "Third death reported from Hill Country and South Texas flooding last week, Gov. Abbott says",
+      "summary": "Flooding deaths in region, broad population safety check-in relevant to metro area",
+      "source": "KENS 5",
+      "topic": "flood",
+      "url": "https://www.kens5.com/article/news/local/third-death-reported-from-hill-country-and-south-texas-flooding-last-week-gov-abbott-says/273-b0376749-339b-4fe8-808d-3da008d257be",
+      "published_at": "2026-07-24T21:36:35+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/e71e495f-f627-4be9-bf83-069c3dfdc1e6/20260501T195052/e71e495f-f627-4be9-bf83-069c3dfdc1e6_750x422.jpg",
+        "alt": ""
+      },
+      "description": "Severe weather in South Texas claimed at least three lives after Val Verde County officials confirmed an 71-year-old woman died amid rising floodwaters."
+    }
+  ],
   "conversation_starters": [
     {
       "title": "San Antonio’s homicide decline is clear — it’s less clear why",

@@ -3,16 +3,18 @@
   "metroCode": "33460",
   "metro": "Minneapolis-St. Paul-Bloomington, MN-WI",
   "date": "2026-07-21",
-  "are_you_ok": {
-    "title": "Minneapolis mass shootings: How MPD is responding to weekend violence",
-    "summary": "Weekend mass shootings in Minneapolis affecting broad public safety; genuine check-in territory for metro residents.",
-    "source": "FOX 9",
-    "topic": "violent-crime",
-    "url": "https://www.fox9.com/news/minneapolis-mass-shootings-how-mpd-is-responding-weekend-violence",
-    "published_at": "2026-07-21T14:06:02+00:00",
-    "image": null,
-    "description": "Minneapolis police will make changes in both Uptown and Stevens Square after two mass shootings on Sunday. Here's what Chief Bill Peterson says the department is doing and why East 19th Street and Nicollet has been a problem."
-  },
+  "are_you_ok": [
+    {
+      "title": "Minneapolis mass shootings: How MPD is responding to weekend violence",
+      "summary": "Weekend mass shootings in Minneapolis affecting broad public safety; genuine check-in territory for metro residents.",
+      "source": "FOX 9",
+      "topic": "violent-crime",
+      "url": "https://www.fox9.com/news/minneapolis-mass-shootings-how-mpd-is-responding-weekend-violence",
+      "published_at": "2026-07-21T14:06:02+00:00",
+      "image": null,
+      "description": "Minneapolis police will make changes in both Uptown and Stevens Square after two mass shootings on Sunday. Here's what Chief Bill Peterson says the department is doing and why East 19th Street and Nicollet has been a problem."
+    }
+  ],
   "conversation_starters": [
     {
       "title": "Minnesota State Fair new beers, drinks for 2026",

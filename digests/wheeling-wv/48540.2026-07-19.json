@@ -3,15 +3,17 @@
   "metroCode": "48540",
   "metro": "Wheeling, WV-OH",
   "date": "2026-07-19",
-  "are_you_ok": {
-    "title": "Air Quality Alert Issued for West Virginia",
-    "summary": "Air quality alert for WV from wildfire smoke — affects broad local population, breathing/health. Groups with the Canadian smoke cluster.",
-    "source": "Wheeling News and Weather",
-    "topic": "air-quality",
-    "url": "https://www.wtrf.com/weather/code-orange-air-quality-alert-issued-for-northern-west-virginia/",
-    "published_at": "2026-07-19T19:23:00+00:00",
-    "image": null
-  },
+  "are_you_ok": [
+    {
+      "title": "Air Quality Alert Issued for West Virginia",
+      "summary": "Air quality alert for WV from wildfire smoke — affects broad local population, breathing/health. Groups with the Canadian smoke cluster.",
+      "source": "Wheeling News and Weather",
+      "topic": "air-quality",
+      "url": "https://www.wtrf.com/weather/code-orange-air-quality-alert-issued-for-northern-west-virginia/",
+      "published_at": "2026-07-19T19:23:00+00:00",
+      "image": null
+    }
+  ],
   "conversation_starters": [],
   "sports": [
     {

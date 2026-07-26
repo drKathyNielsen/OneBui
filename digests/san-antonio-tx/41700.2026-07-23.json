@@ -3,16 +3,18 @@
   "metroCode": "41700",
   "metro": "San Antonio-New Braunfels, TX",
   "date": "2026-07-23",
-  "are_you_ok": {
-    "title": "Dangerous heat grips South Texas before slight cooldown | Weather Impact Alert",
-    "summary": "Broad population affected by dangerous heat, check-in worthy",
-    "source": "KENS 5",
-    "topic": "heat",
-    "url": "https://www.kens5.com/article/weather/forecast/heat-advisory-san-antonio-ercot-power-grid-electricity-triple-digits-heat-index-energy-demand-forecast-summer-hydration-air-conditioning/273-41ced3d1-9b66-4961-a7dc-a98c34a6a579",
-    "published_at": "2026-07-23T11:56:48+00:00",
-    "image": null,
-    "description": "Triple-digit heat returns Wednesday, with heat index values up to 114 degrees as Texas power demand reaches record levels."
-  },
+  "are_you_ok": [
+    {
+      "title": "Dangerous heat grips South Texas before slight cooldown | Weather Impact Alert",
+      "summary": "Broad population affected by dangerous heat, check-in worthy",
+      "source": "KENS 5",
+      "topic": "heat",
+      "url": "https://www.kens5.com/article/weather/forecast/heat-advisory-san-antonio-ercot-power-grid-electricity-triple-digits-heat-index-energy-demand-forecast-summer-hydration-air-conditioning/273-41ced3d1-9b66-4961-a7dc-a98c34a6a579",
+      "published_at": "2026-07-23T11:56:48+00:00",
+      "image": null,
+      "description": "Triple-digit heat returns Wednesday, with heat index values up to 114 degrees as Texas power demand reaches record levels."
+    }
+  ],
   "conversation_starters": [
     {
       "title": "Faces of the Spurs listening tour: Residents excited, concerned about downtown arena, Project Marvel",

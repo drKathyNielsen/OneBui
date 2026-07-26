@@ -3,16 +3,18 @@
   "metroCode": "41700",
   "metro": "San Antonio-New Braunfels, TX",
   "date": "2026-07-21",
-  "are_you_ok": {
-    "title": "Uvalde man escapes floodwaters after car becomes stranded in Leona River",
-    "summary": "Anchor of the major Hill Country flooding event — 15-25 inches of rain, near a year's worth. A diffuse regional flood event in the metro's region; broad daily-life effect warrants a check-in. Uvalde escape detail is the local hook for this event cluster.",
-    "source": "KENS 5",
-    "topic": "flood",
-    "url": "https://www.kens5.com/article/weather/uvalde-man-escapes-floodwaters-leona-river-weather-texas/273-4865c260-40af-47fd-a916-01f6f5d5f376",
-    "published_at": "2026-07-21T00:42:48+00:00",
-    "image": null,
-    "description": "Some communities saw 15 to 25 inches of rain over just a few days, with some areas receiving nearly a year's worth of rainfall."
-  },
+  "are_you_ok": [
+    {
+      "title": "Uvalde man escapes floodwaters after car becomes stranded in Leona River",
+      "summary": "Anchor of the major Hill Country flooding event — 15-25 inches of rain, near a year's worth. A diffuse regional flood event in the metro's region; broad daily-life effect warrants a check-in. Uvalde escape detail is the local hook for this event cluster.",
+      "source": "KENS 5",
+      "topic": "flood",
+      "url": "https://www.kens5.com/article/weather/uvalde-man-escapes-floodwaters-leona-river-weather-texas/273-4865c260-40af-47fd-a916-01f6f5d5f376",
+      "published_at": "2026-07-21T00:42:48+00:00",
+      "image": null,
+      "description": "Some communities saw 15 to 25 inches of rain over just a few days, with some areas receiving nearly a year's worth of rainfall."
+    }
+  ],
   "conversation_starters": [
     {
       "title": "KPOPWORLD Festival bringing Jay Park, The Rose and more to Alamodome",

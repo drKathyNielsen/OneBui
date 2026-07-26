@@ -3,20 +3,35 @@
   "metroCode": "33460",
   "metro": "Minneapolis-St. Paul-Bloomington, MN-WI",
   "date": "2026-07-25",
-  "are_you_ok": {
-    "title": "NEXT Weather | 8 a.m. weather report for Saturday, July 25, 2026",
-    "summary": "Extreme heat and severe-weather alert coming to the metro — diffuse effect on broad local population, genuine check-in.",
-    "source": "CBS Minnesota",
-    "topic": "heat",
-    "url": "https://www.cbsnews.com/minnesota/video/next-weather-8-a-m-weather-report-for-saturday-july-25-2026/",
-    "published_at": "2026-07-25T15:58:00+00:00",
-    "image": {
-      "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/07/25/106d9431-150e-4229-a5a2-fea019b1fdd5/thumbnail/1024x576/847bff19d71acff9872249ab0132ed3b/ba1481d3421b2dec49ce1de0020ebe45.jpg",
-      "alt": ""
-    },
-    "description": "The heat and humidity has returned. Feels like temperatures on Saturday will get into the triple digits, while high temps will be in the low 90s. Sunday will feel similar. Sunday also comes with a severe weather alert. Meteorologist Katie Steiner shares what you need to know for"
-  },
+  "are_you_ok": [
+    {
+      "title": "NEXT Weather | 8 a.m. weather report for Saturday, July 25, 2026",
+      "summary": "Extreme heat and severe-weather alert coming to the metro — diffuse effect on broad local population, genuine check-in.",
+      "source": "CBS Minnesota",
+      "topic": "heat",
+      "url": "https://www.cbsnews.com/minnesota/video/next-weather-8-a-m-weather-report-for-saturday-july-25-2026/",
+      "published_at": "2026-07-25T15:58:00+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/07/25/106d9431-150e-4229-a5a2-fea019b1fdd5/thumbnail/1024x576/847bff19d71acff9872249ab0132ed3b/ba1481d3421b2dec49ce1de0020ebe45.jpg",
+        "alt": ""
+      },
+      "description": "The heat and humidity has returned. Feels like temperatures on Saturday will get into the triple digits, while high temps will be in the low 90s. Sunday will feel similar. Sunday also comes with a severe weather alert. Meteorologist Katie Steiner shares what you need to know for"
+    }
+  ],
   "conversation_starters": [
+    {
+      "title": "People named Ryan attempt to break record involving a roller coaster at MOA",
+      "summary": "Fun quirky local story, great conversation starter. You could open with: 'Did you hear about the Ryans trying to break a rollercoaster record at Mall of America?'",
+      "source": "CBS Minnesota",
+      "topic": "human-interest",
+      "url": "https://www.cbsnews.com/minnesota/video/people-named-ryan-attempt-to-break-record-involving-a-roller-coaster-at-moa/",
+      "published_at": "2026-07-25T03:46:00+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/07/25/47261e44-91c5-4fd8-aa1d-e02cd226fe08/thumbnail/1024x576/61adfb548c6887187aad4efa5c969aed/70dc7597618fd0eb2faeeb1b123f5b9b.png",
+        "alt": ""
+      },
+      "description": "On Friday, the Mall of America invited anyone in the world named Ryan to show up for a same-name celebration. They attempted to break the World Record for \"most Ryans on a rollercoaster\" at Nickelodeon Universe."
+    },
     {
       "title": "After 5 car washes, driver's car still \"smells like a barn\" after driving through manure on highway",
       "summary": "Quirky, memorable local road story — a work-safe fun opener. You could open with: 'Did you hear about the manure spill on Highway 62 — one driver says his car still smells like a barn after five washes?'",
@@ -31,17 +46,17 @@
       "description": "Thursday morning's commute was tough for some on Minneapolis' Highway 62. Liquid manure covered a section of the road. The Minnesota State Patrol says it was \"inches deep\" in both lanes."
     },
     {
-      "title": "People named Ryan attempt to break record involving a roller coaster at MOA",
-      "summary": "Fun quirky local story, great conversation starter. You could open with: 'Did you hear about the Ryans trying to break a rollercoaster record at Mall of America?'",
-      "source": "CBS Minnesota",
-      "topic": "human-interest",
-      "url": "https://www.cbsnews.com/minnesota/video/people-named-ryan-attempt-to-break-record-involving-a-roller-coaster-at-moa/",
-      "published_at": "2026-07-25T03:46:00+00:00",
+      "title": "Minnesota wildfires: Rain helps moderate fire",
+      "summary": "Northern MN wildfires are distant from the metro (point hazard up-state), so not are-you-ok, but a large ongoing regional condition worth mentioning. You could open with: 'Did you hear they've got over a thousand firefighters on those wildfires up north?'",
+      "source": "FOX 9",
+      "topic": "wildfire",
+      "url": "https://www.fox9.com/news/minnesota-wildfires-rain-helps-moderate-fire",
+      "published_at": "2026-07-25T21:24:37+00:00",
       "image": {
-        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/07/25/47261e44-91c5-4fd8-aa1d-e02cd226fe08/thumbnail/1024x576/61adfb548c6887187aad4efa5c969aed/70dc7597618fd0eb2faeeb1b123f5b9b.png",
+        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/07/image-1.png",
         "alt": ""
       },
-      "description": "On Friday, the Mall of America invited anyone in the world named Ryan to show up for a same-name celebration. They attempted to break the World Record for \"most Ryans on a rollercoaster\" at Nickelodeon Universe."
+      "description": "Over 1,000 firefighters continue to battle the various wildfires in northern Minnesota as warm weather could bring dangerous fire weather."
     }
   ],
   "sports": [

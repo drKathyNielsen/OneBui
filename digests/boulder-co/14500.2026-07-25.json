@@ -3,33 +3,22 @@
   "metroCode": "14500",
   "metro": "Boulder, CO",
   "date": "2026-07-25",
-  "are_you_ok": {
-    "title": "Denver health specialists warn of extreme heat risks for people and pets",
-    "summary": "Extreme heat health warning affecting the whole metro population this weekend.",
-    "source": "CBS Colorado",
-    "topic": "heat",
-    "url": "https://www.cbsnews.com/colorado/video/denver-health-specialists-warn-of-extreme-heat-risks-for-people-and-pets/",
-    "published_at": "2026-07-25T19:54:00+00:00",
-    "image": {
-      "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/25/5b8cfa51-9100-41fa-a4f7-baa96c497b54/thumbnail/1024x576/bb44212fdea2fdb5dbabcc49bb1e18a4/568e405d523832bf77f0e2ff77cdd98e.jpg",
-      "alt": ""
-    },
-    "description": "With continued high temperatures across Colorado, it's important to recognize the symptoms of heat related illness. Health experts are sharing tips to protect yourself and your pets this weekend."
-  },
-  "conversation_starters": [
+  "are_you_ok": [
     {
-      "title": "Denver's Underground Music Showcase returns in new home, giving local artists a fresh stage",
-      "summary": "Colorado's longest-running independent music festival returns in a new RiNo home, running now; marquee metro civic event and a work-safe opener. You could open with: 'Did you catch the Underground Music Showcase in its new RiNo spot this weekend?'",
+      "title": "Denver health specialists warn of extreme heat risks for people and pets",
+      "summary": "Extreme heat health warning affecting the whole metro population this weekend.",
       "source": "CBS Colorado",
-      "topic": "civic-events",
-      "url": "https://www.cbsnews.com/colorado/video/denvers-underground-music-showcase-returns-in-new-home-giving-local-artists-a-fresh-stage/",
-      "published_at": "2026-07-25T02:38:00+00:00",
+      "topic": "heat",
+      "url": "https://www.cbsnews.com/colorado/video/denver-health-specialists-warn-of-extreme-heat-risks-for-people-and-pets/",
+      "published_at": "2026-07-25T19:54:00+00:00",
       "image": {
-        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/07/25/47b2d942-180f-4f41-93f5-d5bc5d941e83/thumbnail/1024x576/e533420034c00d7612f78c2d2da6ef41/cbf928d7e7f4f5f652b1d9689e9887ef.jpg",
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/25/5b8cfa51-9100-41fa-a4f7-baa96c497b54/thumbnail/1024x576/bb44212fdea2fdb5dbabcc49bb1e18a4/568e405d523832bf77f0e2ff77cdd98e.jpg",
         "alt": ""
       },
-      "description": "The Underground Music Showcase is turning the page to a new chapter this weekend, bringing Colorado's longest-running independent music festival to Denver's RiNo Art District. The festival runs through Sunday."
-    },
+      "description": "With continued high temperatures across Colorado, it's important to recognize the symptoms of heat related illness. Health experts are sharing tips to protect yourself and your pets this weekend."
+    }
+  ],
+  "conversation_starters": [
     {
       "title": "Heavy rains cause flash flooding, mudslides in Colorado high country",
       "summary": "Flash flooding / mudslides in Colorado high country; just-happened weather event with road impact. Distant point event but a natural did-you-hear opener. You could open with: 'Did you hear about the flash flooding and mudslides up in the high country?'",
@@ -67,6 +56,19 @@
       "description": "Nathan Matthews, 43, of Lincoln, Nebraska, died from injuries sustained while battling the blaze, the Department of the Interior said."
     },
     {
+      "title": "Public pushback greets CDOT's Colorado Boulevard bus rapid transit proposal; nearly 3/4 comments oppose BRT",
+      "summary": "Local transit project with broad public pushback along a major Denver corridor; context worth walking in aware of. Keep as you should know.",
+      "source": "CBS Colorado",
+      "topic": "transportation",
+      "url": "https://www.cbsnews.com/colorado/news/public-pushback-colorado-boulevard-bus-rapid-transit-proposal/",
+      "published_at": "2026-07-25T04:34:00+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/07/25/2808cc23-904f-4e32-87e2-80f3267596a4/thumbnail/1024x576/1f0a6dad86ffa4f38a3efcf55a3d1cf5/colorado-blvd-brt-comments-frame-636.jpg",
+        "alt": ""
+      },
+      "description": "Nearly three out of every four written comments submitted to the Colorado Department of Transportation during the early public review of its proposed Bus Rapid Transit project on Colorado Boulevard oppose the idea."
+    },
+    {
       "title": "Denver put weight restriction on 6th bridge; no one is really enforcing weight limit",
       "summary": "Sixth Denver bridge with weight restriction and lax enforcement points to aging infrastructure affecting local commutes; context worth walking in aware of. Keep as you should know.",
       "source": "9NEWS",
@@ -78,19 +80,6 @@
         "alt": ""
       },
       "description": "Lawrence Street over Cherry Creek joins five other bridges with weight restrictions since late last year."
-    },
-    {
-      "title": "Colorado report finds rural residents face wider health gaps and shorter lives",
-      "summary": "State report on rural/Native health disparities and shorter lifespans — a structural condition landing statewide, worth walking in aware of but not a check-in. Keep as you should know.",
-      "source": "9NEWS",
-      "topic": "public-health",
-      "url": "https://www.9news.com/article/news/health/colorado-report-rural-residents-wider-health-gaps-shorter-lives/73-77b41a73-e73c-4859-b328-b5c1e8162ce1",
-      "published_at": "2026-07-25T00:50:41+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KUSA/images/a655844b-83b6-4dee-bbcd-ab9c030070e4/20260725T001320/a655844b-83b6-4dee-bbcd-ab9c030070e4_750x422.jpg",
-        "alt": ""
-      },
-      "description": "American Indian and Alaska Native populations in rural communities see premature death rates nearly double the statewide average, according to the report."
     }
   ]
 }

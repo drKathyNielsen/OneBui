@@ -1,0 +1,51 @@
+{
+  "shortName": "Minneapolis, MN",
+  "metroCode": "33460",
+  "metro": "Minneapolis-St. Paul-Bloomington, MN-WI",
+  "date": "2026-07-26",
+  "are_you_ok": [
+    {
+      "title": "NEXT Weather Alert for Sunday due to extreme heat; severe storms possible later in day",
+      "summary": "Extreme heat alert with severe storm risk for the metro area - genuine check-in worthy weather event",
+      "source": "CBS Minnesota",
+      "topic": "heat",
+      "url": "https://www.cbsnews.com/minnesota/news/extreme-heat-and-severe-weather-chances-in-minnesota-on-sunday/",
+      "published_at": "2026-07-26T16:46:38+00:00",
+      "image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/07/26/bafb0d6c-fe6d-47cc-a93a-685dc6907bc8/thumbnail/1024x576/42d0f1ae313d70306e67f3ed259016cd/gettyimages-824584008.jpg",
+        "alt": ""
+      },
+      "description": "WCCO has issued a NEXT Weather Alert for Sunday for temperatures in the mid-90s and peak heat indices around 105 degrees."
+    }
+  ],
+  "conversation_starters": [],
+  "sports": [
+    {
+      "team": "Minnesota United",
+      "scores": [
+        "Minnesota United 0, Vancouver 0"
+      ]
+    },
+    {
+      "team": "Twins",
+      "scores": [
+        "Twins 2, Athletics 0"
+      ]
+    }
+  ],
+  "you_should_know": [
+    {
+      "title": "People gather to remember Alex Pretti 6 months after his death by federal agents",
+      "summary": "Memorial for people killed by federal agents ties to the local immigration-enforcement climate; politically charged context the manager should walk in aware of but not raise.",
+      "source": "KARE 11",
+      "topic": "immigration-enforcement",
+      "url": "https://www.kare11.com/article/news/local/ice-in-minnesota/alex-pretti-6-months-vigil-ice/89-373055c1-dba0-47d5-a6d3-64f80ab952d9",
+      "published_at": "2026-07-26T03:06:53+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/f95bfbc8-a2ac-4275-8548-f8774eef8bd4/20260725T234013/f95bfbc8-a2ac-4275-8548-f8774eef8bd4_750x422.jpg",
+        "alt": ""
+      },
+      "description": "People are gathering Saturday to remember not just Alex Pretti and Renee Good, but others who have been killed by federal agents."
+    }
+  ]
+}

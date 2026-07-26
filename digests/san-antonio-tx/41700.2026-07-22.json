@@ -3,19 +3,21 @@
   "metroCode": "41700",
   "metro": "San Antonio-New Braunfels, TX",
   "date": "2026-07-22",
-  "are_you_ok": {
-    "title": "Heat advisory issued as dangerous temperatures return to San Antonio; here’s how to stay safe",
-    "summary": "Dangerous heat advisory affecting broad San Antonio population now",
-    "source": "San Antonio Report",
-    "topic": "heat",
-    "url": "https://sanantonioreport.org/heat-advisory-dangerous-temperatures-san-antonio/",
-    "published_at": "2026-07-22T11:30:00+00:00",
-    "image": {
-      "url": "https://i0.wp.com/sanantonioreport.org/wp-content/uploads/2026/07/ExtremeHeat_SouthTexas_BrightHotSunnyWeather_Shade02_06.24.2026_AmberEsparza-scaled-1.jpg?fit=1024%2C683&ssl=1",
-      "alt": ""
-    },
-    "description": "Dangerous heat returns to San Antonio this week, with a heat advisory in effect Wednesday and heat index values reaching up to 112 degrees.Heat advisory issued as dangerous temperatures return to San Antonio; here’s how to stay safe was first posted on July 22, 2026 at 6:30"
-  },
+  "are_you_ok": [
+    {
+      "title": "Heat advisory issued as dangerous temperatures return to San Antonio; here’s how to stay safe",
+      "summary": "Dangerous heat advisory affecting broad San Antonio population now",
+      "source": "San Antonio Report",
+      "topic": "heat",
+      "url": "https://sanantonioreport.org/heat-advisory-dangerous-temperatures-san-antonio/",
+      "published_at": "2026-07-22T11:30:00+00:00",
+      "image": {
+        "url": "https://i0.wp.com/sanantonioreport.org/wp-content/uploads/2026/07/ExtremeHeat_SouthTexas_BrightHotSunnyWeather_Shade02_06.24.2026_AmberEsparza-scaled-1.jpg?fit=1024%2C683&ssl=1",
+        "alt": ""
+      },
+      "description": "Dangerous heat returns to San Antonio this week, with a heat advisory in effect Wednesday and heat index values reaching up to 112 degrees.Heat advisory issued as dangerous temperatures return to San Antonio; here’s how to stay safe was first posted on July 22, 2026 at 6:30"
+    }
+  ],
   "conversation_starters": [
     {
       "title": "SeaWorld San Antonio welcomes rescued belugas from former Canada marine park",

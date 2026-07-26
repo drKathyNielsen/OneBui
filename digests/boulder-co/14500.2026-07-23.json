@@ -3,16 +3,18 @@
   "metroCode": "14500",
   "metro": "Boulder, CO",
   "date": "2026-07-23",
-  "are_you_ok": {
-    "title": "1.6 million eggs recalled at Kroger and other stores over salmonella risk, FDA says",
-    "summary": "Systemic food recall affecting six states including likely local grocery buyers; check-in worthy.",
-    "source": "CBS Colorado",
-    "topic": "public-health",
-    "url": "https://www.cbsnews.com/colorado/news/egg-recall-salmonella-midwest-poultry-kroger/",
-    "published_at": "2026-07-23T14:39:56+00:00",
-    "image": null,
-    "description": "The recall affects white-shell and cage-free eggs sold under multiple grocery brands in six states. No illnesses have been reported."
-  },
+  "are_you_ok": [
+    {
+      "title": "1.6 million eggs recalled at Kroger and other stores over salmonella risk, FDA says",
+      "summary": "Systemic food recall affecting six states including likely local grocery buyers; check-in worthy.",
+      "source": "CBS Colorado",
+      "topic": "public-health",
+      "url": "https://www.cbsnews.com/colorado/news/egg-recall-salmonella-midwest-poultry-kroger/",
+      "published_at": "2026-07-23T14:39:56+00:00",
+      "image": null,
+      "description": "The recall affects white-shell and cage-free eggs sold under multiple grocery brands in six states. No illnesses have been reported."
+    }
+  ],
   "conversation_starters": [
     {
       "title": "Self-storage giant laying off dozens in Colorado after $10.5B merger",

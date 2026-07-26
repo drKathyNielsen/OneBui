@@ -3,16 +3,18 @@
   "metroCode": "33460",
   "metro": "Minneapolis-St. Paul-Bloomington, MN-WI",
   "date": "2026-07-20",
-  "are_you_ok": {
-    "title": "Two mass shootings rock Minneapolis in 20 hours, 14 shot and 1 dead",
-    "summary": "Major violent crime event affecting broad local population's sense of safety, discrete acute incident.",
-    "source": "FOX 9",
-    "topic": "violent-crime",
-    "url": "https://www.fox9.com/news/two-mass-shootings-rock-minneapolis-20-hours-14-hurt-1-dead",
-    "published_at": "2026-07-20T23:13:19+00:00",
-    "image": null,
-    "description": "A violent Sunday in Minneapolis left fourteen people wounded and one man dead after two mass shootings just hours and blocks apart."
-  },
+  "are_you_ok": [
+    {
+      "title": "Two mass shootings rock Minneapolis in 20 hours, 14 shot and 1 dead",
+      "summary": "Major violent crime event affecting broad local population's sense of safety, discrete acute incident.",
+      "source": "FOX 9",
+      "topic": "violent-crime",
+      "url": "https://www.fox9.com/news/two-mass-shootings-rock-minneapolis-20-hours-14-hurt-1-dead",
+      "published_at": "2026-07-20T23:13:19+00:00",
+      "image": null,
+      "description": "A violent Sunday in Minneapolis left fourteen people wounded and one man dead after two mass shootings just hours and blocks apart."
+    }
+  ],
   "conversation_starters": [
     {
       "title": "Twin Cities gas prices rise to $3.93/gallon, could hit $4 within days",

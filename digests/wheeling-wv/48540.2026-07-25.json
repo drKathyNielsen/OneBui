@@ -3,19 +3,21 @@
   "metroCode": "48540",
   "metro": "Wheeling, WV-OH",
   "date": "2026-07-25",
-  "are_you_ok": {
-    "title": "Mischief knocks out internet service to several thousand in Kanawha County",
-    "summary": "Internet service knocked out for several thousand in Kanawha County (Charleston metro) due to equipment theft. Diffuse local outage affecting a broad local population; a manager might check in on whether they were affected.",
-    "source": "WV MetroNews",
-    "topic": "transportation",
-    "url": "https://wvmetronews.com/2026/07/25/mischief-knocks-out-internet-service-to-several-thousand-in-kanawha-county/",
-    "published_at": "2026-07-25T17:48:11+00:00",
-    "image": {
-      "url": "https://s3.us-east-005.backblazeb2.com/wvmn-s3/2026/07/Optimum-Outage-300x283.jpg",
-      "alt": ""
-    },
-    "description": "Thieves target an Optimum operation in St. Albans, damaging equipment and knocking out service to customers The post Mischief knocks out internet service to several thousand in Kanawha County appeared first on WV MetroNews."
-  },
+  "are_you_ok": [
+    {
+      "title": "Mischief knocks out internet service to several thousand in Kanawha County",
+      "summary": "Internet service knocked out for several thousand in Kanawha County (Charleston metro) due to equipment theft. Diffuse local outage affecting a broad local population; a manager might check in on whether they were affected.",
+      "source": "WV MetroNews",
+      "topic": "transportation",
+      "url": "https://wvmetronews.com/2026/07/25/mischief-knocks-out-internet-service-to-several-thousand-in-kanawha-county/",
+      "published_at": "2026-07-25T17:48:11+00:00",
+      "image": {
+        "url": "https://s3.us-east-005.backblazeb2.com/wvmn-s3/2026/07/Optimum-Outage-300x283.jpg",
+        "alt": ""
+      },
+      "description": "Thieves target an Optimum operation in St. Albans, damaging equipment and knocking out service to customers The post Mischief knocks out internet service to several thousand in Kanawha County appeared first on WV MetroNews."
+    }
+  ],
   "conversation_starters": [],
   "sports": [],
   "you_should_know": [

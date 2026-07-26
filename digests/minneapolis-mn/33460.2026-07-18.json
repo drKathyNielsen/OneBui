@@ -3,16 +3,18 @@
   "metroCode": "33460",
   "metro": "Minneapolis-St. Paul-Bloomington, MN-WI",
   "date": "2026-07-18",
-  "are_you_ok": {
-    "title": "Air quality alert issued for much of Minnesota as wildfire smoke pushes AQI into red category",
-    "summary": "Wildfire smoke pushing AQI into red across much of MN affects the broad local population's health/daily life — genuine check-in.",
-    "description": "The Minnesota Pollution Control Agency has issued an air quality alert for eastern Minnesota.",
-    "topic": "air-quality",
-    "url": "https://www.kare11.com/article/news/local/air-quality-alert-issued-for-much-of-minnesota-wildfire-smoke-pushes-aqi-into-red-category/89-d5f6673a-6112-4403-a3aa-b964786d9727",
-    "published_at": "2026-07-18T23:01:31+00:00",
-    "image": null,
-    "source": "KARE 11"
-  },
+  "are_you_ok": [
+    {
+      "title": "Air quality alert issued for much of Minnesota as wildfire smoke pushes AQI into red category",
+      "summary": "Wildfire smoke pushing AQI into red across much of MN affects the broad local population's health/daily life — genuine check-in.",
+      "description": "The Minnesota Pollution Control Agency has issued an air quality alert for eastern Minnesota.",
+      "topic": "air-quality",
+      "url": "https://www.kare11.com/article/news/local/air-quality-alert-issued-for-much-of-minnesota-wildfire-smoke-pushes-aqi-into-red-category/89-d5f6673a-6112-4403-a3aa-b964786d9727",
+      "published_at": "2026-07-18T23:01:31+00:00",
+      "image": null,
+      "source": "KARE 11"
+    }
+  ],
   "conversation_starters": [
     {
       "title": "Minneapolis Aquatennial kicks off 87th year with Model Sailboat Pond",

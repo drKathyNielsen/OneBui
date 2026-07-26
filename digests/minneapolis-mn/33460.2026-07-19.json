@@ -3,15 +3,17 @@
   "metroCode": "33460",
   "metro": "Minneapolis-St. Paul-Bloomington, MN-WI",
   "date": "2026-07-19",
-  "are_you_ok": {
-    "title": "9 injured in an overnight shooting outside Minneapolis nightclub",
-    "summary": "Mass shooting outside Minneapolis nightclub, 9 injured — major widely-known local event affecting the metro; a check-in impulse fits.",
-    "source": "KARE 11",
-    "topic": "violent-crime",
-    "url": "https://www.kare11.com/article/news/local/9-injured-in-an-overnight-shooting-outside-minneapolis-nightclub/89-1dd76b52-79bf-4075-ae42-050645118a91",
-    "published_at": "2026-07-19T19:12:59+00:00",
-    "image": null
-  },
+  "are_you_ok": [
+    {
+      "title": "9 injured in an overnight shooting outside Minneapolis nightclub",
+      "summary": "Mass shooting outside Minneapolis nightclub, 9 injured — major widely-known local event affecting the metro; a check-in impulse fits.",
+      "source": "KARE 11",
+      "topic": "violent-crime",
+      "url": "https://www.kare11.com/article/news/local/9-injured-in-an-overnight-shooting-outside-minneapolis-nightclub/89-1dd76b52-79bf-4075-ae42-050645118a91",
+      "published_at": "2026-07-19T19:12:59+00:00",
+      "image": null
+    }
+  ],
   "conversation_starters": [
     {
       "title": "Peruvian Festival to celebrate culture and heritage in Columbia Heights on July 26",

@@ -1,4 +1,5 @@
 import type { Article } from '../types';
+import Thumb from './Thumb';
 
 interface Props {
   heading: string;
@@ -13,18 +14,13 @@ export default function ArticleList({ heading, items }: Props) {
       <ol className="oneb-article-list list-unstyled">
         {items.map((item) => (
           <li key={item.url} className="oneb-article">
-            <div
-              className="oneb-thumb"
-              role={item.image ? undefined : 'img'}
-              aria-label={item.image ? undefined : 'No image available'}
-            >
-              {item.image && <img src={item.image} alt={item.alt ?? ''} />}
-            </div>
+            <Thumb article={item} />
             <div className="oneb-article-body">
               <h3 className="oneb-article-title">{item.title}</h3>
               <p className="oneb-article-desc">{item.description}</p>
+              {item.summary && <p className="oneb-article-summary">{item.summary}</p>}
               <p className="oneb-meta">
-                <a href={item.url} className="oneb-source-link">{item.source}</a> · {item.topic}
+                <a href={item.url} className="oneb-source-link" target="_blank" rel="noopener noreferrer">{item.source}</a> · {item.topic}
               </p>
             </div>
           </li>

@@ -1,6 +1,8 @@
-import { useState } from 'react';
+import { useEffect, useMemo, useState } from 'react';
 import { useAppearance } from './hooks/useAppearance';
-import { METROS } from './data/digests';
+import { metrosPromise, type Metro } from './data/digests';
+import type { Period } from './types';
+import { toCityViewModel, toWeeklyViewModel } from './utils/format';
 import TopNavBar from './components/TopNavBar';
 import CitySideBar from './components/CitySideBar';
 import NewsDigest from './components/NewsDigest';
@@ -8,23 +10,49 @@ import Footer from './components/Footer';
 
 export default function App() {
   const { style, theme, setStyle, setTheme } = useAppearance();
+  // Ingestion is lazy, so the manifest resolves asynchronously; null = loading.
+  const [metros, setMetros] = useState<Metro[] | null>(null);
   const [metroIdx, setMetroIdx] = useState(0);
-  const metro = METROS[metroIdx];
-  // Selected day; defaults to the current metro's newest available date.
-  const [date, setDate] = useState(metro?.days[0]?.date ?? '');
+  const [period, setPeriod] = useState<Period>('daily');
+  const [date, setDate] = useState('');
 
-  // Switching metros clamps the date to the new metro's newest day, since
-  // coverage differs (some metros have fewer days than others).
+  useEffect(() => {
+    metrosPromise.then((m) => {
+      setMetros(m);
+      setDate(m[0]?.days[0]?.date ?? '');
+    });
+  }, []);
+
+  const metro = metros?.[metroIdx];
+
+  // Switching metros clamps the day to the new metro's newest (coverage differs)
+  // and falls back to Daily if the new metro has no weekly aggregate.
   function selectMetro(idx: number) {
+    const next = metros?.[idx];
+    if (!next) return;
     setMetroIdx(idx);
-    setDate(METROS[idx].days[0].date);
+    setDate(next.days[0].date);
+    if (!next.weekly) setPeriod('daily');
   }
 
-  if (!metro) {
+  const day = metro?.days.find((d) => d.date === date) ?? metro?.days[0];
+
+  const vm = useMemo(() => {
+    if (!metro || !day) return null;
+    return period === 'weekly' && metro.weekly ? toWeeklyViewModel(metro.weekly) : toCityViewModel(day.data);
+  }, [metro, day, period]);
+
+  if (!metros) {
+    return (
+      <div className="oneb-root" data-style={style} data-theme={theme}>
+        <p className="oneb-loading" role="status">Loading digests…</p>
+      </div>
+    );
+  }
+
+  if (!metro || !day || !vm) {
     return <div className="oneb-root" data-style={style} data-theme={theme}>No digests available.</div>;
   }
-
-  const day = metro.days.find((d) => d.date === date) ?? metro.days[0];
 
   return (
     <div className="oneb-root" data-style={style} data-theme={theme}>
@@ -33,10 +61,18 @@ export default function App() {
         <div className="container-fluid">
           <div className="row">
             <div className="col-12 col-md-3 col-lg-2 oneb-sidebar-col">
-              <CitySideBar metros={METROS} metroIdx={metroIdx} onSelect={selectMetro} />
+              <CitySideBar metros={metros} metroIdx={metroIdx} onSelect={selectMetro} />
             </div>
             <div className="col-12 col-md-9 col-lg-10 oneb-content-col">
-              <NewsDigest city={day.data} days={metro.days} selectedDate={day.date} onDaySelect={setDate} />
+              <NewsDigest
+                vm={vm}
+                days={metro.days}
+                hasWeekly={metro.weekly !== null}
+                period={period}
+                selectedDate={day.date}
+                onPeriodChange={setPeriod}
+                onDaySelect={setDate}
+              />
             </div>
           </div>
         </div>

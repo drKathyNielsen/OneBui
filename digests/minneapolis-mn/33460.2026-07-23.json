@@ -3,16 +3,18 @@
   "metroCode": "33460",
   "metro": "Minneapolis-St. Paul-Bloomington, MN-WI",
   "date": "2026-07-23",
-  "are_you_ok": {
-    "title": "Edina officials ask public to avoid contact with Lake Cornelia",
-    "summary": "Edina (Twin Cities metro) health advisory to avoid lake contact — a discrete local exposure event landing on residents who use the lake. Are-you-ok fits as a local safety condition.",
-    "source": "KARE 11",
-    "topic": "public-health",
-    "url": "https://www.kare11.com/article/news/local/edina-officials-ask-public-to-avoid-contact-with-lake-cornelia-mn/89-f871c9ef-da3f-4350-906d-0fdf3b0a931e",
-    "published_at": "2026-07-23T17:40:18+00:00",
-    "image": null,
-    "description": "\"The public should avoid contact with the water as conditions can rapidly change,\" according to city officials."
-  },
+  "are_you_ok": [
+    {
+      "title": "Edina officials ask public to avoid contact with Lake Cornelia",
+      "summary": "Edina (Twin Cities metro) health advisory to avoid lake contact — a discrete local exposure event landing on residents who use the lake. Are-you-ok fits as a local safety condition.",
+      "source": "KARE 11",
+      "topic": "public-health",
+      "url": "https://www.kare11.com/article/news/local/edina-officials-ask-public-to-avoid-contact-with-lake-cornelia-mn/89-f871c9ef-da3f-4350-906d-0fdf3b0a931e",
+      "published_at": "2026-07-23T17:40:18+00:00",
+      "image": null,
+      "description": "\"The public should avoid contact with the water as conditions can rapidly change,\" according to city officials."
+    }
+  ],
   "conversation_starters": [
     {
       "title": "Loring Park Art Festival brings 165 artists, live music, and fashion shows to Minneapolis this weeke",

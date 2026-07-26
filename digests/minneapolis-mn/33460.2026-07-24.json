@@ -3,19 +3,21 @@
   "metroCode": "33460",
   "metro": "Minneapolis-St. Paul-Bloomington, MN-WI",
   "date": "2026-07-24",
-  "are_you_ok": {
-    "title": "Extreme heat: How to stay safe, where to cool off in the Twin Cities",
-    "summary": "Extreme heat event coming to Twin Cities; broad population safety concern, genuine check-in.",
-    "source": "FOX 9",
-    "topic": "heat",
-    "url": "https://www.fox9.com/news/extreme-heat-how-stay-safe-where-cool-off-twin-cities-june-29-2026",
-    "published_at": "2026-07-24T22:58:45+00:00",
-    "image": {
-      "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/06/vlcsnap-2026-06-29-15h54m16s413.jpg",
-      "alt": ""
-    },
-    "description": "A stretch of extremely high temperatures will work its way across Minnesota again in the week ahead. Here's a compilation of useful information to stay safe, conserve energy and beat the heat."
-  },
+  "are_you_ok": [
+    {
+      "title": "Extreme heat: How to stay safe, where to cool off in the Twin Cities",
+      "summary": "Extreme heat event coming to Twin Cities; broad population safety concern, genuine check-in.",
+      "source": "FOX 9",
+      "topic": "heat",
+      "url": "https://www.fox9.com/news/extreme-heat-how-stay-safe-where-cool-off-twin-cities-june-29-2026",
+      "published_at": "2026-07-24T22:58:45+00:00",
+      "image": {
+        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/06/vlcsnap-2026-06-29-15h54m16s413.jpg",
+        "alt": ""
+      },
+      "description": "A stretch of extremely high temperatures will work its way across Minnesota again in the week ahead. Here's a compilation of useful information to stay safe, conserve energy and beat the heat."
+    }
+  ],
   "conversation_starters": [
     {
       "title": "New sustainable aviation fuel facility in Minnesota will start producing 30 million gallons per year for MSP flights",

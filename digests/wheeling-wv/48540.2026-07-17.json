@@ -3,15 +3,17 @@
   "metroCode": "48540",
   "metro": "Wheeling, WV-OH",
   "date": "2026-07-17",
-  "are_you_ok": {
-    "title": "Smoke filled skies across the Ohio Valley due to Canadian wildfires, meteorologists weigh in",
-    "summary": "Smoke-filled skies across Ohio Valley from Canadian wildfires — the meteorological cause affecting the whole area. Broad check-in.",
-    "topic": "air-quality",
-    "url": "https://www.wtrf.com/news/smoke-filled-skies-across-the-ohio-valley-due-to-canadian-wildfires-meteorologists-weigh-in/",
-    "published_at": "2026-07-17T22:11:06+00:00",
-    "image": null,
-    "source": "Wheeling News and Weather"
-  },
+  "are_you_ok": [
+    {
+      "title": "Smoke filled skies across the Ohio Valley due to Canadian wildfires, meteorologists weigh in",
+      "summary": "Smoke-filled skies across Ohio Valley from Canadian wildfires — the meteorological cause affecting the whole area. Broad check-in.",
+      "topic": "air-quality",
+      "url": "https://www.wtrf.com/news/smoke-filled-skies-across-the-ohio-valley-due-to-canadian-wildfires-meteorologists-weigh-in/",
+      "published_at": "2026-07-17T22:11:06+00:00",
+      "image": null,
+      "source": "Wheeling News and Weather"
+    }
+  ],
   "conversation_starters": [],
   "sports": [],
   "you_should_know": [
