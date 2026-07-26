@@ -1,7 +1,7 @@
 import { useMemo } from 'react';
 import type { RawCity } from '../types';
 import type { MetroDay } from '../data/digests';
-import { toCityViewModel, formatDate, dayChipLabel } from '../utils/format';
+import { toCityViewModel, dayChipLabel } from '../utils/format';
 import PeriodNav from './PeriodNav';
 import AreTheyOk from './AreTheyOk';
 import ArticleList from './ArticleList';
@@ -19,7 +19,6 @@ interface Props {
 // tablet (>=768px), three columns side by side on desktop (>=992px).
 export default function NewsDigest({ city: raw, days, selectedDate, onDaySelect }: Props) {
   const city = useMemo(() => toCityViewModel(raw), [raw]);
-  const dates = formatDate(raw.date);
   const dayOptions = useMemo(() => days.map((d) => ({ iso: d.date, label: dayChipLabel(d.date) })), [days]);
 
   return (
@@ -27,7 +26,7 @@ export default function NewsDigest({ city: raw, days, selectedDate, onDaySelect 
       <header className="oneb-masthead">
         <p className="oneb-kicker">Section 1B — Local brief</p>
         <h1 className="oneb-city-name">{city.shortName}</h1>
-        <p className="oneb-date">{dates.long}</p>
+        <p className="oneb-date">{city.dateLong}</p>
       </header>
 
       <PeriodNav days={dayOptions} selectedIso={selectedDate} onDaySelect={onDaySelect} />

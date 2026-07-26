@@ -51,7 +51,6 @@ export interface DayOption {
 export interface CityViewModel {
   shortName: string;
   dateLong: string;
-  dateShort: string;
   hasAreOk: boolean;
   areOk: Article | null;
   hasStarters: boolean;

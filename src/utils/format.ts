@@ -7,16 +7,10 @@ export function topicLabel(t: string): string {
 const DOW = ['SUNDAY', 'MONDAY', 'TUESDAY', 'WEDNESDAY', 'THURSDAY', 'FRIDAY', 'SATURDAY'];
 const MON = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
 
-export function formatDate(iso: string): { long: string; short: string } {
+// Masthead date, e.g. "THURSDAY, JULY 23, 2026".
+function formatDate(iso: string): string {
   const d = new Date(iso + 'T12:00:00');
-  const dow = DOW[d.getDay()];
-  const mon = MON[d.getMonth()];
-  const day = d.getDate();
-  const year = d.getFullYear();
-  return {
-    long: dow + ', ' + mon.toUpperCase() + ' ' + day + ', ' + year,
-    short: dow.charAt(0) + dow.slice(1).toLowerCase() + ', ' + mon + ' ' + day
-  };
+  return DOW[d.getDay()] + ', ' + MON[d.getMonth()].toUpperCase() + ' ' + d.getDate() + ', ' + d.getFullYear();
 }
 
 function mapItem(it: RawArticle): Article {
@@ -31,12 +25,10 @@ export function dayChipLabel(iso: string): string {
 }
 
 export function toCityViewModel(raw: RawCity): CityViewModel {
-  const dates = formatDate(raw.date);
   const areOk = raw.are_you_ok ? mapItem(raw.are_you_ok) : null;
   return {
     shortName: raw.shortName,
-    dateLong: dates.long,
-    dateShort: dates.short,
+    dateLong: formatDate(raw.date),
     hasAreOk: !!raw.are_you_ok,
     areOk,
     hasStarters: raw.conversation_starters.length > 0,

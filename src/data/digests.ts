@@ -51,6 +51,13 @@ function buildManifest(): Metro[] {
     if (!parsed) continue;
     const data = mod.default;
     if (!isValidCity(data)) continue;
+    // The filename date drives navigation while the body date drives the
+    // masthead; a mismatch would show a date that disagrees with the chosen
+    // day. Skip such a file rather than render an inconsistent digest.
+    if (data.date !== parsed.date) {
+      console.warn(`Digest date mismatch: ${path} body date ${data.date} != filename ${parsed.date}; skipping.`);
+      continue;
+    }
 
     let metro = bySlug.get(parsed.slug);
     if (!metro) {
