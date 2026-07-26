@@ -31,7 +31,7 @@
   --hairline: #2c2820;
   --hairline-soft: #423d2f;
   --ink: #f2ede0;
-  --text-secondary: #948f80;
+  --text-secondary: #a7a291; /* 4.5:1+ normal text on --surface (card) and --bg */
   --text-body: #b4af9f;
   --badge-bg: #ece7d9;
   --badge-text: #17150f;
@@ -75,7 +75,7 @@
   --text-body: #a7b0c0;
   --badge-bg: #4677b8; /* 4.57:1 with white text */
   --badge-text: #ffffff;
-  --accent: #4677b8;
+  --accent: #6f9fd6; /* links: 4.5:1+ normal text on both --bg and --surface */
   --heading-font: 'Newsreader', serif;
   --label-font: 'Inter', sans-serif;
   --body-font: 'Inter', sans-serif;
