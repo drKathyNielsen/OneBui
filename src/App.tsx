@@ -1,8 +1,9 @@
-import { useEffect, useMemo, useState } from 'react';
+import { useCallback, useEffect, useMemo, useState } from 'react';
 import { useAppearance } from './hooks/useAppearance';
 import { metrosPromise, type Metro } from './data/digests';
 import type { Period } from './types';
 import { toCityViewModel, toWeeklyViewModel } from './utils/format';
+import { parseViewParams, resolveViewParams, toSearch } from './utils/viewParams';
 import TopNavBar from './components/TopNavBar';
 import CitySideBar from './components/CitySideBar';
 import NewsDigest from './components/NewsDigest';
@@ -16,12 +17,44 @@ export default function App() {
   const [period, setPeriod] = useState<Period>('daily');
   const [date, setDate] = useState('');
 
+  // Initialize view state from the URL once the manifest resolves (slugs/dates
+  // can only be validated against the loaded metros); canonicalize if corrected.
   useEffect(() => {
     metrosPromise.then((m) => {
       setMetros(m);
-      setDate(m[0]?.days[0]?.date ?? '');
+      if (m.length === 0) return;
+      const resolved = resolveViewParams(parseViewParams(window.location.search), m);
+      setMetroIdx(resolved.metroIdx);
+      setPeriod(resolved.period);
+      setDate(resolved.date);
+      if (resolved.changed) window.history.replaceState(null, '', toSearch(resolved, m));
     });
   }, []);
+
+  // Apply a selection to state and push it to the URL (a navigable history step).
+  const navigate = useCallback(
+    (next: { metroIdx: number; period: Period; date: string }) => {
+      if (!metros) return;
+      setMetroIdx(next.metroIdx);
+      setPeriod(next.period);
+      setDate(next.date);
+      window.history.pushState(null, '', toSearch(next, metros));
+    },
+    [metros]
+  );
+
+  // Back/Forward: re-read the URL into state without writing back.
+  useEffect(() => {
+    if (!metros) return;
+    function onPop() {
+      const resolved = resolveViewParams(parseViewParams(window.location.search), metros!);
+      setMetroIdx(resolved.metroIdx);
+      setPeriod(resolved.period);
+      setDate(resolved.date);
+    }
+    window.addEventListener('popstate', onPop);
+    return () => window.removeEventListener('popstate', onPop);
+  }, [metros]);
 
   const metro = metros?.[metroIdx];
 
@@ -30,10 +63,12 @@ export default function App() {
   function selectMetro(idx: number) {
     const next = metros?.[idx];
     if (!next) return;
-    setMetroIdx(idx);
-    setDate(next.days[0].date);
-    if (!next.weekly) setPeriod('daily');
+    navigate({ metroIdx: idx, period: next.weekly ? period : 'daily', date: next.days[0].date });
   }
+
+  // Period toggle keeps the metro and selected day; day chips (daily-only) set the day.
+  const changePeriod = (p: Period) => navigate({ metroIdx, period: p, date });
+  const selectDay = (iso: string) => navigate({ metroIdx, period: 'daily', date: iso });
 
   const day = metro?.days.find((d) => d.date === date) ?? metro?.days[0];
 
@@ -70,8 +105,8 @@ export default function App() {
                 hasWeekly={metro.weekly !== null}
                 period={period}
                 selectedDate={day.date}
-                onPeriodChange={setPeriod}
-                onDaySelect={setDate}
+                onPeriodChange={changePeriod}
+                onDaySelect={selectDay}
               />
             </div>
           </div>
