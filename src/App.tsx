@@ -7,7 +7,14 @@ import { parseViewParams, resolveViewParams, toSearch } from './utils/viewParams
 import TopNavBar from './components/TopNavBar';
 import CitySideBar from './components/CitySideBar';
 import NewsDigest from './components/NewsDigest';
+import About from './components/About';
 import Footer from './components/Footer';
+
+// The About page is a static view outside the metro/date model, so it rides on
+// its own `?view=about` param rather than through resolveViewParams.
+function readIsAbout() {
+  return new URLSearchParams(window.location.search).get('view') === 'about';
+}
 
 export default function App() {
   const { style, theme, setStyle, setTheme } = useAppearance();
@@ -16,6 +23,9 @@ export default function App() {
   const [metroIdx, setMetroIdx] = useState(0);
   const [period, setPeriod] = useState<Period>('daily');
   const [date, setDate] = useState('');
+  // Static About view, tracked independently of the metro/date manifest so it
+  // works even before the digests resolve.
+  const [isAbout, setIsAbout] = useState(readIsAbout);
 
   // Initialize view state from the URL once the manifest resolves (slugs/dates
   // can only be validated against the loaded metros); canonicalize if corrected.
@@ -27,7 +37,9 @@ export default function App() {
       setMetroIdx(resolved.metroIdx);
       setPeriod(resolved.period);
       setDate(resolved.date);
-      if (resolved.changed) window.history.replaceState(null, '', toSearch(resolved, m));
+      // Seed the digest state above (so Back from About lands somewhere valid),
+      // but don't rewrite the URL while the About view owns it.
+      if (resolved.changed && !readIsAbout()) window.history.replaceState(null, '', toSearch(resolved, m));
     });
   }, []);
 
@@ -56,6 +68,24 @@ export default function App() {
     return () => window.removeEventListener('popstate', onPop);
   }, [metros]);
 
+  // Keep the About flag in sync on Back/Forward, independent of the manifest.
+  useEffect(() => {
+    function onPop() { setIsAbout(readIsAbout()); }
+    window.addEventListener('popstate', onPop);
+    return () => window.removeEventListener('popstate', onPop);
+  }, []);
+
+  function openAbout() {
+    window.history.pushState(null, '', '?view=about');
+    setIsAbout(true);
+  }
+  function closeAbout() {
+    // Return to the current digest URL (or a bare path if none resolved yet).
+    const target = metros ? toSearch({ metroIdx, period, date }, metros) : window.location.pathname;
+    window.history.pushState(null, '', target);
+    setIsAbout(false);
+  }
+
   const metro = metros?.[metroIdx];
 
   // Switching metros clamps the day to the new metro's newest (coverage differs)
@@ -76,6 +106,16 @@ export default function App() {
     if (!metro || !day) return null;
     return period === 'weekly' && metro.weekly ? toWeeklyViewModel(metro.weekly) : toCityViewModel(day.data);
   }, [metro, day, period]);
+
+  if (isAbout) {
+    return (
+      <div className="oneb-root" data-style={style} data-theme={theme}>
+        <TopNavBar style={style} theme={theme} onStyleChange={setStyle} onThemeChange={setTheme} />
+        <About onBack={closeAbout} />
+        <Footer onAbout={openAbout} />
+      </div>
+    );
+  }
 
   if (!metros) {
     return (
@@ -113,7 +153,7 @@ export default function App() {
           </div>
         </div>
       </div>
-      <Footer />
+      <Footer onAbout={openAbout} />
     </div>
   );
 }
