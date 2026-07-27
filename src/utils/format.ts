@@ -25,10 +25,21 @@ function formatRange(start: string, end: string): string {
   return 'Week of ' + startPart + sep + endPart;
 }
 
+// Short published date for a weekly item, e.g. "Thu, Jul 24" — the weekday
+// anchors *when* a story happened across the coverage range. Derived from the
+// date portion only (anchored to noon) so a UTC offset can't drift the day.
+function formatItemDate(iso: string): string {
+  const d = new Date(iso.slice(0, 10) + 'T12:00:00');
+  const dow = DOW[d.getDay()][0] + DOW[d.getDay()].slice(1, 3).toLowerCase(); // "Thu"
+  return dow + ', ' + MON_SHORT[d.getMonth()] + ' ' + d.getDate();
+}
+
 // `summary` is shown only for grouped items — a weekly item that clusters a
 // multi-day sequence (carries a `thread`), where the summary narrates the arc.
 // Single items (no thread) carry an incidental summary we don't surface.
-function mapItem(it: RawArticle): Article {
+// `withDate` surfaces each item's published date (weekly only), since weekly
+// items span the coverage range rather than sharing one masthead date.
+function mapItem(it: RawArticle, withDate = false): Article {
   const isGroup = Array.isArray(it.thread) && it.thread.length > 0;
   return {
     title: it.title,
@@ -39,6 +50,7 @@ function mapItem(it: RawArticle): Article {
     source: it.source,
     topic: topicLabel(it.topic),
     summary: isGroup ? it.summary : undefined,
+    dateLabel: withDate && it.published_at ? formatItemDate(it.published_at) : undefined,
   };
 }
 
@@ -56,9 +68,9 @@ export function toCityViewModel(raw: RawCity): DigestViewModel {
     shortName: raw.shortName,
     dateLong: formatDate(raw.date),
     rangeLabel: '',
-    areOk: raw.are_you_ok.map(mapItem),
-    starters: raw.conversation_starters.map(mapItem),
-    know: raw.you_should_know.map(mapItem),
+    areOk: raw.are_you_ok.map((it) => mapItem(it)),
+    starters: raw.conversation_starters.map((it) => mapItem(it)),
+    know: raw.you_should_know.map((it) => mapItem(it)),
     sports: raw.sports,
   };
 }
@@ -70,9 +82,9 @@ export function toWeeklyViewModel(raw: RawWeekly): DigestViewModel {
     shortName: raw.shortName,
     dateLong: '',
     rangeLabel: formatRange(raw.range.start, raw.range.end),
-    areOk: raw.are_you_ok.map(mapItem),
-    starters: raw.conversation_starters.map(mapItem),
-    know: raw.you_should_know.map(mapItem),
+    areOk: raw.are_you_ok.map((it) => mapItem(it, true)),
+    starters: raw.conversation_starters.map((it) => mapItem(it, true)),
+    know: raw.you_should_know.map((it) => mapItem(it, true)),
     sports: raw.sports,
   };
 }

@@ -20,6 +20,7 @@ export default function ArticleList({ heading, items }: Props) {
               <p className="oneb-article-desc">{item.description}</p>
               {item.summary && <p className="oneb-article-summary">{item.summary}</p>}
               <p className="oneb-meta">
+                {item.dateLabel && <>{item.dateLabel} · </>}
                 <a href={item.url} className="oneb-source-link" target="_blank" rel="noopener noreferrer">{item.source}</a> · {item.topic}
               </p>
             </div>

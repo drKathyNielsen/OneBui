@@ -12,6 +12,7 @@ export default function AreTheyOk({ article, eyebrow }: { article: Article; eyeb
       <p className="oneb-lead">{article.description}</p>
       {article.summary && <p className="oneb-lead oneb-lead--summary">{article.summary}</p>}
       <p className="oneb-meta">
+        {article.dateLabel && <>{article.dateLabel} · </>}
         <a href={article.url} className="oneb-source-link" target="_blank" rel="noopener noreferrer">{article.source}</a> · {article.topic}
       </p>
     </div>

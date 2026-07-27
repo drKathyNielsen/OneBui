@@ -54,6 +54,8 @@ export interface Article {
   image?: string; // resolved thumbnail URL
   alt?: string; // image alt text ('' when decorative/unknown)
   summary?: string; // editorial arc narration (weekly items); omitted when absent
+  dateLabel?: string; // short published date, e.g. "Jul 24"; set on weekly items so
+  // readers know *when* each story happened (daily items share the masthead date)
 }
 
 // Which period document is being shown. Daily is a single day's brief with a

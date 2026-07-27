@@ -54,6 +54,16 @@
         "click element [aria-label=\"Friendly\"]",
         "wait for element .oneb-root[data-style=\"friendly\"][data-theme=\"dark\"] to be visible"
       ]
+    },
+    {
+      "url": "http://localhost:4173/?metro=boulder-co&period=weekly"
+    },
+    {
+      "url": "http://localhost:4173/?metro=boulder-co&period=weekly",
+      "actions": [
+        "click element [aria-label^=\"Color theme\"]",
+        "wait for element .oneb-root[data-theme=\"dark\"] to be visible"
+      ]
     }
   ]
 }
