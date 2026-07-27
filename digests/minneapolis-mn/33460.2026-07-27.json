@@ -1,0 +1,85 @@
+{
+  "shortName": "Minneapolis, MN",
+  "metroCode": "33460",
+  "metro": "Minneapolis-St. Paul-Bloomington, MN-WI",
+  "date": "2026-07-27",
+  "are_you_ok": [
+    {
+      "title": "Dew point record set Monday in the Twin Cities as heat advisory continues",
+      "summary": "Record dew point in Twin Cities, heat advisory continues — diffuse heat effect landing on the whole metro. Appeal: are you ok — extreme heat/humidity affecting broad local population.",
+      "source": "CBS Minnesota",
+      "topic": "heat",
+      "url": "https://www.cbsnews.com/minnesota/news/minnesota-weather-july-27-2026/",
+      "published_at": "2026-07-27T14:26:20+00:00",
+      "image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/07/15/13aaf65c-46a9-4030-9f95-0dde1467154a/thumbnail/1024x576/1e5292d71e48addefa9cc20e9ae005a6/gettyimages-2149644773.jpg",
+        "alt": ""
+      },
+      "description": "The Twin Cities broke a record for dew point temperatures early Monday, reaching 81 degrees at 2 a.m. Humidity, however, will drop during another hot afternoon."
+    }
+  ],
+  "conversation_starters": [
+    {
+      "title": "Some BWCA entry points reopen for day passes, and more headlines",
+      "summary": "BWCA entry points reopen for day passes amid the northern wildfires — a mitigation/reopening (positive framing), work-safe opener about the north woods. Appeal: conversation starters. You could open with: 'Did you see parts of the Boundary Waters reopened for day trips?'",
+      "source": "CBS Minnesota",
+      "topic": "wildfire",
+      "url": "https://www.cbsnews.com/minnesota/video/some-bwca-entry-points-reopen-for-day-passes-and-more-headlines/",
+      "published_at": "2026-07-27T11:28:00+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/07/27/6a957d9a-8d7b-4a54-86d9-90cf065599b7/thumbnail/1024x576/305242efd10fc82443e94d564aab14f2/1eb0853abb07a4e0edf938040b15b9e8.jpg",
+        "alt": ""
+      },
+      "description": "Day trips will resume in some parts of the Boundary Waters Canoe Area Wilderness in northern Minnesota on Monday, plus more of the day’s top stories."
+    },
+    {
+      "title": "Minnesota DNR: More fish dying as heat, lack of rain persist",
+      "summary": "DNR reports more fish dying amid persistent heat and lack of rain — a slow-burn local condition, notable and work-safe. Appeal: conversation starters. You could open with: 'Did you see the DNR is getting all those fish-kill reports with the heat and no rain?'",
+      "source": "KARE 11",
+      "topic": "drought-water",
+      "url": "https://www.kare11.com/article/news/local/minnesota-dnr-fish-dying-as-heat-lack-of-rain-persist/89-131a5109-15e0-4183-a6ee-2288a72be48a",
+      "published_at": "2026-07-27T03:14:06+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/aa0d27a0-1364-4a1e-98bd-6a04b02d4c97/20260727T021705/aa0d27a0-1364-4a1e-98bd-6a04b02d4c97_750x422.jpg",
+        "alt": ""
+      },
+      "description": "So far this year, the Minnesota Department of Natural Resources has received 212 fish mortality reports across more than 100 bodies of water."
+    }
+  ],
+  "sports": [
+    {
+      "team": "Twins",
+      "scores": [
+        "Twins 11, Athletics 8"
+      ]
+    }
+  ],
+  "you_should_know": [
+    {
+      "title": "How to watch: Gov. Tim Walz to address northern Minnesota wildfires at Monday briefing",
+      "summary": "Gov's briefing on northern MN wildfires that have burned 72,500 acres. Distant point hazard (far northern MN, in-region for state but not the metro's immediate footprint) — awareness/context, not a check-in for metro residents. Appeal: you should know — political-institutional update on an ongoing crisis affecting the state.",
+      "source": "CBS Minnesota",
+      "topic": "wildfire",
+      "url": "https://www.cbsnews.com/minnesota/news/walz-northern-minnesota-wildfire-briefing-ely/",
+      "published_at": "2026-07-27T14:43:50+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/15/b96b54ab-c246-4e61-a238-55e6137be997/thumbnail/1024x576/1e654ab36c1534ed7e4f945de64460ff/12p-vo-t1-wildfires-wccoavik-1.jpg",
+        "alt": ""
+      },
+      "description": "Minnesota Gov. Tim Walz is expected to visit Ely Monday morning and provide updates about the effects of the ongoing wildfires that have devastated 72,500 acres of forest in the U.S. and Canada."
+    },
+    {
+      "title": "Ilhan Omar says her top priority remains Trump's immigration crackdown heading into midterms",
+      "summary": "Omar and her DFL primary field heading into midterms — this is election horse-race/campaign coverage, normally skipped. But it touches the Trump immigration crackdown, a local live topic. On the context-vs-noise boundary I lean keep per the inversion, as you should know. Not conversation starters (partisan).",
+      "source": "CBS Minnesota",
+      "topic": "elections-politics",
+      "url": "https://www.cbsnews.com/minnesota/news/ilhan-omar-top-priority-trump-immigration-crackdown-midterms/",
+      "published_at": "2026-07-27T10:42:00+00:00",
+      "image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/07/26/d3e6eb5d-4f6c-4917-b4da-9aaedbfdb3ca/thumbnail/1024x576/40280266d51739acc1eeaa1598ddeaaa/1030a-pkg-ilhan-omar-wccoay47.jpg",
+        "alt": ""
+      },
+      "description": "In the past few years, one of Minnesota's fiercest primary battles has been in the 5th Congressional District, which has been held since 2018 by Rep. Ilhan Omar."
+    }
+  ]
+}

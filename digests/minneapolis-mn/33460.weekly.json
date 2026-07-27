@@ -4,22 +4,22 @@
   "metroCode": "33460",
   "metro": "Minneapolis-St. Paul-Bloomington, MN-WI",
   "range": {
-    "start": "2026-07-20",
-    "end": "2026-07-26"
+    "start": "2026-07-21",
+    "end": "2026-07-27"
   },
   "are_you_ok": [
     {
-      "title": "Extreme heat: How to stay safe, where to cool off in the Twin Cities",
-      "summary": "Extreme heat gripped the metro through the weekend — a Sunday heat alert with possible severe storms, safety/cooling-center guidance, and enough danger to cancel the horse races at Canterbury Park. A direct, broad check-in on how the reader's contacts weathered the dangerous heat.",
-      "source": "FOX 9",
+      "title": "Dew point record set Monday in the Twin Cities as heat advisory continues",
+      "summary": "The week's defining weather story: an extreme heat wave with record dew points gripped the Twin Cities, prompting heat advisories and cooling-center guidance from July 24 through record-setting Monday — a metro-wide condition affecting everyone the reader might check on.",
+      "source": "CBS Minnesota",
       "topic": "heat",
-      "url": "https://www.fox9.com/news/extreme-heat-how-stay-safe-where-cool-off-twin-cities-june-29-2026",
-      "published_at": "2026-07-24T22:58:45+00:00",
+      "url": "https://www.cbsnews.com/minnesota/news/minnesota-weather-july-27-2026/",
+      "published_at": "2026-07-27T14:26:20+00:00",
       "image": {
-        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/06/vlcsnap-2026-06-29-15h54m16s413.jpg",
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/07/15/13aaf65c-46a9-4030-9f95-0dde1467154a/thumbnail/1024x576/1e5292d71e48addefa9cc20e9ae005a6/gettyimages-2149644773.jpg",
         "alt": ""
       },
-      "description": "A stretch of extremely high temperatures will work its way across Minnesota again in the week ahead. Here's a compilation of useful information to stay safe, conserve energy and beat the heat.",
+      "description": "The Twin Cities broke a record for dew point temperatures early Monday, reaching 81 degrees at 2 a.m. Humidity, however, will drop during another hot afternoon.",
       "thread": [
         {
           "title": "Extreme heat: How to stay safe, where to cool off in the Twin Cities",
@@ -35,125 +35,48 @@
           "description": "A stretch of extremely high temperatures will work its way across Minnesota again in the week ahead. Here's a compilation of useful information to stay safe, conserve energy and beat the heat."
         },
         {
-          "title": "NEXT Weather | 8 a.m. weather report for Saturday, July 25, 2026",
-          "summary": "Extreme heat and severe-weather alert coming to the metro — diffuse effect on broad local population, genuine check-in.",
+          "title": "Dew point record set Monday in the Twin Cities as heat advisory continues",
+          "summary": "Record dew point in Twin Cities, heat advisory continues — diffuse heat effect landing on the whole metro. Appeal: are you ok — extreme heat/humidity affecting broad local population.",
           "source": "CBS Minnesota",
           "topic": "heat",
-          "url": "https://www.cbsnews.com/minnesota/video/next-weather-8-a-m-weather-report-for-saturday-july-25-2026/",
-          "published_at": "2026-07-25T15:58:00+00:00",
+          "url": "https://www.cbsnews.com/minnesota/news/minnesota-weather-july-27-2026/",
+          "published_at": "2026-07-27T14:26:20+00:00",
           "image": {
-            "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/07/25/106d9431-150e-4229-a5a2-fea019b1fdd5/thumbnail/1024x576/847bff19d71acff9872249ab0132ed3b/ba1481d3421b2dec49ce1de0020ebe45.jpg",
+            "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/07/15/13aaf65c-46a9-4030-9f95-0dde1467154a/thumbnail/1024x576/1e5292d71e48addefa9cc20e9ae005a6/gettyimages-2149644773.jpg",
             "alt": ""
           },
-          "description": "The heat and humidity has returned. Feels like temperatures on Saturday will get into the triple digits, while high temps will be in the low 90s. Sunday will feel similar. Sunday also comes with a severe weather alert. Meteorologist Katie Steiner shares what you need to know for"
-        },
-        {
-          "title": "Extreme heat cancels Sunday horse races at Canterbury Park in Shakopee",
-          "summary": "Extreme heat with triple-digit heat indices is a diffuse effect blanketing the metro; genuine check-in condition. Canterbury Park cancellation is one visible impact of the wider heat event.",
-          "source": "KARE 11",
-          "topic": "heat",
-          "url": "https://www.kare11.com/article/news/local/extreme-heat-cancels-sunday-horse-races-at-canterbury-park-in-shakopee/89-d37d6c8a-1f9b-4bd4-b721-74eb707113d8",
-          "published_at": "2026-07-26T15:19:23+00:00",
-          "image": {
-            "url": "https://media.tegna-media.com/assets/KARE/images/0b1e0f50-35e8-4b88-827d-041d13213a28/20260414T170111/0b1e0f50-35e8-4b88-827d-041d13213a28_750x422.jpg",
-            "alt": ""
-          },
-          "description": "Extreme heat forces the cancellation of Sunday's horse races at Canterbury Park, with concern for safety under triple-digit heat indices."
-        },
-        {
-          "title": "NEXT Weather Alert for Sunday due to extreme heat; severe storms possible later in day",
-          "summary": "Extreme heat alert with severe storm risk for the metro area - genuine check-in worthy weather event",
-          "source": "CBS Minnesota",
-          "topic": "heat",
-          "url": "https://www.cbsnews.com/minnesota/news/extreme-heat-and-severe-weather-chances-in-minnesota-on-sunday/",
-          "published_at": "2026-07-26T16:46:38+00:00",
-          "image": {
-            "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/07/26/bafb0d6c-fe6d-47cc-a93a-685dc6907bc8/thumbnail/1024x576/42d0f1ae313d70306e67f3ed259016cd/gettyimages-824584008.jpg",
-            "alt": ""
-          },
-          "description": "WCCO has issued a NEXT Weather Alert for Sunday for temperatures in the mid-90s and peak heat indices around 105 degrees."
+          "description": "The Twin Cities broke a record for dew point temperatures early Monday, reaching 81 degrees at 2 a.m. Humidity, however, will drop during another hot afternoon."
         }
       ]
     },
     {
-      "title": "Two mass shootings rock Minneapolis in 20 hours, 14 shot and 1 dead",
-      "summary": "Two mass shootings struck Minneapolis within 20 hours, leaving 14 shot and 1 dead, with MPD scrambling to respond over the weekend. A close-to-home check-in on anyone connected to the affected neighborhoods.",
+      "title": "Minneapolis mass shootings: How MPD is responding to weekend violence",
+      "summary": "A weekend of mass shootings in Minneapolis; by July 21 MPD was detailing its response — close-to-home violence worth a genuine check-in with anyone in the metro.",
       "source": "FOX 9",
       "topic": "violent-crime",
-      "url": "https://www.fox9.com/news/two-mass-shootings-rock-minneapolis-20-hours-14-hurt-1-dead",
-      "published_at": "2026-07-20T23:13:19+00:00",
+      "url": "https://www.fox9.com/news/minneapolis-mass-shootings-how-mpd-is-responding-weekend-violence",
+      "published_at": "2026-07-21T14:06:02+00:00",
       "image": null,
-      "description": "A violent Sunday in Minneapolis left fourteen people wounded and one man dead after two mass shootings just hours and blocks apart.",
-      "thread": [
-        {
-          "title": "Two mass shootings rock Minneapolis in 20 hours, 14 shot and 1 dead",
-          "summary": "Major violent crime event affecting broad local population's sense of safety, discrete acute incident.",
-          "source": "FOX 9",
-          "topic": "violent-crime",
-          "url": "https://www.fox9.com/news/two-mass-shootings-rock-minneapolis-20-hours-14-hurt-1-dead",
-          "published_at": "2026-07-20T23:13:19+00:00",
-          "image": null,
-          "description": "A violent Sunday in Minneapolis left fourteen people wounded and one man dead after two mass shootings just hours and blocks apart."
-        },
-        {
-          "title": "Minneapolis mass shootings: How MPD is responding to weekend violence",
-          "summary": "Weekend mass shootings in Minneapolis affecting broad public safety; genuine check-in territory for metro residents.",
-          "source": "FOX 9",
-          "topic": "violent-crime",
-          "url": "https://www.fox9.com/news/minneapolis-mass-shootings-how-mpd-is-responding-weekend-violence",
-          "published_at": "2026-07-21T14:06:02+00:00",
-          "image": null,
-          "description": "Minneapolis police will make changes in both Uptown and Stevens Square after two mass shootings on Sunday. Here's what Chief Bill Peterson says the department is doing and why East 19th Street and Nicollet has been a problem."
-        }
-      ]
+      "description": "Minneapolis police will make changes in both Uptown and Stevens Square after two mass shootings on Sunday. Here's what Chief Bill Peterson says the department is doing and why East 19th Street and Nicollet has been a problem."
     }
   ],
   "conversation_starters": [
     {
-      "title": "Minnesota State Fair new beers, drinks for 2026",
-      "summary": "The State Fair's 2026 beer and drink lineup dropped — a light, universally-relatable Minnesota opener as fair season approaches.",
-      "source": "FOX 9",
+      "title": "Saint Paul's Rondo Block Party celebrates community with family fun and cultural events on Aug. 1",
+      "summary": "St. Paul's Rondo Block Party lands Aug. 1 with family fun and cultural events — a warm, easy metro opener people will recognize.",
+      "source": "KARE 11",
       "topic": "civic-events",
-      "url": "https://www.fox9.com/news/minnesota-state-fair-new-beers-drinks-2026",
-      "published_at": "2026-07-21T13:32:10+00:00",
-      "image": null,
-      "description": "The Minnesota State Fair announced 75 new specialty beers and drinks exclusive to this year's event."
-    },
-    {
-      "title": "Loring Park Art Festival brings 165 artists, live music, and fashion shows to Minneapolis this weeke",
-      "summary": "A weekend of city gatherings: the Loring Park Art Festival brought 165 artists, music and fashion to Minneapolis, alongside the returning Summer GDQ charity gaming marathon — easy weekend-plans small talk.",
-      "source": "CBS Minnesota",
-      "topic": "civic-events",
-      "url": "https://www.cbsnews.com/minnesota/video/loring-park-art-festival-brings-165-artists-live-music-and-fashion-shows-to-minneapolis-this-weeke/",
-      "published_at": "2026-07-23T15:24:00+00:00",
-      "image": null,
-      "description": "The two-day outdoor festival features visual artists, live music, a culinary market, and a fashion show both days at 1:30 p.m.",
-      "thread": [
-        {
-          "title": "Summer GDQ: The fundraiser that keeps on giving (and keeps on coming back)",
-          "summary": "Games Done Quick returned to Minneapolis for 10th year, raised $2.4M for charity — notable recurring metro event, work-safe. You could open with: 'Did you catch that gaming marathon in Minneapolis raised $2.4 million for charity?'",
-          "source": "KARE 11",
-          "topic": "civic-events",
-          "url": "https://www.kare11.com/article/news/local/kare11-extras/summer-gdq-the-fundraiser-that-keeps-on-giving-and-keeps-on-coming-back-mn/89-aa1557bf-0d32-4a24-bb90-ef4a1e3c42ce",
-          "published_at": "2026-07-22T03:24:15+00:00",
-          "image": null,
-          "description": "The video game fundraiser for Doctors Without Borders USA returned to Minneapolis for the 10th year, raising $2.4 million dollars."
-        },
-        {
-          "title": "Loring Park Art Festival brings 165 artists, live music, and fashion shows to Minneapolis this weeke",
-          "summary": "Marquee Minneapolis festival, good conversation starter. You could open with: 'Are you heading to the Loring Park Art Festival this weekend?'",
-          "source": "CBS Minnesota",
-          "topic": "civic-events",
-          "url": "https://www.cbsnews.com/minnesota/video/loring-park-art-festival-brings-165-artists-live-music-and-fashion-shows-to-minneapolis-this-weeke/",
-          "published_at": "2026-07-23T15:24:00+00:00",
-          "image": null,
-          "description": "The two-day outdoor festival features visual artists, live music, a culinary market, and a fashion show both days at 1:30 p.m."
-        }
-      ]
+      "url": "https://www.kare11.com/article/news/local/saint-pauls-rondo-block-party-celebrates-community-with-family-fun-and-cultural-events-on-aug-1/89-1a355937-b5da-4a6a-bd71-895641d4d791",
+      "published_at": "2026-07-26T20:36:48+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/7dc95da8-6250-401e-aa97-5886391e5840/20260726T190410/7dc95da8-6250-401e-aa97-5886391e5840_750x422.jpg",
+        "alt": ""
+      },
+      "description": "The Rondo Block Party returns on August 1, celebrating St. Paul's historic Rondo community with family fun, culture, wellness, engagement, and entrepreneurship."
     },
     {
       "title": "People named Ryan attempt to break record involving a roller coaster at MOA",
-      "summary": "A quirky record attempt at Mall of America by a crowd of people all named Ryan — the kind of oddball local story that gets a laugh at the coffee machine.",
+      "summary": "People named Ryan gathered at the Mall of America to attempt a roller-coaster record — the week's most delightfully odd, universally raisable icebreaker.",
       "source": "CBS Minnesota",
       "topic": "human-interest",
       "url": "https://www.cbsnews.com/minnesota/video/people-named-ryan-attempt-to-break-record-involving-a-roller-coaster-at-moa/",
@@ -165,8 +88,18 @@
       "description": "On Friday, the Mall of America invited anyone in the world named Ryan to show up for a same-name celebration. They attempted to break the World Record for \"most Ryans on a rollercoaster\" at Nickelodeon Universe."
     },
     {
+      "title": "Minnesota State Fair new beers, drinks for 2026",
+      "summary": "The Minnesota State Fair unveiled its 2026 lineup of new beers and drinks — perennial water-cooler fodder as fair season nears.",
+      "source": "FOX 9",
+      "topic": "civic-events",
+      "url": "https://www.fox9.com/news/minnesota-state-fair-new-beers-drinks-2026",
+      "published_at": "2026-07-21T13:32:10+00:00",
+      "image": null,
+      "description": "The Minnesota State Fair announced 75 new specialty beers and drinks exclusive to this year's event."
+    },
+    {
       "title": "St. Paul's Dragon Divas: How dragon boat racing became medicine for breast cancer survivors",
-      "summary": "St. Paul's Dragon Divas show how dragon boat racing became a source of healing for breast cancer survivors — a warm human-interest story with real emotional depth.",
+      "summary": "St. Paul's Dragon Divas — how dragon boat racing became medicine for breast cancer survivors — a moving human-interest thread that invites real exchange.",
       "source": "FOX 9",
       "topic": "human-interest",
       "url": "https://www.fox9.com/news/st-pauls-dragon-divas-racing-became-medicine-breast-cancer-survivors-july-2026",
@@ -175,34 +108,40 @@
       "description": "A local dragon boat racing team is making waves as they get ready to compete on the international stage."
     },
     {
-      "title": "Twin Cities gas prices rise to $3.93/gallon, could hit $4 within days",
-      "summary": "Twin Cities gas prices climbed toward $4/gallon this week, with broader driving and flying costs surging locally — a pocketbook topic nearly everyone in the metro can weigh in on.",
-      "source": "FOX 9",
-      "topic": "other",
-      "url": "https://www.fox9.com/news/twin-cities-gas-prices-rise-3-93-gallon-could-hit-4-within-days",
-      "published_at": "2026-07-20T20:29:52+00:00",
-      "image": null,
-      "description": "Gas prices are climbing again in the Twin Cities, and drivers are feeling the pinch at the pump.",
+      "title": "Some BWCA entry points reopen for day passes, and more headlines",
+      "summary": "BWCA entry points reopened for day passes as wildfire pressure eased — good news for the many Minnesotans with north-woods plans, tracked from Thursday's reopening announcement to Monday's day-pass opening.",
+      "source": "CBS Minnesota",
+      "topic": "wildfire",
+      "url": "https://www.cbsnews.com/minnesota/video/some-bwca-entry-points-reopen-for-day-passes-and-more-headlines/",
+      "published_at": "2026-07-27T11:28:00+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/07/27/6a957d9a-8d7b-4a54-86d9-90cf065599b7/thumbnail/1024x576/305242efd10fc82443e94d564aab14f2/1eb0853abb07a4e0edf938040b15b9e8.jpg",
+        "alt": ""
+      },
+      "description": "Day trips will resume in some parts of the Boundary Waters Canoe Area Wilderness in northern Minnesota on Monday, plus more of the day’s top stories.",
       "thread": [
         {
-          "title": "Twin Cities gas prices rise to $3.93/gallon, could hit $4 within days",
-          "summary": "Twin Cities gas prices nearing $4 — local everyday-cost story people notice. You could open with: 'Gas is creeping toward $4 again — you commute far?'",
-          "source": "FOX 9",
-          "topic": "other",
-          "url": "https://www.fox9.com/news/twin-cities-gas-prices-rise-3-93-gallon-could-hit-4-within-days",
-          "published_at": "2026-07-20T20:29:52+00:00",
+          "title": "Some Boundary Waters entry points to reopen on Monday",
+          "summary": "Boundary Waters partial reopening after wildfire closure — notable local-condition update. Reopening is a mitigation/benefit, not a check-in; distant point-hazard aftermath. Keep as conversation starter. You could open with: 'Did you see the Boundary Waters is reopening for day trips Monday after the fires?'",
+          "source": "CBS Minnesota",
+          "topic": "wildfire",
+          "url": "https://www.cbsnews.com/minnesota/news/boundary-waters-entry-points-reopen/",
+          "published_at": "2026-07-24T03:42:34+00:00",
           "image": null,
-          "description": "Gas prices are climbing again in the Twin Cities, and drivers are feeling the pinch at the pump."
+          "description": "Portions of the Boundary Waters Canoe Area Wilderness will reopen for day use starting Monday, after wildfires prompted a rare closure​ of the forest last week."
         },
         {
-          "title": "Driving and flying costs are surging again locally, but not for the same reasons",
-          "summary": "Rising local gas/flight costs — broadly relatable and work-safe. You could open with: 'Have you noticed gas hitting $4 again around here?'",
-          "source": "KARE 11",
-          "topic": "business-jobs",
-          "url": "https://www.kare11.com/article/news/local/breaking-the-news/driving-flying-costs-surging-again-btn/89-e4e3a94e-6759-4939-91da-5cf0f1b23400",
-          "published_at": "2026-07-23T02:30:59+00:00",
-          "image": null,
-          "description": "Analysts say this is the first year gas prices reached $4 a gallon in two separate surges."
+          "title": "Some BWCA entry points reopen for day passes, and more headlines",
+          "summary": "BWCA entry points reopen for day passes amid the northern wildfires — a mitigation/reopening (positive framing), work-safe opener about the north woods. Appeal: conversation starters. You could open with: 'Did you see parts of the Boundary Waters reopened for day trips?'",
+          "source": "CBS Minnesota",
+          "topic": "wildfire",
+          "url": "https://www.cbsnews.com/minnesota/video/some-bwca-entry-points-reopen-for-day-passes-and-more-headlines/",
+          "published_at": "2026-07-27T11:28:00+00:00",
+          "image": {
+            "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/07/27/6a957d9a-8d7b-4a54-86d9-90cf065599b7/thumbnail/1024x576/305242efd10fc82443e94d564aab14f2/1eb0853abb07a4e0edf938040b15b9e8.jpg",
+            "alt": ""
+          },
+          "description": "Day trips will resume in some parts of the Boundary Waters Canoe Area Wilderness in northern Minnesota on Monday, plus more of the day’s top stories."
         }
       ]
     }
@@ -210,243 +149,108 @@
   "you_should_know": [
     {
       "title": "Boelter sentenced to 2 life sentences plus 40 years for killing Hortmans, shooting Hoffmans",
-      "summary": "Vance Boelter's case reached its close this week: expected sentencing Thursday became two life sentences plus 40 years for killing the Hortmans and shooting the Hoffmans, with the state case still pending. A major, closely-watched Minnesota story.",
+      "summary": "The Vance Boelter case reached its climax: after a Thursday sentencing to two life terms plus 40 years for killing the Hortmans and shooting the Hoffmans, attention turned to where his state case stands — the week's most consequential local justice story.",
       "source": "CBS Minnesota",
       "topic": "violent-crime",
       "url": "https://www.cbsnews.com/minnesota/video/boelter-sentenced-to-2-life-sentences-plus-40-years-for-killing-hortmans-shooting-hoffmans/",
       "published_at": "2026-07-23T23:29:00+00:00",
       "image": null,
-      "description": "Vance Boelter was sentenced to 2 life sentences plus 40 years for killing Hortmans, shooting Hoffmans.",
-      "thread": [
-        {
-          "title": "Vance Boelter expected to be sentenced to life in prison Thursday for Minnesota lawmaker shootings",
-          "summary": "Major outcome (sentencing) in high-profile MN lawmaker shooting case.",
-          "source": "KARE 11",
-          "topic": "violent-crime",
-          "url": "https://www.kare11.com/article/news/local/vance-boelter-expected-to-be-sentenced-to-life-in-prison-thursday-for-minnesota-lawmaker-shootings/89-7080c202-2767-49c3-b60f-c42df8b1b983",
-          "published_at": "2026-07-22T23:14:41+00:00",
-          "image": null,
-          "description": "The U.S. Attorney's Office has called Boelter's crimes \"among the most serious ever committed in the District of Minnesota.\""
-        },
-        {
-          "title": "Boelter sentenced to 2 life sentences plus 40 years for killing Hortmans, shooting Hoffmans",
-          "summary": "Major outcome in high-profile political assassination case landing on MN.",
-          "source": "CBS Minnesota",
-          "topic": "violent-crime",
-          "url": "https://www.cbsnews.com/minnesota/video/boelter-sentenced-to-2-life-sentences-plus-40-years-for-killing-hortmans-shooting-hoffmans/",
-          "published_at": "2026-07-23T23:29:00+00:00",
-          "image": null,
-          "description": "Vance Boelter was sentenced to 2 life sentences plus 40 years for killing Hortmans, shooting Hoffmans."
-        },
-        {
-          "title": "Where does Vance Boelter's state case stand after federal sentencing?",
-          "summary": "Vance Boelter case — attack on elected officials (Hortman) is a high-impact current event landing on MN. Serious court context, unsafe partisan opener; you should know.",
-          "source": "KARE 11",
-          "topic": "violent-crime",
-          "url": "https://www.kare11.com/article/news/local/where-does-vance-boelter-state-case-stand-after-federal-sentencing/89-c904f5e4-1fa7-45de-ae16-d9f3994af405",
-          "published_at": "2026-07-24T03:27:43+00:00",
-          "image": null,
-          "description": "Boelter is scheduled to appear in Hennepin County court on Aug. 3 to face separate state charges that include premeditated murder and attempted first-degree murder."
-        }
-      ]
+      "description": "Vance Boelter was sentenced to 2 life sentences plus 40 years for killing Hortmans, shooting Hoffmans."
     },
     {
-      "title": "St. Paul encampment clearings begin in August, social services prepare for adjustments",
-      "summary": "St. Paul is preparing for encampment clearings beginning in August, authorizing $1 million to expand shelters as social services brace for the shift — a live local housing/homelessness question.",
-      "source": "FOX 9",
-      "topic": "housing",
-      "url": "https://www.fox9.com/news/st-paul-encampment-clearings-begin-august-social-services-prepare-adjustments",
-      "published_at": "2026-07-24T23:53:37+00:00",
-      "image": {
-        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/07/vlcsnap-2026-07-24-18h49m33s995.jpg",
-        "alt": ""
-      },
-      "description": "A new push to clear St. Paul’s homeless encampments next month has some social service organizations scrambling to adjust.",
-      "thread": [
-        {
-          "title": "St. Paul authorizes $1 million for expanding shelters ahead of planned encampment closures",
-          "summary": "St. Paul City Council funds shelter expansion ahead of encampment closures — a local government outcome on homelessness landing here. Institutional context, not a check-in or safe opener.",
-          "source": "CBS Minnesota",
-          "topic": "housing",
-          "url": "https://www.cbsnews.com/minnesota/news/st-paul-authorizes-1-million-for-shelters-ahead-of-encampment-closures/",
-          "published_at": "2026-07-23T12:47:26+00:00",
-          "image": null,
-          "description": "After officials in Minnesota's capital city announced they would shut down encampments​ for those experiencing homelessness, the City Council approved more than $1 million to expand capacity at local shelters."
-        },
-        {
-          "title": "St. Paul encampment clearings begin in August, social services prepare for adjustments",
-          "summary": "Planned encampment clearings — structural housing/homelessness condition landing on the metro; awareness context. Keep-when-unsure on the you-should-know boundary.",
-          "source": "FOX 9",
-          "topic": "housing",
-          "url": "https://www.fox9.com/news/st-paul-encampment-clearings-begin-august-social-services-prepare-adjustments",
-          "published_at": "2026-07-24T23:53:37+00:00",
-          "image": {
-            "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/07/vlcsnap-2026-07-24-18h49m33s995.jpg",
-            "alt": ""
-          },
-          "description": "A new push to clear St. Paul’s homeless encampments next month has some social service organizations scrambling to adjust."
-        }
-      ]
-    },
-    {
-      "title": "Congress members visit Whipple Federal Building: \"I was shocked to see that everyone in here has leg restraints\"",
-      "summary": "Immigration enforcement stayed prominent all week: a congressional visit to the Whipple Federal Building shocked members over leg restraints, a case was dismissed against a woman accused of hitting an ICE vehicle, memorials marked Alex Pretti six months after his death, and questions persisted over ICE body cameras and a reported FBI stand-down on ICE assault probes.",
+      "title": "How to watch: Gov. Tim Walz to address northern Minnesota wildfires at Monday briefing",
+      "summary": "Northern Minnesota wildfires dominated the week — evacuation orders lifted by July 26 as crews kept battling, with Gov. Walz set to brief on Monday; still distant but a statewide preoccupation.",
       "source": "CBS Minnesota",
-      "topic": "immigration-enforcement",
-      "url": "https://www.cbsnews.com/minnesota/news/whipple-federal-building-visit-omar-jayapal/",
-      "published_at": "2026-07-25T00:06:24+00:00",
-      "image": {
-        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/24/ecfee3ef-389d-4bf5-b4ad-e6ae52743e19/thumbnail/1024x576/87d7a942a66cbcd6f4eda471bb4d413c/4p-vo-whipple-tease-wccoaxud.jpg",
-        "alt": ""
-      },
-      "description": "U.S. Immigration and Customs Enforcement agents have been taking people they detain in Minnesota to the Whipple Federal Building for processing. On Friday, members of Congress were there for an oversight visit.",
-      "thread": [
-        {
-          "title": "FBI agents told to stand down on assault probes involving ICE officers; DOJ denies policy shift",
-          "summary": "National ICE-oversight policy story; part of enforcement climate context. Not a local check-in.",
-          "source": "CBS Minnesota",
-          "topic": "immigration-enforcement",
-          "url": "https://www.cbsnews.com/minnesota/news/fbi-immigration-agent-cases-deferred-hsi/",
-          "published_at": "2026-07-21T03:00:00+00:00",
-          "image": null,
-          "description": "Homeland Security Investigations is an arm of ICE, meaning the immigration enforcement agency would effectively be investigating incidents involving its own agents."
-        },
-        {
-          "title": "Profile in Courage award recipients call on MN congressional leaders to hold ICE accountable",
-          "summary": "Award recipients call on MN congressional leaders re ICE accountability — a letter/initiating action, but MN ICE-climate context. Keep-when-unsure on political context boundary.",
-          "source": "KARE 11",
-          "topic": "immigration-enforcement",
-          "url": "https://www.kare11.com/article/news/local/profile-in-courage-award-recipients-call-on-mn-congressional-leaders-to-hold-ice-accountable/89-6bb93114-7013-4451-9a32-c45303570715",
-          "published_at": "2026-07-22T22:18:55+00:00",
-          "image": null,
-          "description": "The four recipients wrote a letter addressing their concerns."
-        },
-        {
-          "title": "Do ICE agents use body cameras in Minnesota? Agency hasn't said, despite repeated asks",
-          "summary": "Local ICE enforcement climate context, part of ongoing MN immigration enforcement story.",
-          "source": "CBS Minnesota",
-          "topic": "immigration-enforcement",
-          "url": "https://www.cbsnews.com/minnesota/news/minnesota-activists-demand-ice-accountabilty-body-cameras-maine-texas-killings/",
-          "published_at": "2026-07-23T13:48:19+00:00",
-          "image": null,
-          "description": "Six months after federal agents shot and killed Alex Pretti in Minneapolis amid Operation Metro Surge, officials with Immigration and Customs Enforcement and the U.S. Department of Homeland Security still aren't giving a clear answer on whether their officers are equipped with"
-        },
-        {
-          "title": "Congress members visit Whipple Federal Building: \"I was shocked to see that everyone in here has leg restraints\"",
-          "summary": "Congressional oversight of ICE processing in MN — local enforcement climate, institutional context worth walking in aware of.",
-          "source": "CBS Minnesota",
-          "topic": "immigration-enforcement",
-          "url": "https://www.cbsnews.com/minnesota/news/whipple-federal-building-visit-omar-jayapal/",
-          "published_at": "2026-07-25T00:06:24+00:00",
-          "image": {
-            "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/24/ecfee3ef-389d-4bf5-b4ad-e6ae52743e19/thumbnail/1024x576/87d7a942a66cbcd6f4eda471bb4d413c/4p-vo-whipple-tease-wccoaxud.jpg",
-            "alt": ""
-          },
-          "description": "U.S. Immigration and Customs Enforcement agents have been taking people they detain in Minnesota to the Whipple Federal Building for processing. On Friday, members of Congress were there for an oversight visit."
-        },
-        {
-          "title": "Case dismissed against woman accused of crashing into ICE agent's vehicle in Inver Grove Heights",
-          "summary": "Court outcome tied to local ICE-enforcement climate; institutional context to walk in aware of, not a safe opener.",
-          "source": "KARE 11",
-          "topic": "immigration-enforcement",
-          "url": "https://www.kare11.com/article/news/local/ice-in-minnesota/case-dismissed-against-woman-accused-of-crashing-into-ice-agents-vehicle-inver-grove-heights/89-93c31925-8fad-42df-93c0-ddcbf49a26b5",
-          "published_at": "2026-07-25T00:41:12+00:00",
-          "image": {
-            "url": "https://media.tegna-media.com/assets/KARE/images/f53d2cff-aeeb-4747-b8a8-8bb2ad7a541c/f53d2cff-aeeb-4747-b8a8-8bb2ad7a541c_750x422.jpg",
-            "alt": ""
-          },
-          "description": "Federal prosecutors requested the case be dismissed after they said there wasn't enough evidence to support that the assault occurred."
-        },
-        {
-          "title": "People gather to remember Alex Pretti 6 months after his death by federal agents",
-          "summary": "Memorial for people killed by federal agents ties to the local immigration-enforcement climate; politically charged context the manager should walk in aware of but not raise.",
-          "source": "KARE 11",
-          "topic": "immigration-enforcement",
-          "url": "https://www.kare11.com/article/news/local/ice-in-minnesota/alex-pretti-6-months-vigil-ice/89-373055c1-dba0-47d5-a6d3-64f80ab952d9",
-          "published_at": "2026-07-26T03:06:53+00:00",
-          "image": {
-            "url": "https://media.tegna-media.com/assets/KARE/images/f95bfbc8-a2ac-4275-8548-f8774eef8bd4/20260725T234013/f95bfbc8-a2ac-4275-8548-f8774eef8bd4_750x422.jpg",
-            "alt": ""
-          },
-          "description": "People are gathering Saturday to remember not just Alex Pretti and Renee Good, but others who have been killed by federal agents."
-        }
-      ]
-    },
-    {
-      "title": "CDC to cut off $450K in HIV prevention funds in Minneapolis",
-      "summary": "The CDC is cutting off $450K in HIV prevention funding in Minneapolis — a concrete local public-health impact worth walking in aware of.",
-      "source": "KARE 11",
-      "topic": "public-health",
-      "url": "https://www.kare11.com/article/news/local/cdc-to-cut-off-450k-in-hiv-prevention-funds-in-minneapolis/89-a8ccbaca-89fb-4193-b36b-2bed1097e132",
-      "published_at": "2026-07-24T13:36:43+00:00",
-      "image": null,
-      "description": "The Aliveness Project stated the CDC would not renew the grant that provides $450K annually."
-    },
-    {
-      "title": "Officials anticipating 'peak fire weather conditions' in northern MN Friday",
-      "summary": "Northern Minnesota wildfires escalated toward 'peak fire weather' Friday, with new fires detected and the Boundary Waters closed — even prompting resort owners to rewrite cancellation policies as the burn dragged on.",
-      "source": "KARE 11",
       "topic": "wildfire",
-      "url": "https://www.kare11.com/article/news/local/officials-anticipating-peak-fire-weather-conditions-in-northern-mn-friday/89-0826c222-aba9-49f9-b226-884d83cbd6c8",
-      "published_at": "2026-07-24T19:34:21+00:00",
+      "url": "https://www.cbsnews.com/minnesota/news/walz-northern-minnesota-wildfire-briefing-ely/",
+      "published_at": "2026-07-27T14:43:50+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/KARE/images/7a0ace47-c64f-4121-beb2-316f30d98e50/20260722T000700/7a0ace47-c64f-4121-beb2-316f30d98e50_750x422.jpg",
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/15/b96b54ab-c246-4e61-a238-55e6137be997/thumbnail/1024x576/1e654ab36c1534ed7e4f945de64460ff/12p-vo-t1-wildfires-wccoavik-1.jpg",
         "alt": ""
       },
-      "description": "As of Friday, 1,096 people were working on the July Lightning Incident, while another 69 people were on the Little Knife Fire, which is about 13% contained.",
+      "description": "Minnesota Gov. Tim Walz is expected to visit Ely Monday morning and provide updates about the effects of the ongoing wildfires that have devastated 72,500 acres of forest in the U.S. and Canada.",
       "thread": [
         {
-          "title": "Fire crews detect 3 new wildfires in northern MN; Boundary Waters remain closed",
-          "summary": "Ongoing wildfire condition affecting northern MN, Boundary Waters closure - regional impact.",
-          "source": "KARE 11",
+          "title": "Evacuation orders lifted for parts of northern Minnesota as crews continue battling wildfires",
+          "summary": "Evacuation orders lifted for parts of northern MN as wildfire conditions improve — continuation of the northern wildfires incident, positive/mitigation update. Distant from the metro (in-region for the state), so awareness not check-in. Appeal: you should know.",
+          "source": "CBS Minnesota",
           "topic": "wildfire",
-          "url": "https://www.kare11.com/article/news/local/fire-crews-detect-3-new-wildfires-in-northern-minnesota-boundary-waters-remain-closed/89-1b896812-5a38-450b-983c-0fd6b6e850cd",
-          "published_at": "2026-07-20T22:39:03+00:00",
-          "image": null,
-          "description": "According to the U.S. Forest Service, more than 63,000 acres have burned in northern Minnesota, with another 8,400 crossing over into Canada."
-        },
-        {
-          "title": "Resort owners change longstanding cancellation policies as wildfires keep burning in BWCA",
-          "summary": "Ongoing BWCA wildfires affecting resort/tourism policies; walk-in-aware context on a slow-burn local condition.",
-          "source": "KARE 11",
-          "topic": "wildfire",
-          "url": "https://www.kare11.com/article/news/local/breaking-the-news/resort-owners-change-longstanding-cancelation-policies-as-wildfires-keep-burning-in-bwca/89-5d31de09-f542-485f-957f-2f0821509ec6",
-          "published_at": "2026-07-23T02:51:01+00:00",
-          "image": null,
-          "description": "On Wednesday, Superior National Forest officials said the combined acreage of all the fires is 63,594."
-        },
-        {
-          "title": "Officials anticipating 'peak fire weather conditions' in northern MN Friday",
-          "summary": "Peak fire weather conditions and active fires in northern MN; distant point hazard but relevant regional context for the state.",
-          "source": "KARE 11",
-          "topic": "wildfire",
-          "url": "https://www.kare11.com/article/news/local/officials-anticipating-peak-fire-weather-conditions-in-northern-mn-friday/89-0826c222-aba9-49f9-b226-884d83cbd6c8",
-          "published_at": "2026-07-24T19:34:21+00:00",
+          "url": "https://www.cbsnews.com/minnesota/news/st-louis-county-wildfires-evacuation-order-update/",
+          "published_at": "2026-07-26T22:27:59+00:00",
           "image": {
-            "url": "https://media.tegna-media.com/assets/KARE/images/7a0ace47-c64f-4121-beb2-316f30d98e50/20260722T000700/7a0ace47-c64f-4121-beb2-316f30d98e50_750x422.jpg",
+            "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/26/10aaf211-32e6-4b84-8384-39e9426fd120/thumbnail/1024x576/12b973b0116b0662aec103535c2b1f4a/tease-1-b-vo-wildfires-wccoaxz6.jpg",
             "alt": ""
           },
-          "description": "As of Friday, 1,096 people were working on the July Lightning Incident, while another 69 people were on the Little Knife Fire, which is about 13% contained."
+          "description": "Officials in northern Minnesota say some residents will be allowed to return to their homes as wildfire conditions improve."
+        },
+        {
+          "title": "How to watch: Gov. Tim Walz to address northern Minnesota wildfires at Monday briefing",
+          "summary": "Gov's briefing on northern MN wildfires that have burned 72,500 acres. Distant point hazard (far northern MN, in-region for state but not the metro's immediate footprint) — awareness/context, not a check-in for metro residents. Appeal: you should know — political-institutional update on an ongoing crisis affecting the state.",
+          "source": "CBS Minnesota",
+          "topic": "wildfire",
+          "url": "https://www.cbsnews.com/minnesota/news/walz-northern-minnesota-wildfire-briefing-ely/",
+          "published_at": "2026-07-27T14:43:50+00:00",
+          "image": {
+            "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/15/b96b54ab-c246-4e61-a238-55e6137be997/thumbnail/1024x576/1e654ab36c1534ed7e4f945de64460ff/12p-vo-t1-wildfires-wccoavik-1.jpg",
+            "alt": ""
+          },
+          "description": "Minnesota Gov. Tim Walz is expected to visit Ely Monday morning and provide updates about the effects of the ongoing wildfires that have devastated 72,500 acres of forest in the U.S. and Canada."
         }
       ]
+    },
+    {
+      "title": "People gather to remember Alex Pretti 6 months after his death by federal agents",
+      "summary": "Mourners gathered to mark six months since Alex Pretti's death by federal agents — a raw local flashpoint in the broader immigration-enforcement story.",
+      "source": "KARE 11",
+      "topic": "immigration-enforcement",
+      "url": "https://www.kare11.com/article/news/local/ice-in-minnesota/alex-pretti-6-months-vigil-ice/89-373055c1-dba0-47d5-a6d3-64f80ab952d9",
+      "published_at": "2026-07-26T03:06:53+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/f95bfbc8-a2ac-4275-8548-f8774eef8bd4/20260725T234013/f95bfbc8-a2ac-4275-8548-f8774eef8bd4_750x422.jpg",
+        "alt": ""
+      },
+      "description": "People are gathering Saturday to remember not just Alex Pretti and Renee Good, but others who have been killed by federal agents."
+    },
+    {
+      "title": "Helix Apartments fire: St. Louis Park residents still locked out",
+      "summary": "St. Louis Park residents remained locked out after the Helix Apartments fire — an ongoing displacement affecting metro neighbors.",
+      "source": "FOX 9",
+      "topic": "other",
+      "url": "https://www.fox9.com/news/helix-apartments-fire-st-louis-park-residents-still-locked-out",
+      "published_at": "2026-07-25T01:43:03+00:00",
+      "image": {
+        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/07/vlcsnap-2026-07-24-20h31m11s770.jpg",
+        "alt": ""
+      },
+      "description": "One week after a fire tore through the Helix Apartments, some residents are still waiting to find out what they can salvage from their homes."
+    },
+    {
+      "title": "Eagan recycling plant sued over children's alleged lead exposure",
+      "summary": "An Eagan recycling plant was sued over children's alleged lead exposure — a pointed local public-health and accountability story.",
+      "source": "CBS Minnesota",
+      "topic": "public-health",
+      "url": "https://www.cbsnews.com/minnesota/news/eagan-recycling-plant-lawsuit-kids-lead-exposure/",
+      "published_at": "2026-07-21T04:06:06+00:00",
+      "image": null,
+      "description": "There are new accusations surrounding pollution problems at a battery recycling plant in Minnesota. An attorney says lead migration from Gopher Resource in Eagan poisoned some kids connected to workers."
     }
   ],
   "sports": [
+    {
+      "team": "Twins",
+      "scores": [
+        "Twins 11, Athletics 8",
+        "Twins 2, Athletics 0",
+        "Twins 0, Athletics 2",
+        "Twins 3, Guardians 1 (12 innings)",
+        "Guardians 13, Twins 4"
+      ]
+    },
     {
       "team": "Minnesota United",
       "scores": [
         "Minnesota United 0, Vancouver 0",
         "Sporting KC 2, Minnesota United 1"
-      ]
-    },
-    {
-      "team": "Twins",
-      "scores": [
-        "Twins 2, Athletics 0",
-        "Twins 0, Athletics 2",
-        "Twins 3, Guardians 1 (12 innings)",
-        "Twins 3, Guardians 1 (12 innings)",
-        "Guardians 13, Twins 4"
       ]
     },
     {

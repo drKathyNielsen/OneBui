@@ -4,150 +4,68 @@
   "metroCode": "16740",
   "metro": "Charlotte-Concord-Gastonia, NC-SC",
   "range": {
-    "start": "2026-07-20",
-    "end": "2026-07-26"
+    "start": "2026-07-21",
+    "end": "2026-07-27"
   },
   "are_you_ok": [
     {
-      "title": "Mental health strain grows for Charlotte minority families amid immigration worries",
-      "summary": "Immigration enforcement weighed on Charlotte's minority families all week — mounting mental-health strain (Jul 21), attorneys preparing a legal fight for arrested mothers (Jul 23), and a community vigil for men killed in ICE encounters (Jul 26). A heavy, close-to-home check-in for anyone with family affected.",
-      "source": "NBC Charlotte",
-      "topic": "immigration-enforcement",
-      "url": "https://www.wcnc.com/article/news/local/mental-health-strain-grows-for-charlotte-minority-families-amid-immigration-worries/275-b3027ab3-2d8b-4e5c-9d64-55a1bba836fc",
-      "published_at": "2026-07-21T22:46:08+00:00",
-      "image": null,
-      "description": "In Charlotte, where 60% of residents are minorities, stress from immigration enforcement and cultural pressures weighs heavily on mental health, prompting community",
-      "thread": [
-        {
-          "title": "Mental health strain grows for Charlotte minority families amid immigration worries",
-          "summary": "Mental-health strain on Charlotte minority families amid immigration worries — lands on a broad local population under enforcement climate; borderline chronic-condition framing but tied to current enforcement. Leaning are-you-ok.",
-          "source": "NBC Charlotte",
-          "topic": "immigration-enforcement",
-          "url": "https://www.wcnc.com/article/news/local/mental-health-strain-grows-for-charlotte-minority-families-amid-immigration-worries/275-b3027ab3-2d8b-4e5c-9d64-55a1bba836fc",
-          "published_at": "2026-07-21T22:46:08+00:00",
-          "image": null,
-          "description": "In Charlotte, where 60% of residents are minorities, stress from immigration enforcement and cultural pressures weighs heavily on mental health, prompting community"
-        },
-        {
-          "title": "Attorneys for Charlotte mothers arrested during immigration operation prepare for legal fight",
-          "summary": "Charlotte mothers arrested in immigration operation, attorneys report multiple similar encounters — enforcement action landing on the local population now. Check-in impulse for anyone affected.",
-          "source": "NBC Charlotte",
-          "topic": "immigration-enforcement",
-          "url": "https://www.wcnc.com/article/news/local/attorneys-for-charlotte-mothers-arrested-during-immigration-operation-prepare-for-legal-fight/275-88bf2552-de95-4323-a3ae-819a95580b25",
-          "published_at": "2026-07-23T16:29:44+00:00",
-          "image": null,
-          "description": "The attorneys representing two Charlotte mothers arrested says they're now representing multiple people who report similar encounters."
-        },
-        {
-          "title": "Charlotte community holds vigil honoring men killed in ICE encounters",
-          "summary": "Local ICE-enforcement climate: a Charlotte vigil for two men killed in ICE encounters, with calls for accountability. Lands on this metro and is part of the contact's world, but it's a partisan/politically charged topic — unsafe opener and not a personal check-in, so surface as context to walk in aware of.",
-          "source": "NBC Charlotte",
-          "topic": "immigration-enforcement",
-          "url": "https://www.wcnc.com/article/news/local/charlotte-community-holds-vigil-honoring-men-killed-in-ice-shootings/275-49e923f7-df06-4dfe-8d7e-59ae90a54cf0",
-          "published_at": "2026-07-26T03:30:04+00:00",
-          "image": {
-            "url": "https://media.tegna-media.com/assets/WCNC/images/8b090a9f-2836-44af-9354-59c038247e59/20260726T032439/8b090a9f-2836-44af-9354-59c038247e59_750x422.jpg",
-            "alt": ""
-          },
-          "description": "Dozens gathered at First Ward Park Saturday to honor two immigrant men killed in encounters with ICE agents and call for accountability."
-        }
-      ]
-    },
-    {
       "title": "NC cyclosporiasis cases surge past 500; health officials still looking for source",
-      "summary": "A cyclosporiasis outbreak surged past 500 NC cases with the source still unknown (Jul 21), prompting area schools to make precautionary menu changes (Jul 23). Even now, a fair check-in on whether anyone got sick.",
+      "summary": "The NC cyclosporiasis outbreak surged past 500 cases through late July with the source still unidentified — a broad, in-metro public-health worry touching anyone eating out or feeding a family.",
       "source": "NBC Charlotte",
       "topic": "public-health",
       "url": "https://www.wcnc.com/article/news/health/north-carolina-cyclosporiasis-cases-july-21-2026/275-95a9ffef-0621-43f3-88ad-d1203d75f55a",
       "published_at": "2026-07-21T21:49:36+00:00",
       "image": null,
-      "description": "North Carolina's cyclosporiasis cases have nearly doubled in a week to 561, and health officials still haven't found the source.",
-      "thread": [
-        {
-          "title": "NC cyclosporiasis cases surge past 500; health officials still looking for source",
-          "summary": "Statewide disease outbreak surging, systemic public health effect reaching the metro - genuine check-in item.",
-          "source": "NBC Charlotte",
-          "topic": "public-health",
-          "url": "https://www.wcnc.com/article/news/health/north-carolina-cyclosporiasis-cases-july-21-2026/275-95a9ffef-0621-43f3-88ad-d1203d75f55a",
-          "published_at": "2026-07-21T21:49:36+00:00",
-          "image": null,
-          "description": "North Carolina's cyclosporiasis cases have nearly doubled in a week to 561, and health officials still haven't found the source."
-        },
-        {
-          "title": "Charlotte-area schools monitoring Cyclospora outbreak, making precautionary menu changes",
-          "summary": "Cyclospora outbreak prompting Charlotte-area school menu changes — systemic public-health exposure reaching local families as school starts.",
-          "source": "NBC Charlotte",
-          "topic": "public-health",
-          "url": "https://www.wcnc.com/article/news/education/charlotte-area-schools-monitoring-cyclospora-outbreak/275-e2f4af76-a097-4481-9260-d01cb420af59",
-          "published_at": "2026-07-23T13:50:14+00:00",
-          "image": null,
-          "description": "As families prepare for the start of the school year, Charlotte-area school districts are taking precautionary steps following a Cyclospora outbreak."
-        }
-      ]
+      "description": "North Carolina's cyclosporiasis cases have nearly doubled in a week to 561, and health officials still haven't found the source."
+    },
+    {
+      "title": "Attorneys for Charlotte mothers arrested during immigration operation prepare for legal fight",
+      "summary": "Charlotte mothers arrested in an immigration operation moved into a legal fight by late July — a wrenching, city-level story for anyone with immigrant family or neighbors.",
+      "source": "NBC Charlotte",
+      "topic": "immigration-enforcement",
+      "url": "https://www.wcnc.com/article/news/local/attorneys-for-charlotte-mothers-arrested-during-immigration-operation-prepare-for-legal-fight/275-88bf2552-de95-4323-a3ae-819a95580b25",
+      "published_at": "2026-07-23T16:29:44+00:00",
+      "image": null,
+      "description": "The attorneys representing two Charlotte mothers arrested says they're now representing multiple people who report similar encounters."
     }
   ],
   "conversation_starters": [
     {
-      "title": "Charlotte-area storms topple trees, flood roads and shut down businesses",
-      "summary": "Storms tore through the Charlotte area, toppling trees, flooding roads and shutting businesses — the week's most disruptive local event, easy to open with a 'did you get hit?'",
+      "title": "MLS All-Star Game boosts business for Charlotte's Uptown shops",
+      "summary": "MLS All-Star week landed in Uptown Charlotte, boosting business and drawing a citywide buzz — the easiest, most upbeat opener of the week, with Ciara headlining the halftime show.",
       "source": "NBC Charlotte",
-      "topic": "severe-weather",
-      "url": "https://www.wcnc.com/article/weather/weather-impact/severe-weather-impacts-charlotte-area-flooded-roads-tree-destroys-belmont-flower-show/275-fa337356-d2f4-4e59-9926-f746e4f26358",
-      "published_at": "2026-07-24T20:40:01+00:00",
+      "topic": "civic-events",
+      "url": "https://www.wcnc.com/article/news/local/mls-all-star-game-boosts-business-for-charlotte/275-43918bc9-3cc8-4aaa-9e27-64e382ebb40a",
+      "published_at": "2026-07-27T03:24:38+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/WCNC/images/ec94e247-1efa-4753-bac6-b2614fa5832e/20260724T203606/ec94e247-1efa-4753-bac6-b2614fa5832e_750x422.jpg",
+        "url": "https://media.tegna-media.com/assets/WCNC/images/c9a1b856-9988-4b4d-85be-7203aa4c33ec/20260726T194616/c9a1b856-9988-4b4d-85be-7203aa4c33ec_750x422.jpg",
         "alt": ""
       },
-      "description": "Nobody was hurt — that’s the blessing.” Jean's Flowers will be closed for weeks, but owner Tamara Poteat is thankful everyone's OK after this week's storms."
+      "description": "The MLS All-Star Game at Bank of America Stadium is boosting Uptown Charlotte's economy, offering local businesses vital support as they recover from the pandemic."
+    },
+    {
+      "title": "Shutdown lifted for Fury 325 at Carowinds, NC Labor Commissioner says",
+      "summary": "The NC Labor Commissioner lifted the shutdown on Carowinds' Fury 325 coaster after inspection — a clean, widely-relatable local story people will have followed.",
+      "source": "NBC Charlotte",
+      "topic": "other",
+      "url": "https://www.wcnc.com/article/news/local/shutdown-lifted-for-fury-325-at-carowinds/275-af4c5585-c08a-4bcc-9614-8d27afbbfa1a",
+      "published_at": "2026-07-21T23:56:11+00:00",
+      "image": null,
+      "description": "Fury 325 was closed on July 7 for a foundation issue."
     },
     {
       "title": "QC HAPPENINGS: Queen's Feast returns, MLS All-Star celebration, concerts and more",
-      "summary": "A big civic-events week: Queen's Feast returned alongside the MLS All-Star celebration and concerts, with Ciara confirmed to headline the All-Star halftime show. Light, widely shared openers.",
+      "summary": "Queen's Feast returns alongside the MLS All-Star celebration and summer concerts — a citywide roundup of things to do, easy weekend small talk.",
       "source": "Queen City News",
       "topic": "civic-events",
       "url": "https://www.qcnews.com/queen-city-happenings/qc-happenings-queens-feast-returns-mls-all-star-celebration-concerts-and-more/",
       "published_at": "2026-07-23T01:03:38+00:00",
       "image": null,
-      "description": "CHARLOTTE, N.C. (QUEEN CITY NEWS) -- It's an exciting weekend ahead for the Charlotte region! Charlotte Restaurant Week returns, featuring the best of the best cuisine this area has to offer, and Uptown Charlotte will be busy celebrating the upcoming MLS All-Star game and the",
-      "thread": [
-        {
-          "title": "QC HAPPENINGS: Queen's Feast returns, MLS All-Star celebration, concerts and more",
-          "summary": "Marquee weekend: Charlotte Restaurant Week/Queen's Feast, MLS All-Star celebration, Knights game — signature civic events happening now. You could open with: 'Doing anything for Restaurant Week or the MLS All-Star stuff Uptown this weekend?'",
-          "source": "Queen City News",
-          "topic": "civic-events",
-          "url": "https://www.qcnews.com/queen-city-happenings/qc-happenings-queens-feast-returns-mls-all-star-celebration-concerts-and-more/",
-          "published_at": "2026-07-23T01:03:38+00:00",
-          "image": null,
-          "description": "CHARLOTTE, N.C. (QUEEN CITY NEWS) -- It's an exciting weekend ahead for the Charlotte region! Charlotte Restaurant Week returns, featuring the best of the best cuisine this area has to offer, and Uptown Charlotte will be busy celebrating the upcoming MLS All-Star game and the"
-        },
-        {
-          "title": "Ciara to headline MLS All-Star halftime show in Charlotte",
-          "summary": "Major marquee event with celebrity headliner in Charlotte. You could open with: \"Did you hear Ciara's headlining the MLS All-Star halftime show here?\"",
-          "source": "Queen City News",
-          "topic": "civic-events",
-          "url": "https://www.qcnews.com/charlotte/ciara-to-headline-mls-all-star-halftime-show-in-charlotte/",
-          "published_at": "2026-07-26T01:20:17+00:00",
-          "image": {
-            "url": "https://www.qcnews.com/wp-content/uploads/sites/109/2026/07/GettyImages-2254228752.jpg?w=900",
-            "alt": ""
-          },
-          "description": "CHARLOTTE, N.C. (QUEEN CITY NEWS) -- The MLS All-Star Game is getting a major Grammy-award-winning artist to headline the halftime show. Multi-platinum pop superstar Ciara will bring her electric stage presence and chart-topping hits to Bank of America Stadium during the MLS"
-        }
-      ]
-    },
-    {
-      "title": "Here's how many people move to the Charlotte region daily, according to new analysis",
-      "summary": "New analysis quantifies just how many people move to the Charlotte region every day — a relatable growth-and-housing hook everyone here has an opinion on.",
-      "source": "NBC Charlotte",
-      "topic": "housing",
-      "url": "https://www.wcnc.com/article/news/local/charlotte-region-population-boom-how-many-new-people-move-here-daily/275-433e7613-036c-43cd-9f6e-c92e01fd3069",
-      "published_at": "2026-07-24T12:47:38+00:00",
-      "image": null,
-      "description": "Experts say a combination of factors is fueling Charlotte’s sustained growth, including a strong job market, corporate investment and expanding infrastructure."
+      "description": "CHARLOTTE, N.C. (QUEEN CITY NEWS) -- It's an exciting weekend ahead for the Charlotte region! Charlotte Restaurant Week returns, featuring the best of the best cuisine this area has to offer, and Uptown Charlotte will be busy celebrating the upcoming MLS All-Star game and the"
     },
     {
       "title": "Honeywell rings Nasdaq closing bell to mark launch as independent automation company",
-      "summary": "Honeywell rang the Nasdaq closing bell to mark its launch as an independent automation company — a marquee hometown-business milestone.",
+      "summary": "Honeywell rang the Nasdaq closing bell to mark its spinoff as an independent automation company — a notable business milestone for a Charlotte-connected name.",
       "source": "Queen City News",
       "topic": "business-jobs",
       "url": "https://www.qcnews.com/business/honeywell-rings-nasdaq-closing-bell-to-mark-launch-as-independent-automation-company/",
@@ -156,33 +74,58 @@
       "description": "It came the same day that Honeywell reported strong second-quarter results."
     },
     {
-      "title": "Charlotte business leaders say city will be ready if tapped for draft, Super Bowl",
-      "summary": "Charlotte business leaders talked up the city's readiness for a possible NFL Draft or Super Bowl — a fun 'could it happen here' opener.",
-      "source": "Queen City News",
-      "topic": "civic-events",
-      "url": "https://www.qcnews.com/nfl/charlotte-business-leaders-say-city-will-be-ready-if-tapped-for-draft-super-bowl/",
-      "published_at": "2026-07-25T02:20:47+00:00",
-      "image": {
-        "url": "https://www.qcnews.com/wp-content/uploads/sites/109/2026/07/NFL-draft-set.jpg?w=900",
-        "alt": ""
-      },
-      "description": "Goodell told Panthers owner David Tepper that the city, stadium and its facilities were \"Super Bowl-quality.”"
+      "title": "Here's how many people move to the Charlotte region daily, according to new analysis",
+      "summary": "New analysis quantified how many people move to the Charlotte region each day — a growth-and-housing angle that reliably gets locals talking.",
+      "source": "NBC Charlotte",
+      "topic": "housing",
+      "url": "https://www.wcnc.com/article/news/local/charlotte-region-population-boom-how-many-new-people-move-here-daily/275-433e7613-036c-43cd-9f6e-c92e01fd3069",
+      "published_at": "2026-07-24T12:47:38+00:00",
+      "image": null,
+      "description": "Experts say a combination of factors is fueling Charlotte’s sustained growth, including a strong job market, corporate investment and expanding infrastructure."
     }
   ],
   "you_should_know": [
     {
-      "title": "ICE plans major new immigrant detention center in eastern North Carolina",
-      "summary": "ICE plans a major new immigrant detention center in eastern North Carolina — a significant state development landing squarely on the region's biggest ongoing story.",
-      "source": "Charlotte Public Radio",
+      "title": "DHS denies new ICE detention center in NC, but confirms expansion plans",
+      "summary": "ICE detention plans for eastern NC dominated the week: first reported Thursday as a major new facility, then DHS on Monday denied a 'new' center while confirming expansion — context to walk in aware of.",
+      "source": "NBC Charlotte",
       "topic": "immigration-enforcement",
-      "url": "https://www.wfae.org/race-equity/2026-07-24/ice-plans-major-new-immigrant-detention-center-in-eastern-north-carolina",
-      "published_at": "2026-07-24T16:27:02+00:00",
-      "image": null,
-      "description": "A new immigration detention center could open in eastern North Carolina by the end of 2026."
+      "url": "https://www.wcnc.com/article/news/local/former-prison-could-become-dedicated-ice-detention-center/275-f784a812-f3e9-4ee2-ad16-91858b0e5779",
+      "published_at": "2026-07-27T14:21:34+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/WCNC/images/b0eb6470-3b88-4070-a255-9e8ea68aa9cc/20260727T031918/b0eb6470-3b88-4070-a255-9e8ea68aa9cc_750x422.jpg",
+        "alt": ""
+      },
+      "description": "Homeland Security has denied plans to announce a new immigration detention center in North Carolina, despite reports of repurposing a former prison.",
+      "thread": [
+        {
+          "title": "ICE plans major new immigrant detention center in eastern North Carolina",
+          "summary": "Plan/agreement to open a future ICE detention center in eastern NC — institutional and forward-looking, so you-should-know, not a check-in. Enforcement-climate context for someone here.",
+          "source": "Charlotte Public Radio",
+          "topic": "immigration-enforcement",
+          "url": "https://www.wfae.org/race-equity/2026-07-24/ice-plans-major-new-immigrant-detention-center-in-eastern-north-carolina",
+          "published_at": "2026-07-24T16:27:02+00:00",
+          "image": null,
+          "description": "A new immigration detention center could open in eastern North Carolina by the end of 2026."
+        },
+        {
+          "title": "DHS denies new ICE detention center in NC, but confirms expansion plans",
+          "summary": "Continuation of ICE detention-center expansion story; institutional/forward-looking plan for a facility, not an action landing on people now — you should know, not a check-in. Political-institutional NC context.",
+          "source": "NBC Charlotte",
+          "topic": "immigration-enforcement",
+          "url": "https://www.wcnc.com/article/news/local/former-prison-could-become-dedicated-ice-detention-center/275-f784a812-f3e9-4ee2-ad16-91858b0e5779",
+          "published_at": "2026-07-27T14:21:34+00:00",
+          "image": {
+            "url": "https://media.tegna-media.com/assets/WCNC/images/b0eb6470-3b88-4070-a255-9e8ea68aa9cc/20260727T031918/b0eb6470-3b88-4070-a255-9e8ea68aa9cc_750x422.jpg",
+            "alt": ""
+          },
+          "description": "Homeland Security has denied plans to announce a new immigration detention center in North Carolina, despite reports of repurposing a former prison."
+        }
+      ]
     },
     {
       "title": "New NC State Health Plan raises concerns among employees who use Atrium Health",
-      "summary": "The new NC State Health Plan is raising concerns among employees who use Atrium Health — directly touches many local workers' coverage.",
+      "summary": "The new NC State Health Plan raised concerns for employees who use Atrium Health — an in-metro benefits story that quietly touches many local workers.",
       "source": "Queen City News",
       "topic": "public-health",
       "url": "https://www.qcnews.com/health-care/new-nc-state-health-plan-raises-concerns-among-employees-who-use-atrium-health/",
@@ -194,21 +137,8 @@
       "description": "State Health Plan leaders are confident the health care system has enough capacity to accommodate employees who choose preferred providers."
     },
     {
-      "title": "Sustain Charlotte calls for transparency after NCDOT Chief's private meeting on I-77 South toll project",
-      "summary": "Sustain Charlotte is demanding transparency after the NCDOT chief's private meeting on the I-77 South toll project — a live commuting-and-cost issue for the metro.",
-      "source": "NBC Charlotte",
-      "topic": "transportation",
-      "url": "https://www.wcnc.com/article/news/local/sustain-charlotte-calls-for-transparency-after-ncdot-chiefs-private-meeting-on-i-77-south-toll-project/275-6e1ad84d-4907-4e92-8e07-9d00079ebff1",
-      "published_at": "2026-07-25T00:45:43+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/WCNC/images/87b41590-7d7d-4cad-b91f-47bb953a1438/20260702T213850/87b41590-7d7d-4cad-b91f-47bb953a1438_750x422.jpg",
-        "alt": ""
-      },
-      "description": "Advocacy group Sustain Charlotte is pressing for public disclosure after North Carolina's transportation secretary met privately with community leaders."
-    },
-    {
       "title": "Fort Mill School District asks officials to limit Silfab Solar operations after zoning ruling",
-      "summary": "Fort Mill School District asked officials to limit Silfab Solar operations after a zoning ruling — a local business-and-land dispute worth walking in aware of.",
+      "summary": "After a zoning ruling, Fort Mill School District asked officials to limit Silfab Solar operations — a city-adjacent business-and-safety dispute worth knowing.",
       "source": "NBC Charlotte",
       "topic": "business-jobs",
       "url": "https://www.wcnc.com/article/news/local/fort-mill-school-district-asks-officials-to-limit-silfab-solar-operations-after-zoning-ruling/275-53c107ea-0c48-4564-8067-bf3e0570e0d5",
@@ -221,13 +151,26 @@
     },
     {
       "title": "Lost Ground: Politics stalled North Carolina landslide mapping years before Helene slides killed 31",
-      "summary": "An investigation found politics stalled North Carolina's landslide mapping years before the Helene slides killed 31 — sobering context on state preparedness.",
+      "summary": "An investigation found politics stalled NC landslide mapping years before the Helene slides that killed 31 — a resonant accountability piece tied to a recent disaster.",
       "source": "NBC Charlotte",
       "topic": "elections-politics",
       "url": "https://www.wcnc.com/article/news/investigations/lost-ground-political-missteps-helene-landslides-killed-western-north-carolina-residents/275-f9719997-8309-4fc0-a9e0-a199e334e746",
       "published_at": "2026-07-21T18:53:57+00:00",
       "image": null,
       "description": "As Helene devastated western North Carolina, the state's on again, off again landslide mapping program left many without critical safety information."
+    },
+    {
+      "title": "Sustain Charlotte calls for transparency after NCDOT Chief's private meeting on I-77 South toll project",
+      "summary": "Sustain Charlotte pressed for transparency after NCDOT's chief held a private meeting on the I-77 South toll project — a transportation-and-governance flag for commuters.",
+      "source": "NBC Charlotte",
+      "topic": "transportation",
+      "url": "https://www.wcnc.com/article/news/local/sustain-charlotte-calls-for-transparency-after-ncdot-chiefs-private-meeting-on-i-77-south-toll-project/275-6e1ad84d-4907-4e92-8e07-9d00079ebff1",
+      "published_at": "2026-07-25T00:45:43+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/WCNC/images/87b41590-7d7d-4cad-b91f-47bb953a1438/20260702T213850/87b41590-7d7d-4cad-b91f-47bb953a1438_750x422.jpg",
+        "alt": ""
+      },
+      "description": "Advocacy group Sustain Charlotte is pressing for public disclosure after North Carolina's transportation secretary met privately with community leaders."
     }
   ],
   "sports": [

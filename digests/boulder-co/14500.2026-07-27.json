@@ -1,0 +1,78 @@
+{
+  "shortName": "Boulder, CO",
+  "metroCode": "14500",
+  "metro": "Boulder, CO",
+  "date": "2026-07-27",
+  "are_you_ok": [
+    {
+      "title": "Evacuations ordered for Penley Fire west of Sedalia",
+      "summary": "Active wildfire evacuation order near Denver metro; are you ok check-in for nearby residents.",
+      "source": "9NEWS",
+      "topic": "wildfire",
+      "url": "https://www.9news.com/article/news/local/wildfire/wildfire-west-of-sedalia/73-d07338be-5933-4ea7-baa1-caa6248b153d",
+      "published_at": "2026-07-27T14:06:40+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/a3268ea6-8ca0-48fd-a417-41742f670ae0/20260727T104650/a3268ea6-8ca0-48fd-a417-41742f670ae0_750x422.jpg",
+        "alt": ""
+      },
+      "description": "A wildfire evacuation order was issued around 5 p.m. Sunday for people within a two-mile radius of West Douglas Fire Station 132."
+    }
+  ],
+  "conversation_starters": [
+    {
+      "title": "Eastbound I-70 reopens east of Denver",
+      "summary": "I-70 east of Denver reopened after buckling — metro commuter route, but now resolved (reopened), so a starter not a check-in. You could open with: 'Did I-70 buckling east of Denver mess up your commute?'",
+      "source": "9NEWS",
+      "topic": "transportation",
+      "url": "https://www.9news.com/article/traffic/pavement-buckling-closes-eastbound-i-70/73-7163f111-859d-41f1-9203-9ba65b61dfa7",
+      "published_at": "2026-07-27T12:06:30+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/ed6fed3d-df96-4030-aab9-159e4e2cd1d7/20260727T111834/ed6fed3d-df96-4030-aab9-159e4e2cd1d7_750x422.jpg",
+        "alt": ""
+      },
+      "description": "Eastbound I-70 east of Denver was closed for emergency repairs after road buckling, according to CSP."
+    },
+    {
+      "title": "\"Big Boy\" No. 4014 stops in Colorado this week as crowds flock to see historic locomotive",
+      "summary": "Fun, novel local touring-locomotive story — prime work-safe opener. You could open with: 'Did you catch the Big Boy locomotive coming through Colorado this week?'",
+      "source": "CBS Colorado",
+      "topic": "human-interest",
+      "url": "https://www.cbsnews.com/colorado/news/big-boy-no-4014-colorado-historic-locomotive/",
+      "published_at": "2026-07-27T14:43:13+00:00",
+      "image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/07/27/eb885c1a-2cca-481a-bf37-bbf4ba72e9ea/thumbnail/1024x576/d1f2c7e7081efe37ed0d56909f5f88b8/gettyimages-2280529725.jpg",
+        "alt": ""
+      },
+      "description": "Union Pacific's \"Big Boy\" historic locomotive will be making several stops around Colorado this week."
+    },
+    {
+      "title": "1 killed, 4 injured in lightning strike on Colorado's Mount Blue Sky",
+      "summary": "Fatal lightning strike on a fourteener — point hazard at a remote summit, not a broad-population check-in. Widely-discussed CO story. You could open with: 'Did you hear about the lightning strike on Mount Blue Sky?'",
+      "source": "CBS Colorado",
+      "topic": "severe-weather",
+      "url": "https://www.cbsnews.com/colorado/news/1-killed-4-injured-lightning-strike-colorados-mount-blue-sky/",
+      "published_at": "2026-07-27T13:40:22+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/07/27/e90b175d-6f13-47ce-99e4-c5e4a9cb10e3/thumbnail/1024x576/dadb841a6dfa8f7128604d9019eb42e9/gettyimages-1660665126-1.jpg",
+        "alt": ""
+      },
+      "description": "One person was killed and four others injured in a lightning strike at the summit of Mount Blue Sky over the weekend."
+    }
+  ],
+  "sports": [],
+  "you_should_know": [
+    {
+      "title": "ACLU asks Colorado Supreme Court to review ruling upholding Boulder’s camping ban",
+      "summary": "ACLU asks CO Supreme Court to review Boulder camping-ban ruling — institutional legal dispute landing on a metro city; context worth walking in aware of, unsafe opener. Keep-when-unsure on the you-should-know boundary.",
+      "source": "Boulder Reporting Lab",
+      "topic": "housing",
+      "url": "https://boulderreportinglab.org/2026/07/26/aclu-asks-colorado-supreme-court-to-review-ruling-upholding-boulders-camping-ban/",
+      "published_at": "2026-07-27T03:49:07+00:00",
+      "image": {
+        "url": "https://i0.wp.com/boulderreportinglab.org/wp-content/uploads/2025/04/IMG_1557-scaled.jpeg?fit=1024%2C683&ssl=1",
+        "alt": "Homeless people in Boulder rest by the creek path near the library."
+      },
+      "description": "Homeless people in Boulder rest by the creek path near the library. Civil rights lawyers argue the Colorado Court of Appeals failed to independently analyze the state constitution and relied on 'fiction' rather than the facts of the case. The post ACLU asks Colorado Supreme"
+    }
+  ]
+}

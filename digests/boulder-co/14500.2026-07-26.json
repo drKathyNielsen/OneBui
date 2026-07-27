@@ -20,6 +20,19 @@
   ],
   "conversation_starters": [
     {
+      "title": "Aurora's Day of Resilience honors theater shooting victims while supporting long-term healing",
+      "summary": "Aurora theater-shooting memorial/healing event is locally resonant and community-known; sensitive but not partisan. Light, respectful opener. You could open with: 'Did you hear about Aurora's Day of Resilience honoring the theater victims?'",
+      "source": "CBS Colorado",
+      "topic": "human-interest",
+      "url": "https://www.cbsnews.com/colorado/video/auroras-day-of-resilience-honors-theater-shooting-victims-while-supporting-long-term-healing/",
+      "published_at": "2026-07-26T02:55:00+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/07/26/69d38529-1f52-4a75-9926-b993f81109db/thumbnail/1024x576/ec677773b793d1980b215653f5fe0b16/8648dc32a56f532105a1459d3092f27f.jpg",
+        "alt": ""
+      },
+      "description": "Khloey Pace and Peyton Soltis are the young faces behind Veronica's Lemonade Stand at Aurora's Day of Resilience, where every cup served honors the memory of 6-year-old Veronica Moser-Sullivan, the youngest victim of the 2012 Aurora theater shooting."
+    },
+    {
       "title": "Record heat doesn't stop crowds at Underground Music Showcase's first year in RiNo",
       "summary": "Marquee local festival (UMS) in its new RiNo home despite record heat -> a natural, work-safe opener. You could open with: 'Did you make it to the Underground Music Showcase in RiNo this year?'",
       "source": "9NEWS",
@@ -44,19 +57,6 @@
         "alt": ""
       },
       "description": "The popular attraction will be open early Sunday to beat the heat, with flexible entry and activities adjusted for a cooler morning visit."
-    },
-    {
-      "title": "Aurora's Day of Resilience honors theater shooting victims while supporting long-term healing",
-      "summary": "Aurora theater-shooting memorial/healing event is locally resonant and community-known; sensitive but not partisan. Light, respectful opener. You could open with: 'Did you hear about Aurora's Day of Resilience honoring the theater victims?'",
-      "source": "CBS Colorado",
-      "topic": "human-interest",
-      "url": "https://www.cbsnews.com/colorado/video/auroras-day-of-resilience-honors-theater-shooting-victims-while-supporting-long-term-healing/",
-      "published_at": "2026-07-26T02:55:00+00:00",
-      "image": {
-        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/07/26/69d38529-1f52-4a75-9926-b993f81109db/thumbnail/1024x576/ec677773b793d1980b215653f5fe0b16/8648dc32a56f532105a1459d3092f27f.jpg",
-        "alt": ""
-      },
-      "description": "Khloey Pace and Peyton Soltis are the young faces behind Veronica's Lemonade Stand at Aurora's Day of Resilience, where every cup served honors the memory of 6-year-old Veronica Moser-Sullivan, the youngest victim of the 2012 Aurora theater shooting."
     }
   ],
   "sports": [
@@ -80,6 +80,19 @@
         "alt": ""
       },
       "description": "A fourth firefighter died from burn injuries battling Colorado's Knowles wildfire in the western part of the state at the end of June."
+    },
+    {
+      "title": "ICE plans to target Haitians as Temporary Protected Status is set to end, sources say",
+      "summary": "ICE plan to target Haitians as TPS ends — national policy/plan (forward-looking apparatus, Ohio-focused arrests), no Denver-metro landing. Institutional immigration context; keep as you-should-know on the boundary, not a check-in.",
+      "source": "CBS Colorado",
+      "topic": "immigration-enforcement",
+      "url": "https://www.cbsnews.com/colorado/news/ice-haitian-migrants-arrest-deport-temporary-protected-status/",
+      "published_at": "2026-07-26T13:23:00+00:00",
+      "image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/07/14/f93a24b0-f114-496f-903b-c914c0660640/thumbnail/1024x576/3c9499e0e8ea71b7e7e186e1dce40c71/gettyimages-2277720659.jpg",
+        "alt": ""
+      },
+      "description": "The plans include arresting migrants in Ohio and quickly putting them on deportation flights to crisis-stricken Haiti, the internal documents indicate."
     },
     {
       "title": "Drought task force says Colorado wildfires cost taxpayers $266 million",

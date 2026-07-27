@@ -1,0 +1,52 @@
+{
+  "shortName": "Charlotte, NC",
+  "metroCode": "16740",
+  "metro": "Charlotte-Concord-Gastonia, NC-SC",
+  "date": "2026-07-27",
+  "are_you_ok": [
+    {
+      "title": "Temperatures heat back up Monday; strong to severe storms possible on Tuesday",
+      "summary": "Incoming heat and possible severe storms across the metro; diffuse effect reaching the region. What's coming, people will ask each other.",
+      "source": "Queen City News",
+      "topic": "severe-weather",
+      "url": "https://www.qcnews.com/weather/weather-forecast/temperatures-heat-back-up-monday-strong-to-severe-storms-possible-on-tuesday/",
+      "published_at": "2026-07-27T11:21:28+00:00",
+      "image": {
+        "url": "https://www.qcnews.com/wp-content/uploads/sites/109/2026/07/MONDAY-HIGH-TEMPS.png?w=900",
+        "alt": ""
+      },
+      "description": "The good news is that we have a brighter day ahead; the bad news is that temperatures are going to be much hotter, with highs in the upper 80s and low 90s."
+    }
+  ],
+  "conversation_starters": [
+    {
+      "title": "MLS All-Star Game boosts business for Charlotte's Uptown shops",
+      "summary": "MLS All-Star Game boosting Uptown business, marquee civic event. You could open with: 'Have you been downtown for the MLS All-Star festivities? Sounds like it's been great for the Uptown shops.'",
+      "source": "NBC Charlotte",
+      "topic": "civic-events",
+      "url": "https://www.wcnc.com/article/news/local/mls-all-star-game-boosts-business-for-charlotte/275-43918bc9-3cc8-4aaa-9e27-64e382ebb40a",
+      "published_at": "2026-07-27T03:24:38+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/WCNC/images/c9a1b856-9988-4b4d-85be-7203aa4c33ec/20260726T194616/c9a1b856-9988-4b4d-85be-7203aa4c33ec_750x422.jpg",
+        "alt": ""
+      },
+      "description": "The MLS All-Star Game at Bank of America Stadium is boosting Uptown Charlotte's economy, offering local businesses vital support as they recover from the pandemic."
+    }
+  ],
+  "sports": [],
+  "you_should_know": [
+    {
+      "title": "DHS denies new ICE detention center in NC, but confirms expansion plans",
+      "summary": "Continuation of ICE detention-center expansion story; institutional/forward-looking plan for a facility, not an action landing on people now — you should know, not a check-in. Political-institutional NC context.",
+      "source": "NBC Charlotte",
+      "topic": "immigration-enforcement",
+      "url": "https://www.wcnc.com/article/news/local/former-prison-could-become-dedicated-ice-detention-center/275-f784a812-f3e9-4ee2-ad16-91858b0e5779",
+      "published_at": "2026-07-27T14:21:34+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/WCNC/images/b0eb6470-3b88-4070-a255-9e8ea68aa9cc/20260727T031918/b0eb6470-3b88-4070-a255-9e8ea68aa9cc_750x422.jpg",
+        "alt": ""
+      },
+      "description": "Homeland Security has denied plans to announce a new immigration detention center in North Carolina, despite reports of repurposing a former prison."
+    }
+  ]
+}
