@@ -1,4 +1,4 @@
-import { useCallback, useEffect, useMemo, useState } from 'react';
+import { useCallback, useEffect, useMemo, useState, type ReactNode } from 'react';
 import { useAppearance } from './hooks/useAppearance';
 import { metrosPromise, type Metro } from './data/digests';
 import type { Period } from './types';
@@ -10,10 +10,11 @@ import NewsDigest from './components/NewsDigest';
 import About from './components/About';
 import Footer from './components/Footer';
 
-// The About page is a static view outside the metro/date model, so it rides on
-// its own `?view=about` param rather than through resolveViewParams.
-function readIsAbout() {
-  return new URLSearchParams(window.location.search).get('view') === 'about';
+// The About page is the home view — where you land on a first hit — and it needs
+// no query string: home is simply the absence of a `metro` selection. A `?metro=…`
+// URL is a digest deep link; anything else (a bare URL) is home.
+function readIsHome() {
+  return !new URLSearchParams(window.location.search).has('metro');
 }
 
 export default function App() {
@@ -23,9 +24,9 @@ export default function App() {
   const [metroIdx, setMetroIdx] = useState(0);
   const [period, setPeriod] = useState<Period>('daily');
   const [date, setDate] = useState('');
-  // Static About view, tracked independently of the metro/date manifest so it
-  // works even before the digests resolve.
-  const [isAbout, setIsAbout] = useState(readIsAbout);
+  // Home (About) view, tracked independently of the metro/date manifest so it
+  // works even before the digests resolve. Defaults on for a first-hit URL.
+  const [isHome, setIsHome] = useState(readIsHome);
 
   // Initialize view state from the URL once the manifest resolves (slugs/dates
   // can only be validated against the loaded metros); canonicalize if corrected.
@@ -37,9 +38,10 @@ export default function App() {
       setMetroIdx(resolved.metroIdx);
       setPeriod(resolved.period);
       setDate(resolved.date);
-      // Seed the digest state above (so Back from About lands somewhere valid),
-      // but don't rewrite the URL while the About view owns it.
-      if (resolved.changed && !readIsAbout()) window.history.replaceState(null, '', toSearch(resolved, m));
+      // Seed the digest state above (so leaving Home lands somewhere valid),
+      // but don't rewrite the URL while the Home view owns it (keeps a bare
+      // first-hit URL bare instead of canonicalizing it to a digest link).
+      if (resolved.changed && !readIsHome()) window.history.replaceState(null, '', toSearch(resolved, m));
     });
   }, []);
 
@@ -68,22 +70,18 @@ export default function App() {
     return () => window.removeEventListener('popstate', onPop);
   }, [metros]);
 
-  // Keep the About flag in sync on Back/Forward, independent of the manifest.
+  // Keep the Home flag in sync on Back/Forward, independent of the manifest.
   useEffect(() => {
-    function onPop() { setIsAbout(readIsAbout()); }
+    function onPop() { setIsHome(readIsHome()); }
     window.addEventListener('popstate', onPop);
     return () => window.removeEventListener('popstate', onPop);
   }, []);
 
-  function openAbout() {
-    window.history.pushState(null, '', '?view=about');
-    setIsAbout(true);
-  }
-  function closeAbout() {
-    // Return to the current digest URL (or a bare path if none resolved yet).
-    const target = metros ? toSearch({ metroIdx, period, date }, metros) : window.location.pathname;
-    window.history.pushState(null, '', target);
-    setIsAbout(false);
+  // Go to the home (About) view — from the brand click or the footer link.
+  // Home carries no query string: navigate to the bare path.
+  function goHome() {
+    if (!isHome) window.history.pushState(null, '', window.location.pathname);
+    setIsHome(true);
   }
 
   const metro = metros?.[metroIdx];
@@ -93,6 +91,7 @@ export default function App() {
   function selectMetro(idx: number) {
     const next = metros?.[idx];
     if (!next) return;
+    setIsHome(false); // picking a city from the sidebar leaves the home view
     navigate({ metroIdx: idx, period: next.weekly ? period : 'daily', date: next.days[0].date });
   }
 
@@ -107,53 +106,44 @@ export default function App() {
     return period === 'weekly' && metro.weekly ? toWeeklyViewModel(metro.weekly) : toCityViewModel(day.data);
   }, [metro, day, period]);
 
-  if (isAbout) {
-    return (
-      <div className="oneb-root" data-style={style} data-theme={theme}>
-        <TopNavBar style={style} theme={theme} onStyleChange={setStyle} onThemeChange={setTheme} />
-        <About onBack={closeAbout} />
-        <Footer onAbout={openAbout} />
-      </div>
-    );
-  }
+  // Both views share one shell: the city sidebar plus a content column. The
+  // sidebar only appears once the manifest resolves; on Home no city is active.
+  const sidebar = metros ? (
+    <CitySideBar metros={metros} activeIdx={isHome ? null : metroIdx} onSelect={selectMetro} />
+  ) : null;
 
-  if (!metros) {
-    return (
-      <div className="oneb-root" data-style={style} data-theme={theme}>
-        <p className="oneb-loading" role="status">Loading digests…</p>
-      </div>
-    );
-  }
-
-  if (!metro || !day || !vm) {
-    return <div className="oneb-root" data-style={style} data-theme={theme}>No digests available.</div>;
-  }
-
-  return (
+  const frame = (content: ReactNode) => (
     <div className="oneb-root" data-style={style} data-theme={theme}>
-      <TopNavBar style={style} theme={theme} onStyleChange={setStyle} onThemeChange={setTheme} />
+      <TopNavBar style={style} theme={theme} onStyleChange={setStyle} onThemeChange={setTheme} onHome={goHome} />
       <div className="oneb-shell">
         <div className="container-fluid">
           <div className="row">
-            <div className="col-12 col-md-3 col-lg-2 oneb-sidebar-col">
-              <CitySideBar metros={metros} metroIdx={metroIdx} onSelect={selectMetro} />
-            </div>
-            <div className="col-12 col-md-9 col-lg-10 oneb-content-col">
-              <NewsDigest
-                vm={vm}
-                days={metro.days}
-                hasWeekly={metro.weekly !== null}
-                period={period}
-                selectedDate={day.date}
-                style={style}
-                onPeriodChange={changePeriod}
-                onDaySelect={selectDay}
-              />
-            </div>
+            <div className="col-12 col-md-3 col-lg-2 oneb-sidebar-col">{sidebar}</div>
+            <div className="col-12 col-md-9 col-lg-10 oneb-content-col">{content}</div>
           </div>
         </div>
       </div>
-      <Footer onAbout={openAbout} />
+      <Footer onAbout={goHome} />
     </div>
+  );
+
+  // Home renders even before the manifest (and without a selected digest).
+  if (isHome) return frame(<About />);
+
+  if (!metros) return frame(<p className="oneb-loading" role="status">Loading digests…</p>);
+
+  if (!metro || !day || !vm) return frame(<p>No digests available.</p>);
+
+  return frame(
+    <NewsDigest
+      vm={vm}
+      days={metro.days}
+      hasWeekly={metro.weekly !== null}
+      period={period}
+      selectedDate={day.date}
+      style={style}
+      onPeriodChange={changePeriod}
+      onDaySelect={selectDay}
+    />
   );
 }

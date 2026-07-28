@@ -6,6 +6,7 @@ interface Props {
   theme: Theme;
   onStyleChange: (s: Style) => void;
   onThemeChange: (t: Theme) => void;
+  onHome: () => void; // brand click returns to the home (About) view
 }
 
 // Reading style now has three options, so it's a dropdown rather than a toggle.
@@ -15,13 +16,13 @@ const STYLE_LABELS: Record<Style, string> = { classic: 'Classic', modern: 'Moder
 // Persistent utility bar: app-wide controls that apply no matter which metro
 // is selected (appearance, account, add-cities) -- kept out of the digest
 // masthead so the editorial identity there stays uncluttered.
-export default function TopNavBar({ style, theme, onStyleChange, onThemeChange }: Props) {
+export default function TopNavBar({ style, theme, onStyleChange, onThemeChange, onHome }: Props) {
   const [menuOpen, setMenuOpen] = useState(false);
   const [styleOpen, setStyleOpen] = useState(false);
 
   return (
     <header className="oneb-topnav">
-      <span className="oneb-topnav-brand">One B</span>
+      <button type="button" className="oneb-topnav-brand" onClick={onHome} aria-label="One B — home">One B</button>
       <div className="oneb-topnav-right">
         <div className="oneb-topnav-menu-wrap">
           <button

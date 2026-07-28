@@ -1,14 +1,11 @@
-interface Props {
-  onBack: () => void;
-}
-
 // Static "about" view: the product story, framed for readers of the webpage.
-// Reachable at ?view=about; rendered in place of the digest (masthead-styled to
-// match the editorial identity). Delivery/email specifics are intentionally
-// omitted — this describes what you can read here today.
-export default function About({ onBack }: Props) {
+// This is the home view — rendered in the shell's content column beside the
+// city sidebar (masthead-styled to match the editorial identity). Delivery/email
+// specifics are intentionally omitted — this describes what you can read today.
+// Pick a city from the sidebar to leave home; there's no in-page back link.
+export default function About() {
   return (
-    <div className="oneb-shell">
+    <div className="oneb-digest">
       <header className="oneb-masthead">
         <p className="oneb-kicker">ABOUT</p>
         <h1 className="oneb-city-name">One B</h1>
@@ -54,12 +51,6 @@ export default function About({ onBack }: Props) {
             you choose, today's brief and the week in review, kept short on purpose.
           </p>
         </section>
-
-        <p className="oneb-about-back">
-          <button type="button" className="oneb-link-btn" onClick={onBack}>
-            ← Back to the digest
-          </button>
-        </p>
       </div>
     </div>
   );

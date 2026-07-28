@@ -23,10 +23,12 @@
   align-items: center;
   height: 22px;
   padding: 0 8px;
+  border: none;
   border-radius: 5px;
   background: var(--badge-bg);
   color: var(--badge-text);
   font: 800 11px var(--label-font);
+  cursor: pointer;
 }
 
 .oneb-topnav-right {
@@ -97,13 +99,11 @@
 
 /* ---------- Sidebar (tablet/desktop) ---------- */
 .oneb-sidebar-col { border-right: 1px solid var(--hairline); padding-top: 18px; }
-.oneb-sidebar-heading {
-  margin: 0 0 10px;
-  font: 700 11px var(--label-font);
-  letter-spacing: 0.1em;
-  text-transform: uppercase;
-  color: var(--text-secondary);
-}
+/* Format comes from .oneb-section-heading (matches "Conversation starters");
+   this only restores the sidebar's heading-to-list spacing. Scoped to .oneb-sidebar
+   for specificity so it wins over .oneb-section-heading's `margin` shorthand
+   regardless of source order. */
+.oneb-sidebar .oneb-sidebar-heading { margin-bottom: 12px; }
 .oneb-sidebar-list { display: flex; flex-direction: column; gap: 9px; }
 .oneb-sidebar-item {
   all: unset;
@@ -482,4 +482,3 @@
   font: 400 15px/1.7 var(--body-font);
   color: var(--text-body);
 }
-.oneb-about-back { margin: 36px 0 0; font: 600 13px var(--body-font); }

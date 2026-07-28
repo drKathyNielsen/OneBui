@@ -84,36 +84,6 @@
         "click element [aria-label^=\"Color theme\"]",
         "wait for element .oneb-root[data-theme=\"dark\"] to be visible"
       ]
-    },
-    {
-      "url": "http://localhost:4173/?view=about"
-    },
-    {
-      "url": "http://localhost:4173/?view=about",
-      "actions": [
-        "click element [aria-label^=\"Color theme\"]",
-        "wait for element .oneb-root[data-theme=\"dark\"] to be visible"
-      ]
-    },
-    {
-      "url": "http://localhost:4173/?view=about",
-      "actions": [
-        "click element [aria-label^=\"Color theme\"]",
-        "click element [aria-label^=\"Reading style\"]",
-        "wait for element [aria-label=\"Modern\"] to be visible",
-        "click element [aria-label=\"Modern\"]",
-        "wait for element .oneb-root[data-style=\"modern\"][data-theme=\"dark\"] to be visible"
-      ]
-    },
-    {
-      "url": "http://localhost:4173/?view=about",
-      "actions": [
-        "click element [aria-label^=\"Color theme\"]",
-        "click element [aria-label^=\"Reading style\"]",
-        "wait for element [aria-label=\"Friendly\"] to be visible",
-        "click element [aria-label=\"Friendly\"]",
-        "wait for element .oneb-root[data-style=\"friendly\"][data-theme=\"dark\"] to be visible"
-      ]
     }
   ]
 }
