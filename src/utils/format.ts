@@ -108,7 +108,7 @@ export function toWeeklyViewModel(raw: RawWeekly): DigestViewModel {
     shortName: raw.shortName,
     dateLong: '',
     rangeLabel: formatRange(raw.range.start, raw.range.end),
-    alerts: (raw.weather_alert ?? []).map((a) => mapAlert(a, raw.range.end)),
+    alerts: [], // weekly has no weather surface (see digest.schema.json WeeklyDigest)
     areOk: raw.are_you_ok.map((it) => mapItem(it, true)),
     starters: raw.conversation_starters.map((it) => mapItem(it, true)),
     know: raw.you_should_know.map((it) => mapItem(it, true)),

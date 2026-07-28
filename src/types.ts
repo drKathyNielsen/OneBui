@@ -21,14 +21,17 @@ export interface RawArticle {
   thread?: RawArticle[]; // weekly-only: contributing articles, oldest→newest (additive)
 }
 
-// A significance-filtered weather alert. The generator only emits alerts that
-// clear the bar, so every entry renders; array order is the display order.
+// A significance-filtered weather alert. Mirrors docs/schema/digest.schema.json
+// #/$defs/WeatherAlert (authoritative). The generator emits only allow-listed
+// alerts that clear the bar, already ordered most-severe first, so every entry
+// renders in array order. Multi-day alerts appear on every day of their window.
 export interface RawAlert {
-  event: string; // NWS event name, e.g. "Heat Advisory"
-  area?: string; // affected sub-area label, e.g. "Atascosa & Wilson"
-  summary?: string; // pre-composed one-line summary
-  description?: string; // full NWS product text (WHAT/WHERE/WHEN/IMPACTS)
-  ends?: string; // ISO 8601 with offset; when the alert lapses
+  event: string; // canonical NWS event name, e.g. "Heat Advisory"; rendered verbatim
+  area: string; // collapsed county label, e.g. "Atascosa & Wilson"; may be ''
+  severity: 'Extreme' | 'Severe' | 'Moderate' | 'Minor' | 'Unknown'; // drives upstream order
+  summary: string; // pre-composed one-liner; redundant with event/area/ends — not rendered
+  description: string; // full NWS product text (WHAT/WHERE/WHEN/IMPACTS) — not rendered
+  ends: string | null; // ISO 8601 with numeric offset, or null when open-ended
 }
 
 // A per-day daily brief. See docs/DIGEST_OUTPUT_CONTRACT.md §4.
@@ -54,7 +57,8 @@ export interface RawWeekly {
   conversation_starters: RawArticle[];
   you_should_know: RawArticle[];
   sports: { team: string; scores: string[] }[];
-  weather_alert?: RawAlert[]; // 0+ active alerts (additive)
+  // No weather_alert: the weekly highlight reel has no live-status surface
+  // (see docs/schema/digest.schema.json #/$defs/WeeklyDigest).
 }
 
 export interface Article {
