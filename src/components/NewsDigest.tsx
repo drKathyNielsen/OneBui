@@ -47,30 +47,36 @@ export default function NewsDigest({ vm, days, hasWeekly, period, selectedDate, 
       />
 
       <main className="container-fluid oneb-main">
-        {vm.areOk.map((article) => (
-          <div className="row mb-4" key={article.url}>
+        {vm.areOk.length === 0 ? (
+          <div className="row mb-4">
             <div className="col-12">
-              <AreTheyOk article={article} eyebrow={strings.areOkEyebrow} />
+              <AreTheyOk eyebrow={strings.areOkEyebrow} emptyNote={strings.emptyAreOk} />
             </div>
           </div>
-        ))}
+        ) : (
+          vm.areOk.map((article) => (
+            <div className="row mb-4" key={article.url}>
+              <div className="col-12">
+                <AreTheyOk article={article} eyebrow={strings.areOkEyebrow} />
+              </div>
+            </div>
+          ))
+        )}
 
         <div className="row gy-4">
           <div className="col-12 col-md-6">
-            {vm.starters.length > 0 && <ArticleList heading={strings.startersHeading} items={vm.starters} />}
+            <ArticleList heading={strings.startersHeading} items={vm.starters} emptyNote={strings.emptyStarters} />
           </div>
           <div className="col-12 col-md-6 oneb-col-divider">
-            {vm.know.length > 0 && <ArticleList heading={strings.knowHeading} items={vm.know} />}
+            <ArticleList heading={strings.knowHeading} items={vm.know} emptyNote={strings.emptyKnow} />
           </div>
         </div>
 
-        {vm.sports.length > 0 && (
-          <div className="row mt-4">
-            <div className="col-12">
-              <Sports sports={vm.sports} heading={strings.sportsHeading} />
-            </div>
+        <div className="row mt-4">
+          <div className="col-12">
+            <Sports sports={vm.sports} heading={strings.sportsHeading} emptyNote={strings.emptySports} />
           </div>
-        )}
+        </div>
       </main>
     </div>
   );

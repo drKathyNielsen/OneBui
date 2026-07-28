@@ -4,13 +4,17 @@ import Thumb from './Thumb';
 interface Props {
   heading: string;
   items: Article[];
+  emptyNote: string; // shown when items is empty, so the header never stands alone
 }
 
-export default function ArticleList({ heading, items }: Props) {
+export default function ArticleList({ heading, items, emptyNote }: Props) {
   const headingId = `heading-${heading.toLowerCase().replace(/\s+/g, '-')}`;
   return (
     <section className="oneb-section" aria-labelledby={headingId}>
       <h2 className="oneb-section-heading" id={headingId}>{heading}</h2>
+      {items.length === 0 ? (
+        <p className="oneb-empty">{emptyNote}</p>
+      ) : (
       <ol className="oneb-article-list list-unstyled">
         {items.map((item) => (
           <li key={item.url} className="oneb-article">
@@ -27,6 +31,7 @@ export default function ArticleList({ heading, items }: Props) {
           </li>
         ))}
       </ol>
+      )}
     </section>
   );
 }

@@ -1,7 +1,15 @@
 import type { Article } from '../types';
 import Thumb from './Thumb';
 
-export default function AreTheyOk({ article, eyebrow }: { article: Article; eyebrow: string }) {
+export default function AreTheyOk({ article, eyebrow, emptyNote }: { article?: Article; eyebrow: string; emptyNote?: string }) {
+  if (!article) {
+    return (
+      <div className="oneb-card">
+        <h2 className="oneb-section-heading oneb-section-heading--plain">{eyebrow}</h2>
+        <p className="oneb-empty">{emptyNote}</p>
+      </div>
+    );
+  }
   return (
     <div className="oneb-card">
       <h2 className="oneb-section-heading oneb-section-heading--plain">{eyebrow}</h2>

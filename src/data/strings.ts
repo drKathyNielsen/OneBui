@@ -12,6 +12,13 @@ export interface StyleStrings {
   sportsHeading: string;
   todayLabel: string;
   weeklyLabel: string;
+  // Shown in place of items when a section has nothing this period. Every
+  // section always renders its header; these fill the body so the absence is
+  // stated rather than left as a silent gap.
+  emptyAreOk: string;
+  emptyStarters: string;
+  emptyKnow: string;
+  emptySports: string;
 }
 
 const NEUTRAL: StyleStrings = {
@@ -21,6 +28,10 @@ const NEUTRAL: StyleStrings = {
   sportsHeading: 'Sporting news',
   todayLabel: 'Today',
   weeklyLabel: 'Last week',
+  emptyAreOk: 'No urgent local concerns to flag.',
+  emptyStarters: 'No conversation starters this time.',
+  emptyKnow: 'Nothing else to flag.',
+  emptySports: 'No games to report.',
 };
 
 export const STYLE_STRINGS: Record<Style, StyleStrings> = {
@@ -33,6 +44,10 @@ export const STYLE_STRINGS: Record<Style, StyleStrings> = {
     sportsHeading: 'Your teams 🏆',
     todayLabel: 'Today',
     weeklyLabel: 'Last week',
+    emptyAreOk: 'All clear — nothing urgent to flag. 😌',
+    emptyStarters: 'No chat starters this time. 💬',
+    emptyKnow: 'Nothing else to flag.',
+    emptySports: 'No games to report. 🏆',
   },
 };
 

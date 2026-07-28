@@ -311,6 +311,14 @@
 
 .oneb-section { margin-bottom: 8px; }
 
+/* Empty-state note shown when a section has no items this period. Uses the
+   accessible muted tone (WCAG2AA on --bg, --surface and --card-bg). */
+.oneb-empty {
+  margin: 8px 0 0;
+  font: 400 13.5px/1.6 var(--body-font);
+  color: var(--text-secondary);
+}
+
 .oneb-section-heading {
   display: flex;
   align-items: center;
