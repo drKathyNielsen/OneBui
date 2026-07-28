@@ -77,11 +77,11 @@ digests/<slug>/<metroCode>.weekly.json         # the weekly aggregate
 
 Only the newest **4** daily files per metro are ingested (`DAILY_WINDOW`), so
 the bundle doesn't grow with history. Malformed files are skipped rather than
-breaking the app. The JSON contract is documented in
-[`docs/DIGEST_OUTPUT_CONTRACT.md`](docs/DIGEST_OUTPUT_CONTRACT.md) (daily) and
-[`docs/WEEKLY_DIGEST_CONTRACT.md`](docs/WEEKLY_DIGEST_CONTRACT.md) (weekly), and
-mirrored as TypeScript types in `src/types.ts` — treat those as a stable
-interface (additive fields are safe; renames/removals are breaking).
+breaking the app. The JSON contract is the machine-readable schema in
+[`docs/schema/digest.schema.json`](docs/schema/digest.schema.json) (daily and
+weekly), mirrored as TypeScript types in `src/types.ts` — treat those as a stable
+interface (additive fields are safe; renames/removals are breaking). The
+authoritative prose contract and validator live in the generator repo.
 
 ## Accessibility
 

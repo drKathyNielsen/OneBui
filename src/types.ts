@@ -1,9 +1,9 @@
 export type Style = 'classic' | 'modern' | 'friendly';
 export type Theme = 'light' | 'dark';
 
-// Mirrors docs/DIGEST_OUTPUT_CONTRACT.md §4. Treat as a stable interface:
-// additive fields are safe; renames/removals are breaking. The generator also
-// emits an incidental `metro` (CBSA) field not modeled here — safe to ignore.
+// Mirrors docs/schema/digest.schema.json (#/$defs/Article, DailyDigest). Treat
+// as a stable interface: additive fields are safe; renames/removals are breaking.
+// The generator also emits an incidental `metro` (CBSA) field not modeled here.
 export interface RawImage {
   url: string;
   alt: string;
@@ -34,7 +34,7 @@ export interface RawAlert {
   ends: string | null; // ISO 8601 with numeric offset, or null when open-ended
 }
 
-// A per-day daily brief. See docs/DIGEST_OUTPUT_CONTRACT.md §4.
+// A per-day daily brief. See docs/schema/digest.schema.json #/$defs/DailyDigest.
 export interface RawCity {
   shortName: string;
   metroCode: string;
@@ -46,7 +46,8 @@ export interface RawCity {
   weather_alert?: RawAlert[]; // 0+ active alerts; sits above are_you_ok (additive)
 }
 
-// The editorially aggregated weekly brief. See docs/WEEKLY_DIGEST_CONTRACT.md.
+// The editorially aggregated weekly brief. See docs/schema/digest.schema.json
+// #/$defs/WeeklyDigest.
 // Shares RawArticle with the daily; differs in `period`, `range`, and item counts.
 export interface RawWeekly {
   period: 'weekly';
