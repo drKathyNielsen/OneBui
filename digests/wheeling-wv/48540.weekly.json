@@ -4,51 +4,41 @@
   "metroCode": "48540",
   "metro": "Wheeling, WV-OH",
   "range": {
-    "start": "2026-07-21",
-    "end": "2026-07-27"
+    "start": "2026-07-22",
+    "end": "2026-07-28"
   },
   "are_you_ok": [
     {
-      "title": "Localized flooding in several areas of Marshall County amid flash flood warning, driver rescued from car",
-      "summary": "The July 21 flash-flood emergency at its most acute — localized flooding across Marshall County with a driver rescued from a car, the moment closest to the reader's metro and most directly threatening to people here.",
+      "title": "Haze & Atmospheric Smoke Returns",
+      "summary": "Atmospheric haze and smoke returned over the metro late in the week (July 28), an in-metro air-quality event touching everyone with lungs to worry about — the most direct check-in of the week.",
       "source": "Wheeling News and Weather",
-      "topic": "flood",
-      "url": "https://www.wtrf.com/top-stories/localized-flooding-in-several-areas-of-marshall-county-amid-flash-flood-warning-driver-rescued-from-car/",
-      "published_at": "2026-07-21T23:32:10+00:00",
-      "image": null,
-      "description": "MARSHALL COUNTY, W.Va. (WTRF) - Severe weather prompted a flash flood warning across the Ohio Valley Tuesday, including Marshall County, W.Va.   The national weather service extended that warning until 8:00 p.m. Tuesday.   Around 3:00 p.m., Marshall County’s EMA Director Tom"
-    },
-    {
-      "title": "“What do I do? Where do I start?” Buckhannon area business owner lost it all in last week’s high water",
-      "summary": "The human toll of the same high-water week, seen days later in the Buckhannon area: a business owner who lost everything and doesn't know where to begin — a check-in that still lands well after the water receded.",
-      "source": "WV MetroNews",
-      "topic": "flood",
-      "url": "https://wvmetronews.com/2026/07/26/what-do-i-do-where-do-i-start-buckhannon-area-business-owner-lost-it-all-in-last-weeks-high-water/",
-      "published_at": "2026-07-26T21:40:41+00:00",
+      "topic": "air-quality",
+      "url": "https://www.wtrf.com/weather/haze-atmospheric-smoke-returns/",
+      "published_at": "2026-07-28T00:56:41+00:00",
       "image": {
-        "url": "https://s3.us-east-005.backblazeb2.com/wvmn-s3/2026/07/lede-upshur-1-300x164.jpg",
+        "url": "https://www.wtrf.com/wp-content/uploads/sites/25/2026/07/Hazy-Sunset.jpg?w=900",
         "alt": ""
       },
-      "description": "Brushy Fork came raging out of its banks impacting Rodney Rovello and family forever. The post “What do I do? Where do I start?” Buckhannon area business owner lost it all in last week’s high water appeared first on WV MetroNews."
+      "description": "If you've been out & about over the last few days you may have noticed it: smoky skies have returned to the Ohio Valley. The haze that plagued Sunday's skies returned to the area on Monday. The smoky skies from a few weeks ago were caused primarily by wildfires in Canada. while"
+    },
+    {
+      "title": "FirstEnergy continues restoration efforts following historic storm",
+      "summary": "A historic storm knocked out power across the region on July 22; FirstEnergy was still working restoration days later — a wide, sustained outage worth asking anyone here how they weathered it.",
+      "source": "WV MetroNews",
+      "topic": "severe-weather",
+      "url": "https://wvmetronews.com/2026/07/22/firstenergy-continues-restoration-efforts-following-historic-storm/",
+      "published_at": "2026-07-22T18:40:43+00:00",
+      "image": {
+        "url": "https://s3.us-east-005.backblazeb2.com/wvmn-s3/2026/07/IMG_9891-300x225.jpg",
+        "alt": ""
+      },
+      "description": "Storms ravaged West Virginia Tuesday night. The post FirstEnergy continues restoration efforts following historic storm appeared first on WV MetroNews."
     }
   ],
   "conversation_starters": [
     {
-      "title": "Greenbrier financial deal in the works is ‘not merely a loan but a joint venture’",
-      "summary": "A major Greenbrier financial deal reframed late in the week as a joint venture rather than a loan — a fresh, headline-worthy business story that opens a conversation without touching the flood.",
-      "source": "WV MetroNews",
-      "topic": "business-jobs",
-      "url": "https://wvmetronews.com/2026/07/27/greenbrier-financial-deal-in-the-works-is-not-merely-a-loan-but-a-joint-venture/",
-      "published_at": "2026-07-27T12:43:16+00:00",
-      "image": {
-        "url": "https://s3.us-east-005.backblazeb2.com/wvmn-s3/2024/08/53822035939_28cafc833b_c-300x200.jpg",
-        "alt": ""
-      },
-      "description": "Justice and his family have been pursuing a financial arrangement with Kennedy Lewis Investment Management, a New York-based private credit and alternative asset firm. The post Greenbrier financial deal in the works is ‘not merely a loan but a joint venture’ appeared first on WV"
-    },
-    {
       "title": "Faith takes center stage on final day of Italian Festival",
-      "summary": "The 43rd Upper Ohio Valley Italian Heritage Festival ran through the week, from cooking demos at the Little Italy Tent to a faith-centered final day — a hometown celebration easy for anyone here to bring up.",
+      "summary": "The 43rd Upper Ohio Valley Italian Heritage Festival ran through the weekend, opening with food and cooking demos (July 24) and closing on a day of faith (July 26) — a hometown gathering everyone can talk about.",
       "source": "Wheeling News and Weather",
       "topic": "civic-events",
       "url": "https://www.wtrf.com/top-stories/faith-takes-center-stage-on-final-day-of-italian-festival/",
@@ -88,8 +78,49 @@
       ]
     },
     {
+      "title": "National Jamboree rolls on in Fayette County, includes Navy experience for scouts",
+      "summary": "The National Scout Jamboree began its 10-day run at Bechtel Summit on July 22 and rolled on through the week, adding a Navy experience for scouts — a big, easy, feel-good regional draw.",
+      "source": "WV MetroNews",
+      "topic": "civic-events",
+      "url": "https://wvmetronews.com/2026/07/27/national-jamboree-rolls-on-in-fayette-county-includes-navy-experience-for-scouts/",
+      "published_at": "2026-07-28T01:27:57+00:00",
+      "image": {
+        "url": "https://s3.us-east-005.backblazeb2.com/wvmn-s3/2026/07/IMG_7003-300x240.jpeg",
+        "alt": ""
+      },
+      "description": "The Jamboree wraps up Friday. The post National Jamboree rolls on in Fayette County, includes Navy experience for scouts appeared first on WV MetroNews.",
+      "thread": [
+        {
+          "title": "2026 National Scout Jamboree begins its 10-day run at Bechtel Summit in Fayette County",
+          "summary": "National Scout Jamboree, tens of thousands, major recurring WV event at Bechtel Summit; widely known statewide. You could open with: 'The National Scout Jamboree kicked off at Summit Bechtel — did you know it draws tens of thousands?'",
+          "source": "WV MetroNews",
+          "topic": "civic-events",
+          "url": "https://wvmetronews.com/2026/07/22/2026-national-scout-jamboree-begins-its-10-day-run-at-bechtel-summit-in-fayette-county/",
+          "published_at": "2026-07-22T22:41:57+00:00",
+          "image": {
+            "url": "https://s3.us-east-005.backblazeb2.com/wvmn-s3/2026/07/scouts-300x300.jpg",
+            "alt": ""
+          },
+          "description": "Tens of thousands of scouts are participating this year. The post 2026 National Scout Jamboree begins its 10-day run at Bechtel Summit in Fayette County appeared first on WV MetroNews."
+        },
+        {
+          "title": "National Jamboree rolls on in Fayette County, includes Navy experience for scouts",
+          "summary": "National Jamboree at the Summit in Fayette County — a marquee recurring WV event, work-safe and fun. You could open with: 'Did you catch that the National Scout Jamboree is wrapping up down at the Summit this week?'",
+          "source": "WV MetroNews",
+          "topic": "civic-events",
+          "url": "https://wvmetronews.com/2026/07/27/national-jamboree-rolls-on-in-fayette-county-includes-navy-experience-for-scouts/",
+          "published_at": "2026-07-28T01:27:57+00:00",
+          "image": {
+            "url": "https://s3.us-east-005.backblazeb2.com/wvmn-s3/2026/07/IMG_7003-300x240.jpeg",
+            "alt": ""
+          },
+          "description": "The Jamboree wraps up Friday. The post National Jamboree rolls on in Fayette County, includes Navy experience for scouts appeared first on WV MetroNews."
+        }
+      ]
+    },
+    {
       "title": "Smells of Greece fill Chapline Street as the 25th Annual Grecian Festival kicks off in Wheeling",
-      "summary": "Wheeling's 25th Annual Grecian Festival filled Chapline Street with the smells of Greece — a nearby, feel-good civic event and a natural workweek opener.",
+      "summary": "Wheeling's 25th Annual Grecian Festival kicked off July 22 on Chapline Street — a beloved city tradition that gives an easy conversational opener.",
       "source": "Wheeling News and Weather",
       "topic": "civic-events",
       "url": "https://www.wtrf.com/top-stories/smells-of-greece-fill-chapline-street-as-the-25th-annual-grecian-festival-kicks-off-in-wheeling/",
@@ -98,21 +129,21 @@
       "description": "WHEELING, W.Va. (WTRF) - The sights, sounds and smells of Greece filled the air on Chapline Street outside of St. John the Divine Greek Orthodox Church Wednesday as they kicked off their 25th Annual Grecian Festival. The three-day event is running now until Friday, July 24. Each"
     },
     {
-      "title": "2026 National Scout Jamboree begins its 10-day run at Bechtel Summit in Fayette County",
-      "summary": "The 2026 National Scout Jamboree kicked off its 10-day run at the Bechtel Summit in Fayette County — a statewide draw that gives the week a lighter, distinctly West Virginia talking point.",
+      "title": "Greenbrier financial deal in the works is ‘not merely a loan but a joint venture’",
+      "summary": "The Greenbrier's financial deal took shape as a joint venture rather than a simple loan — a business story with statewide intrigue that invites a real exchange.",
       "source": "WV MetroNews",
-      "topic": "civic-events",
-      "url": "https://wvmetronews.com/2026/07/22/2026-national-scout-jamboree-begins-its-10-day-run-at-bechtel-summit-in-fayette-county/",
-      "published_at": "2026-07-22T22:41:57+00:00",
+      "topic": "business-jobs",
+      "url": "https://wvmetronews.com/2026/07/27/greenbrier-financial-deal-in-the-works-is-not-merely-a-loan-but-a-joint-venture/",
+      "published_at": "2026-07-27T12:43:16+00:00",
       "image": {
-        "url": "https://s3.us-east-005.backblazeb2.com/wvmn-s3/2026/07/scouts-300x300.jpg",
+        "url": "https://s3.us-east-005.backblazeb2.com/wvmn-s3/2024/08/53822035939_28cafc833b_c-300x200.jpg",
         "alt": ""
       },
-      "description": "Tens of thousands of scouts are participating this year. The post 2026 National Scout Jamboree begins its 10-day run at Bechtel Summit in Fayette County appeared first on WV MetroNews."
+      "description": "Justice and his family have been pursuing a financial arrangement with Kennedy Lewis Investment Management, a New York-based private credit and alternative asset firm. The post Greenbrier financial deal in the works is ‘not merely a loan but a joint venture’ appeared first on WV"
     },
     {
       "title": "EF-1 Tornado confirmed in Pendleton County, full report released",
-      "summary": "An EF-1 tornado in Pendleton County confirmed in a full report — a striking weather footnote to the stormy week, interesting to raise but well removed from the metro.",
+      "summary": "The NWS confirmed an EF-1 tornado in Pendleton County and released the full report (July 24) — a striking severe-weather item that gets people talking without being too heavy.",
       "source": "WV MetroNews",
       "topic": "severe-weather",
       "url": "https://wvmetronews.com/2026/07/24/ef-1-tornado-confirmed-in-pendleton-county-full-report-released/",
@@ -126,8 +157,90 @@
   ],
   "you_should_know": [
     {
+      "title": "Governor Morrisey reacts to Pritt arrest, resignation",
+      "summary": "State delegate Pritt faced federal charges of seducing a 15-year-old (July 22), then resigned; Gov. Morrisey reacted by July 27. An in-metro political scandal reverberating through the week — walk in aware.",
+      "source": "Wheeling News and Weather",
+      "topic": "elections-politics",
+      "url": "https://www.wtrf.com/news/governor-morrisey-reacts-to-pritt-arrest-resignation/",
+      "published_at": "2026-07-27T22:41:31+00:00",
+      "image": {
+        "url": "https://www.wtrf.com/wp-content/uploads/sites/25/2025/11/West-Virginia-Governor-Patrick-Morrisey_405e7b_31ca16.jpg?w=900",
+        "alt": ""
+      },
+      "description": "MARSHALL COUNTY, W.Va (WTRF) - David Pritt has resigned from his position in the West Virginia House of Delegates following his arrest last week for allegedly enticing a minor. In a statement to the Speaker of the House, he said, \"I resign from the West Virginia House of",
+      "thread": [
+        {
+          "title": "State delegate who works as a teacher faces federal charges of seducing 15-year-old girl",
+          "summary": "Sitting state delegate charged federally and removed by the Speaker; political-institutional event landing on the state. Unsafe opener; walk in aware. Not conversation starters (official/political).",
+          "source": "WV MetroNews",
+          "topic": "elections-politics",
+          "url": "https://wvmetronews.com/2026/07/22/state-delegate-who-works-as-a-teacher-faces-federal-charges-of-seducing-15-year-old-girl/",
+          "published_at": "2026-07-22T22:35:55+00:00",
+          "image": {
+            "url": "https://wvmetronews.com/wp-content/uploads/2023/02/PBZ_8824-1-300x200.jpg",
+            "alt": ""
+          },
+          "description": "A state delegate who is also a school teacher is being accused in federal court of seducing a 15-year-old girl. Delegate Elliott Pritt, a Republican from Fayette County, was charged with enticement of a minor and made an initial appearance before U.S. Magistrate Judge Dwane"
+        },
+        {
+          "title": "Governor Morrisey reacts to Pritt arrest, resignation",
+          "summary": "Governor reacts to delegate Pritt's arrest/resignation — political-institutional story involving an elected official's crime, landing on WV. You should know, not a safe opener. Continuation of the Pritt reaction incident.",
+          "source": "Wheeling News and Weather",
+          "topic": "elections-politics",
+          "url": "https://www.wtrf.com/news/governor-morrisey-reacts-to-pritt-arrest-resignation/",
+          "published_at": "2026-07-27T22:41:31+00:00",
+          "image": {
+            "url": "https://www.wtrf.com/wp-content/uploads/sites/25/2025/11/West-Virginia-Governor-Patrick-Morrisey_405e7b_31ca16.jpg?w=900",
+            "alt": ""
+          },
+          "description": "MARSHALL COUNTY, W.Va (WTRF) - David Pritt has resigned from his position in the West Virginia House of Delegates following his arrest last week for allegedly enticing a minor. In a statement to the Speaker of the House, he said, \"I resign from the West Virginia House of"
+        }
+      ]
+    },
+    {
+      "title": "Clean-up efforts take center stage in Upshur, Lewis and Pleasants counties",
+      "summary": "Flood cleanup dominated Upshur, Lewis and Pleasants counties all week — from early relief efforts by WVU Wesleyan and the Red Cross (July 23) to ongoing multi-county clean-up (July 27).",
+      "source": "WV MetroNews",
+      "topic": "flood",
+      "url": "https://wvmetronews.com/2026/07/27/clean-up-efforts-take-center-stage-in-upshur-lewis-and-pleasants-counties/",
+      "published_at": "2026-07-27T22:42:53+00:00",
+      "image": {
+        "url": "https://s3.us-east-005.backblazeb2.com/wvmn-s3/2026/07/Weston_flood_debris-300x161.jpg",
+        "alt": ""
+      },
+      "description": "Counties set priorities after flooding and tornadoes. The post Clean-up efforts take center stage in Upshur, Lewis and Pleasants counties appeared first on WV MetroNews.",
+      "thread": [
+        {
+          "title": "West Virginia Wesleyan College, American Red Cross among groups aiding Upshur County relief",
+          "summary": "Relief effort follow-up to the major Upshur County flood disaster.",
+          "source": "WV MetroNews",
+          "topic": "flood",
+          "url": "https://wvmetronews.com/2026/07/23/west-virginia-wesleyan-college-american-red-cross-among-groups-aiding-upshur-county-relief/",
+          "published_at": "2026-07-23T16:06:03+00:00",
+          "image": {
+            "url": "https://s3.us-east-005.backblazeb2.com/wvmn-s3/2026/07/IMG_8454-300x225.jpeg",
+            "alt": ""
+          },
+          "description": "WVWC serves as the hub for supply donations to the area. The post West Virginia Wesleyan College, American Red Cross among groups aiding Upshur County relief appeared first on WV MetroNews."
+        },
+        {
+          "title": "Clean-up efforts take center stage in Upshur, Lewis and Pleasants counties",
+          "summary": "Cleanup efforts in Upshur/Lewis/Pleasants after flooding and tornadoes — recovery/mitigation framing, not the acute harm, so you should know rather than are you ok. Continuation of the flood cleanup incident.",
+          "source": "WV MetroNews",
+          "topic": "flood",
+          "url": "https://wvmetronews.com/2026/07/27/clean-up-efforts-take-center-stage-in-upshur-lewis-and-pleasants-counties/",
+          "published_at": "2026-07-27T22:42:53+00:00",
+          "image": {
+            "url": "https://s3.us-east-005.backblazeb2.com/wvmn-s3/2026/07/Weston_flood_debris-300x161.jpg",
+            "alt": ""
+          },
+          "description": "Counties set priorities after flooding and tornadoes. The post Clean-up efforts take center stage in Upshur, Lewis and Pleasants counties appeared first on WV MetroNews."
+        }
+      ]
+    },
+    {
       "title": "Morrisey makes federal disaster request for 7 counties after July 21 storms",
-      "summary": "The state's formal response to the July 21 storms: Gov. Morrisey filed a federal disaster request for seven counties, the clearest signal of the flooding's official scale and the recovery money to come.",
+      "summary": "Morrisey filed a federal disaster request for seven counties after the July 21 storms (July 26), a formal escalation of the region's flood-recovery story.",
       "source": "WV MetroNews",
       "topic": "flood",
       "url": "https://wvmetronews.com/2026/07/26/morrisey-makes-federal-disaster-request-for-7-counties-after-july-21-storms/",
@@ -139,56 +252,30 @@
       "description": "Morrisey hoping for both individual and public assistance. The post Morrisey makes federal disaster request for 7 counties after July 21 storms appeared first on WV MetroNews."
     },
     {
-      "title": "State delegate who works as a teacher faces federal charges of seducing 15-year-old girl",
-      "summary": "The Pritt scandal that dominated the week's politics — a sitting delegate and teacher hit with federal charges of seducing a 15-year-old, escalating to the speaker's push for a special session to remove him from office.",
+      "title": "Company that owns Pleasants Power Station files for bankruptcy",
+      "summary": "The company that owns Pleasants Power Station filed for bankruptcy (July 27) — an economic development story with real stakes for jobs in the region.",
       "source": "WV MetroNews",
-      "topic": "elections-politics",
-      "url": "https://wvmetronews.com/2026/07/22/state-delegate-who-works-as-a-teacher-faces-federal-charges-of-seducing-15-year-old-girl/",
-      "published_at": "2026-07-22T22:35:55+00:00",
+      "topic": "business-jobs",
+      "url": "https://wvmetronews.com/2026/07/27/company-that-owns-pleasants-power-station-files-for-bankruptcy/",
+      "published_at": "2026-07-27T23:49:34+00:00",
       "image": {
-        "url": "https://wvmetronews.com/wp-content/uploads/2023/02/PBZ_8824-1-300x200.jpg",
+        "url": "https://s3.us-east-005.backblazeb2.com/wvmn-s3/2025/09/Pleasants-Power-Station-8-300x200.jpg",
         "alt": ""
       },
-      "description": "A state delegate who is also a school teacher is being accused in federal court of seducing a 15-year-old girl. Delegate Elliott Pritt, a Republican from Fayette County, was charged with enticement of a minor and made an initial appearance before U.S. Magistrate Judge Dwane"
+      "description": "Omnis Pleasants, LLC. stated in a news release it intends to keep the facility open and sell to an independent third party. The post Company that owns Pleasants Power Station files for bankruptcy appeared first on WV MetroNews."
     },
     {
-      "title": "Freedom Caucus members are ‘thumbs down’ on Flock",
-      "summary": "Freedom Caucus members came out against the Flock surveillance system in Huntington — a fresh, late-week policing-and-privacy fight worth walking in aware of.",
+      "title": "Harrison County Board of Education holds first meeting since partial state takeover",
+      "summary": "The Harrison County Board of Education held its first meeting since a partial state takeover (July 22) — a distinct governance story separate from the week's floods and politics.",
       "source": "WV MetroNews",
-      "topic": "policing",
-      "url": "https://wvmetronews.com/2026/07/26/freedom-caucus-members-are-thumbs-down-on-flock/",
-      "published_at": "2026-07-27T00:05:48+00:00",
+      "topic": "education",
+      "url": "https://wvmetronews.com/2026/07/21/harrison-county-board-of-education-holds-first-meeting-since-partial-state-takeover/",
+      "published_at": "2026-07-22T02:02:18+00:00",
       "image": {
-        "url": "https://s3.us-east-005.backblazeb2.com/wvmn-s3/2025/03/32A_3B1_8048735_849719605_4-300x200.jpg",
+        "url": "https://s3.us-east-005.backblazeb2.com/wvmn-s3/2026/07/Screenshot_21-7-2026_215548_www.youtube.com_-300x183.jpeg",
         "alt": ""
       },
-      "description": "Legislation planned. The post Freedom Caucus members are ‘thumbs down’ on Flock appeared first on WV MetroNews."
-    },
-    {
-      "title": "Names released in flood fatality",
-      "summary": "The names of those killed in the flooding were released — the gravest human fact of the week's disaster, context to carry quietly rather than raise.",
-      "source": "WV MetroNews",
-      "topic": "flood",
-      "url": "https://wvmetronews.com/2026/07/24/names-released-in-flood-fatality/",
-      "published_at": "2026-07-24T18:12:26+00:00",
-      "image": {
-        "url": "https://s3.us-east-005.backblazeb2.com/wvmn-s3/2026/07/State-Police-Flood-300x202.jpg",
-        "alt": ""
-      },
-      "description": "Man and woman identified in flood related deaths. The post Names released in flood fatality appeared first on WV MetroNews."
-    },
-    {
-      "title": "PSC approves West Virginia-American Water purchase of Lincoln County water utility for $12.9 million",
-      "summary": "The PSC approved West Virginia-American Water's $12.9 million purchase of the Lincoln County water utility — a quieter regulatory move on the state's water landscape, distinct from the flood coverage.",
-      "source": "WV MetroNews",
-      "topic": "drought-water",
-      "url": "https://wvmetronews.com/2026/07/25/psc-approves-west-virginia-american-water-purchase-of-lincoln-county-water-utility-for-12-9-million/",
-      "published_at": "2026-07-25T15:28:28+00:00",
-      "image": {
-        "url": "https://wvmetronews.com/wp-content/uploads/2022/10/PSC-buiding-new-e1494868448457-1440x1080-1-300x225.jpg",
-        "alt": ""
-      },
-      "description": "The Lincoln Public Service District serves customers in Lincoln, Kanawha, and Boone counties. The post PSC approves West Virginia-American Water purchase of Lincoln County water utility for $12.9 million appeared first on WV MetroNews."
+      "description": "The state Board of Education seized partial control over Harrison County Schools earlier this month. The post Harrison County Board of Education holds first meeting since partial state takeover appeared first on WV MetroNews."
     }
   ],
   "sports": []

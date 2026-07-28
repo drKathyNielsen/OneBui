@@ -1,0 +1,50 @@
+{
+  "shortName": "Charlotte, NC",
+  "metroCode": "16740",
+  "metro": "Charlotte-Concord-Gastonia, NC-SC",
+  "date": "2026-07-28",
+  "are_you_ok": [
+    {
+      "title": "Severe storms possible Tuesday in the Charlotte area",
+      "summary": "Incoming severe weather threat for the Charlotte metro — a just-ahead event the broad local population is affected by. Continuation of the Tuesday-storms tracking.",
+      "source": "Queen City News",
+      "topic": "severe-weather",
+      "url": "https://www.qcnews.com/weather/weather-forecast/severe-storms-possible-tuesday-in-the-charlotte-area/",
+      "published_at": "2026-07-28T10:43:24+00:00",
+      "image": {
+        "url": "https://www.qcnews.com/wp-content/uploads/sites/109/2026/07/NOON-FUTURECAST.png?w=900",
+        "alt": ""
+      },
+      "description": "We are tracking the threat for severe weather Tuesday, but there is a good amount of uncertainty about how significant the threat will be."
+    }
+  ],
+  "conversation_starters": [
+    {
+      "title": "Monroe moves to voluntary water conservation after rain refills reservoirs",
+      "summary": "Monroe easing water restrictions after rains refilled reservoirs — a relief/mitigation angle, not a check-in harm, and locally interesting. You could open with: 'Did you see Monroe's back to just voluntary water conservation after the rains?'",
+      "source": "NBC Charlotte",
+      "topic": "drought-water",
+      "url": "https://www.wcnc.com/article/news/local/monroe-moves-back-to-stage-1-water-conservation/275-0b96fd0b-549a-4f59-beb7-80baac0b6601",
+      "published_at": "2026-07-28T13:32:54+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/WCNC/images/eb40e229-a16a-49ab-9300-08ddbf95e809/20260728T132813/eb40e229-a16a-49ab-9300-08ddbf95e809_750x422.jpg",
+        "alt": ""
+      },
+      "description": "Monroe shifted from mandatory to voluntary water restrictions after rains boosted reservoirs; however, residents are urged to conserve water responsibly."
+    }
+  ],
+  "sports": [],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "NC attorney general joins lawsuit over FEMA grant funding conditions",
+      "summary": "NC AG joining a multistate suit over FEMA funding conditions — political-institutional story landing on the state; walk in aware, don't open with it. Continuation of the existing incident.",
+      "source": "Charlotte Public Radio",
+      "topic": "elections-politics",
+      "url": "https://www.wfae.org/politics/2026-07-27/nc-attorney-general-joins-lawsuit-over-fema-grant-funding-conditions",
+      "published_at": "2026-07-28T00:57:11+00:00",
+      "image": null,
+      "description": "North Carolina Attorney General Jeff Jackson is joining a coalition of two dozen Democratic-led states in a lawsuit against the Federal Emergency Management Agency over plans that could withhold counterterrorism funding from states."
+    }
+  ]
+}

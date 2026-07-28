@@ -5,32 +5,32 @@
   "date": "2026-07-27",
   "are_you_ok": [
     {
-      "title": "Dew point record set Monday in the Twin Cities as heat advisory continues",
-      "summary": "Record dew point in Twin Cities, heat advisory continues — diffuse heat effect landing on the whole metro. Appeal: are you ok — extreme heat/humidity affecting broad local population.",
-      "source": "CBS Minnesota",
+      "title": "Minnesota hits 100 degrees for first time since 2022",
+      "summary": "MN hits 100 for first time since 2022 — big just-happened heat event affecting the metro. Are-you-ok.",
+      "source": "FOX 9",
       "topic": "heat",
-      "url": "https://www.cbsnews.com/minnesota/news/minnesota-weather-july-27-2026/",
-      "published_at": "2026-07-27T14:26:20+00:00",
+      "url": "https://www.fox9.com/news/minnesota-hits-100-degrees-first-time-since-2022-july-27-2026",
+      "published_at": "2026-07-27T23:28:56+00:00",
       "image": {
-        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/07/15/13aaf65c-46a9-4030-9f95-0dde1467154a/thumbnail/1024x576/1e5292d71e48addefa9cc20e9ae005a6/gettyimages-2149644773.jpg",
+        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2025/05/image2025-05-11-16h26m45s878.jpg",
         "alt": ""
       },
-      "description": "The Twin Cities broke a record for dew point temperatures early Monday, reaching 81 degrees at 2 a.m. Humidity, however, will drop during another hot afternoon."
+      "description": "According to the National Weather Service, parts of Minnesota hit 100 degrees air temperature on Monday. Officials say it’s the first time the state has had a high temperature in the triple digits in more than four years."
     }
   ],
   "conversation_starters": [
     {
-      "title": "Some BWCA entry points reopen for day passes, and more headlines",
-      "summary": "BWCA entry points reopen for day passes amid the northern wildfires — a mitigation/reopening (positive framing), work-safe opener about the north woods. Appeal: conversation starters. You could open with: 'Did you see parts of the Boundary Waters reopened for day trips?'",
-      "source": "CBS Minnesota",
+      "title": "Officials downgrade evacuation warnings as crews suppress wildfires in northern Minnesota",
+      "summary": "Evacuation downgrades for northern MN wildfires, ongoing local impact story.",
+      "source": "KARE 11",
       "topic": "wildfire",
-      "url": "https://www.cbsnews.com/minnesota/video/some-bwca-entry-points-reopen-for-day-passes-and-more-headlines/",
-      "published_at": "2026-07-27T11:28:00+00:00",
+      "url": "https://www.kare11.com/article/news/local/officials-downgrade-evacuation-warnings-as-crews-suppress-wildfires-in-northern-minnesota/89-5a2102bf-9cef-4403-b336-a13e340c002e",
+      "published_at": "2026-07-27T17:20:32+00:00",
       "image": {
-        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/07/27/6a957d9a-8d7b-4a54-86d9-90cf065599b7/thumbnail/1024x576/305242efd10fc82443e94d564aab14f2/1eb0853abb07a4e0edf938040b15b9e8.jpg",
+        "url": "https://media.tegna-media.com/assets/KARE/images/b09ea97c-9a04-4802-9206-ae5b9789f58d/20260716T110210/b09ea97c-9a04-4802-9206-ae5b9789f58d_750x422.jpg",
         "alt": ""
       },
-      "description": "Day trips will resume in some parts of the Boundary Waters Canoe Area Wilderness in northern Minnesota on Monday, plus more of the day’s top stories."
+      "description": "Some residents can return home on Monday as evacuation orders were lifted across Lake and St. Louis counties."
     },
     {
       "title": "Minnesota DNR: More fish dying as heat, lack of rain persist",
@@ -54,19 +54,20 @@
       ]
     }
   ],
+  "weather_alert": [],
   "you_should_know": [
     {
-      "title": "How to watch: Gov. Tim Walz to address northern Minnesota wildfires at Monday briefing",
-      "summary": "Gov's briefing on northern MN wildfires that have burned 72,500 acres. Distant point hazard (far northern MN, in-region for state but not the metro's immediate footprint) — awareness/context, not a check-in for metro residents. Appeal: you should know — political-institutional update on an ongoing crisis affecting the state.",
-      "source": "CBS Minnesota",
-      "topic": "wildfire",
-      "url": "https://www.cbsnews.com/minnesota/news/walz-northern-minnesota-wildfire-briefing-ely/",
-      "published_at": "2026-07-27T14:43:50+00:00",
+      "title": "Residents, county commissioners voice concerns with process for new Anoka County Flock Safety contract",
+      "summary": "Anoka County Flock Safety contract concerns — local surveillance/policing institutional story tied to enforcement climate. You-should-know; low confidence.",
+      "source": "KARE 11",
+      "topic": "policing",
+      "url": "https://www.kare11.com/article/news/local/residents-county-commissioners-concerns-anoka-county-flock-safety-contract/89-9cece402-ac5e-4e3a-a235-28afad0ef61e",
+      "published_at": "2026-07-27T23:41:08+00:00",
       "image": {
-        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/15/b96b54ab-c246-4e61-a238-55e6137be997/thumbnail/1024x576/1e654ab36c1534ed7e4f945de64460ff/12p-vo-t1-wildfires-wccoavik-1.jpg",
+        "url": "https://media.tegna-media.com/assets/KARE/images/e84fadf4-c860-4ab3-a26f-f75a0834ca50/20260727T221922/e84fadf4-c860-4ab3-a26f-f75a0834ca50_750x422.jpg",
         "alt": ""
       },
-      "description": "Minnesota Gov. Tim Walz is expected to visit Ely Monday morning and provide updates about the effects of the ongoing wildfires that have devastated 72,500 acres of forest in the U.S. and Canada."
+      "description": "The contract comes just a few hundred dollars short of county board approval."
     },
     {
       "title": "Ilhan Omar says her top priority remains Trump's immigration crackdown heading into midterms",

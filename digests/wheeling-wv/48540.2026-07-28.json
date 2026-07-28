@@ -1,0 +1,53 @@
+{
+  "shortName": "Wheeling, WV",
+  "metroCode": "48540",
+  "metro": "Wheeling, WV-OH",
+  "date": "2026-07-28",
+  "are_you_ok": [
+    {
+      "title": "Haze & Atmospheric Smoke Returns",
+      "summary": "Canadian wildfire smoke/haze returning to the Ohio Valley — a diffuse effect covering the region, breathing/health impact reaches the metro. Continuation of the haze incident.",
+      "source": "Wheeling News and Weather",
+      "topic": "air-quality",
+      "url": "https://www.wtrf.com/weather/haze-atmospheric-smoke-returns/",
+      "published_at": "2026-07-28T00:56:41+00:00",
+      "image": {
+        "url": "https://www.wtrf.com/wp-content/uploads/sites/25/2026/07/Hazy-Sunset.jpg?w=900",
+        "alt": ""
+      },
+      "description": "If you've been out & about over the last few days you may have noticed it: smoky skies have returned to the Ohio Valley. The haze that plagued Sunday's skies returned to the area on Monday. The smoky skies from a few weeks ago were caused primarily by wildfires in Canada. while"
+    }
+  ],
+  "conversation_starters": [
+    {
+      "title": "National Jamboree rolls on in Fayette County, includes Navy experience for scouts",
+      "summary": "National Jamboree at the Summit in Fayette County — a marquee recurring WV event, work-safe and fun. You could open with: 'Did you catch that the National Scout Jamboree is wrapping up down at the Summit this week?'",
+      "source": "WV MetroNews",
+      "topic": "civic-events",
+      "url": "https://wvmetronews.com/2026/07/27/national-jamboree-rolls-on-in-fayette-county-includes-navy-experience-for-scouts/",
+      "published_at": "2026-07-28T01:27:57+00:00",
+      "image": {
+        "url": "https://s3.us-east-005.backblazeb2.com/wvmn-s3/2026/07/IMG_7003-300x240.jpeg",
+        "alt": ""
+      },
+      "description": "The Jamboree wraps up Friday. The post National Jamboree rolls on in Fayette County, includes Navy experience for scouts appeared first on WV MetroNews."
+    }
+  ],
+  "sports": [],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "Judge grants delay for Justices to work on financial deal, but then sets deadlines",
+      "summary": "Continuation of the Justices/Greenbrier financial deal court proceeding — political-institutional context landing on WV. Keep as you should know; not a safe opener.",
+      "source": "WV MetroNews",
+      "topic": "elections-politics",
+      "url": "https://wvmetronews.com/2026/07/28/judge-grants-delay-for-justices-to-work-on-financial-deal-but-then-sets-deadlines/",
+      "published_at": "2026-07-28T11:56:28+00:00",
+      "image": {
+        "url": "https://wvmetronews.com/wp-content/uploads/2022/10/courthouse-300x225.jpg",
+        "alt": ""
+      },
+      "description": "Volk set a prehearing conference date of 10 a.m. Sept. 3 in Charleston, a deadline to submit findings of fact and conclusions of law by Sept. 9 and an evidentiary hearing at 10 a.m. Sept. 16 in Charleston. The post Judge grants delay for Justices to work on financial deal, but"
+    }
+  ]
+}

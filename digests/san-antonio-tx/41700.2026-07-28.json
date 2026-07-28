@@ -1,0 +1,60 @@
+{
+  "shortName": "San Antonio, TX",
+  "metroCode": "41700",
+  "metro": "San Antonio-New Braunfels, TX",
+  "date": "2026-07-28",
+  "are_you_ok": [],
+  "conversation_starters": [
+    {
+      "title": "Invasive bamboo gets a second life helping animals at San Antonio Zoo",
+      "summary": "Light, novel local feel-good story — invasive bamboo repurposed as zoo animal food. Prime work-safe opener. You could open with: 'Did you hear the San Antonio Zoo is feeding its animals bamboo pulled from Brackenridge Park?'",
+      "source": "KENS 5",
+      "topic": "human-interest",
+      "url": "https://www.kens5.com/article/news/local/brackenridge-park-bamboo-san-antonio-zoo-conservation-enrichment-invasive-wildlife-habitat-volunteers-restoration-ecosystem-browse-sustainability/273-112a49bb-9088-48e3-abae-fcc33de99541",
+      "published_at": "2026-07-28T12:36:29+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/e96303ef-39da-40df-ae78-17248de70581/20260728T123537/e96303ef-39da-40df-ae78-17248de70581_750x422.jpg",
+        "alt": ""
+      },
+      "description": "Brackenridge Park Conservancy is removing invasive bamboo and partnering with San Antonio Zoo to turn it into food and enrichment for animals."
+    }
+  ],
+  "sports": [],
+  "weather_alert": [
+    {
+      "event": "Heat Advisory",
+      "area": "Atascosa & Wilson",
+      "summary": "Heat Advisory — Atascosa & Wilson, until 7:00pm",
+      "description": "Heat Advisory issued July 27 at 11:42PM CDT until July 28 at 7:00PM CDT by NWS Austin/San Antonio TX\n\n* WHAT...Heat index values from 108 to 111 expected.\n\n* WHERE...The Coastal Plains and portions of the Rio Grande Plains.\n\n* WHEN...From noon to 7 PM CDT Tuesday.\n\n* IMPACTS...Hot temperatures and high humidity may cause heat\nillnesses.",
+      "ends": "2026-07-28T19:00:00-05:00"
+    }
+  ],
+  "you_should_know": [
+    {
+      "title": "Most San Antonio school districts head into a new school year with budget deficits",
+      "summary": "Metro-wide school-district financial condition — most SA districts entering the year with deficits. Not state-level but broad local institutional context worth walking in aware of; not a check-in event. Keep as you-should-know.",
+      "source": "San Antonio Report",
+      "topic": "education",
+      "url": "https://sanantonioreport.org/san-antonio-school-districts-enter-2026-2027-with-deficits/",
+      "published_at": "2026-07-28T10:00:00+00:00",
+      "image": {
+        "url": "https://i0.wp.com/sanantonioreport.org/wp-content/uploads/2026/07/SulRossMiddleSchool_NorthsideISD_NISD_StudentsClassroomHallway_iPadCellPhones_LockdownSafety_EmergencyPreparedness_11_03.19.2026_AmberEsparza-scaled-1.jpg?fit=1024%2C683&ssl=1",
+        "alt": ""
+      },
+      "description": "Out of a dozen school districts in San Antonio, only three are likely to balance their budget for the upcoming 2026-27 school year. Most San Antonio school districts head into a new school year with budget deficits was first posted on July 28, 2026 at 5:00 am.©2021 \"San Antonio"
+    },
+    {
+      "title": "Kerr County records seventh rabies case after skunk found in family's yard",
+      "summary": "Public-health condition — seventh rabies case in Kerr County (in-region for SA metro). A standing local hazard worth walking in aware of; not a discrete exposure event that lands on the reader, so not are-you-ok. Keep as you-should-know.",
+      "source": "KENS 5",
+      "topic": "public-health",
+      "url": "https://www.kens5.com/article/life/animals/kerr-county-rabies-skunk-rancheror-oad-kerrville-animal-control-reagan-givens-vaccinations-pets-wildlife-exposure-mountain-home-safety-dogs/273-5223f5f8-281d-4d6c-9346-8559e30dc7b9",
+      "published_at": "2026-07-28T13:02:00+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KCEN/images/ebf14b4c-24a8-44d1-a896-9d0482c30aef/ebf14b4c-24a8-44d1-a896-9d0482c30aef_750x422.jpg",
+        "alt": ""
+      },
+      "description": "A skunk killed by family dogs has been classified as a positive rabies case under Texas law, bringing Kerr County's total to seven this year."
+    }
+  ]
+}

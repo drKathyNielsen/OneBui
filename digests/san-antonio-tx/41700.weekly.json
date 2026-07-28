@@ -4,23 +4,26 @@
   "metroCode": "41700",
   "metro": "San Antonio-New Braunfels, TX",
   "range": {
-    "start": "2026-07-21",
-    "end": "2026-07-27"
+    "start": "2026-07-22",
+    "end": "2026-07-28"
   },
   "are_you_ok": [
     {
-      "title": "Uvalde man escapes floodwaters after car becomes stranded in Leona River",
-      "summary": "The week's defining flood arc for the region: from a Uvalde man escaping the Leona River early on (Jul 21) through cresting Hill Country waters — a broad, direct threat to people across the reader's region.",
-      "source": "KENS 5",
-      "topic": "flood",
-      "url": "https://www.kens5.com/article/weather/uvalde-man-escapes-floodwaters-leona-river-weather-texas/273-4865c260-40af-47fd-a916-01f6f5d5f376",
-      "published_at": "2026-07-21T00:42:48+00:00",
-      "image": null,
-      "description": "Some communities saw 15 to 25 inches of rain over just a few days, with some areas receiving nearly a year's worth of rainfall."
+      "title": "Heat advisory issued as dangerous temperatures return to San Antonio; here’s how to stay safe",
+      "summary": "A city-level heat advisory hit San Antonio directly on July 22, with dangerous temperatures returning and safety guidance issued — the most immediate, everyone-touches-it check-in of the week.",
+      "source": "San Antonio Report",
+      "topic": "heat",
+      "url": "https://sanantonioreport.org/heat-advisory-dangerous-temperatures-san-antonio/",
+      "published_at": "2026-07-22T11:30:00+00:00",
+      "image": {
+        "url": "https://i0.wp.com/sanantonioreport.org/wp-content/uploads/2026/07/ExtremeHeat_SouthTexas_BrightHotSunnyWeather_Shade02_06.24.2026_AmberEsparza-scaled-1.jpg?fit=1024%2C683&ssl=1",
+        "alt": ""
+      },
+      "description": "Dangerous heat returns to San Antonio this week, with a heat advisory in effect Wednesday and heat index values reaching up to 112 degrees.Heat advisory issued as dangerous temperatures return to San Antonio; here’s how to stay safe was first posted on July 22, 2026 at 6:30"
     },
     {
       "title": "Dangerous heat grips South Texas before slight cooldown | Weather Impact Alert",
-      "summary": "Dangerous South Texas heat wave gripping the metro area mid-week (Jul 23), a body-affecting hazard touching everyone the reader might check on before a slight cooldown.",
+      "summary": "Dangerous heat gripped South Texas ahead of a slight cooldown around July 23 — the regional companion to the metro heat advisory, worth asking how the contact weathered the stretch.",
       "source": "KENS 5",
       "topic": "heat",
       "url": "https://www.kens5.com/article/weather/forecast/heat-advisory-san-antonio-ercot-power-grid-electricity-triple-digits-heat-index-energy-demand-forecast-summer-hydration-air-conditioning/273-41ced3d1-9b66-4961-a7dc-a98c34a6a579",
@@ -29,156 +32,8 @@
       "description": "Triple-digit heat returns Wednesday, with heat index values up to 114 degrees as Texas power demand reaches record levels."
     }
   ],
-  "conversation_starters": [
-    {
-      "title": "San Antonio Animal Care Services waives adoption fees as shelter exceeds capacity after recent weather",
-      "summary": "San Antonio Animal Care Services waived adoption fees (Jul 25) as the shelter overflowed after storms — a warm, easy-to-raise city story with a clear call to action.",
-      "source": "KENS 5",
-      "topic": "human-interest",
-      "url": "https://www.kens5.com/article/life/animals/san-antonio-animal-care-services-0-adoption-fees-shelter-capacity-texas-weather-flood/273-0859bf4b-dcc1-434d-9d7e-322d70d3dd6e",
-      "published_at": "2026-07-25T04:10:31+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/dc3ca437-59bd-4329-91bd-877644d69674/dc3ca437-59bd-4329-91bd-877644d69674_750x422.jpg",
-        "alt": ""
-      },
-      "description": "San Antonio's animal shelter is waiving adoption fees amid overcrowding from a surge in pets following severe weather, urging locals to adopt or foster to help."
-    },
-    {
-      "title": "Faces of the Spurs listening tour: Residents excited, concerned about downtown arena, Project Marvel",
-      "summary": "The Spurs' downtown arena and Project Marvel listening tour (Jul 23) — a big civic development question locals are excited and uneasy about, a natural conversation opener.",
-      "source": "San Antonio Report",
-      "topic": "housing",
-      "url": "https://sanantonioreport.org/spurs-listening-tour-feedback-faces/",
-      "published_at": "2026-07-23T16:24:29+00:00",
-      "image": {
-        "url": "https://i0.wp.com/sanantonioreport.org/wp-content/uploads/2026/07/SpursSports_ListeningSession_DowntownSportsArena_EntertainmentDistrict_ProjectMarvel24_07.22.2026_AmberEsparza-scaled.jpg?fit=1024%2C683&ssl=1",
-        "alt": ""
-      },
-      "description": "The conversations about a new arena district downtown ranged from concerns about affordability, traffic and transparency to fan nostalgia and anticipation for a new arena.Faces of the Spurs listening tour: Residents excited, concerned about downtown arena, Project Marvel was"
-    },
-    {
-      "title": "With bonds, beams and billions of dollars, the airport’s terminal development project is on track",
-      "summary": "SAT airport's billions-in-bonds terminal project stays on track (Jul 27) — a concrete, forward-looking city infrastructure story.",
-      "source": "San Antonio Report",
-      "topic": "transportation",
-      "url": "https://sanantonioreport.org/with-bonds-beams-and-billions-of-dollars-the-airports-terminal-development-project-is-on-track/",
-      "published_at": "2026-07-27T10:00:00+00:00",
-      "image": {
-        "url": "https://i0.wp.com/sanantonioreport.org/wp-content/uploads/2026/01/SATAirport_AirplaneTravelLuggage_TerminalsAB_TSAParkingSecurity_DepartureArrival_06_01.29.2026_AmberEsparza-scaled.jpg?fit=1024%2C683&ssl=1",
-        "alt": ""
-      },
-      "description": "A newly issued revenue bond supports the $2.5 billion worth of airport projects that bring a new terminal and other improvements to SAT.With bonds, beams and billions of dollars, the airport’s terminal development project is on track was first posted on July 27, 2026 at 5:00"
-    },
-    {
-      "title": "SeaWorld San Antonio welcomes rescued belugas from former Canada marine park",
-      "summary": "SeaWorld welcomed rescued belugas from a shuttered Canadian marine park (Jul 22) — a novel, feel-good human-interest item that gets people talking.",
-      "source": "KENS 5",
-      "topic": "human-interest",
-      "url": "https://www.kens5.com/article/life/animals/sea-world-san-antonio-rescued-beluga-whales-canada-first-rescue-effort/273-37c9d57c-5b1f-4ded-8d83-d57668d8b5fb",
-      "published_at": "2026-07-22T12:16:40+00:00",
-      "image": null,
-      "description": "The whales were part of a large pod of 30 belugas living at Marineland of Canada, a closed marine park that can no longer care for them."
-    },
-    {
-      "title": "KPOPWORLD Festival bringing Jay Park, The Rose and more to Alamodome",
-      "summary": "KPOPWORLD Festival bringing Jay Park and The Rose to the Alamodome (Jul 21) — a fun, buzzy live-events opener distinct from the week's other civic stories.",
-      "source": "KENS 5",
-      "topic": "civic-events",
-      "url": "https://www.kens5.com/article/news/local/kpopworld-alamodome-jay-park-rose-sb19-jessi-artms-cravity-xdinary-heroes-wonho-dean-tabber-heyoon-dayoung-dance-championship-vendor/273-879e1834-27a9-428a-bcc6-10a7dbd9feed",
-      "published_at": "2026-07-21T13:57:48+00:00",
-      "image": null,
-      "description": "The first KPOPWORLD Festival in Texas is coming to San Antonio this fall with global artists, a dance championship and an international vendor village."
-    }
-  ],
-  "you_should_know": [
-    {
-      "title": "San Antonio Book Festival reacts as mayor weighs cuts amid $158 million budget gap",
-      "summary": "San Antonio's $158M budget gap dominated civic news all week — from Mayor Jones asking business and philanthropy to help fund events (Jul 25) to the Book Festival reacting to weighed cuts (Jul 26), a metro-wide fiscal story shaping city services.",
-      "source": "KENS 5",
-      "topic": "elections-politics",
-      "url": "https://www.kens5.com/article/news/local/san-antonio-book-festival-mayor-cuts-158-million-budget-gap/273-26d3feac-60fa-4e11-9b8e-dd56ea365151",
-      "published_at": "2026-07-26T23:04:29+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/d6de5881-7137-417c-8e7f-bbf095aab839/20260308T204818/d6de5881-7137-417c-8e7f-bbf095aab839_750x422.jpg",
-        "alt": ""
-      },
-      "description": "Facing a $158 million budget deficit, San Antonio considers deep cuts, potentially affecting nonprofits like the San Antonio Book Festival and other attractions.",
-      "thread": [
-        {
-          "title": "Mayor Jones asks business, philanthropic community to help fund San Antonio events and groups amid budget deficit",
-          "summary": "Mayor seeking alternative funding amid budget deficit — city-institutional context landing on the metro; keep-when-unsure on the context/noise boundary.",
-          "source": "KENS 5",
-          "topic": "elections-politics",
-          "url": "https://www.kens5.com/article/news/politics/san-antonio-budget-deficit-mayor-jones-letter-funding-help-botanical-garden-book-fest/273-4e0441c4-9360-4ccc-a4ce-808f06bbef67",
-          "published_at": "2026-07-25T03:32:32+00:00",
-          "image": {
-            "url": "https://media.tegna-media.com/assets/KENS/images/d5959cff-cf67-4faf-b4df-19af16fbf3fd/d5959cff-cf67-4faf-b4df-19af16fbf3fd_750x422.jpg",
-            "alt": ""
-          },
-          "description": "Mayor Gina Ortiz Jones is hunting alternative funding for some San Antonio groups as one way to address the looming budget deficit."
-        },
-        {
-          "title": "San Antonio Book Festival reacts as mayor weighs cuts amid $158 million budget gap",
-          "summary": "SA's $158M budget gap and potential cuts to civic attractions land on the metro's institutions and services — walk-in context. Continuation of existing incident. Kept as you should know.",
-          "source": "KENS 5",
-          "topic": "elections-politics",
-          "url": "https://www.kens5.com/article/news/local/san-antonio-book-festival-mayor-cuts-158-million-budget-gap/273-26d3feac-60fa-4e11-9b8e-dd56ea365151",
-          "published_at": "2026-07-26T23:04:29+00:00",
-          "image": {
-            "url": "https://media.tegna-media.com/assets/KENS/images/d6de5881-7137-417c-8e7f-bbf095aab839/20260308T204818/d6de5881-7137-417c-8e7f-bbf095aab839_750x422.jpg",
-            "alt": ""
-          },
-          "description": "Facing a $158 million budget deficit, San Antonio considers deep cuts, potentially affecting nonprofits like the San Antonio Book Festival and other attractions."
-        }
-      ]
-    },
-    {
-      "title": "11 indicted in migrant-smuggling case linked to 7 deaths",
-      "summary": "Eleven indicted in a migrant-smuggling case tied to 7 deaths (Jul 25) — a major in-metro enforcement development the reader should walk in aware of.",
-      "source": "San Antonio Report",
-      "topic": "immigration-enforcement",
-      "url": "https://sanantonioreport.org/11-indicted-in-migrant-smuggling-case-linked-to-7-deaths/",
-      "published_at": "2026-07-25T00:59:27+00:00",
-      "image": {
-        "url": "https://i0.wp.com/sanantonioreport.org/wp-content/uploads/2026/07/crop-smuggling.jpg?fit=1024%2C683&ssl=1",
-        "alt": ""
-      },
-      "description": "A federal grand jury has indicted 11 people accused of participating in a migrant-smuggling operation that resulted in seven deaths in May.11 indicted in migrant-smuggling case linked to 7 deaths was first posted on July 24, 2026 at 7:59 pm.©2021 \"San Antonio Report\". Use of"
-    },
-    {
-      "title": "Data centers emerge as flashpoint in Texas governor's race",
-      "summary": "Data centers emerging as a flashpoint in the Texas governor's race (Jul 23) — a growing statewide policy fight over power and land use.",
-      "source": "KENS 5",
-      "topic": "data-centers",
-      "url": "https://www.kens5.com/article/news/local/texas/data-centers-ai-greg-abbott-gina-hinojosa-rural-texas-water-electricity-power-grid-campaign-governor-election-infrastructure-development/273-912a31c5-9d2d-420f-a4e8-8e517f000a8c",
-      "published_at": "2026-07-23T11:49:21+00:00",
-      "image": null,
-      "description": "Concerns over water, power and rural land are turning AI data centers into a major issue in Texas politics."
-    },
-    {
-      "title": "Mayor Jones proposed ending Ready to Work to help address SA's budget gap. Council members who sit on its board are split",
-      "summary": "Mayor Jones's proposal to end Ready to Work early split council members on its board (Jul 22), with the city attorney warning it may run afoul of state law — a concrete jobs-program fight tied to the budget.",
-      "source": "KENS 5",
-      "topic": "business-jobs",
-      "url": "https://www.kens5.com/article/news/local/ready-to-work-san-antonio-budget-deficit-city-council-mayor-jones-memo/273-802cd9ab-6628-413c-adb6-0630eca7dc70",
-      "published_at": "2026-07-22T23:19:12+00:00",
-      "image": null,
-      "description": "The mayor's suggestion comes at a time when the taxpayer-funded workplace training program is finding more success connecting San Antonio residents with jobs."
-    },
-    {
-      "title": "'Somebody died in our community' | Neighbors grapple with new details after fatal APD shooting of 17-year-old",
-      "summary": "Neighbors grappled with new details after APD's fatal shooting of a 17-year-old (Jul 26) — a policing story stirring community reaction.",
-      "source": "KENS 5",
-      "topic": "policing",
-      "url": "https://www.kens5.com/article/news/fatal-austin-police-shooting-17-year-old-neighbors-grapple-details/269-a18bdd89-73c1-43bc-98d4-0c900fc687df",
-      "published_at": "2026-07-26T19:06:16+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KVUE/images/b5460d9c-b510-4880-94ae-c168e4b217cd/20260725T002247/b5460d9c-b510-4880-94ae-c168e4b217cd_750x422.jpg",
-        "alt": ""
-      },
-      "description": "Austin police say the 17-year-old who was shot was unarmed. Neighbors say the tragedy has left a lasting impact on their community."
-    }
-  ],
+  "conversation_starters": [],
+  "you_should_know": [],
   "sports": [
     {
       "team": "Rangers",

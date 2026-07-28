@@ -4,90 +4,186 @@
   "metroCode": "16740",
   "metro": "Charlotte-Concord-Gastonia, NC-SC",
   "range": {
-    "start": "2026-07-21",
-    "end": "2026-07-27"
+    "start": "2026-07-22",
+    "end": "2026-07-28"
   },
   "are_you_ok": [
     {
-      "title": "NC cyclosporiasis cases surge past 500; health officials still looking for source",
-      "summary": "The NC cyclosporiasis outbreak surged past 500 cases through late July with the source still unidentified — a broad, in-metro public-health worry touching anyone eating out or feeding a family.",
-      "source": "NBC Charlotte",
-      "topic": "public-health",
-      "url": "https://www.wcnc.com/article/news/health/north-carolina-cyclosporiasis-cases-july-21-2026/275-95a9ffef-0621-43f3-88ad-d1203d75f55a",
-      "published_at": "2026-07-21T21:49:36+00:00",
-      "image": null,
-      "description": "North Carolina's cyclosporiasis cases have nearly doubled in a week to 561, and health officials still haven't found the source."
-    },
-    {
       "title": "Attorneys for Charlotte mothers arrested during immigration operation prepare for legal fight",
-      "summary": "Charlotte mothers arrested in an immigration operation moved into a legal fight by late July — a wrenching, city-level story for anyone with immigrant family or neighbors.",
+      "summary": "Charlotte mothers arrested in an immigration operation, with attorneys now preparing a legal fight — a high-anxiety, personal story for anyone in the metro with family or friends touched by enforcement; peaked at daily rank 1 midweek.",
       "source": "NBC Charlotte",
       "topic": "immigration-enforcement",
       "url": "https://www.wcnc.com/article/news/local/attorneys-for-charlotte-mothers-arrested-during-immigration-operation-prepare-for-legal-fight/275-88bf2552-de95-4323-a3ae-819a95580b25",
       "published_at": "2026-07-23T16:29:44+00:00",
       "image": null,
       "description": "The attorneys representing two Charlotte mothers arrested says they're now representing multiple people who report similar encounters."
+    },
+    {
+      "title": "Severe storms possible Tuesday in the Charlotte area",
+      "summary": "Heat and severe storms threatened the Charlotte metro through the week, with Tuesday flagged as the peak risk — a broad, direct check-in on how everyone weathered the storms.",
+      "source": "Queen City News",
+      "topic": "severe-weather",
+      "url": "https://www.qcnews.com/weather/weather-forecast/severe-storms-possible-tuesday-in-the-charlotte-area/",
+      "published_at": "2026-07-28T10:43:24+00:00",
+      "image": {
+        "url": "https://www.qcnews.com/wp-content/uploads/sites/109/2026/07/NOON-FUTURECAST.png?w=900",
+        "alt": ""
+      },
+      "description": "We are tracking the threat for severe weather Tuesday, but there is a good amount of uncertainty about how significant the threat will be.",
+      "thread": [
+        {
+          "title": "Temperatures heat back up Monday; strong to severe storms possible on Tuesday",
+          "summary": "Incoming heat and possible severe storms across the metro; diffuse effect reaching the region. What's coming, people will ask each other.",
+          "source": "Queen City News",
+          "topic": "severe-weather",
+          "url": "https://www.qcnews.com/weather/weather-forecast/temperatures-heat-back-up-monday-strong-to-severe-storms-possible-on-tuesday/",
+          "published_at": "2026-07-27T11:21:28+00:00",
+          "image": {
+            "url": "https://www.qcnews.com/wp-content/uploads/sites/109/2026/07/MONDAY-HIGH-TEMPS.png?w=900",
+            "alt": ""
+          },
+          "description": "The good news is that we have a brighter day ahead; the bad news is that temperatures are going to be much hotter, with highs in the upper 80s and low 90s."
+        },
+        {
+          "title": "Severe storms possible Tuesday in the Charlotte area",
+          "summary": "Incoming severe weather threat for the Charlotte metro — a just-ahead event the broad local population is affected by. Continuation of the Tuesday-storms tracking.",
+          "source": "Queen City News",
+          "topic": "severe-weather",
+          "url": "https://www.qcnews.com/weather/weather-forecast/severe-storms-possible-tuesday-in-the-charlotte-area/",
+          "published_at": "2026-07-28T10:43:24+00:00",
+          "image": {
+            "url": "https://www.qcnews.com/wp-content/uploads/sites/109/2026/07/NOON-FUTURECAST.png?w=900",
+            "alt": ""
+          },
+          "description": "We are tracking the threat for severe weather Tuesday, but there is a good amount of uncertainty about how significant the threat will be."
+        }
+      ]
     }
   ],
   "conversation_starters": [
     {
-      "title": "MLS All-Star Game boosts business for Charlotte's Uptown shops",
-      "summary": "MLS All-Star week landed in Uptown Charlotte, boosting business and drawing a citywide buzz — the easiest, most upbeat opener of the week, with Ciara headlining the halftime show.",
-      "source": "NBC Charlotte",
-      "topic": "civic-events",
-      "url": "https://www.wcnc.com/article/news/local/mls-all-star-game-boosts-business-for-charlotte/275-43918bc9-3cc8-4aaa-9e27-64e382ebb40a",
-      "published_at": "2026-07-27T03:24:38+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/WCNC/images/c9a1b856-9988-4b4d-85be-7203aa4c33ec/20260726T194616/c9a1b856-9988-4b4d-85be-7203aa4c33ec_750x422.jpg",
-        "alt": ""
-      },
-      "description": "The MLS All-Star Game at Bank of America Stadium is boosting Uptown Charlotte's economy, offering local businesses vital support as they recover from the pandemic."
-    },
-    {
-      "title": "Shutdown lifted for Fury 325 at Carowinds, NC Labor Commissioner says",
-      "summary": "The NC Labor Commissioner lifted the shutdown on Carowinds' Fury 325 coaster after inspection — a clean, widely-relatable local story people will have followed.",
-      "source": "NBC Charlotte",
-      "topic": "other",
-      "url": "https://www.wcnc.com/article/news/local/shutdown-lifted-for-fury-325-at-carowinds/275-af4c5585-c08a-4bcc-9614-8d27afbbfa1a",
-      "published_at": "2026-07-21T23:56:11+00:00",
-      "image": null,
-      "description": "Fury 325 was closed on July 7 for a foundation issue."
-    },
-    {
-      "title": "QC HAPPENINGS: Queen's Feast returns, MLS All-Star celebration, concerts and more",
-      "summary": "Queen's Feast returns alongside the MLS All-Star celebration and summer concerts — a citywide roundup of things to do, easy weekend small talk.",
-      "source": "Queen City News",
-      "topic": "civic-events",
-      "url": "https://www.qcnews.com/queen-city-happenings/qc-happenings-queens-feast-returns-mls-all-star-celebration-concerts-and-more/",
-      "published_at": "2026-07-23T01:03:38+00:00",
-      "image": null,
-      "description": "CHARLOTTE, N.C. (QUEEN CITY NEWS) -- It's an exciting weekend ahead for the Charlotte region! Charlotte Restaurant Week returns, featuring the best of the best cuisine this area has to offer, and Uptown Charlotte will be busy celebrating the upcoming MLS All-Star game and the"
-    },
-    {
-      "title": "Honeywell rings Nasdaq closing bell to mark launch as independent automation company",
-      "summary": "Honeywell rang the Nasdaq closing bell to mark its spinoff as an independent automation company — a notable business milestone for a Charlotte-connected name.",
+      "title": "135 people move to Charlotte region every day: CRBA report",
+      "summary": "A new CRBA analysis pegs Charlotte's growth at 135 newcomers a day — a clean, widely-relatable opener about the region's boom that surfaced across the week and peaked at rank 1.",
       "source": "Queen City News",
       "topic": "business-jobs",
-      "url": "https://www.qcnews.com/business/honeywell-rings-nasdaq-closing-bell-to-mark-launch-as-independent-automation-company/",
-      "published_at": "2026-07-24T02:12:43+00:00",
-      "image": null,
-      "description": "It came the same day that Honeywell reported strong second-quarter results."
+      "url": "https://www.qcnews.com/charlotte/135-people-move-to-charlotte-region-every-day-crba-report/",
+      "published_at": "2026-07-27T20:44:30+00:00",
+      "image": {
+        "url": "https://www.qcnews.com/wp-content/uploads/sites/109/2026/06/GettyImages-2191398422.jpg?w=900",
+        "alt": ""
+      },
+      "description": "A Charlotte Regional Business Alliance report found that Charlotte now leads the United States in domestic migration.",
+      "thread": [
+        {
+          "title": "Here's how many people move to the Charlotte region daily, according to new analysis",
+          "summary": "Charlotte's daily in-migration and sustained growth — broadly known local-condition story, easy work-safe opener. You could open with: 'Saw that piece on how many people are moving to Charlotte every day — the growth is wild, right?'",
+          "source": "NBC Charlotte",
+          "topic": "housing",
+          "url": "https://www.wcnc.com/article/news/local/charlotte-region-population-boom-how-many-new-people-move-here-daily/275-433e7613-036c-43cd-9f6e-c92e01fd3069",
+          "published_at": "2026-07-24T12:47:38+00:00",
+          "image": null,
+          "description": "Experts say a combination of factors is fueling Charlotte’s sustained growth, including a strong job market, corporate investment and expanding infrastructure."
+        },
+        {
+          "title": "135 people move to Charlotte region every day: CRBA report",
+          "summary": "Charlotte leads the US in domestic migration, 135 people/day — metro-prominent, work-safe opener. You could open with: 'Did you see we're the fastest-growing region in the country — 135 people a day moving here?' Continuation of the CRBA report.",
+          "source": "Queen City News",
+          "topic": "business-jobs",
+          "url": "https://www.qcnews.com/charlotte/135-people-move-to-charlotte-region-every-day-crba-report/",
+          "published_at": "2026-07-27T20:44:30+00:00",
+          "image": {
+            "url": "https://www.qcnews.com/wp-content/uploads/sites/109/2026/06/GettyImages-2191398422.jpg?w=900",
+            "alt": ""
+          },
+          "description": "A Charlotte Regional Business Alliance report found that Charlotte now leads the United States in domestic migration."
+        }
+      ]
     },
     {
-      "title": "Here's how many people move to the Charlotte region daily, according to new analysis",
-      "summary": "New analysis quantified how many people move to the Charlotte region each day — a growth-and-housing angle that reliably gets locals talking.",
+      "title": "Ciara to headline 2026 MLS All-Star Halftime Show at Bank of America Stadium",
+      "summary": "Ciara was announced to headline the 2026 MLS All-Star Halftime Show at Bank of America Stadium — a fun, easy-to-raise entertainment hook tied to the marquee event coming to town.",
       "source": "NBC Charlotte",
-      "topic": "housing",
-      "url": "https://www.wcnc.com/article/news/local/charlotte-region-population-boom-how-many-new-people-move-here-daily/275-433e7613-036c-43cd-9f6e-c92e01fd3069",
-      "published_at": "2026-07-24T12:47:38+00:00",
-      "image": null,
-      "description": "Experts say a combination of factors is fueling Charlotte’s sustained growth, including a strong job market, corporate investment and expanding infrastructure."
+      "topic": "civic-events",
+      "url": "https://www.wcnc.com/article/entertainment/ciara-headlines-mls-all-star-game-halftime-show-bank-of-america-stadium-charlotte-nc/275-8cc53e69-a21e-4a2d-9e0e-f808de4059ae",
+      "published_at": "2026-07-27T16:28:26+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/WCNC/images/a8ff65d7-7d8f-41f1-b38c-772f92ddca69/20260727T161809/a8ff65d7-7d8f-41f1-b38c-772f92ddca69_750x422.jpg",
+        "alt": ""
+      },
+      "description": "The Grammy-winning star will headline the halftime show, blending her musical prowess with her role as a Seattle Sounders FC minority owner.",
+      "thread": [
+        {
+          "title": "Ciara to headline MLS All-Star halftime show in Charlotte",
+          "summary": "Major marquee event with celebrity headliner in Charlotte. You could open with: \"Did you hear Ciara's headlining the MLS All-Star halftime show here?\"",
+          "source": "Queen City News",
+          "topic": "civic-events",
+          "url": "https://www.qcnews.com/charlotte/ciara-to-headline-mls-all-star-halftime-show-in-charlotte/",
+          "published_at": "2026-07-26T01:20:17+00:00",
+          "image": {
+            "url": "https://www.qcnews.com/wp-content/uploads/sites/109/2026/07/GettyImages-2254228752.jpg?w=900",
+            "alt": ""
+          },
+          "description": "CHARLOTTE, N.C. (QUEEN CITY NEWS) -- The MLS All-Star Game is getting a major Grammy-award-winning artist to headline the halftime show. Multi-platinum pop superstar Ciara will bring her electric stage presence and chart-topping hits to Bank of America Stadium during the MLS"
+        },
+        {
+          "title": "Ciara to headline 2026 MLS All-Star Halftime Show at Bank of America Stadium",
+          "summary": "Ciara headlining MLS All-Star halftime show in Charlotte, marquee local event. You could open with: 'Are you going to catch Ciara at the MLS All-Star halftime show?'",
+          "source": "NBC Charlotte",
+          "topic": "civic-events",
+          "url": "https://www.wcnc.com/article/entertainment/ciara-headlines-mls-all-star-game-halftime-show-bank-of-america-stadium-charlotte-nc/275-8cc53e69-a21e-4a2d-9e0e-f808de4059ae",
+          "published_at": "2026-07-27T16:28:26+00:00",
+          "image": {
+            "url": "https://media.tegna-media.com/assets/WCNC/images/a8ff65d7-7d8f-41f1-b38c-772f92ddca69/20260727T161809/a8ff65d7-7d8f-41f1-b38c-772f92ddca69_750x422.jpg",
+            "alt": ""
+          },
+          "description": "The Grammy-winning star will headline the halftime show, blending her musical prowess with her role as a Seattle Sounders FC minority owner."
+        }
+      ]
+    },
+    {
+      "title": "Charlotte-area storms topple trees, flood roads and shut down businesses",
+      "summary": "Midweek storms toppled trees, flooded roads and shut down businesses across the Charlotte area — a shared, everyone-felt-it opener from earlier in the week.",
+      "source": "NBC Charlotte",
+      "topic": "severe-weather",
+      "url": "https://www.wcnc.com/article/weather/weather-impact/severe-weather-impacts-charlotte-area-flooded-roads-tree-destroys-belmont-flower-show/275-fa337356-d2f4-4e59-9926-f746e4f26358",
+      "published_at": "2026-07-24T20:40:01+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/WCNC/images/ec94e247-1efa-4753-bac6-b2614fa5832e/20260724T203606/ec94e247-1efa-4753-bac6-b2614fa5832e_750x422.jpg",
+        "alt": ""
+      },
+      "description": "Nobody was hurt — that’s the blessing.” Jean's Flowers will be closed for weeks, but owner Tamara Poteat is thankful everyone's OK after this week's storms."
+    },
+    {
+      "title": "Monroe moves to voluntary water conservation after rain refills reservoirs",
+      "summary": "Monroe eased to voluntary water conservation after rain refilled its reservoirs — a positive local turn on the drought that closed out the week at rank 1.",
+      "source": "NBC Charlotte",
+      "topic": "drought-water",
+      "url": "https://www.wcnc.com/article/news/local/monroe-moves-back-to-stage-1-water-conservation/275-0b96fd0b-549a-4f59-beb7-80baac0b6601",
+      "published_at": "2026-07-28T13:32:54+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/WCNC/images/eb40e229-a16a-49ab-9300-08ddbf95e809/20260728T132813/eb40e229-a16a-49ab-9300-08ddbf95e809_750x422.jpg",
+        "alt": ""
+      },
+      "description": "Monroe shifted from mandatory to voluntary water restrictions after rains boosted reservoirs; however, residents are urged to conserve water responsibly."
+    },
+    {
+      "title": "Charlotte business leaders say city will be ready if tapped for draft, Super Bowl",
+      "summary": "Charlotte business leaders pitched the city as ready for a possible NFL Draft or Super Bowl — a civic-ambition talker with broad appeal.",
+      "source": "Queen City News",
+      "topic": "civic-events",
+      "url": "https://www.qcnews.com/nfl/charlotte-business-leaders-say-city-will-be-ready-if-tapped-for-draft-super-bowl/",
+      "published_at": "2026-07-25T02:20:47+00:00",
+      "image": {
+        "url": "https://www.qcnews.com/wp-content/uploads/sites/109/2026/07/NFL-draft-set.jpg?w=900",
+        "alt": ""
+      },
+      "description": "Goodell told Panthers owner David Tepper that the city, stadium and its facilities were \"Super Bowl-quality.”"
     }
   ],
   "you_should_know": [
     {
       "title": "DHS denies new ICE detention center in NC, but confirms expansion plans",
-      "summary": "ICE detention plans for eastern NC dominated the week: first reported Thursday as a major new facility, then DHS on Monday denied a 'new' center while confirming expansion — context to walk in aware of.",
+      "summary": "Reports of a major new ICE detention center in eastern NC drew a DHS response denying the site but confirming expansion plans — a fast-developing statewide story worth walking in aware of; peaked at rank 1.",
       "source": "NBC Charlotte",
       "topic": "immigration-enforcement",
       "url": "https://www.wcnc.com/article/news/local/former-prison-could-become-dedicated-ice-detention-center/275-f784a812-f3e9-4ee2-ad16-91858b0e5779",
@@ -125,7 +221,7 @@
     },
     {
       "title": "New NC State Health Plan raises concerns among employees who use Atrium Health",
-      "summary": "The new NC State Health Plan raised concerns for employees who use Atrium Health — an in-metro benefits story that quietly touches many local workers.",
+      "summary": "The new NC State Health Plan raised concerns among employees who use Atrium Health — a benefits story landing directly on the metro's large healthcare workforce.",
       "source": "Queen City News",
       "topic": "public-health",
       "url": "https://www.qcnews.com/health-care/new-nc-state-health-plan-raises-concerns-among-employees-who-use-atrium-health/",
@@ -138,7 +234,7 @@
     },
     {
       "title": "Fort Mill School District asks officials to limit Silfab Solar operations after zoning ruling",
-      "summary": "After a zoning ruling, Fort Mill School District asked officials to limit Silfab Solar operations — a city-adjacent business-and-safety dispute worth knowing.",
+      "summary": "After a zoning ruling, Fort Mill School District asked officials to limit Silfab Solar's operations — a local business-and-safety flashpoint just over the state line.",
       "source": "NBC Charlotte",
       "topic": "business-jobs",
       "url": "https://www.wcnc.com/article/news/local/fort-mill-school-district-asks-officials-to-limit-silfab-solar-operations-after-zoning-ruling/275-53c107ea-0c48-4564-8067-bf3e0570e0d5",
@@ -150,18 +246,18 @@
       "description": "A zoning dispute over Fort Mill's Silfab Solar facility is escalating as the Fort Mill School District asks leaders to restrict operations following a court ruling."
     },
     {
-      "title": "Lost Ground: Politics stalled North Carolina landslide mapping years before Helene slides killed 31",
-      "summary": "An investigation found politics stalled NC landslide mapping years before the Helene slides that killed 31 — a resonant accountability piece tied to a recent disaster.",
-      "source": "NBC Charlotte",
+      "title": "NC attorney general joins lawsuit over FEMA grant funding conditions",
+      "summary": "NC's attorney general joined a lawsuit over FEMA grant funding conditions — a state-level political move with downstream disaster-funding stakes; landed at rank 1 to close the week.",
+      "source": "Charlotte Public Radio",
       "topic": "elections-politics",
-      "url": "https://www.wcnc.com/article/news/investigations/lost-ground-political-missteps-helene-landslides-killed-western-north-carolina-residents/275-f9719997-8309-4fc0-a9e0-a199e334e746",
-      "published_at": "2026-07-21T18:53:57+00:00",
+      "url": "https://www.wfae.org/politics/2026-07-27/nc-attorney-general-joins-lawsuit-over-fema-grant-funding-conditions",
+      "published_at": "2026-07-28T00:57:11+00:00",
       "image": null,
-      "description": "As Helene devastated western North Carolina, the state's on again, off again landslide mapping program left many without critical safety information."
+      "description": "North Carolina Attorney General Jeff Jackson is joining a coalition of two dozen Democratic-led states in a lawsuit against the Federal Emergency Management Agency over plans that could withhold counterterrorism funding from states."
     },
     {
       "title": "Sustain Charlotte calls for transparency after NCDOT Chief's private meeting on I-77 South toll project",
-      "summary": "Sustain Charlotte pressed for transparency after NCDOT's chief held a private meeting on the I-77 South toll project — a transportation-and-governance flag for commuters.",
+      "summary": "Sustain Charlotte pressed for transparency after the NCDOT chief's private meeting on the I-77 South toll project — a transportation-governance concern touching daily commutes.",
       "source": "NBC Charlotte",
       "topic": "transportation",
       "url": "https://www.wcnc.com/article/news/local/sustain-charlotte-calls-for-transparency-after-ncdot-chiefs-private-meeting-on-i-77-south-toll-project/275-6e1ad84d-4907-4e92-8e07-9d00079ebff1",

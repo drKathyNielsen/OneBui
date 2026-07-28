@@ -4,35 +4,22 @@
   "metroCode": "14500",
   "metro": "Boulder, CO",
   "range": {
-    "start": "2026-07-21",
-    "end": "2026-07-27"
+    "start": "2026-07-22",
+    "end": "2026-07-28"
   },
   "are_you_ok": [
     {
-      "title": "Evacuations ordered for Penley Fire west of Sedalia",
-      "summary": "A fast-moving wildfire west of Sedalia forced evacuation orders on July 27 — the week's most acute, life-safety threat to people the reader might be checking on.",
-      "source": "9NEWS",
-      "topic": "wildfire",
-      "url": "https://www.9news.com/article/news/local/wildfire/wildfire-west-of-sedalia/73-d07338be-5933-4ea7-baa1-caa6248b153d",
-      "published_at": "2026-07-27T14:06:40+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KUSA/images/a3268ea6-8ca0-48fd-a417-41742f670ae0/20260727T104650/a3268ea6-8ca0-48fd-a417-41742f670ae0_750x422.jpg",
-        "alt": ""
-      },
-      "description": "A wildfire evacuation order was issued around 5 p.m. Sunday for people within a two-mile radius of West Douglas Fire Station 132."
-    },
-    {
-      "title": "Sunday was Denver's hottest day in more than 8 years",
-      "summary": "A record-breaking heat weekend crescendoed with Denver's hottest day in over 8 years on Sunday; health officials had warned mid-week (Jul 25) of extreme risk to people and pets before the peak arrived.",
-      "source": "9NEWS",
+      "title": "Denver health specialists warn of extreme heat risks for people and pets",
+      "summary": "A week-long heat siege on the Front Range: health specialists warned of extreme risk for people and pets midweek (7/25), then Denver broke its hottest-day record in 8 years Sunday (7/27) and posted its warmest night in 145 years by Monday (7/28) — the defining wellness concern of the week.",
+      "source": "CBS Colorado",
       "topic": "heat",
-      "url": "https://www.9news.com/article/weather/weather-colorado/sunday-denver-hottest-day-8-years/73-6381fe1e-7a42-4f44-9f13-a3bbcaaf7eac",
-      "published_at": "2026-07-27T10:36:22+00:00",
+      "url": "https://www.cbsnews.com/colorado/video/denver-health-specialists-warn-of-extreme-heat-risks-for-people-and-pets/",
+      "published_at": "2026-07-25T19:54:00+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/KUSA/images/d00d4670-2099-45a2-871f-6ea03023be87/20260713T143711/d00d4670-2099-45a2-871f-6ea03023be87_750x422.jpg",
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/25/5b8cfa51-9100-41fa-a4f7-baa96c497b54/thumbnail/1024x576/bb44212fdea2fdb5dbabcc49bb1e18a4/568e405d523832bf77f0e2ff77cdd98e.jpg",
         "alt": ""
       },
-      "description": "Denver experiences record-breaking heat as temperatures reach 103 degrees, the highest in over eight years.",
+      "description": "With continued high temperatures across Colorado, it's important to recognize the symptoms of heat related illness. Health experts are sharing tips to protect yourself and your pets this weekend.",
       "thread": [
         {
           "title": "Denver health specialists warn of extreme heat risks for people and pets",
@@ -59,8 +46,31 @@
             "alt": ""
           },
           "description": "Denver experiences record-breaking heat as temperatures reach 103 degrees, the highest in over eight years."
+        },
+        {
+          "title": "Denver just had its warmest night in 145 years",
+          "summary": "Record heat/warmest night affects broad metro population; a discrete heat event people would check in about.",
+          "source": "9NEWS",
+          "topic": "heat",
+          "url": "https://www.9news.com/article/weather/weather-colorado/denver-warmest-night-145-years/73-fff3ada6-6a0d-47e1-903c-30f3e2e43d9a",
+          "published_at": "2026-07-28T12:52:25+00:00",
+          "image": {
+            "url": "https://media.tegna-media.com/assets/KUSA/images/c2d1ff6a-2f87-41f5-a8d9-c4ecd57f10b5/c2d1ff6a-2f87-41f5-a8d9-c4ecd57f10b5_750x422.jpg",
+            "alt": ""
+          },
+          "description": "Denver experienced its warmest official overnight low in 145 years due to cloud cover trapping heat after a record-breaking high of 103 degrees."
         }
       ]
+    },
+    {
+      "title": "Friends rally for woman detained by ICE at Denver airport",
+      "summary": "A woman detained by ICE at Denver airport as she boarded a flight (7/23-7/24), with friends rallying in support — an enforcement action that hit close for anyone with immigrant friends or family here.",
+      "source": "9NEWS",
+      "topic": "immigration-enforcement",
+      "url": "https://www.9news.com/article/news/local/rally-for-woman-detained-by-ice-at-denver-airport/73-c0835e98-5ec5-40c2-89de-cb367bdd9ca5",
+      "published_at": "2026-07-24T12:27:27+00:00",
+      "image": null,
+      "description": "A friend and former employer of a woman detained by federal agents at Denver International Airport has been advocating for her release from detention."
     }
   ],
   "conversation_starters": [],

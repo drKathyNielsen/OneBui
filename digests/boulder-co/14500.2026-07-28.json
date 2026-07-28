@@ -1,0 +1,79 @@
+{
+  "shortName": "Boulder, CO",
+  "metroCode": "14500",
+  "metro": "Boulder, CO",
+  "date": "2026-07-28",
+  "are_you_ok": [
+    {
+      "title": "Greeley says its drinking water remains safe despite bad taste, smell",
+      "summary": "Bad-tasting tap water affects a broad local population's daily life; a check-in-style water-quality concern.",
+      "source": "9NEWS",
+      "topic": "drought-water",
+      "url": "https://www.9news.com/article/news/local/9news-mornings/greeley-drinking-water-bad-taste-smell/73-1015ca3a-02d8-4cf8-8147-c675ba9cfffb",
+      "published_at": "2026-07-28T12:46:27+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/265766f9-0692-44aa-a698-b7b7a8797637/20260728T120218/265766f9-0692-44aa-a698-b7b7a8797637_750x422.jpg",
+        "alt": ""
+      },
+      "description": "Greeley faces unusual tap water odors and tastes due to algae compounds, but city officials assure residents it's safe, advising ways to improve its taste."
+    }
+  ],
+  "conversation_starters": [
+    {
+      "title": "AC/DC in Colorado: What to know for the stadium concert",
+      "summary": "Marquee stadium concert (AC/DC first time in 10 years) — prime work-safe opener. You could open with: 'Are you catching AC/DC at Mile High this week?'",
+      "source": "9NEWS",
+      "topic": "civic-events",
+      "url": "https://www.9news.com/article/life/style/colorado-guide/acdc-colorado-stadium-concert/73-6e900bd6-c1d7-4dea-a196-b58b7a859981",
+      "published_at": "2026-07-28T11:58:44+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/e9adb930-975f-4843-b9ef-a48c1ebfe6f6/20260728T115118/e9adb930-975f-4843-b9ef-a48c1ebfe6f6_750x422.jpg",
+        "alt": ""
+      },
+      "description": "Arguably the world’s greatest rock and roll band, AC/DC is back in Colorado for the first time in 10 years, ready to rock Colorado's largest stadium on Tuesday."
+    },
+    {
+      "title": "Low water levels at Colorado reservoir reveal lost ATV missing for 5 years",
+      "summary": "Quirky local story, prime conversation starter. You could open with: 'Did you hear a 5-year-missing ATV turned up in a drying-out reservoir?'",
+      "source": "CBS Colorado",
+      "topic": "human-interest",
+      "url": "https://www.cbsnews.com/colorado/news/low-water-levels-colorado-green-mountain-reservoir-lost-atv-missing-5-years/",
+      "published_at": "2026-07-28T12:21:29+00:00",
+      "image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/07/27/93cb5636-f8c8-4a57-8799-77e673fa352a/thumbnail/1024x576/0f8fedb7b84d1454daa25d8c45a98aeb/atv-green-mountain-reservoir.jpg",
+        "alt": ""
+      },
+      "description": "Low water levels at Green Mountain Reservoir have revealed an ATV that had been missing for five years."
+    },
+    {
+      "title": "Longmont tiny home village for veterans reaches full capacity after community steps in to close funding gap",
+      "summary": "Longmont veterans tiny-home village hits capacity after community closes funding gap; uplifting metro-area feel-good opener. You could open with: 'Did you see Longmont's veterans tiny-home village filled up after the community stepped in?'",
+      "source": "9NEWS",
+      "topic": "housing",
+      "url": "https://www.9news.com/article/news/community/longmont-veterans-tiny-home-village-reaches-capacity-community-closes-funding-gap/73-679c3e9b-483f-425e-beaf-fb04b3629f9c",
+      "published_at": "2026-07-28T00:48:26+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/cfb49e9a-c84a-4a28-9705-4cd8cd1a7895/20260721T231803/cfb49e9a-c84a-4a28-9705-4cd8cd1a7895_750x422.jpg",
+        "alt": ""
+      },
+      "description": "Longmont's Veterans Community Project, a nonprofit providing transitional housing for veterans, reaches full capacity after community efforts close a funding gap."
+    }
+  ],
+  "sports": [],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "Evacuations lifted for residents near Penley Fire in Colorado",
+      "summary": "Wildfire evacuation lifted near Denver metro; context on local wildfire situation.",
+      "source": "CBS Colorado",
+      "topic": "wildfire",
+      "url": "https://www.cbsnews.com/colorado/video/evacuations-lifted-for-residents-near-penley-fire-in-colorado/",
+      "published_at": "2026-07-28T04:12:00+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/07/28/8641a1cc-433f-4971-9a78-d4f78e7748b3/thumbnail/1024x576/235d36c7c4e73341ec5e8abbb8d44ed3/28cab4a103ec729a28888731ab2a3d64.jpg",
+        "alt": ""
+      },
+      "description": "A wildfire southwest of the Denver metro area on Sunday evening, prompting Douglas County officials to temporarily issue an evacuation order."
+    }
+  ]
+}

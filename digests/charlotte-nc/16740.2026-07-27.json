@@ -20,6 +20,32 @@
   ],
   "conversation_starters": [
     {
+      "title": "135 people move to Charlotte region every day: CRBA report",
+      "summary": "Charlotte leads the US in domestic migration, 135 people/day — metro-prominent, work-safe opener. You could open with: 'Did you see we're the fastest-growing region in the country — 135 people a day moving here?' Continuation of the CRBA report.",
+      "source": "Queen City News",
+      "topic": "business-jobs",
+      "url": "https://www.qcnews.com/charlotte/135-people-move-to-charlotte-region-every-day-crba-report/",
+      "published_at": "2026-07-27T20:44:30+00:00",
+      "image": {
+        "url": "https://www.qcnews.com/wp-content/uploads/sites/109/2026/06/GettyImages-2191398422.jpg?w=900",
+        "alt": ""
+      },
+      "description": "A Charlotte Regional Business Alliance report found that Charlotte now leads the United States in domestic migration."
+    },
+    {
+      "title": "Ciara to headline 2026 MLS All-Star Halftime Show at Bank of America Stadium",
+      "summary": "Ciara headlining MLS All-Star halftime show in Charlotte, marquee local event. You could open with: 'Are you going to catch Ciara at the MLS All-Star halftime show?'",
+      "source": "NBC Charlotte",
+      "topic": "civic-events",
+      "url": "https://www.wcnc.com/article/entertainment/ciara-headlines-mls-all-star-game-halftime-show-bank-of-america-stadium-charlotte-nc/275-8cc53e69-a21e-4a2d-9e0e-f808de4059ae",
+      "published_at": "2026-07-27T16:28:26+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/WCNC/images/a8ff65d7-7d8f-41f1-b38c-772f92ddca69/20260727T161809/a8ff65d7-7d8f-41f1-b38c-772f92ddca69_750x422.jpg",
+        "alt": ""
+      },
+      "description": "The Grammy-winning star will headline the halftime show, blending her musical prowess with her role as a Seattle Sounders FC minority owner."
+    },
+    {
       "title": "MLS All-Star Game boosts business for Charlotte's Uptown shops",
       "summary": "MLS All-Star Game boosting Uptown business, marquee civic event. You could open with: 'Have you been downtown for the MLS All-Star festivities? Sounds like it's been great for the Uptown shops.'",
       "source": "NBC Charlotte",
@@ -34,6 +60,7 @@
     }
   ],
   "sports": [],
+  "weather_alert": [],
   "you_should_know": [
     {
       "title": "DHS denies new ICE detention center in NC, but confirms expansion plans",
