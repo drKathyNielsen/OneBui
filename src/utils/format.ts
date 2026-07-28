@@ -1,4 +1,4 @@
-import type { RawArticle, Article, RawCity, RawWeekly, DigestViewModel } from '../types';
+import type { RawArticle, Article, RawAlert, Alert, RawCity, RawWeekly, DigestViewModel } from '../types';
 
 export function topicLabel(t: string): string {
   return t.replace(/-/g, ' ');
@@ -54,6 +54,31 @@ function mapItem(it: RawArticle, withDate = false): Article {
   };
 }
 
+// Human "Until…" label for an alert's expiry. The wall-clock time is read
+// straight from the ISO string (not via Date/TZ) so it always shows the metro's
+// stated local time — matching the NWS product — regardless of the viewer's TZ.
+// The end date is appended only when it differs from the digest's own date, so
+// a same-day alert reads "Until 7:00 PM" and a multi-day one names the day.
+function formatAlertEnds(endsIso: string, refDateIso: string): string {
+  const datePart = endsIso.slice(0, 10);
+  const [h, m] = endsIso.slice(11, 16).split(':').map(Number);
+  const ampm = h >= 12 ? 'PM' : 'AM';
+  const h12 = h % 12 === 0 ? 12 : h % 12;
+  const time = `${h12}:${String(m).padStart(2, '0')} ${ampm}`;
+  if (datePart === refDateIso) return `Until ${time}`;
+  const d = new Date(datePart + 'T12:00:00');
+  const dow = DOW[d.getDay()][0] + DOW[d.getDay()].slice(1, 3).toLowerCase();
+  return `Until ${dow}, ${MON_SHORT[d.getMonth()]} ${d.getDate()}, ${time}`;
+}
+
+function mapAlert(a: RawAlert, refDateIso: string): Alert {
+  return {
+    event: a.event,
+    area: a.area,
+    endsLabel: a.ends ? formatAlertEnds(a.ends, refDateIso) : undefined,
+  };
+}
+
 // Compact label for a day chip, e.g. "THU 23". Weekday alone can repeat across a
 // metro's available days (coverage can exceed a week), so include the day number.
 export function dayChipLabel(iso: string): string {
@@ -68,6 +93,7 @@ export function toCityViewModel(raw: RawCity): DigestViewModel {
     shortName: raw.shortName,
     dateLong: formatDate(raw.date),
     rangeLabel: '',
+    alerts: (raw.weather_alert ?? []).map((a) => mapAlert(a, raw.date)),
     areOk: raw.are_you_ok.map((it) => mapItem(it)),
     starters: raw.conversation_starters.map((it) => mapItem(it)),
     know: raw.you_should_know.map((it) => mapItem(it)),
@@ -82,6 +108,7 @@ export function toWeeklyViewModel(raw: RawWeekly): DigestViewModel {
     shortName: raw.shortName,
     dateLong: '',
     rangeLabel: formatRange(raw.range.start, raw.range.end),
+    alerts: (raw.weather_alert ?? []).map((a) => mapAlert(a, raw.range.end)),
     areOk: raw.are_you_ok.map((it) => mapItem(it, true)),
     starters: raw.conversation_starters.map((it) => mapItem(it, true)),
     know: raw.you_should_know.map((it) => mapItem(it, true)),

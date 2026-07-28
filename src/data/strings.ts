@@ -6,6 +6,7 @@ import type { Style } from '../types';
 // and does NOT vary by style. classic and modern keep the app's existing
 // literals verbatim; only friendly restyles the labels.
 export interface StyleStrings {
+  weatherHeading: string;
   areOkEyebrow: string;
   startersHeading: string;
   knowHeading: string;
@@ -22,6 +23,7 @@ export interface StyleStrings {
 }
 
 const NEUTRAL: StyleStrings = {
+  weatherHeading: 'Weather alert',
   areOkEyebrow: 'Are they ok?',
   startersHeading: 'Conversation starters',
   knowHeading: 'You should know',
@@ -38,6 +40,7 @@ export const STYLE_STRINGS: Record<Style, StyleStrings> = {
   classic: NEUTRAL,
   modern: NEUTRAL,
   friendly: {
+    weatherHeading: 'Weather alert ⛈️',
     areOkEyebrow: 'Heads up! ☀️',
     startersHeading: 'Chat starters 💬',
     knowHeading: 'You should know',

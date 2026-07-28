@@ -66,6 +66,16 @@
       ]
     },
     {
+      "url": "http://localhost:4173/?metro=san-antonio-tx&period=daily&date=2026-07-28"
+    },
+    {
+      "url": "http://localhost:4173/?metro=san-antonio-tx&period=daily&date=2026-07-28",
+      "actions": [
+        "click element [aria-label^=\"Color theme\"]",
+        "wait for element .oneb-root[data-theme=\"dark\"] to be visible"
+      ]
+    },
+    {
       "url": "http://localhost:4173/?view=about"
     },
     {

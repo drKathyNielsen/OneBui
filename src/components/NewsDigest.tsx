@@ -4,6 +4,7 @@ import type { MetroDay } from '../data/digests';
 import { dayChipLabel } from '../utils/format';
 import { getStrings } from '../data/strings';
 import PeriodNav from './PeriodNav';
+import WeatherAlert from './WeatherAlert';
 import AreTheyOk from './AreTheyOk';
 import ArticleList from './ArticleList';
 import Sports from './Sports';
@@ -47,6 +48,14 @@ export default function NewsDigest({ vm, days, hasWeekly, period, selectedDate, 
       />
 
       <main className="container-fluid oneb-main">
+        {vm.alerts.length > 0 && (
+          <div className="row mb-4">
+            <div className="col-12">
+              <WeatherAlert alerts={vm.alerts} heading={strings.weatherHeading} />
+            </div>
+          </div>
+        )}
+
         {vm.areOk.length === 0 ? (
           <div className="row mb-4">
             <div className="col-12">

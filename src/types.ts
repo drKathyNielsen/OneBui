@@ -21,6 +21,16 @@ export interface RawArticle {
   thread?: RawArticle[]; // weekly-only: contributing articles, oldest→newest (additive)
 }
 
+// A significance-filtered weather alert. The generator only emits alerts that
+// clear the bar, so every entry renders; array order is the display order.
+export interface RawAlert {
+  event: string; // NWS event name, e.g. "Heat Advisory"
+  area?: string; // affected sub-area label, e.g. "Atascosa & Wilson"
+  summary?: string; // pre-composed one-line summary
+  description?: string; // full NWS product text (WHAT/WHERE/WHEN/IMPACTS)
+  ends?: string; // ISO 8601 with offset; when the alert lapses
+}
+
 // A per-day daily brief. See docs/DIGEST_OUTPUT_CONTRACT.md §4.
 export interface RawCity {
   shortName: string;
@@ -30,6 +40,7 @@ export interface RawCity {
   conversation_starters: RawArticle[];
   sports: { team: string; scores: string[] }[];
   you_should_know: RawArticle[];
+  weather_alert?: RawAlert[]; // 0+ active alerts; sits above are_you_ok (additive)
 }
 
 // The editorially aggregated weekly brief. See docs/WEEKLY_DIGEST_CONTRACT.md.
@@ -43,6 +54,7 @@ export interface RawWeekly {
   conversation_starters: RawArticle[];
   you_should_know: RawArticle[];
   sports: { team: string; scores: string[] }[];
+  weather_alert?: RawAlert[]; // 0+ active alerts (additive)
 }
 
 export interface Article {
@@ -58,6 +70,14 @@ export interface Article {
   // readers know *when* each story happened (daily items share the masthead date)
 }
 
+// A weather alert prepared for display. `endsLabel` is the human "Until…" line
+// derived from the raw `ends` instant (metro-local wall clock, no viewer drift).
+export interface Alert {
+  event: string;
+  area?: string;
+  endsLabel?: string;
+}
+
 // Which period document is being shown. Daily is a single day's brief with a
 // day-chip rail; weekly is the aggregate with a coverage range and no chips.
 export type Period = 'daily' | 'weekly';
@@ -69,6 +89,7 @@ export interface DigestViewModel {
   shortName: string;
   dateLong: string; // daily masthead date; '' for weekly
   rangeLabel: string; // weekly coverage label, e.g. "Week of Jul 19–25"; '' for daily
+  alerts: Alert[]; // active weather alerts; rendered above areOk when non-empty
   areOk: Article[];
   starters: Article[];
   know: Article[];

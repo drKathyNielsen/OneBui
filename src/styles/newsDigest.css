@@ -263,6 +263,38 @@
 
 .oneb-card-top { display: flex; gap: 12px; align-items: flex-start; }
 
+/* Weather alert banner — sits above the "Are they ok?" hero. Uses the tinted
+   surface with a heavier accent-colored left rule so it reads as a status
+   marker without introducing a new color token (keeps all themes AA-safe). */
+.oneb-alert-box {
+  background: var(--surface);
+  border: 1px solid var(--surface-border);
+  border-left: 4px solid var(--accent);
+  border-radius: 12px;
+  padding: 14px 18px;
+}
+
+.oneb-alert-list { margin: 0; }
+
+.oneb-alert {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 4px 10px;
+  padding: 6px 0;
+}
+.oneb-alert + .oneb-alert { border-top: 1px solid var(--hairline-soft); }
+
+.oneb-alert-event {
+  font: 700 13.5px/1.5 var(--body-font);
+  color: var(--ink);
+}
+
+.oneb-alert-detail {
+  font: 400 13px/1.5 var(--body-font);
+  color: var(--text-secondary);
+}
+
 .oneb-thumb {
   flex: none;
   width: 44px;
