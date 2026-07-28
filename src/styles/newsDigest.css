@@ -310,7 +310,10 @@
 .oneb-thumb--placeholder { display: flex; align-items: center; justify-content: center; }
 .oneb-thumb-mono {
   font: 600 18px var(--heading-font);
-  color: var(--text-secondary);
+  /* --ink, not --text-secondary: the placeholder sits on the lighter
+     --surface-border, where the muted tone drops below 4.5:1 in four of the
+     six themes. --ink clears AA on that background in every theme. */
+  color: var(--ink);
   line-height: 1;
 }
 .oneb-thumb--lead .oneb-thumb-mono { font-size: 26px; }

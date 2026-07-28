@@ -1,0 +1,84 @@
+{
+  "shortName": "San Antonio, TX",
+  "metroCode": "41700",
+  "metro": "San Antonio-New Braunfels, TX",
+  "date": "2026-07-29",
+  "weather_alert": [
+    {
+      "event": "Excessive Heat Warning",
+      "area": "metro-wide",
+      "severity": "Extreme",
+      "summary": "Excessive Heat Warning — metro-wide, open-ended",
+      "description": "Excessive Heat Warning issued July 29 at 4:00AM CDT by NWS Austin/San Antonio TX\n\n* WHAT...Dangerously hot conditions with heat index values up to 116 expected.\n\n* WHERE...All of the San Antonio metro.\n\n* WHEN...Through the week; duration under review.\n\n* IMPACTS...Extreme heat significantly increases the potential for heat-related illnesses.",
+      "ends": null
+    },
+    {
+      "event": "Flood Warning",
+      "area": "Bexar, Comal +2 more",
+      "severity": "Severe",
+      "summary": "Flood Warning — Bexar, Comal +2 more, through Thursday",
+      "description": "Flood Warning issued July 29 at 5:12AM CDT until July 30 at 10:00AM CDT by NWS Austin/San Antonio TX\n\n* WHAT...Flooding caused by excessive rainfall continues.\n\n* WHERE...Bexar, Comal, Guadalupe and Kendall counties.\n\n* WHEN...Until 10:00 AM CDT Thursday.\n\n* IMPACTS...Low-water crossings and creeks out of their banks.",
+      "ends": "2026-07-30T10:00:00-05:00"
+    },
+    {
+      "event": "Heat Advisory",
+      "area": "Atascosa & Wilson",
+      "severity": "Moderate",
+      "summary": "Heat Advisory — Atascosa & Wilson, until 8:00pm",
+      "description": "Heat Advisory issued July 29 at 3:30AM CDT until July 29 at 8:00PM CDT by NWS Austin/San Antonio TX\n\n* WHAT...Heat index values from 106 to 110 expected.\n\n* WHERE...The Coastal Plains and portions of the Rio Grande Plains.\n\n* WHEN...From noon to 8 PM CDT Wednesday.\n\n* IMPACTS...Hot temperatures and high humidity may cause heat illnesses.",
+      "ends": "2026-07-29T20:00:00-05:00"
+    }
+  ],
+  "are_you_ok": [
+    {
+      "title": "Cooling centers open across Bexar County as heat wave intensifies",
+      "summary": "The county opened extended-hours cooling centers ahead of a dangerous stretch of heat.",
+      "source": "KENS 5",
+      "topic": "public-safety",
+      "url": "https://www.kens5.com/article/weather/cooling-centers-bexar-county-heat-wave/",
+      "published_at": "2026-07-29T11:10:00-05:00",
+      "image": null,
+      "description": "Bexar County extended cooling-center hours and posted locations as heat index values climb toward record territory this week."
+    }
+  ],
+  "conversation_starters": [
+    {
+      "title": "Spurs summer roster takes shape ahead of training camp",
+      "summary": "Front office rounds out the two-way spots as camp invites go out.",
+      "source": "KENS 5",
+      "topic": "sports",
+      "url": "https://www.kens5.com/article/sports/nba/spurs/summer-roster-training-camp/",
+      "published_at": "2026-07-29T09:45:00-05:00",
+      "image": null,
+      "description": "The Spurs filled out their two-way contracts and released the list of training-camp invitees for the coming season."
+    },
+    {
+      "title": "River Walk adds shaded seating as downtown braces for peak heat",
+      "summary": "New shade structures go up along a stretch of the River Walk.",
+      "source": "KENS 5",
+      "topic": "local-events",
+      "url": "https://www.kens5.com/article/news/local/river-walk-shade-downtown-heat/",
+      "published_at": "2026-07-29T08:20:00-05:00",
+      "image": null,
+      "description": "Downtown crews installed additional shade structures along the River Walk as visitor traffic holds up despite the heat."
+    }
+  ],
+  "you_should_know": [
+    {
+      "title": "City council to weigh new water-use restrictions amid drought",
+      "summary": "A Stage 3 proposal heads to council next week.",
+      "source": "KENS 5",
+      "topic": "elections-politics",
+      "url": "https://www.kens5.com/article/news/local/water-use-restrictions-drought-council/",
+      "published_at": "2026-07-29T07:05:00-05:00",
+      "image": null,
+      "description": "San Antonio council members will consider tightening watering days as aquifer levels near the Stage 3 threshold."
+    }
+  ],
+  "sports": [
+    {
+      "team": "San Antonio Missions",
+      "scores": ["Missions 5, Naturals 3 (final)"]
+    }
+  ]
+}
