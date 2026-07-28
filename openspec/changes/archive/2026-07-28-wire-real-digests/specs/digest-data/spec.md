@@ -23,7 +23,7 @@ The system SHALL group loaded digests into one entry per metro, each exposing th
 - **THEN** that metro does not appear in the manifest or the sidebar
 
 ### Requirement: Contract-Aligned Article Schema
-The system SHALL model digest articles to match the digest output contract: a structured `image` object or `null`, an explicit `source`, and optional `summary`/`published_at`, and SHALL render these fields verbatim without sanitizing.
+The system SHALL model digest articles to match the digest output contract: a structured `image` object or `null`, an explicit `source`, and `summary`/`published_at`, and SHALL render these fields verbatim without sanitizing.
 
 #### Scenario: Structured image resolves to a thumbnail
 - **WHEN** an article has `image: { url, alt }`
@@ -61,6 +61,6 @@ The system SHALL let the user navigate among a metro's actually-available days r
 ### Requirement: Resilient Rendering of Sparse Digests
 The system SHALL render digests with missing or empty sections without error.
 
-#### Scenario: Null lead story and empty sections
-- **WHEN** a digest has `are_you_ok: null` and one or more empty article arrays (e.g. Wheeling)
+#### Scenario: Empty lead and empty sections
+- **WHEN** a digest has an empty `are_you_ok` array and one or more empty article arrays (e.g. Wheeling)
 - **THEN** the corresponding sections are omitted and the remaining sections render normally
