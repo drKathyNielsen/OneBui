@@ -10,7 +10,7 @@
   "are_you_ok": [
     {
       "title": "Heat advisory issued as dangerous temperatures return to San Antonio; here’s how to stay safe",
-      "summary": "A city-level heat advisory hit San Antonio directly on July 22, with dangerous temperatures returning and safety guidance issued — the most immediate, everyone-touches-it check-in of the week.",
+      "summary": "A city-proximity heat advisory for San Antonio on July 22 opened a stretch of dangerous South Texas heat — the most direct, everyone-affected check-in of the week for anyone the reader knows here.",
       "source": "San Antonio Report",
       "topic": "heat",
       "url": "https://sanantonioreport.org/heat-advisory-dangerous-temperatures-san-antonio/",
@@ -23,7 +23,7 @@
     },
     {
       "title": "Dangerous heat grips South Texas before slight cooldown | Weather Impact Alert",
-      "summary": "Dangerous heat gripped South Texas ahead of a slight cooldown around July 23 — the regional companion to the metro heat advisory, worth asking how the contact weathered the stretch.",
+      "summary": "Dangerous heat gripped South Texas around July 23 before a slight cooldown; a regional counterpart to the metro heat advisory worth asking how people weathered it.",
       "source": "KENS 5",
       "topic": "heat",
       "url": "https://www.kens5.com/article/weather/forecast/heat-advisory-san-antonio-ercot-power-grid-electricity-triple-digits-heat-index-energy-demand-forecast-summer-hydration-air-conditioning/273-41ced3d1-9b66-4961-a7dc-a98c34a6a579",
@@ -32,8 +32,162 @@
       "description": "Triple-digit heat returns Wednesday, with heat index values up to 114 degrees as Texas power demand reaches record levels."
     }
   ],
-  "conversation_starters": [],
-  "you_should_know": [],
+  "conversation_starters": [
+    {
+      "title": "SeaWorld San Antonio welcomes rescued belugas from former Canada marine park",
+      "summary": "SeaWorld San Antonio welcomed rescued belugas from a shuttered Canadian marine park on July 22 — a novel, feel-good animal story that gets people talking.",
+      "source": "KENS 5",
+      "topic": "human-interest",
+      "url": "https://www.kens5.com/article/life/animals/sea-world-san-antonio-rescued-beluga-whales-canada-first-rescue-effort/273-37c9d57c-5b1f-4ded-8d83-d57668d8b5fb",
+      "published_at": "2026-07-22T12:16:40+00:00",
+      "image": null,
+      "description": "The whales were part of a large pod of 30 belugas living at Marineland of Canada, a closed marine park that can no longer care for them."
+    },
+    {
+      "title": "With bonds, beams and billions of dollars, the airport’s terminal development project is on track",
+      "summary": "The airport's multibillion-dollar new terminal reached a construction milestone — a concrete look at a major city project reshaping how the metro travels.",
+      "source": "San Antonio Report",
+      "topic": "transportation",
+      "url": "https://sanantonioreport.org/with-bonds-beams-and-billions-of-dollars-the-airports-terminal-development-project-is-on-track/",
+      "published_at": "2026-07-27T10:00:00+00:00",
+      "image": {
+        "url": "https://i0.wp.com/sanantonioreport.org/wp-content/uploads/2026/01/SATAirport_AirplaneTravelLuggage_TerminalsAB_TSAParkingSecurity_DepartureArrival_06_01.29.2026_AmberEsparza-scaled.jpg?fit=1024%2C683&ssl=1",
+        "alt": ""
+      },
+      "description": "A newly issued revenue bond supports the $2.5 billion worth of airport projects that bring a new terminal and other improvements to SAT.With bonds, beams and billions of dollars, the airport’s terminal development project is on track was first posted on July 27, 2026 at 5:00"
+    },
+    {
+      "title": "AC/DC brings electric POWER UP Tour to San Antonio's Alamodome",
+      "summary": "AC/DC's POWER UP Tour is coming to the Alamodome — a crowd-pleasing marquee event and a naturally comfortable opener.",
+      "source": "KENS 5",
+      "topic": "civic-events",
+      "url": "https://www.kens5.com/article/news/local/san-antonio-texas-satx-acdc-power-up-tour-alamodome-concert-photos-july-2026/273-831e158e-ab44-47c0-b71d-1aae3c0b6907",
+      "published_at": "2026-07-25T19:32:22+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/e6b95942-e978-4c78-81f4-d52619e08253/20260725T151734/e6b95942-e978-4c78-81f4-d52619e08253_750x422.jpg",
+        "alt": ""
+      },
+      "description": "AC/DC electrified San Antonio's Alamodome with their POWER UP Tour, delivering classic rock anthems and high-energy performances, captivating a sea of fans."
+    },
+    {
+      "title": "San Antonio Animal Care Services waives adoption fees as shelter exceeds capacity after recent weather",
+      "summary": "Animal Care Services waived adoption fees on July 25 as recent weather pushed the shelter past capacity — a civic-minded, actionable story with a warm hook.",
+      "source": "KENS 5",
+      "topic": "human-interest",
+      "url": "https://www.kens5.com/article/life/animals/san-antonio-animal-care-services-0-adoption-fees-shelter-capacity-texas-weather-flood/273-0859bf4b-dcc1-434d-9d7e-322d70d3dd6e",
+      "published_at": "2026-07-25T04:10:31+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/dc3ca437-59bd-4329-91bd-877644d69674/dc3ca437-59bd-4329-91bd-877644d69674_750x422.jpg",
+        "alt": ""
+      },
+      "description": "San Antonio's animal shelter is waiving adoption fees amid overcrowding from a surge in pets following severe weather, urging locals to adopt or foster to help."
+    }
+  ],
+  "you_should_know": [
+    {
+      "title": "'Important for us to stay united' | Hundreds take to Houston streets, demanding justice for man fatally shot by ICE",
+      "summary": "The San Antonio Zoo turned invasive bamboo into enrichment and browse for its animals — a warm, easy human-interest opener that led its day and headlines the week's starters.",
+      "source": "KENS 5",
+      "topic": "immigration-enforcement",
+      "url": "https://www.kens5.com/article/news/local/lorenzo-salgado-houston-protest-justice/285-42d12bac-161b-41ec-b905-8f1a6a1be38f",
+      "published_at": "2026-07-26T11:35:53+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KHOU/images/306eb372-9a3b-48db-b6d5-191c62072131/20260720T030937/306eb372-9a3b-48db-b6d5-191c62072131_750x422.jpg",
+        "alt": ""
+      },
+      "description": "Hundreds marched in Houston to honor Lorenzo Salgado and demand justice, calling for a transparent, independent investigation into his death."
+    },
+    {
+      "title": "Mayor puts out call for help funding city-supported organizations as $158M budget gap looms",
+      "summary": "San Antonio's $158M budget gap dominated the week: the mayor asked business and philanthropy to help fund city-supported groups (July 25), the Book Festival reacted to possible cuts (July 26), and the appeal for help sharpened by July 27 — the story most likely to shape the metro's civic future.",
+      "source": "San Antonio Report",
+      "topic": "elections-politics",
+      "url": "https://sanantonioreport.org/mayor-gina-ortiz-jones-call-for-help-city-supported-organizations-budget/",
+      "published_at": "2026-07-27T21:37:30+00:00",
+      "image": {
+        "url": "https://i0.wp.com/sanantonioreport.org/wp-content/uploads/2026/07/Jones_File_Amber_nonprofits-scaled.jpg?fit=1024%2C683&ssl=1",
+        "alt": ""
+      },
+      "description": "Jones said those organizations strengthened San Antonio but, in a letter dated July 24, she noted a $158 million budget gap the city faces.Mayor puts out call for help funding city-supported organizations as $158M budget gap looms was first posted on July 27, 2026 at 4:37",
+      "thread": [
+        {
+          "title": "Mayor Jones asks business, philanthropic community to help fund San Antonio events and groups amid budget deficit",
+          "summary": "Mayor seeking alternative funding amid budget deficit — city-institutional context landing on the metro; keep-when-unsure on the context/noise boundary.",
+          "source": "KENS 5",
+          "topic": "elections-politics",
+          "url": "https://www.kens5.com/article/news/politics/san-antonio-budget-deficit-mayor-jones-letter-funding-help-botanical-garden-book-fest/273-4e0441c4-9360-4ccc-a4ce-808f06bbef67",
+          "published_at": "2026-07-25T03:32:32+00:00",
+          "image": {
+            "url": "https://media.tegna-media.com/assets/KENS/images/d5959cff-cf67-4faf-b4df-19af16fbf3fd/d5959cff-cf67-4faf-b4df-19af16fbf3fd_750x422.jpg",
+            "alt": ""
+          },
+          "description": "Mayor Gina Ortiz Jones is hunting alternative funding for some San Antonio groups as one way to address the looming budget deficit."
+        },
+        {
+          "title": "San Antonio Book Festival reacts as mayor weighs cuts amid $158 million budget gap",
+          "summary": "SA's $158M budget gap and potential cuts to civic attractions land on the metro's institutions and services — walk-in context. Continuation of existing incident. Kept as you should know.",
+          "source": "KENS 5",
+          "topic": "elections-politics",
+          "url": "https://www.kens5.com/article/news/local/san-antonio-book-festival-mayor-cuts-158-million-budget-gap/273-26d3feac-60fa-4e11-9b8e-dd56ea365151",
+          "published_at": "2026-07-26T23:04:29+00:00",
+          "image": {
+            "url": "https://media.tegna-media.com/assets/KENS/images/d6de5881-7137-417c-8e7f-bbf095aab839/20260308T204818/d6de5881-7137-417c-8e7f-bbf095aab839_750x422.jpg",
+            "alt": ""
+          },
+          "description": "Facing a $158 million budget deficit, San Antonio considers deep cuts, potentially affecting nonprofits like the San Antonio Book Festival and other attractions."
+        },
+        {
+          "title": "Mayor puts out call for help funding city-supported organizations as $158M budget gap looms",
+          "summary": "Continuation of ongoing city budget-gap story affecting local institutions; context for the metro.",
+          "source": "San Antonio Report",
+          "topic": "elections-politics",
+          "url": "https://sanantonioreport.org/mayor-gina-ortiz-jones-call-for-help-city-supported-organizations-budget/",
+          "published_at": "2026-07-27T21:37:30+00:00",
+          "image": {
+            "url": "https://i0.wp.com/sanantonioreport.org/wp-content/uploads/2026/07/Jones_File_Amber_nonprofits-scaled.jpg?fit=1024%2C683&ssl=1",
+            "alt": ""
+          },
+          "description": "Jones said those organizations strengthened San Antonio but, in a letter dated July 24, she noted a $158 million budget gap the city faces.Mayor puts out call for help funding city-supported organizations as $158M budget gap looms was first posted on July 27, 2026 at 4:37"
+        }
+      ]
+    },
+    {
+      "title": "11 indicted in migrant-smuggling case linked to 7 deaths",
+      "summary": "Eleven people were indicted in an in-metro migrant-smuggling case tied to seven deaths — a serious, close-to-home development topping its day.",
+      "source": "San Antonio Report",
+      "topic": "immigration-enforcement",
+      "url": "https://sanantonioreport.org/11-indicted-in-migrant-smuggling-case-linked-to-7-deaths/",
+      "published_at": "2026-07-25T00:59:27+00:00",
+      "image": {
+        "url": "https://i0.wp.com/sanantonioreport.org/wp-content/uploads/2026/07/crop-smuggling.jpg?fit=1024%2C683&ssl=1",
+        "alt": ""
+      },
+      "description": "A federal grand jury has indicted 11 people accused of participating in a migrant-smuggling operation that resulted in seven deaths in May.11 indicted in migrant-smuggling case linked to 7 deaths was first posted on July 24, 2026 at 7:59 pm.©2021 \"San Antonio Report\". Use of"
+    },
+    {
+      "title": "Most San Antonio school districts head into a new school year with budget deficits",
+      "summary": "Most San Antonio school districts entered the new year facing budget deficits — a distinct education-finance strain landing squarely on local families as the school year opens.",
+      "source": "San Antonio Report",
+      "topic": "education",
+      "url": "https://sanantonioreport.org/san-antonio-school-districts-enter-2026-2027-with-deficits/",
+      "published_at": "2026-07-28T10:00:00+00:00",
+      "image": {
+        "url": "https://i0.wp.com/sanantonioreport.org/wp-content/uploads/2026/07/SulRossMiddleSchool_NorthsideISD_NISD_StudentsClassroomHallway_iPadCellPhones_LockdownSafety_EmergencyPreparedness_11_03.19.2026_AmberEsparza-scaled-1.jpg?fit=1024%2C683&ssl=1",
+        "alt": ""
+      },
+      "description": "Out of a dozen school districts in San Antonio, only three are likely to balance their budget for the upcoming 2026-27 school year. Most San Antonio school districts head into a new school year with budget deficits was first posted on July 28, 2026 at 5:00 am.©2021 \"San Antonio"
+    },
+    {
+      "title": "Data centers emerge as flashpoint in Texas governor's race",
+      "summary": "Data centers became a flashpoint in the Texas governor's race — a growing statewide fight over power and water that will reach the metro.",
+      "source": "KENS 5",
+      "topic": "data-centers",
+      "url": "https://www.kens5.com/article/news/local/texas/data-centers-ai-greg-abbott-gina-hinojosa-rural-texas-water-electricity-power-grid-campaign-governor-election-infrastructure-development/273-912a31c5-9d2d-420f-a4e8-8e517f000a8c",
+      "published_at": "2026-07-23T11:49:21+00:00",
+      "image": null,
+      "description": "Concerns over water, power and rural land are turning AI data centers into a major issue in Texas politics."
+    }
+  ],
   "sports": [
     {
       "team": "Rangers",

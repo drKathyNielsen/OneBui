@@ -10,7 +10,7 @@
   "are_you_ok": [
     {
       "title": "Denver health specialists warn of extreme heat risks for people and pets",
-      "summary": "A week-long heat siege on the Front Range: health specialists warned of extreme risk for people and pets midweek (7/25), then Denver broke its hottest-day record in 8 years Sunday (7/27) and posted its warmest night in 145 years by Monday (7/28) — the defining wellness concern of the week.",
+      "summary": "A record-shattering heat wave defined the week: health specialists warned of extreme risk mid-week (Jul 25), Sunday (Jul 27) became Denver's hottest day in 8+ years, and the following night was the warmest in 145 years — a sustained event touching everyone the reader could check on.",
       "source": "CBS Colorado",
       "topic": "heat",
       "url": "https://www.cbsnews.com/colorado/video/denver-health-specialists-warn-of-extreme-heat-risks-for-people-and-pets/",
@@ -64,7 +64,7 @@
     },
     {
       "title": "Friends rally for woman detained by ICE at Denver airport",
-      "summary": "A woman detained by ICE at Denver airport as she boarded a flight (7/23-7/24), with friends rallying in support — an enforcement action that hit close for anyone with immigrant friends or family here.",
+      "summary": "ICE detained a woman at Denver airport (Jul 24) as friends rallied on her behalf — a wrenching local enforcement moment likely to weigh on anyone with immigrant ties in the metro.",
       "source": "9NEWS",
       "topic": "immigration-enforcement",
       "url": "https://www.9news.com/article/news/local/rally-for-woman-detained-by-ice-at-denver-airport/73-c0835e98-5ec5-40c2-89de-cb367bdd9ca5",
@@ -73,8 +73,162 @@
       "description": "A friend and former employer of a woman detained by federal agents at Denver International Airport has been advocating for her release from detention."
     }
   ],
-  "conversation_starters": [],
-  "you_should_know": [],
+  "conversation_starters": [
+    {
+      "title": "AC/DC in Colorado: What to know for the stadium concert",
+      "summary": "",
+      "source": "9NEWS",
+      "topic": "civic-events",
+      "url": "https://www.9news.com/article/life/style/colorado-guide/acdc-colorado-stadium-concert/73-6e900bd6-c1d7-4dea-a196-b58b7a859981",
+      "published_at": "2026-07-28T11:58:44+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/e9adb930-975f-4843-b9ef-a48c1ebfe6f6/20260728T115118/e9adb930-975f-4843-b9ef-a48c1ebfe6f6_750x422.jpg",
+        "alt": ""
+      },
+      "description": "Arguably the world’s greatest rock and roll band, AC/DC is back in Colorado for the first time in 10 years, ready to rock Colorado's largest stadium on Tuesday."
+    },
+    {
+      "title": "Heavy rains cause flash flooding, mudslides in Colorado high country",
+      "summary": "",
+      "source": "CBS Colorado",
+      "topic": "flood",
+      "url": "https://www.cbsnews.com/colorado/video/heavy-rains-cause-flash-flooding-mudslides-in-colorado-high-country/",
+      "published_at": "2026-07-25T04:07:00+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/25/7a88fa26-8a34-4c01-829d-9456a59f2ddc/thumbnail/1024x576/78e14ba12b8afac0fef2be5b34982baf/4f089a770665102e88ea4cb04d44df00.png",
+        "alt": ""
+      },
+      "description": "Some drivers traveling through Colorado's high country should be prepared for delays due to a mudslide in Red Mountain Pass.",
+      "thread": [
+        {
+          "title": "Heavy rains cause flash flooding, mudslides in Colorado high country",
+          "summary": "Flash flooding / mudslides in Colorado high country; just-happened weather event with road impact. Distant point event but a natural did-you-hear opener. You could open with: 'Did you hear about the flash flooding and mudslides up in the high country?'",
+          "source": "CBS Colorado",
+          "topic": "flood",
+          "url": "https://www.cbsnews.com/colorado/video/heavy-rains-cause-flash-flooding-mudslides-in-colorado-high-country/",
+          "published_at": "2026-07-25T04:07:00+00:00",
+          "image": {
+            "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/25/7a88fa26-8a34-4c01-829d-9456a59f2ddc/thumbnail/1024x576/78e14ba12b8afac0fef2be5b34982baf/4f089a770665102e88ea4cb04d44df00.png",
+            "alt": ""
+          },
+          "description": "Some drivers traveling through Colorado's high country should be prepared for delays due to a mudslide in Red Mountain Pass."
+        },
+        {
+          "title": "Colorado Department of Transportation begins mudslide cleanup, expect delays on Highway 550",
+          "summary": "Highway 550 mudslide cleanup/delays; distant mountain-pass route, not Denver metro. Conversation starter for most readers. You could open with: 'Heard Red Mountain Pass is a mess with the mudslide cleanup?'",
+          "source": "CBS Colorado",
+          "topic": "transportation",
+          "url": "https://www.cbsnews.com/colorado/news/colorado-transportation-department-mudslide-cleanup-highway-550/",
+          "published_at": "2026-07-27T14:01:58+00:00",
+          "image": {
+            "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/26/65758d20-aaf9-4ce4-a9b2-33d0dd2f337a/thumbnail/1024x576/8273ed8d73959b9eda70debbcb246d7c/cdot-mudslide-highway-550.jpg",
+            "alt": ""
+          },
+          "description": "The Colorado Department of Transportation is advising drivers to expect lengthy delays this week as crews clean up the remains of a mudslide in Red Mountain Pass."
+        }
+      ]
+    },
+    {
+      "title": "Eastbound I-70 reopens east of Denver",
+      "summary": "",
+      "source": "9NEWS",
+      "topic": "transportation",
+      "url": "https://www.9news.com/article/traffic/pavement-buckling-closes-eastbound-i-70/73-7163f111-859d-41f1-9203-9ba65b61dfa7",
+      "published_at": "2026-07-27T12:06:30+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/ed6fed3d-df96-4030-aab9-159e4e2cd1d7/20260727T111834/ed6fed3d-df96-4030-aab9-159e4e2cd1d7_750x422.jpg",
+        "alt": ""
+      },
+      "description": "Eastbound I-70 east of Denver was closed for emergency repairs after road buckling, according to CSP."
+    },
+    {
+      "title": "Aurora's Day of Resilience honors theater shooting victims while supporting long-term healing",
+      "summary": "",
+      "source": "CBS Colorado",
+      "topic": "human-interest",
+      "url": "https://www.cbsnews.com/colorado/video/auroras-day-of-resilience-honors-theater-shooting-victims-while-supporting-long-term-healing/",
+      "published_at": "2026-07-26T02:55:00+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/07/26/69d38529-1f52-4a75-9926-b993f81109db/thumbnail/1024x576/ec677773b793d1980b215653f5fe0b16/8648dc32a56f532105a1459d3092f27f.jpg",
+        "alt": ""
+      },
+      "description": "Khloey Pace and Peyton Soltis are the young faces behind Veronica's Lemonade Stand at Aurora's Day of Resilience, where every cup served honors the memory of 6-year-old Veronica Moser-Sullivan, the youngest victim of the 2012 Aurora theater shooting."
+    },
+    {
+      "title": "New wolf pack confirmed in Colorado: Piney Ridge Pack",
+      "summary": "",
+      "source": "9NEWS",
+      "topic": "human-interest",
+      "url": "https://www.9news.com/article/news/local/colorado-wolves/new-wolf-pack-colorado-piney-ridge-pack/73-84eaac10-a825-4003-bf21-eb5729b45b7e",
+      "published_at": "2026-07-22T23:06:00+00:00",
+      "image": null,
+      "description": "Colorado Parks and Wildfire confirms four successful wolf groups in the state."
+    }
+  ],
+  "you_should_know": [
+    {
+      "title": "Evacuations lifted for residents near Penley Fire in Colorado",
+      "summary": "",
+      "source": "CBS Colorado",
+      "topic": "wildfire",
+      "url": "https://www.cbsnews.com/colorado/video/evacuations-lifted-for-residents-near-penley-fire-in-colorado/",
+      "published_at": "2026-07-28T04:12:00+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/07/28/8641a1cc-433f-4971-9a78-d4f78e7748b3/thumbnail/1024x576/235d36c7c4e73341ec5e8abbb8d44ed3/28cab4a103ec729a28888731ab2a3d64.jpg",
+        "alt": ""
+      },
+      "description": "A wildfire southwest of the Denver metro area on Sunday evening, prompting Douglas County officials to temporarily issue an evacuation order."
+    },
+    {
+      "title": "ACLU asks Colorado Supreme Court to review ruling upholding Boulder’s camping ban",
+      "summary": "",
+      "source": "Boulder Reporting Lab",
+      "topic": "housing",
+      "url": "https://boulderreportinglab.org/2026/07/26/aclu-asks-colorado-supreme-court-to-review-ruling-upholding-boulders-camping-ban/",
+      "published_at": "2026-07-27T03:49:07+00:00",
+      "image": {
+        "url": "https://i0.wp.com/boulderreportinglab.org/wp-content/uploads/2025/04/IMG_1557-scaled.jpeg?fit=1024%2C683&ssl=1",
+        "alt": "Homeless people in Boulder rest by the creek path near the library."
+      },
+      "description": "Homeless people in Boulder rest by the creek path near the library. Civil rights lawyers argue the Colorado Court of Appeals failed to independently analyze the state constitution and relied on 'fiction' rather than the facts of the case. The post ACLU asks Colorado Supreme"
+    },
+    {
+      "title": "4th firefighter dies from burn injuries battling Colorado's Knowles wildfire",
+      "summary": "",
+      "source": "CBS Colorado",
+      "topic": "wildfire",
+      "url": "https://www.cbsnews.com/colorado/video/4th-firefighter-dies-from-burn-injuries-battling-colorados-knowles-wildfire/",
+      "published_at": "2026-07-26T02:50:00+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/26/6375b5ac-6ba9-4cde-a4d1-bfb84bf35a4d/thumbnail/1024x576/6df11556851627b4fb756b1d1d2f5842/ad3a4a57979a111a51ae086bb120cb4f.jpg",
+        "alt": ""
+      },
+      "description": "A fourth firefighter died from burn injuries battling Colorado's Knowles wildfire in the western part of the state at the end of June."
+    },
+    {
+      "title": "4th firefighter dies from burn injuries battling Colorado's Knowles wildfire",
+      "summary": "",
+      "source": "CBS Colorado",
+      "topic": "wildfire",
+      "url": "https://www.cbsnews.com/colorado/news/nathan-matthews-dies-knowles-wildfire-colorado/",
+      "published_at": "2026-07-25T17:38:00+00:00",
+      "image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/06/28/3299d9e3-7aa5-4785-94a3-d9a5afb9a979/thumbnail/1024x576/bec701260e1c4872cc96ff48e5fb3dda/synder-fire-2-u-s-wildland-fire-service.jpg",
+        "alt": ""
+      },
+      "description": "Nathan Matthews, 43, of Lincoln, Nebraska, died from injuries sustained while battling the blaze, the Department of the Interior said."
+    },
+    {
+      "title": "Denver Water asks customers to stick to watering restrictions, hopes residents \"work even harder at conserving\"",
+      "summary": "",
+      "source": "CBS Colorado",
+      "topic": "drought-water",
+      "url": "https://www.cbsnews.com/colorado/news/denver-water-watering-restrictions-drought/",
+      "published_at": "2026-07-24T02:58:14+00:00",
+      "image": null,
+      "description": "Denver Water says its customers are using less water than they were this time last year, but officials warn conservation efforts are still falling well short of what is needed as the drought persists​."
+    }
+  ],
   "sports": [
     {
       "team": "Rockies",

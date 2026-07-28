@@ -24,6 +24,7 @@
     {
       "event": "Heat Advisory",
       "area": "Atascosa & Wilson",
+      "severity": "Moderate",
       "summary": "Heat Advisory — Atascosa & Wilson, until 7:00pm",
       "description": "Heat Advisory issued July 27 at 11:42PM CDT until July 28 at 7:00PM CDT by NWS Austin/San Antonio TX\n\n* WHAT...Heat index values from 108 to 111 expected.\n\n* WHERE...The Coastal Plains and portions of the Rio Grande Plains.\n\n* WHEN...From noon to 7 PM CDT Tuesday.\n\n* IMPACTS...Hot temperatures and high humidity may cause heat\nillnesses.",
       "ends": "2026-07-28T19:00:00-05:00"
