@@ -9,17 +9,17 @@
   },
   "are_you_ok": [
     {
-      "title": "“What do I do? Where do I start?” Buckhannon area business owner lost it all in last week’s high water",
-      "summary": "Last week's July 21 high water gutted homes and businesses across the Buckhannon/Upshur area and a tiny Ritchie County town; a week on, owners were still surveying total losses and asking where to even begin.",
+      "title": "Flood water damages most homes and buildings in tiny Ritchie County town",
+      "summary": "The July 21 high water devastated small West Virginia towns — most homes and buildings in a tiny Ritchie County town damaged, and a Buckhannon-area business owner who 'lost it all.' The most direct human toll of the week's flooding, worth a genuine check-in on anyone the reader knows in the affected counties.",
       "source": "WV MetroNews",
       "topic": "flood",
-      "url": "https://wvmetronews.com/2026/07/26/what-do-i-do-where-do-i-start-buckhannon-area-business-owner-lost-it-all-in-last-weeks-high-water/",
-      "published_at": "2026-07-26T21:40:41+00:00",
+      "url": "https://wvmetronews.com/2026/07/28/flood-water-damages-most-homes-and-buildings-in-tiny-ritchie-county-town/",
+      "published_at": "2026-07-28T19:58:36+00:00",
       "image": {
-        "url": "https://s3.us-east-005.backblazeb2.com/wvmn-s3/2026/07/lede-upshur-1-300x164.jpg",
+        "url": "https://s3.us-east-005.backblazeb2.com/wvmn-s3/2026/07/Auburn-Flood-300x216.jpg",
         "alt": ""
       },
-      "description": "Brushy Fork came raging out of its banks impacting Rodney Rovello and family forever. The post “What do I do? Where do I start?” Buckhannon area business owner lost it all in last week’s high water appeared first on WV MetroNews.",
+      "description": "A tornado damaged one end of the county while the community of Auburn endured high water in almost every structure. The post Flood water damages most homes and buildings in tiny Ritchie County town appeared first on WV MetroNews.",
       "logo": "https://s3.us-east-005.backblazeb2.com/wvmn-s3/2024/07/cropped-metro-icon-32x32.png",
       "thread": [
         {
@@ -54,7 +54,7 @@
     },
     {
       "title": "Mischief knocks out internet service to several thousand in Kanawha County",
-      "summary": "Deliberate mischief knocked out internet to several thousand in Kanawha County — worth checking whether anyone you know was cut off for work or emergencies.",
+      "summary": "Vandalism knocked out internet to several thousand Kanawha County customers — a broad, everyday-life disruption worth checking on for anyone in the affected area.",
       "source": "WV MetroNews",
       "topic": "transportation",
       "url": "https://wvmetronews.com/2026/07/25/mischief-knocks-out-internet-service-to-several-thousand-in-kanawha-county/",
@@ -69,17 +69,31 @@
   ],
   "conversation_starters": [
     {
-      "title": "43rd Upper Ohio Valley Italian Heritage Festival brings together traditional foods with cooking demonstrations at Little Italy Tent",
-      "summary": "The 43rd Upper Ohio Valley Italian Heritage Festival ran through the weekend in the reader's own city — cooking demos and traditional foods at the Little Italy Tent early, closing with a faith-centered final day. An easy, local opener.",
-      "source": "Wheeling News and Weather",
-      "topic": "civic-events",
-      "url": "https://www.wtrf.com/community/43rd-upper-ohio-valley-italian-heritage-festival-brings-together-traditional-foods-with-cooking-demonstrations-at-little-italy-tent/",
-      "published_at": "2026-07-24T22:50:48+00:00",
+      "title": "Ground broken on Wheeling’s J.C. Lando project",
+      "summary": "Ground broke on Wheeling's J.C. Lando project — an in-city development milestone that lands squarely in the reader's metro and makes an easy, upbeat opener.",
+      "source": "WV MetroNews",
+      "topic": "business-jobs",
+      "url": "https://wvmetronews.com/2026/07/28/ground-broken-on-wheelings-j-c-lando-project/",
+      "published_at": "2026-07-28T16:19:38+00:00",
       "image": {
-        "url": "https://www.wtrf.com/wp-content/uploads/sites/25/2026/07/ITALIAN-COOKING-PKG-.00_01_47_23.Still001.jpg?w=900",
+        "url": "https://s3.us-east-005.backblazeb2.com/wvmn-s3/2026/07/Morrisey-Lando-300x225.jpg",
         "alt": ""
       },
-      "description": "WHEELING, W.Va. (WTRF) - From pasta to desserts, there is a taste for everyone at the Upper Ohio Valley Italian Heritage Festival. At the Little Italy Tent, festival goers will be able to see live demonstrations of how some of these traditional foods are made. One of the things",
+      "description": "Project will dress up Wheeling's river front and draw in new investment and tourism The post Ground broken on Wheeling’s J.C. Lando project appeared first on WV MetroNews.",
+      "logo": "https://s3.us-east-005.backblazeb2.com/wvmn-s3/2024/07/cropped-metro-icon-32x32.png"
+    },
+    {
+      "title": "Faith takes center stage on final day of Italian Festival",
+      "summary": "The 43rd Upper Ohio Valley Italian Heritage Festival ran through the weekend in the city, from cooking demos at the Little Italy Tent to a faith-centered final day — a local, universally relatable conversation starter.",
+      "source": "Wheeling News and Weather",
+      "topic": "civic-events",
+      "url": "https://www.wtrf.com/top-stories/faith-takes-center-stage-on-final-day-of-italian-festival/",
+      "published_at": "2026-07-26T23:16:49+00:00",
+      "image": {
+        "url": "https://www.wtrf.com/wp-content/uploads/sites/25/2026/07/Italian-Festival-Mass-2026.png?w=900",
+        "alt": ""
+      },
+      "description": "WHEELING, W.Va. — As this year's Undo's Upper Ohio Valley Italian Heritage Festival entered its third and final day, a large crowd gathered at the main stage at Heritage Port — not for food or music, but for prayer. The annual Catholic Mass has become one of the festival's most",
       "logo": "https://www.wtrf.com/wp-content/uploads/sites/25/2022/05/cropped-wtrf-1.png?w=32",
       "thread": [
         {
@@ -113,22 +127,8 @@
       ]
     },
     {
-      "title": "Ground broken on Wheeling’s J.C. Lando project",
-      "summary": "Ground broke on Wheeling's J.C. Lando project — a tangible in-city development milestone people can watch progress.",
-      "source": "WV MetroNews",
-      "topic": "business-jobs",
-      "url": "https://wvmetronews.com/2026/07/28/ground-broken-on-wheelings-j-c-lando-project/",
-      "published_at": "2026-07-28T16:19:38+00:00",
-      "image": {
-        "url": "https://s3.us-east-005.backblazeb2.com/wvmn-s3/2026/07/Morrisey-Lando-300x225.jpg",
-        "alt": ""
-      },
-      "description": "Project will dress up Wheeling's river front and draw in new investment and tourism The post Ground broken on Wheeling’s J.C. Lando project appeared first on WV MetroNews.",
-      "logo": "https://s3.us-east-005.backblazeb2.com/wvmn-s3/2024/07/cropped-metro-icon-32x32.png"
-    },
-    {
       "title": "Greenbrier financial deal in the works is ‘not merely a loan but a joint venture’",
-      "summary": "The Greenbrier financial deal firmed up into what's being called a joint venture, not merely a loan — a notable business twist for a marquee state institution.",
+      "summary": "The Greenbrier's financial rescue took shape as a Kennedy Lewis joint venture rather than a simple loan — a high-profile state business story that's easy to raise.",
       "source": "WV MetroNews",
       "topic": "business-jobs",
       "url": "https://wvmetronews.com/2026/07/27/greenbrier-financial-deal-in-the-works-is-not-merely-a-loan-but-a-joint-venture/",
@@ -141,22 +141,8 @@
       "logo": "https://s3.us-east-005.backblazeb2.com/wvmn-s3/2024/07/cropped-metro-icon-32x32.png"
     },
     {
-      "title": "EF-1 Tornado confirmed in Pendleton County, full report released",
-      "summary": "NWS confirmed an EF-1 tornado in Pendleton County and released the full report, capping a stretch of severe-weather confirmations across eastern WV.",
-      "source": "WV MetroNews",
-      "topic": "severe-weather",
-      "url": "https://wvmetronews.com/2026/07/24/ef-1-tornado-confirmed-in-pendleton-county-full-report-released/",
-      "published_at": "2026-07-24T21:30:06+00:00",
-      "image": {
-        "url": "https://s3.us-east-005.backblazeb2.com/wvmn-s3/2026/07/Image-7-24-26-at-5.22%E2%80%AFPM-300x225.jpeg",
-        "alt": ""
-      },
-      "description": "PENDLETON COUNTY, W.Va. — The National Weather Service has officially confirmed that an EF-1 tornado touched down in Pendleton County on Tuesday evening, packing peak winds of 100 mph and leaving a nearly 10.5-mile path of destruction in its wake. Despite the widespread damage,",
-      "logo": "https://s3.us-east-005.backblazeb2.com/wvmn-s3/2024/07/cropped-metro-icon-32x32.png"
-    },
-    {
       "title": "Dominion Energy to build new gas fired power plant at Mt. Storm",
-      "summary": "Dominion Energy announced a new gas-fired power plant at Mt. Storm — a jobs-and-energy story with long-term regional weight.",
+      "summary": "Dominion Energy plans a new gas-fired power plant at Mt. Storm — a significant regional jobs-and-energy story worth bringing up.",
       "source": "WV MetroNews",
       "topic": "business-jobs",
       "url": "https://wvmetronews.com/2026/07/28/dominion-energy-to-build-new-gas-fired-power-plant-at-mt-storm/",
@@ -167,12 +153,56 @@
       },
       "description": "Officials say the plant would be adjacent to the existing coal fired plant which would remain fully operational The post Dominion Energy to build new gas fired power plant at Mt. Storm appeared first on WV MetroNews.",
       "logo": "https://s3.us-east-005.backblazeb2.com/wvmn-s3/2024/07/cropped-metro-icon-32x32.png"
+    },
+    {
+      "title": "WVU Medicine to make “transformative contribution” to health services in Monongalia County",
+      "summary": "WVU Medicine pledged a 'transformative contribution' to Monongalia County health, formalized this week as a $9 million presentation to the county commission — a notable, feel-good institutional move.",
+      "source": "WV MetroNews",
+      "topic": "business-jobs",
+      "url": "https://wvmetronews.com/2026/07/27/wvu-medicine-to-make-transformative-contribution-to-health-services-in-monongalia-county/",
+      "published_at": "2026-07-27T21:39:50+00:00",
+      "image": {
+        "url": "https://s3.us-east-005.backblazeb2.com/wvmn-s3/2024/10/stethoscope-840125_1280-300x200.jpg",
+        "alt": ""
+      },
+      "description": "Announcement set for Tuesday morning in Morgantown. The post WVU Medicine to make “transformative contribution” to health services in Monongalia County appeared first on WV MetroNews.",
+      "logo": "https://s3.us-east-005.backblazeb2.com/wvmn-s3/2024/07/cropped-metro-icon-32x32.png",
+      "thread": [
+        {
+          "title": "WVU Medicine to make “transformative contribution” to health services in Monongalia County",
+          "summary": "WVU Medicine 'transformative contribution' to health services in Monongalia County — major local employer/health investment, metro-prominent. You could open with: 'Did you see WVU Medicine has a big health-services announcement coming for Morgantown?'",
+          "source": "WV MetroNews",
+          "topic": "business-jobs",
+          "url": "https://wvmetronews.com/2026/07/27/wvu-medicine-to-make-transformative-contribution-to-health-services-in-monongalia-county/",
+          "published_at": "2026-07-27T21:39:50+00:00",
+          "image": {
+            "url": "https://s3.us-east-005.backblazeb2.com/wvmn-s3/2024/10/stethoscope-840125_1280-300x200.jpg",
+            "alt": ""
+          },
+          "description": "Announcement set for Tuesday morning in Morgantown. The post WVU Medicine to make “transformative contribution” to health services in Monongalia County appeared first on WV MetroNews.",
+          "logo": "https://s3.us-east-005.backblazeb2.com/wvmn-s3/2024/07/cropped-metro-icon-32x32.png"
+        },
+        {
+          "title": "WVU Medicine presents $9 million to Monongalia County Commission for county public health initiatives",
+          "summary": "WVU Medicine gives $9M to Monongalia County for public health — notable local employer/institution news. You could open with: 'Did you hear WVU Medicine put $9 million into county public health?'",
+          "source": "WV MetroNews",
+          "topic": "public-health",
+          "url": "https://wvmetronews.com/2026/07/28/wvu-medicine-presents-9-million-to-monongalia-county-commission-for-county-public-health-initiatives/",
+          "published_at": "2026-07-28T18:11:27+00:00",
+          "image": {
+            "url": "https://s3.us-east-005.backblazeb2.com/wvmn-s3/2026/07/2026-07-28-111402-300x169.jpg",
+            "alt": ""
+          },
+          "description": "Officials say the money proof of a strong partnership. The post WVU Medicine presents $9 million to Monongalia County Commission for county public health initiatives appeared first on WV MetroNews.",
+          "logo": "https://s3.us-east-005.backblazeb2.com/wvmn-s3/2024/07/cropped-metro-icon-32x32.png"
+        }
+      ]
     }
   ],
   "you_should_know": [
     {
       "title": "Former Del. Pritt remains on November ballot, several scenarios could complicate his removal",
-      "summary": "After sex-crime charges, the House speaker sought a special session to remove Del. Pritt; by week's end he still remained on the November ballot with several scenarios that could complicate his removal — the political story that ran the whole week.",
+      "summary": "The Pritt saga culminated at the ballot: after the House speaker sought a special session to remove him following sex-crime charges, he remains on the November ballot with several scenarios that could complicate removal. The week's biggest political thread to walk in aware of.",
       "source": "WV MetroNews",
       "topic": "elections-politics",
       "url": "https://wvmetronews.com/2026/07/28/former-del-pritt-remains-on-november-ballot-several-scenarios-could-complicate-his-removal/",
@@ -216,7 +246,7 @@
     },
     {
       "title": "Names released in flood fatality",
-      "summary": "Authorities released the names of those killed in the July 21 flooding — the human toll behind the recovery coverage.",
+      "summary": "Names of the flood fatalities were released — the most sobering development in the July flooding, context to carry quietly into the day.",
       "source": "WV MetroNews",
       "topic": "flood",
       "url": "https://wvmetronews.com/2026/07/24/names-released-in-flood-fatality/",
@@ -230,7 +260,7 @@
     },
     {
       "title": "Morrisey makes federal disaster request for 7 counties after July 21 storms",
-      "summary": "Gov. Morrisey filed a federal disaster request for 7 counties after the July 21 storms, the key step toward federal aid for the flood zone.",
+      "summary": "Morrisey filed a federal disaster request for seven counties hit by the July 21 storms — the formal recovery step tied to the week's flooding.",
       "source": "WV MetroNews",
       "topic": "flood",
       "url": "https://wvmetronews.com/2026/07/26/morrisey-makes-federal-disaster-request-for-7-counties-after-july-21-storms/",
@@ -244,7 +274,7 @@
     },
     {
       "title": "State police say 3 illegals arrested after stealing jewelry, smart ring from flooded Weston Walmart",
-      "summary": "State police announced arrests over jewelry and a smart ring stolen from the flooded Weston Walmart — a distinct enforcement angle amid the recovery.",
+      "summary": "State police reported arrests after a theft from the flooded Weston Walmart, framed around immigration status — a charged local law-enforcement item to be aware of but tread carefully around.",
       "source": "WV MetroNews",
       "topic": "immigration-enforcement",
       "url": "https://wvmetronews.com/2026/07/28/state-police-say-3-illegals-arrested-after-stealing-jewelry-from-flooded-weston-walmart/",
@@ -257,17 +287,17 @@
       "logo": "https://s3.us-east-005.backblazeb2.com/wvmn-s3/2024/07/cropped-metro-icon-32x32.png"
     },
     {
-      "title": "PSC approves West Virginia-American Water purchase of Lincoln County water utility for $12.9 million",
-      "summary": "The PSC approved West Virginia-American Water's $12.9M purchase of Lincoln County's water utility — a lasting change in who controls local water service.",
+      "title": "Company that owns Pleasants Power Station files for bankruptcy",
+      "summary": "The company that owns Pleasants Power Station filed for bankruptcy — a consequential state energy/jobs development worth walking in aware of.",
       "source": "WV MetroNews",
-      "topic": "drought-water",
-      "url": "https://wvmetronews.com/2026/07/25/psc-approves-west-virginia-american-water-purchase-of-lincoln-county-water-utility-for-12-9-million/",
-      "published_at": "2026-07-25T15:28:28+00:00",
+      "topic": "business-jobs",
+      "url": "https://wvmetronews.com/2026/07/27/company-that-owns-pleasants-power-station-files-for-bankruptcy/",
+      "published_at": "2026-07-27T23:49:34+00:00",
       "image": {
-        "url": "https://wvmetronews.com/wp-content/uploads/2022/10/PSC-buiding-new-e1494868448457-1440x1080-1-300x225.jpg",
+        "url": "https://s3.us-east-005.backblazeb2.com/wvmn-s3/2025/09/Pleasants-Power-Station-8-300x200.jpg",
         "alt": ""
       },
-      "description": "The Lincoln Public Service District serves customers in Lincoln, Kanawha, and Boone counties. The post PSC approves West Virginia-American Water purchase of Lincoln County water utility for $12.9 million appeared first on WV MetroNews.",
+      "description": "Omnis Pleasants, LLC. stated in a news release it intends to keep the facility open and sell to an independent third party. The post Company that owns Pleasants Power Station files for bankruptcy appeared first on WV MetroNews.",
       "logo": "https://s3.us-east-005.backblazeb2.com/wvmn-s3/2024/07/cropped-metro-icon-32x32.png"
     }
   ],

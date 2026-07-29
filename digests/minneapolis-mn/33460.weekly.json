@@ -9,22 +9,8 @@
   },
   "are_you_ok": [
     {
-      "title": "Upgrades underway after 30 Minnesota cities' water supplies targeted in cyberattack",
-      "summary": "A cyberattack targeted the water supplies of 30 Minnesota cities; upgrades are now underway. A genuine, broad check-in — municipal water hits everyone in the metro directly.",
-      "source": "CBS Minnesota",
-      "topic": "other",
-      "url": "https://www.cbsnews.com/minnesota/video/upgrades-underway-after-30-minnesota-cities-water-supplies-targeted-in-cyberattack/",
-      "published_at": "2026-07-29T03:04:00+00:00",
-      "image": {
-        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/29/cd9fc78d-70d8-4206-b127-b2c1c1f601e7/thumbnail/1024x576/5702355399b8e29db0ade6168074dcff/87b907c927b8f479c23d640af46f6390.png",
-        "alt": ""
-      },
-      "description": "Right now, more than 30 Minnesota cities are dealing with the aftermath of a cyberattack targeting their water supplies. One of those cities, Braham, temporarily lost control of its water plant, and had to rely on what was stored in its water tower. Ubah Ali got an up-close look",
-      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
-    },
-    {
       "title": "Extreme heat: How to stay safe, where to cool off in the Twin Cities",
-      "summary": "An extended late-July heat wave gripped the Twin Cities, with a safety/cooling-center push July 24 and continued heat and humidity through Wednesday the 29th — worth checking how someone weathered the stretch.",
+      "summary": "A multi-day extreme-heat stretch gripped the Twin Cities: safety-and-cooling guidance led July 24, with renewed heat and humidity forecast into Wednesday July 29 — the week's most broadly felt threat to people the reader might check on.",
       "source": "FOX 9",
       "topic": "heat",
       "url": "https://www.fox9.com/news/extreme-heat-how-stay-safe-where-cool-off-twin-cities-june-29-2026",
@@ -63,12 +49,26 @@
           "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
         }
       ]
+    },
+    {
+      "title": "Upgrades underway after 30 Minnesota cities' water supplies targeted in cyberattack",
+      "summary": "Thirty Minnesota cities had their water supplies targeted in a cyberattack; upgrades were underway by July 29. A rare direct hit on essential infrastructure that could touch anyone on municipal water.",
+      "source": "CBS Minnesota",
+      "topic": "other",
+      "url": "https://www.cbsnews.com/minnesota/video/upgrades-underway-after-30-minnesota-cities-water-supplies-targeted-in-cyberattack/",
+      "published_at": "2026-07-29T03:04:00+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/29/cd9fc78d-70d8-4206-b127-b2c1c1f601e7/thumbnail/1024x576/5702355399b8e29db0ade6168074dcff/87b907c927b8f479c23d640af46f6390.png",
+        "alt": ""
+      },
+      "description": "Right now, more than 30 Minnesota cities are dealing with the aftermath of a cyberattack targeting their water supplies. One of those cities, Braham, temporarily lost control of its water plant, and had to rely on what was stored in its water tower. Ubah Ali got an up-close look",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
     }
   ],
   "conversation_starters": [
     {
       "title": "EF-3 tornado tears through Wisconsin, leaving 12-mile path of destruction",
-      "summary": "An EF-3 tornado carved a 12-mile path through Wisconsin's Fox River Valley, downing power and damaging homes — dramatic and easy to raise with anyone with regional ties.",
+      "summary": "An EF-3 tornado carved a 12-mile path through Wisconsin's Fox River Valley, downing power and damaging homes — the week's most dramatic weather event and a natural, widely-known opener.",
       "source": "CBS Minnesota",
       "topic": "severe-weather",
       "url": "https://www.cbsnews.com/minnesota/video/ef-3-tornado-tears-through-wisconsin-leaving-12-mile-path-of-destruction/",
@@ -110,21 +110,8 @@
       ]
     },
     {
-      "title": "Saint Paul's Rondo Block Party celebrates community with family fun and cultural events on Aug. 1",
-      "summary": "Saint Paul's Rondo Block Party returns Aug. 1 with family fun and cultural events — a warm, community-rooted opener.",
-      "source": "KARE 11",
-      "topic": "civic-events",
-      "url": "https://www.kare11.com/article/news/local/saint-pauls-rondo-block-party-celebrates-community-with-family-fun-and-cultural-events-on-aug-1/89-1a355937-b5da-4a6a-bd71-895641d4d791",
-      "published_at": "2026-07-26T20:36:48+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KARE/images/7dc95da8-6250-401e-aa97-5886391e5840/20260726T190410/7dc95da8-6250-401e-aa97-5886391e5840_750x422.jpg",
-        "alt": ""
-      },
-      "description": "The Rondo Block Party returns on August 1, celebrating St. Paul's historic Rondo community with family fun, culture, wellness, engagement, and entrepreneurship."
-    },
-    {
       "title": "Jimothy the raccoon shines new spotlight on Minnesota's short-spined dogs Quasi, Cooper",
-      "summary": "Jimothy the raccoon put a new spotlight on Minnesota's short-spined dogs Quasi and Cooper — a delightful, low-stakes crowd-pleaser.",
+      "summary": "Jimothy the raccoon went viral and cast a spotlight on Minnesota's short-spined dogs Quasi and Cooper — a feel-good local human-interest story that gets people talking.",
       "source": "FOX 9",
       "topic": "human-interest",
       "url": "https://www.fox9.com/news/jimothy-raccoon-spotlights-minnesotas-short-spined-dogs-quasi-cooper-july-2026",
@@ -136,8 +123,21 @@
       "description": "A raccoon named Jimothy is turning heads online for his unusual look, and his story is shining a light on two Minnesota dogs with the same rare condition."
     },
     {
+      "title": "Saint Paul's Rondo Block Party celebrates community with family fun and cultural events on Aug. 1",
+      "summary": "Saint Paul's Rondo Block Party set for Aug. 1 with family fun and cultural events — a marquee community weekend easy to bring up in conversation.",
+      "source": "KARE 11",
+      "topic": "civic-events",
+      "url": "https://www.kare11.com/article/news/local/saint-pauls-rondo-block-party-celebrates-community-with-family-fun-and-cultural-events-on-aug-1/89-1a355937-b5da-4a6a-bd71-895641d4d791",
+      "published_at": "2026-07-26T20:36:48+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/7dc95da8-6250-401e-aa97-5886391e5840/20260726T190410/7dc95da8-6250-401e-aa97-5886391e5840_750x422.jpg",
+        "alt": ""
+      },
+      "description": "The Rondo Block Party returns on August 1, celebrating St. Paul's historic Rondo community with family fun, culture, wellness, engagement, and entrepreneurship."
+    },
+    {
       "title": "New sustainable aviation fuel facility in Minnesota will start producing 30 million gallons per year for MSP flights",
-      "summary": "A new Minnesota sustainable-aviation-fuel facility will produce 30 million gallons a year for MSP flights — a concrete local business/jobs story that invites discussion.",
+      "summary": "A new sustainable aviation fuel facility will produce 30 million gallons a year for MSP flights — a concrete local business-and-jobs story with wide appeal.",
       "source": "KARE 11",
       "topic": "business-jobs",
       "url": "https://www.kare11.com/article/news/local/new-sustainable-aviation-fuel-facility-minnesota-will-start-producing-30-million-gallons-per-year-for-msp-flights/89-e61c73c0-e0de-4352-be8f-39fd66cdfa02",
@@ -150,7 +150,7 @@
     },
     {
       "title": "Loring Park Art Festival brings 165 artists, live music, and fashion shows to Minneapolis this weeke",
-      "summary": "The Loring Park Art Festival brought 165 artists, live music and fashion shows to Minneapolis — a distinct weekend-culture opener alongside the Rondo party.",
+      "summary": "The Loring Park Art Festival brought 165 artists, live music and fashion shows to Minneapolis — a well-attended weekend event and an easy opener.",
       "source": "CBS Minnesota",
       "topic": "civic-events",
       "url": "https://www.cbsnews.com/minnesota/video/loring-park-art-festival-brings-165-artists-live-music-and-fashion-shows-to-minneapolis-this-weeke/",
@@ -163,7 +163,7 @@
   "you_should_know": [
     {
       "title": "Boelter sentenced to 2 life sentences plus 40 years for killing Hortmans, shooting Hoffmans",
-      "summary": "Vance Boelter was sentenced to two life terms plus 40 years for killing the Hortmans and shooting the Hoffmans; follow-up coverage weighed where his remaining state case stands. The week's defining criminal-justice story.",
+      "summary": "Vance Boelter was sentenced July 23 to two life sentences plus 40 years for killing the Hortmans and shooting the Hoffmans; by July 24 attention turned to where his state case stands — the week's biggest justice story.",
       "source": "CBS Minnesota",
       "topic": "violent-crime",
       "url": "https://www.cbsnews.com/minnesota/video/boelter-sentenced-to-2-life-sentences-plus-40-years-for-killing-hortmans-shooting-hoffmans/",
@@ -174,7 +174,7 @@
     },
     {
       "title": "Reports: St. Paul police chief files sexual harassment complaint against Mayor Kaohly Her",
-      "summary": "St. Paul's police chief filed a sexual harassment complaint against Mayor Kaohly Her — a top-of-city-hall political rupture worth walking in aware of.",
+      "summary": "St. Paul's police chief filed a sexual harassment complaint against Mayor Kaohly Her — a top-of-city-hall political story breaking July 29.",
       "source": "FOX 9",
       "topic": "elections-politics",
       "url": "https://www.fox9.com/news/st-paul-police-chief-files-sexual-harassment-complaint-against-mayor-kaohly-her",
@@ -186,21 +186,8 @@
       "description": "St. Paul’s mayor faces a sexual harassment complaint from the city’s police chief, raising questions about conduct at the highest levels of city government."
     },
     {
-      "title": "People gather to remember Alex Pretti 6 months after his death by federal agents",
-      "summary": "Mourners gathered to remember Alex Pretti six months after his death by federal agents, amid a week thick with immigration-enforcement scrutiny across the metro.",
-      "source": "KARE 11",
-      "topic": "immigration-enforcement",
-      "url": "https://www.kare11.com/article/news/local/ice-in-minnesota/alex-pretti-6-months-vigil-ice/89-373055c1-dba0-47d5-a6d3-64f80ab952d9",
-      "published_at": "2026-07-26T03:06:53+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KARE/images/f95bfbc8-a2ac-4275-8548-f8774eef8bd4/20260725T234013/f95bfbc8-a2ac-4275-8548-f8774eef8bd4_750x422.jpg",
-        "alt": ""
-      },
-      "description": "People are gathering Saturday to remember not just Alex Pretti and Renee Good, but others who have been killed by federal agents."
-    },
-    {
       "title": "Tensions rise as date to clear St. Paul encampments approaches, and more headlines",
-      "summary": "As the August date to clear St. Paul encampments approached, tensions rose while social services and a new $1M shelter fund prepared for the adjustment.",
+      "summary": "St. Paul's planned August encampment clearings drew rising tension as the date neared, with social services and a $1M shelter push preparing for the shift — a developing housing story across the week.",
       "source": "CBS Minnesota",
       "topic": "housing",
       "url": "https://www.cbsnews.com/minnesota/video/tensions-rise-as-date-to-clear-st-paul-encampments-approaches-and-more-headlines/",
@@ -242,8 +229,21 @@
       ]
     },
     {
+      "title": "People gather to remember Alex Pretti 6 months after his death by federal agents",
+      "summary": "People gathered to mark six months since Alex Pretti's death by federal agents — a resonant local moment amid ongoing immigration-enforcement scrutiny.",
+      "source": "KARE 11",
+      "topic": "immigration-enforcement",
+      "url": "https://www.kare11.com/article/news/local/ice-in-minnesota/alex-pretti-6-months-vigil-ice/89-373055c1-dba0-47d5-a6d3-64f80ab952d9",
+      "published_at": "2026-07-26T03:06:53+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/f95bfbc8-a2ac-4275-8548-f8774eef8bd4/20260725T234013/f95bfbc8-a2ac-4275-8548-f8774eef8bd4_750x422.jpg",
+        "alt": ""
+      },
+      "description": "People are gathering Saturday to remember not just Alex Pretti and Renee Good, but others who have been killed by federal agents."
+    },
+    {
       "title": "Federal judge temporarily blocks Minnesota law that would ban most bets on prediction markets",
-      "summary": "A federal judge temporarily blocked Minnesota's law banning most prediction-market bets — an in-metro legal turn with wide reach.",
+      "summary": "A federal judge temporarily blocked Minnesota's law banning most bets on prediction markets — a squarely in-metro legal-and-political development.",
       "source": "CBS Minnesota",
       "topic": "elections-politics",
       "url": "https://www.cbsnews.com/minnesota/news/prediction-markets-ban-law-block-judge/",
