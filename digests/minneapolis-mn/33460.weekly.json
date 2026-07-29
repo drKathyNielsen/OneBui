@@ -4,79 +4,114 @@
   "metroCode": "33460",
   "metro": "Minneapolis-St. Paul-Bloomington, MN-WI",
   "range": {
-    "start": "2026-07-22",
-    "end": "2026-07-28"
+    "start": "2026-07-23",
+    "end": "2026-07-29"
   },
   "are_you_ok": [
     {
-      "title": "Cyberattack briefly shuts down Braham water plant, targets at least 4 other Minnesota communities",
-      "summary": "A coordinated cyberattack briefly shut down Braham's water plant and targeted at least four other Minnesota communities' water systems — an infrastructure hit close enough to prompt a genuine check-in on anyone relying on those systems.",
+      "title": "Upgrades underway after 30 Minnesota cities' water supplies targeted in cyberattack",
+      "summary": "A cyberattack targeted the water supplies of 30 Minnesota cities; upgrades are now underway. A genuine, broad check-in — municipal water hits everyone in the metro directly.",
       "source": "CBS Minnesota",
       "topic": "other",
-      "url": "https://www.cbsnews.com/minnesota/news/cyberattack-malware-braham-water-plant-outage/",
-      "published_at": "2026-07-28T13:25:17+00:00",
+      "url": "https://www.cbsnews.com/minnesota/video/upgrades-underway-after-30-minnesota-cities-water-supplies-targeted-in-cyberattack/",
+      "published_at": "2026-07-29T03:04:00+00:00",
       "image": {
-        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2022/11/29/b9cb814f-9cc7-4fda-998e-ba0c94c31574/thumbnail/1024x576/7ccf0ca45f0cdc5335924bff70ac86f3/snapshot-1.jpg",
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/29/cd9fc78d-70d8-4206-b127-b2c1c1f601e7/thumbnail/1024x576/5702355399b8e29db0ade6168074dcff/87b907c927b8f479c23d640af46f6390.png",
         "alt": ""
       },
-      "description": "An investigation is underway to determine who is behind a cyberattack that briefly shut down a water plant in Braham, Minnesota, on Monday morning and hit at least four other communities across the state, officials in the east-central city said."
+      "description": "Right now, more than 30 Minnesota cities are dealing with the aftermath of a cyberattack targeting their water supplies. One of those cities, Braham, temporarily lost control of its water plant, and had to rely on what was stored in its water tower. Ubah Ali got an up-close look",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
     },
     {
-      "title": "NEXT Weather Alert for Sunday due to extreme heat; severe storms possible later in day",
-      "summary": "A stretch of extreme heat gripped the metro late in the week, with weather alerts and severe-storm risk; the closest, broadest threat to the reader's contacts among the check-in items.",
-      "source": "CBS Minnesota",
+      "title": "Extreme heat: How to stay safe, where to cool off in the Twin Cities",
+      "summary": "An extended late-July heat wave gripped the Twin Cities, with a safety/cooling-center push July 24 and continued heat and humidity through Wednesday the 29th — worth checking how someone weathered the stretch.",
+      "source": "FOX 9",
       "topic": "heat",
-      "url": "https://www.cbsnews.com/minnesota/news/extreme-heat-and-severe-weather-chances-in-minnesota-on-sunday/",
-      "published_at": "2026-07-26T16:46:38+00:00",
+      "url": "https://www.fox9.com/news/extreme-heat-how-stay-safe-where-cool-off-twin-cities-june-29-2026",
+      "published_at": "2026-07-24T22:58:45+00:00",
       "image": {
-        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/07/26/bafb0d6c-fe6d-47cc-a93a-685dc6907bc8/thumbnail/1024x576/42d0f1ae313d70306e67f3ed259016cd/gettyimages-824584008.jpg",
+        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/06/vlcsnap-2026-06-29-15h54m16s413.jpg",
         "alt": ""
       },
-      "description": "WCCO has issued a NEXT Weather Alert for Sunday for temperatures in the mid-90s and peak heat indices around 105 degrees."
+      "description": "A stretch of extremely high temperatures will work its way across Minnesota again in the week ahead. Here's a compilation of useful information to stay safe, conserve energy and beat the heat.",
+      "thread": [
+        {
+          "title": "Extreme heat: How to stay safe, where to cool off in the Twin Cities",
+          "summary": "Extreme heat event coming to Twin Cities; broad population safety concern, genuine check-in.",
+          "source": "FOX 9",
+          "topic": "heat",
+          "url": "https://www.fox9.com/news/extreme-heat-how-stay-safe-where-cool-off-twin-cities-june-29-2026",
+          "published_at": "2026-07-24T22:58:45+00:00",
+          "image": {
+            "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/06/vlcsnap-2026-06-29-15h54m16s413.jpg",
+            "alt": ""
+          },
+          "description": "A stretch of extremely high temperatures will work its way across Minnesota again in the week ahead. Here's a compilation of useful information to stay safe, conserve energy and beat the heat."
+        },
+        {
+          "title": "More heat and humidity Wednesday in Twin Cities",
+          "summary": "Continued heat and humidity in the Twin Cities — diffuse effect reaching the metro population. Keep as are-you-ok; call is defensible either way given routine framing.",
+          "source": "CBS Minnesota",
+          "topic": "heat",
+          "url": "https://www.cbsnews.com/minnesota/news/minnesota-weather-heat-humidity-july-29-2026/",
+          "published_at": "2026-07-29T10:28:16+00:00",
+          "image": {
+            "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/07/29/fb93b5a4-f901-410f-b9ab-cbee295a1f69/thumbnail/1024x576/c763b5ea4b1d0fc269b483ec5be6bf75/gettyimages-2224941931.jpg",
+            "alt": ""
+          },
+          "description": "Wednesday will be another hot, humid day in the Twin Cities.",
+          "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+        }
+      ]
     }
   ],
   "conversation_starters": [
     {
-      "title": "Fire officials open nearly 40% of the Boundary Waters Canoe Wilderness",
-      "summary": "After weeks of wildfire closure, fire officials began reopening the Boundary Waters — select entry points on Monday (7/24) growing to nearly 40% of the wilderness by the weekend — a hopeful, summer-recreation turn that gets people talking.",
-      "source": "KARE 11",
-      "topic": "wildfire",
-      "url": "https://www.kare11.com/article/news/local/fire-officials-open-nearly-40-of-the-boundary-waters-canoe-wilderness/89-ca8d3fdd-2957-4d9b-b1be-ed31666a750e",
-      "published_at": "2026-07-28T03:27:57+00:00",
+      "title": "EF-3 tornado tears through Wisconsin, leaving 12-mile path of destruction",
+      "summary": "An EF-3 tornado carved a 12-mile path through Wisconsin's Fox River Valley, downing power and damaging homes — dramatic and easy to raise with anyone with regional ties.",
+      "source": "CBS Minnesota",
+      "topic": "severe-weather",
+      "url": "https://www.cbsnews.com/minnesota/video/ef-3-tornado-tears-through-wisconsin-leaving-12-mile-path-of-destruction/",
+      "published_at": "2026-07-29T03:13:00+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/KARE/images/c987b650-1049-4aa8-a603-cec289c04ee4/20260728T021010/c987b650-1049-4aa8-a603-cec289c04ee4_750x422.jpg",
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/07/29/b9487f37-a7e5-4160-93e4-6b59817bc1a4/thumbnail/1024x576/7be5e7494e6b0941e10fa8f54063e470/4b241bd8453cd82bc366c7f2781c10e9.png",
         "alt": ""
       },
-      "description": "Governor Walz also visited the area on Monday and mobilized the National Guard.",
+      "description": "We're getting a new aerial view of the damage left behind by that EF-3 tornado that hit northeastern Wisconsin. The tornado tore through Menasha on Monday, jumped over a channel, and continued the destruction. CBS News reporter Jason Allen brings us a story of survival through",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg",
       "thread": [
         {
-          "title": "Some Boundary Waters entry points to reopen on Monday",
-          "summary": "Boundary Waters partial reopening after wildfire closure — notable local-condition update. Reopening is a mitigation/benefit, not a check-in; distant point-hazard aftermath. Keep as conversation starter. You could open with: 'Did you see the Boundary Waters is reopening for day trips Monday after the fires?'",
-          "source": "CBS Minnesota",
-          "topic": "wildfire",
-          "url": "https://www.cbsnews.com/minnesota/news/boundary-waters-entry-points-reopen/",
-          "published_at": "2026-07-24T03:42:34+00:00",
-          "image": null,
-          "description": "Portions of the Boundary Waters Canoe Area Wilderness will reopen for day use starting Monday, after wildfires prompted a rare closure​ of the forest last week."
-        },
-        {
-          "title": "Fire officials open nearly 40% of the Boundary Waters Canoe Wilderness",
-          "summary": "BWCA partially reopens after wildfires; Walz visit, Guard mobilized — distant up-north condition, positive/reopening framing. Conversation starter. You could open with: 'Did you hear the Boundary Waters is reopening after the fires?'",
+          "title": "Tornado downs power, damages homes in Wisconsin's Fox River Valley",
+          "summary": "EF2 tornado in WI Fox Valley — distant point hazard, not this metro. Conversation starter. You could open with: 'Did you see that EF2 tornado tore through the Fox Valley?'",
           "source": "KARE 11",
-          "topic": "wildfire",
-          "url": "https://www.kare11.com/article/news/local/fire-officials-open-nearly-40-of-the-boundary-waters-canoe-wilderness/89-ca8d3fdd-2957-4d9b-b1be-ed31666a750e",
-          "published_at": "2026-07-28T03:27:57+00:00",
+          "topic": "severe-weather",
+          "url": "https://www.kare11.com/article/news/local/tornado-downs-power-damages-homes-in-wisconsins-fox-river-valley/89-71f12212-c703-4e50-b333-4545caef9ea2",
+          "published_at": "2026-07-28T11:06:20+00:00",
           "image": {
-            "url": "https://media.tegna-media.com/assets/KARE/images/c987b650-1049-4aa8-a603-cec289c04ee4/20260728T021010/c987b650-1049-4aa8-a603-cec289c04ee4_750x422.jpg",
+            "url": "https://media.tegna-media.com/assets/KARE/images/b24340a0-7fe2-4f8f-ba5e-32e4735ca166/20260728T103242/b24340a0-7fe2-4f8f-ba5e-32e4735ca166_750x422.jpg",
             "alt": ""
           },
-          "description": "Governor Walz also visited the area on Monday and mobilized the National Guard."
+          "description": "An EF2 tornado ripped through the area in northeastern Wisconsin on Monday afternoon."
+        },
+        {
+          "title": "EF-3 tornado tears through Wisconsin, leaving 12-mile path of destruction",
+          "summary": "Dramatic tornado damage footage/story in Wisconsin, good local conversation opener given regional proximity. You could open with: Did you see that EF-3 tornado footage from Wisconsin?",
+          "source": "CBS Minnesota",
+          "topic": "severe-weather",
+          "url": "https://www.cbsnews.com/minnesota/video/ef-3-tornado-tears-through-wisconsin-leaving-12-mile-path-of-destruction/",
+          "published_at": "2026-07-29T03:13:00+00:00",
+          "image": {
+            "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/07/29/b9487f37-a7e5-4160-93e4-6b59817bc1a4/thumbnail/1024x576/7be5e7494e6b0941e10fa8f54063e470/4b241bd8453cd82bc366c7f2781c10e9.png",
+            "alt": ""
+          },
+          "description": "We're getting a new aerial view of the damage left behind by that EF-3 tornado that hit northeastern Wisconsin. The tornado tore through Menasha on Monday, jumped over a channel, and continued the destruction. CBS News reporter Jason Allen brings us a story of survival through",
+          "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
         }
       ]
     },
     {
       "title": "Saint Paul's Rondo Block Party celebrates community with family fun and cultural events on Aug. 1",
-      "summary": "Saint Paul's Rondo Block Party lands Aug. 1 with family activities and cultural events — a warm, easy community opener.",
+      "summary": "Saint Paul's Rondo Block Party returns Aug. 1 with family fun and cultural events — a warm, community-rooted opener.",
       "source": "KARE 11",
       "topic": "civic-events",
       "url": "https://www.kare11.com/article/news/local/saint-pauls-rondo-block-party-celebrates-community-with-family-fun-and-cultural-events-on-aug-1/89-1a355937-b5da-4a6a-bd71-895641d4d791",
@@ -88,18 +123,21 @@
       "description": "The Rondo Block Party returns on August 1, celebrating St. Paul's historic Rondo community with family fun, culture, wellness, engagement, and entrepreneurship."
     },
     {
-      "title": "St. Paul's Dragon Divas: How dragon boat racing became medicine for breast cancer survivors",
-      "summary": "St. Paul's Dragon Divas turn dragon boat racing into medicine and camaraderie for breast cancer survivors — a moving human-interest story that invites a real exchange.",
+      "title": "Jimothy the raccoon shines new spotlight on Minnesota's short-spined dogs Quasi, Cooper",
+      "summary": "Jimothy the raccoon put a new spotlight on Minnesota's short-spined dogs Quasi and Cooper — a delightful, low-stakes crowd-pleaser.",
       "source": "FOX 9",
       "topic": "human-interest",
-      "url": "https://www.fox9.com/news/st-pauls-dragon-divas-racing-became-medicine-breast-cancer-survivors-july-2026",
-      "published_at": "2026-07-22T21:38:05+00:00",
-      "image": null,
-      "description": "A local dragon boat racing team is making waves as they get ready to compete on the international stage."
+      "url": "https://www.fox9.com/news/jimothy-raccoon-spotlights-minnesotas-short-spined-dogs-quasi-cooper-july-2026",
+      "published_at": "2026-07-28T22:10:48+00:00",
+      "image": {
+        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/07/vlcsnap-2026-07-28-17h04m21s426.jpg",
+        "alt": ""
+      },
+      "description": "A raccoon named Jimothy is turning heads online for his unusual look, and his story is shining a light on two Minnesota dogs with the same rare condition."
     },
     {
       "title": "New sustainable aviation fuel facility in Minnesota will start producing 30 million gallons per year for MSP flights",
-      "summary": "A new Minnesota sustainable aviation fuel facility will produce 30 million gallons a year for MSP flights — a concrete, forward-looking local business story.",
+      "summary": "A new Minnesota sustainable-aviation-fuel facility will produce 30 million gallons a year for MSP flights — a concrete local business/jobs story that invites discussion.",
       "source": "KARE 11",
       "topic": "business-jobs",
       "url": "https://www.kare11.com/article/news/local/new-sustainable-aviation-fuel-facility-minnesota-will-start-producing-30-million-gallons-per-year-for-msp-flights/89-e61c73c0-e0de-4352-be8f-39fd66cdfa02",
@@ -111,33 +149,45 @@
       "description": "The Flint Hills Pine Bend Refinery in Rosemount will soon produce sustainable aviation fuel for the airline industry."
     },
     {
-      "title": "People named Ryan attempt to break record involving a roller coaster at MOA",
-      "summary": "People named Ryan gathered at Mall of America to break a roller-coaster record — a light, quirky opener that lands well at the mall.",
+      "title": "Loring Park Art Festival brings 165 artists, live music, and fashion shows to Minneapolis this weeke",
+      "summary": "The Loring Park Art Festival brought 165 artists, live music and fashion shows to Minneapolis — a distinct weekend-culture opener alongside the Rondo party.",
       "source": "CBS Minnesota",
-      "topic": "human-interest",
-      "url": "https://www.cbsnews.com/minnesota/video/people-named-ryan-attempt-to-break-record-involving-a-roller-coaster-at-moa/",
-      "published_at": "2026-07-25T03:46:00+00:00",
-      "image": {
-        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/07/25/47261e44-91c5-4fd8-aa1d-e02cd226fe08/thumbnail/1024x576/61adfb548c6887187aad4efa5c969aed/70dc7597618fd0eb2faeeb1b123f5b9b.png",
-        "alt": ""
-      },
-      "description": "On Friday, the Mall of America invited anyone in the world named Ryan to show up for a same-name celebration. They attempted to break the World Record for \"most Ryans on a rollercoaster\" at Nickelodeon Universe."
+      "topic": "civic-events",
+      "url": "https://www.cbsnews.com/minnesota/video/loring-park-art-festival-brings-165-artists-live-music-and-fashion-shows-to-minneapolis-this-weeke/",
+      "published_at": "2026-07-23T15:24:00+00:00",
+      "image": null,
+      "description": "The two-day outdoor festival features visual artists, live music, a culinary market, and a fashion show both days at 1:30 p.m.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
     }
   ],
   "you_should_know": [
     {
       "title": "Boelter sentenced to 2 life sentences plus 40 years for killing Hortmans, shooting Hoffmans",
-      "summary": "Vance Boelter was sentenced to two life terms plus 40 years for killing the Hortmans and shooting the Hoffmans — the week's defining metro news, arriving after the anticipated Thursday sentencing and leaving the open question of his pending state case.",
+      "summary": "Vance Boelter was sentenced to two life terms plus 40 years for killing the Hortmans and shooting the Hoffmans; follow-up coverage weighed where his remaining state case stands. The week's defining criminal-justice story.",
       "source": "CBS Minnesota",
       "topic": "violent-crime",
       "url": "https://www.cbsnews.com/minnesota/video/boelter-sentenced-to-2-life-sentences-plus-40-years-for-killing-hortmans-shooting-hoffmans/",
       "published_at": "2026-07-23T23:29:00+00:00",
       "image": null,
-      "description": "Vance Boelter was sentenced to 2 life sentences plus 40 years for killing Hortmans, shooting Hoffmans."
+      "description": "Vance Boelter was sentenced to 2 life sentences plus 40 years for killing Hortmans, shooting Hoffmans.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    },
+    {
+      "title": "Reports: St. Paul police chief files sexual harassment complaint against Mayor Kaohly Her",
+      "summary": "St. Paul's police chief filed a sexual harassment complaint against Mayor Kaohly Her — a top-of-city-hall political rupture worth walking in aware of.",
+      "source": "FOX 9",
+      "topic": "elections-politics",
+      "url": "https://www.fox9.com/news/st-paul-police-chief-files-sexual-harassment-complaint-against-mayor-kaohly-her",
+      "published_at": "2026-07-29T13:24:41+00:00",
+      "image": {
+        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/04/45392520497.jpg",
+        "alt": ""
+      },
+      "description": "St. Paul’s mayor faces a sexual harassment complaint from the city’s police chief, raising questions about conduct at the highest levels of city government."
     },
     {
       "title": "People gather to remember Alex Pretti 6 months after his death by federal agents",
-      "summary": "The week saw sustained immigration-enforcement pressure across the metro — a six-month memorial for Alex Pretti, killed by federal agents, capping stories of oversight visits, dismissed cases, and questions about ICE accountability.",
+      "summary": "Mourners gathered to remember Alex Pretti six months after his death by federal agents, amid a week thick with immigration-enforcement scrutiny across the metro.",
       "source": "KARE 11",
       "topic": "immigration-enforcement",
       "url": "https://www.kare11.com/article/news/local/ice-in-minnesota/alex-pretti-6-months-vigil-ice/89-373055c1-dba0-47d5-a6d3-64f80ab952d9",
@@ -149,8 +199,51 @@
       "description": "People are gathering Saturday to remember not just Alex Pretti and Renee Good, but others who have been killed by federal agents."
     },
     {
+      "title": "Tensions rise as date to clear St. Paul encampments approaches, and more headlines",
+      "summary": "As the August date to clear St. Paul encampments approached, tensions rose while social services and a new $1M shelter fund prepared for the adjustment.",
+      "source": "CBS Minnesota",
+      "topic": "housing",
+      "url": "https://www.cbsnews.com/minnesota/video/tensions-rise-as-date-to-clear-st-paul-encampments-approaches-and-more-headlines/",
+      "published_at": "2026-07-29T11:15:00+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/29/b56c3302-0d7f-42ec-ab89-5ae933673fa9/thumbnail/1024x576/4501f44961e6f8283d5f40529bee5a19/e00572f9ed4fc71c04239cf1e1c03f6d.png",
+        "alt": ""
+      },
+      "description": "Concerned residents, elected officials and people living in those camps met for a forum over the closures, plus more of the day’s top stories.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg",
+      "thread": [
+        {
+          "title": "St. Paul encampment clearings begin in August, social services prepare for adjustments",
+          "summary": "Planned encampment clearings — structural housing/homelessness condition landing on the metro; awareness context. Keep-when-unsure on the you-should-know boundary.",
+          "source": "FOX 9",
+          "topic": "housing",
+          "url": "https://www.fox9.com/news/st-paul-encampment-clearings-begin-august-social-services-prepare-adjustments",
+          "published_at": "2026-07-24T23:53:37+00:00",
+          "image": {
+            "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/07/vlcsnap-2026-07-24-18h49m33s995.jpg",
+            "alt": ""
+          },
+          "description": "A new push to clear St. Paul’s homeless encampments next month has some social service organizations scrambling to adjust."
+        },
+        {
+          "title": "Tensions rise as date to clear St. Paul encampments approaches, and more headlines",
+          "summary": "Ongoing St. Paul encampment-clearing dispute involving officials and residents; local-institutional context worth walking in aware of. Keep as you-should-know.",
+          "source": "CBS Minnesota",
+          "topic": "housing",
+          "url": "https://www.cbsnews.com/minnesota/video/tensions-rise-as-date-to-clear-st-paul-encampments-approaches-and-more-headlines/",
+          "published_at": "2026-07-29T11:15:00+00:00",
+          "image": {
+            "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/29/b56c3302-0d7f-42ec-ab89-5ae933673fa9/thumbnail/1024x576/4501f44961e6f8283d5f40529bee5a19/e00572f9ed4fc71c04239cf1e1c03f6d.png",
+            "alt": ""
+          },
+          "description": "Concerned residents, elected officials and people living in those camps met for a forum over the closures, plus more of the day’s top stories.",
+          "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+        }
+      ]
+    },
+    {
       "title": "Federal judge temporarily blocks Minnesota law that would ban most bets on prediction markets",
-      "summary": "A federal judge temporarily blocked Minnesota's law banning most prediction-market bets — a live legal fight with statewide reach that a professional would want to walk in aware of.",
+      "summary": "A federal judge temporarily blocked Minnesota's law banning most prediction-market bets — an in-metro legal turn with wide reach.",
       "source": "CBS Minnesota",
       "topic": "elections-politics",
       "url": "https://www.cbsnews.com/minnesota/news/prediction-markets-ban-law-block-judge/",
@@ -159,39 +252,21 @@
         "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/04/24/e8e64565-5e6b-4cbe-af29-5cd5860e966c/thumbnail/1024x576/2df242175b60f127c25d1afd37846fe4/yt-thumbnail.jpg",
         "alt": ""
       },
-      "description": "A federal judge has temporarily blocked Minnesota from enforcing its law​ banning most bets on prediction markets, according to court documents filed on Monday."
-    },
-    {
-      "title": "Helix Apartments fire: St. Louis Park residents still locked out",
-      "summary": "St. Louis Park's Helix Apartments residents remained locked out after a fire, an unresolved displacement story hitting close to the metro.",
-      "source": "FOX 9",
-      "topic": "other",
-      "url": "https://www.fox9.com/news/helix-apartments-fire-st-louis-park-residents-still-locked-out",
-      "published_at": "2026-07-25T01:43:03+00:00",
-      "image": {
-        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/07/vlcsnap-2026-07-24-20h31m11s770.jpg",
-        "alt": ""
-      },
-      "description": "One week after a fire tore through the Helix Apartments, some residents are still waiting to find out what they can salvage from their homes."
-    },
-    {
-      "title": "Evacuation orders lifted for parts of northern Minnesota as crews continue battling wildfires",
-      "summary": "Evacuation orders were lifted in parts of northern Minnesota as crews kept battling wildfires — a de-escalating but still-active situation with resort and closure ripple effects.",
-      "source": "CBS Minnesota",
-      "topic": "wildfire",
-      "url": "https://www.cbsnews.com/minnesota/news/st-louis-county-wildfires-evacuation-order-update/",
-      "published_at": "2026-07-26T22:27:59+00:00",
-      "image": {
-        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/26/10aaf211-32e6-4b84-8384-39e9426fd120/thumbnail/1024x576/12b973b0116b0662aec103535c2b1f4a/tease-1-b-vo-wildfires-wccoaxz6.jpg",
-        "alt": ""
-      },
-      "description": "Officials in northern Minnesota say some residents will be allowed to return to their homes as wildfire conditions improve."
+      "description": "A federal judge has temporarily blocked Minnesota from enforcing its law​ banning most bets on prediction markets, according to court documents filed on Monday.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
     }
   ],
   "sports": [
     {
+      "team": "Lynx",
+      "scores": [
+        "Lynx 100, Tempo 93"
+      ]
+    },
+    {
       "team": "Twins",
       "scores": [
+        "Twins 3, Royals 2 (walk-off)",
         "Twins 11, Athletics 8",
         "Twins 2, Athletics 0",
         "Twins 0, Athletics 2",
@@ -209,12 +284,6 @@
       "team": "Other",
       "scores": [
         "Kohles leads 3M Open at 62, Scheffler 3 back"
-      ]
-    },
-    {
-      "team": "Lynx",
-      "scores": [
-        "Lynx 86, Storm 76"
       ]
     }
   ]

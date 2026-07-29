@@ -5,17 +5,17 @@
   "date": "2026-07-28",
   "are_you_ok": [
     {
-      "title": "Severe storms possible Tuesday in the Charlotte area",
-      "summary": "Incoming severe weather threat for the Charlotte metro — a just-ahead event the broad local population is affected by. Continuation of the Tuesday-storms tracking.",
-      "source": "Queen City News",
-      "topic": "severe-weather",
-      "url": "https://www.qcnews.com/weather/weather-forecast/severe-storms-possible-tuesday-in-the-charlotte-area/",
-      "published_at": "2026-07-28T10:43:24+00:00",
+      "title": "Caldwell County sheriff confirms deputies assisted in ICE operation in Wilson Creek; 13 arrests made",
+      "summary": "Active ICE enforcement operation with arrests, affects broad local population's daily life/safety.",
+      "source": "NBC Charlotte",
+      "topic": "immigration-enforcement",
+      "url": "https://www.wcnc.com/article/news/politics/immigration-news/dhs-ice-operation-caldwell-county-nc/275-57441f1e-eab7-4812-827c-e6d96421b6eb",
+      "published_at": "2026-07-28T16:27:09+00:00",
       "image": {
-        "url": "https://www.qcnews.com/wp-content/uploads/sites/109/2026/07/NOON-FUTURECAST.png?w=900",
+        "url": "https://media.tegna-media.com/assets/WCNC/images/dec982ab-8b98-4707-8869-572eee8dcb7e/20260318T204938/dec982ab-8b98-4707-8869-572eee8dcb7e_750x422.jpg",
         "alt": ""
       },
-      "description": "We are tracking the threat for severe weather Tuesday, but there is a good amount of uncertainty about how significant the threat will be."
+      "description": "Caldwell County deputies assisted federal agents in an ICE operation on Sunday at Wilson Creek, resulting in 13 arrests, Sheriff Kevin Bean confirmed."
     }
   ],
   "conversation_starters": [
@@ -36,6 +36,32 @@
   "sports": [],
   "weather_alert": [],
   "you_should_know": [
+    {
+      "title": "NC Senate moves pair of elections bills forward, would cut early voting days in primary elections",
+      "summary": "NC Senate advancing bills cutting early-voting days — state-level political-institutional action landing on this state. Unsafe opener and not a check-in, but context worth walking in aware of; keep-when-unsure on the you-should-know boundary.",
+      "source": "Charlotte Public Radio",
+      "topic": "elections-politics",
+      "url": "https://www.wfae.org/2026-07-28/nc-senate-moves-pair-of-elections-bill-forward-would-cut-early-voting-days-in-primary-elections",
+      "published_at": "2026-07-28T22:18:53+00:00",
+      "image": {
+        "url": "https://npr.brightspotcdn.com/dims4/default/3f5eeb8/2147483647/strip/false/crop/3600x2402+0+0/resize/791x528!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F55%2F89%2F92670ea6439b8436bbf9fab4bd9a%2F20220915-jg-wunc-electionrequests07.jpg",
+        "alt": ""
+      },
+      "description": "NC Senate advances a pair of elections bills, shortening early voting period in primaries and special elections among a slew of other changes."
+    },
+    {
+      "title": "NC legislature changing budget provisions, restoring some cuts",
+      "summary": "Continuation of the NC budget-provisions incident; state legislature revising the spending plan. State-level institutional context landing here; unsafe opener, keep as you-should-know.",
+      "source": "Charlotte Public Radio",
+      "topic": "elections-politics",
+      "url": "https://www.wfae.org/2026-07-28/nc-legislature-budget-provisions-restoring-some-cuts",
+      "published_at": "2026-07-28T21:18:49+00:00",
+      "image": {
+        "url": "https://npr.brightspotcdn.com/dims4/default/5120226/2147483647/strip/false/crop/3661x2441+0+0/resize/792x528!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F65%2F7e%2F4a2cc3be4eb48ee81aec9a87a086%2Fnc-legislature.JPG",
+        "alt": ""
+      },
+      "description": "Less than a month after state lawmakers passed a long-overdue budget, they're making changes to the spending plan."
+    },
     {
       "title": "NC attorney general joins lawsuit over FEMA grant funding conditions",
       "summary": "NC AG joining a multistate suit over FEMA funding conditions — political-institutional story landing on the state; walk in aware, don't open with it. Continuation of the existing incident.",

@@ -1,0 +1,117 @@
+{
+  "shortName": "Boulder, CO",
+  "metroCode": "14500",
+  "metro": "Boulder, CO",
+  "date": "2026-07-29",
+  "are_you_ok": [
+    {
+      "title": "American Airlines nationwide ground stop lifted after IT outage disrupts flights",
+      "summary": "American Airlines nationwide ground stop from IT outage — systemic travel disruption reaching anyone flying AA, including this metro/DIA. Keep as are-you-ok (travel disruption). Lifted, so borderline; reasonable editor could skip.",
+      "source": "CBS Colorado",
+      "topic": "transportation",
+      "url": "https://www.cbsnews.com/colorado/news/american-airlines-ground-stop-nationwide-it-outage-faa/",
+      "published_at": "2026-07-29T12:18:42+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/06/22/2c0a8bfd-80d6-4d3a-bcb3-b8968f0c847c/thumbnail/1024x576/403c9105c94242d8c2ecf0f190d0a402/cbsn-fusion-pilot-reports-biting-passenger-on-american-airlines-flight-thumbnail.jpg",
+        "alt": ""
+      },
+      "description": "According to the Air Traffic Control System Command Center, all airports and facilities were being impacted by the IT outage.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    }
+  ],
+  "conversation_starters": [
+    {
+      "title": "Union Pacific's \"Big Boy\" No. 4014 stops in Greeley as part of coast-to-coast tour",
+      "summary": "Fun novelty local event continuation. You could open with: Did you hear the Big Boy steam locomotive is stopping in Greeley this week?",
+      "source": "CBS Colorado",
+      "topic": "human-interest",
+      "url": "https://www.cbsnews.com/colorado/video/union-pacifics-big-boy-no-4014-stops-in-greeley-as-part-of-coast-to-coast-tour/",
+      "published_at": "2026-07-29T13:00:00+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/29/446ecd85-9ed0-4184-a79f-0b20dedb77ae/thumbnail/1024x576/2c7f37b4c40cfe81fedc0684f2fd05f8/3405c29d2f4d96a4733c4536e974ace8.jpg",
+        "alt": ""
+      },
+      "description": "Union Pacific's \"Big Boy\" No. 4014, the largest working steam locomotive, stops in Greeley as part of a coast-to-coast tour to celebrate America's 250th.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    },
+    {
+      "title": "Aurora police chief shares new data that shows crime down 25% over past 2 years",
+      "summary": "Aurora crime down 25% over 2 years per chief — positive metro-safety data, work-safe. You could open with: 'Did you catch that Aurora's crime is down 25% over the last couple years?' Continues open incident.",
+      "source": "CBS Colorado",
+      "topic": "policing",
+      "url": "https://www.cbsnews.com/colorado/video/aurora-police-chief-shares-new-data-that-shows-crime-down-25-over-past-2-years/",
+      "published_at": "2026-07-29T12:47:00+00:00",
+      "image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/07/29/064b4bff-33bb-49b3-b07a-802c4063634f/thumbnail/1024x576/a3c66b75b092fcb44945c2e809e8fb5a/65028ecf84c278e30ca1bd6fc4f023ab.jpg",
+        "alt": ""
+      },
+      "description": "Aurora Police Chief Todd Chamberlain shared new data that shows crime is down 25% in the city over the past two years.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    },
+    {
+      "title": "Historic Five Points church recognized on state, federal level",
+      "summary": "Historic Denver Five Points church gains state/federal historic recognition — pleasant, work-safe local landmark story with something to say about. You could open with: 'Did you see Shorter AME in Five Points just got on the national historic registry?'",
+      "source": "9NEWS",
+      "topic": "human-interest",
+      "url": "https://www.9news.com/article/news/local/historic-five-points-church-recognized-on-state-federal-level/73-d1f5e59a-227d-48b4-9b2c-4167e8ca08e3",
+      "published_at": "2026-07-29T05:16:10+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/95fb95a3-20fe-4bbc-a3de-2a5865a4a477/20260729T040709/95fb95a3-20fe-4bbc-a3de-2a5865a4a477_750x422.jpg",
+        "alt": ""
+      },
+      "description": "Shorter AME Church has been recognized as a historic place in Denver for years. Now, it's being recognized on the state and federal registry, too."
+    }
+  ],
+  "sports": [
+    {
+      "team": "Rockies",
+      "scores": [
+        "Padres 5, Rockies 4 (Tatis 5-for-5)"
+      ]
+    }
+  ],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "RTD plans to fill budget shortfall by cutting some routes to avoid raising fares",
+      "summary": "RTD to cut routes to close a $150M deficit — metro-wide transit service affecting riders. Continues open incident. A specific service change affecting the population; borderline are-you-ok, but it's a plan/deficit story — keep as you-should-know.",
+      "source": "CBS Colorado",
+      "topic": "transportation",
+      "url": "https://www.cbsnews.com/colorado/video/rtd-plans-to-fill-budget-shortfall-by-cutting-some-routes-to-avoid-raising-fares/",
+      "published_at": "2026-07-29T12:53:00+00:00",
+      "image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/07/29/44ed2dbb-5190-447f-a78e-85ea65d57c6f/thumbnail/1024x576/2871c547a114981456be5ccda9a110ba/0a0e1fd52791bcdc7fdeebeeb6d668be.jpg",
+        "alt": ""
+      },
+      "description": "RTD plans to fill a budget shortfall by cutting some routes to avoid raising fares as the agency faces a $150 million deficit.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    },
+    {
+      "title": "Jeffco Public Schools sues Trump administration, asks judge to decide which law it must break",
+      "summary": "Local Jeffco district sues Trump admin over transgender student policy conflict — political-institutional story landing on a local institution. Partisan, so not a conversation starter; keep as you-should-know context.",
+      "source": "9NEWS",
+      "topic": "education",
+      "url": "https://www.9news.com/article/news/education/jeffco-public-schools-sues-trump-administration/73-cac20b04-c5f6-4eb9-8ddd-53cd320e766d",
+      "published_at": "2026-07-29T04:50:21+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/919b63c8-7f2f-4b13-a73d-88ed2ceb55e9/20260729T042023/919b63c8-7f2f-4b13-a73d-88ed2ceb55e9_750x422.jpg",
+        "alt": ""
+      },
+      "description": "Jeffco Public Schools sued the Trump administration Tuesday, asking a judge to decide whether it must break federal or state law over transgender student policies."
+    },
+    {
+      "title": "Trump policy clears way for civil commitment of homeless in some states",
+      "summary": "Trump EO leading states to expand involuntary commitment of homeless — national policy but touches CO homelessness debate; partisan. Borderline national-vs-local. On the context-vs-noise boundary, keep as you-should-know.",
+      "source": "CBS Colorado",
+      "topic": "housing",
+      "url": "https://www.cbsnews.com/colorado/news/trumps-homelessness-policy-facilitates-court-ordered-treatment-overhauls-federal-funding/",
+      "published_at": "2026-07-29T02:26:00+00:00",
+      "image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2025/10/01/ec094d7e-439e-4081-ac01-84de22a95217/thumbnail/1024x576/d2adb254bbfa604230cb7f170e0a9083/gettyimages-2226263790.jpg",
+        "alt": ""
+      },
+      "description": "In the year since President Trump signed an executive order aimed at moving homeless people off the streets, states have expanded involuntary treatment for the homeless.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    }
+  ]
+}

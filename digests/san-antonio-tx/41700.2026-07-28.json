@@ -3,8 +3,35 @@
   "metroCode": "41700",
   "metro": "San Antonio-New Braunfels, TX",
   "date": "2026-07-28",
-  "are_you_ok": [],
+  "are_you_ok": [
+    {
+      "title": "Fort Worth-based American Airlines planes departing again after temporary global ground stop",
+      "summary": "American Airlines global ground stop from IT outage — systemic effect reaching anyone traveling/flying, including metro residents. Affects daily life/travel. Kept as are-you-ok for anyone who may be flying.",
+      "source": "KENS 5",
+      "topic": "transportation",
+      "url": "https://www.kens5.com/article/travel/american-airlines-global-ground-stop-it-issues/287-b87d888a-45bd-4094-8d17-ec396f6f66af",
+      "published_at": "2026-07-28T23:11:17+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/WFAA/images/cf069dfc-13e9-4432-9dda-8883885d8c37/20250723T180117/cf069dfc-13e9-4432-9dda-8883885d8c37_750x422.jpg",
+        "alt": ""
+      },
+      "description": "Officials said the ground stop was due to an ongoing IT outage."
+    }
+  ],
   "conversation_starters": [
+    {
+      "title": "Live Civil War-era ammunition found in Atascosa County safely disposed of by military officials",
+      "summary": "Civil War-era live round found and detonated — quirky, novel local oddity that sparks a natural exchange. You could open with: 'Did you see somebody had a live Civil War shell sitting in their office in Atascosa County?'",
+      "source": "KENS 5",
+      "topic": "human-interest",
+      "url": "https://www.kens5.com/article/news/local/live-civil-war-era-ammunition-found-in-atascosa-county-safely-disposed-of-by-military-officials/273-19349a7b-ad00-49d5-8d14-f0c1c857c460",
+      "published_at": "2026-07-28T20:16:02+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/fcb5409e-ac22-4933-b58f-2179b91c4732/20260728T201414/fcb5409e-ac22-4933-b58f-2179b91c4732_750x422.jpg",
+        "alt": ""
+      },
+      "description": "A Civil War-era live round was safely detonated by military officials in Atascosa County after a collector's friend suspected it was still active, authorities say."
+    },
     {
       "title": "Invasive bamboo gets a second life helping animals at San Antonio Zoo",
       "summary": "Light, novel local feel-good story — invasive bamboo repurposed as zoo animal food. Prime work-safe opener. You could open with: 'Did you hear the San Antonio Zoo is feeding its animals bamboo pulled from Brackenridge Park?'",
@@ -17,33 +44,24 @@
         "alt": ""
       },
       "description": "Brackenridge Park Conservancy is removing invasive bamboo and partnering with San Antonio Zoo to turn it into food and enrichment for animals."
+    },
+    {
+      "title": "Don't miss your shot to see Hamilton at the Majestic Theatre for two weeks",
+      "summary": "Marquee touring show (Hamilton) at the historic Majestic downtown — a notable metro cultural event people talk about. Work-safe light opener. You could open with: 'Hamilton's at the Majestic for the next couple weeks — are you planning to go?'",
+      "source": "KENS 5",
+      "topic": "civic-events",
+      "url": "https://www.kens5.com/article/news/local/hamilton-lin-manuel-miranda-broadway-majestic-san-antonio-theater-texas/273-8967c2d1-3182-4158-94db-3aed5eb7fa98",
+      "published_at": "2026-07-28T20:34:54+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/WHAS/images/c58406d6-fc24-4667-a978-5d0fabe9c95c/20260619T153811/c58406d6-fc24-4667-a978-5d0fabe9c95c_750x422.jpg",
+        "alt": ""
+      },
+      "description": "Experience the groundbreaking Broadway sensation \"Hamilton\" at the Majestic Theatre, blending hip-hop with history in a must-see spectacle from July 28 to August 9."
     }
   ],
   "sports": [],
-  "weather_alert": [
-    {
-      "event": "Heat Advisory",
-      "area": "Atascosa & Wilson",
-      "severity": "Moderate",
-      "summary": "Heat Advisory — Atascosa & Wilson, until 7:00pm",
-      "description": "Heat Advisory issued July 27 at 11:42PM CDT until July 28 at 7:00PM CDT by NWS Austin/San Antonio TX\n\n* WHAT...Heat index values from 108 to 111 expected.\n\n* WHERE...The Coastal Plains and portions of the Rio Grande Plains.\n\n* WHEN...From noon to 7 PM CDT Tuesday.\n\n* IMPACTS...Hot temperatures and high humidity may cause heat\nillnesses.",
-      "ends": "2026-07-28T19:00:00-05:00"
-    }
-  ],
+  "weather_alert": [],
   "you_should_know": [
-    {
-      "title": "Most San Antonio school districts head into a new school year with budget deficits",
-      "summary": "Metro-wide school-district financial condition — most SA districts entering the year with deficits. Not state-level but broad local institutional context worth walking in aware of; not a check-in event. Keep as you-should-know.",
-      "source": "San Antonio Report",
-      "topic": "education",
-      "url": "https://sanantonioreport.org/san-antonio-school-districts-enter-2026-2027-with-deficits/",
-      "published_at": "2026-07-28T10:00:00+00:00",
-      "image": {
-        "url": "https://i0.wp.com/sanantonioreport.org/wp-content/uploads/2026/07/SulRossMiddleSchool_NorthsideISD_NISD_StudentsClassroomHallway_iPadCellPhones_LockdownSafety_EmergencyPreparedness_11_03.19.2026_AmberEsparza-scaled-1.jpg?fit=1024%2C683&ssl=1",
-        "alt": ""
-      },
-      "description": "Out of a dozen school districts in San Antonio, only three are likely to balance their budget for the upcoming 2026-27 school year. Most San Antonio school districts head into a new school year with budget deficits was first posted on July 28, 2026 at 5:00 am.©2021 \"San Antonio"
-    },
     {
       "title": "Kerr County records seventh rabies case after skunk found in family's yard",
       "summary": "Public-health condition — seventh rabies case in Kerr County (in-region for SA metro). A standing local hazard worth walking in aware of; not a discrete exposure event that lands on the reader, so not are-you-ok. Keep as you-should-know.",
@@ -56,6 +74,34 @@
         "alt": ""
       },
       "description": "A skunk killed by family dogs has been classified as a positive rabies case under Texas law, bringing Kerr County's total to seven this year."
+    },
+    {
+      "title": "Most San Antonio school districts head into a new school year with budget deficits",
+      "summary": "Metro-wide school-district financial condition — most SA districts entering the year with deficits. Not state-level but broad local institutional context worth walking in aware of; not a check-in event. Keep as you-should-know.",
+      "source": "San Antonio Report",
+      "topic": "education",
+      "url": "https://sanantonioreport.org/san-antonio-school-districts-enter-2026-2027-with-deficits/",
+      "published_at": "2026-07-28T10:00:00+00:00",
+      "image": {
+        "url": "https://i0.wp.com/sanantonioreport.org/wp-content/uploads/2026/07/SulRossMiddleSchool_NorthsideISD_NISD_StudentsClassroomHallway_iPadCellPhones_LockdownSafety_EmergencyPreparedness_11_03.19.2026_AmberEsparza-scaled-1.jpg?fit=1024%2C683&ssl=1",
+        "alt": ""
+      },
+      "description": "Out of a dozen school districts in San Antonio, only three are likely to balance their budget for the upcoming 2026-27 school year. Most San Antonio school districts head into a new school year with budget deficits was first posted on July 28, 2026 at 5:00 am.©2021 \"San Antonio",
+      "logo": "https://sanantonioreport.org/wp-content/uploads/2020/09/cropped-SA_Report_Logo_512pxArtboard-1-32x32.jpg"
+    },
+    {
+      "title": "‘We owe it to our taxpayers’: Jones still sees path to redirect $100M from Ready to Work — but she’ll need to convince council",
+      "summary": "Mayor's push to redirect $100M from Ready to Work amid council opposition and budget gap — local government fight landing on the metro. Political-institutional context; unsafe opener, keep as you-should-know.",
+      "source": "San Antonio Report",
+      "topic": "elections-politics",
+      "url": "https://sanantonioreport.org/gina-ortiz-jones-ready-to-work-interview-memo/",
+      "published_at": "2026-07-28T23:18:26+00:00",
+      "image": {
+        "url": "https://i0.wp.com/sanantonioreport.org/wp-content/uploads/2026/07/SAISDFoundation_StateOfTheDistrict_StudentAdvisoryCommittee_05_02.10.2026_AmberEsparza-scaled-1.jpg?fit=1024%2C683&ssl=1",
+        "alt": ""
+      },
+      "description": "It’s unclear if San Antonio's mayor has enough City Council support to put the issue to voters this year — at least four are opposed.‘We owe it to our taxpayers’: Jones still sees path to redirect $100M from Ready to Work — but she’ll need to convince council was first posted on",
+      "logo": "https://sanantonioreport.org/wp-content/uploads/2020/09/cropped-SA_Report_Logo_512pxArtboard-1-32x32.jpg"
     }
   ]
 }

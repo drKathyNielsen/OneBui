@@ -1,0 +1,68 @@
+{
+  "shortName": "Charlotte, NC",
+  "metroCode": "16740",
+  "metro": "Charlotte-Concord-Gastonia, NC-SC",
+  "date": "2026-07-29",
+  "are_you_ok": [
+    {
+      "title": "North Carolina cyclosporiasis cases climb past 700; source yet to be identified",
+      "summary": "Statewide outbreak still unresolved, systemic effect reaching NC residents including this metro.",
+      "source": "NBC Charlotte",
+      "topic": "public-health",
+      "url": "https://www.wcnc.com/article/news/health/north-carolina-cyclosporiasis-cases-update-july-28-2026/275-5900adc2-c404-4894-ab3c-a9586d377acf",
+      "published_at": "2026-07-29T10:21:08+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/WCNC/images/c3af61db-a4f8-41e6-a48d-0c45a23d5a9b/20260729T100733/c3af61db-a4f8-41e6-a48d-0c45a23d5a9b_750x422.jpg",
+        "alt": ""
+      },
+      "description": "Cyclosporiasis cases in North Carolina have surged to 718, with no confirmed outbreak source."
+    }
+  ],
+  "conversation_starters": [
+    {
+      "title": "24 Hours of Booty raises over $1.6 Million during 25th anniversary event in Charlotte",
+      "summary": "Continuation of the 24 Hours of Booty incident; marquee Charlotte charity event raising $1.6M on its 25th anniversary. Widely known, feel-good work-safe opener. You could open with: 'Did you catch that 24 Hours of Booty raised over $1.6 million this year for its 25th anniversary?'",
+      "source": "Queen City News",
+      "topic": "civic-events",
+      "url": "https://www.qcnews.com/24-foundation/24-hours-of-booty-raises-over-1-6-million-during-25th-anniversary-event-in-charlotte/",
+      "published_at": "2026-07-29T13:26:12+00:00",
+      "image": {
+        "url": "https://www.qcnews.com/wp-content/uploads/sites/109/2026/07/F24467B032D8345EED6EC9954D9A000F_3.jpg?w=900",
+        "alt": ""
+      },
+      "description": "The 25th edition of Charlotte’s annual 24 Hours of Booty event raised more than $1.6 million to support cancer survivorship and patient navigation programs, organizers announced.",
+      "logo": "https://www.qcnews.com/wp-content/uploads/sites/109/2025/05/cropped-Site-Icon.png?w=32"
+    },
+    {
+      "title": "'Exceptional': Tega Cay brewing company dubbed SC's best brewery claims national record",
+      "summary": "Continuation of the Tega Cay brewery record incident; light, fun local win — a local brewery setting a national award record. Prime work-safe opener. You could open with: 'Did you see the Tega Cay brewery just set a national record at the U.S. Open Beer Championships?'",
+      "source": "Queen City News",
+      "topic": "human-interest",
+      "url": "https://www.qcnews.com/news/u-s/york-county/exceptional-tega-cay-brewing-company-dubbed-scs-best-brewery-claims-national-record/",
+      "published_at": "2026-07-29T02:01:27+00:00",
+      "image": {
+        "url": "https://www.qcnews.com/wp-content/uploads/sites/109/2026/07/model-a-awards-wall.png?w=900",
+        "alt": ""
+      },
+      "description": "TEGA CAY, S.C. (QUEEN CITY NEWS) -- Over 8,000 beers were submitted to the U.S. Open Beer Championships, a massive competition drawing brewers from across America and internationally. Of those 8,000, three were chosen from Model A Brewing Company in Tega Cay, bringing their",
+      "logo": "https://www.qcnews.com/wp-content/uploads/sites/109/2025/05/cropped-Site-Icon.png?w=32"
+    }
+  ],
+  "sports": [],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "NCDOT outlines $300M community investment tied to I-77 toll project",
+      "summary": "Continuation of the I-77 toll project incident; $300M community investment tied to a controversial expansion affecting the region. Institutional/infrastructure context worth walking in aware of, but a contentious project is not a safe opener. Keep as you-should-know.",
+      "source": "NBC Charlotte",
+      "topic": "transportation",
+      "url": "https://www.wcnc.com/article/news/politics/ncdot-letter-interstate-77-commitment-charlotte-affordable-housing-transportation-plan/275-e019cf57-d9c4-4563-a900-2695b560abb0",
+      "published_at": "2026-07-29T01:34:21+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/WCNC/images/87b41590-7d7d-4cad-b91f-47bb953a1438/20260702T213850/87b41590-7d7d-4cad-b91f-47bb953a1438_750x422.jpg",
+        "alt": ""
+      },
+      "description": "State officials say they heard a \"clear message\" about the controversial expansion, laying out a set of commitments they claim would improve the region."
+    }
+  ]
+}

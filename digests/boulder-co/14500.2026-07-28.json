@@ -5,17 +5,17 @@
   "date": "2026-07-28",
   "are_you_ok": [
     {
-      "title": "Greeley says its drinking water remains safe despite bad taste, smell",
-      "summary": "Bad-tasting tap water affects a broad local population's daily life; a check-in-style water-quality concern.",
+      "title": "Highway 36 reopens after mudslide near Lyons",
+      "summary": "Highway 36 near Lyons closed ~1hr by post-storm mudslide, now reopened — brief infrastructure hit in the metro's northern edge (Boulder County). Reopened and short; borderline. Keeping as are-you-ok for commute/safety in region.",
       "source": "9NEWS",
-      "topic": "drought-water",
-      "url": "https://www.9news.com/article/news/local/9news-mornings/greeley-drinking-water-bad-taste-smell/73-1015ca3a-02d8-4cf8-8147-c675ba9cfffb",
-      "published_at": "2026-07-28T12:46:27+00:00",
+      "topic": "transportation",
+      "url": "https://www.9news.com/article/traffic/highway-36-closed-mudslide/73-b5e444f4-26a4-4ac2-a779-0d43cf5de282",
+      "published_at": "2026-07-28T22:29:37+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/KUSA/images/265766f9-0692-44aa-a698-b7b7a8797637/20260728T120218/265766f9-0692-44aa-a698-b7b7a8797637_750x422.jpg",
+        "url": "https://media.tegna-media.com/assets/KUSA/images/e455ecdf-1151-49ec-8cef-ef99e55ac6c9/e455ecdf-1151-49ec-8cef-ef99e55ac6c9_750x422.jpg",
         "alt": ""
       },
-      "description": "Greeley faces unusual tap water odors and tastes due to algae compounds, but city officials assure residents it's safe, advising ways to improve its taste."
+      "description": "U.S. Highway 36 west of Lyons was closed in both directions for about an hour due to a mudslide following a storm."
     }
   ],
   "conversation_starters": [
@@ -33,35 +33,48 @@
       "description": "Arguably the world’s greatest rock and roll band, AC/DC is back in Colorado for the first time in 10 years, ready to rock Colorado's largest stadium on Tuesday."
     },
     {
-      "title": "Low water levels at Colorado reservoir reveal lost ATV missing for 5 years",
-      "summary": "Quirky local story, prime conversation starter. You could open with: 'Did you hear a 5-year-missing ATV turned up in a drying-out reservoir?'",
-      "source": "CBS Colorado",
-      "topic": "human-interest",
-      "url": "https://www.cbsnews.com/colorado/news/low-water-levels-colorado-green-mountain-reservoir-lost-atv-missing-5-years/",
-      "published_at": "2026-07-28T12:21:29+00:00",
+      "title": "A Colorado reservoir is so low it revealed a lost ATV",
+      "summary": "Continuation of drought/reservoir story, quirky find. You could open with: Did you hear that low water at Green Mountain Reservoir revealed an ATV that had been missing for 5 years?",
+      "source": "9NEWS",
+      "topic": "drought-water",
+      "url": "https://www.9news.com/article/life/style/colorado-guide/colorado-reservoir-lost-atv/73-26887875-ff03-48fe-83b2-5d407033dbe5",
+      "published_at": "2026-07-28T16:07:55+00:00",
       "image": {
-        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/07/27/93cb5636-f8c8-4a57-8799-77e673fa352a/thumbnail/1024x576/0f8fedb7b84d1454daa25d8c45a98aeb/atv-green-mountain-reservoir.jpg",
+        "url": "https://media.tegna-media.com/assets/KUSA/images/d8c1aeac-bfdd-497c-aba6-c1a58d017563/20260728T160709/d8c1aeac-bfdd-497c-aba6-c1a58d017563_750x422.jpg",
         "alt": ""
       },
-      "description": "Low water levels at Green Mountain Reservoir have revealed an ATV that had been missing for five years."
+      "description": "Low water levels at Colorado's Green Mountain Reservoir reveal a missing ATV after 5 years. The Summit County Sheriff's Office said drought exposes lost treasures."
     },
     {
-      "title": "Longmont tiny home village for veterans reaches full capacity after community steps in to close funding gap",
-      "summary": "Longmont veterans tiny-home village hits capacity after community closes funding gap; uplifting metro-area feel-good opener. You could open with: 'Did you see Longmont's veterans tiny-home village filled up after the community stepped in?'",
+      "title": "NASA-led mission based in Colorado will chase wildfire thunderstorms across the West",
+      "summary": "CO-based NASA mission chasing wildfire thunderstorms to improve forecasts — novel, science-y, work-safe local hook. You could open with: 'Did you see there's a NASA mission based here chasing wildfire thunderstorms?'",
       "source": "9NEWS",
-      "topic": "housing",
-      "url": "https://www.9news.com/article/news/community/longmont-veterans-tiny-home-village-reaches-capacity-community-closes-funding-gap/73-679c3e9b-483f-425e-beaf-fb04b3629f9c",
-      "published_at": "2026-07-28T00:48:26+00:00",
+      "topic": "wildfire",
+      "url": "https://www.9news.com/article/news/local/wildfire/nasa-inspyre-program-colorado-wildfires/73-48d0e4d6-9a01-4396-a64a-126987f8a444",
+      "published_at": "2026-07-28T22:33:56+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/KUSA/images/cfb49e9a-c84a-4a28-9705-4cd8cd1a7895/20260721T231803/cfb49e9a-c84a-4a28-9705-4cd8cd1a7895_750x422.jpg",
+        "url": "https://media.tegna-media.com/assets/KUSA/images/b6bfc9b4-1fde-4188-8a42-24474f3cd27b/20260728T201600/b6bfc9b4-1fde-4188-8a42-24474f3cd27b_750x422.jpg",
         "alt": ""
       },
-      "description": "Longmont's Veterans Community Project, a nonprofit providing transitional housing for veterans, reaches full capacity after community efforts close a funding gap."
+      "description": "A NASA-led mission in Colorado explores pyrocumulonimbus storms sparked by wildfires, aiming to improve forecasts and public safety."
     }
   ],
   "sports": [],
   "weather_alert": [],
   "you_should_know": [
+    {
+      "title": "Fired Denver Police recruit under investigation with Sheridan Police",
+      "summary": "Fired Denver PD recruits joked about shooting migrants; two now under investigation at Sheridan PD — policing accountability with immigration-charged racial dimension. Sensitive/partisan-adjacent, not a conversation starter; keep as you-should-know context. Continues open incident.",
+      "source": "9NEWS",
+      "topic": "policing",
+      "url": "https://www.9news.com/article/news/local/fired-denver-police-recruit-under-investigation-sheridan-police/73-dcf9245d-68ec-4d7c-aa33-6b58882090fc",
+      "published_at": "2026-07-28T22:46:58+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/eb0a5d99-bac7-4d21-9ff9-8755fbd735eb/20260728T203616/eb0a5d99-bac7-4d21-9ff9-8755fbd735eb_750x422.jpg",
+        "alt": ""
+      },
+      "description": "Denver fired three recruits who joked, in a text thread, about shooting migrants for target practice. Two of the three work for Sheridan Police."
+    },
     {
       "title": "Evacuations lifted for residents near Penley Fire in Colorado",
       "summary": "Wildfire evacuation lifted near Denver metro; context on local wildfire situation.",
@@ -73,7 +86,8 @@
         "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/07/28/8641a1cc-433f-4971-9a78-d4f78e7748b3/thumbnail/1024x576/235d36c7c4e73341ec5e8abbb8d44ed3/28cab4a103ec729a28888731ab2a3d64.jpg",
         "alt": ""
       },
-      "description": "A wildfire southwest of the Denver metro area on Sunday evening, prompting Douglas County officials to temporarily issue an evacuation order."
+      "description": "A wildfire southwest of the Denver metro area on Sunday evening, prompting Douglas County officials to temporarily issue an evacuation order.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
     }
   ]
 }

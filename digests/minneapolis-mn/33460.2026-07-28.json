@@ -5,20 +5,46 @@
   "date": "2026-07-28",
   "are_you_ok": [
     {
-      "title": "Cyberattack briefly shuts down Braham water plant, targets at least 4 other Minnesota communities",
-      "summary": "Cyberattack hit Braham water plant and 4+ MN communities — affects broad local population's water/infrastructure. Are-you-ok fits.",
-      "source": "CBS Minnesota",
-      "topic": "other",
-      "url": "https://www.cbsnews.com/minnesota/news/cyberattack-malware-braham-water-plant-outage/",
-      "published_at": "2026-07-28T13:25:17+00:00",
+      "title": "Separating fact from fiction: The Cyclospora outbreak and whether Minnesotans should be concerned",
+      "summary": "Parasite outbreak sickening thousands with Minnesotans potentially affected — systemic public-health effect reaching the reader's population. Keep as are-you-ok.",
+      "source": "KARE 11",
+      "topic": "public-health",
+      "url": "https://www.kare11.com/article/news/health/separating-fact-from-fiction-the-cyclospora-outbreak-and-whether-minnesotans-should-be-concerned/89-774249a5-e7d0-4ebd-b084-40fddd85c2a8",
+      "published_at": "2026-07-28T23:45:57+00:00",
       "image": {
-        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2022/11/29/b9cb814f-9cc7-4fda-998e-ba0c94c31574/thumbnail/1024x576/7ccf0ca45f0cdc5335924bff70ac86f3/snapshot-1.jpg",
+        "url": "https://media.tegna-media.com/assets/KARE/images/bc2aeca5-a170-47ed-b7ac-e4f0a65e3c4c/20260728T223941/bc2aeca5-a170-47ed-b7ac-e4f0a65e3c4c_750x422.jpg",
         "alt": ""
       },
-      "description": "An investigation is underway to determine who is behind a cyberattack that briefly shut down a water plant in Braham, Minnesota, on Monday morning and hit at least four other communities across the state, officials in the east-central city said."
+      "description": "It's a parasite many of us had probably never heard of until it started making thousands of people sick."
     }
   ],
   "conversation_starters": [
+    {
+      "title": "Jimothy the raccoon shines new spotlight on Minnesota's short-spined dogs Quasi, Cooper",
+      "summary": "Quirky viral-adjacent but charming local animal story, good light opener. You could open with: 'Have you seen the raccoon that looks just like those Minnesota dogs with the rare condition?'",
+      "source": "FOX 9",
+      "topic": "human-interest",
+      "url": "https://www.fox9.com/news/jimothy-raccoon-spotlights-minnesotas-short-spined-dogs-quasi-cooper-july-2026",
+      "published_at": "2026-07-28T22:10:48+00:00",
+      "image": {
+        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/07/vlcsnap-2026-07-28-17h04m21s426.jpg",
+        "alt": ""
+      },
+      "description": "A raccoon named Jimothy is turning heads online for his unusual look, and his story is shining a light on two Minnesota dogs with the same rare condition."
+    },
+    {
+      "title": "Apostle Islands Red Cliff sea caves collapse",
+      "summary": "Notable sea-cave collapse at a well-known Lake Superior destination; distant but a novel, work-safe opener. You could open with: 'Did you see the Apostle Islands sea caves collapsed up near Bayfield?'",
+      "source": "KARE 11",
+      "topic": "human-interest",
+      "url": "https://www.kare11.com/article/news/local/apostle-islands-red-cliff-sea-caves-collapse/89-a43f3921-aa88-4a48-bca0-2407bea50381",
+      "published_at": "2026-07-28T16:17:57+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/b6c049f7-68e3-4bbe-81ae-c03e302bb444/20260728T161222/b6c049f7-68e3-4bbe-81ae-c03e302bb444_750x422.jpg",
+        "alt": ""
+      },
+      "description": "The cave collapse happened between Schooner Bay and Legendary Waters Resort and Casino on Lake Superior near Bayfield, Wisconsin."
+    },
     {
       "title": "Fire officials open nearly 40% of the Boundary Waters Canoe Wilderness",
       "summary": "BWCA partially reopens after wildfires; Walz visit, Guard mobilized — distant up-north condition, positive/reopening framing. Conversation starter. You could open with: 'Did you hear the Boundary Waters is reopening after the fires?'",
@@ -31,32 +57,6 @@
         "alt": ""
       },
       "description": "Governor Walz also visited the area on Monday and mobilized the National Guard."
-    },
-    {
-      "title": "Tornado downs power, damages homes in Wisconsin's Fox River Valley",
-      "summary": "EF2 tornado in WI Fox Valley — distant point hazard, not this metro. Conversation starter. You could open with: 'Did you see that EF2 tornado tore through the Fox Valley?'",
-      "source": "KARE 11",
-      "topic": "severe-weather",
-      "url": "https://www.kare11.com/article/news/local/tornado-downs-power-damages-homes-in-wisconsins-fox-river-valley/89-71f12212-c703-4e50-b333-4545caef9ea2",
-      "published_at": "2026-07-28T11:06:20+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KARE/images/b24340a0-7fe2-4f8f-ba5e-32e4735ca166/20260728T103242/b24340a0-7fe2-4f8f-ba5e-32e4735ca166_750x422.jpg",
-        "alt": ""
-      },
-      "description": "An EF2 tornado ripped through the area in northeastern Wisconsin on Monday afternoon."
-    },
-    {
-      "title": "Ely-area businesses navigating impact of Minnesota wildfires, BWCA closure",
-      "summary": "Ely-area businesses feeling wildfire/BWCA-closure toll — distant northern MN condition, economic angle. Conversation starter. You could open with: 'Heard the Ely businesses are really hurting from the wildfire closures?'",
-      "source": "FOX 9",
-      "topic": "wildfire",
-      "url": "https://www.fox9.com/news/ely-area-businesses-navigating-impact-minnesota-wildfires-bwca-closure-july-2026",
-      "published_at": "2026-07-28T01:47:17+00:00",
-      "image": {
-        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/07/vlcsnap-2026-07-27-16h56m56s426.jpg",
-        "alt": ""
-      },
-      "description": "From outfitters to resorts and local businesses in downtown Ely and surrounding areas, owners say they are feeling the economic toll of the wildfires in northern Minnesota."
     }
   ],
   "sports": [],
@@ -73,20 +73,22 @@
         "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/04/24/e8e64565-5e6b-4cbe-af29-5cd5860e966c/thumbnail/1024x576/2df242175b60f127c25d1afd37846fe4/yt-thumbnail.jpg",
         "alt": ""
       },
-      "description": "A federal judge has temporarily blocked Minnesota from enforcing its law​ banning most bets on prediction markets, according to court documents filed on Monday."
+      "description": "A federal judge has temporarily blocked Minnesota from enforcing its law​ banning most bets on prediction markets, according to court documents filed on Monday.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
     },
     {
-      "title": "Fridley police detail who can access Flock Safety camera data amid concerns from residents",
-      "summary": "Fridley Flock camera access amid immigration-enforcement concerns — local surveillance/policing institutional story. You-should-know.",
+      "title": "Woman sues after Global Entry revoked following Border Patrol encounter",
+      "summary": "MN woman sues over Global Entry revocation tied to ICE surge — local enforcement climate context. You-should-know, not a check-in (bounded to one person).",
       "source": "CBS Minnesota",
-      "topic": "policing",
-      "url": "https://www.cbsnews.com/minnesota/news/fridley-police-flock-safety-camera-concerns/",
-      "published_at": "2026-07-28T05:12:11+00:00",
+      "topic": "immigration-enforcement",
+      "url": "https://www.cbsnews.com/minnesota/video/woman-sues-after-global-entry-revoked-following-border-patrol-encounter/",
+      "published_at": "2026-07-28T10:51:00+00:00",
       "image": {
-        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/07/28/0b4d24fc-4764-429a-a72a-533d42963667/thumbnail/1024x576/c7daaa9f64dba947a682efdb11d77175/10p-pkg-fridley-flock-cams-wccoaygg.jpg",
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/07/28/07046384-dd5b-402b-9d6c-0c09b52eda99/thumbnail/1024x576/03444b8873f78e3c0d15b92e8032045e/c6f8ad351386f8a92d91fdf2f01d8d75.jpg",
         "alt": ""
       },
-      "description": "Police in Fridley are restricting who can access data from Flock Safety cameras. At a packed City Council meeting on Monday, they walked through data, showing the community's network of cameras was searched hundreds of thousands of times in December and January by agencies"
+      "description": "A Minnesota woman who says she faced retaliation for monitoring agents during the ICE surge is now suing the federal government.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
     },
     {
       "title": "Trump administration admits canceling billions in grants to 'blue states'",

@@ -4,48 +4,95 @@
   "metroCode": "41700",
   "metro": "San Antonio-New Braunfels, TX",
   "range": {
-    "start": "2026-07-22",
-    "end": "2026-07-28"
+    "start": "2026-07-23",
+    "end": "2026-07-29"
   },
   "are_you_ok": [
     {
-      "title": "Heat advisory issued as dangerous temperatures return to San Antonio; here’s how to stay safe",
-      "summary": "A city-proximity heat advisory for San Antonio on July 22 opened a stretch of dangerous South Texas heat — the most direct, everyone-affected check-in of the week for anyone the reader knows here.",
-      "source": "San Antonio Report",
-      "topic": "heat",
-      "url": "https://sanantonioreport.org/heat-advisory-dangerous-temperatures-san-antonio/",
-      "published_at": "2026-07-22T11:30:00+00:00",
-      "image": {
-        "url": "https://i0.wp.com/sanantonioreport.org/wp-content/uploads/2026/07/ExtremeHeat_SouthTexas_BrightHotSunnyWeather_Shade02_06.24.2026_AmberEsparza-scaled-1.jpg?fit=1024%2C683&ssl=1",
-        "alt": ""
-      },
-      "description": "Dangerous heat returns to San Antonio this week, with a heat advisory in effect Wednesday and heat index values reaching up to 112 degrees.Heat advisory issued as dangerous temperatures return to San Antonio; here’s how to stay safe was first posted on July 22, 2026 at 6:30"
-    },
-    {
-      "title": "Dangerous heat grips South Texas before slight cooldown | Weather Impact Alert",
-      "summary": "Dangerous heat gripped South Texas around July 23 before a slight cooldown; a regional counterpart to the metro heat advisory worth asking how people weathered it.",
+      "title": "Dangerous heat index expected as high-pressure ridge builds | Weather Impact Alert",
+      "summary": "A high-pressure ridge built over the metro late in the week, driving dangerous heat-index days after an earlier South Texas heat wave — the most broadly felt threat to everyone the reader might be checking on.",
       "source": "KENS 5",
       "topic": "heat",
-      "url": "https://www.kens5.com/article/weather/forecast/heat-advisory-san-antonio-ercot-power-grid-electricity-triple-digits-heat-index-energy-demand-forecast-summer-hydration-air-conditioning/273-41ced3d1-9b66-4961-a7dc-a98c34a6a579",
-      "published_at": "2026-07-23T11:56:48+00:00",
-      "image": null,
-      "description": "Triple-digit heat returns Wednesday, with heat index values up to 114 degrees as Texas power demand reaches record levels."
+      "url": "https://www.kens5.com/article/weather/forecast/weather-impact-alert-dangerous-heat-index-high-pressure-ridge/273-600e4690-6fa2-43c9-9f7b-3642dbe4230e",
+      "published_at": "2026-07-29T12:25:20+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/c2212bc4-19d5-4ff9-b73e-2df2dbb1b2bd/c2212bc4-19d5-4ff9-b73e-2df2dbb1b2bd_750x422.jpg",
+        "alt": ""
+      },
+      "description": "Stay updated with the KENS 5 Weather Team on this severe weather development and how it impacts you."
+    },
+    {
+      "title": "Fort Worth-based American Airlines planes departing again after temporary global ground stop",
+      "summary": "A global IT outage briefly grounded all Fort Worth-based American Airlines flights before departures resumed — a same-day disruption that stranded travelers connected to this metro's air hub.",
+      "source": "KENS 5",
+      "topic": "transportation",
+      "url": "https://www.kens5.com/article/travel/american-airlines-global-ground-stop-it-issues/287-b87d888a-45bd-4094-8d17-ec396f6f66af",
+      "published_at": "2026-07-28T23:11:17+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/WFAA/images/cf069dfc-13e9-4432-9dda-8883885d8c37/20250723T180117/cf069dfc-13e9-4432-9dda-8883885d8c37_750x422.jpg",
+        "alt": ""
+      },
+      "description": "Officials said the ground stop was due to an ongoing IT outage."
     }
   ],
   "conversation_starters": [
     {
-      "title": "SeaWorld San Antonio welcomes rescued belugas from former Canada marine park",
-      "summary": "SeaWorld San Antonio welcomed rescued belugas from a shuttered Canadian marine park on July 22 — a novel, feel-good animal story that gets people talking.",
+      "title": "'I'm going to be depressed for a long time.' | Historic Crystal Ballroom destroyed in fire, leaving community mourning the site",
+      "summary": "",
       "source": "KENS 5",
       "topic": "human-interest",
-      "url": "https://www.kens5.com/article/life/animals/sea-world-san-antonio-rescued-beluga-whales-canada-first-rescue-effort/273-37c9d57c-5b1f-4ded-8d83-d57668d8b5fb",
-      "published_at": "2026-07-22T12:16:40+00:00",
-      "image": null,
-      "description": "The whales were part of a large pod of 30 belugas living at Marineland of Canada, a closed marine park that can no longer care for them."
+      "url": "https://www.kens5.com/article/news/local/historic-crystal-city-ballroom-destroyed-fire-community-texas/273-679cbcef-52da-4ce3-b303-8e4235046951",
+      "published_at": "2026-07-29T04:17:51+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/fdea825c-32bf-4860-888a-a15db11de3a2/20260729T035817/fdea825c-32bf-4860-888a-a15db11de3a2_750x422.jpg",
+        "alt": ""
+      },
+      "description": "The owner of the ballroom says big acts like Selena, Ramon Ayala, and Intocable performed there, and hosted many quinceaneras, weddings, and other parties."
+    },
+    {
+      "title": "Live Civil War-era ammunition found in Atascosa County safely disposed of by military officials",
+      "summary": "",
+      "source": "KENS 5",
+      "topic": "human-interest",
+      "url": "https://www.kens5.com/article/news/local/live-civil-war-era-ammunition-found-in-atascosa-county-safely-disposed-of-by-military-officials/273-19349a7b-ad00-49d5-8d14-f0c1c857c460",
+      "published_at": "2026-07-28T20:16:02+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/fcb5409e-ac22-4933-b58f-2179b91c4732/20260728T201414/fcb5409e-ac22-4933-b58f-2179b91c4732_750x422.jpg",
+        "alt": ""
+      },
+      "description": "A Civil War-era live round was safely detonated by military officials in Atascosa County after a collector's friend suspected it was still active, authorities say.",
+      "thread": [
+        {
+          "title": "Live Civil War-era ammunition found in Atascosa County safely disposed of by military officials",
+          "summary": "Civil War-era live round found and detonated — quirky, novel local oddity that sparks a natural exchange. You could open with: 'Did you see somebody had a live Civil War shell sitting in their office in Atascosa County?'",
+          "source": "KENS 5",
+          "topic": "human-interest",
+          "url": "https://www.kens5.com/article/news/local/live-civil-war-era-ammunition-found-in-atascosa-county-safely-disposed-of-by-military-officials/273-19349a7b-ad00-49d5-8d14-f0c1c857c460",
+          "published_at": "2026-07-28T20:16:02+00:00",
+          "image": {
+            "url": "https://media.tegna-media.com/assets/KENS/images/fcb5409e-ac22-4933-b58f-2179b91c4732/20260728T201414/fcb5409e-ac22-4933-b58f-2179b91c4732_750x422.jpg",
+            "alt": ""
+          },
+          "description": "A Civil War-era live round was safely detonated by military officials in Atascosa County after a collector's friend suspected it was still active, authorities say."
+        },
+        {
+          "title": "'I had it there for years': Office decoration in Atascosa County turns out to be live, Civil War-era explosive",
+          "summary": "Quirky, fun local oddity story. You could open with: 'Did you hear someone had a Civil War-era live explosive as an office decoration in Atascosa County?'",
+          "source": "KENS 5",
+          "topic": "human-interest",
+          "url": "https://www.kens5.com/article/news/local/texas/office-decoration-atascosa-county-civil-war-era-explosive-texas-parrott-round/273-9333aa7f-bf6a-40dd-b5cd-fbf8c6712367",
+          "published_at": "2026-07-29T03:38:19+00:00",
+          "image": {
+            "url": "https://media.tegna-media.com/assets/KENS/images/8797ec2f-7dcc-4d30-b197-272fefa377f2/20260729T032233/8797ec2f-7dcc-4d30-b197-272fefa377f2_750x422.jpg",
+            "alt": ""
+          },
+          "description": "An explosive ordnance disposal unit was brought out from Lackland Air Force Base. The device was confirmed to be a Parrott round from more than 150 years ago."
+        }
+      ]
     },
     {
       "title": "With bonds, beams and billions of dollars, the airport’s terminal development project is on track",
-      "summary": "The airport's multibillion-dollar new terminal reached a construction milestone — a concrete look at a major city project reshaping how the metro travels.",
+      "summary": "",
       "source": "San Antonio Report",
       "topic": "transportation",
       "url": "https://sanantonioreport.org/with-bonds-beams-and-billions-of-dollars-the-airports-terminal-development-project-is-on-track/",
@@ -54,24 +101,12 @@
         "url": "https://i0.wp.com/sanantonioreport.org/wp-content/uploads/2026/01/SATAirport_AirplaneTravelLuggage_TerminalsAB_TSAParkingSecurity_DepartureArrival_06_01.29.2026_AmberEsparza-scaled.jpg?fit=1024%2C683&ssl=1",
         "alt": ""
       },
-      "description": "A newly issued revenue bond supports the $2.5 billion worth of airport projects that bring a new terminal and other improvements to SAT.With bonds, beams and billions of dollars, the airport’s terminal development project is on track was first posted on July 27, 2026 at 5:00"
-    },
-    {
-      "title": "AC/DC brings electric POWER UP Tour to San Antonio's Alamodome",
-      "summary": "AC/DC's POWER UP Tour is coming to the Alamodome — a crowd-pleasing marquee event and a naturally comfortable opener.",
-      "source": "KENS 5",
-      "topic": "civic-events",
-      "url": "https://www.kens5.com/article/news/local/san-antonio-texas-satx-acdc-power-up-tour-alamodome-concert-photos-july-2026/273-831e158e-ab44-47c0-b71d-1aae3c0b6907",
-      "published_at": "2026-07-25T19:32:22+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/e6b95942-e978-4c78-81f4-d52619e08253/20260725T151734/e6b95942-e978-4c78-81f4-d52619e08253_750x422.jpg",
-        "alt": ""
-      },
-      "description": "AC/DC electrified San Antonio's Alamodome with their POWER UP Tour, delivering classic rock anthems and high-energy performances, captivating a sea of fans."
+      "description": "A newly issued revenue bond supports the $2.5 billion worth of airport projects that bring a new terminal and other improvements to SAT.With bonds, beams and billions of dollars, the airport’s terminal development project is on track was first posted on July 27, 2026 at 5:00",
+      "logo": "https://sanantonioreport.org/wp-content/uploads/2020/09/cropped-SA_Report_Logo_512pxArtboard-1-32x32.jpg"
     },
     {
       "title": "San Antonio Animal Care Services waives adoption fees as shelter exceeds capacity after recent weather",
-      "summary": "Animal Care Services waived adoption fees on July 25 as recent weather pushed the shelter past capacity — a civic-minded, actionable story with a warm hook.",
+      "summary": "",
       "source": "KENS 5",
       "topic": "human-interest",
       "url": "https://www.kens5.com/article/life/animals/san-antonio-animal-care-services-0-adoption-fees-shelter-capacity-texas-weather-flood/273-0859bf4b-dcc1-434d-9d7e-322d70d3dd6e",
@@ -81,25 +116,52 @@
         "alt": ""
       },
       "description": "San Antonio's animal shelter is waiving adoption fees amid overcrowding from a surge in pets following severe weather, urging locals to adopt or foster to help."
+    },
+    {
+      "title": "San Antonio’s homicide decline is clear — it’s less clear why",
+      "summary": "",
+      "source": "San Antonio Report",
+      "topic": "violent-crime",
+      "url": "https://sanantonioreport.org/san-antonios-homicide-decline-is-clear-its-less-clear-why/",
+      "published_at": "2026-07-24T17:25:18+00:00",
+      "image": {
+        "url": "https://i0.wp.com/sanantonioreport.org/wp-content/uploads/2026/07/Brenda-Bazan-Hays-st-east-side-2-scaled-1.jpg?fit=1024%2C768&ssl=1",
+        "alt": ""
+      },
+      "description": "San Antonio homicides fell another 8%, raising new questions about which public safety strategies are reducing violence.San Antonio’s homicide decline is clear — it’s less clear why was first posted on July 24, 2026 at 12:25 pm.©2021 \"San Antonio Report\". Use of this feed is for",
+      "logo": "https://sanantonioreport.org/wp-content/uploads/2020/09/cropped-SA_Report_Logo_512pxArtboard-1-32x32.jpg"
     }
   ],
   "you_should_know": [
     {
-      "title": "'Important for us to stay united' | Hundreds take to Houston streets, demanding justice for man fatally shot by ICE",
-      "summary": "The San Antonio Zoo turned invasive bamboo into enrichment and browse for its animals — a warm, easy human-interest opener that led its day and headlines the week's starters.",
+      "title": "Congressman Joaquin Castro renews call to close Dilley detention center after congressional oversight visit",
+      "summary": "",
       "source": "KENS 5",
       "topic": "immigration-enforcement",
-      "url": "https://www.kens5.com/article/news/local/lorenzo-salgado-houston-protest-justice/285-42d12bac-161b-41ec-b905-8f1a6a1be38f",
-      "published_at": "2026-07-26T11:35:53+00:00",
+      "url": "https://www.kens5.com/article/news/local/congressman-joaquin-castro-close-dilley-detention-center-oversight-ice-san-antonio-texas/273-8e319d51-07a4-4aa4-b638-ab6c78c6c4e1",
+      "published_at": "2026-07-29T01:36:37+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/KHOU/images/306eb372-9a3b-48db-b6d5-191c62072131/20260720T030937/306eb372-9a3b-48db-b6d5-191c62072131_750x422.jpg",
+        "url": "https://media.tegna-media.com/assets/KENS/images/fbce95e7-d5d6-4c41-9a42-587e34bbdb17/20260728T234042/fbce95e7-d5d6-4c41-9a42-587e34bbdb17_750x422.jpg",
         "alt": ""
       },
-      "description": "Hundreds marched in Houston to honor Lorenzo Salgado and demand justice, calling for a transparent, independent investigation into his death."
+      "description": "U.S. Rep. Joaquin Castro advocates for closing the Dilley detention center, citing poor conditions causing trauma to children and adults."
+    },
+    {
+      "title": "Kerr County records seventh rabies case after skunk found in family's yard",
+      "summary": "",
+      "source": "KENS 5",
+      "topic": "public-health",
+      "url": "https://www.kens5.com/article/life/animals/kerr-county-rabies-skunk-rancheror-oad-kerrville-animal-control-reagan-givens-vaccinations-pets-wildlife-exposure-mountain-home-safety-dogs/273-5223f5f8-281d-4d6c-9346-8559e30dc7b9",
+      "published_at": "2026-07-28T13:02:00+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KCEN/images/ebf14b4c-24a8-44d1-a896-9d0482c30aef/ebf14b4c-24a8-44d1-a896-9d0482c30aef_750x422.jpg",
+        "alt": ""
+      },
+      "description": "A skunk killed by family dogs has been classified as a positive rabies case under Texas law, bringing Kerr County's total to seven this year."
     },
     {
       "title": "Mayor puts out call for help funding city-supported organizations as $158M budget gap looms",
-      "summary": "San Antonio's $158M budget gap dominated the week: the mayor asked business and philanthropy to help fund city-supported groups (July 25), the Book Festival reacted to possible cuts (July 26), and the appeal for help sharpened by July 27 — the story most likely to shape the metro's civic future.",
+      "summary": "",
       "source": "San Antonio Report",
       "topic": "elections-politics",
       "url": "https://sanantonioreport.org/mayor-gina-ortiz-jones-call-for-help-city-supported-organizations-budget/",
@@ -109,6 +171,7 @@
         "alt": ""
       },
       "description": "Jones said those organizations strengthened San Antonio but, in a letter dated July 24, she noted a $158 million budget gap the city faces.Mayor puts out call for help funding city-supported organizations as $158M budget gap looms was first posted on July 27, 2026 at 4:37",
+      "logo": "https://sanantonioreport.org/wp-content/uploads/2020/09/cropped-SA_Report_Logo_512pxArtboard-1-32x32.jpg",
       "thread": [
         {
           "title": "Mayor Jones asks business, philanthropic community to help fund San Antonio events and groups amid budget deficit",
@@ -147,13 +210,14 @@
             "url": "https://i0.wp.com/sanantonioreport.org/wp-content/uploads/2026/07/Jones_File_Amber_nonprofits-scaled.jpg?fit=1024%2C683&ssl=1",
             "alt": ""
           },
-          "description": "Jones said those organizations strengthened San Antonio but, in a letter dated July 24, she noted a $158 million budget gap the city faces.Mayor puts out call for help funding city-supported organizations as $158M budget gap looms was first posted on July 27, 2026 at 4:37"
+          "description": "Jones said those organizations strengthened San Antonio but, in a letter dated July 24, she noted a $158 million budget gap the city faces.Mayor puts out call for help funding city-supported organizations as $158M budget gap looms was first posted on July 27, 2026 at 4:37",
+          "logo": "https://sanantonioreport.org/wp-content/uploads/2020/09/cropped-SA_Report_Logo_512pxArtboard-1-32x32.jpg"
         }
       ]
     },
     {
       "title": "11 indicted in migrant-smuggling case linked to 7 deaths",
-      "summary": "Eleven people were indicted in an in-metro migrant-smuggling case tied to seven deaths — a serious, close-to-home development topping its day.",
+      "summary": "",
       "source": "San Antonio Report",
       "topic": "immigration-enforcement",
       "url": "https://sanantonioreport.org/11-indicted-in-migrant-smuggling-case-linked-to-7-deaths/",
@@ -162,30 +226,18 @@
         "url": "https://i0.wp.com/sanantonioreport.org/wp-content/uploads/2026/07/crop-smuggling.jpg?fit=1024%2C683&ssl=1",
         "alt": ""
       },
-      "description": "A federal grand jury has indicted 11 people accused of participating in a migrant-smuggling operation that resulted in seven deaths in May.11 indicted in migrant-smuggling case linked to 7 deaths was first posted on July 24, 2026 at 7:59 pm.©2021 \"San Antonio Report\". Use of"
+      "description": "A federal grand jury has indicted 11 people accused of participating in a migrant-smuggling operation that resulted in seven deaths in May.11 indicted in migrant-smuggling case linked to 7 deaths was first posted on July 24, 2026 at 7:59 pm.©2021 \"San Antonio Report\". Use of",
+      "logo": "https://sanantonioreport.org/wp-content/uploads/2020/09/cropped-SA_Report_Logo_512pxArtboard-1-32x32.jpg"
     },
     {
-      "title": "Most San Antonio school districts head into a new school year with budget deficits",
-      "summary": "Most San Antonio school districts entered the new year facing budget deficits — a distinct education-finance strain landing squarely on local families as the school year opens.",
-      "source": "San Antonio Report",
-      "topic": "education",
-      "url": "https://sanantonioreport.org/san-antonio-school-districts-enter-2026-2027-with-deficits/",
-      "published_at": "2026-07-28T10:00:00+00:00",
-      "image": {
-        "url": "https://i0.wp.com/sanantonioreport.org/wp-content/uploads/2026/07/SulRossMiddleSchool_NorthsideISD_NISD_StudentsClassroomHallway_iPadCellPhones_LockdownSafety_EmergencyPreparedness_11_03.19.2026_AmberEsparza-scaled-1.jpg?fit=1024%2C683&ssl=1",
-        "alt": ""
-      },
-      "description": "Out of a dozen school districts in San Antonio, only three are likely to balance their budget for the upcoming 2026-27 school year. Most San Antonio school districts head into a new school year with budget deficits was first posted on July 28, 2026 at 5:00 am.©2021 \"San Antonio"
-    },
-    {
-      "title": "Data centers emerge as flashpoint in Texas governor's race",
-      "summary": "Data centers became a flashpoint in the Texas governor's race — a growing statewide fight over power and water that will reach the metro.",
+      "title": "Arrests made in migrant deaths discovered in Laredo and San Antonio in May",
+      "summary": "",
       "source": "KENS 5",
-      "topic": "data-centers",
-      "url": "https://www.kens5.com/article/news/local/texas/data-centers-ai-greg-abbott-gina-hinojosa-rural-texas-water-electricity-power-grid-campaign-governor-election-infrastructure-development/273-912a31c5-9d2d-420f-a4e8-8e517f000a8c",
-      "published_at": "2026-07-23T11:49:21+00:00",
+      "topic": "immigration-enforcement",
+      "url": "https://www.kens5.com/article/news/local/us-attorneys-office-announces-update-in-migrant-deaths-discovered-in-laredo-and-san-antonio-in-may/273-88612381-fe34-4d9a-aad4-a74b5169a30b",
+      "published_at": "2026-07-24T16:09:24+00:00",
       "image": null,
-      "description": "Concerns over water, power and rural land are turning AI data centers into a major issue in Texas politics."
+      "description": "Multiple arrests have been made in connection to migrant deaths in Laredo and San Antonio, authorities say."
     }
   ],
   "sports": [

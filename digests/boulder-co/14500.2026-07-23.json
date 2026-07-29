@@ -12,7 +12,8 @@
       "url": "https://www.cbsnews.com/colorado/news/egg-recall-salmonella-midwest-poultry-kroger/",
       "published_at": "2026-07-23T14:39:56+00:00",
       "image": null,
-      "description": "The recall affects white-shell and cage-free eggs sold under multiple grocery brands in six states. No illnesses have been reported."
+      "description": "The recall affects white-shell and cage-free eggs sold under multiple grocery brands in six states. No illnesses have been reported.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
     }
   ],
   "conversation_starters": [
@@ -71,7 +72,8 @@
       "url": "https://www.cbsnews.com/colorado/news/states-sue-fema-dhs-trump-administration-funding/",
       "published_at": "2026-07-23T23:43:44+00:00",
       "image": null,
-      "description": "The lawsuit claims the Trump administration is withholding hundreds of millions of dollars in disaster-preparedness and homeland security grants to pressure states to change policies on elections and immigration."
+      "description": "The lawsuit claims the Trump administration is withholding hundreds of millions of dollars in disaster-preparedness and homeland security grants to pressure states to change policies on elections and immigration.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
     },
     {
       "title": "DOJ suing Colorado for providing in-state tuition to immigrants without legal status",
@@ -91,7 +93,8 @@
       "url": "https://www.cbsnews.com/colorado/news/social-security-email-bisignano-tax-claims/",
       "published_at": "2026-07-23T13:47:50+00:00",
       "image": null,
-      "description": "Lawmakers claim Commissioner Frank Bisignano used an agency email to exaggerate tax savings under the Republicans' OBBBA while inserting partisan political messaging."
+      "description": "Lawmakers claim Commissioner Frank Bisignano used an agency email to exaggerate tax savings under the Republicans' OBBBA while inserting partisan political messaging.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
     }
   ]
 }
