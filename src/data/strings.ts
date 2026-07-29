@@ -11,7 +11,6 @@ export interface StyleStrings {
   startersHeading: string;
   knowHeading: string;
   sportsHeading: string;
-  todayLabel: string;
   weeklyLabel: string;
   // Shown in place of items when a section has nothing this period. Every
   // section always renders its header; these fill the body so the absence is
@@ -28,7 +27,6 @@ const NEUTRAL: StyleStrings = {
   startersHeading: 'Conversation starters',
   knowHeading: 'You should know',
   sportsHeading: 'Sporting news',
-  todayLabel: 'Today',
   weeklyLabel: 'Last week',
   emptyAreOk: 'No urgent local concerns to flag.',
   emptyStarters: 'No conversation starters this time.',
@@ -45,7 +43,6 @@ export const STYLE_STRINGS: Record<Style, StyleStrings> = {
     startersHeading: 'Chat starters 💬',
     knowHeading: 'You should know',
     sportsHeading: 'Your teams 🏆',
-    todayLabel: 'Today',
     weeklyLabel: 'Last week',
     emptyAreOk: 'All clear — nothing urgent to flag. 😌',
     emptyStarters: 'No chat starters this time. 💬',

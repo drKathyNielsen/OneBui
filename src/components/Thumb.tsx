@@ -5,9 +5,10 @@ interface Props {
   lead?: boolean; // larger variant for the "Are they ok?" lead card
 }
 
-// Article thumbnail. When the item has no image, fall back to a monogram of the
-// source's first letter so the layout stays aligned instead of showing an empty
-// box. The placeholder is decorative (source is already in the meta line).
+// Article thumbnail. When the item has no image, fall back to the source's logo,
+// then to the source name set inside the tile, so the layout stays aligned
+// instead of showing an empty box. Both fallbacks are decorative (the source is
+// already named in the meta line).
 export default function Thumb({ article, lead }: Props) {
   const className = `oneb-thumb${lead ? ' oneb-thumb--lead' : ''}`;
   if (article.image) {
@@ -17,10 +18,16 @@ export default function Thumb({ article, lead }: Props) {
       </div>
     );
   }
-  const initial = article.source.trim().charAt(0).toUpperCase();
+  if (article.logo) {
+    return (
+      <div className={`${className} oneb-thumb--logo`} aria-hidden="true">
+        <img src={article.logo} alt="" />
+      </div>
+    );
+  }
   return (
     <div className={`${className} oneb-thumb--placeholder`} aria-hidden="true">
-      <span className="oneb-thumb-mono">{initial}</span>
+      <span className="oneb-thumb-name">{article.source.trim()}</span>
     </div>
   );
 }

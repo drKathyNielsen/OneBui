@@ -18,6 +18,7 @@ export interface RawArticle {
   url: string;
   summary?: string; // optional editorial line (weekly narrates the arc here)
   published_at?: string; // optional ISO 8601 with offset
+  logo?: string; // outlet logo URL (joined by source); absent when the outlet has no known logo
   thread?: RawArticle[]; // weekly-only: contributing articles, oldest→newest (additive)
 }
 
@@ -70,6 +71,7 @@ export interface Article {
   url: string;
   image?: string; // resolved thumbnail URL
   alt?: string; // image alt text ('' when decorative/unknown)
+  logo?: string; // source/station logo URL; thumb fallback when image is absent
   summary?: string; // editorial arc narration (weekly items); omitted when absent
   dateLabel?: string; // short published date, e.g. "Jul 24"; set on weekly items so
   // readers know *when* each story happened (daily items share the masthead date)

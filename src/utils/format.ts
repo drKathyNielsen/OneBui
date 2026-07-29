@@ -47,6 +47,7 @@ function mapItem(it: RawArticle, withDate = false): Article {
     url: it.url,
     image: it.image?.url,
     alt: it.image?.alt ?? '',
+    logo: it.logo,
     source: it.source,
     topic: topicLabel(it.topic),
     summary: isGroup ? it.summary : undefined,

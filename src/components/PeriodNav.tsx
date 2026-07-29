@@ -7,59 +7,46 @@ interface DayOption {
 
 interface Props {
   period: Period;
-  hasWeekly: boolean; // hide the Weekly toggle when the metro has no aggregate
+  hasWeekly: boolean; // hide the Weekly tab when the metro has no aggregate
   days: DayOption[]; // the metro's available days, newest first
   selectedIso: string;
-  todayLabel: string; // per-style label for the daily tab
   weeklyLabel: string; // per-style label for the weekly tab
   onPeriodChange: (p: Period) => void;
   onDaySelect: (iso: string) => void;
 }
 
-// "Today" is the daily view with a chip row of the metro's ≤4 available days;
-// "Weekly" is the single editorial aggregate and shows no day chips. Toggling
-// back to Daily restores the selected/newest day (the date is held upstream).
-export default function PeriodNav({ period, hasWeekly, days, selectedIso, todayLabel, weeklyLabel, onPeriodChange, onDaySelect }: Props) {
+// A single flat tab row: the weekly aggregate ("Last week") followed by one tab
+// per available day. With only a handful of days there's no need for the old
+// Today-tab-plus-day-chips submenu — every destination sits on one row.
+export default function PeriodNav({ period, hasWeekly, days, selectedIso, weeklyLabel, onPeriodChange, onDaySelect }: Props) {
   return (
-    <>
-      <nav className="oneb-tabs" role="tablist" aria-label="Digest period">
+    <nav className="oneb-tabs" role="tablist" aria-label="Choose a brief">
+      {hasWeekly && (
         <button
           type="button"
           role="tab"
-          aria-selected={period === 'daily'}
-          className={`oneb-tab${period === 'daily' ? ' oneb-tab--active' : ''}`}
-          onClick={() => onPeriodChange('daily')}
+          aria-selected={period === 'weekly'}
+          className={`oneb-tab${period === 'weekly' ? ' oneb-tab--active' : ''}`}
+          onClick={() => onPeriodChange('weekly')}
         >
-          {todayLabel}
+          {weeklyLabel}
         </button>
-        {hasWeekly && (
+      )}
+      {days.map((d) => {
+        const active = period === 'daily' && d.iso === selectedIso;
+        return (
           <button
+            key={d.iso}
             type="button"
             role="tab"
-            aria-selected={period === 'weekly'}
-            className={`oneb-tab${period === 'weekly' ? ' oneb-tab--active' : ''}`}
-            onClick={() => onPeriodChange('weekly')}
+            aria-selected={active}
+            className={`oneb-tab${active ? ' oneb-tab--active' : ''}`}
+            onClick={() => onDaySelect(d.iso)}
           >
-            {weeklyLabel}
+            {d.label}
           </button>
-        )}
-      </nav>
-      {period === 'daily' && (
-        <div className="oneb-day-chips" role="tablist" aria-label="Choose a day">
-          {days.map((d) => (
-            <button
-              key={d.iso}
-              type="button"
-              role="tab"
-              aria-selected={d.iso === selectedIso}
-              className={`oneb-day-chip${d.iso === selectedIso ? ' oneb-day-chip--active' : ''}`}
-              onClick={() => onDaySelect(d.iso)}
-            >
-              {d.label}
-            </button>
-          ))}
-        </div>
-      )}
-    </>
+        );
+      })}
+    </nav>
   );
 }

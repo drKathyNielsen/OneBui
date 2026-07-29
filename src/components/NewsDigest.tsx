@@ -24,7 +24,11 @@ interface Props {
 // Bootstrap's grid: stacked on phone (<768px), hero-then-two-columns on
 // tablet (>=768px), three columns side by side on desktop (>=992px).
 export default function NewsDigest({ vm, days, hasWeekly, period, selectedDate, style, onPeriodChange, onDaySelect }: Props) {
-  const dayOptions = useMemo(() => days.map((d) => ({ iso: d.date, label: dayChipLabel(d.date) })), [days]);
+  // The current calendar day (viewer-local) shows "Today" instead of its date.
+  const dayOptions = useMemo(() => {
+    const todayIso = new Date().toLocaleDateString('en-CA'); // yyyy-mm-dd
+    return days.map((d) => ({ iso: d.date, label: d.date === todayIso ? 'Today' : dayChipLabel(d.date) }));
+  }, [days]);
   const mastheadDate = vm.period === 'weekly' ? vm.rangeLabel : vm.dateLong;
   const strings = getStrings(style);
 
@@ -41,7 +45,6 @@ export default function NewsDigest({ vm, days, hasWeekly, period, selectedDate, 
         hasWeekly={hasWeekly}
         days={dayOptions}
         selectedIso={selectedDate}
-        todayLabel={strings.todayLabel}
         weeklyLabel={strings.weeklyLabel}
         onPeriodChange={onPeriodChange}
         onDaySelect={onDaySelect}

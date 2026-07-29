@@ -47,6 +47,11 @@
         "url": { "type": "string", "minLength": 1, "format": "uri" },
         "published_at": { "$ref": "#/$defs/IsoOffsetDateTime" },
         "image": { "$ref": "#/$defs/Image" },
+        "logo": {
+          "type": "string",
+          "format": "uri",
+          "description": "Optional outlet logo URL, joined from the outlet registry by source. Absent when the outlet has no known logo."
+        },
         "description": {
           "type": "string",
           "maxLength": 280,
