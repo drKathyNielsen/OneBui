@@ -4,51 +4,67 @@
   "metroCode": "14500",
   "metro": "Boulder, CO",
   "range": {
-    "start": "2026-07-23",
-    "end": "2026-07-29"
+    "start": "2026-07-24",
+    "end": "2026-07-30"
   },
   "are_you_ok": [
     {
-      "title": "Evacuations ordered for Penley Fire west of Sedalia",
-      "summary": "A fast-moving wildfire west of Sedalia forced evacuations on July 27 — the most direct threat to people the reader might be checking on this week, with families potentially displaced.",
-      "source": "9NEWS",
-      "topic": "wildfire",
-      "url": "https://www.9news.com/article/news/local/wildfire/wildfire-west-of-sedalia/73-d07338be-5933-4ea7-baa1-caa6248b153d",
-      "published_at": "2026-07-27T14:06:40+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KUSA/images/a3268ea6-8ca0-48fd-a417-41742f670ae0/20260727T104650/a3268ea6-8ca0-48fd-a417-41742f670ae0_750x422.jpg",
-        "alt": ""
-      },
-      "description": "A wildfire evacuation order was issued around 5 p.m. Sunday for people within a two-mile radius of West Douglas Fire Station 132."
-    },
-    {
       "title": "Friends rally for woman detained by ICE at Denver airport",
-      "summary": "A woman detained by ICE at Denver airport on July 24 drew friends rallying to her support; a personal-scale enforcement story that lands hard on anyone in immigrant communities the reader may know.",
+      "summary": "A woman detained by ICE at Denver International Airport drew friends and community rallying to her side — the kind of enforcement action that could touch anyone in an immigrant community the reader is checking on.",
       "source": "9NEWS",
       "topic": "immigration-enforcement",
       "url": "https://www.9news.com/article/news/local/rally-for-woman-detained-by-ice-at-denver-airport/73-c0835e98-5ec5-40c2-89de-cb367bdd9ca5",
       "published_at": "2026-07-24T12:27:27+00:00",
       "image": null,
       "description": "A friend and former employer of a woman detained by federal agents at Denver International Airport has been advocating for her release from detention."
+    },
+    {
+      "title": "Sunday was Denver's hottest day in more than 8 years",
+      "summary": "A record-breaking heat stretch peaked with Denver's hottest day in more than 8 years, after health specialists spent the week warning of extreme-heat risks to people and pets — worth checking how the contact and their household weathered it.",
+      "source": "9NEWS",
+      "topic": "heat",
+      "url": "https://www.9news.com/article/weather/weather-colorado/sunday-denver-hottest-day-8-years/73-6381fe1e-7a42-4f44-9f13-a3bbcaaf7eac",
+      "published_at": "2026-07-27T10:36:22+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/d00d4670-2099-45a2-871f-6ea03023be87/20260713T143711/d00d4670-2099-45a2-871f-6ea03023be87_750x422.jpg",
+        "alt": ""
+      },
+      "description": "Denver experiences record-breaking heat as temperatures reach 103 degrees, the highest in over eight years.",
+      "thread": [
+        {
+          "title": "Denver health specialists warn of extreme heat risks for people and pets",
+          "summary": "Extreme heat health warning affecting the whole metro population this weekend.",
+          "source": "CBS Colorado",
+          "topic": "heat",
+          "url": "https://www.cbsnews.com/colorado/video/denver-health-specialists-warn-of-extreme-heat-risks-for-people-and-pets/",
+          "published_at": "2026-07-25T19:54:00+00:00",
+          "image": {
+            "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/25/5b8cfa51-9100-41fa-a4f7-baa96c497b54/thumbnail/1024x576/bb44212fdea2fdb5dbabcc49bb1e18a4/568e405d523832bf77f0e2ff77cdd98e.jpg",
+            "alt": ""
+          },
+          "description": "With continued high temperatures across Colorado, it's important to recognize the symptoms of heat related illness. Health experts are sharing tips to protect yourself and your pets this weekend.",
+          "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+        },
+        {
+          "title": "Sunday was Denver's hottest day in more than 8 years",
+          "summary": "Record heat day, acute weather event.",
+          "source": "9NEWS",
+          "topic": "heat",
+          "url": "https://www.9news.com/article/weather/weather-colorado/sunday-denver-hottest-day-8-years/73-6381fe1e-7a42-4f44-9f13-a3bbcaaf7eac",
+          "published_at": "2026-07-27T10:36:22+00:00",
+          "image": {
+            "url": "https://media.tegna-media.com/assets/KUSA/images/d00d4670-2099-45a2-871f-6ea03023be87/20260713T143711/d00d4670-2099-45a2-871f-6ea03023be87_750x422.jpg",
+            "alt": ""
+          },
+          "description": "Denver experiences record-breaking heat as temperatures reach 103 degrees, the highest in over eight years."
+        }
+      ]
     }
   ],
   "conversation_starters": [
     {
-      "title": "Eastbound I-70 reopens east of Denver",
-      "summary": "Eastbound I-70 buckled and closed east of Denver before reopening July 27 — a widely-felt commuter disruption that's easy to bring up with anyone who drives the corridor.",
-      "source": "9NEWS",
-      "topic": "transportation",
-      "url": "https://www.9news.com/article/traffic/pavement-buckling-closes-eastbound-i-70/73-7163f111-859d-41f1-9203-9ba65b61dfa7",
-      "published_at": "2026-07-27T12:06:30+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KUSA/images/ed6fed3d-df96-4030-aab9-159e4e2cd1d7/20260727T111834/ed6fed3d-df96-4030-aab9-159e4e2cd1d7_750x422.jpg",
-        "alt": ""
-      },
-      "description": "Eastbound I-70 east of Denver was closed for emergency repairs after road buckling, according to CSP."
-    },
-    {
       "title": "AC/DC in Colorado: What to know for the stadium concert",
-      "summary": "AC/DC brought a stadium concert to Colorado this week (plus Megan Moroney) — a marquee event and a natural, upbeat opener for a Monday 1:1.",
+      "summary": "AC/DC's stadium show landed as the week's marquee event — a clean, widely-shared opener nearly anyone in the metro can riff on.",
       "source": "9NEWS",
       "topic": "civic-events",
       "url": "https://www.9news.com/article/life/style/colorado-guide/acdc-colorado-stadium-concert/73-6e900bd6-c1d7-4dea-a196-b58b7a859981",
@@ -60,8 +76,22 @@
       "description": "Arguably the world’s greatest rock and roll band, AC/DC is back in Colorado for the first time in 10 years, ready to rock Colorado's largest stadium on Tuesday."
     },
     {
+      "title": "Aurora's Day of Resilience honors theater shooting victims while supporting long-term healing",
+      "summary": "Aurora's Day of Resilience honored theater-shooting victims and reframed the day around long-term community healing — a resonant local moment easy to raise with care.",
+      "source": "CBS Colorado",
+      "topic": "human-interest",
+      "url": "https://www.cbsnews.com/colorado/video/auroras-day-of-resilience-honors-theater-shooting-victims-while-supporting-long-term-healing/",
+      "published_at": "2026-07-26T02:55:00+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/07/26/69d38529-1f52-4a75-9926-b993f81109db/thumbnail/1024x576/ec677773b793d1980b215653f5fe0b16/8648dc32a56f532105a1459d3092f27f.jpg",
+        "alt": ""
+      },
+      "description": "Khloey Pace and Peyton Soltis are the young faces behind Veronica's Lemonade Stand at Aurora's Day of Resilience, where every cup served honors the memory of 6-year-old Veronica Moser-Sullivan, the youngest victim of the 2012 Aurora theater shooting.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    },
+    {
       "title": "A Colorado reservoir is so low it revealed a lost ATV",
-      "summary": "Green Mountain Reservoir dropped so low it revealed an ATV lost for 5 years — first surfaced July 27 and still circulating July 28; a memorable drought curiosity that gets people talking.",
+      "summary": "A reservoir dropped so low it surrendered an ATV lost for five years — a quirky drought story that doubles as a light, memorable opener.",
       "source": "9NEWS",
       "topic": "drought-water",
       "url": "https://www.9news.com/article/life/style/colorado-guide/colorado-reservoir-lost-atv/73-26887875-ff03-48fe-83b2-5d407033dbe5",
@@ -103,7 +133,7 @@
     },
     {
       "title": "\"Big Boy\" No. 4014 stops in Colorado this week as crowds flock to see historic locomotive",
-      "summary": "Union Pacific's 'Big Boy' No. 4014 locomotive toured through Colorado this week, drawing crowds — a feel-good spectacle that's easy to raise.",
+      "summary": "The historic 'Big Boy' No. 4014 locomotive stopped through Colorado this week, drawing crowds — an easy, feel-good talker.",
       "source": "CBS Colorado",
       "topic": "human-interest",
       "url": "https://www.cbsnews.com/colorado/news/big-boy-no-4014-colorado-historic-locomotive/",
@@ -116,24 +146,36 @@
       "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
     },
     {
-      "title": "Aurora's Day of Resilience honors theater shooting victims while supporting long-term healing",
-      "summary": "Aurora's Day of Resilience on July 26 honored theater shooting victims and emphasized long-term healing — a meaningful community moment for the metro.",
-      "source": "CBS Colorado",
-      "topic": "human-interest",
-      "url": "https://www.cbsnews.com/colorado/video/auroras-day-of-resilience-honors-theater-shooting-victims-while-supporting-long-term-healing/",
-      "published_at": "2026-07-26T02:55:00+00:00",
+      "title": "Record heat doesn't stop crowds at Underground Music Showcase's first year in RiNo",
+      "summary": "The Underground Music Showcase drew big crowds through record heat in its first RiNo year — a fresh culture-scene opener distinct from the arena show.",
+      "source": "9NEWS",
+      "topic": "civic-events",
+      "url": "https://www.9news.com/article/entertainment/record-heat-doesnt-stop-crowds-at-underground-music-showcases-first-year-in-rino/73-e9b5701e-bdc7-4b1d-83de-c8b55e7bd1a1",
+      "published_at": "2026-07-26T03:57:24+00:00",
       "image": {
-        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/07/26/69d38529-1f52-4a75-9926-b993f81109db/thumbnail/1024x576/ec677773b793d1980b215653f5fe0b16/8648dc32a56f532105a1459d3092f27f.jpg",
+        "url": "https://media.tegna-media.com/assets/KUSA/images/ee79e176-5f83-4fa8-a375-643c3ab9aba4/20260726T021856/ee79e176-5f83-4fa8-a375-643c3ab9aba4_750x422.jpg",
         "alt": ""
       },
-      "description": "Khloey Pace and Peyton Soltis are the young faces behind Veronica's Lemonade Stand at Aurora's Day of Resilience, where every cup served honors the memory of 6-year-old Veronica Moser-Sullivan, the youngest victim of the 2012 Aurora theater shooting.",
-      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+      "description": "Despite record-breaking heat in Denver, people attended the Underground Music Showcase in its new RiNo location, enjoying local talent amid safety measures."
     }
   ],
   "you_should_know": [
     {
+      "title": "Cargill reaches tentative agreement with union representing Fort Morgan beef plant workers",
+      "summary": "After a lockout at the Fort Morgan beef plant, Cargill reached a tentative agreement with the workers' union late in the week — a major employer-labor story to walk in aware of.",
+      "source": "9NEWS",
+      "topic": "business-jobs",
+      "url": "https://www.9news.com/article/money/business/cargill-reaches-tentative-agreement-union-representing-fort-morgan-beef-plant-workers/73-2220ea73-e522-4016-918e-77f7c9aea432",
+      "published_at": "2026-07-30T19:20:25+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/dd64de9d-7f11-45d0-a07b-9638b6ab34e9/20260520T180607/dd64de9d-7f11-45d0-a07b-9638b6ab34e9_750x422.jpg",
+        "alt": ""
+      },
+      "description": "If ratified by union members, the deal would end an employee lockout that has lasted for more than two months."
+    },
+    {
       "title": "4th firefighter dies from burn injuries battling Colorado's Knowles wildfire",
-      "summary": "A fourth firefighter died from burn injuries battling Colorado's Knowles wildfire, confirmed July 25 and again reported July 26 — the week's gravest wildfire toll, context to walk in aware of.",
+      "summary": "The Knowles wildfire claimed a fourth firefighter to burn injuries, a somber toll that defined the week's fire coverage.",
       "source": "CBS Colorado",
       "topic": "wildfire",
       "url": "https://www.cbsnews.com/colorado/video/4th-firefighter-dies-from-burn-injuries-battling-colorados-knowles-wildfire/",
@@ -146,8 +188,19 @@
       "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
     },
     {
+      "title": "Faith leaders and community members sue Colorado town of Hudson in effort to block planned ICE detention center",
+      "summary": "Faith leaders and community members sued the town of Hudson to block a planned ICE detention center — an in-region flashpoint over immigration enforcement.",
+      "source": "CBS Colorado",
+      "topic": "immigration-enforcement",
+      "url": "https://www.cbsnews.com/colorado/news/hudson-lawsuit-ice-detention-center-big-horn-facility/",
+      "published_at": "2026-07-24T03:59:10+00:00",
+      "image": null,
+      "description": "The town of Hudson is now facing a lawsuit over plans to open an ICE detention center in the eastern Colorado town.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    },
+    {
       "title": "Denver Water asks customers to stick to watering restrictions, hopes residents \"work even harder at conserving\"",
-      "summary": "Denver Water pressed customers to observe watering restrictions and conserve harder (July 24), reflecting the deepening drought squeezing the metro.",
+      "summary": "As heat and drought pressed on, Denver Water pushed customers to hold to watering restrictions and conserve harder — a directive touching every metro household.",
       "source": "CBS Colorado",
       "topic": "drought-water",
       "url": "https://www.cbsnews.com/colorado/news/denver-water-watering-restrictions-drought/",
@@ -158,7 +211,7 @@
     },
     {
       "title": "ACLU asks Colorado Supreme Court to review ruling upholding Boulder’s camping ban",
-      "summary": "The ACLU asked the Colorado Supreme Court to review the ruling upholding Boulder's camping ban (July 27) — a live housing and civil-liberties fight close to home.",
+      "summary": "The ACLU asked the Colorado Supreme Court to review the ruling upholding Boulder's camping ban — a housing-policy fight with statewide reach.",
       "source": "Boulder Reporting Lab",
       "topic": "housing",
       "url": "https://boulderreportinglab.org/2026/07/26/aclu-asks-colorado-supreme-court-to-review-ruling-upholding-boulders-camping-ban/",
@@ -169,31 +222,6 @@
       },
       "description": "Homeless people in Boulder rest by the creek path near the library. Civil rights lawyers argue the Colorado Court of Appeals failed to independently analyze the state constitution and relied on 'fiction' rather than the facts of the case. The post ACLU asks Colorado Supreme",
       "logo": "https://boulderreportinglab.org/wp-content/uploads/2021/06/cropped-brl-favicon-32x32.png"
-    },
-    {
-      "title": "Faith leaders and community members sue Colorado town of Hudson in effort to block planned ICE detention center",
-      "summary": "Faith leaders and community members sued the town of Hudson (July 24) to block a planned ICE detention center — an in-region immigration flashpoint.",
-      "source": "CBS Colorado",
-      "topic": "immigration-enforcement",
-      "url": "https://www.cbsnews.com/colorado/news/hudson-lawsuit-ice-detention-center-big-horn-facility/",
-      "published_at": "2026-07-24T03:59:10+00:00",
-      "image": null,
-      "description": "The town of Hudson is now facing a lawsuit over plans to open an ICE detention center in the eastern Colorado town.",
-      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
-    },
-    {
-      "title": "Public pushback greets CDOT's Colorado Boulevard bus rapid transit proposal; nearly 3/4 comments oppose BRT",
-      "summary": "CDOT's Colorado Boulevard bus rapid transit proposal drew heavy public pushback (July 25), with nearly three-quarters of comments opposed — a contentious local transit decision.",
-      "source": "CBS Colorado",
-      "topic": "transportation",
-      "url": "https://www.cbsnews.com/colorado/news/public-pushback-colorado-boulevard-bus-rapid-transit-proposal/",
-      "published_at": "2026-07-25T04:34:00+00:00",
-      "image": {
-        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/07/25/2808cc23-904f-4e32-87e2-80f3267596a4/thumbnail/1024x576/1f0a6dad86ffa4f38a3efcf55a3d1cf5/colorado-blvd-brt-comments-frame-636.jpg",
-        "alt": ""
-      },
-      "description": "Nearly three out of every four written comments submitted to the Colorado Department of Transportation during the early public review of its proposed Bus Rapid Transit project on Colorado Boulevard oppose the idea.",
-      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
     }
   ],
   "sports": [
@@ -202,14 +230,7 @@
       "scores": [
         "Padres 5, Rockies 4 (Tatis 5-for-5)",
         "Brewers 8, Rockies 5",
-        "Rockies 5, Brewers 2",
-        "Nationals 8, Rockies 0"
-      ]
-    },
-    {
-      "team": "Rapids",
-      "scores": [
-        "Rapids 1, San Diego FC 0"
+        "Rockies 5, Brewers 2"
       ]
     }
   ]

@@ -4,13 +4,13 @@
   "metroCode": "41700",
   "metro": "San Antonio-New Braunfels, TX",
   "range": {
-    "start": "2026-07-23",
-    "end": "2026-07-29"
+    "start": "2026-07-24",
+    "end": "2026-07-30"
   },
   "are_you_ok": [
     {
       "title": "Dangerous heat index expected as high-pressure ridge builds | Weather Impact Alert",
-      "summary": "A high-pressure ridge built over the metro late in the week, pushing the heat index into dangerous territory across San Antonio — the most direct daily-life threat to anyone the reader could be checking on. Echoes the earlier South Texas heat wave (cluster 43) that had briefly eased before this ridge rebuilt it.",
+      "summary": "A high-pressure ridge built over the metro late in the week, pushing heat index into dangerous territory city-wide — the most direct wellbeing concern for anyone the reader might check on.",
       "source": "KENS 5",
       "topic": "heat",
       "url": "https://www.kens5.com/article/weather/forecast/weather-impact-alert-dangerous-heat-index-high-pressure-ridge/273-600e4690-6fa2-43c9-9f7b-3642dbe4230e",
@@ -23,7 +23,7 @@
     },
     {
       "title": "Third death reported from Hill Country and South Texas flooding last week, Gov. Abbott says",
-      "summary": "The Hill Country and South Texas flooding claimed a third confirmed death per Gov. Abbott, capping a week where flood recovery, downstream flood risk, and reservoir rises all traced back to the same Hill Country rains — a somber human toll worth a gentle check-in.",
+      "summary": "The Hill Country and South Texas flooding from the prior week claimed a third life, per Gov. Abbott — a retrospective check-in that still lands given how many in the region were touched.",
       "source": "KENS 5",
       "topic": "flood",
       "url": "https://www.kens5.com/article/news/local/third-death-reported-from-hill-country-and-south-texas-flooding-last-week-gov-abbott-says/273-b0376749-339b-4fe8-808d-3da008d257be",
@@ -37,35 +37,8 @@
   ],
   "conversation_starters": [
     {
-      "title": "Faces of the Spurs listening tour: Residents excited, concerned about downtown arena, Project Marvel",
-      "summary": "The Spurs' proposed downtown arena and Project Marvel drew a listening tour full of excited and anxious residents — a live, city-shaping debate that's easy and natural to raise with anyone in San Antonio.",
-      "source": "San Antonio Report",
-      "topic": "housing",
-      "url": "https://sanantonioreport.org/spurs-listening-tour-feedback-faces/",
-      "published_at": "2026-07-23T16:24:29+00:00",
-      "image": {
-        "url": "https://i0.wp.com/sanantonioreport.org/wp-content/uploads/2026/07/SpursSports_ListeningSession_DowntownSportsArena_EntertainmentDistrict_ProjectMarvel24_07.22.2026_AmberEsparza-scaled.jpg?fit=1024%2C683&ssl=1",
-        "alt": ""
-      },
-      "description": "The conversations about a new arena district downtown ranged from concerns about affordability, traffic and transparency to fan nostalgia and anticipation for a new arena.Faces of the Spurs listening tour: Residents excited, concerned about downtown arena, Project Marvel was",
-      "logo": "https://sanantonioreport.org/wp-content/uploads/2020/09/cropped-SA_Report_Logo_512pxArtboard-1-32x32.jpg"
-    },
-    {
-      "title": "'I'm going to be depressed for a long time.' | Historic Crystal Ballroom destroyed in fire, leaving community mourning the site",
-      "summary": "The historic Crystal Ballroom was destroyed by fire, leaving the community mourning a beloved landmark — an emotionally resonant local story that people will already be talking about.",
-      "source": "KENS 5",
-      "topic": "human-interest",
-      "url": "https://www.kens5.com/article/news/local/historic-crystal-city-ballroom-destroyed-fire-community-texas/273-679cbcef-52da-4ce3-b303-8e4235046951",
-      "published_at": "2026-07-29T04:17:51+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/fdea825c-32bf-4860-888a-a15db11de3a2/20260729T035817/fdea825c-32bf-4860-888a-a15db11de3a2_750x422.jpg",
-        "alt": ""
-      },
-      "description": "The owner of the ballroom says big acts like Selena, Ramon Ayala, and Intocable performed there, and hosted many quinceaneras, weddings, and other parties."
-    },
-    {
       "title": "With bonds, beams and billions of dollars, the airport’s terminal development project is on track",
-      "summary": "The airport's multibillion-dollar terminal development project stayed on track with new bonds and beams — a big, tangible civic investment that opens an easy forward-looking conversation.",
+      "summary": "The airport terminal development project cleared its bond and funding milestones — a concrete, billions-of-dollars metro project easy to open a conversation on.",
       "source": "San Antonio Report",
       "topic": "transportation",
       "url": "https://sanantonioreport.org/with-bonds-beams-and-billions-of-dollars-the-airports-terminal-development-project-is-on-track/",
@@ -79,7 +52,7 @@
     },
     {
       "title": "Live Civil War-era ammunition found in Atascosa County safely disposed of by military officials",
-      "summary": "An Atascosa County office decoration turned out to be a live Civil War-era explosive; military officials safely disposed of it days after the discovery. A genuinely fun, jaw-dropping opener.",
+      "summary": "An Atascosa County office decoration kept for years turned out to be a live Civil War-era explosive; military officials safely disposed of it — an irresistible, widely-shareable oddity.",
       "source": "KENS 5",
       "topic": "human-interest",
       "url": "https://www.kens5.com/article/news/local/live-civil-war-era-ammunition-found-in-atascosa-county-safely-disposed-of-by-military-officials/273-19349a7b-ad00-49d5-8d14-f0c1c857c460",
@@ -119,29 +92,58 @@
       ]
     },
     {
-      "title": "Boaters return as Canyon Lake reaches full conservation pool for first time in more than 4 years",
-      "summary": "Canyon Lake reached full conservation pool for the first time in over four years and boaters returned — a rare good-news water story after years of drought that lands close to the metro.",
+      "title": "'I'm going to be depressed for a long time.' | Historic Crystal Ballroom destroyed in fire, leaving community mourning the site",
+      "summary": "The historic Crystal Ballroom was destroyed by fire, leaving the community mourning a beloved landmark — an emotionally resonant local story.",
       "source": "KENS 5",
-      "topic": "drought-water",
-      "url": "https://www.kens5.com/article/news/local/texas/canyon-lake-100-full-first-time-4-years-texas/273-7250ad51-6586-46fa-8fec-389af1d7b2bd",
-      "published_at": "2026-07-24T03:48:58+00:00",
-      "image": null,
-      "description": "The U.S. Army Corps of Engineers encourages people to have fun but keep cautious due to flood debris and other hazards on the lake."
+      "topic": "human-interest",
+      "url": "https://www.kens5.com/article/news/local/historic-crystal-city-ballroom-destroyed-fire-community-texas/273-679cbcef-52da-4ce3-b303-8e4235046951",
+      "published_at": "2026-07-29T04:17:51+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/fdea825c-32bf-4860-888a-a15db11de3a2/20260729T035817/fdea825c-32bf-4860-888a-a15db11de3a2_750x422.jpg",
+        "alt": ""
+      },
+      "description": "The owner of the ballroom says big acts like Selena, Ramon Ayala, and Intocable performed there, and hosted many quinceaneras, weddings, and other parties."
+    },
+    {
+      "title": "Invasive bamboo gets a second life helping animals at San Antonio Zoo",
+      "summary": "The San Antonio Zoo found a second life for invasive bamboo, feeding it to animals — a light, feel-good hook that gets people talking.",
+      "source": "KENS 5",
+      "topic": "human-interest",
+      "url": "https://www.kens5.com/article/news/local/brackenridge-park-bamboo-san-antonio-zoo-conservation-enrichment-invasive-wildlife-habitat-volunteers-restoration-ecosystem-browse-sustainability/273-112a49bb-9088-48e3-abae-fcc33de99541",
+      "published_at": "2026-07-28T12:36:29+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/e96303ef-39da-40df-ae78-17248de70581/20260728T123537/e96303ef-39da-40df-ae78-17248de70581_750x422.jpg",
+        "alt": ""
+      },
+      "description": "Brackenridge Park Conservancy is removing invasive bamboo and partnering with San Antonio Zoo to turn it into food and enrichment for animals."
+    },
+    {
+      "title": "AC/DC brings electric POWER UP Tour to San Antonio's Alamodome",
+      "summary": "AC/DC's POWER UP Tour is coming to the Alamodome — a big-name event opener with broad appeal.",
+      "source": "KENS 5",
+      "topic": "civic-events",
+      "url": "https://www.kens5.com/article/news/local/san-antonio-texas-satx-acdc-power-up-tour-alamodome-concert-photos-july-2026/273-831e158e-ab44-47c0-b71d-1aae3c0b6907",
+      "published_at": "2026-07-25T19:32:22+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/e6b95942-e978-4c78-81f4-d52619e08253/20260725T151734/e6b95942-e978-4c78-81f4-d52619e08253_750x422.jpg",
+        "alt": ""
+      },
+      "description": "AC/DC electrified San Antonio's Alamodome with their POWER UP Tour, delivering classic rock anthems and high-energy performances, captivating a sea of fans."
     }
   ],
   "you_should_know": [
     {
-      "title": "Mayor puts out call for help funding city-supported organizations as $158M budget gap looms",
-      "summary": "The city's looming $158M budget gap dominated the week: the mayor called on business and philanthropy for help, cuts threatened events like the Book Festival, and the story developed daily from July 25 through 27 — the most consequential context for anyone in San Antonio.",
+      "title": "At D1 town hall, Jones warns of deeper cuts ahead as she defends her budget proposals",
+      "summary": "Mayor Jones' $158M budget gap dominated the week: from asking business and philanthropy to fund city events (Fri), through the Book Festival's reaction and the funding call, to a D1 town hall (Thu) where she warned of deeper cuts ahead.",
       "source": "San Antonio Report",
       "topic": "elections-politics",
-      "url": "https://sanantonioreport.org/mayor-gina-ortiz-jones-call-for-help-city-supported-organizations-budget/",
-      "published_at": "2026-07-27T21:37:30+00:00",
+      "url": "https://sanantonioreport.org/d1-town-hall-mayor-jones-warns-deeper-cuts-ahead-budget/",
+      "published_at": "2026-07-30T18:19:47+00:00",
       "image": {
-        "url": "https://i0.wp.com/sanantonioreport.org/wp-content/uploads/2026/07/Jones_File_Amber_nonprofits-scaled.jpg?fit=1024%2C683&ssl=1",
+        "url": "https://i0.wp.com/sanantonioreport.org/wp-content/uploads/2026/07/Mayor_Gina_Ortiz_Jones_Townhall_D1_7.29.2026_Diego_Medel-31-scaled.jpg?fit=1024%2C683&ssl=1",
         "alt": ""
       },
-      "description": "Jones said those organizations strengthened San Antonio but, in a letter dated July 24, she noted a $158 million budget gap the city faces.Mayor puts out call for help funding city-supported organizations as $158M budget gap looms was first posted on July 27, 2026 at 4:37",
+      "description": "Mayor Gina Ortiz Jones told residents San Antonio faces deeper budget cuts than expected as she defended her proposal to redirect Ready to Work funds.At D1 town hall, Jones warns of deeper cuts ahead as she defends her budget proposals was first posted on July 30, 2026 at 1:19",
       "logo": "https://sanantonioreport.org/wp-content/uploads/2020/09/cropped-SA_Report_Logo_512pxArtboard-1-32x32.jpg",
       "thread": [
         {
@@ -183,12 +185,40 @@
           },
           "description": "Jones said those organizations strengthened San Antonio but, in a letter dated July 24, she noted a $158 million budget gap the city faces.Mayor puts out call for help funding city-supported organizations as $158M budget gap looms was first posted on July 27, 2026 at 4:37",
           "logo": "https://sanantonioreport.org/wp-content/uploads/2020/09/cropped-SA_Report_Logo_512pxArtboard-1-32x32.jpg"
+        },
+        {
+          "title": "At D1 town hall, Jones warns of deeper cuts ahead as she defends her budget proposals",
+          "summary": "Continuation of the SA mayor budget-deficit incident — Jones defending budget cuts and Ready to Work redirection at a town hall. A political-institutional story landing on this metro; context worth walking in aware of, unsafe as an opener. Keep as you should know.",
+          "source": "San Antonio Report",
+          "topic": "elections-politics",
+          "url": "https://sanantonioreport.org/d1-town-hall-mayor-jones-warns-deeper-cuts-ahead-budget/",
+          "published_at": "2026-07-30T18:19:47+00:00",
+          "image": {
+            "url": "https://i0.wp.com/sanantonioreport.org/wp-content/uploads/2026/07/Mayor_Gina_Ortiz_Jones_Townhall_D1_7.29.2026_Diego_Medel-31-scaled.jpg?fit=1024%2C683&ssl=1",
+            "alt": ""
+          },
+          "description": "Mayor Gina Ortiz Jones told residents San Antonio faces deeper budget cuts than expected as she defended her proposal to redirect Ready to Work funds.At D1 town hall, Jones warns of deeper cuts ahead as she defends her budget proposals was first posted on July 30, 2026 at 1:19",
+          "logo": "https://sanantonioreport.org/wp-content/uploads/2020/09/cropped-SA_Report_Logo_512pxArtboard-1-32x32.jpg"
         }
       ]
     },
     {
+      "title": "11 indicted in migrant-smuggling case linked to 7 deaths",
+      "summary": "Eleven were indicted in a migrant-smuggling case linked to seven deaths — a major in-metro enforcement development.",
+      "source": "San Antonio Report",
+      "topic": "immigration-enforcement",
+      "url": "https://sanantonioreport.org/11-indicted-in-migrant-smuggling-case-linked-to-7-deaths/",
+      "published_at": "2026-07-25T00:59:27+00:00",
+      "image": {
+        "url": "https://i0.wp.com/sanantonioreport.org/wp-content/uploads/2026/07/crop-smuggling.jpg?fit=1024%2C683&ssl=1",
+        "alt": ""
+      },
+      "description": "A federal grand jury has indicted 11 people accused of participating in a migrant-smuggling operation that resulted in seven deaths in May.11 indicted in migrant-smuggling case linked to 7 deaths was first posted on July 24, 2026 at 7:59 pm.©2021 \"San Antonio Report\". Use of",
+      "logo": "https://sanantonioreport.org/wp-content/uploads/2020/09/cropped-SA_Report_Logo_512pxArtboard-1-32x32.jpg"
+    },
+    {
       "title": "Congressman Joaquin Castro renews call to close Dilley detention center after congressional oversight visit",
-      "summary": "Rep. Joaquin Castro renewed his call to close the Dilley detention center after a congressional oversight visit — a prominent regional immigration-enforcement flashpoint to walk in aware of.",
+      "summary": "After a congressional oversight visit, Rep. Joaquin Castro renewed his call to close the Dilley detention center — a live regional immigration flashpoint.",
       "source": "KENS 5",
       "topic": "immigration-enforcement",
       "url": "https://www.kens5.com/article/news/local/congressman-joaquin-castro-close-dilley-detention-center-oversight-ice-san-antonio-texas/273-8e319d51-07a4-4aa4-b638-ab6c78c6c4e1",
@@ -201,7 +231,7 @@
     },
     {
       "title": "Kerr County records seventh rabies case after skunk found in family's yard",
-      "summary": "Kerr County logged its seventh rabies case of the season after a skunk turned up in a family's yard — a recurring public-health concern in the region worth quietly knowing about.",
+      "summary": "Kerr County logged its seventh rabies case after a skunk turned up in a family's yard — an ongoing regional public-health concern.",
       "source": "KENS 5",
       "topic": "public-health",
       "url": "https://www.kens5.com/article/life/animals/kerr-county-rabies-skunk-rancheror-oad-kerrville-animal-control-reagan-givens-vaccinations-pets-wildlife-exposure-mountain-home-safety-dogs/273-5223f5f8-281d-4d6c-9346-8559e30dc7b9",
@@ -214,7 +244,7 @@
     },
     {
       "title": "Most San Antonio school districts head into a new school year with budget deficits",
-      "summary": "Most San Antonio school districts are entering the new school year in the red — a broad education-and-fiscal story touching many families across the metro.",
+      "summary": "Most San Antonio school districts are entering the new year with budget deficits — a citywide education story with wide daily-life reach.",
       "source": "San Antonio Report",
       "topic": "education",
       "url": "https://sanantonioreport.org/san-antonio-school-districts-enter-2026-2027-with-deficits/",
@@ -225,16 +255,6 @@
       },
       "description": "Out of a dozen school districts in San Antonio, only three are likely to balance their budget for the upcoming 2026-27 school year. Most San Antonio school districts head into a new school year with budget deficits was first posted on July 28, 2026 at 5:00 am.©2021 \"San Antonio",
       "logo": "https://sanantonioreport.org/wp-content/uploads/2020/09/cropped-SA_Report_Logo_512pxArtboard-1-32x32.jpg"
-    },
-    {
-      "title": "Data centers emerge as flashpoint in Texas governor's race",
-      "summary": "Data centers have become a flashpoint in the Texas governor's race, surfacing a statewide debate over power, water, and growth that's shaping political conversation.",
-      "source": "KENS 5",
-      "topic": "data-centers",
-      "url": "https://www.kens5.com/article/news/local/texas/data-centers-ai-greg-abbott-gina-hinojosa-rural-texas-water-electricity-power-grid-campaign-governor-election-infrastructure-development/273-912a31c5-9d2d-420f-a4e8-8e517f000a8c",
-      "published_at": "2026-07-23T11:49:21+00:00",
-      "image": null,
-      "description": "Concerns over water, power and rural land are turning AI data centers into a major issue in Texas politics."
     }
   ],
   "sports": [

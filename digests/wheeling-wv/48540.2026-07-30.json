@@ -1,0 +1,55 @@
+{
+  "shortName": "Wheeling, WV",
+  "metroCode": "48540",
+  "metro": "Wheeling, WV-OH",
+  "date": "2026-07-30",
+  "are_you_ok": [],
+  "conversation_starters": [
+    {
+      "title": "July 21st had the 2nd highest tornado count in state history",
+      "summary": "Just-happened big-weather item people ask each other about — 2nd-highest tornado count in state history. Retrospective-leaning but tied to the recent outbreak and locally resonant. You could open with: 'Did you hear July 21st was the second-biggest tornado day in state history?'",
+      "source": "WV MetroNews",
+      "topic": "severe-weather",
+      "url": "https://wvmetronews.com/2026/07/30/july-21st-had-the-2nd-highest-tornado-count-in-state-history/",
+      "published_at": "2026-07-30T18:41:59+00:00",
+      "image": {
+        "url": "https://s3.us-east-005.backblazeb2.com/wvmn-s3/2026/07/Tree-on-Car-300x139.jpg",
+        "alt": ""
+      },
+      "description": "CHARLESTON, WV – While West Virginia typically averages only about two tornadoes per year, the state has experienced several significant outbreaks that brought multiple tornadoes in a single day. In recent years, advancements in technology—like drones and widespread security",
+      "logo": "https://s3.us-east-005.backblazeb2.com/wvmn-s3/2024/07/cropped-metro-icon-32x32.png"
+    }
+  ],
+  "sports": [],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "Building permit fees in Buckhannon waived, recovery continues in Lewis County",
+      "summary": "Continuation of Lewis County flood recovery. Permit-fee waiver is relief/mitigation, not a check-in event, but it's ongoing local-impact context worth walking in aware of for someone in the affected area.",
+      "source": "WV MetroNews",
+      "topic": "flood",
+      "url": "https://wvmetronews.com/2026/07/30/building-permit-fees-in-buckhannon-waived-recovery-continues-in-lewis-county/",
+      "published_at": "2026-07-30T18:55:50+00:00",
+      "image": {
+        "url": "https://s3.us-east-005.backblazeb2.com/wvmn-s3/2026/07/05826f69-ede4-4f20-8dd3-7ee2d9703e33-300x225.jpg",
+        "alt": ""
+      },
+      "description": "Some adjustments being made in recovery. The post Building permit fees in Buckhannon waived, recovery continues in Lewis County appeared first on WV MetroNews.",
+      "logo": "https://s3.us-east-005.backblazeb2.com/wvmn-s3/2024/07/cropped-metro-icon-32x32.png"
+    },
+    {
+      "title": "DOH: Route 3 in Raleigh County blocked by huge boulders",
+      "summary": "Route 3 blocked by boulder slide near Sundial — infrastructure/road closure affecting local travel. Bounded to a single road segment, so awareness context rather than a broad check-in.",
+      "source": "WV MetroNews",
+      "topic": "transportation",
+      "url": "https://wvmetronews.com/2026/07/30/doh-route-3-in-raleigh-county-blocked-by-huge-boulders/",
+      "published_at": "2026-07-30T17:12:49+00:00",
+      "image": {
+        "url": "https://s3.us-east-005.backblazeb2.com/wvmn-s3/2026/07/Sundial_slide_1-300x139.jpg",
+        "alt": ""
+      },
+      "description": "Slide occurred early Thursday morning near Sundial. The post DOH: Route 3 in Raleigh County blocked by huge boulders appeared first on WV MetroNews.",
+      "logo": "https://s3.us-east-005.backblazeb2.com/wvmn-s3/2024/07/cropped-metro-icon-32x32.png"
+    }
+  ]
+}

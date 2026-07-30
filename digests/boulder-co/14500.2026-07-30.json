@@ -1,0 +1,64 @@
+{
+  "shortName": "Boulder, CO",
+  "metroCode": "14500",
+  "metro": "Boulder, CO",
+  "date": "2026-07-30",
+  "are_you_ok": [
+    {
+      "title": "Isolated storms could turn severe near Denver before a very hot weekend",
+      "summary": "Isolated storms could turn severe near Denver ahead of hot weekend — coming acute weather event with possible severe impacts on the metro. Continues co-monsoon-severe-storms.",
+      "source": "CBS Colorado",
+      "topic": "severe-weather",
+      "url": "https://www.cbsnews.com/colorado/video/isolated-storms-could-turn-severe-near-denver-before-a-very-hot-weekend/",
+      "published_at": "2026-07-30T18:40:00+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/07/30/b03cd051-e50e-4e6c-9a09-bfecb9bfe4ec/thumbnail/1024x576/80275bb2c4847eb6ce8889d014a5f89b/3fe07d27499197f7175e659d619b1ec5.jpg",
+        "alt": ""
+      },
+      "description": "Watch Lauren Whitney's forecast",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    }
+  ],
+  "conversation_starters": [
+    {
+      "title": "Aurora transforming Great Lawn of Aurora Municipal Center to water-efficient turf",
+      "summary": "Aurora converting Great Lawn to water-efficient turf amid drought — mitigation/adaptation story, positive framing, so conversation starter not check-in. You could open with: 'Did you see Aurora is ripping out the Great Lawn for drought-friendly turf?' Continues eagle-county-water-conservation-signs.",
+      "source": "CBS Colorado",
+      "topic": "drought-water",
+      "url": "https://www.cbsnews.com/colorado/video/aurora-transforming-great-lawn-of-aurora-municipal-center-to-water-efficient-turf/",
+      "published_at": "2026-07-30T17:27:00+00:00",
+      "image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/07/30/12880b30-59ca-4c1e-b6df-bc79738d2783/thumbnail/1024x576/2127fe3905afa4b5341bce6d8fd56d8a/350c868d6aa5be945ec7290745bb2308.jpg",
+        "alt": ""
+      },
+      "description": "Aurora is transforming the Great Lawn of the Aurora Municipal Center to water-efficient turf amid drought conditions.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    }
+  ],
+  "sports": [],
+  "weather_alert": [
+    {
+      "event": "Air Quality Alert",
+      "area": "Boulder",
+      "severity": "Unknown",
+      "summary": "Air Quality Alert — Boulder, through Thursday",
+      "description": "Air Quality Alert issued July 29 at 4:10PM MDT by NWS Denver CO\n\nThe Colorado Department of Public Health and Environment has\nissued the following...\n\nWHAT...Ozone Action Day Alert.\n\nWHERE...Douglas, Jefferson, Denver, western Arapahoe, western\nAdams, Broomfield, Boulder, Larimer, and Weld Counties\n\nWHEN...400 PM Wednesday July 29 to 400 PM Thursday July 30\n\nIMPACTS...Ozone Action Day Alert is now in effect for the Front\nRange Urban Corridor.  Ozone is expected to be in the Moderate\ncategory on Wednesday, but will reach the Unhealthy for Sensitive\nGroups level on Thursday.  For Colorado air quality conditions,\nforecasts, and advisories, visit:\nhttps://www.colorado.gov/airquality/colorado_summary.aspx   If\npossible, please help us reduce ozone pollution by limiting\ndriving gas and diesel-powered vehicles until at least 4 p.m.\nThursday, July 30, 2026. Colorado is also addressing ozone\npollution through state policies. For more information about\nhealth impacts and how ozone pollution forms in Colorado, visit:\nhttps://cdphe.colorado.gov/ozone- pollution-and-your-health\n\nHEALTH INFORMATION...Increasing likelihood of respiratory symptoms\nand breathing discomfort in active children and adults and people\nwith lung disease, such as asthma. Active children and adults, and\npeople with lung disease, such as asthma, should reduce prolonged\nor heavy outdoor exertion.",
+      "ends": "2026-07-30T16:00:00-06:00"
+    }
+  ],
+  "you_should_know": [
+    {
+      "title": "Cargill reaches tentative agreement with union representing Fort Morgan beef plant workers",
+      "summary": "Tentative deal to end 2-month lockout at major Cargill beef plant — labor outcome affecting a large local employer/workforce. Institutional labor context; you-should-know. Continues cargill-fort-morgan-lockout.",
+      "source": "9NEWS",
+      "topic": "business-jobs",
+      "url": "https://www.9news.com/article/money/business/cargill-reaches-tentative-agreement-union-representing-fort-morgan-beef-plant-workers/73-2220ea73-e522-4016-918e-77f7c9aea432",
+      "published_at": "2026-07-30T19:20:25+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/dd64de9d-7f11-45d0-a07b-9638b6ab34e9/20260520T180607/dd64de9d-7f11-45d0-a07b-9638b6ab34e9_750x422.jpg",
+        "alt": ""
+      },
+      "description": "If ratified by union members, the deal would end an employee lockout that has lasted for more than two months."
+    }
+  ]
+}

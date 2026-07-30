@@ -70,7 +70,16 @@
       ]
     }
   ],
-  "weather_alert": [],
+  "weather_alert": [
+    {
+      "event": "Air Quality Alert",
+      "area": "Boulder",
+      "severity": "Unknown",
+      "summary": "Air Quality Alert — Boulder, through Thursday",
+      "description": "Air Quality Alert issued July 29 at 4:10PM MDT by NWS Denver CO\n\nThe Colorado Department of Public Health and Environment has\nissued the following...\n\nWHAT...Ozone Action Day Alert.\n\nWHERE...Douglas, Jefferson, Denver, western Arapahoe, western\nAdams, Broomfield, Boulder, Larimer, and Weld Counties\n\nWHEN...400 PM Wednesday July 29 to 400 PM Thursday July 30\n\nIMPACTS...Ozone Action Day Alert is now in effect for the Front\nRange Urban Corridor.  Ozone is expected to be in the Moderate\ncategory on Wednesday, but will reach the Unhealthy for Sensitive\nGroups level on Thursday.  For Colorado air quality conditions,\nforecasts, and advisories, visit:\nhttps://www.colorado.gov/airquality/colorado_summary.aspx   If\npossible, please help us reduce ozone pollution by limiting\ndriving gas and diesel-powered vehicles until at least 4 p.m.\nThursday, July 30, 2026. Colorado is also addressing ozone\npollution through state policies. For more information about\nhealth impacts and how ozone pollution forms in Colorado, visit:\nhttps://cdphe.colorado.gov/ozone- pollution-and-your-health\n\nHEALTH INFORMATION...Increasing likelihood of respiratory symptoms\nand breathing discomfort in active children and adults and people\nwith lung disease, such as asthma. Active children and adults, and\npeople with lung disease, such as asthma, should reduce prolonged\nor heavy outdoor exertion.",
+      "ends": "2026-07-30T16:00:00-06:00"
+    }
+  ],
   "you_should_know": [
     {
       "title": "RTD plans to fill budget shortfall by cutting some routes to avoid raising fares",

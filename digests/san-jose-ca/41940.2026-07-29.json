@@ -1,0 +1,100 @@
+{
+  "shortName": "San Jose, CA",
+  "metroCode": "41940",
+  "metro": "San Jose-Sunnyvale-Santa Clara, CA",
+  "date": "2026-07-29",
+  "are_you_ok": [
+    {
+      "title": "Health officials announce 2 human cases of West Nile Virus in the South Bay",
+      "summary": "2 human West Nile cases in South Bay — public-health exposure landing on the metro population. Continuation.",
+      "source": "Local – NBC Bay Area",
+      "topic": "public-health",
+      "url": "https://www.nbcbayarea.com/news/local/human-cases-west-nile-virus-south-bay/4120852/",
+      "published_at": "2026-07-29T06:35:56+00:00",
+      "image": {
+        "url": "https://media.nbcbayarea.com/2026/07/49994448154-1080pnbcstations.jpg?quality=85&strip=all&fit=1920,1080",
+        "alt": ""
+      },
+      "logo": "https://media.nbcbayarea.com/2024/08/KNTV_station_logo_light.png?fit=327%2C58&quality=85&strip=all"
+    }
+  ],
+  "conversation_starters": [
+    {
+      "title": "San Francisco rent report: 1- and 2-bedroom median rents hit record highs",
+      "summary": "SF rents hit record highs — widely-known metro condition, work-safe opener. You could open with: 'Did you catch that SF rents just hit a record high again?' Continuation.",
+      "source": "Local – NBC Bay Area",
+      "topic": "housing",
+      "url": "https://www.nbcbayarea.com/news/local/bay-area-rent-san-francisco-san-jose/4120801/",
+      "published_at": "2026-07-29T05:53:53+00:00",
+      "image": {
+        "url": "https://media.nbcbayarea.com/2026/07/SF-Housing_03590d.png?fit=1920,1080&quality=85&strip=all",
+        "alt": ""
+      },
+      "logo": "https://media.nbcbayarea.com/2024/08/KNTV_station_logo_light.png?fit=327%2C58&quality=85&strip=all"
+    },
+    {
+      "title": "‘I love what I do': Lifeguard behind Santa Cruz beach rescue releases statement",
+      "summary": "Continuation of lifeguard rescue story, good opener. You could open with: 'Have you seen that lifeguard's statement about the Santa Cruz rescue?'",
+      "source": "Local – NBC Bay Area",
+      "topic": "human-interest",
+      "url": "https://www.nbcbayarea.com/news/local/lifeguard-saves-child-santa-cruz-beach-statement/4120984/",
+      "published_at": "2026-07-29T09:21:02+00:00",
+      "image": {
+        "url": "https://media.nbcbayarea.com/2026/07/49931293546-1080pnbcstations.jpg?quality=85&strip=all&fit=1920,1080",
+        "alt": ""
+      },
+      "logo": "https://media.nbcbayarea.com/2024/08/KNTV_station_logo_light.png?fit=327%2C58&quality=85&strip=all"
+    },
+    {
+      "title": "‘Terrified' dog spent 2 days in Caltrain tunnel in San Francisco before being rescued",
+      "summary": "Dog rescued from Caltrain tunnel — light, feel-good local story. You could open with: 'Did you see that dog they pulled out of the Caltrain tunnel?'",
+      "source": "Local – NBC Bay Area",
+      "topic": "human-interest",
+      "url": "https://www.nbcbayarea.com/news/local/dog-rescued-caltrain-tunnel/4120674/",
+      "published_at": "2026-07-29T01:02:43+00:00",
+      "image": {
+        "url": "https://media.nbcbayarea.com/2026/07/image_09be0d.jpg?quality=85&strip=all&fit=1500,846",
+        "alt": ""
+      },
+      "logo": "https://media.nbcbayarea.com/2024/08/KNTV_station_logo_light.png?fit=327%2C58&quality=85&strip=all"
+    }
+  ],
+  "sports": [],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "Foreign student visa restrictions to hit Silicon Valley",
+      "summary": "Same federal student-visa restriction story hitting Silicon Valley as [3]; immigration-policy context. Same incident id.",
+      "source": "San José Spotlight",
+      "topic": "immigration-enforcement",
+      "url": "https://sanjosespotlight.com/foreign-student-visa-restrictions-to-hit-silicon-valley/",
+      "published_at": "2026-07-29T15:30:27+00:00",
+      "image": null,
+      "description": "New federal regulations will restrict how long international students can attend U.S. colleges, and schools are scrambling to work through the problem as the fall semester begins. The U.S. Department of Homeland Security (DHS) has finalized a rule that limits most international"
+    },
+    {
+      "title": "San Jose Japantown stages ICE facility protest",
+      "summary": "Same Japantown/Gilroy ICE facility rally as [10]; forward-looking institutional immigration story — you-should-know. Same incident id.",
+      "source": "San José Spotlight",
+      "topic": "immigration-enforcement",
+      "url": "https://sanjosespotlight.com/san-jose-japantown-stages-ice-facility-protest/",
+      "published_at": "2026-07-29T23:00:12+00:00",
+      "image": null,
+      "description": "Grassroots organizers and South Bay political leaders drew together for a rally in San Jose’s Japantown Wednesday in a show of unified opposition against a planned ICE facility taking shape in South County. The rally held in front of the historic Issei Memorial Building took"
+    },
+    {
+      "title": "James Beere sworn in as Oakland's police chief",
+      "summary": "New Oakland police chief sworn in — local policing/institutional context. Continuation.",
+      "source": "Local – NBC Bay Area",
+      "topic": "policing",
+      "url": "https://www.nbcbayarea.com/news/local/james-beere-to-be-sworn-in-as-oakland-police-chief/4120492/",
+      "published_at": "2026-07-29T07:55:14+00:00",
+      "image": {
+        "url": "https://media.nbcbayarea.com/2026/07/49988418799-1080pnbcstations.jpg?quality=85&strip=all&fit=1920,1080",
+        "alt": ""
+      },
+      "description": "James Beere is sworn in as Oakland’s new police chief. (July 29, 2026)",
+      "logo": "https://media.nbcbayarea.com/2024/08/KNTV_station_logo_light.png?fit=327%2C58&quality=85&strip=all"
+    }
+  ]
+}

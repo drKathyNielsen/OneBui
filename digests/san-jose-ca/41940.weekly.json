@@ -1,0 +1,237 @@
+{
+  "period": "weekly",
+  "shortName": "San Jose, CA",
+  "metroCode": "41940",
+  "metro": "San Jose-Sunnyvale-Santa Clara, CA",
+  "range": {
+    "start": "2026-07-24",
+    "end": "2026-07-30"
+  },
+  "are_you_ok": [
+    {
+      "title": "Health officials announce 2 human cases of West Nile Virus in the South Bay",
+      "summary": "Two confirmed human West Nile Virus cases in the South Bay landed in-metro this week, a direct public-health concern for anyone the reader might be checking on.",
+      "source": "Local – NBC Bay Area",
+      "topic": "public-health",
+      "url": "https://www.nbcbayarea.com/news/local/human-cases-west-nile-virus-south-bay/4120852/",
+      "published_at": "2026-07-29T06:35:56+00:00",
+      "image": {
+        "url": "https://media.nbcbayarea.com/2026/07/49994448154-1080pnbcstations.jpg?quality=85&strip=all&fit=1920,1080",
+        "alt": ""
+      },
+      "logo": "https://media.nbcbayarea.com/2024/08/KNTV_station_logo_light.png?fit=327%2C58&quality=85&strip=all"
+    },
+    {
+      "title": "Crash, downed power lines, brush fire snarl traffic in Novato",
+      "summary": "A Novato crash brought down power lines and sparked a brush fire, snarling traffic — a jarring day for anyone caught nearby, though further from the reader's metro.",
+      "source": "Local – NBC Bay Area",
+      "topic": "transportation",
+      "url": "https://www.nbcbayarea.com/news/local/highways-101-37-shut-down-novato/4121193/",
+      "published_at": "2026-07-30T10:31:45+00:00",
+      "image": {
+        "url": "https://media.nbcbayarea.com/2026/07/NOVATO-TRAFFIC.jpg?quality=85&strip=all&fit=1536,864",
+        "alt": ""
+      },
+      "description": "A crash and fire shuts down traffic on Highway 101 in Novato. (July 30, 2027)",
+      "logo": "https://media.nbcbayarea.com/2024/08/KNTV_station_logo_light.png?fit=327%2C58&quality=85&strip=all"
+    }
+  ],
+  "conversation_starters": [
+    {
+      "title": "San Francisco rent report: 1- and 2-bedroom median rents hit record highs",
+      "summary": "San Francisco's 1- and 2-bedroom median rents hit record highs this week — a housing-cost story that touches everyone and opens easily into cost-of-living talk.",
+      "source": "Local – NBC Bay Area",
+      "topic": "housing",
+      "url": "https://www.nbcbayarea.com/news/local/bay-area-rent-san-francisco-san-jose/4120801/",
+      "published_at": "2026-07-29T05:53:53+00:00",
+      "image": {
+        "url": "https://media.nbcbayarea.com/2026/07/SF-Housing_03590d.png?fit=1920,1080&quality=85&strip=all",
+        "alt": ""
+      },
+      "logo": "https://media.nbcbayarea.com/2024/08/KNTV_station_logo_light.png?fit=327%2C58&quality=85&strip=all"
+    },
+    {
+      "title": "Father of boy rescued in Santa Cruz says he is beyond grateful to teen lifeguard",
+      "summary": "A teen Santa Cruz lifeguard's beach rescue became a feel-good arc across the week — from word of a coming national honor (Mon) to the lifeguard's own statement (Wed) to the rescued boy's grateful father (Thu).",
+      "source": "Local – NBC Bay Area",
+      "topic": "human-interest",
+      "url": "https://www.nbcbayarea.com/news/local/father-boy-rescued-santa-cruz-grateful-lifeguard/4121041/",
+      "published_at": "2026-07-30T09:43:04+00:00",
+      "image": {
+        "url": "https://media.nbcbayarea.com/2026/07/image_ba3e8e.jpg?quality=85&strip=all&fit=1500,846",
+        "alt": ""
+      },
+      "logo": "https://media.nbcbayarea.com/2024/08/KNTV_station_logo_light.png?fit=327%2C58&quality=85&strip=all",
+      "thread": [
+        {
+          "title": "‘He deserves it!' Santa Cruz lifeguard who saved boy to receive high honor, Trump says",
+          "summary": "Feel-good local story with Trump honor angle adds novelty. You could open with: Did you hear that lifeguard who saved the boy in Santa Cruz is getting a special honor from Trump?",
+          "source": "Local – NBC Bay Area",
+          "topic": "human-interest",
+          "url": "https://www.nbcbayarea.com/news/local/santa-cruz-lifeguard-high-honor-trump/4120068/",
+          "published_at": "2026-07-28T12:27:14+00:00",
+          "image": {
+            "url": "https://media.nbcbayarea.com/2026/07/Lifeguard-Rescue.png?fit=1920,1080&quality=85&strip=all",
+            "alt": ""
+          },
+          "logo": "https://media.nbcbayarea.com/2024/08/KNTV_station_logo_light.png?fit=327%2C58&quality=85&strip=all"
+        },
+        {
+          "title": "‘I love what I do': Lifeguard behind Santa Cruz beach rescue releases statement",
+          "summary": "Continuation of lifeguard rescue story, good opener. You could open with: 'Have you seen that lifeguard's statement about the Santa Cruz rescue?'",
+          "source": "Local – NBC Bay Area",
+          "topic": "human-interest",
+          "url": "https://www.nbcbayarea.com/news/local/lifeguard-saves-child-santa-cruz-beach-statement/4120984/",
+          "published_at": "2026-07-29T09:21:02+00:00",
+          "image": {
+            "url": "https://media.nbcbayarea.com/2026/07/49931293546-1080pnbcstations.jpg?quality=85&strip=all&fit=1920,1080",
+            "alt": ""
+          },
+          "logo": "https://media.nbcbayarea.com/2024/08/KNTV_station_logo_light.png?fit=327%2C58&quality=85&strip=all"
+        },
+        {
+          "title": "Father of boy rescued in Santa Cruz says he is beyond grateful to teen lifeguard",
+          "summary": "Heartwarming local rescue story, good opener. You could open with: 'Did you hear about that teen lifeguard who saved a kid in Santa Cruz?'",
+          "source": "Local – NBC Bay Area",
+          "topic": "human-interest",
+          "url": "https://www.nbcbayarea.com/news/local/father-boy-rescued-santa-cruz-grateful-lifeguard/4121041/",
+          "published_at": "2026-07-30T09:43:04+00:00",
+          "image": {
+            "url": "https://media.nbcbayarea.com/2026/07/image_ba3e8e.jpg?quality=85&strip=all&fit=1500,846",
+            "alt": ""
+          },
+          "logo": "https://media.nbcbayarea.com/2024/08/KNTV_station_logo_light.png?fit=327%2C58&quality=85&strip=all"
+        }
+      ]
+    },
+    {
+      "title": "4.3 earthquake rattles downtown Cloverdale in Sonoma County, no major damage reported",
+      "summary": "A 4.3 quake rattled downtown Cloverdale early in the week with no major damage — the more notable of two separate Bay Area quakes, an easy 'did you feel it' opener.",
+      "source": "Local – NBC Bay Area",
+      "topic": "severe-weather",
+      "url": "https://www.nbcbayarea.com/news/local/sonoma-county-cloverdale-earthquake/2490394/",
+      "published_at": "2026-07-28T08:16:52+00:00",
+      "image": {
+        "url": "https://media.nbcbayarea.com/2026/07/49974408887-1080pnbcstations.jpg?quality=85&strip=all&fit=1920,1080",
+        "alt": ""
+      },
+      "logo": "https://media.nbcbayarea.com/2024/08/KNTV_station_logo_light.png?fit=327%2C58&quality=85&strip=all"
+    },
+    {
+      "title": "Preliminary 2.8 magnitude earthquake strikes near Gilroy",
+      "summary": "A preliminary 2.8 near Gilroy added to the week's small-quake chatter — minor, but a natural conversational aftershock to the Cloverdale one.",
+      "source": "Local – NBC Bay Area",
+      "topic": "severe-weather",
+      "url": "https://www.nbcbayarea.com/news/local/gilroy-earthquake-2-8-magnitude/4121103/",
+      "published_at": "2026-07-30T07:17:07+00:00",
+      "image": {
+        "url": "https://media.nbcbayarea.com/2024/02/GettyImages-1477081099-e1765894882311.jpg?quality=85&strip=all&fit=1200,800",
+        "alt": ""
+      },
+      "description": "File. Earthquake Seismograph. 3D Render",
+      "logo": "https://media.nbcbayarea.com/2024/08/KNTV_station_logo_light.png?fit=327%2C58&quality=85&strip=all"
+    },
+    {
+      "title": "‘Terrified' dog spent 2 days in Caltrain tunnel in San Francisco before being rescued",
+      "summary": "A terrified dog spent two days trapped in a San Francisco Caltrain tunnel before being rescued — a light human-interest tale that gets people talking.",
+      "source": "Local – NBC Bay Area",
+      "topic": "human-interest",
+      "url": "https://www.nbcbayarea.com/news/local/dog-rescued-caltrain-tunnel/4120674/",
+      "published_at": "2026-07-29T01:02:43+00:00",
+      "image": {
+        "url": "https://media.nbcbayarea.com/2026/07/image_09be0d.jpg?quality=85&strip=all&fit=1500,846",
+        "alt": ""
+      },
+      "logo": "https://media.nbcbayarea.com/2024/08/KNTV_station_logo_light.png?fit=327%2C58&quality=85&strip=all"
+    }
+  ],
+  "you_should_know": [
+    {
+      "title": "Foreign student visa restrictions to hit Silicon Valley",
+      "summary": "Foreign student visa restrictions set to hit Silicon Valley dominated the week's you-should-know as a direct concern for the metro's tech and university workforce, carried across two days.",
+      "source": "San José Spotlight",
+      "topic": "immigration-enforcement",
+      "url": "https://sanjosespotlight.com/foreign-student-visa-restrictions-to-hit-silicon-valley/",
+      "published_at": "2026-07-29T15:30:27+00:00",
+      "image": null,
+      "description": "New federal regulations will restrict how long international students can attend U.S. colleges, and schools are scrambling to work through the problem as the fall semester begins. The U.S. Department of Homeland Security (DHS) has finalized a rule that limits most international",
+      "thread": [
+        {
+          "title": "Foreign student visa restrictions to hit Silicon Valley",
+          "summary": "Same federal student-visa restriction story hitting Silicon Valley as [3]; immigration-policy context. Same incident id.",
+          "source": "San José Spotlight",
+          "topic": "immigration-enforcement",
+          "url": "https://sanjosespotlight.com/foreign-student-visa-restrictions-to-hit-silicon-valley/",
+          "published_at": "2026-07-29T15:30:27+00:00",
+          "image": null,
+          "description": "New federal regulations will restrict how long international students can attend U.S. colleges, and schools are scrambling to work through the problem as the fall semester begins. The U.S. Department of Homeland Security (DHS) has finalized a rule that limits most international"
+        },
+        {
+          "title": "Foreign student visa restrictions to hit Silicon Valley",
+          "summary": "Federal student visa restrictions hitting Silicon Valley schools; immigration-policy context landing on the metro. Continuation.",
+          "source": "Local – NBC Bay Area",
+          "topic": "immigration-enforcement",
+          "url": "https://www.nbcbayarea.com/news/local/foreign-student-visa-restrictions/4121238/",
+          "published_at": "2026-07-30T11:26:58+00:00",
+          "image": {
+            "url": "https://media.nbcbayarea.com/2019/09/sjsu-campus-generic.jpg?quality=85&strip=all&fit=1920,1080",
+            "alt": ""
+          },
+          "description": "San Jose State University",
+          "logo": "https://media.nbcbayarea.com/2024/08/KNTV_station_logo_light.png?fit=327%2C58&quality=85&strip=all"
+        }
+      ]
+    },
+    {
+      "title": "PG&E faces backlash over rate hike request for $26.6M shareholder reward",
+      "summary": "PG&E drew backlash for tying a rate-hike request to a $26.6M shareholder reward — a pocketbook story landing on nearly every household's utility bill.",
+      "source": "Local – NBC Bay Area",
+      "topic": "business-jobs",
+      "url": "https://www.nbcbayarea.com/news/local/pge-faces-backlash-over-rate-hike-request-for-26-6m-shareholder-reward/4120236/",
+      "published_at": "2026-07-28T06:44:41+00:00",
+      "image": {
+        "url": "https://media.nbcbayarea.com/2026/07/PGE-faces-backlash-over-rate-hike-request-for-26.6M-shareholder-reward.jpg?quality=85&strip=all&fit=1920,1080",
+        "alt": ""
+      },
+      "logo": "https://media.nbcbayarea.com/2024/08/KNTV_station_logo_light.png?fit=327%2C58&quality=85&strip=all"
+    },
+    {
+      "title": "San Jose Japantown stages ICE facility protest",
+      "summary": "San Jose Japantown staged a protest at an ICE facility, a visible in-metro flashpoint in the week's immigration-enforcement thread.",
+      "source": "San José Spotlight",
+      "topic": "immigration-enforcement",
+      "url": "https://sanjosespotlight.com/san-jose-japantown-stages-ice-facility-protest/",
+      "published_at": "2026-07-29T23:00:12+00:00",
+      "image": null,
+      "description": "Grassroots organizers and South Bay political leaders drew together for a rally in San Jose’s Japantown Wednesday in a show of unified opposition against a planned ICE facility taking shape in South County. The rally held in front of the historic Issei Memorial Building took"
+    },
+    {
+      "title": "SF Mayor Daniel Lurie signs largest city budget ever",
+      "summary": "SF Mayor Daniel Lurie signed the largest city budget in San Francisco's history, setting the region's fiscal tone for the year ahead.",
+      "source": "Local – NBC Bay Area",
+      "topic": "elections-politics",
+      "url": "https://www.nbcbayarea.com/news/local/san-francisco-16-9-billion-budget/4121212/",
+      "published_at": "2026-07-30T11:23:51+00:00",
+      "image": {
+        "url": "https://media.nbcbayarea.com/2026/07/50012174349-1080pnbcstations.jpg?quality=85&strip=all&fit=1920,1080",
+        "alt": ""
+      },
+      "logo": "https://media.nbcbayarea.com/2024/08/KNTV_station_logo_light.png?fit=327%2C58&quality=85&strip=all"
+    },
+    {
+      "title": "SFPD to step up patrols in Mid-Market following string of shootings",
+      "summary": "SFPD announced stepped-up Mid-Market patrols after a string of shootings — a local safety story worth walking in aware of, distinct from the week's other policing items.",
+      "source": "Local – NBC Bay Area",
+      "topic": "policing",
+      "url": "https://www.nbcbayarea.com/news/local/san-francisco-mid-market-police-presence/4121272/",
+      "published_at": "2026-07-30T12:46:39+00:00",
+      "image": {
+        "url": "https://media.nbcbayarea.com/2022/04/SFPD.jpg?quality=85&strip=all&fit=1920,1080",
+        "alt": ""
+      },
+      "description": "File image of San Francisco police cars.",
+      "logo": "https://media.nbcbayarea.com/2024/08/KNTV_station_logo_light.png?fit=327%2C58&quality=85&strip=all"
+    }
+  ],
+  "sports": []
+}

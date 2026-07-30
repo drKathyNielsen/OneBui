@@ -4,13 +4,57 @@
   "metroCode": "16740",
   "metro": "Charlotte-Concord-Gastonia, NC-SC",
   "range": {
-    "start": "2026-07-23",
-    "end": "2026-07-29"
+    "start": "2026-07-24",
+    "end": "2026-07-30"
   },
   "are_you_ok": [
     {
+      "title": "Severe storms possible Tuesday in the Charlotte area",
+      "summary": "The metro's own weather story of the week: heat built back up Monday and strong-to-severe storms threatened the Charlotte area Tuesday — the closest, broadest hit on people the reader might be checking on.",
+      "source": "Queen City News",
+      "topic": "severe-weather",
+      "url": "https://www.qcnews.com/weather/weather-forecast/severe-storms-possible-tuesday-in-the-charlotte-area/",
+      "published_at": "2026-07-28T10:43:24+00:00",
+      "image": {
+        "url": "https://www.qcnews.com/wp-content/uploads/sites/109/2026/07/NOON-FUTURECAST.png?w=900",
+        "alt": ""
+      },
+      "description": "We are tracking the threat for severe weather Tuesday, but there is a good amount of uncertainty about how significant the threat will be.",
+      "logo": "https://www.qcnews.com/wp-content/uploads/sites/109/2025/05/cropped-Site-Icon.png?w=32",
+      "thread": [
+        {
+          "title": "Temperatures heat back up Monday; strong to severe storms possible on Tuesday",
+          "summary": "Incoming heat and possible severe storms across the metro; diffuse effect reaching the region. What's coming, people will ask each other.",
+          "source": "Queen City News",
+          "topic": "severe-weather",
+          "url": "https://www.qcnews.com/weather/weather-forecast/temperatures-heat-back-up-monday-strong-to-severe-storms-possible-on-tuesday/",
+          "published_at": "2026-07-27T11:21:28+00:00",
+          "image": {
+            "url": "https://www.qcnews.com/wp-content/uploads/sites/109/2026/07/MONDAY-HIGH-TEMPS.png?w=900",
+            "alt": ""
+          },
+          "description": "The good news is that we have a brighter day ahead; the bad news is that temperatures are going to be much hotter, with highs in the upper 80s and low 90s.",
+          "logo": "https://www.qcnews.com/wp-content/uploads/sites/109/2025/05/cropped-Site-Icon.png?w=32"
+        },
+        {
+          "title": "Severe storms possible Tuesday in the Charlotte area",
+          "summary": "Incoming severe weather threat for the Charlotte metro — a just-ahead event the broad local population is affected by. Continuation of the Tuesday-storms tracking.",
+          "source": "Queen City News",
+          "topic": "severe-weather",
+          "url": "https://www.qcnews.com/weather/weather-forecast/severe-storms-possible-tuesday-in-the-charlotte-area/",
+          "published_at": "2026-07-28T10:43:24+00:00",
+          "image": {
+            "url": "https://www.qcnews.com/wp-content/uploads/sites/109/2026/07/NOON-FUTURECAST.png?w=900",
+            "alt": ""
+          },
+          "description": "We are tracking the threat for severe weather Tuesday, but there is a good amount of uncertainty about how significant the threat will be.",
+          "logo": "https://www.qcnews.com/wp-content/uploads/sites/109/2025/05/cropped-Site-Icon.png?w=32"
+        }
+      ]
+    },
+    {
       "title": "Caldwell County sheriff confirms deputies assisted in ICE operation in Wilson Creek; 13 arrests made",
-      "summary": "Caldwell County deputies assisted an ICE operation in Wilson Creek that ended in 13 arrests — a nearby enforcement action likely rippling through immigrant families and coworkers the reader may be checking on.",
+      "summary": "Caldwell County deputies confirmed assisting an ICE operation in Wilson Creek with 13 arrests — an enforcement action rippling anxiety through immigrant families the reader may be worried about.",
       "source": "NBC Charlotte",
       "topic": "immigration-enforcement",
       "url": "https://www.wcnc.com/article/news/politics/immigration-news/dhs-ice-operation-caldwell-county-nc/275-57441f1e-eab7-4812-827c-e6d96421b6eb",
@@ -20,45 +64,35 @@
         "alt": ""
       },
       "description": "Caldwell County deputies assisted federal agents in an ICE operation on Sunday at Wilson Creek, resulting in 13 arrests, Sheriff Kevin Bean confirmed."
-    },
-    {
-      "title": "Attorneys for Charlotte mothers arrested during immigration operation prepare for legal fight",
-      "summary": "Attorneys for Charlotte mothers arrested during an immigration operation geared up for a legal fight, a city-level enforcement story hitting close to home for families the reader might be worried about.",
-      "source": "NBC Charlotte",
-      "topic": "immigration-enforcement",
-      "url": "https://www.wcnc.com/article/news/local/attorneys-for-charlotte-mothers-arrested-during-immigration-operation-prepare-for-legal-fight/275-88bf2552-de95-4323-a3ae-819a95580b25",
-      "published_at": "2026-07-23T16:29:44+00:00",
-      "image": null,
-      "description": "The attorneys representing two Charlotte mothers arrested says they're now representing multiple people who report similar encounters."
     }
   ],
   "conversation_starters": [
     {
-      "title": "24 Hours of Booty raises over $1.6 Million during 25th anniversary event in Charlotte",
-      "summary": "24 Hours of Booty's 25th-anniversary ride raised over $1.6 million in Charlotte — a feel-good milestone that's easy to bring up and invites a real exchange.",
-      "source": "Queen City News",
-      "topic": "civic-events",
-      "url": "https://www.qcnews.com/24-foundation/24-hours-of-booty-raises-over-1-6-million-during-25th-anniversary-event-in-charlotte/",
-      "published_at": "2026-07-29T13:26:12+00:00",
+      "title": "Charlotte developer behind River District lays off 15% of staff, cites market slowdown",
+      "summary": "The Charlotte developer behind the marquee River District project cut 15% of staff citing a market slowdown — a hometown-jobs story that lands directly on local workers and opens a real exchange.",
+      "source": "NBC Charlotte",
+      "topic": "business-jobs",
+      "url": "https://www.wcnc.com/article/money/business/crescent-communities-layoffs-charlotte-north-carolina/275-7d34421c-3755-4e57-9991-73efc1baf552",
+      "published_at": "2026-07-30T17:38:16+00:00",
       "image": {
-        "url": "https://www.qcnews.com/wp-content/uploads/sites/109/2026/07/F24467B032D8345EED6EC9954D9A000F_3.jpg?w=900",
+        "url": "https://media.tegna-media.com/assets/WCNC/images/e0199d2d-ce19-45c7-a614-6a4f2b6fd4dc/20250603T203247/e0199d2d-ce19-45c7-a614-6a4f2b6fd4dc_750x422.jpg",
         "alt": ""
       },
-      "description": "The 25th edition of Charlotte’s annual 24 Hours of Booty event raised more than $1.6 million to support cancer survivorship and patient navigation programs, organizers announced.",
-      "logo": "https://www.qcnews.com/wp-content/uploads/sites/109/2025/05/cropped-Site-Icon.png?w=32"
+      "description": "Crescent Communities says a “slower development market” led to layoffs impacting 15% of staff."
     },
     {
-      "title": "Ciara to headline 2026 MLS All-Star Halftime Show at Bank of America Stadium",
-      "summary": "Ciara was announced as the 2026 MLS All-Star halftime headliner at Bank of America Stadium; first reported Sunday and reconfirmed midweek as All-Star buzz built.",
-      "source": "NBC Charlotte",
+      "title": "Ciara to headline MLS All-Star halftime show in Charlotte",
+      "summary": "MLS All-Star buzz building all week: Ciara was announced Sunday as the halftime headliner at Bank of America Stadium, giving the city a fun, easy opener.",
+      "source": "Queen City News",
       "topic": "civic-events",
-      "url": "https://www.wcnc.com/article/entertainment/ciara-headlines-mls-all-star-game-halftime-show-bank-of-america-stadium-charlotte-nc/275-8cc53e69-a21e-4a2d-9e0e-f808de4059ae",
-      "published_at": "2026-07-27T16:28:26+00:00",
+      "url": "https://www.qcnews.com/charlotte/ciara-to-headline-mls-all-star-halftime-show-in-charlotte/",
+      "published_at": "2026-07-26T01:20:17+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/WCNC/images/a8ff65d7-7d8f-41f1-b38c-772f92ddca69/20260727T161809/a8ff65d7-7d8f-41f1-b38c-772f92ddca69_750x422.jpg",
+        "url": "https://www.qcnews.com/wp-content/uploads/sites/109/2026/07/GettyImages-2254228752.jpg?w=900",
         "alt": ""
       },
-      "description": "The Grammy-winning star will headline the halftime show, blending her musical prowess with her role as a Seattle Sounders FC minority owner.",
+      "description": "CHARLOTTE, N.C. (QUEEN CITY NEWS) -- The MLS All-Star Game is getting a major Grammy-award-winning artist to headline the halftime show. Multi-platinum pop superstar Ciara will bring her electric stage presence and chart-topping hits to Bank of America Stadium during the MLS",
+      "logo": "https://www.qcnews.com/wp-content/uploads/sites/109/2025/05/cropped-Site-Icon.png?w=32",
       "thread": [
         {
           "title": "Ciara to headline MLS All-Star halftime show in Charlotte",
@@ -91,7 +125,7 @@
     },
     {
       "title": "135 people move to Charlotte region every day: CRBA report",
-      "summary": "A new CRBA analysis pegged Charlotte-region growth at 135 newcomers a day — a recurring talker (surfaced Friday, again midweek) about the boom shaping local housing and jobs.",
+      "summary": "A new CRBA analysis pegged Charlotte-region growth at 135 new residents a day — first reported Friday, sharpened into a fresh headline Monday; the region's defining growth-and-housing talker.",
       "source": "Queen City News",
       "topic": "business-jobs",
       "url": "https://www.qcnews.com/charlotte/135-people-move-to-charlotte-region-every-day-crba-report/",
@@ -130,37 +164,52 @@
       ]
     },
     {
-      "title": "Monroe moves to voluntary water conservation after rain refills reservoirs",
-      "summary": "Monroe stepped back to voluntary water conservation after rains refilled reservoirs — a hopeful turn in the region's drought story, easy to raise with anyone who tracked the restrictions.",
-      "source": "NBC Charlotte",
-      "topic": "drought-water",
-      "url": "https://www.wcnc.com/article/news/local/monroe-moves-back-to-stage-1-water-conservation/275-0b96fd0b-549a-4f59-beb7-80baac0b6601",
-      "published_at": "2026-07-28T13:32:54+00:00",
+      "title": "24 Hours of Booty raises over $1.6 Million during 25th anniversary event in Charlotte",
+      "summary": "24 Hours of Booty cleared $1.6M at its 25th-anniversary ride in Charlotte — a feel-good civic milestone that invites a warm exchange.",
+      "source": "Queen City News",
+      "topic": "civic-events",
+      "url": "https://www.qcnews.com/24-foundation/24-hours-of-booty-raises-over-1-6-million-during-25th-anniversary-event-in-charlotte/",
+      "published_at": "2026-07-29T13:26:12+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/WCNC/images/eb40e229-a16a-49ab-9300-08ddbf95e809/20260728T132813/eb40e229-a16a-49ab-9300-08ddbf95e809_750x422.jpg",
+        "url": "https://www.qcnews.com/wp-content/uploads/sites/109/2026/07/F24467B032D8345EED6EC9954D9A000F_3.jpg?w=900",
         "alt": ""
       },
-      "description": "Monroe shifted from mandatory to voluntary water restrictions after rains boosted reservoirs; however, residents are urged to conserve water responsibly."
+      "description": "The 25th edition of Charlotte’s annual 24 Hours of Booty event raised more than $1.6 million to support cancer survivorship and patient navigation programs, organizers announced.",
+      "logo": "https://www.qcnews.com/wp-content/uploads/sites/109/2025/05/cropped-Site-Icon.png?w=32"
     },
     {
-      "title": "'Exceptional': Tega Cay brewing company dubbed SC's best brewery claims national record",
-      "summary": "A Tega Cay brewery crowned SC's best claimed a national record — a light human-interest win that gets people talking without much setup.",
+      "title": "Charlotte business leaders say city will be ready if tapped for draft, Super Bowl",
+      "summary": "Charlotte business leaders pitched the city as draft- and Super Bowl-ready — an aspirational big-events story that gets people talking about the city's trajectory.",
       "source": "Queen City News",
-      "topic": "human-interest",
-      "url": "https://www.qcnews.com/news/u-s/york-county/exceptional-tega-cay-brewing-company-dubbed-scs-best-brewery-claims-national-record/",
-      "published_at": "2026-07-29T02:01:27+00:00",
+      "topic": "civic-events",
+      "url": "https://www.qcnews.com/nfl/charlotte-business-leaders-say-city-will-be-ready-if-tapped-for-draft-super-bowl/",
+      "published_at": "2026-07-25T02:20:47+00:00",
       "image": {
-        "url": "https://www.qcnews.com/wp-content/uploads/sites/109/2026/07/model-a-awards-wall.png?w=900",
+        "url": "https://www.qcnews.com/wp-content/uploads/sites/109/2026/07/NFL-draft-set.jpg?w=900",
         "alt": ""
       },
-      "description": "TEGA CAY, S.C. (QUEEN CITY NEWS) -- Over 8,000 beers were submitted to the U.S. Open Beer Championships, a massive competition drawing brewers from across America and internationally. Of those 8,000, three were chosen from Model A Brewing Company in Tega Cay, bringing their",
+      "description": "Goodell told Panthers owner David Tepper that the city, stadium and its facilities were \"Super Bowl-quality.”",
       "logo": "https://www.qcnews.com/wp-content/uploads/sites/109/2025/05/cropped-Site-Icon.png?w=32"
     }
   ],
   "you_should_know": [
     {
+      "title": "Questions raised over Flock camera oversight after CMPD officer charged",
+      "summary": "A CMPD officer's charge cracked open questions about Flock camera oversight — a city policing-and-surveillance story worth walking in aware of.",
+      "source": "Queen City News",
+      "topic": "policing",
+      "url": "https://www.qcnews.com/charlotte/questions-raised-over-flock-camera-oversight-after-cmpd-officer-charged/",
+      "published_at": "2026-07-30T20:14:33+00:00",
+      "image": {
+        "url": "https://www.qcnews.com/wp-content/uploads/sites/109/2026/07/CLT-Flock-Cam-073026.jpg?w=900",
+        "alt": ""
+      },
+      "description": "A Charlotte-Mecklenburg Police officer was accused of misusing Flock camera system data to aid a drug investigation target, sparking privacy concerns regarding the oversight of license plate reader technology.",
+      "logo": "https://www.qcnews.com/wp-content/uploads/sites/109/2025/05/cropped-Site-Icon.png?w=32"
+    },
+    {
       "title": "NCDOT outlines $300M community investment tied to I-77 toll project",
-      "summary": "The I-77 South toll saga developed from transparency complaints over NCDOT's private meeting (late July) to a $300M community-investment package — a metro transportation fight worth walking in aware of.",
+      "summary": "The I-77 South toll saga advanced from transparency complaints over the NCDOT chief's private meeting (Friday) to NCDOT outlining a $300M community-investment package — a defining in-metro transportation thread.",
       "source": "NBC Charlotte",
       "topic": "transportation",
       "url": "https://www.wcnc.com/article/news/politics/ncdot-letter-interstate-77-commitment-charlotte-affordable-housing-transportation-plan/275-e019cf57-d9c4-4563-a900-2695b560abb0",
@@ -200,8 +249,21 @@
       ]
     },
     {
+      "title": "NC Senate moves pair of elections bills forward, would cut early voting days in primary elections",
+      "summary": "The NC Senate moved a pair of elections bills forward that would cut early-voting days in primaries — a statewide change landing on how voters here cast ballots.",
+      "source": "Charlotte Public Radio",
+      "topic": "elections-politics",
+      "url": "https://www.wfae.org/2026-07-28/nc-senate-moves-pair-of-elections-bill-forward-would-cut-early-voting-days-in-primary-elections",
+      "published_at": "2026-07-28T22:18:53+00:00",
+      "image": {
+        "url": "https://npr.brightspotcdn.com/dims4/default/3f5eeb8/2147483647/strip/false/crop/3600x2402+0+0/resize/791x528!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F55%2F89%2F92670ea6439b8436bbf9fab4bd9a%2F20220915-jg-wunc-electionrequests07.jpg",
+        "alt": ""
+      },
+      "description": "NC Senate advances a pair of elections bills, shortening early voting period in primaries and special elections among a slew of other changes."
+    },
+    {
       "title": "DHS denies new ICE detention center in NC, but confirms expansion plans",
-      "summary": "After reports of a major new ICE detention center in eastern NC, DHS denied a new facility but confirmed expansion plans — a statewide immigration-infrastructure story that firmed up over the week.",
+      "summary": "ICE detention expansion in eastern NC dominated headlines: after reports of a major new center (Friday), DHS denied a 'new' facility Monday but confirmed expansion plans.",
       "source": "NBC Charlotte",
       "topic": "immigration-enforcement",
       "url": "https://www.wcnc.com/article/news/local/former-prison-could-become-dedicated-ice-detention-center/275-f784a812-f3e9-4ee2-ad16-91858b0e5779",
@@ -239,7 +301,7 @@
     },
     {
       "title": "New NC State Health Plan raises concerns among employees who use Atrium Health",
-      "summary": "The new NC State Health Plan raised concerns for employees who use Atrium Health — a benefits-and-healthcare shift landing squarely on many local workers' daily lives.",
+      "summary": "The new NC State Health Plan raised alarms for employees who use Atrium Health — a public-health-and-benefits story hitting the in-metro workforce directly.",
       "source": "Queen City News",
       "topic": "public-health",
       "url": "https://www.qcnews.com/health-care/new-nc-state-health-plan-raises-concerns-among-employees-who-use-atrium-health/",
@@ -250,32 +312,6 @@
       },
       "description": "State Health Plan leaders are confident the health care system has enough capacity to accommodate employees who choose preferred providers.",
       "logo": "https://www.qcnews.com/wp-content/uploads/sites/109/2025/05/cropped-Site-Icon.png?w=32"
-    },
-    {
-      "title": "NC Senate moves pair of elections bills forward, would cut early voting days in primary elections",
-      "summary": "NC Senate advanced a pair of elections bills, including one cutting early-voting days in primaries — a statewide change worth knowing without needing to raise it.",
-      "source": "Charlotte Public Radio",
-      "topic": "elections-politics",
-      "url": "https://www.wfae.org/2026-07-28/nc-senate-moves-pair-of-elections-bill-forward-would-cut-early-voting-days-in-primary-elections",
-      "published_at": "2026-07-28T22:18:53+00:00",
-      "image": {
-        "url": "https://npr.brightspotcdn.com/dims4/default/3f5eeb8/2147483647/strip/false/crop/3600x2402+0+0/resize/791x528!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F55%2F89%2F92670ea6439b8436bbf9fab4bd9a%2F20220915-jg-wunc-electionrequests07.jpg",
-        "alt": ""
-      },
-      "description": "NC Senate advances a pair of elections bills, shortening early voting period in primaries and special elections among a slew of other changes."
-    },
-    {
-      "title": "Fort Mill School District asks officials to limit Silfab Solar operations after zoning ruling",
-      "summary": "Fort Mill School District pushed officials to limit Silfab Solar's operations after a zoning ruling — a local business-and-land-use dispute affecting nearby families.",
-      "source": "NBC Charlotte",
-      "topic": "business-jobs",
-      "url": "https://www.wcnc.com/article/news/local/fort-mill-school-district-asks-officials-to-limit-silfab-solar-operations-after-zoning-ruling/275-53c107ea-0c48-4564-8067-bf3e0570e0d5",
-      "published_at": "2026-07-25T03:23:34+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/WCNC/images/7d5b94f0-c403-48ce-8db5-34b535f27e8c/20260306T172236/7d5b94f0-c403-48ce-8db5-34b535f27e8c_750x422.jpg",
-        "alt": ""
-      },
-      "description": "A zoning dispute over Fort Mill's Silfab Solar facility is escalating as the Fort Mill School District asks leaders to restrict operations following a court ruling."
     }
   ],
   "sports": [
