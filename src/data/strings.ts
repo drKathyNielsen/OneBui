@@ -23,7 +23,7 @@ export interface StyleStrings {
 
 const NEUTRAL: StyleStrings = {
   weatherHeading: 'Weather alert',
-  areOkEyebrow: 'Are they ok?',
+  areOkEyebrow: 'Top story',
   startersHeading: 'Conversation starters',
   knowHeading: 'You should know',
   sportsHeading: 'Sporting news',

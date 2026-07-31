@@ -18,7 +18,7 @@ export default function About() {
         </p>
 
         <section className="oneb-about-section">
-          <h2 className="oneb-section-heading">Local, where it counts</h2>
+          <h2 className="oneb-section-heading"><span className="oneb-section-heading-badge">Local, where it counts</span></h2>
           <p>
             You work with people across many cities. One B gives you the local page for
             each one. Currated news and sports highlighting what really matters, distilled
@@ -27,7 +27,7 @@ export default function About() {
         </section>
 
         <section className="oneb-about-section">
-          <h2 className="oneb-section-heading">Show up in the know</h2>
+          <h2 className="oneb-section-heading"><span className="oneb-section-heading-badge">Show up in the know</span></h2>
           <p>
             The best way to close distance is to notice. Ask about the storm that hit
             Columbus, or congratulate them on their team's big win. It lands because it's specific — and now
@@ -36,7 +36,7 @@ export default function About() {
         </section>
 
         <section className="oneb-about-section">
-          <h2 className="oneb-section-heading">The 1B bar</h2>
+          <h2 className="oneb-section-heading"><span className="oneb-section-heading-badge">The 1B bar</span></h2>
           <p>
             "1B" is the local page in the paper; One B is the <i>most relevent</i> local stories. That's
             our whole standard. Every item clears the bar for local significance, or it
@@ -45,7 +45,7 @@ export default function About() {
         </section>
 
         <section className="oneb-about-section">
-          <h2 className="oneb-section-heading">Nothing you don't need</h2>
+          <h2 className="oneb-section-heading"><span className="oneb-section-heading-badge">Nothing you don't need</span></h2>
           <p>
             No endless feed. No follow-for-follow. No pinging anyone else. Just the cities
             you choose, today's brief and the week in review, kept short on purpose.

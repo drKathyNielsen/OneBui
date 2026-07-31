@@ -55,7 +55,7 @@
   --badge-bg: #2f5aa8;
   --badge-text: #ffffff;
   --accent: #2f5aa8;
-  --heading-font: 'Newsreader', serif;
+  --heading-font: 'Inter', sans-serif;
   --label-font: 'Inter', sans-serif;
   --body-font: 'Inter', sans-serif;
 }
@@ -76,7 +76,7 @@
   --badge-bg: #4677b8; /* 4.57:1 with white text */
   --badge-text: #ffffff;
   --accent: #6f9fd6; /* links: 4.5:1+ normal text on both --bg and --surface */
-  --heading-font: 'Newsreader', serif;
+  --heading-font: 'Inter', sans-serif;
   --label-font: 'Inter', sans-serif;
   --body-font: 'Inter', sans-serif;
 }

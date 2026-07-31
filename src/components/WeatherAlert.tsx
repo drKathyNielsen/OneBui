@@ -6,7 +6,7 @@ import type { Alert } from '../types';
 export default function WeatherAlert({ alerts, heading }: { alerts: Alert[]; heading: string }) {
   return (
     <section className="oneb-alert-box" role="region" aria-labelledby="heading-weather">
-      <h2 className="oneb-section-heading oneb-section-heading--plain" id="heading-weather">{heading}</h2>
+      <h2 className="oneb-section-heading oneb-section-heading--plain" id="heading-weather"><span className="oneb-section-heading-badge">{heading}</span></h2>
       <ul className="oneb-alert-list list-unstyled">
         {alerts.map((a, i) => (
           <li className="oneb-alert" key={`${a.event}-${a.area ?? ''}-${i}`}>

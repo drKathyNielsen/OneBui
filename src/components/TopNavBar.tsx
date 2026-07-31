@@ -22,7 +22,18 @@ export default function TopNavBar({ style, theme, onStyleChange, onThemeChange, 
 
   return (
     <header className="oneb-topnav">
-      <button type="button" className="oneb-topnav-brand" onClick={onHome} aria-label="One B — home">One B</button>
+      <button type="button" className="oneb-topnav-brand" onClick={onHome} aria-label="One B — home">
+        <svg className="oneb-topnav-brand-icon" viewBox="0 0 32 30" aria-hidden="true">
+          <rect className="oneb-brand-icon-back" x="2" y="9" width="20" height="19" rx="1.5" />
+          <rect className="oneb-brand-icon-card" x="8" y="2.5" width="21.5" height="19" rx="1.5" />
+          <rect className="oneb-brand-icon-line" x="11.5" y="7" width="13" height="1.8" />
+          <rect className="oneb-brand-icon-line" x="11.5" y="11" width="13" height="1.4" />
+          <rect className="oneb-brand-icon-line" x="11.5" y="14.5" width="8.5" height="1.4" />
+        </svg>
+        <span className="oneb-topnav-brand-word">
+          <span className="oneb-brand-one">One</span> <span className="oneb-brand-b">B</span>
+        </span>
+      </button>
       <div className="oneb-topnav-right">
         <div className="oneb-topnav-menu-wrap">
           <button

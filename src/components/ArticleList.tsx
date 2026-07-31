@@ -11,7 +11,7 @@ export default function ArticleList({ heading, items, emptyNote }: Props) {
   const headingId = `heading-${heading.toLowerCase().replace(/\s+/g, '-')}`;
   return (
     <section className="oneb-section" aria-labelledby={headingId}>
-      <h2 className="oneb-section-heading" id={headingId}>{heading}</h2>
+      <h2 className="oneb-section-heading" id={headingId}><span className="oneb-section-heading-badge">{heading}</span></h2>
       {items.length === 0 ? (
         <p className="oneb-empty">{emptyNote}</p>
       ) : (

@@ -17,7 +17,7 @@ export default function CitySideBar({ metros, activeIdx, onSelect }: Props) {
   return (
     <>
       <nav className="oneb-sidebar d-none d-md-block" aria-label="Your Cities">
-        <h2 className="oneb-section-heading oneb-sidebar-heading">Your Cities</h2>
+        <h2 className="oneb-section-heading oneb-sidebar-heading"><span className="oneb-section-heading-badge">Your Cities</span></h2>
         <div className="oneb-sidebar-list">
           {metros.map((m, i) => (
             <button

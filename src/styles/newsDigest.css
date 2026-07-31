@@ -21,15 +21,27 @@
 .oneb-topnav-brand {
   display: inline-flex;
   align-items: center;
-  height: 22px;
-  padding: 0 8px;
+  gap: 9px;
+  padding: 0;
   border: none;
-  border-radius: 5px;
-  background: var(--badge-bg);
-  color: var(--badge-text);
-  font: 800 11px var(--label-font);
+  background: transparent;
   cursor: pointer;
 }
+
+/* Logo lockup: overlapping-newspaper mark + "One B" wordmark (blue B). Rebuilt as
+   inline SVG so it stays crisp and re-colors per theme — the mark uses --accent
+   for the "paper" and the trailing "B", --ink for the article rules and "One". */
+.oneb-topnav-brand-icon { height: 26px; width: auto; display: block; }
+.oneb-brand-icon-back { fill: var(--accent); }
+.oneb-brand-icon-card { fill: var(--surface); stroke: var(--accent); stroke-width: 2; }
+.oneb-brand-icon-line { fill: var(--ink); }
+
+.oneb-topnav-brand-word {
+  font: 800 19px/1 var(--heading-font);
+  letter-spacing: -0.01em;
+}
+.oneb-brand-one { color: var(--ink); }
+.oneb-brand-b { color: var(--accent); }
 
 .oneb-topnav-right {
   display: flex;
@@ -245,6 +257,7 @@
 }
 
 .oneb-card-top { display: flex; gap: 12px; align-items: flex-start; }
+.oneb-card-top-text { flex: 1; min-width: 0; }
 
 /* Weather alert banner — sits above the "Are they ok?" hero. Uses the tinted
    surface with a heavier accent-colored left rule so it reads as a status
@@ -351,11 +364,7 @@
   display: flex;
   align-items: center;
   gap: 10px;
-  margin: 0 0 2px;
-  font: 700 12px var(--label-font);
-  letter-spacing: 0.12em;
-  text-transform: uppercase;
-  color: var(--ink);
+  margin: 0 0 14px;
 }
 
 .oneb-section-heading::after {
@@ -365,11 +374,22 @@
   border-top: 1px solid var(--hairline-soft);
 }
 
-/* Heading inside a card (Are they ok?) — same dark label type, no trailing rule */
-.oneb-section-heading--plain { margin-bottom: 12px; }
+.oneb-section-heading-badge {
+  display: inline-flex;
+  align-items: center;
+  padding: 5px 12px;
+  border-radius: 6px;
+  background: var(--badge-bg);
+  color: var(--badge-text);
+  font: 700 11.5px var(--label-font);
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+
+/* Heading inside a card (Are they ok?) — badge chip, no trailing rule */
+.oneb-section-heading--plain { margin-bottom: 14px; }
 .oneb-section-heading--plain::after { display: none; }
-/* Friendly tints the "Heads up!" eyebrow with the accent; classic/modern keep ink. */
-.oneb-root[data-style="friendly"] .oneb-section-heading--plain { color: var(--accent); }
 
 .oneb-article {
   display: flex;
