@@ -57,6 +57,33 @@
         "alt": ""
       },
       "logo": "https://media.nbcbayarea.com/2024/08/KNTV_station_logo_light.png?fit=327%2C58&quality=85&strip=all"
+    },
+    {
+      "title": "Major street closures in San Francisco's Chinatown start this weekend",
+      "summary": "Major Chinatown street closures — single localized commute change; conversation starter, not a check-in. You could open with: 'Heard they're closing off a chunk of Chinatown this weekend?' Continuation.",
+      "source": "Local – NBC Bay Area",
+      "topic": "transportation",
+      "url": "https://www.nbcbayarea.com/news/local/street-closures-san-francisco-chinatown/4120516/",
+      "published_at": "2026-07-29T06:33:49+00:00",
+      "image": {
+        "url": "https://media.nbcbayarea.com/2026/07/Chinatown-Renovation-Projects.png?fit=1920,1080&quality=85&strip=all",
+        "alt": ""
+      },
+      "logo": "https://media.nbcbayarea.com/2024/08/KNTV_station_logo_light.png?fit=327%2C58&quality=85&strip=all"
+    },
+    {
+      "title": "Authorities lift shelter-in-place order for Alum Rock area of San Jose",
+      "summary": "Shelter-in-place lifted for Alum Rock — resolved local incident, no ongoing harm. You could open with: 'Did you see they lifted the shelter-in-place over in Alum Rock?' Continuation.",
+      "source": "Local – NBC Bay Area",
+      "topic": "violent-crime",
+      "url": "https://www.nbcbayarea.com/news/local/shelter-in-place-order-alum-rock-area-san-jose/4120915/",
+      "published_at": "2026-07-29T05:48:45+00:00",
+      "image": {
+        "url": "https://media.nbcbayarea.com/2021/01/SantaClaraCountySheriff.jpg?quality=85&strip=all&fit=875,492",
+        "alt": ""
+      },
+      "description": "File image of a Santa Clara County Sheriff’s Office patrol car.",
+      "logo": "https://media.nbcbayarea.com/2024/08/KNTV_station_logo_light.png?fit=327%2C58&quality=85&strip=all"
     }
   ],
   "sports": [],
@@ -95,6 +122,16 @@
       },
       "description": "James Beere is sworn in as Oakland’s new police chief. (July 29, 2026)",
       "logo": "https://media.nbcbayarea.com/2024/08/KNTV_station_logo_light.png?fit=327%2C58&quality=85&strip=all"
+    },
+    {
+      "title": "AI transparency rule from Bay Area lawmakers kicks in Saturday",
+      "summary": "Landmark CA AI transparency law taking effect, from Bay Area lawmakers — state-level outcome landing here; relevant to the tech metro. You-should-know.",
+      "source": "San José Spotlight",
+      "topic": "other",
+      "url": "https://sanjosespotlight.com/ai-transparency-rule-from-bay-area-lawmakers-kicks-in-saturday/",
+      "published_at": "2026-07-29T19:00:23+00:00",
+      "image": null,
+      "description": "After several years of delays, legislation from two Bay Area lawmakers that is being called a landmark artificial intelligence transparency law by academics and advocates is set to go into effect Aug. 1. First passed in 2024, the law will require AI-generated content like images"
     }
   ]
 }

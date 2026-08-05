@@ -60,6 +60,33 @@
         "alt": ""
       },
       "description": "Shorter AME Church has been recognized as a historic place in Denver for years. Now, it's being recognized on the state and federal registry, too."
+    },
+    {
+      "title": "Visitors in Colorado spent nearly $30B on tourism in 2025, according to state's tourism office",
+      "summary": "Colorado tourism hit ~$30B / 96.8M visitors in 2025 — statewide economic bright spot, work-safe. You could open with: 'Did you see Colorado tourism cleared almost $30 billion last year?' Continues open incident.",
+      "source": "CBS Colorado",
+      "topic": "business-jobs",
+      "url": "https://www.cbsnews.com/colorado/video/visitors-in-colorado-spent-nearly-30b-on-tourism-in-2025-according-to-states-tourism-office/",
+      "published_at": "2026-07-29T01:39:00+00:00",
+      "image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/07/29/33bdf831-0aef-4b87-9380-fd24f8689cc6/thumbnail/1024x576/1f858673369192defa00937fbe731355/944a7bcc1f15d9abc81e77905572e9c3.jpg",
+        "alt": ""
+      },
+      "description": "An estimated 96.8 million tourists visited Colorado and generated an estimages $1.9 million in sales and local tax revenue.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    },
+    {
+      "title": "Colorado Mountain Club to lead hundreds of hikers up 14ers for state's 150th birthday, emphasizing hiking safety",
+      "summary": "Colorado Mountain Club leading hundreds up 14ers for state's 150th, with hiking-safety angle — fun, local, work-safe. You could open with: 'Did you hear they're taking hundreds of hikers up 14ers for Colorado's 150th birthday?'",
+      "source": "9NEWS",
+      "topic": "civic-events",
+      "url": "https://www.9news.com/article/news/local/colorado-mountain-club-to-lead-hundreds-of-hikers-up-14ers-for-states-150th-birthday-emphasizing-hiking-safety/73-8c8ee2f4-bb28-4678-a8e9-365846ac008f",
+      "published_at": "2026-07-29T01:37:32+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/8e038add-537e-4421-a33f-c8e4d1269cc9/20260729T005243/8e038add-537e-4421-a33f-c8e4d1269cc9_750x422.jpg",
+        "alt": ""
+      },
+      "description": "Funky-colored clouds are one sign that lightning is likely near, and your hike is over."
     }
   ],
   "sports": [
@@ -70,16 +97,7 @@
       ]
     }
   ],
-  "weather_alert": [
-    {
-      "event": "Air Quality Alert",
-      "area": "Boulder",
-      "severity": "Unknown",
-      "summary": "Air Quality Alert — Boulder, through Thursday",
-      "description": "Air Quality Alert issued July 29 at 4:10PM MDT by NWS Denver CO\n\nThe Colorado Department of Public Health and Environment has\nissued the following...\n\nWHAT...Ozone Action Day Alert.\n\nWHERE...Douglas, Jefferson, Denver, western Arapahoe, western\nAdams, Broomfield, Boulder, Larimer, and Weld Counties\n\nWHEN...400 PM Wednesday July 29 to 400 PM Thursday July 30\n\nIMPACTS...Ozone Action Day Alert is now in effect for the Front\nRange Urban Corridor.  Ozone is expected to be in the Moderate\ncategory on Wednesday, but will reach the Unhealthy for Sensitive\nGroups level on Thursday.  For Colorado air quality conditions,\nforecasts, and advisories, visit:\nhttps://www.colorado.gov/airquality/colorado_summary.aspx   If\npossible, please help us reduce ozone pollution by limiting\ndriving gas and diesel-powered vehicles until at least 4 p.m.\nThursday, July 30, 2026. Colorado is also addressing ozone\npollution through state policies. For more information about\nhealth impacts and how ozone pollution forms in Colorado, visit:\nhttps://cdphe.colorado.gov/ozone- pollution-and-your-health\n\nHEALTH INFORMATION...Increasing likelihood of respiratory symptoms\nand breathing discomfort in active children and adults and people\nwith lung disease, such as asthma. Active children and adults, and\npeople with lung disease, such as asthma, should reduce prolonged\nor heavy outdoor exertion.",
-      "ends": "2026-07-30T16:00:00-06:00"
-    }
-  ],
+  "weather_alert": [],
   "you_should_know": [
     {
       "title": "RTD plans to fill budget shortfall by cutting some routes to avoid raising fares",
@@ -121,6 +139,19 @@
       },
       "description": "In the year since President Trump signed an executive order aimed at moving homeless people off the streets, states have expanded involuntary treatment for the homeless.",
       "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    },
+    {
+      "title": "Aurora demands GEO comply with TB investigation as health department remains locked out of facility",
+      "summary": "Aurora/Adams County health dept locked out of GEO detention facility amid confirmed TB case — institutional standoff at ICE-contractor facility. Political-institutional and immigration-adjacent; keep as you-should-know context (health dept lacks info, not a broad public exposure).",
+      "source": "9NEWS",
+      "topic": "public-health",
+      "url": "https://www.9news.com/article/news/local/aurora-demands-geo-tb-investigation-health-department-locked-facility/73-f7ed0ed9-21ba-4094-b2a4-3f74dbfd2451",
+      "published_at": "2026-07-29T01:20:19+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/0a96b675-6c74-4a8c-8052-769a49ef7ab7/20260609T234922/0a96b675-6c74-4a8c-8052-769a49ef7ab7_750x422.jpg",
+        "alt": ""
+      },
+      "description": "A month after the Tuberculosis case was confirmed, Adams County Public Health said it still doesn't have the information necessary for its investigation."
     }
   ]
 }

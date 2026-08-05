@@ -1,0 +1,65 @@
+{
+  "shortName": "San Antonio, TX",
+  "metroCode": "41700",
+  "metro": "San Antonio-New Braunfels, TX",
+  "date": "2026-08-04",
+  "are_you_ok": [],
+  "conversation_starters": [
+    {
+      "title": "San Antonio space attraction selected for Venice Film Festival",
+      "summary": "",
+      "source": "KENS 5",
+      "topic": "civic-events",
+      "url": "https://www.kens5.com/article/entertainment/san-antonio-space-attraction-smithsonian-starstruck-venice-film-festival-competition/273-798de1cc-574b-4131-a3ae-b232afc2f8a4",
+      "published_at": "2026-08-04T16:25:13+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/c8632007-6af0-41c9-a756-c60e322ca605/20260804T162431/c8632007-6af0-41c9-a756-c60e322ca605_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "200c7cb8-18de-44c5-a605-d550efe3cb4b",
+      "questions": [
+        "Did you catch that a San Antonio immersive attraction, \"Smithsonian Starstruck,\" was named an official selection at the Venice Film Festival?",
+        "Have you had a chance to see the \"Smithsonian Starstruck\" experience?",
+        "What do you think it means for the city's arts scene to get that kind of international recognition?"
+      ],
+      "description": "The official selection recognizes \"Smithsonian Starstruck\" as one of the year's most innovative immersive experiences."
+    },
+    {
+      "title": "A San Antonio woman adopted after years of infertility. Then she found out she was 8 months pregnant.",
+      "summary": "A San Antonio woman and her husband struggled with infertility for years. Shortly after adopting, doctors told Garza she was eight months pregnant.",
+      "source": "San Antonio Report",
+      "topic": "human-interest",
+      "url": "https://sanantonioreport.org/san-antonio-woman-adopted-infertility-8-months-pregnant/",
+      "published_at": "2026-08-04T10:00:00+00:00",
+      "image": {
+        "url": "https://i0.wp.com/sanantonioreport.org/wp-content/uploads/2026/08/MethodistHospital_WestoverHills_BabyInfantNewbornChild_InfetilityHighRisk_Pregnancy_MothersWomensHealth08_08.03.2026_AmberEsparza-scaled.jpg?fit=1024%2C683&ssl=1",
+        "alt": ""
+      },
+      "uid": "c79deb0c-156c-4b8e-92e0-3e92312a7d51",
+      "questions": [
+        "Did you see the story about the local family who adopted and then learned they were eight months pregnant?",
+        "How are things going with your family these days?"
+      ],
+      "description": "A San Antonio woman and her husband struggled with infertility for years. Shortly after adopting, doctors told Garza she was eight months pregnant.A San Antonio woman adopted after years of infertility. Then she found out she was 8 months pregnant. was first posted on August 4,",
+      "logo": "https://sanantonioreport.org/wp-content/uploads/2020/09/cropped-SA_Report_Logo_512pxArtboard-1-32x32.jpg"
+    }
+  ],
+  "sports": [],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "Data center approvals in Texas halted until audits completed, Gov. Greg Abbott says",
+      "summary": "The governor ordered the Public Utility Commission of Texas (the state agency that regulates utilities) and the Electric Reliability Council of Texas, or ERCOT (which runs the statewide power grid), to audit all data centers wanting to connect to",
+      "source": "KENS 5",
+      "topic": "data-centers",
+      "url": "https://www.kens5.com/article/news/local/texas/data-center-approvals-in-texas-halted-until-audits-completed-gov-greg-abbott-says/273-e5da9dff-e918-4190-87c8-7cee06997cb6",
+      "published_at": "2026-08-04T12:51:43+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/9d1e84c7-db3e-430a-aa73-1c31ac0b75be/20260804T120953/9d1e84c7-db3e-430a-aa73-1c31ac0b75be_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "5b10ea86-d8e8-496d-adad-5c16516b324a",
+      "description": "On Monday, the governor ordered the Public Utility Commission of Texas and the Electric Reliability Council of Texas to audit all data centers wanting to connect to"
+    }
+  ]
+}

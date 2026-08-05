@@ -1,0 +1,123 @@
+{
+  "shortName": "San Antonio, TX",
+  "metroCode": "41700",
+  "metro": "San Antonio-New Braunfels, TX",
+  "date": "2026-08-01",
+  "are_you_ok": [],
+  "conversation_starters": [
+    {
+      "title": "Gabriel 'Fluffy' Iglesias to film Netflix special at San Antonio's Tobin Center",
+      "summary": "Gabriel 'Fluffy' Iglesias will film a Netflix special at San Antonio's Tobin Center, a performing arts venue downtown, and organizers added two additional nights of performances, citing popular demand for the upcoming comedy taping.",
+      "source": "KENS 5",
+      "topic": "civic-events",
+      "url": "https://www.kens5.com/article/news/local/gabriel-fluffy-iglesias-to-film-netflix-special-at-san-antonios-tobin-center/273-159f15d4-cc5e-4916-baea-eb52c27b59ae",
+      "published_at": "2026-08-01T15:26:31+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/f86130c5-e8e6-4c6f-b95c-35d3d120483d/20260801T144741/f86130c5-e8e6-4c6f-b95c-35d3d120483d_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "36bfdc16-51ab-4dc8-b359-7d4be8af6f95",
+      "questions": [
+        "Are you a Gabriel 'Fluffy' Iglesias fan?",
+        "Have you been to a show at the Tobin Center?",
+        "Do you catch much live comedy around San Antonio?"
+      ],
+      "description": "Organizers added two additional nights of performances, citing popular demand for the upcoming comedy taping."
+    },
+    {
+      "title": "'She could do almost anything she wanted to do.' | San Antonio climber killed in Pakistan avalanche; family remembers her adventurous spirit",
+      "summary": "",
+      "source": "KENS 5",
+      "topic": "human-interest",
+      "url": "https://www.kens5.com/article/news/local/san-antonio-climber-killed-pakistan-avalanche-family-remembers-her-texas-mallory-geis-broad-peak/273-9dcfeaa7-e091-4d29-ad63-7a9042980237",
+      "published_at": "2026-08-01T02:36:12+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/e120e62d-9847-43f9-a030-d7f9ed048dab/20260801T022451/e120e62d-9847-43f9-a030-d7f9ed048dab_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "91e975c9-30e4-4105-b75d-939825553042",
+      "questions": [
+        "Did you hear about the San Antonio climber who died in Pakistan?",
+        "Are you into hiking or climbing yourself?",
+        "It's a sad story—how are you doing with news like that?"
+      ],
+      "description": "Mallory Geis' father says a boulder came down during the avalance hitting and killing her."
+    },
+    {
+      "title": "Flor de Esperanza sculpture relocated to future south-side Palo Alto Hospital campus",
+      "summary": "The Flor de Esperanza sculpture, a landmark work by artist Sebastián, was moved to serve as the visual anchor for the new Palo Alto Hospital campus being built on San Antonio's south side.",
+      "source": "KENS 5",
+      "topic": "human-interest",
+      "url": "https://www.kens5.com/article/news/local/flor-de-esperanza-sculpture-relocated-future-south-palo-alto-hospital-campus-san-antonio/273-579f4648-1047-4454-b3e3-1fabb136a107",
+      "published_at": "2026-08-01T20:10:51+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/fd847553-2793-4cdb-a318-dbaec00eea55/20260801T193823/fd847553-2793-4cdb-a318-dbaec00eea55_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "e36e4183-f1ec-4a20-81d4-dc0286ecc81c",
+      "questions": [
+        "Did you see the Flor de Esperanza sculpture is being relocated?",
+        "Are you familiar with the new hospital going up on the south side?",
+        "Do you have a favorite piece of public art around town?"
+      ],
+      "description": "The landmark work by artist Sebastián was moved Saturday to serve as the visual anchor for the new facility."
+    },
+    {
+      "title": "'Y'all Street' rings its first bell: Texas Stock Exchange finishes trading rollout",
+      "summary": "The Texas Stock Exchange, nicknamed 'Y'all Street,' rang its first closing bell, completing a rollout to more than 13,000 symbols, with the first listings test coming this fall.",
+      "source": "KENS 5",
+      "topic": "business-jobs",
+      "url": "https://www.kens5.com/article/money/business/yall-street-rings-its-first-bell-texas-stock-exchange-finishes-trading-rollout/287-6cdf21aa-5cba-4b61-bd16-dbe4b35b30aa",
+      "published_at": "2026-08-01T02:05:05+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/WFAA/images/af0d984e-c122-4aad-a524-b4c937351f4d/20260801T020038/af0d984e-c122-4aad-a524-b4c937351f4d_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "eb584b4f-ddf1-4945-9181-af659180cde5",
+      "questions": [
+        "Have you been following the new Texas Stock Exchange?",
+        "Do you think 'Y'all Street' will catch on?",
+        "Any thoughts on Texas building out its own financial hub?"
+      ],
+      "description": "The Texas Stock Exchange rang its first closing bell Friday, completing a rollout to more than 13,000 symbols. The first listings test comes this fall."
+    },
+    {
+      "title": "Floodwaters bring hope to ranchers along the Nueces River",
+      "summary": "Ranchers along the Nueces River, which runs southwest of San Antonio, say recent floodwaters are restoring ponds, replenishing wells and improving grazing land after years of drought.",
+      "source": "KENS 5",
+      "topic": "drought-water",
+      "url": "https://www.kens5.com/article/news/local/floodwaters-bring-hope-to-ranchers-along-the-nueces-river/503-fc901f44-d23f-45b1-8efe-bf716ee525e2",
+      "published_at": "2026-08-01T13:07:12+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KIII/images/f72c6995-b280-4142-8a12-4d6b1212a263/20260801T030457/f72c6995-b280-4142-8a12-4d6b1212a263_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "44cde186-2352-40be-8dd3-2b1e1dbd1095",
+      "questions": [
+        "Did you see the ranchers along the Nueces River are getting some relief?",
+        "Do you know anyone in ranching or farming out that way?",
+        "Is drought something people talk about much in the area?"
+      ],
+      "description": "Ranchers along the Nueces River say recent floodwaters are restoring ponds, replenishing wells and improving grazing land after years of drought."
+    }
+  ],
+  "sports": [],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "Mayor targets funding for Spurs’ new arena in hunt to reduce city budget gap",
+      "summary": "",
+      "source": "San Antonio Report",
+      "topic": "elections-politics",
+      "url": "https://sanantonioreport.org/jones-targets-city-funding-spurs-new-arena-budget-gap/",
+      "published_at": "2026-08-01T18:47:00+00:00",
+      "image": {
+        "url": "https://i0.wp.com/sanantonioreport.org/wp-content/uploads/2026/06/SpursWinTogether_ElectionNight_WatchParty_RiverNorthIceHouse_ProjectMarvel_PropsAB_07_11.04.2025_AmberEsparza-scaled-1.jpg?fit=1024%2C683&ssl=1",
+        "alt": ""
+      },
+      "uid": "809222c0-1aa7-470e-b5ba-9523b80c3505",
+      "description": "Jones proposed another vote on the public funding for the San Antonio Spurs' downtown arena in light of the city's $158 million budget gap.Mayor targets funding for Spurs’ new arena in hunt to reduce city budget gap was first posted on August 1, 2026 at 1:47 pm.©2021 \"San",
+      "logo": "https://sanantonioreport.org/wp-content/uploads/2020/09/cropped-SA_Report_Logo_512pxArtboard-1-32x32.jpg"
+    }
+  ]
+}

@@ -4,265 +4,251 @@
   "metroCode": "41700",
   "metro": "San Antonio-New Braunfels, TX",
   "range": {
-    "start": "2026-07-24",
-    "end": "2026-07-30"
+    "start": "2026-07-29",
+    "end": "2026-08-04"
   },
   "are_you_ok": [
     {
-      "title": "Dangerous heat index expected as high-pressure ridge builds | Weather Impact Alert",
-      "summary": "A high-pressure ridge built over the metro late in the week, pushing heat index into dangerous territory city-wide — the most direct wellbeing concern for anyone the reader might check on.",
+      "title": "San Antonio teen detained by ICE on way to church, congressman says",
+      "summary": "A San Antonio teenager was detained by federal immigration agents (ICE) while on the way to church. U.S. Rep. Joaquin Castro, who represents the area in Congress, publicly pressed the case, stating that neither of the two people involved — identified as Emely and Fernando — had committed a crime.",
       "source": "KENS 5",
-      "topic": "heat",
-      "url": "https://www.kens5.com/article/weather/forecast/weather-impact-alert-dangerous-heat-index-high-pressure-ridge/273-600e4690-6fa2-43c9-9f7b-3642dbe4230e",
-      "published_at": "2026-07-29T12:25:20+00:00",
+      "topic": "immigration-enforcement",
+      "url": "https://www.kens5.com/article/news/politics/immigration-news/san-antonio-teen-detained-immigration-customs-enforcement-joaquin-castro-x/273-7422d593-06ff-4c7c-b1b2-545c4c7f2b59",
+      "published_at": "2026-08-03T17:03:01+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/c2212bc4-19d5-4ff9-b73e-2df2dbb1b2bd/c2212bc4-19d5-4ff9-b73e-2df2dbb1b2bd_750x422.jpg",
+        "url": "https://media.tegna-media.com/assets/KENS/images/f9bee959-1035-4d9d-8048-83d087e5f6e9/20260730T162731/f9bee959-1035-4d9d-8048-83d087e5f6e9_750x422.jpg",
         "alt": ""
       },
-      "description": "Stay updated with the KENS 5 Weather Team on this severe weather development and how it impacts you."
+      "uid": "cafa24ed-8efa-434b-8708-2ce33563bf1a",
+      "description": "Castro said that neither Emely or Fernando has committed a crime.",
+      "questions": [
+        "Have you been following the story about the local teen detained by ICE on the way to church?",
+        "Is this something that's come up among people you know in San Antonio?",
+        "How are you doing with all the immigration news in the area lately?"
+      ]
     },
     {
-      "title": "Third death reported from Hill Country and South Texas flooding last week, Gov. Abbott says",
-      "summary": "The Hill Country and South Texas flooding from the prior week claimed a third life, per Gov. Abbott — a retrospective check-in that still lands given how many in the region were touched.",
+      "title": "Weather conditions again brought devastating floods to a vulnerable swath of Texas",
+      "summary": "Severe storms hit Texas, dumping more than 20 inches of rain in places and triggering major flooding across a region the coverage describes as repeatedly and dangerously prone to it. The thread frames the event as another blow to an already flood-vulnerable part of the state.",
       "source": "KENS 5",
       "topic": "flood",
-      "url": "https://www.kens5.com/article/news/local/third-death-reported-from-hill-country-and-south-texas-flooding-last-week-gov-abbott-says/273-b0376749-339b-4fe8-808d-3da008d257be",
-      "published_at": "2026-07-24T21:36:35+00:00",
+      "url": "https://www.kens5.com/article/syndication/associatedpress/weather-conditions-again-brought-devastating-floods-to-a-vulnerable-swath-of-texas/616-a291d9ae-9351-4121-bcbf-5b06e2f42d40",
+      "published_at": "2026-08-02T20:18:44+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/e71e495f-f627-4be9-bf83-069c3dfdc1e6/20260501T195052/e71e495f-f627-4be9-bf83-069c3dfdc1e6_750x422.jpg",
+        "url": "https://media.tegna-media.com/assets/AssociatedPress/images/54538eb9-ae26-49df-8661-dc9e81615bc2/20260716T222531/54538eb9-ae26-49df-8661-dc9e81615bc2_750x422.jpg",
         "alt": ""
       },
-      "description": "Severe weather in South Texas claimed at least three lives after Val Verde County officials confirmed an 71-year-old woman died amid rising floodwaters."
+      "uid": "4b6667d8-15b6-427a-9089-822b418269fb",
+      "description": "Severe storms have dumped over 20 inches of rain in parts of Texas, causing significant flooding.",
+      "questions": [
+        "Have the floods affected your area at all?",
+        "Are you and your family staying safe with all the rain?",
+        "Is there anything you need with the flooding going on?"
+      ]
     }
   ],
   "conversation_starters": [
     {
-      "title": "With bonds, beams and billions of dollars, the airport’s terminal development project is on track",
-      "summary": "The airport terminal development project cleared its bond and funding milestones — a concrete, billions-of-dollars metro project easy to open a conversation on.",
-      "source": "San Antonio Report",
-      "topic": "transportation",
-      "url": "https://sanantonioreport.org/with-bonds-beams-and-billions-of-dollars-the-airports-terminal-development-project-is-on-track/",
-      "published_at": "2026-07-27T10:00:00+00:00",
-      "image": {
-        "url": "https://i0.wp.com/sanantonioreport.org/wp-content/uploads/2026/01/SATAirport_AirplaneTravelLuggage_TerminalsAB_TSAParkingSecurity_DepartureArrival_06_01.29.2026_AmberEsparza-scaled.jpg?fit=1024%2C683&ssl=1",
-        "alt": ""
-      },
-      "description": "A newly issued revenue bond supports the $2.5 billion worth of airport projects that bring a new terminal and other improvements to SAT.With bonds, beams and billions of dollars, the airport’s terminal development project is on track was first posted on July 27, 2026 at 5:00",
-      "logo": "https://sanantonioreport.org/wp-content/uploads/2020/09/cropped-SA_Report_Logo_512pxArtboard-1-32x32.jpg"
-    },
-    {
-      "title": "Live Civil War-era ammunition found in Atascosa County safely disposed of by military officials",
-      "summary": "An Atascosa County office decoration kept for years turned out to be a live Civil War-era explosive; military officials safely disposed of it — an irresistible, widely-shareable oddity.",
+      "title": "San Antonio space attraction selected for Venice Film Festival",
+      "summary": "A San Antonio-based immersive space attraction, \"Smithsonian Starstruck,\" earned an official selection at the Venice Film Festival, which recognized it as one of the year's most innovative immersive experiences. The nod places a local attraction on an international stage as a standout example of the format.",
       "source": "KENS 5",
-      "topic": "human-interest",
-      "url": "https://www.kens5.com/article/news/local/live-civil-war-era-ammunition-found-in-atascosa-county-safely-disposed-of-by-military-officials/273-19349a7b-ad00-49d5-8d14-f0c1c857c460",
-      "published_at": "2026-07-28T20:16:02+00:00",
+      "topic": "civic-events",
+      "url": "https://www.kens5.com/article/entertainment/san-antonio-space-attraction-smithsonian-starstruck-venice-film-festival-competition/273-798de1cc-574b-4131-a3ae-b232afc2f8a4",
+      "published_at": "2026-08-04T16:25:13+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/fcb5409e-ac22-4933-b58f-2179b91c4732/20260728T201414/fcb5409e-ac22-4933-b58f-2179b91c4732_750x422.jpg",
+        "url": "https://media.tegna-media.com/assets/KENS/images/c8632007-6af0-41c9-a756-c60e322ca605/20260804T162431/c8632007-6af0-41c9-a756-c60e322ca605_750x422.jpg",
         "alt": ""
       },
-      "description": "A Civil War-era live round was safely detonated by military officials in Atascosa County after a collector's friend suspected it was still active, authorities say.",
-      "thread": [
-        {
-          "title": "Live Civil War-era ammunition found in Atascosa County safely disposed of by military officials",
-          "summary": "Civil War-era live round found and detonated — quirky, novel local oddity that sparks a natural exchange. You could open with: 'Did you see somebody had a live Civil War shell sitting in their office in Atascosa County?'",
-          "source": "KENS 5",
-          "topic": "human-interest",
-          "url": "https://www.kens5.com/article/news/local/live-civil-war-era-ammunition-found-in-atascosa-county-safely-disposed-of-by-military-officials/273-19349a7b-ad00-49d5-8d14-f0c1c857c460",
-          "published_at": "2026-07-28T20:16:02+00:00",
-          "image": {
-            "url": "https://media.tegna-media.com/assets/KENS/images/fcb5409e-ac22-4933-b58f-2179b91c4732/20260728T201414/fcb5409e-ac22-4933-b58f-2179b91c4732_750x422.jpg",
-            "alt": ""
-          },
-          "description": "A Civil War-era live round was safely detonated by military officials in Atascosa County after a collector's friend suspected it was still active, authorities say."
-        },
-        {
-          "title": "'I had it there for years': Office decoration in Atascosa County turns out to be live, Civil War-era explosive",
-          "summary": "Quirky, fun local oddity story. You could open with: 'Did you hear someone had a Civil War-era live explosive as an office decoration in Atascosa County?'",
-          "source": "KENS 5",
-          "topic": "human-interest",
-          "url": "https://www.kens5.com/article/news/local/texas/office-decoration-atascosa-county-civil-war-era-explosive-texas-parrott-round/273-9333aa7f-bf6a-40dd-b5cd-fbf8c6712367",
-          "published_at": "2026-07-29T03:38:19+00:00",
-          "image": {
-            "url": "https://media.tegna-media.com/assets/KENS/images/8797ec2f-7dcc-4d30-b197-272fefa377f2/20260729T032233/8797ec2f-7dcc-4d30-b197-272fefa377f2_750x422.jpg",
-            "alt": ""
-          },
-          "description": "An explosive ordnance disposal unit was brought out from Lackland Air Force Base. The device was confirmed to be a Parrott round from more than 150 years ago."
-        }
+      "uid": "200c7cb8-18de-44c5-a605-d550efe3cb4b",
+      "description": "The official selection recognizes \"Smithsonian Starstruck\" as one of the year's most innovative immersive experiences.",
+      "questions": [
+        "Did you catch that a San Antonio immersive attraction, \"Smithsonian Starstruck,\" was named an official selection at the Venice Film Festival?",
+        "Have you had a chance to see the \"Smithsonian Starstruck\" experience?",
+        "What do you think it means for the city's arts scene to get that kind of international recognition?"
       ]
     },
     {
-      "title": "'I'm going to be depressed for a long time.' | Historic Crystal Ballroom destroyed in fire, leaving community mourning the site",
-      "summary": "The historic Crystal Ballroom was destroyed by fire, leaving the community mourning a beloved landmark — an emotionally resonant local story.",
+      "title": "San Antonio man has reunited more than 200 people with lost class rings while searching for his own",
+      "summary": "Richard Escobedo, a San Antonio man who lost his own class ring nearly 30 years ago, has turned the search into a mission that has reunited more than 200 lost class rings with their owners — building personal connections along the way while still hoping to recover his own.",
       "source": "KENS 5",
       "topic": "human-interest",
-      "url": "https://www.kens5.com/article/news/local/historic-crystal-city-ballroom-destroyed-fire-community-texas/273-679cbcef-52da-4ce3-b303-8e4235046951",
-      "published_at": "2026-07-29T04:17:51+00:00",
+      "url": "https://www.kens5.com/article/news/local/san-antonio-man-has-reunited-more-than-200-people-with-lost-class-rings-while-searching-for-his-own/273-0bf6f14a-2736-4cca-b45b-5622d64d50a0",
+      "published_at": "2026-08-02T23:01:36+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/fdea825c-32bf-4860-888a-a15db11de3a2/20260729T035817/fdea825c-32bf-4860-888a-a15db11de3a2_750x422.jpg",
+        "url": "https://media.tegna-media.com/assets/KENS/images/4f8e41a1-602b-474a-8a10-16d2d881abac/20260802T230012/4f8e41a1-602b-474a-8a10-16d2d881abac_750x422.jpg",
         "alt": ""
       },
-      "description": "The owner of the ballroom says big acts like Selena, Ramon Ayala, and Intocable performed there, and hosted many quinceaneras, weddings, and other parties."
+      "uid": "08f08f7c-d8fc-45cd-ac9e-d5f494365354",
+      "description": "Nearly 30 years after losing his own class ring, Richard Escobedo has reunited over 200 rings with their owners, creating bonds and hope through his mission.",
+      "questions": [
+        "Did you catch the story about the local man reuniting people with their lost class rings?",
+        "Do you still have your class ring?",
+        "Isn't it a nice change of pace to see a feel-good story?"
+      ]
     },
     {
-      "title": "Invasive bamboo gets a second life helping animals at San Antonio Zoo",
-      "summary": "The San Antonio Zoo found a second life for invasive bamboo, feeding it to animals — a light, feel-good hook that gets people talking.",
-      "source": "KENS 5",
-      "topic": "human-interest",
-      "url": "https://www.kens5.com/article/news/local/brackenridge-park-bamboo-san-antonio-zoo-conservation-enrichment-invasive-wildlife-habitat-volunteers-restoration-ecosystem-browse-sustainability/273-112a49bb-9088-48e3-abae-fcc33de99541",
-      "published_at": "2026-07-28T12:36:29+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/e96303ef-39da-40df-ae78-17248de70581/20260728T123537/e96303ef-39da-40df-ae78-17248de70581_750x422.jpg",
-        "alt": ""
-      },
-      "description": "Brackenridge Park Conservancy is removing invasive bamboo and partnering with San Antonio Zoo to turn it into food and enrichment for animals."
-    },
-    {
-      "title": "AC/DC brings electric POWER UP Tour to San Antonio's Alamodome",
-      "summary": "AC/DC's POWER UP Tour is coming to the Alamodome — a big-name event opener with broad appeal.",
+      "title": "Gabriel 'Fluffy' Iglesias to film Netflix special at San Antonio's Tobin Center",
+      "summary": "Comedian Gabriel 'Fluffy' Iglesias set out to film a Netflix comedy special at the Tobin Center, a downtown San Antonio performing-arts venue. Demand was strong enough that organizers added two extra performance nights for the taping.",
       "source": "KENS 5",
       "topic": "civic-events",
-      "url": "https://www.kens5.com/article/news/local/san-antonio-texas-satx-acdc-power-up-tour-alamodome-concert-photos-july-2026/273-831e158e-ab44-47c0-b71d-1aae3c0b6907",
-      "published_at": "2026-07-25T19:32:22+00:00",
+      "url": "https://www.kens5.com/article/news/local/gabriel-fluffy-iglesias-to-film-netflix-special-at-san-antonios-tobin-center/273-159f15d4-cc5e-4916-baea-eb52c27b59ae",
+      "published_at": "2026-08-01T15:26:31+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/e6b95942-e978-4c78-81f4-d52619e08253/20260725T151734/e6b95942-e978-4c78-81f4-d52619e08253_750x422.jpg",
+        "url": "https://media.tegna-media.com/assets/KENS/images/f86130c5-e8e6-4c6f-b95c-35d3d120483d/20260801T144741/f86130c5-e8e6-4c6f-b95c-35d3d120483d_750x422.jpg",
         "alt": ""
       },
-      "description": "AC/DC electrified San Antonio's Alamodome with their POWER UP Tour, delivering classic rock anthems and high-energy performances, captivating a sea of fans."
+      "uid": "36bfdc16-51ab-4dc8-b359-7d4be8af6f95",
+      "description": "Organizers added two additional nights of performances, citing popular demand for the upcoming comedy taping.",
+      "questions": [
+        "Are you a Gabriel 'Fluffy' Iglesias fan?",
+        "Have you been to a show at the Tobin Center?",
+        "Do you catch much live comedy around San Antonio?"
+      ]
+    },
+    {
+      "title": "Not throwing away their shot: 'Hamilton' cast to visit a San Antonio landmark",
+      "summary": "The touring cast of the hit musical 'Hamilton' planned a visit to The Alamo — the historic mission and battle site that is San Antonio's best-known landmark — pairing the show's own success with a stop at a local institution the coverage casts as still making its mark.",
+      "source": "KENS 5",
+      "topic": "civic-events",
+      "url": "https://www.kens5.com/article/news/local/the-alamo-visit-san-antonio-hamilton-musical-cast-tickets-texas/273-3f5ee737-c124-4ee6-9d7d-edfa2b919117",
+      "published_at": "2026-08-03T22:21:16+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/e3bd3a68-f966-47f4-9c0d-59d1a69bf21b/20240828T234328/e3bd3a68-f966-47f4-9c0d-59d1a69bf21b_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "82bfe428-471e-413c-8fb0-515a8ecf4692",
+      "description": "Members from the megahit musical will tour The Alamo as the San Antonio landmark continues making some history of hits own.",
+      "questions": [
+        "Did you hear the 'Hamilton' cast is touring the Alamo?",
+        "Are you much of a musical theater fan?",
+        "Have you taken visitors to the Alamo before?"
+      ]
+    },
+    {
+      "title": "'She could do almost anything she wanted to do.' | San Antonio climber killed in Pakistan avalanche; family remembers her adventurous spirit",
+      "summary": "Mallory Geis, a climber from San Antonio, was killed by an avalanche while in Pakistan; her father said a boulder came down during the avalanche and struck her. Family members remembered her adventurous spirit, recalling that she could do almost anything she set out to do.",
+      "source": "KENS 5",
+      "topic": "human-interest",
+      "url": "https://www.kens5.com/article/news/local/san-antonio-climber-killed-pakistan-avalanche-family-remembers-her-texas-mallory-geis-broad-peak/273-9dcfeaa7-e091-4d29-ad63-7a9042980237",
+      "published_at": "2026-08-01T02:36:12+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/e120e62d-9847-43f9-a030-d7f9ed048dab/20260801T022451/e120e62d-9847-43f9-a030-d7f9ed048dab_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "91e975c9-30e4-4105-b75d-939825553042",
+      "description": "Mallory Geis' father says a boulder came down during the avalance hitting and killing her.",
+      "questions": [
+        "Did you hear about the San Antonio climber who died in Pakistan?",
+        "Are you into hiking or climbing yourself?",
+        "It's a sad story—how are you doing with news like that?"
+      ]
     }
   ],
   "you_should_know": [
     {
-      "title": "At D1 town hall, Jones warns of deeper cuts ahead as she defends her budget proposals",
-      "summary": "Mayor Jones' $158M budget gap dominated the week: from asking business and philanthropy to fund city events (Fri), through the Book Festival's reaction and the funding call, to a D1 town hall (Thu) where she warned of deeper cuts ahead.",
+      "title": "Jones vows to revisit veteran vouchers, slamming fellow council members as ‘OK with a little bit of discrimination’",
+      "summary": "A dispute over housing access for veterans played out at San Antonio City Council. Mayor Gina Ortiz Jones, alongside veteran advocates, argued that the current ordinance falls short in expanding veterans' access to housing, and Jones vowed to revisit the issue — sharply criticizing fellow council members as being, in her words, 'OK with a little bit of discrimination.'",
       "source": "San Antonio Report",
-      "topic": "elections-politics",
-      "url": "https://sanantonioreport.org/d1-town-hall-mayor-jones-warns-deeper-cuts-ahead-budget/",
-      "published_at": "2026-07-30T18:19:47+00:00",
+      "topic": "housing",
+      "url": "https://sanantonioreport.org/mayor-jones-revisit-veterans-housing-vouchers-debate/",
+      "published_at": "2026-08-02T16:00:00+00:00",
       "image": {
-        "url": "https://i0.wp.com/sanantonioreport.org/wp-content/uploads/2026/07/Mayor_Gina_Ortiz_Jones_Townhall_D1_7.29.2026_Diego_Medel-31-scaled.jpg?fit=1024%2C683&ssl=1",
+        "url": "https://i0.wp.com/sanantonioreport.org/wp-content/uploads/2026/07/CityCouncil_PlanningCommunityDevelopmentCommittee_VeteranHousingVouchers_09_04.28.2026_AmberEsparza-scaled-1.webp?fit=1024%2C682&ssl=1",
         "alt": ""
       },
-      "description": "Mayor Gina Ortiz Jones told residents San Antonio faces deeper budget cuts than expected as she defended her proposal to redirect Ready to Work funds.At D1 town hall, Jones warns of deeper cuts ahead as she defends her budget proposals was first posted on July 30, 2026 at 1:19",
+      "uid": "b8215e4c-96ba-4cb4-bef4-89a8a560899a",
+      "description": "Mayor Gina Ortiz Jones and veteran advocates argue that the current ordinance doesn't do enough to expand access to housing for veterans.Jones vows to revisit veteran vouchers, slamming fellow council members as ‘OK with a little bit of discrimination’ was first posted on August",
+      "logo": "https://sanantonioreport.org/wp-content/uploads/2020/09/cropped-SA_Report_Logo_512pxArtboard-1-32x32.jpg"
+    },
+    {
+      "title": "Mayor targets funding for Spurs’ new arena in hunt to reduce city budget gap",
+      "summary": "Facing a $158 million city budget gap, Mayor Gina Ortiz Jones proposed holding another vote on the public funding committed to a new downtown arena for the San Antonio Spurs (the city's NBA team), putting that spending on the table as a possible way to help close the shortfall.",
+      "source": "San Antonio Report",
+      "topic": "elections-politics",
+      "url": "https://sanantonioreport.org/jones-targets-city-funding-spurs-new-arena-budget-gap/",
+      "published_at": "2026-08-01T18:47:00+00:00",
+      "image": {
+        "url": "https://i0.wp.com/sanantonioreport.org/wp-content/uploads/2026/06/SpursWinTogether_ElectionNight_WatchParty_RiverNorthIceHouse_ProjectMarvel_PropsAB_07_11.04.2025_AmberEsparza-scaled-1.jpg?fit=1024%2C683&ssl=1",
+        "alt": ""
+      },
+      "uid": "809222c0-1aa7-470e-b5ba-9523b80c3505",
+      "description": "Jones proposed another vote on the public funding for the San Antonio Spurs' downtown arena in light of the city's $158 million budget gap.Mayor targets funding for Spurs’ new arena in hunt to reduce city budget gap was first posted on August 1, 2026 at 1:47 pm.©2021 \"San",
+      "logo": "https://sanantonioreport.org/wp-content/uploads/2020/09/cropped-SA_Report_Logo_512pxArtboard-1-32x32.jpg"
+    },
+    {
+      "title": "Data center approvals in Texas halted until audits completed, Gov. Greg Abbott says",
+      "summary": "Texas Governor Greg Abbott paused new data center approvals statewide pending audits, directing two state energy bodies—the Public Utility Commission of Texas and the grid operator ERCOT (the Electric Reliability Council of Texas, which manages the state's power grid)—to review every data center seeking to connect to the grid. Reported first on August 3, 2026, and reiterated in follow-up coverage citing the order as issued on a Monday, the story centers on the state throttling grid connections for power-hungry data centers until those reviews are finished.",
+      "source": "San Antonio Report",
+      "topic": "data-centers",
+      "url": "https://sanantonioreport.org/data-center-approvals-texas-halted-audit/",
+      "published_at": "2026-08-03T22:15:56+00:00",
+      "image": {
+        "url": "https://i0.wp.com/sanantonioreport.org/wp-content/uploads/2026/08/20260727-Data-Center-Protest-Capitol-KG-13-scaled-1.jpg?fit=1024%2C683&ssl=1",
+        "alt": ""
+      },
+      "uid": "94f46f7f-af97-49fc-bc7a-bd26fac42898",
+      "description": "Texas Gov. Greg Abbott ordered the Public Utility Commission of Texas and ERCOT to audit all data centers wanting to connect to the state’s power grid.Data center approvals in Texas halted until audits completed, Gov. Greg Abbott says was first posted on August 3, 2026 at 5:15",
       "logo": "https://sanantonioreport.org/wp-content/uploads/2020/09/cropped-SA_Report_Logo_512pxArtboard-1-32x32.jpg",
       "thread": [
         {
-          "title": "Mayor Jones asks business, philanthropic community to help fund San Antonio events and groups amid budget deficit",
-          "summary": "Mayor seeking alternative funding amid budget deficit — city-institutional context landing on the metro; keep-when-unsure on the context/noise boundary.",
-          "source": "KENS 5",
-          "topic": "elections-politics",
-          "url": "https://www.kens5.com/article/news/politics/san-antonio-budget-deficit-mayor-jones-letter-funding-help-botanical-garden-book-fest/273-4e0441c4-9360-4ccc-a4ce-808f06bbef67",
-          "published_at": "2026-07-25T03:32:32+00:00",
-          "image": {
-            "url": "https://media.tegna-media.com/assets/KENS/images/d5959cff-cf67-4faf-b4df-19af16fbf3fd/d5959cff-cf67-4faf-b4df-19af16fbf3fd_750x422.jpg",
-            "alt": ""
-          },
-          "description": "Mayor Gina Ortiz Jones is hunting alternative funding for some San Antonio groups as one way to address the looming budget deficit."
-        },
-        {
-          "title": "San Antonio Book Festival reacts as mayor weighs cuts amid $158 million budget gap",
-          "summary": "SA's $158M budget gap and potential cuts to civic attractions land on the metro's institutions and services — walk-in context. Continuation of existing incident. Kept as you should know.",
-          "source": "KENS 5",
-          "topic": "elections-politics",
-          "url": "https://www.kens5.com/article/news/local/san-antonio-book-festival-mayor-cuts-158-million-budget-gap/273-26d3feac-60fa-4e11-9b8e-dd56ea365151",
-          "published_at": "2026-07-26T23:04:29+00:00",
-          "image": {
-            "url": "https://media.tegna-media.com/assets/KENS/images/d6de5881-7137-417c-8e7f-bbf095aab839/20260308T204818/d6de5881-7137-417c-8e7f-bbf095aab839_750x422.jpg",
-            "alt": ""
-          },
-          "description": "Facing a $158 million budget deficit, San Antonio considers deep cuts, potentially affecting nonprofits like the San Antonio Book Festival and other attractions."
-        },
-        {
-          "title": "Mayor puts out call for help funding city-supported organizations as $158M budget gap looms",
-          "summary": "Continuation of ongoing city budget-gap story affecting local institutions; context for the metro.",
+          "title": "Data center approvals in Texas halted until audits completed, Gov. Greg Abbott says",
+          "summary": "",
           "source": "San Antonio Report",
-          "topic": "elections-politics",
-          "url": "https://sanantonioreport.org/mayor-gina-ortiz-jones-call-for-help-city-supported-organizations-budget/",
-          "published_at": "2026-07-27T21:37:30+00:00",
+          "topic": "data-centers",
+          "url": "https://sanantonioreport.org/data-center-approvals-texas-halted-audit/",
+          "published_at": "2026-08-03T22:15:56+00:00",
           "image": {
-            "url": "https://i0.wp.com/sanantonioreport.org/wp-content/uploads/2026/07/Jones_File_Amber_nonprofits-scaled.jpg?fit=1024%2C683&ssl=1",
+            "url": "https://i0.wp.com/sanantonioreport.org/wp-content/uploads/2026/08/20260727-Data-Center-Protest-Capitol-KG-13-scaled-1.jpg?fit=1024%2C683&ssl=1",
             "alt": ""
           },
-          "description": "Jones said those organizations strengthened San Antonio but, in a letter dated July 24, she noted a $158 million budget gap the city faces.Mayor puts out call for help funding city-supported organizations as $158M budget gap looms was first posted on July 27, 2026 at 4:37",
+          "uid": "94f46f7f-af97-49fc-bc7a-bd26fac42898",
+          "description": "Texas Gov. Greg Abbott ordered the Public Utility Commission of Texas and ERCOT to audit all data centers wanting to connect to the state’s power grid.Data center approvals in Texas halted until audits completed, Gov. Greg Abbott says was first posted on August 3, 2026 at 5:15",
           "logo": "https://sanantonioreport.org/wp-content/uploads/2020/09/cropped-SA_Report_Logo_512pxArtboard-1-32x32.jpg"
         },
         {
-          "title": "At D1 town hall, Jones warns of deeper cuts ahead as she defends her budget proposals",
-          "summary": "Continuation of the SA mayor budget-deficit incident — Jones defending budget cuts and Ready to Work redirection at a town hall. A political-institutional story landing on this metro; context worth walking in aware of, unsafe as an opener. Keep as you should know.",
-          "source": "San Antonio Report",
-          "topic": "elections-politics",
-          "url": "https://sanantonioreport.org/d1-town-hall-mayor-jones-warns-deeper-cuts-ahead-budget/",
-          "published_at": "2026-07-30T18:19:47+00:00",
+          "title": "Data center approvals in Texas halted until audits completed, Gov. Greg Abbott says",
+          "summary": "",
+          "source": "KENS 5",
+          "topic": "data-centers",
+          "url": "https://www.kens5.com/article/news/local/texas/data-center-approvals-in-texas-halted-until-audits-completed-gov-greg-abbott-says/273-e5da9dff-e918-4190-87c8-7cee06997cb6",
+          "published_at": "2026-08-04T12:51:43+00:00",
           "image": {
-            "url": "https://i0.wp.com/sanantonioreport.org/wp-content/uploads/2026/07/Mayor_Gina_Ortiz_Jones_Townhall_D1_7.29.2026_Diego_Medel-31-scaled.jpg?fit=1024%2C683&ssl=1",
+            "url": "https://media.tegna-media.com/assets/KENS/images/9d1e84c7-db3e-430a-aa73-1c31ac0b75be/20260804T120953/9d1e84c7-db3e-430a-aa73-1c31ac0b75be_750x422.jpg",
             "alt": ""
           },
-          "description": "Mayor Gina Ortiz Jones told residents San Antonio faces deeper budget cuts than expected as she defended her proposal to redirect Ready to Work funds.At D1 town hall, Jones warns of deeper cuts ahead as she defends her budget proposals was first posted on July 30, 2026 at 1:19",
-          "logo": "https://sanantonioreport.org/wp-content/uploads/2020/09/cropped-SA_Report_Logo_512pxArtboard-1-32x32.jpg"
+          "uid": "5b10ea86-d8e8-496d-adad-5c16516b324a",
+          "description": "On Monday, the governor ordered the Public Utility Commission of Texas and the Electric Reliability Council of Texas to audit all data centers wanting to connect to"
         }
       ]
     },
     {
-      "title": "11 indicted in migrant-smuggling case linked to 7 deaths",
-      "summary": "Eleven were indicted in a migrant-smuggling case linked to seven deaths — a major in-metro enforcement development.",
-      "source": "San Antonio Report",
-      "topic": "immigration-enforcement",
-      "url": "https://sanantonioreport.org/11-indicted-in-migrant-smuggling-case-linked-to-7-deaths/",
-      "published_at": "2026-07-25T00:59:27+00:00",
-      "image": {
-        "url": "https://i0.wp.com/sanantonioreport.org/wp-content/uploads/2026/07/crop-smuggling.jpg?fit=1024%2C683&ssl=1",
-        "alt": ""
-      },
-      "description": "A federal grand jury has indicted 11 people accused of participating in a migrant-smuggling operation that resulted in seven deaths in May.11 indicted in migrant-smuggling case linked to 7 deaths was first posted on July 24, 2026 at 7:59 pm.©2021 \"San Antonio Report\". Use of",
-      "logo": "https://sanantonioreport.org/wp-content/uploads/2020/09/cropped-SA_Report_Logo_512pxArtboard-1-32x32.jpg"
-    },
-    {
-      "title": "Congressman Joaquin Castro renews call to close Dilley detention center after congressional oversight visit",
-      "summary": "After a congressional oversight visit, Rep. Joaquin Castro renewed his call to close the Dilley detention center — a live regional immigration flashpoint.",
-      "source": "KENS 5",
-      "topic": "immigration-enforcement",
-      "url": "https://www.kens5.com/article/news/local/congressman-joaquin-castro-close-dilley-detention-center-oversight-ice-san-antonio-texas/273-8e319d51-07a4-4aa4-b638-ab6c78c6c4e1",
-      "published_at": "2026-07-29T01:36:37+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/fbce95e7-d5d6-4c41-9a42-587e34bbdb17/20260728T234042/fbce95e7-d5d6-4c41-9a42-587e34bbdb17_750x422.jpg",
-        "alt": ""
-      },
-      "description": "U.S. Rep. Joaquin Castro advocates for closing the Dilley detention center, citing poor conditions causing trauma to children and adults."
-    },
-    {
-      "title": "Kerr County records seventh rabies case after skunk found in family's yard",
-      "summary": "Kerr County logged its seventh rabies case after a skunk turned up in a family's yard — an ongoing regional public-health concern.",
+      "title": "San Antonio Food Bank warns SNAP changes could leave more Texas families hungry",
+      "summary": "Leaders of the San Antonio Food Bank warned that proposed changes to SNAP — the federal food-assistance program (food stamps) — could strain resources in Texas and make it harder for families to afford food, raising the prospect of increased hunger across the state.",
       "source": "KENS 5",
       "topic": "public-health",
-      "url": "https://www.kens5.com/article/life/animals/kerr-county-rabies-skunk-rancheror-oad-kerrville-animal-control-reagan-givens-vaccinations-pets-wildlife-exposure-mountain-home-safety-dogs/273-5223f5f8-281d-4d6c-9346-8559e30dc7b9",
-      "published_at": "2026-07-28T13:02:00+00:00",
+      "url": "https://www.kens5.com/article/news/local/snap-san-antonio-food-bank-feeding-texas-food-insecurity-hunger-texas-eric-cooper-one-big-beautiful-bill-congress-nutrition-benefits-assistance/273-120e797a-847a-4bc0-b845-fa7887e3d7b9",
+      "published_at": "2026-08-03T12:11:49+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/KCEN/images/ebf14b4c-24a8-44d1-a896-9d0482c30aef/ebf14b4c-24a8-44d1-a896-9d0482c30aef_750x422.jpg",
+        "url": "https://media.tegna-media.com/assets/KENS/images/4e264e39-8338-4928-b099-c4387d7e4342/20260803T121103/4e264e39-8338-4928-b099-c4387d7e4342_750x422.jpg",
         "alt": ""
       },
-      "description": "A skunk killed by family dogs has been classified as a positive rabies case under Texas law, bringing Kerr County's total to seven this year."
+      "uid": "45b94337-b46f-4bf6-a635-65d375cc3f45",
+      "description": "Food bank leaders say proposed SNAP funding changes could strain Texas and make it harder for families to put food on the table."
     },
     {
-      "title": "Most San Antonio school districts head into a new school year with budget deficits",
-      "summary": "Most San Antonio school districts are entering the new year with budget deficits — a citywide education story with wide daily-life reach.",
-      "source": "San Antonio Report",
-      "topic": "education",
-      "url": "https://sanantonioreport.org/san-antonio-school-districts-enter-2026-2027-with-deficits/",
-      "published_at": "2026-07-28T10:00:00+00:00",
+      "title": "New Texas THC restrictions take effect, leaving hemp businesses scrambling",
+      "summary": "New Texas restrictions on hemp-derived THC products took effect following a court ruling, leaving affected businesses scrambling to adjust. Owners warned that the changes could damage the state's hemp industry.",
+      "source": "KENS 5",
+      "topic": "business-jobs",
+      "url": "https://www.kens5.com/article/news/local/thc-restrictions-hemp-businesses/285-3fe2342e-5ba7-4fb0-997d-915430e8fc96",
+      "published_at": "2026-08-02T18:56:08+00:00",
       "image": {
-        "url": "https://i0.wp.com/sanantonioreport.org/wp-content/uploads/2026/07/SulRossMiddleSchool_NorthsideISD_NISD_StudentsClassroomHallway_iPadCellPhones_LockdownSafety_EmergencyPreparedness_11_03.19.2026_AmberEsparza-scaled-1.jpg?fit=1024%2C683&ssl=1",
+        "url": "https://media.tegna-media.com/assets/KHOU/images/37c23a16-7764-426c-8024-4a715b05f673/20260802T030535/37c23a16-7764-426c-8024-4a715b05f673_750x422.jpg",
         "alt": ""
       },
-      "description": "Out of a dozen school districts in San Antonio, only three are likely to balance their budget for the upcoming 2026-27 school year. Most San Antonio school districts head into a new school year with budget deficits was first posted on July 28, 2026 at 5:00 am.©2021 \"San Antonio",
-      "logo": "https://sanantonioreport.org/wp-content/uploads/2020/09/cropped-SA_Report_Logo_512pxArtboard-1-32x32.jpg"
+      "uid": "eaa61020-8a83-4f3a-aa59-85d5843bd760",
+      "description": "Some hemp-derived THC products are now restricted in Texas after a court ruling. Business owners warn the changes could hurt the hemp industry."
     }
   ],
-  "sports": [
-    {
-      "team": "Rangers",
-      "scores": [
-        "Rangers 7, Mariners 1"
-      ]
-    }
-  ]
+  "sports": []
 }

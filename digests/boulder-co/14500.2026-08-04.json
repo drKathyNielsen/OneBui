@@ -1,0 +1,189 @@
+{
+  "shortName": "Boulder, CO",
+  "metroCode": "14500",
+  "metro": "Boulder, CO",
+  "date": "2026-08-04",
+  "are_you_ok": [
+    {
+      "title": "Denver reaches a new record high temperature for Aug. 3",
+      "summary": "A new daily high temperature record for Denver on Aug. 3 was set on Monday afternoon, according to the National Weather Service. (Denver sits about 30 miles southeast of Boulder, CO.)",
+      "source": "CBS Colorado",
+      "topic": "heat",
+      "url": "https://www.cbsnews.com/colorado/news/denver-heat-record-high-temperature/",
+      "published_at": "2026-08-04T00:45:29+00:00",
+      "image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/03/250ba242-0596-4c77-a628-2d742fe3a8d6/thumbnail/1024x576/e1370e29f0d61562b43dc215cb49e65e/denver.jpg",
+        "alt": ""
+      },
+      "uid": "119722ea-e504-4599-bd92-26071110ab06",
+      "questions": [
+        "Did the record heat in the Denver area reach you in Boulder?",
+        "How have you been staying cool through this stretch?"
+      ],
+      "description": "A new daily high temperature record for Denver on Aug. 3 was set on Monday afternoon, according to the National Weather Service.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    }
+  ],
+  "conversation_starters": [
+    {
+      "title": "Flights diverted from Denver to Colorado Springs due to severe weather",
+      "summary": "Flights bound for Denver were diverted about 70 miles south to Colorado Springs due to severe weather; five passengers received medical attention and one passenger was taken to the hospital.",
+      "source": "9NEWS",
+      "topic": "severe-weather",
+      "url": "https://www.9news.com/article/travel/denver-international-airport/dia-flights-diverted-severe-weather/73-98228a78-8540-470a-a521-c1395ea9a533",
+      "published_at": "2026-08-04T13:24:07+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/de13580a-fdf0-4b33-b659-f4cacfb84fe3/20260804T132349/de13580a-fdf0-4b33-b659-f4cacfb84fe3_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "afaa2e31-9552-4355-ab1d-3a882670c695",
+      "questions": [
+        "Did you hear about the flights getting diverted from Denver down to Colorado Springs because of the storms?",
+        "Has the severe weather in the area affected any of your travel plans?"
+      ],
+      "description": "Five passengers received medical attention and one passenger was taken to the hospital."
+    },
+    {
+      "title": "Denver experiences 50-degree temperature swing as wildfire smoke moves in",
+      "summary": "Denver, about 30 miles southeast of Boulder, experienced an extraordinary 50-degree temperature swing within 14 hours, with smoky skies adding to the dramatic weather change.",
+      "source": "9NEWS",
+      "topic": "air-quality",
+      "url": "https://www.9news.com/article/weather/weather-colorado/denver-temperature-swing-wildfire-smoke/73-4690ac03-7a99-4473-9bf5-cc13cb2092cb",
+      "published_at": "2026-08-04T16:45:28+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/c9691a84-6f9b-4e72-a90e-391de57de562/20260706T182709/c9691a84-6f9b-4e72-a90e-391de57de562_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "855da9ff-8558-467d-82b7-97e376e23337",
+      "questions": [
+        "Did you notice that big temperature swing and the smoke moving in?",
+        "How have the smoky skies been affecting things where you are?"
+      ],
+      "description": "Denver experienced an extraordinary 50-degree temperature swing within 14 hours, with smoky skies adding to the dramatic weather change."
+    },
+    {
+      "title": "Broncos share new renderings of what Burnham Yard stadium site could look like",
+      "summary": "The Denver Broncos NFL team shared updated plans for a potential new stadium at Burnham Yard, a former rail yard just southwest of downtown Denver (about 30 miles southeast of Boulder), after listening to community feedback.",
+      "source": "9NEWS",
+      "topic": "business-jobs",
+      "url": "https://www.9news.com/article/sports/nfl/denver-broncos/broncos-release-updated-burnham-yard-renderings/73-6359889d-39a2-4bed-b843-3d522969195f",
+      "published_at": "2026-08-04T17:26:08+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/dc249885-9113-49e5-8a9d-92811fe85ebe/20260804T153221/dc249885-9113-49e5-8a9d-92811fe85ebe_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "04d293b3-8d2e-4bcd-8276-e2c4641b3038",
+      "questions": [
+        "Have you been following the Broncos' plans for the new stadium site?",
+        "What do folks in the area think about the proposed Burnham Yard stadium?"
+      ],
+      "description": "Broncos update their stadium site plans at Burnham Yard after listening to community feedback."
+    },
+    {
+      "title": "Artemis II crew takes the stage at Red Rocks",
+      "summary": "The crew of NASA's Artemis II mission took the stage at Red Rocks, the well-known outdoor amphitheater in the foothills about 20 miles southeast of Boulder, to talk about their upcoming trip around the Moon.",
+      "source": "CBS Colorado",
+      "topic": "civic-events",
+      "url": "https://www.cbsnews.com/colorado/video/artemis-ii-crew-takes-the-stage-at-red-rocks/",
+      "published_at": "2026-08-04T12:47:00+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/04/b1b518b4-9243-439a-9edf-a607c0c8d423/thumbnail/1024x576/43d01808fb1d630c0a48fe1f4d3c2ade/8030263e35c5224aa0376e9a9d4cf31d.jpg",
+        "alt": ""
+      },
+      "uid": "32ab0b3a-e2b9-4f33-8c52-3a0e5490e080",
+      "questions": [
+        "Did you catch that the Artemis II astronauts appeared at Red Rocks?",
+        "Have you ever been out to a show at Red Rocks?"
+      ],
+      "description": "The Artemis II crew took the stage at Red Rocks to talk about their latest space mission.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    },
+    {
+      "title": "Union members rejected the tentative Cargill agreement, continuing a more than 70-day lockout",
+      "summary": "Cargill and Teamsters Local 455 reached a tentative agreement that could have ended the over-70-day lockout at the meat processing plant in Fort Morgan, a town about 80 miles northeast of Boulder. Union members voted against the settlement, continuing the lockout.",
+      "source": "CBS Colorado",
+      "topic": "business-jobs",
+      "url": "https://www.cbsnews.com/colorado/video/union-members-rejected-the-tentative-cargill-agreement-continuing-a-more-than-70-day-lockout/",
+      "published_at": "2026-08-04T17:45:00+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/04/724b1be4-6328-436a-8da7-338e6e9138ec/thumbnail/1024x576/4f8b95597be94c009dcfbd757825c606/07e1fbfb102edee935eff775ebb2e2d6.jpg",
+        "alt": ""
+      },
+      "uid": "56b5c4e8-8cd6-4f14-a362-8acd50ddba6e",
+      "questions": [
+        "Have you been following the Cargill lockout over in Fort Morgan?",
+        "Is the labor situation at the meat plant something people in your area are talking about?"
+      ],
+      "description": "Cargill and Teamsters 455 reached a tentative agreement that could've ended the over 70-day lockout at the Fort Morgan meat processing plant. Union members voted against the settlement, continuing the lockout.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    },
+    {
+      "title": "Girl helps neighbors get to safety during fire at apartment complex",
+      "summary": "An 11-year-old girl rushed to help her neighbors after a fire broke out at an apartment building in Aurora, a large suburb about 35 miles southeast of Boulder, CO.",
+      "source": "CBS Colorado",
+      "topic": "human-interest",
+      "url": "https://www.cbsnews.com/colorado/video/girl-helps-neighbors-get-to-safety-during-fire-at-apartment-complex/",
+      "published_at": "2026-08-04T00:30:00+00:00",
+      "image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/04/12d6692a-3306-4c2e-a773-63e08ab6b93d/thumbnail/1024x576/69317ad4ad22265d7d0ff4e649a55da6/ccdf31caa40a13c90dd22bcbd40bb7be.jpg",
+        "alt": ""
+      },
+      "uid": "b82dcea3-e262-430d-b545-7b5c7b0cabf6",
+      "questions": [
+        "Did you see the story about the 11-year-old who helped her neighbors during the Aurora apartment fire?",
+        "What stood out to you about how she responded?"
+      ],
+      "description": "An 11-year-old girl rushed to help her neighbors after a fire broke out at an Aurora apartment building.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    }
+  ],
+  "sports": [],
+  "weather_alert": [
+    {
+      "event": "Air Quality Alert",
+      "area": "Boulder",
+      "severity": "Unknown",
+      "summary": "An air quality Action Day for multiple pollutants is in effect for Boulder County, which contains Boulder, CO, and much of the surrounding Front Range urban corridor, due to increasing wildfire smoke and ozone.",
+      "description": "Air Quality Alert issued August 3 at 6:10PM MDT by NWS Denver CO\n\nThe Colorado Department of Public Health and Environment has\nissued the following...\n\nWHAT...Action Day for Multiple Pollutants.\n\nWHERE...Douglas, Jefferson, Denver, western Arapahoe, western\nAdams, Broomfield, Boulder, Larimer, and Weld Counties\n\nWHEN...400 PM Monday August 03 to 400 PM Tuesday August 04\n\nIMPACTS...Action Day for Multiple Pollutants is now in effect for\nthe Front Range Urban Corridor.  Increasing wildfire smoke will\nresult in fine particulate concentrations reaching the Unhealthy\nfor Sensitive Groups category throughout the northern Front Range\nregion. Additionally, ozone could reach the Unhealthy for\nSensitive Groups category during the afternoons and evenings.  For\nColorado air quality conditions, forecasts, and advisories, visit:\nhttps://www.colorado.gov/airquality/colorado_summary.aspx   If\npossible, please help us reduce ozone pollution by limiting\ndriving gas and diesel-powered vehicles until at least 4 p.m.\nTuesday, August 4, 2026. Colorado is also addressing ozone\npollution through state policies. For more information about\nhealth impacts and how ozone pollution forms in Colorado, visit:\nhttps://cdphe.colorado.gov/ozone- pollution-and-your-health\n\nHEALTH INFORMATION...Increasing likelihood of respiratory symptoms\nin sensitive individuals, aggravation of heart or lung disease and\npremature mortality in people with cardiopulmonary disease and\nolder adults. People with heart or lung disease, older adults, and\nchildren should reduce prolonged or heavy exertion.",
+      "ends": "2026-08-04T16:00:00-06:00"
+    },
+    {
+      "event": "Air Quality Alert",
+      "area": "Boulder",
+      "severity": "Unknown",
+      "summary": "Air Quality Alert for the northern Front Range Urban Corridor — including Boulder County (covering Boulder, CO) along with neighboring Larimer, Weld, Broomfield, Jefferson, Denver, Douglas, and western Adams and Arapahoe Counties, stretching south and east of Boulder — with wildfire smoke and ozone reaching levels unhealthy for sensitive groups.",
+      "description": "Air Quality Alert issued August 4 at 9:10AM MDT by NWS Denver CO\n\nThe Colorado Department of Public Health and Environment has\nissued the following...\n\nWHAT...Action Day for Multiple Pollutants.\n\nWHERE...Douglas, Jefferson, Denver, western Arapahoe, western\nAdams, Broomfield, Boulder, Larimer, and Weld Counties\n\nWHEN...400 PM Monday August 03 to 400 PM Tuesday August 04\n\nIMPACTS...Action Day for Multiple Pollutants is now in effect for\nthe Front Range Urban Corridor.  Increasing wildfire smoke will\nresult in fine particulate concentrations reaching the Unhealthy\nfor Sensitive Groups category throughout the northern Front Range\nregion. Additionally, ozone could reach the Unhealthy for\nSensitive Groups category during the afternoons and evenings.  For\nColorado air quality conditions, forecasts, and advisories, visit:\nhttps://www.colorado.gov/airquality/colorado_summary.aspx   If\npossible, please help us reduce ozone pollution by limiting\ndriving gas and diesel-powered vehicles until at least 4 p.m.\nTuesday, August 4, 2026. Colorado is also addressing ozone\npollution through state policies. For more information about\nhealth impacts and how ozone pollution forms in Colorado, visit:\nhttps://cdphe.colorado.gov/ozone- pollution-and-your-health\n\nHEALTH INFORMATION...Increasing likelihood of respiratory symptoms\nin sensitive individuals, aggravation of heart or lung disease and\npremature mortality in people with cardiopulmonary disease and\nolder adults. People with heart or lung disease, older adults, and\nchildren should reduce prolonged or heavy exertion.",
+      "ends": "2026-08-05T09:00:00-06:00"
+    }
+  ],
+  "you_should_know": [
+    {
+      "title": "Grand jury indicts APD officer for use of force. Aurora has been under a consent decree for years to improve department's responses",
+      "summary": "There's been renewed attention on how Aurora, the large suburb just east of Denver (about 35 miles southeast of Boulder), polices the community in the years following Elijah McClain's death at the hands of Aurora Police Department (APD) officers and paramedics.",
+      "source": "9NEWS",
+      "topic": "policing",
+      "url": "https://www.9news.com/article/news/local/grand-jury-indicts-apd-officer-use-force-aurora-under-consent-decree-improve-departments-responses/73-5dd4623e-fa48-44f1-9ebd-a6d18bade262",
+      "published_at": "2026-08-04T04:30:43+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/a6f4ac88-654f-45cf-a906-9b41798aedc6/20260804T005158/a6f4ac88-654f-45cf-a906-9b41798aedc6_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "6eee95a7-2a9b-4612-b63a-a0ca7b8e45c3",
+      "description": "There's been renewed attention on how Aurora polices the community in the years following Elijah McClain's death at the hands of Aurora officers and paramedics."
+    },
+    {
+      "title": "Denver has cut water usage by 5% so far this summer, well short of 20% goal",
+      "summary": "More than 4,700 complaints have been filed with Denver Water, the utility serving the Denver area about 30 miles southeast of Boulder, by people who say their neighbors are using too much water.",
+      "source": "9NEWS",
+      "topic": "drought-water",
+      "url": "https://www.9news.com/article/news/local/denver-has-cut-water-usage-5-percent-this-summer-well-short-20-percent-goal/73-994e0f99-0751-42a7-8121-c79b8279db9d",
+      "published_at": "2026-08-04T00:59:05+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/f5a1837e-f1ac-4154-8b44-82cb2533eb01/20260717T215542/f5a1837e-f1ac-4154-8b44-82cb2533eb01_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "ab8d84c4-1985-4ed3-b17a-d1c6108af2c9",
+      "description": "More than 4,700 complaints have been field with Denver Water by people who say their neighbors are using too much water"
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "shortName": "Minneapolis, MN",
+  "metroCode": "33460",
+  "metro": "Minneapolis-St. Paul-Bloomington, MN-WI",
+  "date": "2026-08-02",
+  "are_you_ok": [
+    {
+      "title": "Ford F-150, F-250 recall issued over rear camera issue",
+      "summary": "",
+      "source": "FOX 9",
+      "topic": "transportation",
+      "url": "https://www.fox9.com/news/ford-f-150-f-250-recall-issued-over-rear-camera-issue",
+      "published_at": "2026-08-02T02:55:49+00:00",
+      "image": {
+        "url": "https://static.livenowfox.com/www.livenowfox.com/content/uploads/2026/08/gettyimages-1242123116-ford-trucks.jpg",
+        "alt": ""
+      },
+      "uid": "ae362a97-f1bc-4c3f-85ab-da370cbcf210",
+      "questions": [
+        "Do you or anyone close to you drive a Ford F-150 or F-250? The recall is over a rear-camera software issue.",
+        "Have you seen the news about the Ford truck recall?"
+      ],
+      "description": "Ford is recalling tens of thousands of its trucks over a software issue that can sometimes prevent a driver from seeing the video from the rear-facing camera."
+    }
+  ],
+  "conversation_starters": [
+    {
+      "title": "WWE SummerSlam brings thousands to Minneapolis",
+      "summary": "Thousands of people are ready for some rage in the cage. SummerSlam is bringing fans and former wrestling pros to Minnesota. Tyler Boike with Meet Minneapolis, the city's tourism and convention bureau, talks about the event's impact.",
+      "source": "CBS Minnesota",
+      "topic": "civic-events",
+      "url": "https://www.cbsnews.com/minnesota/video/wwe-summerslam-brings-thousands-to-minneapolis/",
+      "published_at": "2026-08-02T16:05:00+00:00",
+      "image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/02/941e641d-d4ca-4004-9535-74fd821efe96/thumbnail/1024x576/fb6f16db5f489c4aa1504436f6671377/6e77dfd7f0120931842a966544331c2d.jpg",
+        "alt": ""
+      },
+      "uid": "3067edcc-7fd8-47c8-bd30-8ee877a39a87",
+      "questions": [
+        "Did you follow any of the SummerSlam buzz?",
+        "Are you or your colleague a wrestling fan?"
+      ],
+      "description": "Thousands of people are ready for some rage in the cage. SummerSlam is bringing fans and former wrestling pros to Minnesota. Tyler Boike with Meet Minneapolis talks about the event's impact.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    },
+    {
+      "title": "Minnesota woman gives birth to ultra rare mono mono twins",
+      "summary": "",
+      "source": "CBS Minnesota",
+      "topic": "human-interest",
+      "url": "https://www.cbsnews.com/minnesota/video/minnesota-woman-gives-birth-to-ultra-rare-mono-mono-twins/",
+      "published_at": "2026-08-02T16:11:00+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/02/ca6c71e9-f1bc-4ecd-93ba-a76c961990ca/thumbnail/1024x576/322a0bfd8c3575463e5a7a1d092986dc/779f4c89ffb264f3965cab4d20db13dc.png",
+        "alt": ""
+      },
+      "uid": "81e490a5-eae8-4db7-986c-706f6ab32290",
+      "questions": [
+        "Did you see the story about the Minneapolis family with the ultra-rare mono mono twins?",
+        "What a rare and happy outcome — is that the kind of local story that catches your eye?"
+      ],
+      "description": "Only 1 in 250 pregnancies is identical twins. What's even rarer is something called mono mono twins; those happen in 1 in 10,000 pregnancies. We met a Minneapolis family proving the odds can be against you and with you at the very same time.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    },
+    {
+      "title": "US Forest Service to reopen some Boundary Waters entry points as wildfire risk lowers",
+      "summary": "The U.S. Forest Service will reopen more entry points to the Boundary Waters Canoe Area Wilderness — the vast canoe-country wilderness along the Canadian border in far northeastern Minnesota, roughly 250 miles north of Minneapolis, MN — as wildfire conditions improve.",
+      "source": "KARE 11",
+      "topic": "wildfire",
+      "url": "https://www.kare11.com/article/news/local/us-forest-service-to-reopen-some-boundary-waters-entry-points-as-wildfire-risk-lowers-mn/89-6f6cd1ed-ca26-4e8c-94d8-1b7c7632d618",
+      "published_at": "2026-08-02T02:56:29+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/d9ef081d-c58a-4d57-a12b-fe4ff0894cda/20260717T194437/d9ef081d-c58a-4d57-a12b-fe4ff0894cda_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "dfcfc9a8-3b09-491f-9ffc-3af8cc8ca299",
+      "questions": [
+        "Have you ever been to the Boundary Waters?",
+        "Good news the entry points are reopening — is that a spot on your radar?"
+      ],
+      "description": "The U.S. Forest Service will reopen more entry points to the Boundary Waters Canoe Area Wilderness as wildfire conditions improve."
+    }
+  ],
+  "sports": [
+    {
+      "team": "Lynx",
+      "scores": [
+        "Lynx 108, Fever 100"
+      ]
+    },
+    {
+      "team": "Twins",
+      "scores": [
+        "Mariners 4, Twins 3"
+      ]
+    },
+    {
+      "team": "Minnesota United",
+      "scores": [
+        "Minnesota United 1, San Diego FC 1"
+      ]
+    }
+  ],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "What we know about allegations against St. Paul Mayor Kaohly Her",
+      "summary": "Last week, we learned that St. Paul Police Chief Axel Henry had filed a complaint with the city Attorney's office against Mayor Kaohly Her, alleging sexual harassment. (St. Paul is the state capital and twin city just east of Minneapolis, MN.) In a letter, the Chief's Attorney alleges that Mayor Her had sent \"inappropriate, and indeed, unlawful text messages\" to city staffers. Since then, more allegations have surfaced, including Mayor Her's alleged comments about a Deputy Chief's breasts, as well as photoshopped images of city staffers including police officers. Mayor Her released this statement saying in part-- \"I recognize that some of my attempts at humor fell short of the standard I expect of myself.\" To help sort out what we know, Esme Murphy spoke earlier this morning with Hamline Law Professor David Schultz — Hamline University is a St. Paul school.",
+      "source": "CBS Minnesota",
+      "topic": "policing",
+      "url": "https://www.cbsnews.com/minnesota/video/what-we-know-about-allegations-against-st-paul-mayor-kaohly-her/",
+      "published_at": "2026-08-02T15:48:00+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/02/b53baf3c-50fa-4903-ab98-1a73838b441b/thumbnail/1024x576/af05a2710a246b068129eae6c05c653b/2bdf1fe7747a5b8788a7208342b94c65.png",
+        "alt": ""
+      },
+      "uid": "f7c3ca42-6cf4-44b4-b927-044d5dc95945",
+      "description": "Last week, we learned that St. Paul Police Chief Axel Henry had filed a complaint with the city Attorney's office against Mayor Kaohly Her, alleging sexual harassment. In a letter, the Chief's Attorney alleges that Mayor Her had sent “inappropriate, and indeed, unlawful text",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    },
+    {
+      "title": "Pig's Eye Park encampment residents voice fears over impending closure: \"There's humanity here\"",
+      "summary": "A man who introduced himself as Beekey said that he was directed to the encampment at Pig's Eye Park — a large, undeveloped riverside park on the southeast edge of St. Paul, just east of Minneapolis, MN — when he got out of jail about two and a half months ago. He said that this stint behind bars meant that he lost his housing. He's concerned about where he'd end up without the encampment.",
+      "source": "CBS Minnesota",
+      "topic": "housing",
+      "url": "https://www.cbsnews.com/minnesota/news/pigs-eye-park-encampment-residents-closure-concerns/",
+      "published_at": "2026-08-02T16:31:53+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/02/e01efa22-a6ac-413b-80af-aba772abb631/thumbnail/1024x576/4b8648450ff83570ccc8e3e96b40f03f/10p-pkg-pigs-eye-preps-wccoaztl-00-00-2805.jpg",
+        "alt": ""
+      },
+      "uid": "12821a9c-a431-44c2-bc80-d03cf3238939",
+      "description": "A man who introduced himself as Beekey said that he was directed to the encampment when he got out of jail about two and a half months ago. He said that this stint behind bars meant that he lost his housing. He's concerned about where he'd end up without the encampment.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    },
+    {
+      "title": "Minnesota enacts first-of-its-kind ban on AI \"nudification\" tech, but not without obstacles",
+      "summary": "",
+      "source": "CBS Minnesota",
+      "topic": "elections-politics",
+      "url": "https://www.cbsnews.com/minnesota/video/minnesota-enacts-first-of-its-kind-ban-on-ai-nudification-tech-but-not-without-obstacles/",
+      "published_at": "2026-08-02T15:52:00+00:00",
+      "image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/02/e177b560-246a-41e5-8b6c-978e7d3c18c6/thumbnail/1024x576/d6133f0ae4df7308ca49aab0b9d6ce39/57965e5da117fd1e55bbad9e8e14a509.png",
+        "alt": ""
+      },
+      "uid": "ef24c2a0-d981-4ea3-b1ff-e0e2180e33a5",
+      "description": "Minnesota's ban on AI nudification became law yesterday and Elon Musk isn't happy about it. Musk sued, claiming free speech violations, but on Friday lost a bid to keep the law from going into place. A federal court hearing is now set for later this month. Esme Murphy spoke with",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    },
+    {
+      "title": "Minnesota wildfires: Over 64,000 acres burning as crews continue to battle multiple fires",
+      "summary": "",
+      "source": "FOX 9",
+      "topic": "wildfire",
+      "url": "https://www.fox9.com/news/minnesota-wildfires-over-64000-acres-burning-crews-continue-battle-multiple-fires",
+      "published_at": "2026-08-02T02:18:56+00:00",
+      "image": {
+        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/08/5v-latest-on-wildfires_00.00.11.24.jpg",
+        "alt": ""
+      },
+      "uid": "a1b3f74d-f938-4f24-835e-5faa1854ad0e",
+      "description": "Fire crews are making progress on several wildfires sparked by lightning, but evacuations, closures and restrictions remain in place as officials work to keep people safe."
+    }
+  ]
+}

@@ -4,322 +4,291 @@
   "metroCode": "16740",
   "metro": "Charlotte-Concord-Gastonia, NC-SC",
   "range": {
-    "start": "2026-07-24",
-    "end": "2026-07-30"
+    "start": "2026-07-29",
+    "end": "2026-08-04"
   },
   "are_you_ok": [
     {
-      "title": "Severe storms possible Tuesday in the Charlotte area",
-      "summary": "The metro's own weather story of the week: heat built back up Monday and strong-to-severe storms threatened the Charlotte area Tuesday — the closest, broadest hit on people the reader might be checking on.",
+      "title": "Spectrum fiber optic lines intentionally cut in \"criminal attack\" in northeast Charlotte, officials say",
+      "summary": "Early on a Monday morning, Spectrum's fiber optic lines were intentionally severed in northeast Charlotte near Washington Boulevard, an act the company described as a 'criminal attack on our critical infrastructure.' The cut disrupted internet and phone service for area residents and businesses. Officials framed the incident as part of a broader, growing trend of fiber optic line thefts.",
       "source": "Queen City News",
-      "topic": "severe-weather",
-      "url": "https://www.qcnews.com/weather/weather-forecast/severe-storms-possible-tuesday-in-the-charlotte-area/",
-      "published_at": "2026-07-28T10:43:24+00:00",
+      "topic": "other",
+      "url": "https://www.qcnews.com/charlotte/spectrum-fiber-optic-lines-intentionally-cut-in-criminal-attack-in-northeast-charlotte-officials-say/",
+      "published_at": "2026-08-03T21:04:32+00:00",
       "image": {
-        "url": "https://www.qcnews.com/wp-content/uploads/sites/109/2026/07/NOON-FUTURECAST.png?w=900",
+        "url": "https://www.qcnews.com/wp-content/uploads/sites/109/2026/05/GettyImages-1318489002.jpg?w=900",
         "alt": ""
       },
-      "description": "We are tracking the threat for severe weather Tuesday, but there is a good amount of uncertainty about how significant the threat will be.",
+      "uid": "363fefb8-a2b4-4554-be24-c8f8f3e68a56",
+      "description": "CHARLOTTE, N.C. (QUEEN CITY NEWS) -- Spectrum officials say fiber optic lines in northeast Charlotte were intentionally cut \"in a criminal attack on our critical infrastructure.\" The incident happened early Monday morning, and the attack disrupted service for residents and",
       "logo": "https://www.qcnews.com/wp-content/uploads/sites/109/2025/05/cropped-Site-Icon.png?w=32",
-      "thread": [
-        {
-          "title": "Temperatures heat back up Monday; strong to severe storms possible on Tuesday",
-          "summary": "Incoming heat and possible severe storms across the metro; diffuse effect reaching the region. What's coming, people will ask each other.",
-          "source": "Queen City News",
-          "topic": "severe-weather",
-          "url": "https://www.qcnews.com/weather/weather-forecast/temperatures-heat-back-up-monday-strong-to-severe-storms-possible-on-tuesday/",
-          "published_at": "2026-07-27T11:21:28+00:00",
-          "image": {
-            "url": "https://www.qcnews.com/wp-content/uploads/sites/109/2026/07/MONDAY-HIGH-TEMPS.png?w=900",
-            "alt": ""
-          },
-          "description": "The good news is that we have a brighter day ahead; the bad news is that temperatures are going to be much hotter, with highs in the upper 80s and low 90s.",
-          "logo": "https://www.qcnews.com/wp-content/uploads/sites/109/2025/05/cropped-Site-Icon.png?w=32"
-        },
-        {
-          "title": "Severe storms possible Tuesday in the Charlotte area",
-          "summary": "Incoming severe weather threat for the Charlotte metro — a just-ahead event the broad local population is affected by. Continuation of the Tuesday-storms tracking.",
-          "source": "Queen City News",
-          "topic": "severe-weather",
-          "url": "https://www.qcnews.com/weather/weather-forecast/severe-storms-possible-tuesday-in-the-charlotte-area/",
-          "published_at": "2026-07-28T10:43:24+00:00",
-          "image": {
-            "url": "https://www.qcnews.com/wp-content/uploads/sites/109/2026/07/NOON-FUTURECAST.png?w=900",
-            "alt": ""
-          },
-          "description": "We are tracking the threat for severe weather Tuesday, but there is a good amount of uncertainty about how significant the threat will be.",
-          "logo": "https://www.qcnews.com/wp-content/uploads/sites/109/2025/05/cropped-Site-Icon.png?w=32"
-        }
+      "questions": [
+        "Did the internet or phone outage in northeast Charlotte affect you or anyone on your team?",
+        "Were you able to work around any service disruptions this week?"
       ]
     },
     {
-      "title": "Caldwell County sheriff confirms deputies assisted in ICE operation in Wilson Creek; 13 arrests made",
-      "summary": "Caldwell County deputies confirmed assisting an ICE operation in Wilson Creek with 13 arrests — an enforcement action rippling anxiety through immigrant families the reader may be worried about.",
-      "source": "NBC Charlotte",
-      "topic": "immigration-enforcement",
-      "url": "https://www.wcnc.com/article/news/politics/immigration-news/dhs-ice-operation-caldwell-county-nc/275-57441f1e-eab7-4812-827c-e6d96421b6eb",
-      "published_at": "2026-07-28T16:27:09+00:00",
+      "title": "Rain and storms likely today, with localized flash flood threats",
+      "summary": "A day of rain and thunderstorms brought the risk of localized flash flooding, with repeated downpours expected to cause high-water problems particularly in low-lying areas and spots with poor drainage.",
+      "source": "Queen City News",
+      "topic": "flood",
+      "url": "https://www.qcnews.com/weather/weather-forecast/rain-and-storms-likely-today-with-localized-flash-flood-threats/",
+      "published_at": "2026-08-02T11:31:52+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/WCNC/images/dec982ab-8b98-4707-8869-572eee8dcb7e/20260318T204938/dec982ab-8b98-4707-8869-572eee8dcb7e_750x422.jpg",
+        "url": "https://www.qcnews.com/wp-content/uploads/sites/109/2026/08/severe-risk-today-1.png?w=900",
         "alt": ""
       },
-      "description": "Caldwell County deputies assisted federal agents in an ICE operation on Sunday at Wilson Creek, resulting in 13 arrests, Sheriff Kevin Bean confirmed."
+      "uid": "bbe61d51-fbdb-4bff-8169-5010b425aac2",
+      "description": "Repeated downpours could lead to localized high-water issues, especially in poor-drainage and low-lying spots.",
+      "logo": "https://www.qcnews.com/wp-content/uploads/sites/109/2025/05/cropped-Site-Icon.png?w=32",
+      "questions": [
+        "Have the heavy downpours or any flooding caused trouble where you are?",
+        "Is your commute or home holding up with all the rain?"
+      ]
     }
   ],
   "conversation_starters": [
     {
-      "title": "Charlotte developer behind River District lays off 15% of staff, cites market slowdown",
-      "summary": "The Charlotte developer behind the marquee River District project cut 15% of staff citing a market slowdown — a hometown-jobs story that lands directly on local workers and opens a real exchange.",
+      "title": "Historic Carolina drought likely to end by October",
+      "summary": "A months-long, historically severe drought across the Carolinas began to ease after recent rainfall. As conditions improved, Iredell County (which includes the town of Troutman, north of Charlotte) was among 40 North Carolina counties moved into the least-severe Stage 1 drought category by the state Department of Environmental Quality. With the deficit shrinking, Troutman town officials lifted mandatory water restrictions and reopened the splash pad at ESC Park. Forecasters at the federal Climate Prediction Center then signaled the drought is likely to end by October.",
+      "source": "Queen City News",
+      "topic": "drought-water",
+      "url": "https://www.qcnews.com/weather/historic-carolina-drought-likely-to-end-by-october/",
+      "published_at": "2026-08-04T17:40:28+00:00",
+      "image": {
+        "url": "https://www.qcnews.com/wp-content/uploads/sites/109/2026/08/drought-removal-likely.png?w=900",
+        "alt": ""
+      },
+      "uid": "f88df25c-a8ce-4147-bd71-da21e9b5652f",
+      "description": "The Climate Prediction Center (CPC) has released the greatest news about the drought that the Carolinas have heard over the last several months.",
+      "logo": "https://www.qcnews.com/wp-content/uploads/sites/109/2025/05/cropped-Site-Icon.png?w=32",
+      "questions": [
+        "Have you noticed the drought affecting things where you are?",
+        "Did you catch the forecast that the Carolinas drought may end by October?"
+      ],
+      "thread": [
+        {
+          "title": "Troutman ESC Park splash pad reopens as water restrictions loosen",
+          "summary": "",
+          "source": "Queen City News",
+          "topic": "drought-water",
+          "url": "https://www.qcnews.com/news/u-s/north-carolina/iredell-county/troutman-esc-park-splash-pad-reopens-as-water-restrictions-loosen/",
+          "published_at": "2026-08-02T02:05:07+00:00",
+          "image": {
+            "url": "https://www.qcnews.com/wp-content/uploads/sites/109/2026/08/iredell-county-splash-pad.png?w=900",
+            "alt": ""
+          },
+          "uid": "a3f538f4-80da-4d07-ac20-c94abe914660",
+          "description": "TROUTMAN, N.C. (QUEEN CITY NEWS) -- Forty counties in North Carolina are now in the Stage 1 drought category after recent rainfall made a dent in the deficit, according to the state Department of Environmental Quality. Iredell County was one recently moved. On Friday, Troutman",
+          "logo": "https://www.qcnews.com/wp-content/uploads/sites/109/2025/05/cropped-Site-Icon.png?w=32"
+        },
+        {
+          "title": "Historic Carolina drought likely to end by October",
+          "summary": "",
+          "source": "Queen City News",
+          "topic": "drought-water",
+          "url": "https://www.qcnews.com/weather/historic-carolina-drought-likely-to-end-by-october/",
+          "published_at": "2026-08-04T17:40:28+00:00",
+          "image": {
+            "url": "https://www.qcnews.com/wp-content/uploads/sites/109/2026/08/drought-removal-likely.png?w=900",
+            "alt": ""
+          },
+          "uid": "f88df25c-a8ce-4147-bd71-da21e9b5652f",
+          "description": "The Climate Prediction Center (CPC) has released the greatest news about the drought that the Carolinas have heard over the last several months.",
+          "logo": "https://www.qcnews.com/wp-content/uploads/sites/109/2025/05/cropped-Site-Icon.png?w=32"
+        }
+      ]
+    },
+    {
+      "title": "Isolated storms Monday, stalled front causes more widespread rain Tuesday",
+      "summary": "Unsettled weather settled in across the week: isolated storms began on Monday, and by Tuesday a stalled weather front spread more widespread rain and showers. The pattern kept scattered storms in the forecast for much of the week alongside cooler-than-normal high temperatures.",
       "source": "NBC Charlotte",
-      "topic": "business-jobs",
-      "url": "https://www.wcnc.com/article/money/business/crescent-communities-layoffs-charlotte-north-carolina/275-7d34421c-3755-4e57-9991-73efc1baf552",
-      "published_at": "2026-07-30T17:38:16+00:00",
+      "topic": "severe-weather",
+      "url": "https://www.wcnc.com/article/weather/forecast/charlotte-weather-forecast-update/275-50501550",
+      "published_at": "2026-08-03T22:50:35+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/WCNC/images/e0199d2d-ce19-45c7-a614-6a4f2b6fd4dc/20250603T203247/e0199d2d-ce19-45c7-a614-6a4f2b6fd4dc_750x422.jpg",
+        "url": "https://media.tegna-media.com/assets/WCNC/images/fbd53ede-70b9-4d8c-94d3-991b7c1735c5/20260803T124859/fbd53ede-70b9-4d8c-94d3-991b7c1735c5_750x422.jpg",
         "alt": ""
       },
-      "description": "Crescent Communities says a “slower development market” led to layoffs impacting 15% of staff."
-    },
-    {
-      "title": "Ciara to headline MLS All-Star halftime show in Charlotte",
-      "summary": "MLS All-Star buzz building all week: Ciara was announced Sunday as the halftime headliner at Bank of America Stadium, giving the city a fun, easy opener.",
-      "source": "Queen City News",
-      "topic": "civic-events",
-      "url": "https://www.qcnews.com/charlotte/ciara-to-headline-mls-all-star-halftime-show-in-charlotte/",
-      "published_at": "2026-07-26T01:20:17+00:00",
-      "image": {
-        "url": "https://www.qcnews.com/wp-content/uploads/sites/109/2026/07/GettyImages-2254228752.jpg?w=900",
-        "alt": ""
-      },
-      "description": "CHARLOTTE, N.C. (QUEEN CITY NEWS) -- The MLS All-Star Game is getting a major Grammy-award-winning artist to headline the halftime show. Multi-platinum pop superstar Ciara will bring her electric stage presence and chart-topping hits to Bank of America Stadium during the MLS",
-      "logo": "https://www.qcnews.com/wp-content/uploads/sites/109/2025/05/cropped-Site-Icon.png?w=32",
-      "thread": [
-        {
-          "title": "Ciara to headline MLS All-Star halftime show in Charlotte",
-          "summary": "Major marquee event with celebrity headliner in Charlotte. You could open with: \"Did you hear Ciara's headlining the MLS All-Star halftime show here?\"",
-          "source": "Queen City News",
-          "topic": "civic-events",
-          "url": "https://www.qcnews.com/charlotte/ciara-to-headline-mls-all-star-halftime-show-in-charlotte/",
-          "published_at": "2026-07-26T01:20:17+00:00",
-          "image": {
-            "url": "https://www.qcnews.com/wp-content/uploads/sites/109/2026/07/GettyImages-2254228752.jpg?w=900",
-            "alt": ""
-          },
-          "description": "CHARLOTTE, N.C. (QUEEN CITY NEWS) -- The MLS All-Star Game is getting a major Grammy-award-winning artist to headline the halftime show. Multi-platinum pop superstar Ciara will bring her electric stage presence and chart-topping hits to Bank of America Stadium during the MLS",
-          "logo": "https://www.qcnews.com/wp-content/uploads/sites/109/2025/05/cropped-Site-Icon.png?w=32"
-        },
-        {
-          "title": "Ciara to headline 2026 MLS All-Star Halftime Show at Bank of America Stadium",
-          "summary": "Ciara headlining MLS All-Star halftime show in Charlotte, marquee local event. You could open with: 'Are you going to catch Ciara at the MLS All-Star halftime show?'",
-          "source": "NBC Charlotte",
-          "topic": "civic-events",
-          "url": "https://www.wcnc.com/article/entertainment/ciara-headlines-mls-all-star-game-halftime-show-bank-of-america-stadium-charlotte-nc/275-8cc53e69-a21e-4a2d-9e0e-f808de4059ae",
-          "published_at": "2026-07-27T16:28:26+00:00",
-          "image": {
-            "url": "https://media.tegna-media.com/assets/WCNC/images/a8ff65d7-7d8f-41f1-b38c-772f92ddca69/20260727T161809/a8ff65d7-7d8f-41f1-b38c-772f92ddca69_750x422.jpg",
-            "alt": ""
-          },
-          "description": "The Grammy-winning star will headline the halftime show, blending her musical prowess with her role as a Seattle Sounders FC minority owner."
-        }
+      "uid": "707a2cc7-ea4a-4329-ac04-e2f1fe312254",
+      "description": "Scattered storms and showers are sticking around through much of the week with below normal high temperatures.",
+      "questions": [
+        "Have the storms and cooler-than-usual temperatures been affecting your week?",
+        "Any plans that the stretch of rain has thrown off?"
       ]
     },
     {
-      "title": "135 people move to Charlotte region every day: CRBA report",
-      "summary": "A new CRBA analysis pegged Charlotte-region growth at 135 new residents a day — first reported Friday, sharpened into a fresh headline Monday; the region's defining growth-and-housing talker.",
-      "source": "Queen City News",
-      "topic": "business-jobs",
-      "url": "https://www.qcnews.com/charlotte/135-people-move-to-charlotte-region-every-day-crba-report/",
-      "published_at": "2026-07-27T20:44:30+00:00",
+      "title": "K-9 Bo helps locate missing Belmont child",
+      "summary": "A police dog named K-9 Bo was credited with locating a missing child in Belmont, a town west of Charlotte, prompting praise from officials who said they were proud of the dog's work. As a single-item story, this covers the successful search without further developments.",
+      "source": "NBC Charlotte",
+      "topic": "human-interest",
+      "url": "https://www.wcnc.com/article/news/local/gastonia-k-9-bo-finds-missing-belmont-child/275-9f19c678-0239-426d-bfa8-cf9028bc66fa",
+      "published_at": "2026-08-04T17:02:40+00:00",
       "image": {
-        "url": "https://www.qcnews.com/wp-content/uploads/sites/109/2026/06/GettyImages-2191398422.jpg?w=900",
+        "url": "https://media.tegna-media.com/assets/WCNC/images/ffe1b5eb-e789-4da3-85ba-2b8e25e0e262/20260804T163703/ffe1b5eb-e789-4da3-85ba-2b8e25e0e262_750x422.jpg",
         "alt": ""
       },
-      "description": "A Charlotte Regional Business Alliance report found that Charlotte now leads the United States in domestic migration.",
-      "logo": "https://www.qcnews.com/wp-content/uploads/sites/109/2025/05/cropped-Site-Icon.png?w=32",
-      "thread": [
-        {
-          "title": "Here's how many people move to the Charlotte region daily, according to new analysis",
-          "summary": "Charlotte's daily in-migration and sustained growth — broadly known local-condition story, easy work-safe opener. You could open with: 'Saw that piece on how many people are moving to Charlotte every day — the growth is wild, right?'",
-          "source": "NBC Charlotte",
-          "topic": "housing",
-          "url": "https://www.wcnc.com/article/news/local/charlotte-region-population-boom-how-many-new-people-move-here-daily/275-433e7613-036c-43cd-9f6e-c92e01fd3069",
-          "published_at": "2026-07-24T12:47:38+00:00",
-          "image": null,
-          "description": "Experts say a combination of factors is fueling Charlotte’s sustained growth, including a strong job market, corporate investment and expanding infrastructure."
-        },
-        {
-          "title": "135 people move to Charlotte region every day: CRBA report",
-          "summary": "Charlotte leads the US in domestic migration, 135 people/day — metro-prominent, work-safe opener. You could open with: 'Did you see we're the fastest-growing region in the country — 135 people a day moving here?' Continuation of the CRBA report.",
-          "source": "Queen City News",
-          "topic": "business-jobs",
-          "url": "https://www.qcnews.com/charlotte/135-people-move-to-charlotte-region-every-day-crba-report/",
-          "published_at": "2026-07-27T20:44:30+00:00",
-          "image": {
-            "url": "https://www.qcnews.com/wp-content/uploads/sites/109/2026/06/GettyImages-2191398422.jpg?w=900",
-            "alt": ""
-          },
-          "description": "A Charlotte Regional Business Alliance report found that Charlotte now leads the United States in domestic migration.",
-          "logo": "https://www.qcnews.com/wp-content/uploads/sites/109/2025/05/cropped-Site-Icon.png?w=32"
-        }
+      "uid": "eb9c485e-14d4-4d13-b918-dc873e6c19f0",
+      "description": "\"We're proud of K-9 Bo.\"",
+      "questions": [
+        "Did you see the story about K-9 Bo finding the missing child in Belmont?",
+        "Are you familiar with the Belmont area?"
       ]
     },
     {
-      "title": "24 Hours of Booty raises over $1.6 Million during 25th anniversary event in Charlotte",
-      "summary": "24 Hours of Booty cleared $1.6M at its 25th-anniversary ride in Charlotte — a feel-good civic milestone that invites a warm exchange.",
-      "source": "Queen City News",
-      "topic": "civic-events",
-      "url": "https://www.qcnews.com/24-foundation/24-hours-of-booty-raises-over-1-6-million-during-25th-anniversary-event-in-charlotte/",
-      "published_at": "2026-07-29T13:26:12+00:00",
+      "title": "Charlotte rallies to Roof Above’s side after roof collapse",
+      "summary": "Heavy rain caused a roof to collapse at a building operated by Roof Above, a Charlotte organization that serves people experiencing homelessness by providing meals, hot showers, and laundry services. Nearly a month after the collapse, other community groups stepped in to help the organization keep those services running.",
+      "source": "Charlotte Public Radio",
+      "topic": "human-interest",
+      "url": "https://www.wfae.org/race-equity/2026-08-04/charlotte-rallies-to-roof-aboves-side-after-roof-collapse",
+      "published_at": "2026-08-04T15:33:16+00:00",
       "image": {
-        "url": "https://www.qcnews.com/wp-content/uploads/sites/109/2026/07/F24467B032D8345EED6EC9954D9A000F_3.jpg?w=900",
+        "url": "https://npr.brightspotcdn.com/dims4/default/a485fa2/2147483647/strip/false/crop/5712x4284+0+0/resize/704x528!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F8d%2F55%2Fc629d58c41c68d2ab84c7595aaf6%2Fimg-2576.jpeg",
         "alt": ""
       },
-      "description": "The 25th edition of Charlotte’s annual 24 Hours of Booty event raised more than $1.6 million to support cancer survivorship and patient navigation programs, organizers announced.",
-      "logo": "https://www.qcnews.com/wp-content/uploads/sites/109/2025/05/cropped-Site-Icon.png?w=32"
-    },
-    {
-      "title": "Charlotte business leaders say city will be ready if tapped for draft, Super Bowl",
-      "summary": "Charlotte business leaders pitched the city as draft- and Super Bowl-ready — an aspirational big-events story that gets people talking about the city's trajectory.",
-      "source": "Queen City News",
-      "topic": "civic-events",
-      "url": "https://www.qcnews.com/nfl/charlotte-business-leaders-say-city-will-be-ready-if-tapped-for-draft-super-bowl/",
-      "published_at": "2026-07-25T02:20:47+00:00",
-      "image": {
-        "url": "https://www.qcnews.com/wp-content/uploads/sites/109/2026/07/NFL-draft-set.jpg?w=900",
-        "alt": ""
-      },
-      "description": "Goodell told Panthers owner David Tepper that the city, stadium and its facilities were \"Super Bowl-quality.”",
-      "logo": "https://www.qcnews.com/wp-content/uploads/sites/109/2025/05/cropped-Site-Icon.png?w=32"
+      "uid": "de1aca78-88a1-47d0-aa2d-37972d66b1eb",
+      "description": "Almost a month after heavy rain caused a roof to collapse at one of their buildings, other groups are stepping up to help Roof Above continue its efforts to provide meals, hot showers and laundry services to people who are homeless.",
+      "questions": [
+        "Did you see that groups around town are stepping up to help Roof Above after the roof collapse?",
+        "Are you familiar with Roof Above's work with people who are homeless?"
+      ]
     }
   ],
   "you_should_know": [
     {
-      "title": "Questions raised over Flock camera oversight after CMPD officer charged",
-      "summary": "A CMPD officer's charge cracked open questions about Flock camera oversight — a city policing-and-surveillance story worth walking in aware of.",
+      "title": "Charlotte City Council faces I-77 South project decision deadline",
+      "summary": "Charlotte's new mayor, Robert Harrington, took charge of the City Council at a consequential moment, inheriting divisive decisions. Two loomed largest: whether to proceed with toll lanes on Interstate 77 south of the city, and how to regulate the growth of data centers. As the story developed, attention narrowed to a pressing deadline for the council to decide on the I-77 South toll lane project, with data center rules still under discussion.",
       "source": "Queen City News",
-      "topic": "policing",
-      "url": "https://www.qcnews.com/charlotte/questions-raised-over-flock-camera-oversight-after-cmpd-officer-charged/",
-      "published_at": "2026-07-30T20:14:33+00:00",
-      "image": {
-        "url": "https://www.qcnews.com/wp-content/uploads/sites/109/2026/07/CLT-Flock-Cam-073026.jpg?w=900",
-        "alt": ""
-      },
-      "description": "A Charlotte-Mecklenburg Police officer was accused of misusing Flock camera system data to aid a drug investigation target, sparking privacy concerns regarding the oversight of license plate reader technology.",
-      "logo": "https://www.qcnews.com/wp-content/uploads/sites/109/2025/05/cropped-Site-Icon.png?w=32"
-    },
-    {
-      "title": "NCDOT outlines $300M community investment tied to I-77 toll project",
-      "summary": "The I-77 South toll saga advanced from transparency complaints over the NCDOT chief's private meeting (Friday) to NCDOT outlining a $300M community-investment package — a defining in-metro transportation thread.",
-      "source": "NBC Charlotte",
       "topic": "transportation",
-      "url": "https://www.wcnc.com/article/news/politics/ncdot-letter-interstate-77-commitment-charlotte-affordable-housing-transportation-plan/275-e019cf57-d9c4-4563-a900-2695b560abb0",
-      "published_at": "2026-07-29T01:34:21+00:00",
+      "url": "https://www.qcnews.com/charlotte/charlotte-city-council-faces-i-77-south-project-decision-deadline/",
+      "published_at": "2026-08-04T02:17:03+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/WCNC/images/87b41590-7d7d-4cad-b91f-47bb953a1438/20260702T213850/87b41590-7d7d-4cad-b91f-47bb953a1438_750x422.jpg",
+        "url": "https://www.qcnews.com/wp-content/uploads/sites/109/2026/06/i-77-south-projec.png?w=900",
         "alt": ""
       },
-      "description": "State officials say they heard a \"clear message\" about the controversial expansion, laying out a set of commitments they claim would improve the region.",
+      "uid": "f9858790-d15a-4beb-ba06-e85b078e1e4c",
+      "description": "Charlotte City Council members face a looming deadline to decide on the I-77 South toll lane project and continue discussions regarding regulations for data centers.",
+      "logo": "https://www.qcnews.com/wp-content/uploads/sites/109/2025/05/cropped-Site-Icon.png?w=32",
       "thread": [
         {
-          "title": "Sustain Charlotte calls for transparency after NCDOT Chief's private meeting on I-77 South toll project",
-          "summary": "Advocacy group pressing NCDOT for transparency on I-77 South toll project — institutional transportation dispute in the metro. Kept as you-should-know under the context keep-when-unsure inversion; low confidence, borderline noise.",
+          "title": "Charlotte mayor to lead first City Council meeting, facing major decisions on toll lanes and data centers",
+          "summary": "",
           "source": "NBC Charlotte",
-          "topic": "transportation",
-          "url": "https://www.wcnc.com/article/news/local/sustain-charlotte-calls-for-transparency-after-ncdot-chiefs-private-meeting-on-i-77-south-toll-project/275-6e1ad84d-4907-4e92-8e07-9d00079ebff1",
-          "published_at": "2026-07-25T00:45:43+00:00",
+          "topic": "data-centers",
+          "url": "https://www.wcnc.com/article/news/local/mayor-harrington-first-city-council-meeting-charlotte-nc/275-60267c43-978e-4d65-99fe-c0e11bfc090b",
+          "published_at": "2026-08-03T13:47:12+00:00",
           "image": {
-            "url": "https://media.tegna-media.com/assets/WCNC/images/87b41590-7d7d-4cad-b91f-47bb953a1438/20260702T213850/87b41590-7d7d-4cad-b91f-47bb953a1438_750x422.jpg",
+            "url": "https://media.tegna-media.com/assets/WCNC/images/aa42b537-b41e-4873-bc13-716a6789681c/20260803T132853/aa42b537-b41e-4873-bc13-716a6789681c_750x422.jpg",
             "alt": ""
           },
-          "description": "Advocacy group Sustain Charlotte is pressing for public disclosure after North Carolina's transportation secretary met privately with community leaders."
+          "uid": "7575744e-52ff-4872-82ec-cab4b1b187c1",
+          "description": "Mayor Robert Harrington takes the helm at a crucial time, facing divisive issues like the I-77 toll lanes and data center growth."
         },
         {
-          "title": "NCDOT outlines $300M community investment tied to I-77 toll project",
-          "summary": "Continuation of the I-77 toll project incident; $300M community investment tied to a controversial expansion affecting the region. Institutional/infrastructure context worth walking in aware of, but a contentious project is not a safe opener. Keep as you-should-know.",
-          "source": "NBC Charlotte",
+          "title": "Charlotte City Council faces I-77 South project decision deadline",
+          "summary": "",
+          "source": "Queen City News",
           "topic": "transportation",
-          "url": "https://www.wcnc.com/article/news/politics/ncdot-letter-interstate-77-commitment-charlotte-affordable-housing-transportation-plan/275-e019cf57-d9c4-4563-a900-2695b560abb0",
-          "published_at": "2026-07-29T01:34:21+00:00",
+          "url": "https://www.qcnews.com/charlotte/charlotte-city-council-faces-i-77-south-project-decision-deadline/",
+          "published_at": "2026-08-04T02:17:03+00:00",
           "image": {
-            "url": "https://media.tegna-media.com/assets/WCNC/images/87b41590-7d7d-4cad-b91f-47bb953a1438/20260702T213850/87b41590-7d7d-4cad-b91f-47bb953a1438_750x422.jpg",
+            "url": "https://www.qcnews.com/wp-content/uploads/sites/109/2026/06/i-77-south-projec.png?w=900",
             "alt": ""
           },
-          "description": "State officials say they heard a \"clear message\" about the controversial expansion, laying out a set of commitments they claim would improve the region."
+          "uid": "f9858790-d15a-4beb-ba06-e85b078e1e4c",
+          "description": "Charlotte City Council members face a looming deadline to decide on the I-77 South toll lane project and continue discussions regarding regulations for data centers.",
+          "logo": "https://www.qcnews.com/wp-content/uploads/sites/109/2025/05/cropped-Site-Icon.png?w=32"
         }
       ]
     },
     {
-      "title": "NC Senate moves pair of elections bills forward, would cut early voting days in primary elections",
-      "summary": "The NC Senate moved a pair of elections bills forward that would cut early-voting days in primaries — a statewide change landing on how voters here cast ballots.",
-      "source": "Charlotte Public Radio",
-      "topic": "elections-politics",
-      "url": "https://www.wfae.org/2026-07-28/nc-senate-moves-pair-of-elections-bill-forward-would-cut-early-voting-days-in-primary-elections",
-      "published_at": "2026-07-28T22:18:53+00:00",
-      "image": {
-        "url": "https://npr.brightspotcdn.com/dims4/default/3f5eeb8/2147483647/strip/false/crop/3600x2402+0+0/resize/791x528!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F55%2F89%2F92670ea6439b8436bbf9fab4bd9a%2F20220915-jg-wunc-electionrequests07.jpg",
-        "alt": ""
-      },
-      "description": "NC Senate advances a pair of elections bills, shortening early voting period in primaries and special elections among a slew of other changes."
-    },
-    {
-      "title": "DHS denies new ICE detention center in NC, but confirms expansion plans",
-      "summary": "ICE detention expansion in eastern NC dominated headlines: after reports of a major new center (Friday), DHS denied a 'new' facility Monday but confirmed expansion plans.",
-      "source": "NBC Charlotte",
-      "topic": "immigration-enforcement",
-      "url": "https://www.wcnc.com/article/news/local/former-prison-could-become-dedicated-ice-detention-center/275-f784a812-f3e9-4ee2-ad16-91858b0e5779",
-      "published_at": "2026-07-27T14:21:34+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/WCNC/images/b0eb6470-3b88-4070-a255-9e8ea68aa9cc/20260727T031918/b0eb6470-3b88-4070-a255-9e8ea68aa9cc_750x422.jpg",
-        "alt": ""
-      },
-      "description": "Homeland Security has denied plans to announce a new immigration detention center in North Carolina, despite reports of repurposing a former prison.",
-      "thread": [
-        {
-          "title": "ICE plans major new immigrant detention center in eastern North Carolina",
-          "summary": "Plan/agreement to open a future ICE detention center in eastern NC — institutional and forward-looking, so you-should-know, not a check-in. Enforcement-climate context for someone here.",
-          "source": "Charlotte Public Radio",
-          "topic": "immigration-enforcement",
-          "url": "https://www.wfae.org/race-equity/2026-07-24/ice-plans-major-new-immigrant-detention-center-in-eastern-north-carolina",
-          "published_at": "2026-07-24T16:27:02+00:00",
-          "image": null,
-          "description": "A new immigration detention center could open in eastern North Carolina by the end of 2026."
-        },
-        {
-          "title": "DHS denies new ICE detention center in NC, but confirms expansion plans",
-          "summary": "Continuation of ICE detention-center expansion story; institutional/forward-looking plan for a facility, not an action landing on people now — you should know, not a check-in. Political-institutional NC context.",
-          "source": "NBC Charlotte",
-          "topic": "immigration-enforcement",
-          "url": "https://www.wcnc.com/article/news/local/former-prison-could-become-dedicated-ice-detention-center/275-f784a812-f3e9-4ee2-ad16-91858b0e5779",
-          "published_at": "2026-07-27T14:21:34+00:00",
-          "image": {
-            "url": "https://media.tegna-media.com/assets/WCNC/images/b0eb6470-3b88-4070-a255-9e8ea68aa9cc/20260727T031918/b0eb6470-3b88-4070-a255-9e8ea68aa9cc_750x422.jpg",
-            "alt": ""
-          },
-          "description": "Homeland Security has denied plans to announce a new immigration detention center in North Carolina, despite reports of repurposing a former prison."
-        }
-      ]
-    },
-    {
-      "title": "New NC State Health Plan raises concerns among employees who use Atrium Health",
-      "summary": "The new NC State Health Plan raised alarms for employees who use Atrium Health — a public-health-and-benefits story hitting the in-metro workforce directly.",
+      "title": "'Unprecedented penalty': Cornelius reverses opposition to I-77 South toll lanes after state budget threatens claw backs",
+      "summary": "The town of Cornelius, a Charlotte suburb, reversed its opposition to the proposed I-77 South toll lanes after a state budget provision threatened to 'claw back' funding—described as an 'unprecedented penalty.' Town official Bilodeau stressed that restoring support was a response to that financial threat, not an endorsement of the toll lanes themselves.",
       "source": "Queen City News",
-      "topic": "public-health",
-      "url": "https://www.qcnews.com/health-care/new-nc-state-health-plan-raises-concerns-among-employees-who-use-atrium-health/",
-      "published_at": "2026-07-24T22:46:15+00:00",
+      "topic": "transportation",
+      "url": "https://www.qcnews.com/news/u-s/north-carolina/mecklenburg-county/cornelius/unprecedented-penalty-cornelius-reverses-opposition-to-i-77-south-toll-lanes-after-state-budget-threatens-claw-backs/",
+      "published_at": "2026-08-03T21:19:38+00:00",
       "image": {
-        "url": "https://www.qcnews.com/wp-content/uploads/sites/109/2026/07/Atrium-ER.jpg?w=900",
+        "url": "https://www.qcnews.com/wp-content/uploads/sites/109/2026/06/i-77-south-projec.png?w=900",
         "alt": ""
       },
-      "description": "State Health Plan leaders are confident the health care system has enough capacity to accommodate employees who choose preferred providers.",
+      "uid": "8b11f6a6-8282-45d7-b01d-d58f7608eafa",
+      "description": "Bilodeau said Cornelius' decision to restore support is not an endorsement of the toll lanes themselves.",
       "logo": "https://www.qcnews.com/wp-content/uploads/sites/109/2025/05/cropped-Site-Icon.png?w=32"
+    },
+    {
+      "title": "Charlotte City Council considering air conditioning requirements for landlords",
+      "summary": "Charlotte City Council took up a proposal that would require landlords to provide air conditioning for rental units, signaling a potential new housing-standard obligation for the city's property owners.",
+      "source": "Charlotte Public Radio",
+      "topic": "housing",
+      "url": "https://www.wfae.org/charlotte-area/2026-08-03/charlotte-city-council-considering-air-condition-requirements-for-landlords",
+      "published_at": "2026-08-03T20:42:53+00:00",
+      "image": {
+        "url": "https://npr.brightspotcdn.com/dims4/default/95958f1/2147483647/strip/false/crop/2048x1368+0+0/resize/790x528!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F98%2F6c%2Fe5bab8ce43b4b8919c9316c08580%2Fimg-3950.JPG",
+        "alt": ""
+      },
+      "uid": "b06fd6ca-bec9-4dcd-9085-d68d1bdb9a46"
+    },
+    {
+      "title": "Duke Energy announces $2.6B in profits as state regulators deliberate on utility’s rate hike request",
+      "summary": "Duke Energy, the region's electric utility, reported $2.6 billion in profits for the first half of the year—up nearly 12% from a year earlier—during a Tuesday earnings call. The results drew scrutiny because they came while state regulators were weighing the utility's request to raise customer rates; weeks earlier, its Carolinas division had partially scaled back that request and lowered its return-on-equity demand.",
+      "source": "Charlotte Public Radio",
+      "topic": "business-jobs",
+      "url": "https://www.wfae.org/energy-environment/2026-08-04/duke-energy-announces-2-6b-in-profits-as-state-regulators-deliberate-on-utilitys-rate-hike-request",
+      "published_at": "2026-08-04T17:51:10+00:00",
+      "image": {
+        "url": "https://npr.brightspotcdn.com/dims4/default/f5c970b/2147483647/strip/false/crop/4526x3017+0+0/resize/792x528!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fad%2F66%2Fd1087ca842bdb198cd3ed9781efc%2F010223-duke-energy-hq.JPG",
+        "alt": ""
+      },
+      "uid": "939f634c-5785-452a-b618-c714a3360ecc",
+      "description": "Duke Energy earned $2.6 billion in the first half of the year, up almost 12% from a year ago. Tuesday’s earnings call comes weeks after Duke Energy Carolinas partially backed off its rate-hike request and slashed its return-on-equity demand."
+    },
+    {
+      "title": "Thousands plan to rally against proposed hemp THC limits",
+      "summary": "North Carolina lawmakers advanced House Bill 328, which would cap THC levels in hemp-derived products and set age requirements at the state level, ahead of federal limits due in late 2026. Businesses that make and sell these products warned the measure could wipe out legal operations and fuel a black market. As the House prepared to vote, thousands planned a rally in Raleigh, the state capital, to protest the proposed restrictions.",
+      "source": "Queen City News",
+      "topic": "elections-politics",
+      "url": "https://www.qcnews.com/news/u-s/north-carolina/thousands-plan-to-rally-against-proposed-hemp-thc-limits/",
+      "published_at": "2026-08-03T21:29:17+00:00",
+      "image": {
+        "url": "https://www.qcnews.com/wp-content/uploads/sites/109/2025/12/d42fd938352741a58754f8a2c03e454a-e1694209414415.jpg?w=900",
+        "alt": ""
+      },
+      "uid": "959745cd-9c69-4236-b308-261f7a5e6251",
+      "description": "Hemp-derived THC manufacturers are planning a rally in Raleigh to protest House Bill 328, which seeks to impose state-level restrictions on THC content and age requirements before federal limits take effect in late 2026.",
+      "logo": "https://www.qcnews.com/wp-content/uploads/sites/109/2025/05/cropped-Site-Icon.png?w=32",
+      "thread": [
+        {
+          "title": "Thousands plan to rally against proposed hemp THC limits",
+          "summary": "",
+          "source": "Queen City News",
+          "topic": "elections-politics",
+          "url": "https://www.qcnews.com/news/u-s/north-carolina/thousands-plan-to-rally-against-proposed-hemp-thc-limits/",
+          "published_at": "2026-08-03T21:29:17+00:00",
+          "image": {
+            "url": "https://www.qcnews.com/wp-content/uploads/sites/109/2025/12/d42fd938352741a58754f8a2c03e454a-e1694209414415.jpg?w=900",
+            "alt": ""
+          },
+          "uid": "959745cd-9c69-4236-b308-261f7a5e6251",
+          "description": "Hemp-derived THC manufacturers are planning a rally in Raleigh to protest House Bill 328, which seeks to impose state-level restrictions on THC content and age requirements before federal limits take effect in late 2026.",
+          "logo": "https://www.qcnews.com/wp-content/uploads/sites/109/2025/05/cropped-Site-Icon.png?w=32"
+        },
+        {
+          "title": "NC hemp businesses brace for THC ban as House set to vote on HB 328",
+          "summary": "",
+          "source": "NBC Charlotte",
+          "topic": "elections-politics",
+          "url": "https://www.wcnc.com/article/news/local/nc-hemp-businesses-brace-for-thc-ban/275-cfdac777-de30-4d5b-a657-c8ef6a317f5f",
+          "published_at": "2026-08-04T00:22:23+00:00",
+          "image": {
+            "url": "https://media.tegna-media.com/assets/WCNC/images/a0937afa-c525-4bc1-a2d8-abf86ee548e8/20251223T213100/a0937afa-c525-4bc1-a2d8-abf86ee548e8_750x422.jpg",
+            "alt": ""
+          },
+          "uid": "a2522c88-3da8-4d0f-9f8e-b6ef4572bbf2",
+          "description": "Bill would cap THC levels in hemp products; industry says it could wipe out legal businesses and fuel the black market"
+        }
+      ]
     }
   ],
-  "sports": [
-    {
-      "team": "Charlotte FC",
-      "scores": [
-        "Charlotte FC 2, Red Bulls 0"
-      ]
-    }
-  ]
+  "sports": []
 }

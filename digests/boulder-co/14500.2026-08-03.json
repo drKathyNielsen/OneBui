@@ -1,0 +1,152 @@
+{
+  "shortName": "Boulder, CO",
+  "metroCode": "14500",
+  "metro": "Boulder, CO",
+  "date": "2026-08-03",
+  "are_you_ok": [
+    {
+      "title": "Smoke impacts Front Range with record heat, cooler weather on the way",
+      "summary": "A Heat Advisory remains in effect along the Front Range, the urban corridor at the base of the Rockies that includes Boulder, CO, with gusty storms and wildfire smoke expected. Relief comes on Tuesday as temperatures drop to 80 degrees.",
+      "source": "9NEWS",
+      "topic": "heat",
+      "url": "https://www.9news.com/article/weather/weather-impact/wildfire-smoke-forecast-denver/73-6dbfa821-0708-4e96-a1a8-93096914389e",
+      "published_at": "2026-08-03T23:54:36+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/e2538d09-5525-4e3a-a8ee-7f3e1dee10e4/20260803T215405/e2538d09-5525-4e3a-a8ee-7f3e1dee10e4_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "c523253d-8678-4804-8481-80d3ecb443fc",
+      "questions": [
+        "How has the heat and wildfire smoke been where you are?",
+        "Have you had to change any routines because of the air quality?"
+      ],
+      "description": "A Heat Advisory remains in effect, with gusty storms and wildfire smoke expected. Relief comes on Tuesday as temperatures drop to 80 degrees."
+    }
+  ],
+  "conversation_starters": [
+    {
+      "title": "Artemis II astronauts discuss mission at Red Rocks event",
+      "summary": "The Artemis II crew shared insights and footage from their historic lunar mission at Red Rocks, an outdoor amphitheater in the foothills about 25 miles south of Boulder, CO, marking humanity's first moon trip in over 50 years.",
+      "source": "9NEWS",
+      "topic": "civic-events",
+      "url": "https://www.9news.com/article/tech/science/aerospace/artemis-ii-astronauts-mission-red-rocks/73-763d5e29-e35f-4103-be88-5bc82060cec3",
+      "published_at": "2026-08-03T22:43:41+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/f3590370-25ec-4f8a-b9dd-b3b61d371957/20260803T161435/f3590370-25ec-4f8a-b9dd-b3b61d371957_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "9a8b90da-ac9b-4d01-82ef-2df4f7ce186f",
+      "questions": [
+        "Did you catch the Artemis II astronauts speaking at Red Rocks?",
+        "Have you ever been to an event at Red Rocks?"
+      ],
+      "description": "The Artemis II crew shared insights and footage from their historic lunar mission at a Colorado event, marking humanity's first moon trip in over 50 years."
+    },
+    {
+      "title": "Colorado's 150th celebrations include mile-long table with 5,280 guests",
+      "summary": "",
+      "source": "CBS Colorado",
+      "topic": "civic-events",
+      "url": "https://www.cbsnews.com/colorado/video/colorados-150th-celebrations-include-mile-long-table-with-5-280-guests/",
+      "published_at": "2026-08-03T18:02:00+00:00",
+      "image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/03/19f77c9a-a76b-48f3-9b64-a27a01d7e250/thumbnail/1024x576/ed48c3ee1753532c80968a3da48089c1/392d0542b252c561466d8604a62a05a3.jpg",
+        "alt": ""
+      },
+      "uid": "e2b16fd1-63ae-4d63-a961-0e8a342859e4",
+      "questions": [
+        "Did you make it to any of Colorado's 150th statehood events?",
+        "What did you think of the mile-long table with 5,280 guests?"
+      ],
+      "description": "Colorado's 150th celebrations over the weekend included a mile-long table with 5,280 guests.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    },
+    {
+      "title": "Hungry bears finding easy meals in Colorado suburbs; find out how you can help prevent future conflicts",
+      "summary": "If it feels like bears are showing up in more suburban spots across Colorado's Front Range, the urban corridor at the base of the Rockies that includes Boulder, CO, this summer, you're not imagining it.",
+      "source": "CBS Colorado",
+      "topic": "human-interest",
+      "url": "https://www.cbsnews.com/colorado/news/bears-colorado-suburban-areas-denver/",
+      "published_at": "2026-08-03T23:22:58+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/03/15286d3f-69ac-4891-aff7-c387d4f2da1c/thumbnail/1024x576/b9e302ee0202d71c762bdc8594a70ebf/matthew-kalan-bear-photo.jpg",
+        "alt": ""
+      },
+      "uid": "5217404a-4e79-4fe7-90a7-68b02bdac9ac",
+      "questions": [
+        "Have you been seeing more bears around your area this summer?",
+        "Have you had to take any steps to keep bears away from your trash?"
+      ],
+      "description": "If it feels like bears are showing up in more suburban spots across Colorado's Front Range this summer, you're not imagining it.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    },
+    {
+      "title": "Thousands of fish die around Boyd Lake during drought conditions",
+      "summary": "Colorado Parks and Wildlife advised people to use caution if handling or harvesting fish from Boyd Lake, a reservoir and state park about 25 miles northeast of Boulder, CO, warning that sick or dead fish may carry risks.",
+      "source": "9NEWS",
+      "topic": "drought-water",
+      "url": "https://www.9news.com/article/news/local/thousands-of-fish-die-boyd-lakedrought-conditions/73-ca5bdb24-458c-4add-ac55-005ed285d80d",
+      "published_at": "2026-08-03T23:55:07+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/db6ee90c-7ce4-4c90-80c5-719685ce13d4/20260803T224615/db6ee90c-7ce4-4c90-80c5-719685ce13d4_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "04158814-68c8-4f04-bca2-e2b322939ceb",
+      "questions": [
+        "Did you hear about the fish die-off at Boyd Lake?",
+        "Have the drought conditions been affecting spots you usually visit?"
+      ],
+      "description": "Colorado Parks and Wildlife advised people to use caution if handling or harvesting fish from the affected area, warning that sick or dead fish may carry risks."
+    },
+    {
+      "title": "Colorado has 3 of world’s top 400 universities, report says",
+      "summary": "",
+      "source": "9NEWS",
+      "topic": "education",
+      "url": "https://www.9news.com/article/life/style/colorado-guide/colorado-world-top-universities/73-07f7c958-7a3b-4ca8-a1d0-cbc795b3c56e",
+      "published_at": "2026-08-03T11:28:46+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/cc89cd40-0f9c-4230-a1d0-51ecf83ba072/cc89cd40-0f9c-4230-a1d0-51ecf83ba072_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "9f2b3774-54d6-43ec-a449-48b8e666f69c",
+      "questions": [
+        "Did you see CU Boulder made the global top 400 universities list?",
+        "Do you have any connection to the University of Colorado Boulder?"
+      ],
+      "description": "The University of Colorado Boulder ranks highest in the state in U.S. News & World Report's global rankings, highlighting subject strengths among Colorado schools."
+    }
+  ],
+  "sports": [],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "Aurora Police officer charged in 2025 fatal shooting",
+      "summary": "",
+      "source": "9NEWS",
+      "topic": "policing",
+      "url": "https://www.9news.com/article/news/crime/aurora-officer-charged-2025-fatal-shooting/73-334aed76-1ccf-403e-a86d-66d8628b29d7",
+      "published_at": "2026-08-03T23:56:39+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/e1b27b76-f1c6-480f-a5dc-242315461854/20260411T040444/e1b27b76-f1c6-480f-a5dc-242315461854_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "cf305be1-9b37-4c1b-b960-2d97de20a51e",
+      "description": "Matthew Neely faces charges of second-degree murder and reckless manslaughter nearly a year after the fatal shooting of Rajon Belt-Stubblefield."
+    },
+    {
+      "title": "Firearm background checks reached record levels in July, CBI says",
+      "summary": "",
+      "source": "9NEWS",
+      "topic": "elections-politics",
+      "url": "https://www.9news.com/article/news/local/colorado-news/cbi-firearms-background-checks/73-940b75ec-b426-46e3-a712-7b05ec2295d9",
+      "published_at": "2026-08-03T20:01:45+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/f83415fc-f2c9-435a-855d-94fbe0852020/20250129T015702/f83415fc-f2c9-435a-855d-94fbe0852020_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "0144da0c-ba89-41ea-b944-f72db2c66aa6",
+      "description": "The surge came as firearm purchases increased before Senate Bill 25-003 took effect Aug. 1."
+    }
+  ]
+}

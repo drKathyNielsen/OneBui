@@ -4,234 +4,317 @@
   "metroCode": "14500",
   "metro": "Boulder, CO",
   "range": {
-    "start": "2026-07-24",
-    "end": "2026-07-30"
+    "start": "2026-07-29",
+    "end": "2026-08-04"
   },
   "are_you_ok": [
     {
-      "title": "Friends rally for woman detained by ICE at Denver airport",
-      "summary": "A woman detained by ICE at Denver International Airport drew friends and community rallying to her side — the kind of enforcement action that could touch anyone in an immigrant community the reader is checking on.",
-      "source": "9NEWS",
-      "topic": "immigration-enforcement",
-      "url": "https://www.9news.com/article/news/local/rally-for-woman-detained-by-ice-at-denver-airport/73-c0835e98-5ec5-40c2-89de-cb367bdd9ca5",
-      "published_at": "2026-07-24T12:27:27+00:00",
-      "image": null,
-      "description": "A friend and former employer of a woman detained by federal agents at Denver International Airport has been advocating for her release from detention."
-    },
-    {
-      "title": "Sunday was Denver's hottest day in more than 8 years",
-      "summary": "A record-breaking heat stretch peaked with Denver's hottest day in more than 8 years, after health specialists spent the week warning of extreme-heat risks to people and pets — worth checking how the contact and their household weathered it.",
+      "title": "Smoke impacts Front Range with record heat, cooler weather on the way",
+      "summary": "The National Weather Service office in Boulder issued a heat advisory covering the entire Front Range (the populous corridor along the eastern edge of the Rocky Mountains that includes Boulder and Denver), taking effect at noon on Sunday and continuing through Monday. As the advisory held, the region also contended with gusty storms and wildfire smoke, and Denver set a new daily high-temperature record for Aug. 3 on Monday afternoon. Forecasters pointed to relief on Tuesday, with temperatures easing to around 80 degrees.",
       "source": "9NEWS",
       "topic": "heat",
-      "url": "https://www.9news.com/article/weather/weather-colorado/sunday-denver-hottest-day-8-years/73-6381fe1e-7a42-4f44-9f13-a3bbcaaf7eac",
-      "published_at": "2026-07-27T10:36:22+00:00",
+      "url": "https://www.9news.com/article/weather/weather-impact/wildfire-smoke-forecast-denver/73-6dbfa821-0708-4e96-a1a8-93096914389e",
+      "published_at": "2026-08-03T23:54:36+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/KUSA/images/d00d4670-2099-45a2-871f-6ea03023be87/20260713T143711/d00d4670-2099-45a2-871f-6ea03023be87_750x422.jpg",
+        "url": "https://media.tegna-media.com/assets/KUSA/images/e2538d09-5525-4e3a-a8ee-7f3e1dee10e4/20260803T215405/e2538d09-5525-4e3a-a8ee-7f3e1dee10e4_750x422.jpg",
         "alt": ""
       },
-      "description": "Denver experiences record-breaking heat as temperatures reach 103 degrees, the highest in over eight years.",
+      "uid": "c523253d-8678-4804-8481-80d3ecb443fc",
+      "description": "A Heat Advisory remains in effect, with gusty storms and wildfire smoke expected. Relief comes on Tuesday as temperatures drop to 80 degrees.",
+      "questions": [
+        "How has the heat and wildfire smoke been where you are?",
+        "Have you had to change any routines because of the air quality?"
+      ],
       "thread": [
         {
-          "title": "Denver health specialists warn of extreme heat risks for people and pets",
-          "summary": "Extreme heat health warning affecting the whole metro population this weekend.",
-          "source": "CBS Colorado",
-          "topic": "heat",
-          "url": "https://www.cbsnews.com/colorado/video/denver-health-specialists-warn-of-extreme-heat-risks-for-people-and-pets/",
-          "published_at": "2026-07-25T19:54:00+00:00",
-          "image": {
-            "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/25/5b8cfa51-9100-41fa-a4f7-baa96c497b54/thumbnail/1024x576/bb44212fdea2fdb5dbabcc49bb1e18a4/568e405d523832bf77f0e2ff77cdd98e.jpg",
-            "alt": ""
-          },
-          "description": "With continued high temperatures across Colorado, it's important to recognize the symptoms of heat related illness. Health experts are sharing tips to protect yourself and your pets this weekend.",
-          "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
-        },
-        {
-          "title": "Sunday was Denver's hottest day in more than 8 years",
-          "summary": "Record heat day, acute weather event.",
+          "title": "9NEWS Weather Impact Alert issued for Sunday and Monday",
+          "summary": "",
           "source": "9NEWS",
           "topic": "heat",
-          "url": "https://www.9news.com/article/weather/weather-colorado/sunday-denver-hottest-day-8-years/73-6381fe1e-7a42-4f44-9f13-a3bbcaaf7eac",
-          "published_at": "2026-07-27T10:36:22+00:00",
+          "url": "https://www.9news.com/article/weather/weather-impact/denver-colorado-front-range-weather-alert-hot-temps/73-0515fd9c-2c8b-4db4-aefd-897cf7d9bf43",
+          "published_at": "2026-08-02T15:57:57+00:00",
           "image": {
-            "url": "https://media.tegna-media.com/assets/KUSA/images/d00d4670-2099-45a2-871f-6ea03023be87/20260713T143711/d00d4670-2099-45a2-871f-6ea03023be87_750x422.jpg",
+            "url": "https://media.tegna-media.com/assets/KUSA/images/ef4d73d4-ebd8-469f-bfac-274c10b5338e/20260801T112859/ef4d73d4-ebd8-469f-bfac-274c10b5338e_750x422.jpg",
             "alt": ""
           },
-          "description": "Denver experiences record-breaking heat as temperatures reach 103 degrees, the highest in over eight years."
+          "uid": "221ba0e1-8e0b-4ef3-a6b9-08171738abf6",
+          "description": "The National Weather Service in Boulder has issued a heat advisory for the entire Front Range starting at noon Sunday."
+        },
+        {
+          "title": "Smoke impacts Front Range with record heat, cooler weather on the way",
+          "summary": "",
+          "source": "9NEWS",
+          "topic": "heat",
+          "url": "https://www.9news.com/article/weather/weather-impact/wildfire-smoke-forecast-denver/73-6dbfa821-0708-4e96-a1a8-93096914389e",
+          "published_at": "2026-08-03T23:54:36+00:00",
+          "image": {
+            "url": "https://media.tegna-media.com/assets/KUSA/images/e2538d09-5525-4e3a-a8ee-7f3e1dee10e4/20260803T215405/e2538d09-5525-4e3a-a8ee-7f3e1dee10e4_750x422.jpg",
+            "alt": ""
+          },
+          "uid": "c523253d-8678-4804-8481-80d3ecb443fc",
+          "description": "A Heat Advisory remains in effect, with gusty storms and wildfire smoke expected. Relief comes on Tuesday as temperatures drop to 80 degrees."
+        },
+        {
+          "title": "Denver reaches a new record high temperature for Aug. 3",
+          "summary": "",
+          "source": "CBS Colorado",
+          "topic": "heat",
+          "url": "https://www.cbsnews.com/colorado/news/denver-heat-record-high-temperature/",
+          "published_at": "2026-08-04T00:45:29+00:00",
+          "image": {
+            "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/03/250ba242-0596-4c77-a628-2d742fe3a8d6/thumbnail/1024x576/e1370e29f0d61562b43dc215cb49e65e/denver.jpg",
+            "alt": ""
+          },
+          "uid": "119722ea-e504-4599-bd92-26071110ab06",
+          "description": "A new daily high temperature record for Denver on Aug. 3 was set on Monday afternoon, according to the National Weather Service.",
+          "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
         }
+      ]
+    },
+    {
+      "title": "Ground stop in place for Denver International Airport as storms move in",
+      "summary": "Denver International Airport was placed under a ground stop as thunderstorms moved into the area, halting flight operations at the region's main airport.",
+      "source": "CBS Colorado",
+      "topic": "severe-weather",
+      "url": "https://www.cbsnews.com/colorado/news/ground-stop-denver-international-airport-july-31-2026/",
+      "published_at": "2026-08-01T00:16:00+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/10/08/bc4ab721-f111-4d8a-9ce6-3104e43d7072/thumbnail/1024x576/87a0d2bbec5a35e12d9ac94e9e6656e7/gov-shutdown-airport-issues-10pkg-transfer-frame-1350.jpg",
+        "alt": ""
+      },
+      "uid": "fe9c9c3f-10f9-4686-8557-f9527c8dc49d",
+      "description": "A ground stop has been issued for Denver International Airport due to thunderstorms moving into the area.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg",
+      "questions": [
+        "Have the storms around Denver International Airport disrupted any of your travel plans?",
+        "How has the stormy weather been where you are?"
       ]
     }
   ],
   "conversation_starters": [
     {
-      "title": "AC/DC in Colorado: What to know for the stadium concert",
-      "summary": "AC/DC's stadium show landed as the week's marquee event — a clean, widely-shared opener nearly anyone in the metro can riff on.",
+      "title": "Flights diverted from Denver to Colorado Springs due to severe weather",
+      "summary": "Severe weather forced flights bound for Denver to divert to Colorado Springs, a city roughly an hour south. Five passengers received medical attention during the disruption, and one was taken to a hospital.",
       "source": "9NEWS",
-      "topic": "civic-events",
-      "url": "https://www.9news.com/article/life/style/colorado-guide/acdc-colorado-stadium-concert/73-6e900bd6-c1d7-4dea-a196-b58b7a859981",
-      "published_at": "2026-07-28T11:58:44+00:00",
+      "topic": "severe-weather",
+      "url": "https://www.9news.com/article/travel/denver-international-airport/dia-flights-diverted-severe-weather/73-98228a78-8540-470a-a521-c1395ea9a533",
+      "published_at": "2026-08-04T13:24:07+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/KUSA/images/e9adb930-975f-4843-b9ef-a48c1ebfe6f6/20260728T115118/e9adb930-975f-4843-b9ef-a48c1ebfe6f6_750x422.jpg",
+        "url": "https://media.tegna-media.com/assets/KUSA/images/de13580a-fdf0-4b33-b659-f4cacfb84fe3/20260804T132349/de13580a-fdf0-4b33-b659-f4cacfb84fe3_750x422.jpg",
         "alt": ""
       },
-      "description": "Arguably the world’s greatest rock and roll band, AC/DC is back in Colorado for the first time in 10 years, ready to rock Colorado's largest stadium on Tuesday."
+      "uid": "afaa2e31-9552-4355-ab1d-3a882670c695",
+      "description": "Five passengers received medical attention and one passenger was taken to the hospital.",
+      "questions": [
+        "Did you hear about the flights getting diverted from Denver down to Colorado Springs because of the storms?",
+        "Has the severe weather in the area affected any of your travel plans?"
+      ]
     },
     {
-      "title": "Aurora's Day of Resilience honors theater shooting victims while supporting long-term healing",
-      "summary": "Aurora's Day of Resilience honored theater-shooting victims and reframed the day around long-term community healing — a resonant local moment easy to raise with care.",
+      "title": "Denver experiences 50-degree temperature swing as wildfire smoke moves in",
+      "summary": "Denver saw an extraordinary 50-degree temperature swing within a 14-hour span, and wildfire smoke moving into the area added smoky skies to an already dramatic shift in conditions.",
+      "source": "9NEWS",
+      "topic": "air-quality",
+      "url": "https://www.9news.com/article/weather/weather-colorado/denver-temperature-swing-wildfire-smoke/73-4690ac03-7a99-4473-9bf5-cc13cb2092cb",
+      "published_at": "2026-08-04T16:45:28+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/c9691a84-6f9b-4e72-a90e-391de57de562/20260706T182709/c9691a84-6f9b-4e72-a90e-391de57de562_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "855da9ff-8558-467d-82b7-97e376e23337",
+      "description": "Denver experienced an extraordinary 50-degree temperature swing within 14 hours, with smoky skies adding to the dramatic weather change.",
+      "questions": [
+        "Did you notice that big temperature swing and the smoke moving in?",
+        "How have the smoky skies been affecting things where you are?"
+      ]
+    },
+    {
+      "title": "Coloradans celebrate 150 years of statehood",
+      "summary": "Colorado marked the 150th anniversary of its statehood on Saturday, the anniversary of its 1876 admission to the Union. Celebrations were held across the state, including a mile-long table set for 5,280 guests — a number chosen to echo Denver's 'Mile High' elevation of 5,280 feet.",
       "source": "CBS Colorado",
-      "topic": "human-interest",
-      "url": "https://www.cbsnews.com/colorado/video/auroras-day-of-resilience-honors-theater-shooting-victims-while-supporting-long-term-healing/",
-      "published_at": "2026-07-26T02:55:00+00:00",
+      "topic": "civic-events",
+      "url": "https://www.cbsnews.com/colorado/video/coloradans-celebrate-150-years-of-statehood/",
+      "published_at": "2026-08-02T01:36:00+00:00",
       "image": {
-        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/07/26/69d38529-1f52-4a75-9926-b993f81109db/thumbnail/1024x576/ec677773b793d1980b215653f5fe0b16/8648dc32a56f532105a1459d3092f27f.jpg",
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/02/190e5a37-8ae6-42b4-b17c-98e6da59fecd/thumbnail/1024x576/e9e52a4c0d9c551a1352915e936b6877/ae84890603e5eb91c8dfafc855e046be.jpg",
         "alt": ""
       },
-      "description": "Khloey Pace and Peyton Soltis are the young faces behind Veronica's Lemonade Stand at Aurora's Day of Resilience, where every cup served honors the memory of 6-year-old Veronica Moser-Sullivan, the youngest victim of the 2012 Aurora theater shooting.",
-      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
-    },
-    {
-      "title": "A Colorado reservoir is so low it revealed a lost ATV",
-      "summary": "A reservoir dropped so low it surrendered an ATV lost for five years — a quirky drought story that doubles as a light, memorable opener.",
-      "source": "9NEWS",
-      "topic": "drought-water",
-      "url": "https://www.9news.com/article/life/style/colorado-guide/colorado-reservoir-lost-atv/73-26887875-ff03-48fe-83b2-5d407033dbe5",
-      "published_at": "2026-07-28T16:07:55+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KUSA/images/d8c1aeac-bfdd-497c-aba6-c1a58d017563/20260728T160709/d8c1aeac-bfdd-497c-aba6-c1a58d017563_750x422.jpg",
-        "alt": ""
-      },
-      "description": "Low water levels at Colorado's Green Mountain Reservoir reveal a missing ATV after 5 years. The Summit County Sheriff's Office said drought exposes lost treasures.",
+      "uid": "316cc110-d313-45db-8986-3092d60c460d",
+      "description": "Saturday marked Colorado's 150th birthday. It became a state on this date in 1876, and Coloradans celebrated with a number of events across the state.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg",
       "thread": [
         {
-          "title": "Low levels at Green Mountain Reservoir reveal lost ATV missing for 5 years",
-          "summary": "Low-reservoir reveals lost ATV — quirky, novel drought-adjacent oddity. You could open with: 'Did you see the reservoir got so low they found an ATV lost five years ago?'",
+          "title": "Coloradans celebrate 150 years of statehood",
+          "summary": "",
           "source": "CBS Colorado",
-          "topic": "human-interest",
-          "url": "https://www.cbsnews.com/colorado/video/low-levels-at-green-mountain-reservoir-reveal-lost-atv-missing-for-5-years/",
-          "published_at": "2026-07-27T12:41:00+00:00",
+          "topic": "civic-events",
+          "url": "https://www.cbsnews.com/colorado/video/coloradans-celebrate-150-years-of-statehood/",
+          "published_at": "2026-08-02T01:36:00+00:00",
           "image": {
-            "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/07/27/5e87a954-a759-46a2-8da6-296af288899a/thumbnail/1024x576/b3d87e4624836ee4e408ee58995ee2d8/bb3417ee125629806def2cc65f9354de.jpg",
+            "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/02/190e5a37-8ae6-42b4-b17c-98e6da59fecd/thumbnail/1024x576/e9e52a4c0d9c551a1352915e936b6877/ae84890603e5eb91c8dfafc855e046be.jpg",
             "alt": ""
           },
-          "description": "Low levels at Green Mountain Reservoir reveal a lost ATV that had been missing for five years.",
+          "uid": "316cc110-d313-45db-8986-3092d60c460d",
+          "description": "Saturday marked Colorado's 150th birthday. It became a state on this date in 1876, and Coloradans celebrated with a number of events across the state.",
           "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
         },
         {
-          "title": "A Colorado reservoir is so low it revealed a lost ATV",
-          "summary": "Continuation of drought/reservoir story, quirky find. You could open with: Did you hear that low water at Green Mountain Reservoir revealed an ATV that had been missing for 5 years?",
-          "source": "9NEWS",
-          "topic": "drought-water",
-          "url": "https://www.9news.com/article/life/style/colorado-guide/colorado-reservoir-lost-atv/73-26887875-ff03-48fe-83b2-5d407033dbe5",
-          "published_at": "2026-07-28T16:07:55+00:00",
+          "title": "Colorado's 150th celebrations include mile-long table with 5,280 guests",
+          "summary": "",
+          "source": "CBS Colorado",
+          "topic": "civic-events",
+          "url": "https://www.cbsnews.com/colorado/video/colorados-150th-celebrations-include-mile-long-table-with-5-280-guests/",
+          "published_at": "2026-08-03T18:02:00+00:00",
           "image": {
-            "url": "https://media.tegna-media.com/assets/KUSA/images/d8c1aeac-bfdd-497c-aba6-c1a58d017563/20260728T160709/d8c1aeac-bfdd-497c-aba6-c1a58d017563_750x422.jpg",
+            "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/03/19f77c9a-a76b-48f3-9b64-a27a01d7e250/thumbnail/1024x576/ed48c3ee1753532c80968a3da48089c1/392d0542b252c561466d8604a62a05a3.jpg",
             "alt": ""
           },
-          "description": "Low water levels at Colorado's Green Mountain Reservoir reveal a missing ATV after 5 years. The Summit County Sheriff's Office said drought exposes lost treasures."
+          "uid": "e2b16fd1-63ae-4d63-a961-0e8a342859e4",
+          "description": "Colorado's 150th celebrations over the weekend included a mile-long table with 5,280 guests.",
+          "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
         }
       ]
     },
     {
-      "title": "\"Big Boy\" No. 4014 stops in Colorado this week as crowds flock to see historic locomotive",
-      "summary": "The historic 'Big Boy' No. 4014 locomotive stopped through Colorado this week, drawing crowds — an easy, feel-good talker.",
-      "source": "CBS Colorado",
-      "topic": "human-interest",
-      "url": "https://www.cbsnews.com/colorado/news/big-boy-no-4014-colorado-historic-locomotive/",
-      "published_at": "2026-07-27T14:43:13+00:00",
-      "image": {
-        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/07/27/eb885c1a-2cca-481a-bf37-bbf4ba72e9ea/thumbnail/1024x576/d1f2c7e7081efe37ed0d56909f5f88b8/gettyimages-2280529725.jpg",
-        "alt": ""
-      },
-      "description": "Union Pacific's \"Big Boy\" historic locomotive will be making several stops around Colorado this week.",
-      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
-    },
-    {
-      "title": "Record heat doesn't stop crowds at Underground Music Showcase's first year in RiNo",
-      "summary": "The Underground Music Showcase drew big crowds through record heat in its first RiNo year — a fresh culture-scene opener distinct from the arena show.",
+      "title": "Artemis II astronauts discuss mission at Red Rocks event",
+      "summary": "The crew of Artemis II — billed as humanity's first trip to the moon in over 50 years — appeared at Red Rocks, a well-known outdoor amphitheater west of Denver. Across the event, the astronauts took the stage to discuss the mission and shared insights and footage from their lunar journey.",
       "source": "9NEWS",
       "topic": "civic-events",
-      "url": "https://www.9news.com/article/entertainment/record-heat-doesnt-stop-crowds-at-underground-music-showcases-first-year-in-rino/73-e9b5701e-bdc7-4b1d-83de-c8b55e7bd1a1",
-      "published_at": "2026-07-26T03:57:24+00:00",
+      "url": "https://www.9news.com/article/tech/science/aerospace/artemis-ii-astronauts-mission-red-rocks/73-763d5e29-e35f-4103-be88-5bc82060cec3",
+      "published_at": "2026-08-03T22:43:41+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/KUSA/images/ee79e176-5f83-4fa8-a375-643c3ab9aba4/20260726T021856/ee79e176-5f83-4fa8-a375-643c3ab9aba4_750x422.jpg",
+        "url": "https://media.tegna-media.com/assets/KUSA/images/f3590370-25ec-4f8a-b9dd-b3b61d371957/20260803T161435/f3590370-25ec-4f8a-b9dd-b3b61d371957_750x422.jpg",
         "alt": ""
       },
-      "description": "Despite record-breaking heat in Denver, people attended the Underground Music Showcase in its new RiNo location, enjoying local talent amid safety measures."
+      "uid": "9a8b90da-ac9b-4d01-82ef-2df4f7ce186f",
+      "description": "The Artemis II crew shared insights and footage from their historic lunar mission at a Colorado event, marking humanity's first moon trip in over 50 years.",
+      "questions": [
+        "Did you catch the Artemis II astronauts speaking at Red Rocks?",
+        "Have you ever been to an event at Red Rocks?"
+      ],
+      "thread": [
+        {
+          "title": "Artemis II astronauts discuss mission at Red Rocks event",
+          "summary": "",
+          "source": "9NEWS",
+          "topic": "civic-events",
+          "url": "https://www.9news.com/article/tech/science/aerospace/artemis-ii-astronauts-mission-red-rocks/73-763d5e29-e35f-4103-be88-5bc82060cec3",
+          "published_at": "2026-08-03T22:43:41+00:00",
+          "image": {
+            "url": "https://media.tegna-media.com/assets/KUSA/images/f3590370-25ec-4f8a-b9dd-b3b61d371957/20260803T161435/f3590370-25ec-4f8a-b9dd-b3b61d371957_750x422.jpg",
+            "alt": ""
+          },
+          "uid": "9a8b90da-ac9b-4d01-82ef-2df4f7ce186f",
+          "description": "The Artemis II crew shared insights and footage from their historic lunar mission at a Colorado event, marking humanity's first moon trip in over 50 years."
+        },
+        {
+          "title": "Artemis II crew takes the stage at Red Rocks",
+          "summary": "",
+          "source": "CBS Colorado",
+          "topic": "civic-events",
+          "url": "https://www.cbsnews.com/colorado/video/artemis-ii-crew-takes-the-stage-at-red-rocks/",
+          "published_at": "2026-08-04T12:47:00+00:00",
+          "image": {
+            "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/04/b1b518b4-9243-439a-9edf-a607c0c8d423/thumbnail/1024x576/43d01808fb1d630c0a48fe1f4d3c2ade/8030263e35c5224aa0376e9a9d4cf31d.jpg",
+            "alt": ""
+          },
+          "uid": "32ab0b3a-e2b9-4f33-8c52-3a0e5490e080",
+          "description": "The Artemis II crew took the stage at Red Rocks to talk about their latest space mission.",
+          "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Broncos share new renderings of what Burnham Yard stadium site could look like",
+      "summary": "The Denver Broncos, the region's NFL team, released new renderings of a potential stadium at the Burnham Yard site. The updated plans followed community feedback the team said it had gathered and incorporated.",
+      "source": "9NEWS",
+      "topic": "business-jobs",
+      "url": "https://www.9news.com/article/sports/nfl/denver-broncos/broncos-release-updated-burnham-yard-renderings/73-6359889d-39a2-4bed-b843-3d522969195f",
+      "published_at": "2026-08-04T17:26:08+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/dc249885-9113-49e5-8a9d-92811fe85ebe/20260804T153221/dc249885-9113-49e5-8a9d-92811fe85ebe_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "04d293b3-8d2e-4bcd-8276-e2c4641b3038",
+      "description": "Broncos update their stadium site plans at Burnham Yard after listening to community feedback.",
+      "questions": [
+        "Have you been following the Broncos' plans for the new stadium site?",
+        "What do folks in the area think about the proposed Burnham Yard stadium?"
+      ]
     }
   ],
   "you_should_know": [
     {
-      "title": "Cargill reaches tentative agreement with union representing Fort Morgan beef plant workers",
-      "summary": "After a lockout at the Fort Morgan beef plant, Cargill reached a tentative agreement with the workers' union late in the week — a major employer-labor story to walk in aware of.",
+      "title": "Here are the wildfires burning in Colorado",
+      "summary": "A roundup provided the latest status of the wildfires burning across Colorado.",
       "source": "9NEWS",
-      "topic": "business-jobs",
-      "url": "https://www.9news.com/article/money/business/cargill-reaches-tentative-agreement-union-representing-fort-morgan-beef-plant-workers/73-2220ea73-e522-4016-918e-77f7c9aea432",
-      "published_at": "2026-07-30T19:20:25+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KUSA/images/dd64de9d-7f11-45d0-a07b-9638b6ab34e9/20260520T180607/dd64de9d-7f11-45d0-a07b-9638b6ab34e9_750x422.jpg",
-        "alt": ""
-      },
-      "description": "If ratified by union members, the deal would end an employee lockout that has lasted for more than two months."
-    },
-    {
-      "title": "4th firefighter dies from burn injuries battling Colorado's Knowles wildfire",
-      "summary": "The Knowles wildfire claimed a fourth firefighter to burn injuries, a somber toll that defined the week's fire coverage.",
-      "source": "CBS Colorado",
       "topic": "wildfire",
-      "url": "https://www.cbsnews.com/colorado/video/4th-firefighter-dies-from-burn-injuries-battling-colorados-knowles-wildfire/",
-      "published_at": "2026-07-26T02:50:00+00:00",
+      "url": "https://www.9news.com/article/news/local/wildfire/wildfires-burning-in-colorado/73-5e0a83db-0795-41e6-af89-59ec243a497d",
+      "published_at": "2026-08-02T14:06:38+00:00",
       "image": {
-        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/26/6375b5ac-6ba9-4cde-a4d1-bfb84bf35a4d/thumbnail/1024x576/6df11556851627b4fb756b1d1d2f5842/ad3a4a57979a111a51ae086bb120cb4f.jpg",
+        "url": "https://media.tegna-media.com/assets/KUSA/images/f27511f7-6d79-41b6-92ed-e674fa3bd8f8/20260729T191943/f27511f7-6d79-41b6-92ed-e674fa3bd8f8_750x422.jpg",
         "alt": ""
       },
-      "description": "A fourth firefighter died from burn injuries battling Colorado's Knowles wildfire in the western part of the state at the end of June.",
-      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+      "uid": "4de12d1b-060d-4c2c-9ec3-4c05e7013d21",
+      "description": "Here's the latest on the fires burning across the state."
     },
     {
-      "title": "Faith leaders and community members sue Colorado town of Hudson in effort to block planned ICE detention center",
-      "summary": "Faith leaders and community members sued the town of Hudson to block a planned ICE detention center — an in-region flashpoint over immigration enforcement.",
-      "source": "CBS Colorado",
-      "topic": "immigration-enforcement",
-      "url": "https://www.cbsnews.com/colorado/news/hudson-lawsuit-ice-detention-center-big-horn-facility/",
-      "published_at": "2026-07-24T03:59:10+00:00",
-      "image": null,
-      "description": "The town of Hudson is now facing a lawsuit over plans to open an ICE detention center in the eastern Colorado town.",
-      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+      "title": "Aurora Police officer charged in 2025 fatal shooting",
+      "summary": "Aurora Police officer Matthew Neely was charged with second-degree murder and reckless manslaughter in the fatal shooting of Rajon Belt-Stubblefield, nearly a year after the incident. Aurora is a large city adjacent to Denver.",
+      "source": "9NEWS",
+      "topic": "policing",
+      "url": "https://www.9news.com/article/news/crime/aurora-officer-charged-2025-fatal-shooting/73-334aed76-1ccf-403e-a86d-66d8628b29d7",
+      "published_at": "2026-08-03T23:56:39+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/e1b27b76-f1c6-480f-a5dc-242315461854/20260411T040444/e1b27b76-f1c6-480f-a5dc-242315461854_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "cf305be1-9b37-4c1b-b960-2d97de20a51e",
+      "description": "Matthew Neely faces charges of second-degree murder and reckless manslaughter nearly a year after the fatal shooting of Rajon Belt-Stubblefield."
     },
     {
-      "title": "Denver Water asks customers to stick to watering restrictions, hopes residents \"work even harder at conserving\"",
-      "summary": "As heat and drought pressed on, Denver Water pushed customers to hold to watering restrictions and conserve harder — a directive touching every metro household.",
+      "title": "Multiple Colorado reservoirs announce boat ramp closures due to dropping water levels, another fish salvage announced",
+      "summary": "As monsoon rains proved insufficient to end Colorado's drought, several more reservoirs announced boat ramp closures amid dropping water levels, and another fish salvage was announced — part of a broader pattern of shrinking water supplies across the state.",
       "source": "CBS Colorado",
       "topic": "drought-water",
-      "url": "https://www.cbsnews.com/colorado/news/denver-water-watering-restrictions-drought/",
-      "published_at": "2026-07-24T02:58:14+00:00",
-      "image": null,
-      "description": "Denver Water says its customers are using less water than they were this time last year, but officials warn conservation efforts are still falling well short of what is needed as the drought persists​.",
+      "url": "https://www.cbsnews.com/colorado/news/multiple-colorado-reservoirs-boat-closures-dropping-water-levels-fish-salvage/",
+      "published_at": "2026-08-01T22:12:00+00:00",
+      "image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/01/5e390325-49f0-4c49-a444-3b74da15a545/thumbnail/1024x576/b426306d8ea5deedb856a722cf5b8f8e/boat-ramps-2-crawford-state-park-in-mid-july-cpw.jpg",
+        "alt": ""
+      },
+      "uid": "d2c17e84-6c3d-4c56-b5ea-2dc747f50744",
+      "description": "Monsoon rains have not been enough to end Colorado's drought, and several more areas have announced boat ramp closures as water levels in our reservoirs continue to drop.",
       "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
     },
     {
-      "title": "ACLU asks Colorado Supreme Court to review ruling upholding Boulder’s camping ban",
-      "summary": "The ACLU asked the Colorado Supreme Court to review the ruling upholding Boulder's camping ban — a housing-policy fight with statewide reach.",
-      "source": "Boulder Reporting Lab",
-      "topic": "housing",
-      "url": "https://boulderreportinglab.org/2026/07/26/aclu-asks-colorado-supreme-court-to-review-ruling-upholding-boulders-camping-ban/",
-      "published_at": "2026-07-27T03:49:07+00:00",
+      "title": "Firearm background checks reached record levels in July, CBI says",
+      "summary": "The Colorado Bureau of Investigation reported that firearm background checks reached record levels in July, driven by a surge in purchases ahead of Senate Bill 25-003, a state gun measure that took effect Aug. 1.",
+      "source": "9NEWS",
+      "topic": "elections-politics",
+      "url": "https://www.9news.com/article/news/local/colorado-news/cbi-firearms-background-checks/73-940b75ec-b426-46e3-a712-7b05ec2295d9",
+      "published_at": "2026-08-03T20:01:45+00:00",
       "image": {
-        "url": "https://i0.wp.com/boulderreportinglab.org/wp-content/uploads/2025/04/IMG_1557-scaled.jpeg?fit=1024%2C683&ssl=1",
-        "alt": "Homeless people in Boulder rest by the creek path near the library."
+        "url": "https://media.tegna-media.com/assets/KUSA/images/f83415fc-f2c9-435a-855d-94fbe0852020/20250129T015702/f83415fc-f2c9-435a-855d-94fbe0852020_750x422.jpg",
+        "alt": ""
       },
-      "description": "Homeless people in Boulder rest by the creek path near the library. Civil rights lawyers argue the Colorado Court of Appeals failed to independently analyze the state constitution and relied on 'fiction' rather than the facts of the case. The post ACLU asks Colorado Supreme",
-      "logo": "https://boulderreportinglab.org/wp-content/uploads/2021/06/cropped-brl-favicon-32x32.png"
+      "uid": "0144da0c-ba89-41ea-b944-f72db2c66aa6",
+      "description": "The surge came as firearm purchases increased before Senate Bill 25-003 took effect Aug. 1."
+    },
+    {
+      "title": "Advocates say Denver’s cooling centers leave gaps for people living outside during extreme heat",
+      "summary": "Advocates argued that Denver's cooling centers left gaps for people living outdoors during extreme heat, calling for dedicated emergency shelter and a pause on encampment sweeps (the clearing of homeless camps).",
+      "source": "9NEWS",
+      "topic": "housing",
+      "url": "https://www.9news.com/article/news/local/advocates-say-denvers-cooling-centers-leave-gaps-for-people-living-outside-during-extreme-heat/73-259db6f4-6c76-4c12-8de8-10861356c81f",
+      "published_at": "2026-08-01T23:41:45+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/df395631-4cbb-499f-9639-4f723d9b7b16/20260801T223029/df395631-4cbb-499f-9639-4f723d9b7b16_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "c7b28a6d-8010-43b1-bf80-e83306788a4b",
+      "description": "Advocates want dedicated emergency shelter and a pause on encampment sweeps."
     }
   ],
-  "sports": [
-    {
-      "team": "Rockies",
-      "scores": [
-        "Padres 5, Rockies 4 (Tatis 5-for-5)",
-        "Brewers 8, Rockies 5",
-        "Rockies 5, Brewers 2"
-      ]
-    }
-  ]
+  "sports": []
 }

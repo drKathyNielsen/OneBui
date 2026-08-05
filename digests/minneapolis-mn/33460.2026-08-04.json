@@ -1,0 +1,129 @@
+{
+  "shortName": "Minneapolis, MN",
+  "metroCode": "33460",
+  "metro": "Minneapolis-St. Paul-Bloomington, MN-WI",
+  "date": "2026-08-04",
+  "are_you_ok": [],
+  "conversation_starters": [
+    {
+      "title": "Artist Adam Turman promises biggest grandstand booth yet at the Minnesota State Fair",
+      "summary": "Local artist Adam Turman is returning to the Minnesota State Fair (the \"Great Minnesota Get-Together\") and its grandstand with his largest booth to date.",
+      "source": "CBS Minnesota",
+      "topic": "civic-events",
+      "url": "https://www.cbsnews.com/minnesota/video/artist-adam-turman-promises-biggest-grandstand-booth-yet-at-the-minnesota-state-fair/",
+      "published_at": "2026-08-04T15:57:00+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/04/cbe434e6-bf53-4774-9898-e3a8004bccea/thumbnail/1024x576/b51454d9791293fcbd20bdc3ab018065/fa68b0a1d91db77e690e62a17c3f5ab1.jpg",
+        "alt": ""
+      },
+      "uid": "a8ca57a5-bdaf-44d0-9819-123869737d0c",
+      "questions": [
+        "Do you make it out to the Minnesota State Fair most years?",
+        "Are you familiar with Adam Turman's artwork?",
+        "Is there a booth or tradition at the fair you always look forward to?"
+      ],
+      "description": "Local artist Adam Turman is returning to the Great Minnesota Get-Together's grandstand with his largest booth to date.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    },
+    {
+      "title": "Brother of Twin Cities girl killed by distracted driver launches \"Live Like Lily\" in her honor",
+      "summary": "It's been 18 months, but the pain is as fresh as ever for the community of West Tonka, a lakeside area in the western suburbs of Minneapolis, MN. Lilyana \"Lily\" Loycano, 11, was killed while riding to school with her family. A distracted driver was charged in that crash.",
+      "source": "CBS Minnesota",
+      "topic": "human-interest",
+      "url": "https://www.cbsnews.com/minnesota/news/live-like-lily-westonka-minnesota-lily-loycano-jaxon-loycano/",
+      "published_at": "2026-08-04T00:05:49+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/03/83f52ec7-349e-4e39-bddb-676f8cbff609/thumbnail/1024x576/9f69fadbc9bb3737ec0f58b3ea5bb939/lily.jpg",
+        "alt": ""
+      },
+      "uid": "d84c093e-a608-4d30-a382-7668d4bdc0bb",
+      "questions": [
+        "Did you hear about the \"Live Like Lily\" effort her brother started?",
+        "Distracted driving has been getting a lot of local attention — is that something on your radar?"
+      ],
+      "description": "It's been 18 months, but the pain is as fresh as ever for the Twin Cities community of West Tonka. Lilyana \"Lily\" Loycano, 11, was killed while riding to school with her family. A distracted driver was charged in that crash.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    },
+    {
+      "title": "Minnesota wildfires: BWCA evacuations shifting as rain slows flames",
+      "summary": "Wildfire crews are making progress on several fires in and around Superior National Forest and the Boundary Waters Canoe Area (BWCA), a wilderness area in far northeastern Minnesota roughly 250 miles north of Minneapolis, MN, but closures, evacuations and fire restrictions remain in place as officials urge caution for residents and visitors.",
+      "source": "FOX 9",
+      "topic": "wildfire",
+      "url": "https://www.fox9.com/news/minnesota-wildfires-echo-trail-restricted-evacuations-shifting-rain-slows-flames",
+      "published_at": "2026-08-04T16:19:37+00:00",
+      "image": {
+        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/08/wolfpack-fire-bwca.jpg",
+        "alt": ""
+      },
+      "uid": "0be58579-f5a0-4fa4-9ee4-fc78f3c4d8dd",
+      "questions": [
+        "Have you spent time up in the Boundary Waters or Superior National Forest?",
+        "Is the wildfire situation affecting anyone you know up north?",
+        "Have the fires or air quality reached where you are?"
+      ],
+      "description": "Wildfire crews are making progress on several fires in and around Superior National Forest, but closures, evacuations and fire restrictions remain in place as officials urge caution for residents and visitors."
+    }
+  ],
+  "sports": [],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "St. Paul council holding public meeting on encampment clearings: Watch live",
+      "summary": "The St. Paul City Council is set to hold a special public hearing as the city prepares to clear a homeless encampment at Pig's Eye Park, a riverside park in southeast St. Paul.",
+      "source": "FOX 9",
+      "topic": "housing",
+      "url": "https://www.fox9.com/news/st-paul-council-hold-public-meeting-encampment-clearings",
+      "published_at": "2026-08-04T14:38:50+00:00",
+      "image": {
+        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/08/pigs-eye-park-encampment.jpg",
+        "alt": ""
+      },
+      "uid": "8725313e-5507-4623-8967-c750071a38bb",
+      "description": "The St. Paul City Council is set to hold a special public hearing on Tuesday as the city prepares to clear a homeless encampment at Pig’s Eye Park."
+    },
+    {
+      "title": "Charges: Neighbor targeted Hoffman family with July 4 fireworks",
+      "summary": "A man from Champlin, a northwest suburb of Minneapolis, MN, is accused of harassment and disorderly conduct after police say he targeted his neighbors, Minnesota Senator John Hoffman, his wife Yvette and their daughter Hope, with fireworks and threatening comments.",
+      "source": "FOX 9",
+      "topic": "violent-crime",
+      "url": "https://www.fox9.com/news/champlin-neighbor-accused-targeting-hoffman-family-july-4-fireworks-charges",
+      "published_at": "2026-08-04T17:03:37+00:00",
+      "image": {
+        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2024/10/10_26_24-mpls-shooting-15th-av-21st-street-raw-sst_00.03.24.54.jpg",
+        "alt": ""
+      },
+      "uid": "70b5505a-7323-45b7-a3f5-baaf48d886ad",
+      "description": "A Champlin man is accused of harassment and disorderly conduct after police say he targeted his neighbors, Minnesota Senator John Hoffman, his wife Yvette and their daughter Hope, with fireworks and threatening comments."
+    },
+    {
+      "title": "4 things to know from Aug. 4, 2026",
+      "summary": "",
+      "source": "CBS Minnesota",
+      "topic": "policing",
+      "url": "https://www.cbsnews.com/minnesota/video/4-things-to-know-from-aug-4-2026/",
+      "published_at": "2026-08-04T12:01:00+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/04/4464d4a1-6646-4bd6-8658-1e963ef59150/thumbnail/1024x576/63eeeb90d061575206fe7d4cbbd2f843/ef5f39cb407265f7a23b2f09b1dbf3d3.jpg",
+        "alt": ""
+      },
+      "uid": "017f1648-789b-417a-b61a-6f56a36252e8",
+      "description": "The Minneapolis commissioner of public safety has announced he's stepping down, it’s the public's last chance to make their voices heard before a large encampment is closed in St. Paul and more.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    },
+    {
+      "title": "New contract allows ICE to use empty western Minnesota prison to hold detainees",
+      "summary": "As Minnesota continues to feel the aftershock of a federal immigration surge that sparked protests, traumatized families, devastated businesses and left two of its residents dead, the Department of Homeland Security is set to expand its presence in the state by contracting an empty prison in western Minnesota (the rural part of the state along the South Dakota border) for ICE to hold detainees.",
+      "source": "CBS Minnesota",
+      "topic": "immigration-enforcement",
+      "url": "https://www.cbsnews.com/minnesota/news/appleton-prison-ice-contract/",
+      "published_at": "2026-08-04T18:14:53+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/04/297dd973-8953-4c61-8c26-27f72e3ca810/thumbnail/1024x576/d834a2d5ff88bbb49cfffa031c9a7ba0/gettyimages-2163200571.jpg",
+        "alt": ""
+      },
+      "uid": "ae8bf88d-6461-49ec-b8ae-d520e3abf5cd",
+      "description": "As Minnesota continues to feel the aftershock of a federal immigration surge that sparked protests, traumatized families, devastated businesses and left two of its residents dead, the Department of Homeland Security is set to expand its presence in the state in a new capacity.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    }
+  ]
+}

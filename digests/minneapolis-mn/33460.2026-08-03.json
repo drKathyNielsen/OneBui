@@ -1,0 +1,179 @@
+{
+  "shortName": "Minneapolis, MN",
+  "metroCode": "33460",
+  "metro": "Minneapolis-St. Paul-Bloomington, MN-WI",
+  "date": "2026-08-03",
+  "are_you_ok": [
+    {
+      "title": "More than 1.5 million Ram pickup trucks recalled over seat belt issue",
+      "summary": "",
+      "source": "FOX 9",
+      "topic": "other",
+      "url": "https://www.fox9.com/news/ram-pickup-trucks-recall-seat-belt-issue",
+      "published_at": "2026-08-03T15:49:25+00:00",
+      "image": {
+        "url": "https://static.livenowfox.com/www.livenowfox.com/content/uploads/2026/08/ram-pickup-truck-logo-.jpg",
+        "alt": ""
+      },
+      "uid": "fbad8a8e-bac4-493b-a143-42106252948f",
+      "questions": [
+        "Do you or anyone close to you drive a Ram 1500? This recall covers model years 2019 through 2026.",
+        "Have you seen the news about the Ram seat belt recall?"
+      ],
+      "description": "The new recall affects certain Ram 1500 pickup trucks manufactured between 2019 and 2026."
+    }
+  ],
+  "conversation_starters": [
+    {
+      "title": "SummerSlam brings major crowds, business to Minneapolis",
+      "summary": "",
+      "source": "KARE 11",
+      "topic": "civic-events",
+      "url": "https://www.kare11.com/article/news/local/summerslam-major-crowds-business-minneapolis/89-b63491c7-203a-483d-90ad-064a44d80ef1",
+      "published_at": "2026-08-03T22:27:24+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/e6cf8910-3db3-4116-a0d5-a74952d831b8/20260803T213145/e6cf8910-3db3-4116-a0d5-a74952d831b8_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "8a7467f4-da7e-46d0-9427-b5e0edc56f37",
+      "questions": [
+        "Did you catch any of the SummerSlam crowds downtown?",
+        "Sounds like the wrestling event brought a business bump — did you notice it around town?"
+      ],
+      "description": "One bar owner tells us that while business wasn't as much as they thought, they still saw a significant bump."
+    },
+    {
+      "title": "Data center proposed for former Star Tribune site sparks debate in Minneapolis",
+      "summary": "A data center is set to move into the North Loop, a downtown warehouse-turned-residential district just northwest of the Minneapolis, MN city center, sparking debate over the future of downtown and the best use of local resources.",
+      "source": "FOX 9",
+      "topic": "data-centers",
+      "url": "https://www.fox9.com/news/data-center-poised-replace-star-tribune-printing-facility-north-loop",
+      "published_at": "2026-08-03T22:52:39+00:00",
+      "image": {
+        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/08/vlcsnap-2026-08-03-17h41m25s551.png",
+        "alt": ""
+      },
+      "uid": "417c55dc-30b8-404b-84f5-447fbf6eadc6",
+      "questions": [
+        "What do you make of the data center proposed for the old Star Tribune site?",
+        "There's debate about the best use of that downtown land — have you been following it?"
+      ],
+      "description": "A data center is set to move into the North Loop, sparking debate over the future of downtown and the best use of local resources."
+    },
+    {
+      "title": "MnDOT: Highway 280 expected to reopen before Minnesota State Fair",
+      "summary": "While the Minnesota Department of Transportation (MnDOT) said Highway 280, a short connector between Minneapolis, MN and St. Paul, is on track to reopen before the State Fair, some drivers are causing problems during the current closure.",
+      "source": "KARE 11",
+      "topic": "transportation",
+      "url": "https://www.kare11.com/article/news/local/mndot-highway-280-expected-to-reopen-by-minnesota-state-fair/89-7b3b6afd-88ee-4bf4-859d-a8b74854b81e",
+      "published_at": "2026-08-03T23:22:42+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/b33a588b-7cb6-4e52-bd48-a8e1f4713c2c/b33a588b-7cb6-4e52-bd48-a8e1f4713c2c_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "d87723dd-d672-4aa4-929b-b2d2555ac5fa",
+      "questions": [
+        "Has the Highway 280 closure affected your commute or your colleague's?",
+        "Are you hoping it reopens before the State Fair?"
+      ],
+      "description": "While MnDOT said Highway 280 is on track to reopen before the State Fair, some drivers are causing problems during the current closure."
+    },
+    {
+      "title": "Wildfire containment improving as BWCA prepares to reopen 70% of entry points this week",
+      "summary": "Nearly 1,000 firefighters are still working to put out flames in the Boundary Waters Canoe Area Wilderness (BWCA), the vast canoe-country wilderness along the Canadian border in far northeastern Minnesota, roughly 250 miles north of Minneapolis, MN, as officials push to reopen more canoe entry points.",
+      "source": "KARE 11",
+      "topic": "wildfire",
+      "url": "https://www.kare11.com/article/news/local/breaking-the-news/wildfire-containment-improving-as-bwca-prepares-to-reopen-more-entry-points-this-week/89-7693e6ed-07d3-48ee-be0e-cf4aa375b128",
+      "published_at": "2026-08-03T23:55:38+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/b7c1cc18-d076-4e6f-be0d-e40dc9c28841/20260803T225621/b7c1cc18-d076-4e6f-be0d-e40dc9c28841_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "a90133e9-77b4-41fc-baad-119d25bed894",
+      "questions": [
+        "Have you ever spent time in the Boundary Waters?",
+        "Good news that they're reopening most entry points — is that a place you or your colleague like to go?"
+      ],
+      "description": "Nearly 1,000 firefighters are still working to put out flames in the Boundary Waters Canoe Area Wilderness as officials push to reopen more canoe entry points."
+    },
+    {
+      "title": "Persistent drought continues to lower lake levels across north-central Minnesota",
+      "summary": "Recent weeks of below-normal rainfall, combined with above-normal temperatures, have worsened drought conditions across north-central Minnesota, the lake-and-forest region a couple hours' drive north of Minneapolis, MN.",
+      "source": "KARE 11",
+      "topic": "drought-water",
+      "url": "https://www.kare11.com/article/news/state/persistent-drought-continues-to-lower-lake-levels-across-north-central-minnesota-water/89-18329416-f5bf-4f8f-ae4f-531af26d6667",
+      "published_at": "2026-08-03T20:36:20+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/e1171993-3191-4be9-8412-83fd5581227f/20260803T202658/e1171993-3191-4be9-8412-83fd5581227f_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "ed1f7fee-7e6f-4801-8a01-327bf347768b",
+      "questions": [
+        "Have you noticed the drought affecting lakes in the area?",
+        "Is the low water level something people around you are talking about?"
+      ],
+      "description": "Recent weeks of below-normal rainfall, combined with above-normal temperatures, have worsened drought conditions across a large portion of the state."
+    }
+  ],
+  "sports": [],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "Hortman assassin raises health complaints, conspiracies as state murder case kicks off",
+      "summary": "A convicted assassin faces a new round of charges in Hennepin County court — Hennepin County is the county that contains Minneapolis, MN — bringing more pain for the families of his victims and renewed debate about justice in Minnesota.",
+      "source": "FOX 9",
+      "topic": "violent-crime",
+      "url": "https://www.fox9.com/news/hortman-assassin-raises-health-complaints-conspiracies-state-murder-case-kicks-off",
+      "published_at": "2026-08-03T22:19:05+00:00",
+      "image": {
+        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/08/vlcsnap-2026-08-03-17h09m43s117.jpg",
+        "alt": ""
+      },
+      "uid": "4d83bdb8-dfe3-4157-9208-355d15d67892",
+      "description": "A convicted assassin faces a new round of charges in Hennepin County court, bringing more pain for the families of his victims and renewed debate about justice in Minnesota."
+    },
+    {
+      "title": "Moriarty pens letter to TX governor, demanding ICE officer's extradition back to MN",
+      "summary": "Christian Castro was arrested in Harlingen, Texas, in May and booked into the Cameron County Jail — both in far southern Texas near the Mexico border — where he remains. Hennepin County Attorney Mary Moriarty (Hennepin County contains Minneapolis, MN) has written the Texas governor demanding his extradition back to Minnesota.",
+      "source": "KARE 11",
+      "topic": "immigration-enforcement",
+      "url": "https://www.kare11.com/article/news/local/ice-in-minnesota/moriarty-pens-letter-to-tx-governor-demanding-ice-officers-extradition-to-mn/89-85c6a408-0e4d-4966-ae42-dbc5f9c933d2",
+      "published_at": "2026-08-03T16:54:14+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/ada87890-8094-4061-9157-0f5db65571b1/20260601T112942/ada87890-8094-4061-9157-0f5db65571b1_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "afbf5b10-b12b-4044-bd61-0b4277041650",
+      "description": "Christian Castro was arrested in Harlingen, Texas, in May and booked into the Cameron County Jail, where he remains."
+    },
+    {
+      "title": "Minneapolis safety commissioner Toddrick Barnette to step down at the end of the year",
+      "summary": "",
+      "source": "KARE 11",
+      "topic": "policing",
+      "url": "https://www.kare11.com/article/news/local/minneapolis-safety-commissioner-toddrick-barnette-to-step-down-end-of-the-year/89-2b7d7ba1-3b7c-49a9-8063-e05ad22a651b",
+      "published_at": "2026-08-03T23:15:59+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/da112abf-0aeb-49db-8ad2-b754d1e351eb/20260409T171400/da112abf-0aeb-49db-8ad2-b754d1e351eb_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "488d8bbc-8de5-410b-8d75-61b42294e184",
+      "description": "According to the Office of Community Safety, Barnette has agreed to stay until the end of the year while a search for his replacement is conducted."
+    },
+    {
+      "title": "Mike Lindell responds after being accused of violating campaign law",
+      "summary": "Minnesota GOP candidate for governor Mike Lindell says he's being wrongly attacked for tossing pillows at parades. A complaint says he's breaking something called the Twinkie law — a Minnesota law limiting free giveaways to influence voters. Esme Murphy listened to a hearing Monday in connection with the accusation.",
+      "source": "CBS Minnesota",
+      "topic": "elections-politics",
+      "url": "https://www.cbsnews.com/minnesota/video/mike-lindell-responds-after-being-accused-of-violating-campaign-law/",
+      "published_at": "2026-08-03T23:44:00+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/03/fdd6f9a5-7f51-47cf-9eaf-82255d5139b9/thumbnail/1024x576/9de2e275544c396d3882c46cb67ba92f/7aa44e5730e77a4cb3916fb7b15fc4e3.png",
+        "alt": ""
+      },
+      "uid": "dd205494-d85d-4046-b55e-18d29a3027cb",
+      "description": "Minnesota GOP candidate for governor Mike Lindell says he’s being wrongly attacked for tossing pillows at parades. A complaint says he’s breaking something called the Twinkie law. Esme Murphy listened to a hearing Monday in connection with the accusation.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    }
+  ]
+}

@@ -21,6 +21,19 @@
   ],
   "conversation_starters": [
     {
+      "title": "Mudslide closes section of Million Dollar Highway through Friday as crews clear debris, CDOT says",
+      "summary": "Mudslide closing Million Dollar Highway (Silverton/Ouray) — distant from Denver metro, point hazard. Conversation-worthy but not a metro check-in. You could open with: 'Did you hear the Million Dollar Highway is closed from mudslides?'",
+      "source": "9NEWS",
+      "topic": "transportation",
+      "url": "https://www.9news.com/article/traffic/mudslide-closes-section-million-dollar-highway-through-friday-crews-clear-debris-cdot-says/73-637688c2-c2c2-4cb2-9d6e-8247f13ba2a1",
+      "published_at": "2026-07-30T23:50:39+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/d18ee300-9723-4e1c-9d1f-b4821ccda194/20260730T222259/d18ee300-9723-4e1c-9d1f-b4821ccda194_750x422.jpg",
+        "alt": ""
+      },
+      "description": "Several large mud and rockslides damaged sections of the highway between Silverton and Ouray, officials said."
+    },
+    {
       "title": "Aurora transforming Great Lawn of Aurora Municipal Center to water-efficient turf",
       "summary": "Aurora converting Great Lawn to water-efficient turf amid drought — mitigation/adaptation story, positive framing, so conversation starter not check-in. You could open with: 'Did you see Aurora is ripping out the Great Lawn for drought-friendly turf?' Continues eagle-county-water-conservation-signs.",
       "source": "CBS Colorado",
@@ -36,16 +49,7 @@
     }
   ],
   "sports": [],
-  "weather_alert": [
-    {
-      "event": "Air Quality Alert",
-      "area": "Boulder",
-      "severity": "Unknown",
-      "summary": "Air Quality Alert — Boulder, through Thursday",
-      "description": "Air Quality Alert issued July 29 at 4:10PM MDT by NWS Denver CO\n\nThe Colorado Department of Public Health and Environment has\nissued the following...\n\nWHAT...Ozone Action Day Alert.\n\nWHERE...Douglas, Jefferson, Denver, western Arapahoe, western\nAdams, Broomfield, Boulder, Larimer, and Weld Counties\n\nWHEN...400 PM Wednesday July 29 to 400 PM Thursday July 30\n\nIMPACTS...Ozone Action Day Alert is now in effect for the Front\nRange Urban Corridor.  Ozone is expected to be in the Moderate\ncategory on Wednesday, but will reach the Unhealthy for Sensitive\nGroups level on Thursday.  For Colorado air quality conditions,\nforecasts, and advisories, visit:\nhttps://www.colorado.gov/airquality/colorado_summary.aspx   If\npossible, please help us reduce ozone pollution by limiting\ndriving gas and diesel-powered vehicles until at least 4 p.m.\nThursday, July 30, 2026. Colorado is also addressing ozone\npollution through state policies. For more information about\nhealth impacts and how ozone pollution forms in Colorado, visit:\nhttps://cdphe.colorado.gov/ozone- pollution-and-your-health\n\nHEALTH INFORMATION...Increasing likelihood of respiratory symptoms\nand breathing discomfort in active children and adults and people\nwith lung disease, such as asthma. Active children and adults, and\npeople with lung disease, such as asthma, should reduce prolonged\nor heavy outdoor exertion.",
-      "ends": "2026-07-30T16:00:00-06:00"
-    }
-  ],
+  "weather_alert": [],
   "you_should_know": [
     {
       "title": "Cargill reaches tentative agreement with union representing Fort Morgan beef plant workers",

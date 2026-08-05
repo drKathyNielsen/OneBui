@@ -57,6 +57,32 @@
         "alt": ""
       },
       "description": "Governor Walz also visited the area on Monday and mobilized the National Guard."
+    },
+    {
+      "title": "Tornado downs power, damages homes in Wisconsin's Fox River Valley",
+      "summary": "EF2 tornado in WI Fox Valley — distant point hazard, not this metro. Conversation starter. You could open with: 'Did you see that EF2 tornado tore through the Fox Valley?'",
+      "source": "KARE 11",
+      "topic": "severe-weather",
+      "url": "https://www.kare11.com/article/news/local/tornado-downs-power-damages-homes-in-wisconsins-fox-river-valley/89-71f12212-c703-4e50-b333-4545caef9ea2",
+      "published_at": "2026-07-28T11:06:20+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/b24340a0-7fe2-4f8f-ba5e-32e4735ca166/20260728T103242/b24340a0-7fe2-4f8f-ba5e-32e4735ca166_750x422.jpg",
+        "alt": ""
+      },
+      "description": "An EF2 tornado ripped through the area in northeastern Wisconsin on Monday afternoon."
+    },
+    {
+      "title": "Minnesota wildfires: Rainfall, moderate humidity should keep fire activity at a minimum",
+      "summary": "Update on reduced northern MN wildfire activity; same incident, distant point hazard with no effect on metro. Conversation starter. You could open with: 'Sounds like the rain finally helped calm the wildfires up north — been following it?'",
+      "source": "FOX 9",
+      "topic": "wildfire",
+      "url": "https://www.fox9.com/news/minnesota-wildfires-july-28-2026",
+      "published_at": "2026-07-28T21:58:05+00:00",
+      "image": {
+        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/07/image-1.png",
+        "alt": ""
+      },
+      "description": "Wildfire activity is reduced across northern Minnesota and Canada as weather makes firefighting more manageable. Restrictions are still in place for most counties within the vicinity of a fire."
     }
   ],
   "sports": [],
@@ -102,6 +128,47 @@
         "alt": ""
       },
       "description": "In a court filing the administration acknowledged terminating programs \"based solely\" on how states voted in 2024."
+    },
+    {
+      "title": "Fridley police detail who can access Flock Safety camera data amid concerns from residents",
+      "summary": "Fridley Flock camera access amid immigration-enforcement concerns — local surveillance/policing institutional story. You-should-know.",
+      "source": "CBS Minnesota",
+      "topic": "policing",
+      "url": "https://www.cbsnews.com/minnesota/news/fridley-police-flock-safety-camera-concerns/",
+      "published_at": "2026-07-28T05:12:11+00:00",
+      "image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/07/28/0b4d24fc-4764-429a-a72a-533d42963667/thumbnail/1024x576/c7daaa9f64dba947a682efdb11d77175/10p-pkg-fridley-flock-cams-wccoaygg.jpg",
+        "alt": ""
+      },
+      "description": "Police in Fridley are restricting who can access data from Flock Safety cameras. At a packed City Council meeting on Monday, they walked through data, showing the community's network of cameras was searched hundreds of thousands of times in December and January by agencies",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    },
+    {
+      "title": "Minneapolis public housing tenants sweltering weeks after AC complaints",
+      "summary": "Mpls public housing tenants sweltering weeks after AC complaints — bounded set of specific tenants, not reader's broad pop. You-should-know context; low confidence on appeal.",
+      "source": "FOX 9",
+      "topic": "housing",
+      "url": "https://www.fox9.com/news/minneapolis-public-housing-tenants-sweltering-weeks-after-ac-complaints-heritage-park-july-2026",
+      "published_at": "2026-07-28T01:36:32+00:00",
+      "image": {
+        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/07/vlcsnap-2026-07-27-20h15m49s784.jpg",
+        "alt": ""
+      },
+      "description": "Tenants at a Minneapolis public housing complex said they are still suffering in sweltering heat and dealing with foul smells, with no real solutions from management."
+    },
+    {
+      "title": "Elon Musk's xAI sues to stop Minnesota law banning nudification technology",
+      "summary": "Duplicate of xAI/MN nudification lawsuit; same incident. Keep as you-should-know.",
+      "source": "CBS Minnesota",
+      "topic": "elections-politics",
+      "url": "https://www.cbsnews.com/minnesota/news/elon-musk-xai-sues-minnesota-law-banning-ai-nudification/",
+      "published_at": "2026-07-28T22:37:00+00:00",
+      "image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/07/28/ead11f70-71db-4f59-8807-b001b9f1b72c/thumbnail/1024x576/ddf797e482ecacfc36f356f9f2ccdba4/gettyimages-2255688650.jpg",
+        "alt": ""
+      },
+      "description": "Billionaire Elon Musk's artificial intelligence company is suing Minnesota over a first-of-its-kind law that bans apps and websites that create fake, sexualized pictures of individuals, claiming it violates the First Amendment.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
     }
   ]
 }

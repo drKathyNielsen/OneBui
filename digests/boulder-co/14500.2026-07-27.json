@@ -59,6 +59,47 @@
       },
       "description": "One person was killed and four others injured in a lightning strike at the summit of Mount Blue Sky over the weekend.",
       "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    },
+    {
+      "title": "Low levels at Green Mountain Reservoir reveal lost ATV missing for 5 years",
+      "summary": "Low-reservoir reveals lost ATV — quirky, novel drought-adjacent oddity. You could open with: 'Did you see the reservoir got so low they found an ATV lost five years ago?'",
+      "source": "CBS Colorado",
+      "topic": "human-interest",
+      "url": "https://www.cbsnews.com/colorado/video/low-levels-at-green-mountain-reservoir-reveal-lost-atv-missing-for-5-years/",
+      "published_at": "2026-07-27T12:41:00+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/07/27/5e87a954-a759-46a2-8da6-296af288899a/thumbnail/1024x576/b3d87e4624836ee4e408ee58995ee2d8/bb3417ee125629806def2cc65f9354de.jpg",
+        "alt": ""
+      },
+      "description": "Low levels at Green Mountain Reservoir reveal a lost ATV that had been missing for five years.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    },
+    {
+      "title": "Colorado Department of Transportation begins mudslide cleanup, expect delays on Highway 550",
+      "summary": "Highway 550 mudslide cleanup/delays; distant mountain-pass route, not Denver metro. Conversation starter for most readers. You could open with: 'Heard Red Mountain Pass is a mess with the mudslide cleanup?'",
+      "source": "CBS Colorado",
+      "topic": "transportation",
+      "url": "https://www.cbsnews.com/colorado/news/colorado-transportation-department-mudslide-cleanup-highway-550/",
+      "published_at": "2026-07-27T14:01:58+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/26/65758d20-aaf9-4ce4-a9b2-33d0dd2f337a/thumbnail/1024x576/8273ed8d73959b9eda70debbcb246d7c/cdot-mudslide-highway-550.jpg",
+        "alt": ""
+      },
+      "description": "The Colorado Department of Transportation is advising drivers to expect lengthy delays this week as crews clean up the remains of a mudslide in Red Mountain Pass.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    },
+    {
+      "title": "Fall colors spotted in Colorado: How drought could impact mountain trees",
+      "summary": "Early fall colors from drought — light, novel statewide-interest story. You could open with: 'Have you noticed the leaves turning early this year? Apparently it's the drought.'",
+      "source": "9NEWS",
+      "topic": "drought-water",
+      "url": "https://www.9news.com/article/weather/fall-colors/fall-colors-colorado-drought-mountain-trees/73-527256f4-e1d6-474c-ae2f-fb5ca2e4c5c1",
+      "published_at": "2026-07-27T13:50:45+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/c71a02c3-4e51-4c69-86fe-d86df08cbe14/c71a02c3-4e51-4c69-86fe-d86df08cbe14_750x422.jpg",
+        "alt": ""
+      },
+      "description": "Colorado's high country is witnessing early autumn hues, attributed to severe drought conditions. This early color change could impact the typically vibrant leaves."
     }
   ],
   "sports": [],

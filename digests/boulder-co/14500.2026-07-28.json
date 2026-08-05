@@ -57,6 +57,46 @@
         "alt": ""
       },
       "description": "A NASA-led mission in Colorado explores pyrocumulonimbus storms sparked by wildfires, aiming to improve forecasts and public safety."
+    },
+    {
+      "title": "Colorado couple gives birth to baby on highway; mother says \"it just feels unreal\"",
+      "summary": "Feel-good quirky local story. You could open with: 'Did you hear about the couple who had their baby on the highway?'",
+      "source": "CBS Colorado",
+      "topic": "human-interest",
+      "url": "https://www.cbsnews.com/colorado/news/couple-gives-birth-baby-highway-colorado/",
+      "published_at": "2026-07-28T04:25:58+00:00",
+      "image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/07/28/e36e6c60-b255-4fba-889e-60cf1398b6ba/thumbnail/1024x576/89bc70a390b1a488d4e50d540ec1ca05/birth.jpg",
+        "alt": ""
+      },
+      "description": "The parents of a Littleton 5-month-old are reflecting on their child's life journey and are amazed at the incredible odds she has already overcome.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    },
+    {
+      "title": "Longmont tiny home village for veterans reaches full capacity after community steps in to close funding gap",
+      "summary": "Longmont veterans tiny-home village hits capacity after community closes funding gap; uplifting metro-area feel-good opener. You could open with: 'Did you see Longmont's veterans tiny-home village filled up after the community stepped in?'",
+      "source": "9NEWS",
+      "topic": "housing",
+      "url": "https://www.9news.com/article/news/community/longmont-veterans-tiny-home-village-reaches-capacity-community-closes-funding-gap/73-679c3e9b-483f-425e-beaf-fb04b3629f9c",
+      "published_at": "2026-07-28T00:48:26+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/cfb49e9a-c84a-4a28-9705-4cd8cd1a7895/20260721T231803/cfb49e9a-c84a-4a28-9705-4cd8cd1a7895_750x422.jpg",
+        "alt": ""
+      },
+      "description": "Longmont's Veterans Community Project, a nonprofit providing transitional housing for veterans, reaches full capacity after community efforts close a funding gap."
+    },
+    {
+      "title": "New warning signs signal urgent need to conserve water",
+      "summary": "Water-supply strain / conservation push in Eagle County; awareness context but framed as mitigation signage, conversation-worthy. You could open with: 'Did you see those new water-conservation signs going up in Eagle County?'",
+      "source": "9NEWS",
+      "topic": "drought-water",
+      "url": "https://www.9news.com/article/news/local/9news-mornings/warning-signs-conserve-water/73-f2a5de4e-36af-4667-8ea2-9892ae05fa69",
+      "published_at": "2026-07-28T12:41:09+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/ba611f80-bef6-43fa-8ca7-61e80f237b63/20260724T125510/ba611f80-bef6-43fa-8ca7-61e80f237b63_750x422.jpg",
+        "alt": ""
+      },
+      "description": "Inspired by wildfire danger messaging, Eagle County water officials are rolling out signs to show how strained the water supply has become."
     }
   ],
   "sports": [],

@@ -1,0 +1,98 @@
+{
+  "shortName": "San Jose, CA",
+  "metroCode": "41940",
+  "metro": "San Jose-Sunnyvale-Santa Clara, CA",
+  "date": "2026-08-01",
+  "are_you_ok": [],
+  "conversation_starters": [
+    {
+      "title": "Annual summer jazz fest returns to downtown San Jose",
+      "summary": "",
+      "source": "San José Spotlight",
+      "topic": "civic-events",
+      "url": "https://sanjosespotlight.com/annual-summer-jazz-fest-returns-to-downtown-san-jose/",
+      "published_at": "2026-08-01T15:30:28+00:00",
+      "image": null,
+      "uid": "19c3dada-62b2-4ffe-8e70-940c74ecd466",
+      "questions": [
+        "Do you get out to downtown for the San Jose Jazz Summer Fest?",
+        "What kind of music are you into these days?"
+      ],
+      "description": "For years, thousands of music fans have packed the Latin Tropical Stage at San Jose Jazz Summer Fest, turning downtown into an open-air dance floor where salsa has long been one of the festival’s defining traditions. Christian Vela, associate artistic director with San Jose"
+    },
+    {
+      "title": "Top dogs ride waves at annual World Dog Surfing Championships",
+      "summary": "A dog catches a wave during the World Dog Surfing Championships in Pacifica, Calif., a coastal town about 35 miles northwest of San Jose, CA.",
+      "source": "Local – NBC Bay Area",
+      "topic": "human-interest",
+      "url": "https://www.nbcbayarea.com/news/national-international/dogs-ride-waves-world-dog-surfing-championships/4122307/",
+      "published_at": "2026-08-01T02:28:25+00:00",
+      "image": {
+        "url": "https://media.nbcbayarea.com/2026/08/AP26213644587091.jpg?quality=85&strip=all&fit=1200,675",
+        "alt": ""
+      },
+      "uid": "9bdfa2d7-e739-43bf-87ad-81e8eb8da532",
+      "questions": [
+        "Did you catch any of the dog surfing championships?",
+        "Do you have any pets at home?"
+      ],
+      "description": "A dog catches a wave during the World Dog Surfing Championships, Saturday, Aug. 1, 2026, in Pacifica, Calif.",
+      "logo": "https://media.nbcbayarea.com/2024/08/KNTV_station_logo_light.png?fit=327%2C58&quality=85&strip=all"
+    },
+    {
+      "title": "San Francisco Ghirardelli workers enter final day of strike",
+      "summary": "Workers at the Ghirardelli chocolate operation in San Francisco, about 45 miles northwest of San Jose, CA, enter the final day of their strike.",
+      "source": "Local – NBC Bay Area",
+      "topic": "business-jobs",
+      "url": "https://www.nbcbayarea.com/news/local/ghirardelli-workers-file-federal-charge/4122252/",
+      "published_at": "2026-08-01T12:45:38+00:00",
+      "image": {
+        "url": "https://media.nbcbayarea.com/2026/08/50063505791-1080pnbcstations.jpg?quality=85&strip=all&fit=1920,1080",
+        "alt": ""
+      },
+      "uid": "2483cfae-f1cb-4b60-99fb-06a358d99f1a",
+      "questions": [
+        "Did you see the Ghirardelli workers' strike in the news?",
+        "Have labor issues come up much in your world lately?"
+      ],
+      "logo": "https://media.nbcbayarea.com/2024/08/KNTV_station_logo_light.png?fit=327%2C58&quality=85&strip=all"
+    },
+    {
+      "title": "Series of earthquakes strike near Cloverdale",
+      "summary": "A series of earthquakes struck near Cloverdale, a small town in the North Bay wine country about 110 miles north of San Jose, CA.",
+      "source": "Local – NBC Bay Area",
+      "topic": "severe-weather",
+      "url": "https://www.nbcbayarea.com/news/local/earthquakes-sonoma-county-2/4122266/",
+      "published_at": "2026-08-01T12:18:57+00:00",
+      "image": {
+        "url": "https://media.nbcbayarea.com/2024/02/GettyImages-1477081099-e1765894882311.jpg?quality=85&strip=all&fit=1200,800",
+        "alt": ""
+      },
+      "uid": "5d27bfe9-3ff3-40c3-b864-144a772e5039",
+      "questions": [
+        "Did you feel any of the recent earthquakes?",
+        "Are you set up with an earthquake kit at home?"
+      ],
+      "description": "File. Earthquake Seismograph. 3D Render",
+      "logo": "https://media.nbcbayarea.com/2024/08/KNTV_station_logo_light.png?fit=327%2C58&quality=85&strip=all"
+    }
+  ],
+  "sports": [],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "Forward Progress Stopped on 841-Acre Feliz Fire in Mendocino County",
+      "summary": "Forward progress has been stopped on the 841-acre Feliz Fire in Mendocino County, the coastal county roughly 130 miles north of San Jose, CA.",
+      "source": "Local – NBC Bay Area",
+      "topic": "wildfire",
+      "url": "https://www.nbcbayarea.com/news/local/mendocino-county-evacuations-hwy-101-closure/4122393/",
+      "published_at": "2026-08-01T07:20:39+00:00",
+      "image": {
+        "url": "https://media.nbcbayarea.com/2026/08/image.png?fit=1920,1080&quality=85&strip=all",
+        "alt": ""
+      },
+      "uid": "495e6345-1d3d-4583-83fb-4e2fd579e633",
+      "logo": "https://media.nbcbayarea.com/2024/08/KNTV_station_logo_light.png?fit=327%2C58&quality=85&strip=all"
+    }
+  ]
+}

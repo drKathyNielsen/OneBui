@@ -1,0 +1,76 @@
+{
+  "shortName": "Boulder, CO",
+  "metroCode": "14500",
+  "metro": "Boulder, CO",
+  "date": "2026-08-02",
+  "are_you_ok": [
+    {
+      "title": "9NEWS Weather Impact Alert issued for Sunday and Monday",
+      "summary": "",
+      "source": "9NEWS",
+      "topic": "heat",
+      "url": "https://www.9news.com/article/weather/weather-impact/denver-colorado-front-range-weather-alert-hot-temps/73-0515fd9c-2c8b-4db4-aefd-897cf7d9bf43",
+      "published_at": "2026-08-02T15:57:57+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/ef4d73d4-ebd8-469f-bfac-274c10b5338e/20260801T112859/ef4d73d4-ebd8-469f-bfac-274c10b5338e_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "221ba0e1-8e0b-4ef3-a6b9-08171738abf6",
+      "description": "The National Weather Service in Boulder has issued a heat advisory for the entire Front Range starting at noon Sunday."
+    }
+  ],
+  "conversation_starters": [
+    {
+      "title": "Coloradans celebrate 150 years of statehood",
+      "summary": "",
+      "source": "CBS Colorado",
+      "topic": "civic-events",
+      "url": "https://www.cbsnews.com/colorado/video/coloradans-celebrate-150-years-of-statehood/",
+      "published_at": "2026-08-02T01:36:00+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/02/190e5a37-8ae6-42b4-b17c-98e6da59fecd/thumbnail/1024x576/e9e52a4c0d9c551a1352915e936b6877/ae84890603e5eb91c8dfafc855e046be.jpg",
+        "alt": ""
+      },
+      "uid": "316cc110-d313-45db-8986-3092d60c460d",
+      "description": "Saturday marked Colorado's 150th birthday. It became a state on this date in 1876, and Coloradans celebrated with a number of events across the state.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    },
+    {
+      "title": "Bear spotted in Denver's Cherry Creek Neighborhood",
+      "summary": "A bear was spotted raiding trash cans early Saturday morning in Cherry Creek, an upscale shopping and residential neighborhood in Denver, about 35 miles southeast of Boulder, CO.",
+      "source": "CBS Colorado",
+      "topic": "human-interest",
+      "url": "https://www.cbsnews.com/colorado/video/bear-spotted-in-denvers-cherry-creek-neighborhood/",
+      "published_at": "2026-08-02T01:45:00+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/02/05cb8917-9e59-40c9-8061-75487f09185e/thumbnail/1024x576/d53ca632c8c4c81c881705d38f8f6515/f73cd1b1b6b1991605c038172cc92463.png",
+        "alt": ""
+      },
+      "uid": "8771d741-e089-4ebe-81d0-ec7ba10cfd00",
+      "questions": [
+        "Did you see the bear spotted in Denver's Cherry Creek neighborhood?",
+        "Have bears been wandering into your neighborhood too?"
+      ],
+      "description": "A bear was spotted raiding trash cans in Denver's Cherry Creek Neighborhood early Saturday morning.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    }
+  ],
+  "sports": [],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "Here are the wildfires burning in Colorado",
+      "summary": "",
+      "source": "9NEWS",
+      "topic": "wildfire",
+      "url": "https://www.9news.com/article/news/local/wildfire/wildfires-burning-in-colorado/73-5e0a83db-0795-41e6-af89-59ec243a497d",
+      "published_at": "2026-08-02T14:06:38+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/f27511f7-6d79-41b6-92ed-e674fa3bd8f8/20260729T191943/f27511f7-6d79-41b6-92ed-e674fa3bd8f8_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "4de12d1b-060d-4c2c-9ec3-4c05e7013d21",
+      "description": "Here's the latest on the fires burning across the state."
+    }
+  ]
+}

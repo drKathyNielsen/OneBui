@@ -1,0 +1,136 @@
+{
+  "shortName": "San Antonio, TX",
+  "metroCode": "41700",
+  "metro": "San Antonio-New Braunfels, TX",
+  "date": "2026-08-02",
+  "are_you_ok": [
+    {
+      "title": "Weather conditions again brought devastating floods to a vulnerable swath of Texas",
+      "summary": "",
+      "source": "KENS 5",
+      "topic": "flood",
+      "url": "https://www.kens5.com/article/syndication/associatedpress/weather-conditions-again-brought-devastating-floods-to-a-vulnerable-swath-of-texas/616-a291d9ae-9351-4121-bcbf-5b06e2f42d40",
+      "published_at": "2026-08-02T20:18:44+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/AssociatedPress/images/54538eb9-ae26-49df-8661-dc9e81615bc2/20260716T222531/54538eb9-ae26-49df-8661-dc9e81615bc2_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "4b6667d8-15b6-427a-9089-822b418269fb",
+      "questions": [
+        "Have the floods affected your area at all?",
+        "Are you and your family staying safe with all the rain?",
+        "Is there anything you need with the flooding going on?"
+      ],
+      "description": "Severe storms have dumped over 20 inches of rain in parts of Texas, causing significant flooding."
+    }
+  ],
+  "conversation_starters": [
+    {
+      "title": "San Antonio man has reunited more than 200 people with lost class rings while searching for his own",
+      "summary": "",
+      "source": "KENS 5",
+      "topic": "human-interest",
+      "url": "https://www.kens5.com/article/news/local/san-antonio-man-has-reunited-more-than-200-people-with-lost-class-rings-while-searching-for-his-own/273-0bf6f14a-2736-4cca-b45b-5622d64d50a0",
+      "published_at": "2026-08-02T23:01:36+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/4f8e41a1-602b-474a-8a10-16d2d881abac/20260802T230012/4f8e41a1-602b-474a-8a10-16d2d881abac_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "08f08f7c-d8fc-45cd-ac9e-d5f494365354",
+      "questions": [
+        "Did you catch the story about the local man reuniting people with their lost class rings?",
+        "Do you still have your class ring?",
+        "Isn't it a nice change of pace to see a feel-good story?"
+      ],
+      "description": "Nearly 30 years after losing his own class ring, Richard Escobedo has reunited over 200 rings with their owners, creating bonds and hope through his mission."
+    },
+    {
+      "title": "Data centers are cropping up all over Bexar County with 23 more on the way",
+      "summary": "Community members are asking what the increase in data center construction across Bexar County, the county that contains San Antonio, means for the city's environment and economy.",
+      "source": "San Antonio Report",
+      "topic": "data-centers",
+      "url": "https://sanantonioreport.org/data-centers-development-growing-san-antonio-bexar-county/",
+      "published_at": "2026-08-02T21:00:00+00:00",
+      "image": {
+        "url": "https://i0.wp.com/sanantonioreport.org/wp-content/uploads/2026/07/DataCenters_ComputerTechnology_Business_WaterLandConsumption_02.jpg?fit=1024%2C683&ssl=1",
+        "alt": ""
+      },
+      "uid": "71f2d6cf-3368-4e4b-bb60-7afef5888a4c",
+      "questions": [
+        "Have you noticed the data centers popping up around Bexar County?",
+        "Any sense of how people locally feel about all the new construction?",
+        "Do you think the growth is good for the area's economy?"
+      ],
+      "description": "Community members are asking what the increase in data center construction means for the San Antonio environment and economy.Data centers are cropping up all over Bexar County with 23 more on the way was first posted on August 2, 2026 at 4:00 pm.©2021 \"San Antonio Report\". Use",
+      "logo": "https://sanantonioreport.org/wp-content/uploads/2020/09/cropped-SA_Report_Logo_512pxArtboard-1-32x32.jpg"
+    },
+    {
+      "title": "Alamo Ranch commute could go from 20 minutes to 3 after Bexar County builds new 6-lane elevated roadway",
+      "summary": "Alamo Ranch, a fast-growing residential hub on the far west side of San Antonio in Bexar County, is one of the area's centers of population growth, and public officials are expanding roads there to keep up.",
+      "source": "San Antonio Report",
+      "topic": "transportation",
+      "url": "https://sanantonioreport.org/population-traffic-booming-alamo-ranch-bexar-county/",
+      "published_at": "2026-08-02T10:00:00+00:00",
+      "image": {
+        "url": "https://i0.wp.com/sanantonioreport.org/wp-content/uploads/2026/07/AlamoRanch_LoneStar_ParkwayTraffic_Construction_FarWestSide_RenderingsCourtesy01-scaled.jpg?fit=1024%2C573&ssl=1",
+        "alt": ""
+      },
+      "uid": "4d4d6db5-b473-4d7c-8422-c3b54e5f6791",
+      "questions": [
+        "Is your commute affected by the road work out toward Alamo Ranch?",
+        "Have you noticed how much that part of town has grown?",
+        "Would a shorter commute make a big difference for you?"
+      ],
+      "description": "Alamo Ranch is one of the hubs of local population growth in Bexar County. Public officials are expanding roads in the area to keep up.Alamo Ranch commute could go from 20 minutes to 3 after Bexar County builds new 6-lane elevated roadway was first posted on August 2, 2026 at",
+      "logo": "https://sanantonioreport.org/wp-content/uploads/2020/09/cropped-SA_Report_Logo_512pxArtboard-1-32x32.jpg"
+    }
+  ],
+  "sports": [],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "Jones vows to revisit veteran vouchers, slamming fellow council members as ‘OK with a little bit of discrimination’",
+      "summary": "",
+      "source": "San Antonio Report",
+      "topic": "housing",
+      "url": "https://sanantonioreport.org/mayor-jones-revisit-veterans-housing-vouchers-debate/",
+      "published_at": "2026-08-02T16:00:00+00:00",
+      "image": {
+        "url": "https://i0.wp.com/sanantonioreport.org/wp-content/uploads/2026/07/CityCouncil_PlanningCommunityDevelopmentCommittee_VeteranHousingVouchers_09_04.28.2026_AmberEsparza-scaled-1.webp?fit=1024%2C682&ssl=1",
+        "alt": ""
+      },
+      "uid": "b8215e4c-96ba-4cb4-bef4-89a8a560899a",
+      "description": "Mayor Gina Ortiz Jones and veteran advocates argue that the current ordinance doesn't do enough to expand access to housing for veterans.Jones vows to revisit veteran vouchers, slamming fellow council members as ‘OK with a little bit of discrimination’ was first posted on August",
+      "logo": "https://sanantonioreport.org/wp-content/uploads/2020/09/cropped-SA_Report_Logo_512pxArtboard-1-32x32.jpg"
+    },
+    {
+      "title": "New Texas THC restrictions take effect, leaving hemp businesses scrambling",
+      "summary": "",
+      "source": "KENS 5",
+      "topic": "business-jobs",
+      "url": "https://www.kens5.com/article/news/local/thc-restrictions-hemp-businesses/285-3fe2342e-5ba7-4fb0-997d-915430e8fc96",
+      "published_at": "2026-08-02T18:56:08+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KHOU/images/37c23a16-7764-426c-8024-4a715b05f673/20260802T030535/37c23a16-7764-426c-8024-4a715b05f673_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "eaa61020-8a83-4f3a-aa59-85d5843bd760",
+      "description": "Some hemp-derived THC products are now restricted in Texas after a court ruling. Business owners warn the changes could hurt the hemp industry."
+    },
+    {
+      "title": "Censorship or accountability? Impact of law prompting Texas’ scrutiny of universities detailed",
+      "summary": "",
+      "source": "San Antonio Report",
+      "topic": "education",
+      "url": "https://sanantonioreport.org/censorship-or-accountability-impact-of-law-prompting-texas-scrutiny-of-universities-detailed/",
+      "published_at": "2026-08-02T19:00:00+00:00",
+      "image": {
+        "url": "https://i0.wp.com/sanantonioreport.org/wp-content/uploads/2026/07/20260520-UT-Funeral-MS-09.jpeg?fit=1024%2C683&ssl=1",
+        "alt": ""
+      },
+      "uid": "c66c8a9a-5d4d-4dff-9a87-2ea4147372e8",
+      "description": "Students and professors shared how SB 37 led to academic censorship at their campuses.Censorship or accountability? Impact of law prompting Texas’ scrutiny of universities detailed was first posted on August 2, 2026 at 2:00 pm.©2021 \"San Antonio Report\". Use of this feed is for",
+      "logo": "https://sanantonioreport.org/wp-content/uploads/2020/09/cropped-SA_Report_Logo_512pxArtboard-1-32x32.jpg"
+    }
+  ]
+}

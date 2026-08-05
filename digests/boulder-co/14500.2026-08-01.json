@@ -1,0 +1,91 @@
+{
+  "shortName": "Boulder, CO",
+  "metroCode": "14500",
+  "metro": "Boulder, CO",
+  "date": "2026-08-01",
+  "are_you_ok": [
+    {
+      "title": "Ground stop in place for Denver International Airport as storms move in",
+      "summary": "A ground stop has been issued for Denver International Airport, the region's main airport about 45 miles southeast of Boulder, CO, due to thunderstorms moving into the area.",
+      "source": "CBS Colorado",
+      "topic": "severe-weather",
+      "url": "https://www.cbsnews.com/colorado/news/ground-stop-denver-international-airport-july-31-2026/",
+      "published_at": "2026-08-01T00:16:00+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/10/08/bc4ab721-f111-4d8a-9ce6-3104e43d7072/thumbnail/1024x576/87a0d2bbec5a35e12d9ac94e9e6656e7/gov-shutdown-airport-issues-10pkg-transfer-frame-1350.jpg",
+        "alt": ""
+      },
+      "uid": "fe9c9c3f-10f9-4686-8557-f9527c8dc49d",
+      "questions": [
+        "Have the storms around Denver International Airport disrupted any of your travel plans?",
+        "How has the stormy weather been where you are?"
+      ],
+      "description": "A ground stop has been issued for Denver International Airport due to thunderstorms moving into the area.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    }
+  ],
+  "conversation_starters": [],
+  "sports": [],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "Multiple Colorado reservoirs announce boat ramp closures due to dropping water levels, another fish salvage announced",
+      "summary": "",
+      "source": "CBS Colorado",
+      "topic": "drought-water",
+      "url": "https://www.cbsnews.com/colorado/news/multiple-colorado-reservoirs-boat-closures-dropping-water-levels-fish-salvage/",
+      "published_at": "2026-08-01T22:12:00+00:00",
+      "image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/01/5e390325-49f0-4c49-a444-3b74da15a545/thumbnail/1024x576/b426306d8ea5deedb856a722cf5b8f8e/boat-ramps-2-crawford-state-park-in-mid-july-cpw.jpg",
+        "alt": ""
+      },
+      "uid": "d2c17e84-6c3d-4c56-b5ea-2dc747f50744",
+      "description": "Monsoon rains have not been enough to end Colorado's drought, and several more areas have announced boat ramp closures as water levels in our reservoirs continue to drop.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    },
+    {
+      "title": "Colorado River plan spares upper basin states from mandatory cuts, for now",
+      "summary": "",
+      "source": "CBS Colorado",
+      "topic": "drought-water",
+      "url": "https://www.cbsnews.com/colorado/news/colorado-river-plan-spares-upper-basin-states-mandatory-cuts/",
+      "published_at": "2026-08-01T02:10:00+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/01/8b47c33f-43bd-435a-80d4-6ca6e0f0709e/thumbnail/1024x576/bdccbe3582679e73f857f22a14574bcb/gettyimages-2284748263.jpg",
+        "alt": ""
+      },
+      "uid": "4db7cd91-747c-4bd2-8460-fa0afff37d9a",
+      "description": "The U.S. Department of the Interior has issued its plan for how to manage water on the Colorado River.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    },
+    {
+      "title": "Advocates say Denver’s cooling centers leave gaps for people living outside during extreme heat",
+      "summary": "",
+      "source": "9NEWS",
+      "topic": "housing",
+      "url": "https://www.9news.com/article/news/local/advocates-say-denvers-cooling-centers-leave-gaps-for-people-living-outside-during-extreme-heat/73-259db6f4-6c76-4c12-8de8-10861356c81f",
+      "published_at": "2026-08-01T23:41:45+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/df395631-4cbb-499f-9639-4f723d9b7b16/20260801T223029/df395631-4cbb-499f-9639-4f723d9b7b16_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "c7b28a6d-8010-43b1-bf80-e83306788a4b",
+      "description": "Advocates want dedicated emergency shelter and a pause on encampment sweeps."
+    },
+    {
+      "title": "Aurora looks at successes and struggles of water conservation efforts as drought continues",
+      "summary": "",
+      "source": "CBS Colorado",
+      "topic": "drought-water",
+      "url": "https://www.cbsnews.com/colorado/news/aurora-successes-struggles-water-conservation-efforts-drought/",
+      "published_at": "2026-08-01T22:40:00+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/01/fee9c217-c3e0-4002-b59e-ceed029f6f5e/thumbnail/1024x576/748a9891825507628127e2bf9e688cd6/arapahoe-co-water-matters-5pkg-frame-1613.jpg",
+        "alt": ""
+      },
+      "uid": "e65d4315-e3d8-4d94-8ffc-63b728ae6c97",
+      "description": "On Saturday morning, lawmakers and residents gathered in Aurora for an update on the city's water usage amid the drought.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    }
+  ]
+}

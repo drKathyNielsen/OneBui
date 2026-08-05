@@ -1,0 +1,121 @@
+{
+  "shortName": "Minneapolis, MN",
+  "metroCode": "33460",
+  "metro": "Minneapolis-St. Paul-Bloomington, MN-WI",
+  "date": "2026-08-01",
+  "are_you_ok": [
+    {
+      "title": "Two Haitians in Minnesota seeking asylum fear deportation as TPS ends for 330K+ people",
+      "summary": "",
+      "source": "CBS Minnesota",
+      "topic": "immigration-enforcement",
+      "url": "https://www.cbsnews.com/minnesota/news/haitians-minnesota-trump-ends-tps-2026/",
+      "published_at": "2026-08-01T23:23:00+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/01/a8be5b01-8a57-40f4-91b3-9959a4a1813c/thumbnail/1024x576/7d7378de1355d2c4e278b8c4e55c6b34/5p-vo-haitian-community-ice-reax-wccoazr4.jpg",
+        "alt": ""
+      },
+      "uid": "b37c006b-3fd7-4904-8205-5ba76d795ff1",
+      "questions": [
+        "Have you seen the news that Temporary Protected Status is ending for Haitian migrants?",
+        "This affects some people locally who are seeking asylum — is that something you're aware of?",
+        "Is there anything I can do to support you or the team around this news?"
+      ],
+      "description": "U.S. Immigration and Customs Enforcement says Haitian migrants are their next target for deportations. The Trump Administration ended Temporary Protected Status for the demographic earlier this week.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    }
+  ],
+  "conversation_starters": [
+    {
+      "title": "Pearson’s Candy closure brings up generations of nostalgia",
+      "summary": "The St. Paul candy company — St. Paul is the state capital and twin city just east of Minneapolis, MN — announced it will close its facility and lay off 80 employees.",
+      "source": "KARE 11",
+      "topic": "business-jobs",
+      "url": "https://www.kare11.com/article/news/local/breaking-the-news/pearsons-candy-closure-brings-generations-nostalgia/89-1fcf8d8e-e757-4fd1-90bb-269d3ccb431e",
+      "published_at": "2026-08-01T00:27:10+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/577541a4-386d-4daf-84fe-57c8bd9512f8/20260801T001852/577541a4-386d-4daf-84fe-57c8bd9512f8_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "31b5f00f-d709-40b5-98b4-be1fbdc02931",
+      "questions": [
+        "Did you grow up with Pearson's candy? It's a longtime local brand.",
+        "The closure is stirring a lot of nostalgia — does it bring back memories for you or your colleague?"
+      ],
+      "description": "The St. Paul candy company announced it will close its facility and lay off 80 employees."
+    },
+    {
+      "title": "Rondo Block Party celebrates history, resilience and community in St. Paul",
+      "summary": "The fourth annual gathering brought longtime residents, families and local vendors together to honor Rondo, the historic Black neighborhood in St. Paul (the twin city just east of Minneapolis, MN) that was largely razed for freeway construction decades ago.",
+      "source": "KARE 11",
+      "topic": "civic-events",
+      "url": "https://www.kare11.com/article/news/local/rondo-block-party-celebrates-history-resilience-and-community-in-st-paul-mn/89-76bcf698-25c8-4978-a387-514fbc97e424",
+      "published_at": "2026-08-01T22:41:37+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/ef987336-c6f4-4d04-b912-ddd0afae4ed5/20260801T192542/ef987336-c6f4-4d04-b912-ddd0afae4ed5_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "81470eff-5ef1-48ad-8a63-2314650a782c",
+      "questions": [
+        "Have you heard about the Rondo neighborhood's history?",
+        "Did you or your colleague get a chance to check out the Rondo Block Party?"
+      ],
+      "description": "The fourth annual gathering brought longtime residents, families and local vendors together to honor the historic Black neighborhood."
+    },
+    {
+      "title": "'They pressure you and they talk fast:' Minnesota bans cryptocurrency kiosks after scammers take millions",
+      "summary": "",
+      "source": "KARE 11",
+      "topic": "business-jobs",
+      "url": "https://www.kare11.com/article/news/local/they-pressure-you-they-talk-fast-mn-bans-cryptocurrency-kiosks-after-scammers-take-millions/89-4aa2eed1-e99a-4fd4-95f9-d6311299db47",
+      "published_at": "2026-08-01T00:04:17+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/7872f018-ab55-42df-8181-031f5622248e/20260411T011539/7872f018-ab55-42df-8181-031f5622248e_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "b83f5436-49e4-4b0d-b473-f180e92269ea",
+      "questions": [
+        "Have you or anyone you know run into these crypto-kiosk scams?",
+        "Minnesota just banned cryptocurrency kiosks over scams — had you heard about it?"
+      ],
+      "description": "The state is cutting off one of scammers' most effective tools for stealing thousands of dollars from individuals."
+    },
+    {
+      "title": "Passionate wrestling fans take over downtown Minneapolis",
+      "summary": "Wrestling fans are at the Minneapolis Convention Center — the large downtown Minneapolis, MN event venue — for SummerSlam, bringing the passion and the fun.",
+      "source": "CBS Minnesota",
+      "topic": "civic-events",
+      "url": "https://www.cbsnews.com/minnesota/video/passionate-wrestling-fans-take-over-downtown-minneapolis/",
+      "published_at": "2026-08-01T15:55:00+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/01/1a525e52-a766-4e3e-80a9-5bff3f1ef4b5/thumbnail/1024x576/6f80ab8e3bef4bf456dfb0cf55c369f6/b312bb16743f2bca85ee8a91f8a63ac4.jpg",
+        "alt": ""
+      },
+      "uid": "89dc585b-2b7f-49b3-ad69-12a54164d222",
+      "questions": [
+        "Did you see the SummerSlam crowds downtown?",
+        "Are you or your colleague into wrestling?"
+      ],
+      "description": "Wrestling fans are at the Minneapolis Convention Center for SummerSlam, brining the passion and the fun.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    }
+  ],
+  "sports": [],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "MN nudification ban will take effect Aug. 1 after judge rules against Elon Musk-led lawsuit",
+      "summary": "",
+      "source": "FOX 9",
+      "topic": "elections-politics",
+      "url": "https://www.fox9.com/news/mn-nudification-ban-will-take-effect-aug-1-after-judge-rules-against-elon-musk-led-lawsuit-july-31-2026",
+      "published_at": "2026-08-01T01:28:22+00:00",
+      "image": {
+        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2019/08/70f34393-iphone-hand-cellphone_1490787433028_2954348_ver1.0.jpg",
+        "alt": ""
+      },
+      "uid": "d6c3ab05-f6fa-458e-876b-3a18734ccd0d",
+      "description": "A U.S. District Court judge has denied a lawsuit for a temporary restraining order by an AI company founded by Elon Musk that would have blocked the ban of nudification technology in Minnesota."
+    }
+  ]
+}
