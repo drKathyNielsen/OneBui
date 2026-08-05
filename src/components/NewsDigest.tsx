@@ -77,10 +77,10 @@ export default function NewsDigest({ vm, days, hasWeekly, period, selectedDate, 
 
         <div className="row gy-4">
           <div className="col-12 col-md-6">
-            <ArticleList heading={strings.startersHeading} items={vm.starters} emptyNote={strings.emptyStarters} />
+            <ArticleList heading={strings.startersHeading} items={vm.starters} emptyNote={strings.emptyStarters} moreLabel={strings.moreLabel} />
           </div>
           <div className="col-12 col-md-6 oneb-col-divider">
-            <ArticleList heading={strings.knowHeading} items={vm.know} emptyNote={strings.emptyKnow} />
+            <ArticleList heading={strings.knowHeading} items={vm.know} emptyNote={strings.emptyKnow} moreLabel={strings.moreLabel} />
           </div>
         </div>
 

@@ -16,10 +16,14 @@ export interface RawArticle {
   source: string; // human outlet label, e.g. "9NEWS"
   topic: string; // kebab slug
   url: string;
-  summary?: string; // optional editorial line (weekly narrates the arc here)
+  summary?: string; // optional editorial line (weekly narrates the arc here; daily
+  // now also gets a fuller summary that supersedes `description` when present)
   published_at?: string; // optional ISO 8601 with offset
   logo?: string; // outlet logo URL (joined by source); absent when the outlet has no known logo
   thread?: RawArticle[]; // weekly-only: contributing articles, oldest→newest (additive)
+  uid?: string; // stable per-article feedback id; present on all newly generated
+  // articles, but per docs/schema/digest.schema.json stays optional since files
+  // rendered before it was introduced (still in the DAILY_WINDOW/weekly) lack it
 }
 
 // A significance-filtered weather alert. Mirrors docs/schema/digest.schema.json
@@ -72,9 +76,10 @@ export interface Article {
   image?: string; // resolved thumbnail URL
   alt?: string; // image alt text ('' when decorative/unknown)
   logo?: string; // source/station logo URL; thumb fallback when image is absent
-  summary?: string; // editorial arc narration (weekly items); omitted when absent
+  summary?: string; // editorial arc narration (weekly grouped items only); omitted otherwise
   dateLabel?: string; // short published date, e.g. "Jul 24"; set on weekly items so
   // readers know *when* each story happened (daily items share the masthead date)
+  uid?: string; // passed to ArticleFeedback for thumbs up/down; absent on older items
 }
 
 // A weather alert prepared for display. `endsLabel` is the human "Until…" line

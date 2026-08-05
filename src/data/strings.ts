@@ -12,6 +12,7 @@ export interface StyleStrings {
   knowHeading: string;
   sportsHeading: string;
   weeklyLabel: string;
+  moreLabel: string; // "reveal next 3" link under starters/you-should-know
   // Shown in place of items when a section has nothing this period. Every
   // section always renders its header; these fill the body so the absence is
   // stated rather than left as a silent gap.
@@ -28,6 +29,7 @@ const NEUTRAL: StyleStrings = {
   knowHeading: 'You should know',
   sportsHeading: 'Sporting news',
   weeklyLabel: 'Last week',
+  moreLabel: 'More articles',
   emptyAreOk: 'No urgent local concerns to flag.',
   emptyStarters: 'No conversation starters this time.',
   emptyKnow: 'Nothing else to flag.',
@@ -44,6 +46,7 @@ export const STYLE_STRINGS: Record<Style, StyleStrings> = {
     knowHeading: 'You should know',
     sportsHeading: 'Your teams 🏆',
     weeklyLabel: 'Last week',
+    moreLabel: 'More stories 👀',
     emptyAreOk: 'All clear — nothing urgent to flag. 😌',
     emptyStarters: 'No chat starters this time. 💬',
     emptyKnow: 'Nothing else to flag.',

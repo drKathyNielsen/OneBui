@@ -12,6 +12,9 @@ dist
 dist-ssr
 *.local
 
+# Local-only sink for the demo feedback endpoint (see vite-plugin-feedback.ts)
+feedback/
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json

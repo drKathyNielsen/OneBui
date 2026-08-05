@@ -34,16 +34,19 @@ function formatItemDate(iso: string): string {
   return dow + ', ' + MON_SHORT[d.getMonth()] + ' ' + d.getDate();
 }
 
-// `summary` is shown only for grouped items — a weekly item that clusters a
-// multi-day sequence (carries a `thread`), where the summary narrates the arc.
-// Single items (no thread) carry an incidental summary we don't surface.
-// `withDate` surfaces each item's published date (weekly only), since weekly
+// Weekly keeps its existing shape: `description` renders as-is, and `summary`
+// is surfaced only for grouped items — a weekly item that clusters a multi-day
+// sequence (carries a `thread`) — as a separate arc-narration line. Daily is
+// different: its `summary` is now the fuller, better-written line, so daily
+// prefers `summary` over `description` for the one description slot instead of
+// rendering both. `isWeekly` also gates the published-date label, since weekly
 // items span the coverage range rather than sharing one masthead date.
-function mapItem(it: RawArticle, withDate = false): Article {
-  const isGroup = Array.isArray(it.thread) && it.thread.length > 0;
+function mapItem(it: RawArticle, isWeekly = false): Article {
+  const isGroup = isWeekly && Array.isArray(it.thread) && it.thread.length > 0;
+  const description = isWeekly ? (it.description ?? '') : (it.summary ?? it.description ?? '');
   return {
     title: it.title,
-    description: it.description ?? '',
+    description,
     url: it.url,
     image: it.image?.url,
     alt: it.image?.alt ?? '',
@@ -51,7 +54,8 @@ function mapItem(it: RawArticle, withDate = false): Article {
     source: it.source,
     topic: topicLabel(it.topic),
     summary: isGroup ? it.summary : undefined,
-    dateLabel: withDate && it.published_at ? formatItemDate(it.published_at) : undefined,
+    dateLabel: isWeekly && it.published_at ? formatItemDate(it.published_at) : undefined,
+    uid: it.uid,
   };
 }
 

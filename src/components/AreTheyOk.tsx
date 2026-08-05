@@ -1,5 +1,6 @@
 import type { Article } from '../types';
 import Thumb from './Thumb';
+import ArticleFeedback from './ArticleFeedback';
 
 export default function AreTheyOk({ article, eyebrow, emptyNote }: { article?: Article; eyebrow: string; emptyNote?: string }) {
   if (!article) {
@@ -25,6 +26,7 @@ export default function AreTheyOk({ article, eyebrow, emptyNote }: { article?: A
         {article.dateLabel && <>{article.dateLabel} · </>}
         <a href={article.url} className="oneb-source-link" target="_blank" rel="noopener noreferrer">{article.source}</a> · {article.topic}
       </p>
+      <ArticleFeedback uid={article.uid} title={article.title} />
     </div>
   );
 }
