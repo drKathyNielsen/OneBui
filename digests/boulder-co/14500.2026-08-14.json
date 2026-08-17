@@ -1,0 +1,207 @@
+{
+  "shortName": "Boulder, CO",
+  "metroCode": "14500",
+  "metro": "Boulder, CO",
+  "date": "2026-08-14",
+  "are_you_ok": [
+    {
+      "title": "Heavy rain forecast raises flash flood risks in Colorado through weekend",
+      "summary": "Colorado faces a risk of flash flooding with storms likely on Friday and Saturday, especially over burn scars — hillsides stripped by past wildfires, where rain runs off instead of soaking in. Stay alert and avoid flooded roads.",
+      "source": "9NEWS",
+      "topic": "flood",
+      "url": "https://www.9news.com/article/weather/weather-colorado/rain-chances-denver-colorado-forecast/73-62c25a62-9de4-4bd3-af12-f8c28982afc0",
+      "published_at": "2026-08-14T22:33:10+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/bad53148-f0b2-4ade-b3c7-8ec593a8ba89/20260814T100736/bad53148-f0b2-4ade-b3c7-8ec593a8ba89_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "2a3b1273-7d1e-4563-ab95-7efb2f6b0b14",
+      "questions": [
+        "Are you near any of the burn scars they're worried about?",
+        "Does the flood risk change your plans for the weekend?"
+      ],
+      "description": "Colorado faces a risk of flash flooding with storms likely on Friday and Saturday, especially in burn scar areas. Stay alert and avoid flooded roads."
+    }
+  ],
+  "conversation_starters": [
+    {
+      "title": "Dogs on trails in Boulder required to be on leash due to rise in bear activity",
+      "summary": "",
+      "source": "CBS Colorado",
+      "topic": "other",
+      "url": "https://www.cbsnews.com/colorado/video/dogs-on-trails-in-boulder-required-to-be-on-leash-due-to-rise-in-bear-activity/",
+      "published_at": "2026-08-14T13:41:00+00:00",
+      "image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/14/01679329-fe34-45e5-9811-dbd0a7eac94f/thumbnail/1024x576/8a676d70cdfc5821549593f503492f40/3c0a66e56e86208178fdf2cc23f1bb53.jpg",
+        "alt": ""
+      },
+      "uid": "9f4d54fe-74ac-4b24-8f0a-f0673efa8f8f",
+      "questions": [
+        "Has the leash rule changed how you walk your dog?",
+        "Are you seeing more bears on the trails than usual?"
+      ],
+      "description": "Dogs on the trails in Boulder are required to be on a leash due to a rise in bear activity.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    },
+    {
+      "title": "Savannah Bananas expected to bring Denver business boom",
+      "summary": "The viral dancing sensation is set to return to Denver — the Mile High City, about 30 miles southeast of Boulder — on Friday and Saturday, generating dollars for downtown businesses there.",
+      "source": "9NEWS",
+      "topic": "civic-events",
+      "url": "https://www.9news.com/article/life/style/colorado-guide/savannah-bananas-denver-business-boom/73-adf22979-ec51-4eeb-914d-ff8d1b292a3c",
+      "published_at": "2026-08-14T16:35:13+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/a1a69c77-fbf7-4004-8765-bad29ea96415/20260814T163121/a1a69c77-fbf7-4004-8765-bad29ea96415_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "5af620b1-8d61-41b6-86ff-824d1432b55f",
+      "questions": [
+        "Are you going to catch the Savannah Bananas while they're in Denver?",
+        "Have you seen them before? I hear it's less baseball than show."
+      ],
+      "description": "The viral dancing sensation is set to return to the Mile High City on Friday and Saturday, generating dollars for downtown Denver businesses."
+    },
+    {
+      "title": "A century-old Boulder County war memorial is finally getting its due. Now the search is on for 1,500 families.",
+      "summary": "",
+      "source": "Boulder Reporting Lab",
+      "topic": "human-interest",
+      "url": "https://boulderreportinglab.org/2026/08/13/a-century-old-boulder-county-war-memorial-is-finally-getting-its-due-now-the-search-is-on-for-1500-families/",
+      "published_at": "2026-08-14T03:01:38+00:00",
+      "image": {
+        "url": "https://i0.wp.com/boulderreportinglab.org/wp-content/uploads/2026/08/1.-ClydeCassUniform-scaled.jpg?fit=1024%2C731&ssl=1",
+        "alt": ""
+      },
+      "uid": "09976092-2c08-4fe8-ad8a-5dc31730662f",
+      "questions": [
+        "Had you heard of the Road of Remembrance before this?",
+        "Do you know anyone whose family goes back that far here?"
+      ],
+      "description": "Colorado has formally recognized the long-forgotten “Road of Remembrance” as local groups search for descendants of the 1,500 World War I veterans it honors. The post A century-old Boulder County war memorial is finally getting its due. Now the search is on for 1,500 families.",
+      "logo": "https://boulderreportinglab.org/wp-content/uploads/2021/06/cropped-brl-favicon-32x32.png"
+    },
+    {
+      "title": "Abandoned llama rescued from Comanche Peak Trail after refusing to hike out",
+      "summary": "",
+      "source": "9NEWS",
+      "topic": "human-interest",
+      "url": "https://www.9news.com/article/life/animals/abandoned-llama-rescued-comanche-peak-trail/73-3f34f642-ab79-401f-a3ab-02302cbab40f",
+      "published_at": "2026-08-14T03:59:51+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/dde44206-edc0-4855-9b75-2bff0a280eef/20260814T025311/dde44206-edc0-4855-9b75-2bff0a280eef_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "57505781-66dd-46f6-a947-a539311c3ef0",
+      "questions": [
+        "Did you catch the story about the llama that refused to hike out?",
+        "Do you get up to that part of the state much?"
+      ],
+      "description": "The owners told deputies the stubborn animal decided to stay put during a hike. Deputies said the llama would walk about 30 feet before deciding it was break time."
+    },
+    {
+      "title": "Passengers evacuated after bullet found on plane at DIA",
+      "summary": "",
+      "source": "9NEWS",
+      "topic": "other",
+      "url": "https://www.9news.com/article/travel/denver-international-airport/bullet-found-united-plane-denver-international-airport/73-647f6b6c-9e15-4800-bdb4-bbd490eb9f91",
+      "published_at": "2026-08-14T04:27:15+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/9723804e-53c1-4c0e-aead-b009996cc36c/9723804e-53c1-4c0e-aead-b009996cc36c_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "18032884-45c2-47c4-9561-f65e8da45f42",
+      "questions": [
+        "Were you flying out of DIA around then?",
+        "Did the sweep hold up much of the terminal?"
+      ],
+      "description": "A United plane underwent a security sweep after a bullet was found prior to the flight's departure Thursday."
+    },
+    {
+      "title": "Tony Hawk gives away used, signed skateboard in Denver",
+      "summary": "Joseph Martinez found the skateboard at La Raza Park, a park in north Denver.",
+      "source": "9NEWS",
+      "topic": "human-interest",
+      "url": "https://www.9news.com/article/news/local/tony-hawk-gives-away-used-signed-skateboard-in-denver/73-4c72ea91-1074-4d00-87f6-2ab3e9949ef7",
+      "published_at": "2026-08-14T04:25:16+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/d059b0c3-40e3-4fe0-898e-9ea92387cdae/20260814T041017/d059b0c3-40e3-4fe0-898e-9ea92387cdae_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "ffd13c69-88ac-40db-81c8-0e16422a0cf1",
+      "questions": [
+        "Did you hear Tony Hawk left a signed board out in Denver for someone to find?",
+        "Do you skate, or know anyone who was hunting for it?"
+      ],
+      "description": "Joseph Martinez found the skateboard at La Raza Park."
+    }
+  ],
+  "sports": [
+    {
+      "team": "Buffaloes",
+      "scores": [
+        "unveils new tailgate street party"
+      ]
+    }
+  ],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "Colorado minimum wage will jump in 2027 to $15.71/hour, $12.69 tipped",
+      "summary": "According to the DLSS — Colorado's state labor standards division — the new wage of $15.71 represents a 3.6% increase over the current wage and a 41.5% increase from the wage in 2019 of $11.10 an hour.",
+      "source": "9NEWS",
+      "topic": "business-jobs",
+      "url": "https://www.9news.com/article/news/local/colorado-minimum-wage-2027/73-55a3430b-152e-44ca-9111-2fd9e04ade16",
+      "published_at": "2026-08-14T19:57:53+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/f42fadfa-c1f8-4ca2-9bbc-4e5c554b8ba1/20260814T195407/f42fadfa-c1f8-4ca2-9bbc-4e5c554b8ba1_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "6b2ab004-f843-4f32-857f-d35ab1674de0",
+      "description": "According to the DLSS, the new wage of $15.71 represents a 3.6% increase over the current wage and a 41.5% increase from the wage in 2019 of $11.10 an hour."
+    },
+    {
+      "title": "Boulder delays license plate reader decision as scrutiny of Flock intensifies",
+      "summary": "A Flock camera on U.S. 36 in Boulder, the highway linking Boulder to Denver. Credit: Brooke Stephenson After facing privacy concerns, Boulder invited companies to compete for its license plate reader contract and planned to choose a vendor by September. The city now says the process will take longer.",
+      "source": "Boulder Reporting Lab",
+      "topic": "policing",
+      "url": "https://boulderreportinglab.org/2026/08/13/boulder-delays-license-plate-reader-decision-as-scrutiny-of-flock-intensifies/",
+      "published_at": "2026-08-14T03:02:06+00:00",
+      "image": {
+        "url": "https://i0.wp.com/boulderreportinglab.org/wp-content/uploads/2026/08/IMG_6432-scaled.jpeg?fit=1024%2C683&ssl=1",
+        "alt": "A Flock camera on U.S. 36 in Boulder. Credit: Brooke Stephenson"
+      },
+      "uid": "733b78b8-dacd-42f3-8087-76945d94b25f",
+      "description": "A Flock camera on U.S. 36 in Boulder. Credit: Brooke Stephenson After facing privacy concerns, Boulder invited companies to compete for its license plate reader contract and planned to choose a vendor by September. The city now says the process will take longer. The post Boulder",
+      "logo": "https://boulderreportinglab.org/wp-content/uploads/2021/06/cropped-brl-favicon-32x32.png"
+    },
+    {
+      "title": "Universal Preschool providers face weeks-long waits for help after state downsizes support staff",
+      "summary": "Support for UPK — Colorado's universal preschool program, which pays for part of every 4-year-old's preschool — went from 32 local organizations to a help desk with three state staffers, leaving preschool providers hanging ahead of the school year.",
+      "source": "9NEWS",
+      "topic": "education",
+      "url": "https://www.9news.com/article/news/education/colorado-upk-providers-face-weeks-long-waits-for-help-after-state-downsizes-support-staff/73-17d37c09-1589-4c81-86e3-b195df859e9d",
+      "published_at": "2026-08-14T00:31:30+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/d43e79cb-9bca-48d1-bb2a-c4e9bbc8dcad/20260814T001527/d43e79cb-9bca-48d1-bb2a-c4e9bbc8dcad_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "2d84d13d-e432-4e18-a799-3039877dd754",
+      "description": "UPK support in Colorado went from 32 local organizations to a help desk with three state staffers, leaving preschool providers hanging ahead of the school year."
+    },
+    {
+      "title": "Report at center of lawsuit against Colorado Secretary of State Griswold may have been destroyed",
+      "summary": "Former employees told CBS Colorado that Colorado Secretary of State Jena Griswold refused to take custody of the consultant's report because it was highly critical of her and she didn't want it subject to open records requests.",
+      "source": "CBS Colorado",
+      "topic": "elections-politics",
+      "url": "https://www.cbsnews.com/colorado/video/report-at-center-of-lawsuit-against-colorado-secretary-of-state-griswold-may-have-been-destroyed/",
+      "published_at": "2026-08-14T13:34:00+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/14/891e6bea-105e-4166-8b42-afcf50795523/thumbnail/1024x576/aee05b73dba2d55e2780788ce215240f/e170a5ec704bc08b7dfb1f7ff08ecb18.jpg",
+        "alt": ""
+      },
+      "uid": "3b16f8a7-a81a-4f2b-9e07-e97275acfbc4",
+      "description": "Former employees told CBS Colorado that Jena Griswold refused to take custody of the consultant's report because it was highly critical of her and she didn't want it subject to open records requests.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    }
+  ]
+}

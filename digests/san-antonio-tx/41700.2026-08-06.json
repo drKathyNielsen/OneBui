@@ -1,0 +1,112 @@
+{
+  "shortName": "San Antonio, TX",
+  "metroCode": "41700",
+  "metro": "San Antonio-New Braunfels, TX",
+  "date": "2026-08-06",
+  "are_you_ok": [],
+  "conversation_starters": [
+    {
+      "title": "Where is Peanut? Drones, horses join search for missing kangaroo in Wilson County",
+      "summary": "The 7-year-old domesticated kangaroo escaped Saturday morning from his home in Adkins, a small community in Wilson County about 20 miles southeast of San Antonio. His owner is offering a $1,000 reward for information that leads her to him.",
+      "source": "KENS 5",
+      "topic": "human-interest",
+      "url": "https://www.kens5.com/article/news/local/peanut-drones-horses-search-missing-kangaroo-wilson-county-adkins/273-9eb21f28-2d1d-4a5f-862b-7b6fd7dd8cb3",
+      "published_at": "2026-08-06T03:24:14+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/a470cd0d-58ce-4739-9696-084431e9bc9c/20260806T015959/a470cd0d-58ce-4739-9696-084431e9bc9c_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "f79e901f-d59f-4db1-8c86-2ce1fb87d229",
+      "questions": [
+        "Have you been following the search for the missing kangaroo out in Wilson County?",
+        "Any guesses where a kangaroo hides for that long?"
+      ],
+      "description": "The 7-year-old domesticated kangaroo escaped Saturday morning from his home in Adkins. His owner is offering a $1,000 reward for information that leads her to him."
+    },
+    {
+      "title": "Charter school moves into historic Koehler House restored by developer Weston Urban",
+      "summary": "Great Hearts Texas opened the restored Koehler House, a historic mansion just north of downtown San Antonio, which the school will lease for use as a library, for art and music, and offices.",
+      "source": "San Antonio Report",
+      "topic": "civic-events",
+      "url": "https://sanantonioreport.org/charter-historic-koehler-house-great-hearts-weston-urban/",
+      "published_at": "2026-08-06T15:25:35+00:00",
+      "image": {
+        "url": "https://i0.wp.com/sanantonioreport.org/wp-content/uploads/2026/08/GreatHearts_MonteVista_ClassicalEducation_KoehlerHouse_WestonUrban_DevelopmentRestoration04_08.05.2026_AmberEsparza-scaled.jpg?fit=1024%2C683&ssl=1",
+        "alt": ""
+      },
+      "uid": "89faf025-2529-4c3d-9ce7-4516432b7e49",
+      "questions": [
+        "Have you seen the Koehler House since it was restored?",
+        "Are there other old buildings downtown you'd like to see brought back?"
+      ],
+      "description": "Great Hearts Texas opened the restored Koehler House, which the school will lease for use as a library, for art and music, and offices. Charter school moves into historic Koehler House restored by developer Weston Urban was first posted on August 6, 2026 at 10:25 am.©2021 \"San",
+      "logo": "https://sanantonioreport.org/wp-content/uploads/2020/09/cropped-SA_Report_Logo_512pxArtboard-1-32x32.jpg"
+    },
+    {
+      "title": "TxDOT to enter final phase of Loop 1604 North Expansion Project as other segments near completion",
+      "summary": "The Texas Department of Transportation has initiated the final phase of the Loop 1604 North Expansion Project, a $1.4 billion effort to widen the highway loop that rings San Antonio's north side.",
+      "source": "KENS 5",
+      "topic": "transportation",
+      "url": "https://www.kens5.com/article/news/local/txdot-final-phasef-loop-1604-north-expansion-project-other-segments-completion/273-3651889b-4694-4a32-8e54-06e573ddeae4",
+      "published_at": "2026-08-06T03:44:45+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/b061a376-267e-4df9-a533-b75aacfc4d84/20260806T034214/b061a376-267e-4df9-a533-b75aacfc4d84_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "326321e7-0771-4f53-aac5-07eb0592a84e",
+      "questions": [
+        "Does the Loop 1604 construction affect your commute?",
+        "Have the finished stretches made much of a difference yet?"
+      ],
+      "description": "The Texas Department of Transportation has initiated the final phase of the Loop 1604 North Expansion Project, a $1.4 billion effort."
+    }
+  ],
+  "sports": [],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "San Antonio will consider putting Project Marvel, Pre-K and workforce programs on Nov. 3 midterm ballot",
+      "summary": "Three of the city's biggest legacy investments — Project Marvel, the downtown sports and entertainment district planned around a new Spurs arena, city-funded pre-K, and workforce training — could go before voters for recommitment in an already high-stakes midterm.",
+      "source": "San Antonio Report",
+      "topic": "elections-politics",
+      "url": "https://sanantonioreport.org/san-antonio-project-marvel-prek4sa-ready-to-work-nov-3-midterm-ballot/",
+      "published_at": "2026-08-06T20:49:21+00:00",
+      "image": {
+        "url": "https://i0.wp.com/sanantonioreport.org/wp-content/uploads/2026/08/nickwagner-downtown-skyline-tower-of-americas-hotel-16SEP22-2.jpg?fit=1024%2C625&ssl=1",
+        "alt": ""
+      },
+      "uid": "1f49e5df-09f8-45ea-a6b9-1382eb7912bb",
+      "description": "Three of the city's biggest legacy investments could go before voters for recommitment in an already high-stakes midterm.San Antonio will consider putting Project Marvel, Pre-K and workforce programs on Nov. 3 midterm ballot was first posted on August 6, 2026 at 3:49 pm.©2021",
+      "logo": "https://sanantonioreport.org/wp-content/uploads/2020/09/cropped-SA_Report_Logo_512pxArtboard-1-32x32.jpg"
+    },
+    {
+      "title": "Texas HB 8 funding changes will cost Alamo Colleges millions in state funding",
+      "summary": "House Bill 8 tied community college funding to student outcomes, but now the model is being adjusted as colleges — including San Antonio's Alamo Colleges district — outperformed state expectations.",
+      "source": "San Antonio Report",
+      "topic": "education",
+      "url": "https://sanantonioreport.org/texas-hb-8-alamo-colleges-millions-lost-state-funding/",
+      "published_at": "2026-08-06T10:00:00+00:00",
+      "image": {
+        "url": "https://i0.wp.com/sanantonioreport.org/wp-content/uploads/2026/08/AlamoCollegesDistrict_AccessBuilding_08_10.01.2025_AmberEsparza-scaled-1.jpg?fit=1024%2C683&ssl=1",
+        "alt": ""
+      },
+      "uid": "bca2ffa1-83fc-42ba-b0bf-070166c97650",
+      "description": "House Bill 8 tied community college funding to student outcomes, but now the model is being adjusted as colleges outperformed state expectations. Texas HB 8 funding changes will cost Alamo Colleges millions in state funding was first posted on August 6, 2026 at 5:00 am.©2021",
+      "logo": "https://sanantonioreport.org/wp-content/uploads/2020/09/cropped-SA_Report_Logo_512pxArtboard-1-32x32.jpg"
+    },
+    {
+      "title": "Councilwoman Misty Spears says San Antonio voters already backed Spurs arena, citing new analysis of November 2025 election",
+      "summary": "",
+      "source": "KENS 5",
+      "topic": "elections-politics",
+      "url": "https://www.kens5.com/article/news/politics/spurs-arena-vote-san-antonio-mayor-jones-project-marvel-study-election/273-83a7f2c9-5b9a-464f-a48e-3f474281b80f",
+      "published_at": "2026-08-06T00:37:40+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/a9d5062c-000b-4e18-b5c8-a6607ad5d5a2/20260805T230919/a9d5062c-000b-4e18-b5c8-a6607ad5d5a2_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "02fa3b48-b7ae-4b9b-8b8d-cf5e5418d0dc",
+      "description": "Spears released an analysis she says shows San Antonio voters approved arena funding last year, pushing back against Mayor Gina Ortiz Jones' proposal for a new vote."
+    }
+  ]
+}

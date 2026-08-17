@@ -1,0 +1,46 @@
+{
+  "shortName": "San Antonio, TX",
+  "metroCode": "41700",
+  "metro": "San Antonio-New Braunfels, TX",
+  "date": "2026-08-05",
+  "are_you_ok": [],
+  "conversation_starters": [
+    {
+      "title": "Seven more beluga whales arrive at SeaWorld San Antonio from shuttered Canadian marine park",
+      "summary": "",
+      "source": "KENS 5",
+      "topic": "human-interest",
+      "url": "https://www.kens5.com/article/news/local/seven-more-beluga-whales-arrive-at-seaworld-san-antonio-from-shuttered-canadian-marine-park/273-6fa784b2-8add-45ca-8278-bb68bfc0d6ea",
+      "published_at": "2026-08-05T23:12:17+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/bef2a4e0-8a5f-4af2-bbcd-7de71f994e02/20260805T130429/bef2a4e0-8a5f-4af2-bbcd-7de71f994e02_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "0a9cabc9-5f43-48f2-a9f3-a35ba6acf9b3",
+      "questions": [
+        "Have you been to SeaWorld since the belugas arrived?",
+        "Is the whale relocation something people there are talking about?"
+      ],
+      "description": "SeaWorld San Antonio received seven more beluga whales in a mission to relocate whales from a closed Canadian marine park, aiming to ensure their care and wellbeing."
+    }
+  ],
+  "sports": [],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "‘Taxation through electricity prices’: Abbott takes aim at city-owned utilities like CPS Energy",
+      "summary": "A CPS worker finishes a job near Balcones Heights, a small city entirely surrounded by San Antonio, on Monday. The San Antonio-owned utility has kept rates low compared to other Texas metros, but Abbott doesn't like how its profits fuel the city budget.",
+      "source": "San Antonio Report",
+      "topic": "elections-politics",
+      "url": "https://sanantonioreport.org/greg-abbott-takes-aim-at-city-owned-utilities-like-cps-energy/",
+      "published_at": "2026-08-05T14:27:38+00:00",
+      "image": {
+        "url": "https://i0.wp.com/sanantonioreport.org/wp-content/uploads/2023/12/ScottBall_cps-energy-utility-service-city-public-utilities-electric-worker-12-4-2023_1.jpg?fit=1024%2C757&ssl=1",
+        "alt": "A CPS worker finishes a job near Balcones Heights on Monday."
+      },
+      "uid": "9cb03071-770e-4433-bf9b-86b4fd397a7d",
+      "description": "A CPS worker finishes a job near Balcones Heights on Monday. The San Antonio-owned utility has kept rates low compared to other Texas metros, but Abbott doesn't like how its profits fuel the city budget.‘Taxation through electricity prices’: Abbott takes aim at city-owned",
+      "logo": "https://sanantonioreport.org/wp-content/uploads/2020/09/cropped-SA_Report_Logo_512pxArtboard-1-32x32.jpg"
+    }
+  ]
+}

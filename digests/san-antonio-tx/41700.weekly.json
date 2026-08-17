@@ -4,251 +4,231 @@
   "metroCode": "41700",
   "metro": "San Antonio-New Braunfels, TX",
   "range": {
-    "start": "2026-07-29",
-    "end": "2026-08-04"
+    "start": "2026-08-10",
+    "end": "2026-08-16"
   },
   "are_you_ok": [
     {
-      "title": "San Antonio teen detained by ICE on way to church, congressman says",
-      "summary": "A San Antonio teenager was detained by federal immigration agents (ICE) while on the way to church. U.S. Rep. Joaquin Castro, who represents the area in Congress, publicly pressed the case, stating that neither of the two people involved — identified as Emely and Fernando — had committed a crime.",
+      "title": "H-E-B jalapeño product recall includes guacamole, prepared foods and more over salmonella concerns",
+      "summary": "H-E-B, the San Antonio-based grocery chain that dominates Texas, recalled jalapeño products over possible salmonella contamination, saying what remained on its shelves was safe. The recall then widened: dozens more items the chain makes in its own stores — guacamole and other prepared foods among them — came off the shelves because they were made with the affected peppers.",
       "source": "KENS 5",
-      "topic": "immigration-enforcement",
-      "url": "https://www.kens5.com/article/news/politics/immigration-news/san-antonio-teen-detained-immigration-customs-enforcement-joaquin-castro-x/273-7422d593-06ff-4c7c-b1b2-545c4c7f2b59",
-      "published_at": "2026-08-03T17:03:01+00:00",
+      "topic": "product-recall",
+      "url": "https://www.kens5.com/article/news/local/heb-jalapeno-product-recall-salmonella/285-35ec3088-5a40-4296-b5bf-975e063249fe",
+      "published_at": "2026-08-16T11:27:41+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/f9bee959-1035-4d9d-8048-83d087e5f6e9/20260730T162731/f9bee959-1035-4d9d-8048-83d087e5f6e9_750x422.jpg",
+        "url": "https://media.tegna-media.com/assets/KHOU/images/ae52b041-f5ac-4fbd-bf39-611a65eb3a13/20260815T193712/ae52b041-f5ac-4fbd-bf39-611a65eb3a13_750x422.jpg",
         "alt": ""
       },
-      "uid": "cafa24ed-8efa-434b-8708-2ce33563bf1a",
-      "description": "Castro said that neither Emely or Fernando has committed a crime.",
+      "uid": "f734c04e-f53b-4afb-998f-ebe126eb3fc2",
+      "description": "Dozens of H-E-B products made in stores were also removed because they contained items impacted by the recall.",
       "questions": [
-        "Have you been following the story about the local teen detained by ICE on the way to church?",
-        "Is this something that's come up among people you know in San Antonio?",
-        "How are you doing with all the immigration news in the area lately?"
-      ]
-    },
-    {
-      "title": "Weather conditions again brought devastating floods to a vulnerable swath of Texas",
-      "summary": "Severe storms hit Texas, dumping more than 20 inches of rain in places and triggering major flooding across a region the coverage describes as repeatedly and dangerously prone to it. The thread frames the event as another blow to an already flood-vulnerable part of the state.",
-      "source": "KENS 5",
-      "topic": "flood",
-      "url": "https://www.kens5.com/article/syndication/associatedpress/weather-conditions-again-brought-devastating-floods-to-a-vulnerable-swath-of-texas/616-a291d9ae-9351-4121-bcbf-5b06e2f42d40",
-      "published_at": "2026-08-02T20:18:44+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/AssociatedPress/images/54538eb9-ae26-49df-8661-dc9e81615bc2/20260716T222531/54538eb9-ae26-49df-8661-dc9e81615bc2_750x422.jpg",
-        "alt": ""
-      },
-      "uid": "4b6667d8-15b6-427a-9089-822b418269fb",
-      "description": "Severe storms have dumped over 20 inches of rain in parts of Texas, causing significant flooding.",
-      "questions": [
-        "Have the floods affected your area at all?",
-        "Are you and your family staying safe with all the rain?",
-        "Is there anything you need with the flooding going on?"
+        "Did you have any of the recalled H-E-B items in your fridge?",
+        "Is everyone in your house doing all right?"
+      ],
+      "thread": [
+        {
+          "title": "H-E-B recalls jalapeño products over potential salmonella contamination",
+          "summary": "",
+          "source": "KENS 5",
+          "topic": "product-recall",
+          "url": "https://www.kens5.com/article/life/food/h-e-b-recalls-jalapeo-products-over-potential-salmonella-contamination/273-87231fea-0836-4844-b562-3b0ef922e51c",
+          "published_at": "2026-08-15T15:13:20+00:00",
+          "image": {
+            "url": "https://media.tegna-media.com/assets/WHAS/images/38cb075b-0736-4092-bcdf-812835807692/20260810T203939/38cb075b-0736-4092-bcdf-812835807692_750x422.jpg",
+            "alt": ""
+          },
+          "uid": "dc826b44-2753-449f-badf-06e824f6d330",
+          "description": "H-E-B said all products currently available in its stores are safe and are not impacted by the recall."
+        },
+        {
+          "title": "H-E-B jalapeño product recall includes guacamole, prepared foods and more over salmonella concerns",
+          "summary": "",
+          "source": "KENS 5",
+          "topic": "product-recall",
+          "url": "https://www.kens5.com/article/news/local/heb-jalapeno-product-recall-salmonella/285-35ec3088-5a40-4296-b5bf-975e063249fe",
+          "published_at": "2026-08-16T11:27:41+00:00",
+          "image": {
+            "url": "https://media.tegna-media.com/assets/KHOU/images/ae52b041-f5ac-4fbd-bf39-611a65eb3a13/20260815T193712/ae52b041-f5ac-4fbd-bf39-611a65eb3a13_750x422.jpg",
+            "alt": ""
+          },
+          "uid": "f734c04e-f53b-4afb-998f-ebe126eb3fc2",
+          "description": "Dozens of H-E-B products made in stores were also removed because they contained items impacted by the recall."
+        }
       ]
     }
   ],
   "conversation_starters": [
     {
-      "title": "San Antonio space attraction selected for Venice Film Festival",
-      "summary": "A San Antonio-based immersive space attraction, \"Smithsonian Starstruck,\" earned an official selection at the Venice Film Festival, which recognized it as one of the year's most innovative immersive experiences. The nod places a local attraction on an international stage as a standout example of the format.",
+      "title": "School A-F ratings are in | Here are the best schools in the San Antonio area in the 2025-2026 year",
+      "summary": "The Texas Education Agency released its A-F ratings for the 2025-2026 school year, and several San Antonio-area districts came out better than they had before.",
+      "source": "KENS 5",
+      "topic": "education",
+      "url": "https://www.kens5.com/article/news/education/school-a-f-ratings-are-in-here-are-the-best-and-worst-schools-in-the-san-antonio-area-in-2026/273-532da11c-7375-4c9b-9102-6176715bc3b9",
+      "published_at": "2026-08-14T21:21:02+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/WFAA/images/bd3ad4e1-4a74-4abc-8f1b-a200c2609f86/20250523T122447/bd3ad4e1-4a74-4abc-8f1b-a200c2609f86_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "aa8f9de2-603e-4607-a823-c05c0925e259",
+      "description": "The Texas Education Agency releases new school ratings for 2026, showing some improvement in several San Antonio area districts.",
+      "questions": [
+        "Did your district come out well in the new ratings?",
+        "Do the A-F ratings actually track how people around you feel about the schools?"
+      ]
+    },
+    {
+      "title": "Flood leaves fish stranded as Cibolo Creek reaches record level",
+      "summary": "Historic floodwaters pushed Cibolo Creek to a record level and reshaped the Cibolo Center for Conservation, a nature preserve in Boerne about 30 miles northwest of San Antonio, in a matter of hours — leaving hundreds of fish stranded across the transformed landscape.",
+      "source": "KENS 5",
+      "topic": "flood",
+      "url": "https://www.kens5.com/article/news/local/cibolo-center-cibolo-creek-flooding-stranded-fish-woodland-trail-conservation-nature-boerne-ecosystem-restoration-wildlife-floodwaters-trails/273-778deb17-99db-43d8-b80c-abe59f79bd9d",
+      "published_at": "2026-08-11T14:37:24+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/b850081c-bccf-4b35-907b-0d9c50628c78/20260811T143357/b850081c-bccf-4b35-907b-0d9c50628c78_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "17262f0a-c119-4b52-9e58-04621c1627e2",
+      "description": "Historic floodwaters transformed the Cibolo Center for Conservation, leaving hundreds of fish stranded and reshaping the landscape in just a few hours.",
+      "questions": [
+        "Have you ever been out to the Cibolo Center for Conservation?",
+        "Did the flooding change anything about the places you usually go?"
+      ]
+    },
+    {
+      "title": "Mission Concepción annual solar illumination lights up church's altar",
+      "summary": "The altar at Mission Concepción — one of the Spanish colonial missions south of downtown San Antonio — lit up in its annual solar illumination, an alignment historians say the Franciscans who built it designed deliberately, using light to reach the Indigenous people of the area.",
       "source": "KENS 5",
       "topic": "civic-events",
-      "url": "https://www.kens5.com/article/entertainment/san-antonio-space-attraction-smithsonian-starstruck-venice-film-festival-competition/273-798de1cc-574b-4131-a3ae-b232afc2f8a4",
-      "published_at": "2026-08-04T16:25:13+00:00",
+      "url": "https://www.kens5.com/article/news/local/mission-concepcin-annual-solar-illumination-lights-up-the-churchs-altar/273-e0243e83-4310-4c7b-9670-f8b722eefebf",
+      "published_at": "2026-08-16T14:18:50+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/c8632007-6af0-41c9-a756-c60e322ca605/20260804T162431/c8632007-6af0-41c9-a756-c60e322ca605_750x422.jpg",
+        "url": "https://media.tegna-media.com/assets/KENS/images/0d1e146b-2afe-4df4-a96c-0d67121aeb2e/20260816T035108/0d1e146b-2afe-4df4-a96c-0d67121aeb2e_750x422.jpg",
         "alt": ""
       },
-      "uid": "200c7cb8-18de-44c5-a605-d550efe3cb4b",
-      "description": "The official selection recognizes \"Smithsonian Starstruck\" as one of the year's most innovative immersive experiences.",
+      "uid": "97ee7d31-678a-48b9-9775-16fa981a43e3",
+      "description": "Historians say the Franciscans who built the historic mission intentionally used light as a way to connect with Indigenous people in the area.",
       "questions": [
-        "Did you catch that a San Antonio immersive attraction, \"Smithsonian Starstruck,\" was named an official selection at the Venice Film Festival?",
-        "Have you had a chance to see the \"Smithsonian Starstruck\" experience?",
-        "What do you think it means for the city's arts scene to get that kind of international recognition?"
+        "Did you get out to see the solar illumination at the mission?",
+        "Do you take visitors to the missions when they come through?"
       ]
     },
     {
-      "title": "San Antonio man has reunited more than 200 people with lost class rings while searching for his own",
-      "summary": "Richard Escobedo, a San Antonio man who lost his own class ring nearly 30 years ago, has turned the search into a mission that has reunited more than 200 lost class rings with their owners — building personal connections along the way while still hoping to recover his own.",
+      "title": "Perseid meteor shower peaks tonight: Look up for a celestial show over south Texas",
+      "summary": "The Perseid meteor shower reached its peak over south Texas, visible without a telescope or any special equipment for anyone willing to get somewhere dark and look up.",
       "source": "KENS 5",
-      "topic": "human-interest",
-      "url": "https://www.kens5.com/article/news/local/san-antonio-man-has-reunited-more-than-200-people-with-lost-class-rings-while-searching-for-his-own/273-0bf6f14a-2736-4cca-b45b-5622d64d50a0",
-      "published_at": "2026-08-02T23:01:36+00:00",
+      "topic": "other",
+      "url": "https://www.kens5.com/article/weather/perseid-meteor-shower-peaks-celestial-show-south-texas/273-74db9dd0-d0b3-4ad9-9ccf-5fcb21941c4b",
+      "published_at": "2026-08-12T23:09:14+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/4f8e41a1-602b-474a-8a10-16d2d881abac/20260802T230012/4f8e41a1-602b-474a-8a10-16d2d881abac_750x422.jpg",
+        "url": "https://media.tegna-media.com/assets/KENS/images/f626ca52-35b5-4ab1-a29e-5246bae3d6be/20260812T230542/f626ca52-35b5-4ab1-a29e-5246bae3d6be_750x422.jpg",
         "alt": ""
       },
-      "uid": "08f08f7c-d8fc-45cd-ac9e-d5f494365354",
-      "description": "Nearly 30 years after losing his own class ring, Richard Escobedo has reunited over 200 rings with their owners, creating bonds and hope through his mission.",
+      "uid": "b9a0bd2c-ea6a-4577-9df2-a28f359e4d31",
+      "description": "You don't need a telescope or special equipment to see this dazzling celestial event.",
       "questions": [
-        "Did you catch the story about the local man reuniting people with their lost class rings?",
-        "Do you still have your class ring?",
-        "Isn't it a nice change of pace to see a feel-good story?"
+        "Did you get a look at the Perseids?",
+        "Is there anywhere around here you go to get away from the city lights?"
       ]
     },
     {
-      "title": "Gabriel 'Fluffy' Iglesias to film Netflix special at San Antonio's Tobin Center",
-      "summary": "Comedian Gabriel 'Fluffy' Iglesias set out to film a Netflix comedy special at the Tobin Center, a downtown San Antonio performing-arts venue. Demand was strong enough that organizers added two extra performance nights for the taping.",
+      "title": "Sneak Peek: San Antonio's new African American museum takes shape, set to become third-largest in nation",
+      "summary": "San Antonio's new African American museum took shape ahead of opening, on track to be the third-largest of its kind in the country, dedicated to the history and contributions of African Americans in the city and beyond.",
       "source": "KENS 5",
-      "topic": "civic-events",
-      "url": "https://www.kens5.com/article/news/local/gabriel-fluffy-iglesias-to-film-netflix-special-at-san-antonios-tobin-center/273-159f15d4-cc5e-4916-baea-eb52c27b59ae",
-      "published_at": "2026-08-01T15:26:31+00:00",
+      "topic": "development-projects",
+      "url": "https://www.kens5.com/article/news/education/saaacam-museum-downtown-preview/273-c03c1fb7-6d97-4f01-8df1-b5e6b20f19f7",
+      "published_at": "2026-08-16T14:18:32+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/f86130c5-e8e6-4c6f-b95c-35d3d120483d/20260801T144741/f86130c5-e8e6-4c6f-b95c-35d3d120483d_750x422.jpg",
+        "url": "https://media.tegna-media.com/assets/KENS/images/f7869539-ecf5-40f8-a11c-29461680298c/20260816T034514/f7869539-ecf5-40f8-a11c-29461680298c_750x422.jpg",
         "alt": ""
       },
-      "uid": "36bfdc16-51ab-4dc8-b359-7d4be8af6f95",
-      "description": "Organizers added two additional nights of performances, citing popular demand for the upcoming comedy taping.",
+      "uid": "3aebc3d1-069e-431e-8431-22677039707c",
+      "description": "The museum is dedicated to preserving and celebrating the history and contributions of African Americans in San Antonio and beyond.",
       "questions": [
-        "Are you a Gabriel 'Fluffy' Iglesias fan?",
-        "Have you been to a show at the Tobin Center?",
-        "Do you catch much live comedy around San Antonio?"
-      ]
-    },
-    {
-      "title": "Not throwing away their shot: 'Hamilton' cast to visit a San Antonio landmark",
-      "summary": "The touring cast of the hit musical 'Hamilton' planned a visit to The Alamo — the historic mission and battle site that is San Antonio's best-known landmark — pairing the show's own success with a stop at a local institution the coverage casts as still making its mark.",
-      "source": "KENS 5",
-      "topic": "civic-events",
-      "url": "https://www.kens5.com/article/news/local/the-alamo-visit-san-antonio-hamilton-musical-cast-tickets-texas/273-3f5ee737-c124-4ee6-9d7d-edfa2b919117",
-      "published_at": "2026-08-03T22:21:16+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/e3bd3a68-f966-47f4-9c0d-59d1a69bf21b/20240828T234328/e3bd3a68-f966-47f4-9c0d-59d1a69bf21b_750x422.jpg",
-        "alt": ""
-      },
-      "uid": "82bfe428-471e-413c-8fb0-515a8ecf4692",
-      "description": "Members from the megahit musical will tour The Alamo as the San Antonio landmark continues making some history of hits own.",
-      "questions": [
-        "Did you hear the 'Hamilton' cast is touring the Alamo?",
-        "Are you much of a musical theater fan?",
-        "Have you taken visitors to the Alamo before?"
-      ]
-    },
-    {
-      "title": "'She could do almost anything she wanted to do.' | San Antonio climber killed in Pakistan avalanche; family remembers her adventurous spirit",
-      "summary": "Mallory Geis, a climber from San Antonio, was killed by an avalanche while in Pakistan; her father said a boulder came down during the avalanche and struck her. Family members remembered her adventurous spirit, recalling that she could do almost anything she set out to do.",
-      "source": "KENS 5",
-      "topic": "human-interest",
-      "url": "https://www.kens5.com/article/news/local/san-antonio-climber-killed-pakistan-avalanche-family-remembers-her-texas-mallory-geis-broad-peak/273-9dcfeaa7-e091-4d29-ad63-7a9042980237",
-      "published_at": "2026-08-01T02:36:12+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/e120e62d-9847-43f9-a030-d7f9ed048dab/20260801T022451/e120e62d-9847-43f9-a030-d7f9ed048dab_750x422.jpg",
-        "alt": ""
-      },
-      "uid": "91e975c9-30e4-4105-b75d-939825553042",
-      "description": "Mallory Geis' father says a boulder came down during the avalance hitting and killing her.",
-      "questions": [
-        "Did you hear about the San Antonio climber who died in Pakistan?",
-        "Are you into hiking or climbing yourself?",
-        "It's a sad story—how are you doing with news like that?"
+        "Have you been following the new African American museum going up?",
+        "Is that somewhere you'd want to visit when it opens?"
       ]
     }
   ],
   "you_should_know": [
     {
-      "title": "Jones vows to revisit veteran vouchers, slamming fellow council members as ‘OK with a little bit of discrimination’",
-      "summary": "A dispute over housing access for veterans played out at San Antonio City Council. Mayor Gina Ortiz Jones, alongside veteran advocates, argued that the current ordinance falls short in expanding veterans' access to housing, and Jones vowed to revisit the issue — sharply criticizing fellow council members as being, in her words, 'OK with a little bit of discrimination.'",
-      "source": "San Antonio Report",
-      "topic": "housing",
-      "url": "https://sanantonioreport.org/mayor-jones-revisit-veterans-housing-vouchers-debate/",
-      "published_at": "2026-08-02T16:00:00+00:00",
+      "title": "City Manager Erik Walsh addresses San Antonio leaders about 'misinformation' ahead of meeting on Spurs arena ballot measure",
+      "summary": "The fight over public funding for a new Spurs arena reached City Hall: City Manager Erik Walsh pushed back on what he called misinformation circulating among city leaders, ahead of a council debate over whether to put the funding question to a residential vote.",
+      "source": "KENS 5",
+      "topic": "development-projects",
+      "url": "https://www.kens5.com/article/news/local/san-antonio-government/san-antonio-spurs-arena-funding-meeting-breakdown-city-council-jones-project-marvel/273-53178a3f-382f-42e8-9332-45231cd52814",
+      "published_at": "2026-08-16T20:33:08+00:00",
       "image": {
-        "url": "https://i0.wp.com/sanantonioreport.org/wp-content/uploads/2026/07/CityCouncil_PlanningCommunityDevelopmentCommittee_VeteranHousingVouchers_09_04.28.2026_AmberEsparza-scaled-1.webp?fit=1024%2C682&ssl=1",
+        "url": "https://media.tegna-media.com/assets/KENS/images/f02bfcaa-955f-47ac-a2dc-6ca20f4e6000/f02bfcaa-955f-47ac-a2dc-6ca20f4e6000_750x422.jpg",
         "alt": ""
       },
-      "uid": "b8215e4c-96ba-4cb4-bef4-89a8a560899a",
-      "description": "Mayor Gina Ortiz Jones and veteran advocates argue that the current ordinance doesn't do enough to expand access to housing for veterans.Jones vows to revisit veteran vouchers, slamming fellow council members as ‘OK with a little bit of discrimination’ was first posted on August",
-      "logo": "https://sanantonioreport.org/wp-content/uploads/2020/09/cropped-SA_Report_Logo_512pxArtboard-1-32x32.jpg"
+      "uid": "bd212fb4-56f1-43ab-abb9-eff1946df4c2",
+      "description": "City Council will debate the merits over a residential vote on Spurs arena funding on Monday."
     },
     {
-      "title": "Mayor targets funding for Spurs’ new arena in hunt to reduce city budget gap",
-      "summary": "Facing a $158 million city budget gap, Mayor Gina Ortiz Jones proposed holding another vote on the public funding committed to a new downtown arena for the San Antonio Spurs (the city's NBA team), putting that spending on the table as a possible way to help close the shortfall.",
-      "source": "San Antonio Report",
-      "topic": "elections-politics",
-      "url": "https://sanantonioreport.org/jones-targets-city-funding-spurs-new-arena-budget-gap/",
-      "published_at": "2026-08-01T18:47:00+00:00",
+      "title": "Texas lawmakers call on six Bexar County cities to end 287(g) agreements with ICE",
+      "summary": "U.S. Rep. Joaquin Castro and other Texas lawmakers called on six cities in Bexar County — the county that contains San Antonio — to end their 287(g) agreements with ICE, the arrangements that let local police act as federal immigration officers, arguing they cost community trust and invite racial profiling.",
+      "source": "KENS 5",
+      "topic": "immigration-enforcement",
+      "url": "https://www.kens5.com/article/news/local/texas-lawmakers-six-bexar-county-cities-end-287g-agreements-ice/273-44b6338c-7a1c-4408-921c-3c2aafe45887",
+      "published_at": "2026-08-13T02:22:13+00:00",
       "image": {
-        "url": "https://i0.wp.com/sanantonioreport.org/wp-content/uploads/2026/06/SpursWinTogether_ElectionNight_WatchParty_RiverNorthIceHouse_ProjectMarvel_PropsAB_07_11.04.2025_AmberEsparza-scaled-1.jpg?fit=1024%2C683&ssl=1",
+        "url": "https://media.tegna-media.com/assets/KENS/images/b3933ee1-6358-42b0-8a0d-3d6a8fc6f7e5/20260812T231827/b3933ee1-6358-42b0-8a0d-3d6a8fc6f7e5_750x422.jpg",
         "alt": ""
       },
-      "uid": "809222c0-1aa7-470e-b5ba-9523b80c3505",
-      "description": "Jones proposed another vote on the public funding for the San Antonio Spurs' downtown arena in light of the city's $158 million budget gap.Mayor targets funding for Spurs’ new arena in hunt to reduce city budget gap was first posted on August 1, 2026 at 1:47 pm.©2021 \"San",
-      "logo": "https://sanantonioreport.org/wp-content/uploads/2020/09/cropped-SA_Report_Logo_512pxArtboard-1-32x32.jpg"
+      "uid": "595106f1-c49f-4c25-862d-f3c035763a5c",
+      "description": "U.S. Rep. Joaquin Castro and others urge six Bexar County cities to end their 287(g) agreements with ICE, citing trust issues and racial profiling concerns."
     },
     {
-      "title": "Data center approvals in Texas halted until audits completed, Gov. Greg Abbott says",
-      "summary": "Texas Governor Greg Abbott paused new data center approvals statewide pending audits, directing two state energy bodies—the Public Utility Commission of Texas and the grid operator ERCOT (the Electric Reliability Council of Texas, which manages the state's power grid)—to review every data center seeking to connect to the grid. Reported first on August 3, 2026, and reiterated in follow-up coverage citing the order as issued on a Monday, the story centers on the state throttling grid connections for power-hungry data centers until those reviews are finished.",
-      "source": "San Antonio Report",
+      "title": "SAPD officers seen fatally shooting armed suspect in newly shared bodycam video",
+      "summary": "Newly released bodycam video showed San Antonio police fatally shooting an armed man during an early-morning encounter that began when officers tried to stop him for riding a bicycle on the sidewalk and he attempted to get away.",
+      "source": "KENS 5",
+      "topic": "policing",
+      "url": "https://www.kens5.com/article/news/local/law-enforcement/san-antonio-police-deadly-shooting-sapd-armed-man-suspect-hammond-avenue-bodycam/273-3b62e392-58cf-411d-a692-e9d64221514d",
+      "published_at": "2026-08-15T14:23:50+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/ab719281-3bdb-40da-9622-5e344612a63a/20260814T231222/ab719281-3bdb-40da-9622-5e344612a63a_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "28c81942-4986-496b-b563-d728fa4b85ef",
+      "description": "The early morning confrontation began with police trying to stop a bicyclist on the sidewalk before he is seen in the footage trying to escape."
+    },
+    {
+      "title": "Meta, Open AI commit to Texas data center rules as Gov. Abbott orders strict power, water audits",
+      "summary": "With AI data centers drawing backlash in North Texas, the Dallas-Fort Worth region, Meta, Google and Open AI committed to Gov. Abbott's new rules for the industry, as the state ordered strict audits of how much power and water the facilities use.",
+      "source": "KENS 5",
       "topic": "data-centers",
-      "url": "https://sanantonioreport.org/data-center-approvals-texas-halted-audit/",
-      "published_at": "2026-08-03T22:15:56+00:00",
+      "url": "https://www.kens5.com/article/news/local/texas/meta-commits-texas-data-center-rules-gov-abbott-power-water-audits/287-3bc2fd95-ed9d-4809-b268-f19d1452dce9",
+      "published_at": "2026-08-10T22:59:50+00:00",
       "image": {
-        "url": "https://i0.wp.com/sanantonioreport.org/wp-content/uploads/2026/08/20260727-Data-Center-Protest-Capitol-KG-13-scaled-1.jpg?fit=1024%2C683&ssl=1",
+        "url": "https://media.tegna-media.com/assets/WFAA/images/be287b71-582e-4be4-b64b-0e773a1c6c5c/20260715T222039/be287b71-582e-4be4-b64b-0e773a1c6c5c_750x422.jpg",
         "alt": ""
       },
-      "uid": "94f46f7f-af97-49fc-bc7a-bd26fac42898",
-      "description": "Texas Gov. Greg Abbott ordered the Public Utility Commission of Texas and ERCOT to audit all data centers wanting to connect to the state’s power grid.Data center approvals in Texas halted until audits completed, Gov. Greg Abbott says was first posted on August 3, 2026 at 5:15",
-      "logo": "https://sanantonioreport.org/wp-content/uploads/2020/09/cropped-SA_Report_Logo_512pxArtboard-1-32x32.jpg",
-      "thread": [
-        {
-          "title": "Data center approvals in Texas halted until audits completed, Gov. Greg Abbott says",
-          "summary": "",
-          "source": "San Antonio Report",
-          "topic": "data-centers",
-          "url": "https://sanantonioreport.org/data-center-approvals-texas-halted-audit/",
-          "published_at": "2026-08-03T22:15:56+00:00",
-          "image": {
-            "url": "https://i0.wp.com/sanantonioreport.org/wp-content/uploads/2026/08/20260727-Data-Center-Protest-Capitol-KG-13-scaled-1.jpg?fit=1024%2C683&ssl=1",
-            "alt": ""
-          },
-          "uid": "94f46f7f-af97-49fc-bc7a-bd26fac42898",
-          "description": "Texas Gov. Greg Abbott ordered the Public Utility Commission of Texas and ERCOT to audit all data centers wanting to connect to the state’s power grid.Data center approvals in Texas halted until audits completed, Gov. Greg Abbott says was first posted on August 3, 2026 at 5:15",
-          "logo": "https://sanantonioreport.org/wp-content/uploads/2020/09/cropped-SA_Report_Logo_512pxArtboard-1-32x32.jpg"
-        },
-        {
-          "title": "Data center approvals in Texas halted until audits completed, Gov. Greg Abbott says",
-          "summary": "",
-          "source": "KENS 5",
-          "topic": "data-centers",
-          "url": "https://www.kens5.com/article/news/local/texas/data-center-approvals-in-texas-halted-until-audits-completed-gov-greg-abbott-says/273-e5da9dff-e918-4190-87c8-7cee06997cb6",
-          "published_at": "2026-08-04T12:51:43+00:00",
-          "image": {
-            "url": "https://media.tegna-media.com/assets/KENS/images/9d1e84c7-db3e-430a-aa73-1c31ac0b75be/20260804T120953/9d1e84c7-db3e-430a-aa73-1c31ac0b75be_750x422.jpg",
-            "alt": ""
-          },
-          "uid": "5b10ea86-d8e8-496d-adad-5c16516b324a",
-          "description": "On Monday, the governor ordered the Public Utility Commission of Texas and the Electric Reliability Council of Texas to audit all data centers wanting to connect to"
-        }
-      ]
+      "uid": "3e5580ff-0e8b-440a-b381-1875d3fad820",
+      "description": "As AI data centers face North Texas backlash, Meta, Google and Open AI promise to play by Gov. Abbott’s new rules to protect the grid."
     },
     {
-      "title": "San Antonio Food Bank warns SNAP changes could leave more Texas families hungry",
-      "summary": "Leaders of the San Antonio Food Bank warned that proposed changes to SNAP — the federal food-assistance program (food stamps) — could strain resources in Texas and make it harder for families to afford food, raising the prospect of increased hunger across the state.",
+      "title": "FBI conducts court-authorized operations in San Antonio neighborhood, but details are unknown",
+      "summary": "Residents of a West Side neighborhood — the historically Mexican-American part of San Antonio just west of downtown — woke early one Friday to a large FBI operation on their street. The bureau confirmed only that the action was court-authorized, leaving the reason for it unexplained.",
       "source": "KENS 5",
-      "topic": "public-health",
-      "url": "https://www.kens5.com/article/news/local/snap-san-antonio-food-bank-feeding-texas-food-insecurity-hunger-texas-eric-cooper-one-big-beautiful-bill-congress-nutrition-benefits-assistance/273-120e797a-847a-4bc0-b845-fa7887e3d7b9",
-      "published_at": "2026-08-03T12:11:49+00:00",
+      "topic": "policing",
+      "url": "https://www.kens5.com/article/news/local/law-enforcement/fbi-court-authorized-operations-san-antonio-neighborhood-details-unknown/273-93ef9d90-357d-4b7c-9e35-292d418f159e",
+      "published_at": "2026-08-14T21:33:59+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/4e264e39-8338-4928-b099-c4387d7e4342/20260803T121103/4e264e39-8338-4928-b099-c4387d7e4342_750x422.jpg",
+        "url": "https://media.tegna-media.com/assets/KENS/images/d490b1b6-f3bf-4ae2-af35-6d3df51ec7f2/20260814T210143/d490b1b6-f3bf-4ae2-af35-6d3df51ec7f2_750x422.jpg",
         "alt": ""
       },
-      "uid": "45b94337-b46f-4bf6-a635-65d375cc3f45",
-      "description": "Food bank leaders say proposed SNAP funding changes could strain Texas and make it harder for families to put food on the table."
-    },
-    {
-      "title": "New Texas THC restrictions take effect, leaving hemp businesses scrambling",
-      "summary": "New Texas restrictions on hemp-derived THC products took effect following a court ruling, leaving affected businesses scrambling to adjust. Owners warned that the changes could damage the state's hemp industry.",
-      "source": "KENS 5",
-      "topic": "business-jobs",
-      "url": "https://www.kens5.com/article/news/local/thc-restrictions-hemp-businesses/285-3fe2342e-5ba7-4fb0-997d-915430e8fc96",
-      "published_at": "2026-08-02T18:56:08+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KHOU/images/37c23a16-7764-426c-8024-4a715b05f673/20260802T030535/37c23a16-7764-426c-8024-4a715b05f673_750x422.jpg",
-        "alt": ""
-      },
-      "uid": "eaa61020-8a83-4f3a-aa59-85d5843bd760",
-      "description": "Some hemp-derived THC products are now restricted in Texas after a court ruling. Business owners warn the changes could hurt the hemp industry."
+      "uid": "e26fefdb-c7f6-45fb-bd17-e4c2b8d7c0da",
+      "description": "Residents of a west-side neighborhood awoke to a surprise FBI operation early Friday morning. The agency confirmed it was conducting a court-authorized action."
     }
   ],
-  "sports": []
+  "sports": [
+    {
+      "team": "Spurs",
+      "scores": [
+        "Popovich speaks at Don Nelson memorial",
+        "2026-27 schedule: Austin, Paris, Manchester",
+        "2026-27 slate: Christmas Day vs Knicks"
+      ]
+    }
+  ]
 }

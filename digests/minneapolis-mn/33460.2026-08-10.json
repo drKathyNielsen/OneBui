@@ -1,0 +1,111 @@
+{
+  "shortName": "Minneapolis, MN",
+  "metroCode": "33460",
+  "metro": "Minneapolis-St. Paul-Bloomington, MN-WI",
+  "date": "2026-08-10",
+  "are_you_ok": [],
+  "conversation_starters": [
+    {
+      "title": "Man who planned Minneapolis scooter takeover says it’s all about “having fun”",
+      "summary": "",
+      "source": "CBS Minnesota",
+      "topic": "transportation",
+      "url": "https://www.cbsnews.com/minnesota/video/man-who-planned-minneapolis-scooter-takeover-says-its-all-about-having-fun/",
+      "published_at": "2026-08-10T10:22:00+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/10/275fa218-551a-47e5-a698-c14d19e7304e/thumbnail/1024x576/d7c7a9533481be014a173e06f4b926ee/715c9c36285ac68b789e7f5d80826e19.png",
+        "alt": ""
+      },
+      "uid": "36bfe6f9-c395-465e-bd21-c86eabc79402",
+      "questions": [
+        "Did you hear about the scooter ride that ended up on the interstate?",
+        "Have you noticed the scooter groups riding around downtown?"
+      ],
+      "description": "A night of fun ended with close calls and alarming moments, including scooters driving down the interstate.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    },
+    {
+      "title": "IndiaFest celebrates sights, sounds and flavors of India in St. Paul",
+      "summary": "",
+      "source": "CBS Minnesota",
+      "topic": "civic-events",
+      "url": "https://www.cbsnews.com/minnesota/video/indiafest-celebrates-sights-sounds-and-flavors-of-india-in-st-paul/",
+      "published_at": "2026-08-10T14:54:00+00:00",
+      "image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/10/0c45d522-ef4f-4a35-91e1-454c155f66f6/thumbnail/1024x576/878dbd9ce5ba0b06f259aa4c03eca045/86bbd440a4ea5e00b752645d6bea8c5e.jpg",
+        "alt": ""
+      },
+      "uid": "ca215772-37aa-49c0-8252-14623b583f19",
+      "questions": [
+        "Have you ever been to IndiaFest?",
+        "Do you get over to St. Paul for the summer festivals?"
+      ],
+      "description": "This weekend, you can travel to India without leaving Minnesota.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    },
+    {
+      "title": "Air operations 'invaluable' as crews continue battling wildfires in northern MN",
+      "summary": "Officials still anticipate having more than 1,500 of the 2,000 campsites in the Boundary Waters Canoe Area Wilderness — the lake wilderness along the Canadian border, roughly 250 miles north of Minneapolis — by Thursday, Aug. 13.",
+      "source": "KARE 11",
+      "topic": "wildfire",
+      "url": "https://www.kare11.com/article/news/local/air-operations-invaluable-crews-continue-battling-wildfires-northern-mn/89-ba94e51c-e306-4895-9579-626621833751",
+      "published_at": "2026-08-10T15:24:14+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/d46c3aa3-1f7a-494d-a538-a9243d038b72/20260723T231359/d46c3aa3-1f7a-494d-a538-a9243d038b72_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "83c97d98-6502-42c4-8aa3-f59c1baba407",
+      "questions": [
+        "Do you ever get up to the Boundary Waters in the summer?",
+        "Have the fires up north changed anyone's travel plans?"
+      ],
+      "description": "Officials still anticipate having more than 1,500 of the 2,000 Boundary Waters Canoe Area Wilderness campsites by Thursday, Aug. 13."
+    }
+  ],
+  "sports": [],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "Federal judge dismisses racial discrimination lawsuit against Minneapolis Public Schools",
+      "summary": "",
+      "source": "KARE 11",
+      "topic": "education",
+      "url": "https://www.kare11.com/article/news/local/federal-judge-dismisses-racial-discrimination-lawsuit-against-minneapolis-public-schools/89-585786fc-917a-4d07-aa17-52c387ad6f50",
+      "published_at": "2026-08-10T21:01:54+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/bf71efdf-7381-4626-9a6f-bd02e20799dd/20250325T230030/bf71efdf-7381-4626-9a6f-bd02e20799dd_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "1e3da174-f318-43d6-9eb5-696f5fd60210",
+      "description": "The U.S. DOJ sued the district, but didn't include the union, which the judge ruled was necessary for the case to move forward."
+    },
+    {
+      "title": "West St. Paul suspends contract with Flock Safety, starts taking down cameras",
+      "summary": "Officials in West St. Paul — a separate small city just south of St. Paul, not a neighborhood of it — said they have begun to remove cameras, and they should all be down by the end of the week.",
+      "source": "KARE 11",
+      "topic": "policing",
+      "url": "https://www.kare11.com/article/news/local/west-st-paul-suspends-contract-flock-safety/89-5f230761-b0ca-44fc-b829-9d5bedcc9eea",
+      "published_at": "2026-08-10T22:18:35+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/f9653f26-ad78-401d-baeb-71094473ffeb/20260806T032046/f9653f26-ad78-401d-baeb-71094473ffeb_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "e342e9b3-2bcc-4620-9171-f76c793c0d12",
+      "description": "City officials said they have begun to remove cameras, and they should all be down by the end of the week."
+    },
+    {
+      "title": "Judge orders St. Paul to put Tenant Right to Repair initiative on November ballot",
+      "summary": "A district judge in Ramsey County, the county that contains St. Paul, ruled that the petitioners had complied with the city's charter requirements and that the initiative was sufficient.",
+      "source": "KARE 11",
+      "topic": "housing",
+      "url": "https://www.kare11.com/article/news/local/judge-orders-st-paul-to-put-tenant-right-to-repair-initiative-on-november-ballot-mn/89-b70ecb29-f784-41e8-bfc2-a17da65fca7a",
+      "published_at": "2026-08-10T22:26:26+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/683108b8-d6ce-45ec-b40d-83c0042f2b77/20260731T231908/683108b8-d6ce-45ec-b40d-83c0042f2b77_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "610e02ff-3a23-4aac-ae92-620283c45f4c",
+      "description": "A Ramsey County District Judge ruled that the petitioners had complied with the city's charter requirements and that the initiative was sufficient."
+    }
+  ]
+}

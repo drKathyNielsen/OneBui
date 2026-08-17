@@ -1,0 +1,98 @@
+{
+  "shortName": "Minneapolis, MN",
+  "metroCode": "33460",
+  "metro": "Minneapolis-St. Paul-Bloomington, MN-WI",
+  "date": "2026-08-05",
+  "are_you_ok": [],
+  "conversation_starters": [
+    {
+      "title": "After WWE SummerSlam success, officials hope to bring other global events to the Twin Cities",
+      "summary": "Minnesota Sports and Events, the group that recruits major events to the Twin Cities, says Minnesota is a finalist for the 2031 FIFA Women's World Cup.",
+      "source": "KARE 11",
+      "topic": "civic-events",
+      "url": "https://www.kare11.com/article/news/local/summerslam-officials-hope-global-events-twin-cities/89-9dcbffd9-f374-40ad-afbb-ee9ae885cd57",
+      "published_at": "2026-08-05T00:16:43+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/bb268cab-692e-45df-beda-8856fc9719d6/20260804T230808/bb268cab-692e-45df-beda-8856fc9719d6_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "dfd2c681-d0e1-4e65-a506-b5346a7c0862",
+      "questions": [
+        "Did you get to any of the SummerSlam events?",
+        "Would you want to see a World Cup here in 2031?"
+      ],
+      "description": "Minnesota Sports and Events says Minnesota is a finalist for the 2031 FIFA Women's World Cup."
+    },
+    {
+      "title": "UCare announces layoffs for 100+ positions",
+      "summary": "The move follows an announcement by UCare, a Minneapolis-based nonprofit health insurer, that it would end its Medicare Advantage contracts and look to shift members to a more \"community-focused\" organization.",
+      "source": "KARE 11",
+      "topic": "business-jobs",
+      "url": "https://www.kare11.com/article/news/local/ucare-announces-layoffs-for-100-positions/89-f36222ef-5707-4235-ae2b-8ef46ee8f031",
+      "published_at": "2026-08-05T15:53:42+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/121451155/121451155_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "114d132c-3aad-4a51-aecd-53681673effa",
+      "questions": [
+        "Had you heard about the UCare layoffs?",
+        "Do you know people who work there?"
+      ],
+      "description": "The move follows UCare's announcement that it would end its Medicare Advantage contracts and look to shift members to a more \"community-focused\" organization."
+    }
+  ],
+  "sports": [
+    {
+      "team": "Twins",
+      "scores": [
+        "Royals 8, Twins 2"
+      ]
+    }
+  ],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "Prairie Correctional Facility sold to federal government as future ICE detention center",
+      "summary": "",
+      "source": "KARE 11",
+      "topic": "immigration-enforcement",
+      "url": "https://www.kare11.com/article/news/local/ice-in-minnesota/prairie-correctional-facility-sold-to-federal-government-as-future-ice-detention-center/89-94e847f1-851b-4c0c-b355-724d96a8365c",
+      "published_at": "2026-08-05T17:01:09+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/c83f2953-b569-46ef-920a-36965c10f11b/20260805T165545/c83f2953-b569-46ef-920a-36965c10f11b_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "1ff56ce4-a713-4d9d-8278-2063654943c2",
+      "description": "The announcement comes one day after the private prison's owner announced it had struck a deal with the government to reopen as an ICE facility."
+    },
+    {
+      "title": "St. Paul clears Pig's Eye homeless camp, sparking debate over city policy",
+      "summary": "The clearing of the encampment is being carried out by several agencies in St. Paul, the neighboring city just east of Minneapolis, including St. Paul Police, St. Paul Fire and homeless outreach teams.",
+      "source": "KARE 11",
+      "topic": "housing",
+      "url": "https://www.kare11.com/article/news/local/st-paul-officials-begin-clearing-largest-homeless-encampment/89-a546cd6c-d1d5-4981-8edc-b30d1ff725a0",
+      "published_at": "2026-08-05T22:18:03+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/a0e678bb-1bc6-4db2-94d2-a746b1d2412e/20260805T183819/a0e678bb-1bc6-4db2-94d2-a746b1d2412e_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "fb15ee91-1dd9-479b-9957-0a3fe10471dc",
+      "description": "The clearing of the encampment is being carried out by several city agencies, including St. Paul Police, St. Paul Fire and homeless outreach teams."
+    },
+    {
+      "title": "Echo Trail opens to residents, property owners as wildfire containment estimates continue to rise",
+      "summary": "",
+      "source": "KARE 11",
+      "topic": "wildfire",
+      "url": "https://www.kare11.com/article/news/local/echo-trail-opens-to-residents-property-owners-wildfire-containment-estimates-continue-to-rise/89-f69eef1a-138f-4e69-bcbc-620c4e4c3271",
+      "published_at": "2026-08-05T17:31:39+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/c6bcb43a-5ce9-46f2-bcb1-e6772d6a18b0/20260713T220048/c6bcb43a-5ce9-46f2-bcb1-e6772d6a18b0_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "50cc4782-b64b-4cae-8318-75cba4ecfe73",
+      "description": "Officials say shifting, stronger winds over the next few days could pose a risk to firefighters, but recent rainfall and cooler temps have helped."
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "shortName": "Minneapolis, MN",
+  "metroCode": "33460",
+  "metro": "Minneapolis-St. Paul-Bloomington, MN-WI",
+  "date": "2026-08-13",
+  "are_you_ok": [],
+  "conversation_starters": [
+    {
+      "title": "White Bear Lake company debuts world's first fully implanted cochlear device",
+      "summary": "",
+      "source": "KARE 11",
+      "topic": "business-jobs",
+      "url": "https://www.kare11.com/article/news/local/white-bear-lake-company-debuts-worlds-first-fully-implanted-cochlear-device-mn/89-9b735959-626a-48a0-8448-f1d679af17e4",
+      "published_at": "2026-08-13T23:19:32+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/df514ae0-be26-4dce-bfe7-cc9c0e56847d/20260813T203034/df514ae0-be26-4dce-bfe7-cc9c0e56847d_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "b7607dfa-1ef8-45f5-8f1c-3574c2005187",
+      "questions": [
+        "Did you catch the story about the Minnesota company that put out the first fully implanted cochlear device?",
+        "Do you follow the medical device industry there at all?"
+      ],
+      "description": "Envoy Medical says it expects to have approval from the U.S. Food and Drug Administration by the end of 2027."
+    },
+    {
+      "title": "Fox steals golf balls at Chaska Town Course",
+      "summary": "No birdies for the group that day at the Chaska Town Course, in Chaska about 25 miles southwest of Minneapolis — just a fox and two free drops.",
+      "source": "KARE 11",
+      "topic": "human-interest",
+      "url": "https://www.kare11.com/article/news/local/fox-steals-golf-balls-chaska-town-course/89-287a610e-50e9-4379-8ea8-17b29dce662c",
+      "published_at": "2026-08-13T03:21:22+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/f8d296d9-d3f0-497d-b956-7b7d0c69de61/20260812T220727/f8d296d9-d3f0-497d-b956-7b7d0c69de61_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "d5380cef-b9f7-4520-a882-b1cb189c0ae2",
+      "questions": [
+        "Did you see the fox stealing golf balls out at Chaska?",
+        "Do you play much golf around the metro?"
+      ],
+      "description": "No birdies for the group that day — just a fox and two free drops."
+    }
+  ],
+  "sports": [
+    {
+      "team": "Twins",
+      "scores": [
+        "play Phillies at Field of Dreams",
+        "Twins 7, Orioles 5"
+      ]
+    },
+    {
+      "team": "Timberwolves",
+      "scores": [
+        "host first Christmas Day game"
+      ]
+    },
+    {
+      "team": "Vikings",
+      "scores": [
+        "Murray named starting QB"
+      ]
+    },
+    {
+      "team": "Lynx",
+      "scores": [
+        "Lynx 85, Fire 81"
+      ]
+    }
+  ],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "Ramsey County judge hears arguments on why two rival gangs should be kept out of the MN State Fair",
+      "summary": "Lawsuits were filed against rival gangs known as Muddy and The Ville after court records showed members posted plans to organize a large fight at the MN State Fair, the state's big late-summer fair held on grounds between Minneapolis and St. Paul.",
+      "source": "KARE 11",
+      "topic": "violent-crime",
+      "url": "https://www.kare11.com/article/news/local/ramsey-county-judge-hears-arguments-on-why-two-rival-gangs-should-be-kept-out-of-mn-state-fair/89-f40aeef7-3143-4805-8dcb-c59015613ea9",
+      "published_at": "2026-08-13T23:09:56+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/c2c71e65-c849-47d8-8e13-5df48d1681e8/20260813T223915/c2c71e65-c849-47d8-8e13-5df48d1681e8_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "9172d56b-6555-405b-abf9-00d8430a7d90",
+      "description": "Lawsuits were filed against rival gangs known as Muddy and The Ville after court records showed members posted plans to organize a large fight at the MN State Fair."
+    },
+    {
+      "title": "Search warrant reveals new details about Hopkins triple murder-suicide",
+      "summary": "",
+      "source": "KARE 11",
+      "topic": "violent-crime",
+      "url": "https://www.kare11.com/article/news/local/search-warrant-reveals-new-details-about-hopkins-triple-murder-suicide/89-8f4ffded-f889-4c3b-ad21-38025959c0ca",
+      "published_at": "2026-08-13T18:08:10+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/d773c5b7-b84a-4885-9625-fbf3da2a043e/20260813T180045/d773c5b7-b84a-4885-9625-fbf3da2a043e_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "0a2d4c63-5a53-4dc5-8553-186efc9b9858",
+      "description": "The warrant stated officers found Kristen Brown and her 7-year-old daughter dead in the kitchen Wednesday morning."
+    },
+    {
+      "title": "'It was a Minnesota thing': Voter turnout record shattered in primary election",
+      "summary": "",
+      "source": "KARE 11",
+      "topic": "elections-politics",
+      "url": "https://www.kare11.com/article/news/local/breaking-the-news/voter-turnout-record-shattered-in-primary-election/89-1d1f3c49-1c9b-47b7-a934-179dc70e0ca4",
+      "published_at": "2026-08-13T00:18:28+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/a7401e3e-f2e2-4588-83d0-9374f1998215/20260813T000559/a7401e3e-f2e2-4588-83d0-9374f1998215_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "6214d7df-d631-447b-8e25-53dcc68ac18a",
+      "description": "\"It speaks volumes about Minnesotans, about their commitment to elections and democracy,\" Secretary of State Steve Simon said."
+    }
+  ]
+}

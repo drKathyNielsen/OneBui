@@ -1,0 +1,102 @@
+{
+  "shortName": "San Antonio, TX",
+  "metroCode": "41700",
+  "metro": "San Antonio-New Braunfels, TX",
+  "date": "2026-08-07",
+  "are_you_ok": [],
+  "conversation_starters": [
+    {
+      "title": "Metro Health offers free back-to-school vaccinations this weekend",
+      "summary": "Families can get children caught up on required school vaccines during a free immunization event Sunday in San Antonio run by Metro Health, the city's public health department.",
+      "source": "KENS 5",
+      "topic": "public-health",
+      "url": "https://www.kens5.com/article/news/local/metro-health-offers-free-back-to-school-vaccinations-this-weekend/273-78d96a3f-ba82-437a-bcdd-fd80455d07e0",
+      "published_at": "2026-08-07T17:56:47+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/57391418/57391418_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "3bc42acb-264e-4991-b2f4-618cd831752e",
+      "questions": [
+        "Is back-to-school season getting busy for your household?",
+        "Are the Metro Health clinics something families around you use?"
+      ],
+      "description": "Families can get children caught up on required school vaccines during a free Metro Health immunization event Sunday in San Antonio."
+    }
+  ],
+  "sports": [],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "A year into the job, Mayor Jones risks holding the bag on largest tax increase in decades",
+      "summary": "",
+      "source": "San Antonio Report",
+      "topic": "elections-politics",
+      "url": "https://sanantonioreport.org/mayor-jones-budget-maneuvers-largest-tax-increase-in-decades/",
+      "published_at": "2026-08-07T21:05:19+00:00",
+      "image": {
+        "url": "https://i0.wp.com/sanantonioreport.org/wp-content/uploads/2026/08/SAISDFoundation_StateOfTheDistrict_StudentAdvisoryCommittee_05_02.10.2026_AmberEsparza-scaled-1.jpg?fit=1024%2C683&ssl=1",
+        "alt": ""
+      },
+      "uid": "23f3b177-9333-4ebc-a01d-c3913aafd9c7",
+      "description": "The mayor’s go-it-alone approach may leave her with little to show in efforts to close a $158M budget deficit.A year into the job, Mayor Jones risks holding the bag on largest tax increase in decades was first posted on August 7, 2026 at 4:05 pm.©2021 \"San Antonio Report\". Use",
+      "logo": "https://sanantonioreport.org/wp-content/uploads/2020/09/cropped-SA_Report_Logo_512pxArtboard-1-32x32.jpg"
+    },
+    {
+      "title": "San Antonio council members call for temporary halt on new AI data centers",
+      "summary": "",
+      "source": "KENS 5",
+      "topic": "data-centers",
+      "url": "https://www.kens5.com/article/news/local/data-centers-ai-moratorium-ric-galvan-teri-castillo-city-hall-ercot-greg-abbott-puct-power-grid-energy-san-antonio-development/273-adbcbe51-e966-4c4d-849a-ee8467cab307",
+      "published_at": "2026-08-07T12:13:57+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/162e9b12-107c-41b7-8336-d91f6e135a5e/20260807T120519/162e9b12-107c-41b7-8336-d91f6e135a5e_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "9b6186a3-90d9-4e37-94b0-4b3c804e28bc",
+      "description": "Three City Council members are asking San Antonio to pause new data center applications as state officials review their impact on the Texas power grid."
+    },
+    {
+      "title": "More than 2,200 Northside students enrolled in Texas school voucher program",
+      "summary": "New state data shows more than 85,000 Texas families are using Education Savings Accounts, with Northside ISD, San Antonio's largest school district, ranking third statewide.",
+      "source": "KENS 5",
+      "topic": "education",
+      "url": "https://www.kens5.com/article/news/local/education-savings-account-school-vouchers-northside-texas-comptroller-don-huffines-private-schools-esa-school-choice-parents-students-funding/273-72e56a37-4809-47c9-9d6c-16c4bf9624f8",
+      "published_at": "2026-08-07T11:56:04+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/a874aea2-8589-4415-9701-5c4ffe54766f/20260807T115401/a874aea2-8589-4415-9701-5c4ffe54766f_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "ccd40d20-8b39-48bc-ae92-75df1751c85d",
+      "description": "New state data shows more than 85,000 Texas families are using Education Savings Accounts, with Northside ranking third statewide."
+    },
+    {
+      "title": "Mayor's call for additional Spurs arena funding vote sparks debate at first listening session",
+      "summary": "",
+      "source": "KENS 5",
+      "topic": "elections-politics",
+      "url": "https://www.kens5.com/article/news/local/project-marvel/mayors-call-additional-spurs-arena-funding-vote-debate-listening-session-san-antonio-texas/273-263a1501-4593-40e5-ab9d-92aa426de4d5",
+      "published_at": "2026-08-07T03:59:28+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/d55f6319-cbc4-4e94-9ac6-f250e61ca00b/20260807T031907/d55f6319-cbc4-4e94-9ac6-f250e61ca00b_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "ab2151e5-7467-4b71-9654-91207bde8d26",
+      "description": "This proposed measure deals with the city's nearly $489 million contribution of funding for a new Spurs arena."
+    },
+    {
+      "title": "Trump calls Texas’ data center opposition a “mistake”",
+      "summary": "",
+      "source": "KENS 5",
+      "topic": "data-centers",
+      "url": "https://www.kens5.com/article/news/local/texas-tribune/trump-calls-texas-data-center-opposition-a-mistake/287-bf3b4d06-06fc-4f65-974c-97b1c692d57f",
+      "published_at": "2026-08-07T22:51:14+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/WFAA/images/d19ea9f0-cb6a-4199-8729-66654a0e1852/20250403T222218/d19ea9f0-cb6a-4199-8729-66654a0e1852_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "17e00aa3-bbd8-4e18-b35c-5795c9844a53",
+      "description": "The president’s comments to Punchbowl News come just days after Gov. Greg Abbott issued a statewide pause of approval for data centers"
+    }
+  ]
+}

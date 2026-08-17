@@ -1,0 +1,82 @@
+{
+  "shortName": "San Antonio, TX",
+  "metroCode": "41700",
+  "metro": "San Antonio-New Braunfels, TX",
+  "date": "2026-08-16",
+  "are_you_ok": [
+    {
+      "title": "H-E-B jalapeño product recall includes guacamole, prepared foods and more over salmonella concerns",
+      "summary": "Dozens of products made in-store by H-E-B, the San Antonio-based grocery chain that dominates Texas, were also removed because they contained items impacted by the recall.",
+      "source": "KENS 5",
+      "topic": "product-recall",
+      "url": "https://www.kens5.com/article/news/local/heb-jalapeno-product-recall-salmonella/285-35ec3088-5a40-4296-b5bf-975e063249fe",
+      "published_at": "2026-08-16T11:27:41+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KHOU/images/ae52b041-f5ac-4fbd-bf39-611a65eb3a13/20260815T193712/ae52b041-f5ac-4fbd-bf39-611a65eb3a13_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "f734c04e-f53b-4afb-998f-ebe126eb3fc2",
+      "questions": [
+        "Did you have any of the recalled H-E-B items in your fridge?",
+        "Is everyone in your house doing all right?"
+      ],
+      "description": "Dozens of H-E-B products made in stores were also removed because they contained items impacted by the recall."
+    }
+  ],
+  "conversation_starters": [
+    {
+      "title": "Mission Concepción annual solar illumination lights up church's altar",
+      "summary": "",
+      "source": "KENS 5",
+      "topic": "civic-events",
+      "url": "https://www.kens5.com/article/news/local/mission-concepcin-annual-solar-illumination-lights-up-the-churchs-altar/273-e0243e83-4310-4c7b-9670-f8b722eefebf",
+      "published_at": "2026-08-16T14:18:50+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/0d1e146b-2afe-4df4-a96c-0d67121aeb2e/20260816T035108/0d1e146b-2afe-4df4-a96c-0d67121aeb2e_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "97ee7d31-678a-48b9-9775-16fa981a43e3",
+      "questions": [
+        "Did you get out to see the solar illumination at the mission?",
+        "Do you take visitors to the missions when they come through?"
+      ],
+      "description": "Historians say the Franciscans who built the historic mission intentionally used light as a way to connect with Indigenous people in the area."
+    },
+    {
+      "title": "Sneak Peek: San Antonio's new African American museum takes shape, set to become third-largest in nation",
+      "summary": "",
+      "source": "KENS 5",
+      "topic": "development-projects",
+      "url": "https://www.kens5.com/article/news/education/saaacam-museum-downtown-preview/273-c03c1fb7-6d97-4f01-8df1-b5e6b20f19f7",
+      "published_at": "2026-08-16T14:18:32+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/f7869539-ecf5-40f8-a11c-29461680298c/20260816T034514/f7869539-ecf5-40f8-a11c-29461680298c_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "3aebc3d1-069e-431e-8431-22677039707c",
+      "questions": [
+        "Have you been following the new African American museum going up?",
+        "Is that somewhere you'd want to visit when it opens?"
+      ],
+      "description": "The museum is dedicated to preserving and celebrating the history and contributions of African Americans in San Antonio and beyond."
+    }
+  ],
+  "sports": [],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "City Manager Erik Walsh addresses San Antonio leaders about 'misinformation' ahead of meeting on Spurs arena ballot measure",
+      "summary": "",
+      "source": "KENS 5",
+      "topic": "development-projects",
+      "url": "https://www.kens5.com/article/news/local/san-antonio-government/san-antonio-spurs-arena-funding-meeting-breakdown-city-council-jones-project-marvel/273-53178a3f-382f-42e8-9332-45231cd52814",
+      "published_at": "2026-08-16T20:33:08+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/f02bfcaa-955f-47ac-a2dc-6ca20f4e6000/f02bfcaa-955f-47ac-a2dc-6ca20f4e6000_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "bd212fb4-56f1-43ab-abb9-eff1946df4c2",
+      "description": "City Council will debate the merits over a residential vote on Spurs arena funding on Monday."
+    }
+  ]
+}

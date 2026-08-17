@@ -1,0 +1,112 @@
+{
+  "shortName": "Minneapolis, MN",
+  "metroCode": "33460",
+  "metro": "Minneapolis-St. Paul-Bloomington, MN-WI",
+  "date": "2026-08-12",
+  "are_you_ok": [],
+  "conversation_starters": [
+    {
+      "title": "Preview of IndiaFest at the Minnesota State Capitol",
+      "summary": "",
+      "source": "KARE 11",
+      "topic": "civic-events",
+      "url": "https://www.kare11.com/article/news/local/news-at-noon/preview-of-indiafest-at-minnesota-state-capitol/89-976a4e5d-34af-436c-88f0-c6958e0c8dea",
+      "published_at": "2026-08-12T17:27:34+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/931e3129-3cf7-48ae-b2c1-28f3b5820413/20260808T152431/931e3129-3cf7-48ae-b2c1-28f3b5820413_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "40d9b032-e8f0-4469-a50d-83b3b9e9a622",
+      "questions": [
+        "Are you planning to check out IndiaFest at the Capitol?",
+        "What's the food like at that one?"
+      ],
+      "description": "​Attendees can shop for clothing, try traditional Indian dishes and dance on the dance floor."
+    },
+    {
+      "title": "Como Zoo celebrates historic first with hatching of endangered chicks",
+      "summary": "",
+      "source": "KARE 11",
+      "topic": "human-interest",
+      "url": "https://www.kare11.com/article/news/local/como-zoo-celebrates-historic-first-with-hatching-of-endangered-chicks-minnesota/89-b363761b-c030-441d-93d1-5f5a701a9686",
+      "published_at": "2026-08-12T17:08:54+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/bce414bf-8869-4ecf-bb4b-43623f81d651/20260812T165405/bce414bf-8869-4ecf-bb4b-43623f81d651_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "836566c5-a857-4feb-885e-c118b6a75b89",
+      "questions": [
+        "Did you hear Como Zoo hatched its first crowned crane chicks?",
+        "Do you get over to Como much?"
+      ],
+      "description": "Zookeepers say the grey crowned crane chicks, also known as the African crowned crane, crested crane, and golden crested crane, are doing well and growing quickly."
+    }
+  ],
+  "sports": [
+    {
+      "team": "Vikings",
+      "scores": [
+        "McCarthy on losing QB job"
+      ]
+    }
+  ],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "Progressives win big in Minnesota DFL primaries for Senate and U.S. House",
+      "summary": "Peggy Flanagan, Minnesota's lieutenant governor, and Matt Little scored more victories for progressives in their Democratic primaries on Tuesday night, keeping with national trends.",
+      "source": "KARE 11",
+      "topic": "elections-politics",
+      "url": "https://www.kare11.com/article/news/local/progressives-win-big-in-mn-dfl-primaries-for-senate-and-us-house/89-2316837a-3072-4b60-ac47-44602222fd9a",
+      "published_at": "2026-08-12T23:19:27+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/e2969460-6f2e-48f4-a27b-75c51ec9acaa/20260812T105719/e2969460-6f2e-48f4-a27b-75c51ec9acaa_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "01031b52-f940-491b-aa96-21cb016f8b07",
+      "description": "Peggy Flanagan and Matt Little scored more victories for progressives in their Democratic primaries on Tuesday night, keeping with national trends."
+    },
+    {
+      "title": "1 child, 2 adults dead after incident at Hopkins home daycare",
+      "summary": "",
+      "source": "KARE 11",
+      "topic": "violent-crime",
+      "url": "https://www.kare11.com/article/news/local/police-respond-to-incident-in-hopkins/89-05ffd7d7-799c-45a2-8bf4-f3085a3dfc28",
+      "published_at": "2026-08-12T22:24:08+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/c186319a-5ccc-4ef0-a6c4-859793c0aea5/20260812T152936/c186319a-5ccc-4ef0-a6c4-859793c0aea5_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "359b675d-e44f-46fd-b4c7-474f8b0cec2f",
+      "description": "Police say the man and woman who died were parents of the 7-year-old victim."
+    },
+    {
+      "title": "Federal observers spotted at Minneapolis polling place",
+      "summary": "The Department of Justice said they had 20 people out monitoring in Hennepin and Ramsey Counties, the two counties that contain Minneapolis and St. Paul.",
+      "source": "KARE 11",
+      "topic": "elections-politics",
+      "url": "https://www.kare11.com/article/news/politics/federal-observers-spotted-at-minneapolis-polling-place/89-90112909-a370-4b20-a7d5-5b14d5993a95",
+      "published_at": "2026-08-12T00:29:50+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/56f79201-8f32-4cf1-b679-23fbae102d82/20260811T211318/56f79201-8f32-4cf1-b679-23fbae102d82_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "634cec9e-dc37-475a-80be-72aa3164aa5e",
+      "description": "The Department of Justice said they had 20 people out monitoring in Hennepin and Ramsey Counties."
+    },
+    {
+      "title": "Multiple cities around Minnesota cancel contracts with Flock Safety",
+      "summary": "",
+      "source": "KARE 11",
+      "topic": "policing",
+      "url": "https://www.kare11.com/article/news/local/breaking-the-news/multiple-cities-minnesota-cancel-contracts-flock/89-bfd002b1-6830-4139-8287-cea513e602a0",
+      "published_at": "2026-08-12T00:32:49+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/fb526902-238f-46eb-8db2-d3ba4f4d45a9/20260811T212930/fb526902-238f-46eb-8db2-d3ba4f4d45a9_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "26b76bf4-e193-4159-8ebe-0cdf9e38051e",
+      "description": "The reasons range from public input to feasibility."
+    }
+  ]
+}

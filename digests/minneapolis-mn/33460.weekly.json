@@ -4,374 +4,456 @@
   "metroCode": "33460",
   "metro": "Minneapolis-St. Paul-Bloomington, MN-WI",
   "range": {
-    "start": "2026-07-29",
-    "end": "2026-08-04"
+    "start": "2026-08-10",
+    "end": "2026-08-16"
   },
   "are_you_ok": [
     {
-      "title": "Two Haitians in Minnesota seeking asylum fear deportation as TPS ends for 330K+ people",
-      "summary": "The federal government ended Temporary Protected Status for more than 330,000 Haitians, and U.S. Immigration and Customs Enforcement (ICE) named Haitian migrants as its next deportation focus. The story localizes that national policy shift through two Haitian asylum seekers in Minnesota who now fear being deported.",
+      "title": "Severe drought expands in Minnesota, threatening farms",
+      "summary": "Drought tightened its grip on Minnesota over the week, with the driest ground in the middle and northern parts of the state — north of the Minneapolis metro — and farmers watching their fields as conditions worsened.",
       "source": "CBS Minnesota",
-      "topic": "immigration-enforcement",
-      "url": "https://www.cbsnews.com/minnesota/news/haitians-minnesota-trump-ends-tps-2026/",
-      "published_at": "2026-08-01T23:23:00+00:00",
+      "topic": "drought-water",
+      "url": "https://www.cbsnews.com/minnesota/news/severe-drought-expands-minnesota-aug-2026/",
+      "published_at": "2026-08-16T18:41:29+00:00",
       "image": {
-        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/01/a8be5b01-8a57-40f4-91b3-9959a4a1813c/thumbnail/1024x576/7d7378de1355d2c4e278b8c4e55c6b34/5p-vo-haitian-community-ice-reax-wccoazr4.jpg",
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/16/9b94f7a3-4309-445e-8bf4-27544c3c4db3/thumbnail/1024x576/a78d4604d8b36ecdaa5af767ac261015/6p-pkg-mn-drought-conditions-wccob301.jpg",
         "alt": ""
       },
-      "uid": "b37c006b-3fd7-4904-8205-5ba76d795ff1",
-      "description": "U.S. Immigration and Customs Enforcement says Haitian migrants are their next target for deportations. The Trump Administration ended Temporary Protected Status for the demographic earlier this week.",
+      "uid": "076fc922-9557-4e4f-8270-04e0f1d6e7e4",
+      "description": "Drought conditions have spread across much of Minnesota, with some of the state's driest conditions in central and northern Minnesota.",
       "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg",
       "questions": [
-        "Have you seen the news that Temporary Protected Status is ending for Haitian migrants?",
-        "This affects some people locally who are seeking asylum — is that something you're aware of?",
-        "Is there anything I can do to support you or the team around this news?"
-      ]
-    },
-    {
-      "title": "More than 1.5 million Ram pickup trucks recalled over seat belt issue",
-      "summary": "A national recall covering more than 1.5 million Ram 1500 pickup trucks was issued over a seat belt problem, affecting vehicles manufactured between 2019 and 2026. This is a manufacturer-wide safety notice rather than a Minnesota-specific event, but it may reach any local owners of these model-year trucks.",
-      "source": "FOX 9",
-      "topic": "other",
-      "url": "https://www.fox9.com/news/ram-pickup-trucks-recall-seat-belt-issue",
-      "published_at": "2026-08-03T15:49:25+00:00",
-      "image": {
-        "url": "https://static.livenowfox.com/www.livenowfox.com/content/uploads/2026/08/ram-pickup-truck-logo-.jpg",
-        "alt": ""
-      },
-      "uid": "fbad8a8e-bac4-493b-a143-42106252948f",
-      "description": "The new recall affects certain Ram 1500 pickup trucks manufactured between 2019 and 2026.",
-      "questions": [
-        "Do you or anyone close to you drive a Ram 1500? This recall covers model years 2019 through 2026.",
-        "Have you seen the news about the Ram seat belt recall?"
+        "Has the drought reached where you are, or is it mostly further north?",
+        "Are you or anyone close to you dealing with water restrictions right now?"
       ]
     }
   ],
   "conversation_starters": [
     {
-      "title": "SummerSlam brings major crowds, business to Minneapolis",
-      "summary": "WWE's SummerSlam wrestling event came to downtown Minneapolis, drawing thousands of fans to the Minneapolis Convention Center. Coverage across the week moved from the arrival of enthusiastic fans and former wrestlers, to a tourism official describing the event's expected economic impact, to a follow-up in which a local bar owner said that while turnout fell short of expectations, the event still delivered a noticeable bump in business.",
-      "source": "KARE 11",
+      "title": "Minnesota State Fair food vendors gear up for hungry crowds",
+      "summary": "Preparations ramped up at the Minnesota State Fairgrounds, between Minneapolis and St. Paul, as food vendors got set for the opening of the fair — the event locals call the Great Minnesota Get-Together.",
+      "source": "CBS Minnesota",
       "topic": "civic-events",
-      "url": "https://www.kare11.com/article/news/local/summerslam-major-crowds-business-minneapolis/89-b63491c7-203a-483d-90ad-064a44d80ef1",
-      "published_at": "2026-08-03T22:27:24+00:00",
+      "url": "https://www.cbsnews.com/minnesota/news/minnesota-state-fair-food-vendors-preparations/",
+      "published_at": "2026-08-14T22:48:00+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/KARE/images/e6cf8910-3db3-4116-a0d5-a74952d831b8/20260803T213145/e6cf8910-3db3-4116-a0d5-a74952d831b8_750x422.jpg",
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/14/22af9259-2bff-49ec-b2c8-8d259582a6aa/thumbnail/1024x576/66c2eae4a08abfd8d7c858bb8b4d7372/5p-pkg-state-fair-preps-wccob2z8.jpg",
         "alt": ""
       },
-      "uid": "8a7467f4-da7e-46d0-9427-b5e0edc56f37",
-      "description": "One bar owner tells us that while business wasn't as much as they thought, they still saw a significant bump.",
+      "uid": "e979c954-f681-4f91-8f6c-421e24dde12f",
+      "description": "The Minnesota State Fairgrounds are buzzing as food vendors prepare for the start of the Great Minnesota Get-Together.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg",
       "questions": [
-        "Did you catch any of the SummerSlam crowds downtown?",
-        "Sounds like the wrestling event brought a business bump — did you notice it around town?"
+        "Do you make it out to the State Fair most years?",
+        "Is there a fair food you look forward to, or one you'd skip?"
+      ]
+    },
+    {
+      "title": "Electric scooters swarmed downtown Minneapolis Saturday night, sparking safety concerns and city response",
+      "summary": "Hundreds of electric scooters swarmed downtown Minneapolis on a Saturday night, some of them riding onto the interstate, and state and city police said the ride raised real public-safety concerns. The man who organized it surfaced afterward to say the point was simply having fun, while acknowledging the night included close calls.",
+      "source": "KARE 11",
+      "topic": "transportation",
+      "url": "https://www.kare11.com/article/news/local/breaking-the-news/electric-scooters-swarmed-downtown-minneapolis-saturday-night-sparking-safety-concerns-and-city-response/89-fa4a5718-6d68-4a61-81d8-e98373aa3d38",
+      "published_at": "2026-08-11T00:19:13+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/d4da63b3-9558-4f8a-b56e-b33278f3ee34/20260810T223903/d4da63b3-9558-4f8a-b56e-b33278f3ee34_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "a2862b60-e1b2-4743-9fa4-41f0ee4b2c8f",
+      "description": "The Minnesota State Patrol and Minneapolis Police are concerned about public safety after witnesses saw hundreds of scooters on the interstate near downtown.",
+      "questions": [
+        "Were you anywhere near downtown when the scooters came through?",
+        "How are people around you taking the safety concerns?"
       ],
       "thread": [
         {
-          "title": "Passionate wrestling fans take over downtown Minneapolis",
+          "title": "Man who planned Minneapolis scooter takeover says it’s all about “having fun”",
           "summary": "",
           "source": "CBS Minnesota",
-          "topic": "civic-events",
-          "url": "https://www.cbsnews.com/minnesota/video/passionate-wrestling-fans-take-over-downtown-minneapolis/",
-          "published_at": "2026-08-01T15:55:00+00:00",
+          "topic": "transportation",
+          "url": "https://www.cbsnews.com/minnesota/video/man-who-planned-minneapolis-scooter-takeover-says-its-all-about-having-fun/",
+          "published_at": "2026-08-10T10:22:00+00:00",
           "image": {
-            "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/01/1a525e52-a766-4e3e-80a9-5bff3f1ef4b5/thumbnail/1024x576/6f80ab8e3bef4bf456dfb0cf55c369f6/b312bb16743f2bca85ee8a91f8a63ac4.jpg",
+            "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/10/275fa218-551a-47e5-a698-c14d19e7304e/thumbnail/1024x576/d7c7a9533481be014a173e06f4b926ee/715c9c36285ac68b789e7f5d80826e19.png",
             "alt": ""
           },
-          "uid": "89dc585b-2b7f-49b3-ad69-12a54164d222",
-          "description": "Wrestling fans are at the Minneapolis Convention Center for SummerSlam, brining the passion and the fun.",
+          "uid": "36bfe6f9-c395-465e-bd21-c86eabc79402",
+          "description": "A night of fun ended with close calls and alarming moments, including scooters driving down the interstate.",
           "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
         },
         {
-          "title": "WWE SummerSlam brings thousands to Minneapolis",
-          "summary": "",
-          "source": "CBS Minnesota",
-          "topic": "civic-events",
-          "url": "https://www.cbsnews.com/minnesota/video/wwe-summerslam-brings-thousands-to-minneapolis/",
-          "published_at": "2026-08-02T16:05:00+00:00",
-          "image": {
-            "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/02/941e641d-d4ca-4004-9535-74fd821efe96/thumbnail/1024x576/fb6f16db5f489c4aa1504436f6671377/6e77dfd7f0120931842a966544331c2d.jpg",
-            "alt": ""
-          },
-          "uid": "3067edcc-7fd8-47c8-bd30-8ee877a39a87",
-          "description": "Thousands of people are ready for some rage in the cage. SummerSlam is bringing fans and former wrestling pros to Minnesota. Tyler Boike with Meet Minneapolis talks about the event's impact.",
-          "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
-        },
-        {
-          "title": "SummerSlam brings major crowds, business to Minneapolis",
+          "title": "Electric scooters swarmed downtown Minneapolis Saturday night, sparking safety concerns and city response",
           "summary": "",
           "source": "KARE 11",
-          "topic": "civic-events",
-          "url": "https://www.kare11.com/article/news/local/summerslam-major-crowds-business-minneapolis/89-b63491c7-203a-483d-90ad-064a44d80ef1",
-          "published_at": "2026-08-03T22:27:24+00:00",
+          "topic": "transportation",
+          "url": "https://www.kare11.com/article/news/local/breaking-the-news/electric-scooters-swarmed-downtown-minneapolis-saturday-night-sparking-safety-concerns-and-city-response/89-fa4a5718-6d68-4a61-81d8-e98373aa3d38",
+          "published_at": "2026-08-11T00:19:13+00:00",
           "image": {
-            "url": "https://media.tegna-media.com/assets/KARE/images/e6cf8910-3db3-4116-a0d5-a74952d831b8/20260803T213145/e6cf8910-3db3-4116-a0d5-a74952d831b8_750x422.jpg",
+            "url": "https://media.tegna-media.com/assets/KARE/images/d4da63b3-9558-4f8a-b56e-b33278f3ee34/20260810T223903/d4da63b3-9558-4f8a-b56e-b33278f3ee34_750x422.jpg",
             "alt": ""
           },
-          "uid": "8a7467f4-da7e-46d0-9427-b5e0edc56f37",
-          "description": "One bar owner tells us that while business wasn't as much as they thought, they still saw a significant bump."
+          "uid": "a2862b60-e1b2-4743-9fa4-41f0ee4b2c8f",
+          "description": "The Minnesota State Patrol and Minneapolis Police are concerned about public safety after witnesses saw hundreds of scooters on the interstate near downtown."
         }
       ]
     },
     {
-      "title": "Pearson’s Candy closure brings up generations of nostalgia",
-      "summary": "Pearson's Candy, a longtime candy maker based in St. Paul (the neighboring city to Minneapolis), announced it will close its facility and lay off 80 employees, a decision that stirred nostalgia across generations of local residents.",
+      "title": "White Bear Lake company debuts world's first fully implanted cochlear device",
+      "summary": "Envoy Medical, a device maker in White Bear Lake, a suburb northeast of Minneapolis, unveiled what it calls the world's first fully implanted cochlear device, and says it expects FDA approval by the end of 2027.",
       "source": "KARE 11",
       "topic": "business-jobs",
-      "url": "https://www.kare11.com/article/news/local/breaking-the-news/pearsons-candy-closure-brings-generations-nostalgia/89-1fcf8d8e-e757-4fd1-90bb-269d3ccb431e",
-      "published_at": "2026-08-01T00:27:10+00:00",
+      "url": "https://www.kare11.com/article/news/local/white-bear-lake-company-debuts-worlds-first-fully-implanted-cochlear-device-mn/89-9b735959-626a-48a0-8448-f1d679af17e4",
+      "published_at": "2026-08-13T23:19:32+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/KARE/images/577541a4-386d-4daf-84fe-57c8bd9512f8/20260801T001852/577541a4-386d-4daf-84fe-57c8bd9512f8_750x422.jpg",
+        "url": "https://media.tegna-media.com/assets/KARE/images/df514ae0-be26-4dce-bfe7-cc9c0e56847d/20260813T203034/df514ae0-be26-4dce-bfe7-cc9c0e56847d_750x422.jpg",
         "alt": ""
       },
-      "uid": "31b5f00f-d709-40b5-98b4-be1fbdc02931",
-      "description": "The St. Paul candy company announced it will close its facility and lay off 80 employees.",
+      "uid": "b7607dfa-1ef8-45f5-8f1c-3574c2005187",
+      "description": "Envoy Medical says it expects to have approval from the U.S. Food and Drug Administration by the end of 2027.",
       "questions": [
-        "Did you grow up with Pearson's candy? It's a longtime local brand.",
-        "The closure is stirring a lot of nostalgia — does it bring back memories for you or your colleague?"
+        "Did you catch the story about the Minnesota company that put out the first fully implanted cochlear device?",
+        "Do you follow the medical device industry there at all?"
       ]
     },
     {
-      "title": "Artist Adam Turman promises biggest grandstand booth yet at the Minnesota State Fair",
-      "summary": "Local artist Adam Turman is returning to the Minnesota State Fair — an annual event known locally as the \"Great Minnesota Get-Together\" — where he plans to set up his largest booth to date in the fair's grandstand area. The story is a look ahead to his expanded presence at the fair.",
-      "source": "CBS Minnesota",
+      "title": "Porchfest brings live music and plenty of fans to south Minneapolis",
+      "summary": "Porchfest filled south Minneapolis for a day, with organizers counting more than 100 bands playing from 30 porches and crowds moving between them.",
+      "source": "KARE 11",
       "topic": "civic-events",
-      "url": "https://www.cbsnews.com/minnesota/video/artist-adam-turman-promises-biggest-grandstand-booth-yet-at-the-minnesota-state-fair/",
-      "published_at": "2026-08-04T15:57:00+00:00",
+      "url": "https://www.kare11.com/article/news/local/porchfest-music-fans-south-minneapolis/89-2504406f-6e29-43c6-ab10-3c6561327eec",
+      "published_at": "2026-08-16T03:23:20+00:00",
       "image": {
-        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/04/cbe434e6-bf53-4774-9898-e3a8004bccea/thumbnail/1024x576/b51454d9791293fcbd20bdc3ab018065/fa68b0a1d91db77e690e62a17c3f5ab1.jpg",
+        "url": "https://media.tegna-media.com/assets/KARE/images/e92492aa-31b3-43bd-892d-7d9d888e4b96/20260816T022741/e92492aa-31b3-43bd-892d-7d9d888e4b96_750x422.jpg",
         "alt": ""
       },
-      "uid": "a8ca57a5-bdaf-44d0-9819-123869737d0c",
-      "description": "Local artist Adam Turman is returning to the Great Minnesota Get-Together's grandstand with his largest booth to date.",
-      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg",
+      "uid": "c9f0b696-ad12-47df-a447-d1c12b64550e",
+      "description": "Organizers say more than 100 bands played across 30 porches Saturday.",
       "questions": [
-        "Do you make it out to the Minnesota State Fair most years?",
-        "Are you familiar with Adam Turman's artwork?",
-        "Is there a booth or tradition at the fair you always look forward to?"
+        "Did you get out to Porchfest this year?",
+        "A hundred bands on thirty porches sounds like a lot to navigate — how do people pick where to go?"
       ]
     },
     {
-      "title": "Brother of Twin Cities girl killed by distracted driver launches \"Live Like Lily\" in her honor",
-      "summary": "Eighteen months after 11-year-old Lilyana \"Lily\" Loycano was killed by a distracted driver while riding to school with her family in the Twin Cities community of West Tonka, her brother launched an initiative called \"Live Like Lily\" in her honor, keeping the loss and its cause before the community.",
-      "source": "CBS Minnesota",
+      "title": "Como Zoo celebrates historic first with hatching of endangered chicks",
+      "summary": "Como Zoo in St. Paul marked a first for the zoo: grey crowned crane chicks — an endangered species also called the African crowned crane — hatched and, keepers say, are growing quickly.",
+      "source": "KARE 11",
       "topic": "human-interest",
-      "url": "https://www.cbsnews.com/minnesota/news/live-like-lily-westonka-minnesota-lily-loycano-jaxon-loycano/",
-      "published_at": "2026-08-04T00:05:49+00:00",
+      "url": "https://www.kare11.com/article/news/local/como-zoo-celebrates-historic-first-with-hatching-of-endangered-chicks-minnesota/89-b363761b-c030-441d-93d1-5f5a701a9686",
+      "published_at": "2026-08-12T17:08:54+00:00",
       "image": {
-        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/03/83f52ec7-349e-4e39-bddb-676f8cbff609/thumbnail/1024x576/9f69fadbc9bb3737ec0f58b3ea5bb939/lily.jpg",
+        "url": "https://media.tegna-media.com/assets/KARE/images/bce414bf-8869-4ecf-bb4b-43623f81d651/20260812T165405/bce414bf-8869-4ecf-bb4b-43623f81d651_750x422.jpg",
         "alt": ""
       },
-      "uid": "d84c093e-a608-4d30-a382-7668d4bdc0bb",
-      "description": "It's been 18 months, but the pain is as fresh as ever for the Twin Cities community of West Tonka. Lilyana \"Lily\" Loycano, 11, was killed while riding to school with her family. A distracted driver was charged in that crash.",
-      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg",
+      "uid": "836566c5-a857-4feb-885e-c118b6a75b89",
+      "description": "Zookeepers say the grey crowned crane chicks, also known as the African crowned crane, crested crane, and golden crested crane, are doing well and growing quickly.",
       "questions": [
-        "Did you hear about the \"Live Like Lily\" effort her brother started?",
-        "Distracted driving has been getting a lot of local attention — is that something on your radar?"
-      ]
-    },
-    {
-      "title": "Minnesota wildfires: BWCA evacuations shifting as rain slows flames",
-      "summary": "Crews battled wildfires in and around the Boundary Waters Canoe Area Wilderness (BWCA) and Superior National Forest, a heavily forested region in northern Minnesota popular with canoeists. Early in the week, officials reported improving containment and prepared to reopen about 70% of the area's canoe entry points, with nearly 1,000 firefighters still working the flames. As the week progressed, rain helped slow the fires and evacuation plans began shifting, though closures, evacuations, and fire restrictions stayed in place and officials continued urging caution for residents and visitors.",
-      "source": "FOX 9",
-      "topic": "wildfire",
-      "url": "https://www.fox9.com/news/minnesota-wildfires-echo-trail-restricted-evacuations-shifting-rain-slows-flames",
-      "published_at": "2026-08-04T16:19:37+00:00",
-      "image": {
-        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/08/wolfpack-fire-bwca.jpg",
-        "alt": ""
-      },
-      "uid": "0be58579-f5a0-4fa4-9ee4-fc78f3c4d8dd",
-      "description": "Wildfire crews are making progress on several fires in and around Superior National Forest, but closures, evacuations and fire restrictions remain in place as officials urge caution for residents and visitors.",
-      "questions": [
-        "Have you spent time up in the Boundary Waters or Superior National Forest?",
-        "Is the wildfire situation affecting anyone you know up north?",
-        "Have the fires or air quality reached where you are?"
-      ],
-      "thread": [
-        {
-          "title": "Wildfire containment improving as BWCA prepares to reopen 70% of entry points this week",
-          "summary": "",
-          "source": "KARE 11",
-          "topic": "wildfire",
-          "url": "https://www.kare11.com/article/news/local/breaking-the-news/wildfire-containment-improving-as-bwca-prepares-to-reopen-more-entry-points-this-week/89-7693e6ed-07d3-48ee-be0e-cf4aa375b128",
-          "published_at": "2026-08-03T23:55:38+00:00",
-          "image": {
-            "url": "https://media.tegna-media.com/assets/KARE/images/b7c1cc18-d076-4e6f-be0d-e40dc9c28841/20260803T225621/b7c1cc18-d076-4e6f-be0d-e40dc9c28841_750x422.jpg",
-            "alt": ""
-          },
-          "uid": "a90133e9-77b4-41fc-baad-119d25bed894",
-          "description": "Nearly 1,000 firefighters are still working to put out flames in the Boundary Waters Canoe Area Wilderness as officials push to reopen more canoe entry points."
-        },
-        {
-          "title": "Minnesota wildfires: BWCA evacuations shifting as rain slows flames",
-          "summary": "",
-          "source": "FOX 9",
-          "topic": "wildfire",
-          "url": "https://www.fox9.com/news/minnesota-wildfires-echo-trail-restricted-evacuations-shifting-rain-slows-flames",
-          "published_at": "2026-08-04T16:19:37+00:00",
-          "image": {
-            "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/08/wolfpack-fire-bwca.jpg",
-            "alt": ""
-          },
-          "uid": "0be58579-f5a0-4fa4-9ee4-fc78f3c4d8dd",
-          "description": "Wildfire crews are making progress on several fires in and around Superior National Forest, but closures, evacuations and fire restrictions remain in place as officials urge caution for residents and visitors."
-        }
+        "Did you hear Como Zoo hatched its first crowned crane chicks?",
+        "Do you get over to Como much?"
       ]
     }
   ],
   "you_should_know": [
     {
-      "title": "Hortman assassin raises health complaints, conspiracies as state murder case kicks off",
-      "summary": "The man convicted of assassinating a Minnesota official faced a new round of charges as a state murder case opened in Hennepin County court (the county that includes Minneapolis). During the proceedings he raised health complaints and conspiracy claims, reopening pain for victims' families and renewed debate over how justice is handled in Minnesota.",
+      "title": "Federal agents used facial recognition tech to compile protestor photos during Operation Metro Surge",
+      "summary": "Court filings opened up the federal enforcement push known as Operation Metro Surge in the Minneapolis-St. Paul area. The documents showed Homeland Security officers going undercover at community meetings and targeting progressive groups and labor unions, and further filings described agents using facial recognition to build photo files of protestors.",
       "source": "FOX 9",
-      "topic": "violent-crime",
-      "url": "https://www.fox9.com/news/hortman-assassin-raises-health-complaints-conspiracies-state-murder-case-kicks-off",
-      "published_at": "2026-08-03T22:19:05+00:00",
-      "image": {
-        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/08/vlcsnap-2026-08-03-17h09m43s117.jpg",
-        "alt": ""
-      },
-      "uid": "4d83bdb8-dfe3-4157-9208-355d15d67892",
-      "description": "A convicted assassin faces a new round of charges in Hennepin County court, bringing more pain for the families of his victims and renewed debate about justice in Minnesota."
-    },
-    {
-      "title": "Minnesota enacts first-of-its-kind ban on AI \"nudification\" tech, but not without obstacles",
-      "summary": "Minnesota moved to enact a first-of-its-kind ban on AI \"nudification\" technology, set to take effect August 1. An AI company founded by Elon Musk sued, arguing the ban violated free speech, and sought a temporary restraining order to block it. A U.S. District Court judge denied that request, allowing the law to proceed, though a further federal court hearing was scheduled for later in the month. A state senator who championed the law spoke in support of keeping it in place.",
-      "source": "CBS Minnesota",
-      "topic": "elections-politics",
-      "url": "https://www.cbsnews.com/minnesota/video/minnesota-enacts-first-of-its-kind-ban-on-ai-nudification-tech-but-not-without-obstacles/",
-      "published_at": "2026-08-02T15:52:00+00:00",
-      "image": {
-        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/02/e177b560-246a-41e5-8b6c-978e7d3c18c6/thumbnail/1024x576/d6133f0ae4df7308ca49aab0b9d6ce39/57965e5da117fd1e55bbad9e8e14a509.png",
-        "alt": ""
-      },
-      "uid": "ef24c2a0-d981-4ea3-b1ff-e0e2180e33a5",
-      "description": "Minnesota's ban on AI nudification became law yesterday and Elon Musk isn't happy about it. Musk sued, claiming free speech violations, but on Friday lost a bid to keep the law from going into place. A federal court hearing is now set for later this month. Esme Murphy spoke with",
-      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg",
-      "thread": [
-        {
-          "title": "MN nudification ban will take effect Aug. 1 after judge rules against Elon Musk-led lawsuit",
-          "summary": "",
-          "source": "FOX 9",
-          "topic": "elections-politics",
-          "url": "https://www.fox9.com/news/mn-nudification-ban-will-take-effect-aug-1-after-judge-rules-against-elon-musk-led-lawsuit-july-31-2026",
-          "published_at": "2026-08-01T01:28:22+00:00",
-          "image": {
-            "url": "https://static.fox9.com/www.fox9.com/content/uploads/2019/08/70f34393-iphone-hand-cellphone_1490787433028_2954348_ver1.0.jpg",
-            "alt": ""
-          },
-          "uid": "d6c3ab05-f6fa-458e-876b-3a18734ccd0d",
-          "description": "A U.S. District Court judge has denied a lawsuit for a temporary restraining order by an AI company founded by Elon Musk that would have blocked the ban of nudification technology in Minnesota."
-        },
-        {
-          "title": "Minnesota enacts first-of-its-kind ban on AI \"nudification\" tech, but not without obstacles",
-          "summary": "",
-          "source": "CBS Minnesota",
-          "topic": "elections-politics",
-          "url": "https://www.cbsnews.com/minnesota/video/minnesota-enacts-first-of-its-kind-ban-on-ai-nudification-tech-but-not-without-obstacles/",
-          "published_at": "2026-08-02T15:52:00+00:00",
-          "image": {
-            "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/02/e177b560-246a-41e5-8b6c-978e7d3c18c6/thumbnail/1024x576/d6133f0ae4df7308ca49aab0b9d6ce39/57965e5da117fd1e55bbad9e8e14a509.png",
-            "alt": ""
-          },
-          "uid": "ef24c2a0-d981-4ea3-b1ff-e0e2180e33a5",
-          "description": "Minnesota's ban on AI nudification became law yesterday and Elon Musk isn't happy about it. Musk sued, claiming free speech violations, but on Friday lost a bid to keep the law from going into place. A federal court hearing is now set for later this month. Esme Murphy spoke with",
-          "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
-        }
-      ]
-    },
-    {
-      "title": "St. Paul council holding public meeting on encampment clearings: Watch live",
-      "summary": "The city of St. Paul (part of the Minneapolis metro area) moved toward clearing a homeless encampment at Pig's Eye Park, prompting concern from residents living there — among them a man who said a recent jail stint cost him his housing and left him worried about where he would go. As the closure approached, the St. Paul City Council scheduled a special public hearing on a Tuesday to take testimony on the encampment clearing. The arc traces the story from the residents' fears to the city's formal public process.",
-      "source": "FOX 9",
-      "topic": "housing",
-      "url": "https://www.fox9.com/news/st-paul-council-hold-public-meeting-encampment-clearings",
-      "published_at": "2026-08-04T14:38:50+00:00",
-      "image": {
-        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/08/pigs-eye-park-encampment.jpg",
-        "alt": ""
-      },
-      "uid": "8725313e-5507-4623-8967-c750071a38bb",
-      "description": "The St. Paul City Council is set to hold a special public hearing on Tuesday as the city prepares to clear a homeless encampment at Pig’s Eye Park.",
-      "thread": [
-        {
-          "title": "Pig's Eye Park encampment residents voice fears over impending closure: \"There's humanity here\"",
-          "summary": "",
-          "source": "CBS Minnesota",
-          "topic": "housing",
-          "url": "https://www.cbsnews.com/minnesota/news/pigs-eye-park-encampment-residents-closure-concerns/",
-          "published_at": "2026-08-02T16:31:53+00:00",
-          "image": {
-            "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/02/e01efa22-a6ac-413b-80af-aba772abb631/thumbnail/1024x576/4b8648450ff83570ccc8e3e96b40f03f/10p-pkg-pigs-eye-preps-wccoaztl-00-00-2805.jpg",
-            "alt": ""
-          },
-          "uid": "12821a9c-a431-44c2-bc80-d03cf3238939",
-          "description": "A man who introduced himself as Beekey said that he was directed to the encampment when he got out of jail about two and a half months ago. He said that this stint behind bars meant that he lost his housing. He's concerned about where he'd end up without the encampment.",
-          "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
-        },
-        {
-          "title": "St. Paul council holding public meeting on encampment clearings: Watch live",
-          "summary": "",
-          "source": "FOX 9",
-          "topic": "housing",
-          "url": "https://www.fox9.com/news/st-paul-council-hold-public-meeting-encampment-clearings",
-          "published_at": "2026-08-04T14:38:50+00:00",
-          "image": {
-            "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/08/pigs-eye-park-encampment.jpg",
-            "alt": ""
-          },
-          "uid": "8725313e-5507-4623-8967-c750071a38bb",
-          "description": "The St. Paul City Council is set to hold a special public hearing on Tuesday as the city prepares to clear a homeless encampment at Pig’s Eye Park."
-        }
-      ]
-    },
-    {
-      "title": "What we know about allegations against St. Paul Mayor Kaohly Her",
-      "summary": "St. Paul Police Chief Axel Henry filed a complaint with the city attorney's office accusing St. Paul Mayor Kaohly Her of sexual harassment, alleging she sent \"inappropriate, and indeed, unlawful\" text messages to city staffers. As the week progressed, further allegations surfaced — including a reported comment about a deputy chief's body and photoshopped images of city staffers and police officers. Mayor Her responded with a statement acknowledging that \"some of my attempts at humor fell short,\" and a Hamline University law professor was brought in to help explain the developing situation. (St. Paul is the city adjoining Minneapolis.)",
-      "source": "CBS Minnesota",
       "topic": "policing",
-      "url": "https://www.cbsnews.com/minnesota/video/what-we-know-about-allegations-against-st-paul-mayor-kaohly-her/",
-      "published_at": "2026-08-02T15:48:00+00:00",
+      "url": "https://www.fox9.com/news/federal-agents-used-facial-recognition-tech-compile-protestor-photos-during-operation-metro-surge",
+      "published_at": "2026-08-15T02:01:40+00:00",
       "image": {
-        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/02/b53baf3c-50fa-4903-ab98-1a73838b441b/thumbnail/1024x576/af05a2710a246b068129eae6c05c653b/2bdf1fe7747a5b8788a7208342b94c65.png",
+        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/08/vlcsnap-2026-08-14-20h37m29s542.jpg",
         "alt": ""
       },
-      "uid": "f7c3ca42-6cf4-44b4-b927-044d5dc95945",
-      "description": "Last week, we learned that St. Paul Police Chief Axel Henry had filed a complaint with the city Attorney's office against Mayor Kaohly Her, alleging sexual harassment. In a letter, the Chief's Attorney alleges that Mayor Her had sent “inappropriate, and indeed, unlawful text",
-      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+      "uid": "91f5bd5a-0f0c-4aa0-a8c2-339dd5f3e9c0",
+      "description": "New court filings are shedding light on how federal agents used facial recognition technology to create visual files of protestors during Operation Metro Surge.",
+      "thread": [
+        {
+          "title": "Federal operation targeted progressive groups, unions in Minnesota",
+          "summary": "",
+          "source": "CBS Minnesota",
+          "topic": "policing",
+          "url": "https://www.cbsnews.com/minnesota/video/federal-operation-targeted-progressive-groups-unions-in-minnesota/",
+          "published_at": "2026-08-14T23:42:00+00:00",
+          "image": {
+            "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/14/5f95370e-96bb-4815-bedf-42d8a9d96cb9/thumbnail/1024x576/6df74f5b1c38b0c83290bab942c2f165/dde1a8c652df0a41fb6dfb16f9520d0f.png",
+            "alt": ""
+          },
+          "uid": "454523b9-2f94-4c23-9b24-7b52121e8a53",
+          "description": "Homeland Security officers were spying on community meetings during Operation Metro Surge, according to court documents. The federal agents went undercover to identify people they described as violent, the filings said. As Conor Wight shows, the surveillance targeted progressive",
+          "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+        },
+        {
+          "title": "Federal agents used facial recognition tech to compile protestor photos during Operation Metro Surge",
+          "summary": "",
+          "source": "FOX 9",
+          "topic": "policing",
+          "url": "https://www.fox9.com/news/federal-agents-used-facial-recognition-tech-compile-protestor-photos-during-operation-metro-surge",
+          "published_at": "2026-08-15T02:01:40+00:00",
+          "image": {
+            "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/08/vlcsnap-2026-08-14-20h37m29s542.jpg",
+            "alt": ""
+          },
+          "uid": "91f5bd5a-0f0c-4aa0-a8c2-339dd5f3e9c0",
+          "description": "New court filings are shedding light on how federal agents used facial recognition technology to create visual files of protestors during Operation Metro Surge."
+        }
+      ]
     },
     {
-      "title": "Moriarty pens letter to TX governor, demanding ICE officer's extradition back to MN",
-      "summary": "Christian Castro, an ICE officer, was arrested in May in Harlingen, Texas, and remained held in the Cameron County Jail there. A Minnesota prosecutor named Moriarty sent a letter to the Texas governor demanding his extradition back to Minnesota.",
+      "title": "Progressives win big in Minnesota DFL primaries for Senate and U.S. House",
+      "summary": "Minnesota's primary drew record turnout, which the secretary of state framed as a statement about the state's commitment to elections. In the results, progressive candidates — including Lt. Gov. Peggy Flanagan and Matt Little — won their Democratic primaries for Senate and U.S. House.",
+      "source": "KARE 11",
+      "topic": "elections-politics",
+      "url": "https://www.kare11.com/article/news/local/progressives-win-big-in-mn-dfl-primaries-for-senate-and-us-house/89-2316837a-3072-4b60-ac47-44602222fd9a",
+      "published_at": "2026-08-12T23:19:27+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/e2969460-6f2e-48f4-a27b-75c51ec9acaa/20260812T105719/e2969460-6f2e-48f4-a27b-75c51ec9acaa_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "01031b52-f940-491b-aa96-21cb016f8b07",
+      "description": "Peggy Flanagan and Matt Little scored more victories for progressives in their Democratic primaries on Tuesday night, keeping with national trends.",
+      "thread": [
+        {
+          "title": "Progressives win big in Minnesota DFL primaries for Senate and U.S. House",
+          "summary": "",
+          "source": "KARE 11",
+          "topic": "elections-politics",
+          "url": "https://www.kare11.com/article/news/local/progressives-win-big-in-mn-dfl-primaries-for-senate-and-us-house/89-2316837a-3072-4b60-ac47-44602222fd9a",
+          "published_at": "2026-08-12T23:19:27+00:00",
+          "image": {
+            "url": "https://media.tegna-media.com/assets/KARE/images/e2969460-6f2e-48f4-a27b-75c51ec9acaa/20260812T105719/e2969460-6f2e-48f4-a27b-75c51ec9acaa_750x422.jpg",
+            "alt": ""
+          },
+          "uid": "01031b52-f940-491b-aa96-21cb016f8b07",
+          "description": "Peggy Flanagan and Matt Little scored more victories for progressives in their Democratic primaries on Tuesday night, keeping with national trends."
+        },
+        {
+          "title": "'It was a Minnesota thing': Voter turnout record shattered in primary election",
+          "summary": "",
+          "source": "KARE 11",
+          "topic": "elections-politics",
+          "url": "https://www.kare11.com/article/news/local/breaking-the-news/voter-turnout-record-shattered-in-primary-election/89-1d1f3c49-1c9b-47b7-a934-179dc70e0ca4",
+          "published_at": "2026-08-13T00:18:28+00:00",
+          "image": {
+            "url": "https://media.tegna-media.com/assets/KARE/images/a7401e3e-f2e2-4588-83d0-9374f1998215/20260813T000559/a7401e3e-f2e2-4588-83d0-9374f1998215_750x422.jpg",
+            "alt": ""
+          },
+          "uid": "6214d7df-d631-447b-8e25-53dcc68ac18a",
+          "description": "\"It speaks volumes about Minnesotans, about their commitment to elections and democracy,\" Secretary of State Steve Simon said."
+        }
+      ]
+    },
+    {
+      "title": "1 child, 2 adults dead after incident at Hopkins home daycare",
+      "summary": "A killing at a home daycare in Hopkins, a suburb about 10 miles west of Minneapolis, unfolded across the week. Police first reported a child and two adults dead; a search warrant then described officers finding Kristen Brown and her 7-year-old daughter in the kitchen, the county medical examiner named the victims and the alleged perpetrator, and by week's end relatives — grieving deaths at both the daycare and a home in Burnsville, south of the city — released a statement through Hopkins police.",
+      "source": "KARE 11",
+      "topic": "violent-crime",
+      "url": "https://www.kare11.com/article/news/local/police-respond-to-incident-in-hopkins/89-05ffd7d7-799c-45a2-8bf4-f3085a3dfc28",
+      "published_at": "2026-08-12T22:24:08+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/c186319a-5ccc-4ef0-a6c4-859793c0aea5/20260812T152936/c186319a-5ccc-4ef0-a6c4-859793c0aea5_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "359b675d-e44f-46fd-b4c7-474f8b0cec2f",
+      "description": "Police say the man and woman who died were parents of the 7-year-old victim.",
+      "thread": [
+        {
+          "title": "1 child, 2 adults dead after incident at Hopkins home daycare",
+          "summary": "",
+          "source": "KARE 11",
+          "topic": "violent-crime",
+          "url": "https://www.kare11.com/article/news/local/police-respond-to-incident-in-hopkins/89-05ffd7d7-799c-45a2-8bf4-f3085a3dfc28",
+          "published_at": "2026-08-12T22:24:08+00:00",
+          "image": {
+            "url": "https://media.tegna-media.com/assets/KARE/images/c186319a-5ccc-4ef0-a6c4-859793c0aea5/20260812T152936/c186319a-5ccc-4ef0-a6c4-859793c0aea5_750x422.jpg",
+            "alt": ""
+          },
+          "uid": "359b675d-e44f-46fd-b4c7-474f8b0cec2f",
+          "description": "Police say the man and woman who died were parents of the 7-year-old victim."
+        },
+        {
+          "title": "Search warrant reveals new details about Hopkins triple murder-suicide",
+          "summary": "",
+          "source": "KARE 11",
+          "topic": "violent-crime",
+          "url": "https://www.kare11.com/article/news/local/search-warrant-reveals-new-details-about-hopkins-triple-murder-suicide/89-8f4ffded-f889-4c3b-ad21-38025959c0ca",
+          "published_at": "2026-08-13T18:08:10+00:00",
+          "image": {
+            "url": "https://media.tegna-media.com/assets/KARE/images/d773c5b7-b84a-4885-9625-fbf3da2a043e/20260813T180045/d773c5b7-b84a-4885-9625-fbf3da2a043e_750x422.jpg",
+            "alt": ""
+          },
+          "uid": "0a2d4c63-5a53-4dc5-8553-186efc9b9858",
+          "description": "The warrant stated officers found Kristen Brown and her 7-year-old daughter dead in the kitchen Wednesday morning."
+        },
+        {
+          "title": "Hopkins daycare deaths: Victims, alleged perpetrator ID’d by medical examiner",
+          "summary": "",
+          "source": "FOX 9",
+          "topic": "violent-crime",
+          "url": "https://www.fox9.com/news/hopkins-daycare-deaths-victims-alleged-perpetrator-id-aug-14-2026",
+          "published_at": "2026-08-14T20:38:50+00:00",
+          "image": {
+            "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/08/hopkins-brown-photo-sized.jpg",
+            "alt": ""
+          },
+          "uid": "814d479f-63b3-4c82-bd63-fa1caa907e98",
+          "description": "The Hennepin County Medical Examiner has identified both the victims and alleged perpetrator involved in a murder-suicide at a Hopkins daycare center."
+        },
+        {
+          "title": "Family mourns Hopkins daycare victims after deadly violence",
+          "summary": "",
+          "source": "FOX 9",
+          "topic": "violent-crime",
+          "url": "https://www.fox9.com/news/hopkins-daycare-deaths-brown-family-issues-statement-after-gruesome-deaths",
+          "published_at": "2026-08-15T22:25:24+00:00",
+          "image": {
+            "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/08/8_13_26-hopkins-236-tyler-av-n-memorial-raw_00.02.30.16.jpg",
+            "alt": ""
+          },
+          "uid": "1b5fbe32-c9f6-48c8-bda7-3ffe1fa71285",
+          "description": "The relatives of the Brown family are sharing their grief after the devastating murders at a Hopkins daycare and a Burnsville home last week that have left the communities rattled."
+        },
+        {
+          "title": "Families of Hopkins daycare double murder-suicide victims release statement",
+          "summary": "",
+          "source": "CBS Minnesota",
+          "topic": "violent-crime",
+          "url": "https://www.cbsnews.com/minnesota/news/families-hopkins-daycare-united-statement/",
+          "published_at": "2026-08-16T00:13:11+00:00",
+          "image": {
+            "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/15/8993b274-691d-432d-b31a-0793e45ec450/thumbnail/1024x576/8682eda8babe3a371731bca6f2fe8a86/6p-vo-hl-hopkins-statement-wccob36f.jpg",
+            "alt": ""
+          },
+          "uid": "15d923f4-8f53-4d78-935e-2bd8cdc0880c",
+          "description": "The family of Kristen and Evie Brown, the victims in Wednesday's double murder-suicide in Hopkins, Minnesota, has released a statement through the Hopkins Police Department.",
+          "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Alex Pretti family attorney: 'If there is no accountability, that's a dark picture for America'",
+      "summary": "Seven months after federal agents shot and killed Alex Pretti, his parents still have not been told which agents were involved, and the family's attorney argued publicly that the absence of accountability is the real story.",
       "source": "KARE 11",
       "topic": "immigration-enforcement",
-      "url": "https://www.kare11.com/article/news/local/ice-in-minnesota/moriarty-pens-letter-to-tx-governor-demanding-ice-officers-extradition-to-mn/89-85c6a408-0e4d-4966-ae42-dbc5f9c933d2",
-      "published_at": "2026-08-03T16:54:14+00:00",
+      "url": "https://www.kare11.com/article/news/local/breaking-the-news/alex-pretti-family-attorney-interview-kare/89-9823cb39-4659-48bc-9e02-7d40fe7c0101",
+      "published_at": "2026-08-14T00:29:40+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/KARE/images/ada87890-8094-4061-9157-0f5db65571b1/20260601T112942/ada87890-8094-4061-9157-0f5db65571b1_750x422.jpg",
+        "url": "https://media.tegna-media.com/assets/KARE/images/2de90d93-472f-4b56-8d10-8328be41bc78/20260725T223932/2de90d93-472f-4b56-8d10-8328be41bc78_750x422.jpg",
         "alt": ""
       },
-      "uid": "afbf5b10-b12b-4044-bd61-0b4277041650",
-      "description": "Christian Castro was arrested in Harlingen, Texas, in May and booked into the Cameron County Jail, where he remains."
+      "uid": "141f3fc6-0408-4aea-afbf-c543edc5275a",
+      "description": "Seven months after Alex Pretti was shot and killed by federal agents, his parents have never been told who those agents were."
+    },
+    {
+      "title": "West St. Paul suspends contract with Flock Safety, starts taking down cameras",
+      "summary": "Minnesota cities kept pulling back from Flock Safety's automated license-plate readers. Several cancelled their contracts outright over public input and feasibility, West St. Paul — a small city just south of St. Paul — suspended its contract and began taking cameras down, and other communities held onto the technology, leaving the privacy debate running across the state.",
+      "source": "KARE 11",
+      "topic": "policing",
+      "url": "https://www.kare11.com/article/news/local/west-st-paul-suspends-contract-flock-safety/89-5f230761-b0ca-44fc-b829-9d5bedcc9eea",
+      "published_at": "2026-08-10T22:18:35+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/f9653f26-ad78-401d-baeb-71094473ffeb/20260806T032046/f9653f26-ad78-401d-baeb-71094473ffeb_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "e342e9b3-2bcc-4620-9171-f76c793c0d12",
+      "description": "City officials said they have begun to remove cameras, and they should all be down by the end of the week.",
+      "thread": [
+        {
+          "title": "West St. Paul suspends contract with Flock Safety, starts taking down cameras",
+          "summary": "",
+          "source": "KARE 11",
+          "topic": "policing",
+          "url": "https://www.kare11.com/article/news/local/west-st-paul-suspends-contract-flock-safety/89-5f230761-b0ca-44fc-b829-9d5bedcc9eea",
+          "published_at": "2026-08-10T22:18:35+00:00",
+          "image": {
+            "url": "https://media.tegna-media.com/assets/KARE/images/f9653f26-ad78-401d-baeb-71094473ffeb/20260806T032046/f9653f26-ad78-401d-baeb-71094473ffeb_750x422.jpg",
+            "alt": ""
+          },
+          "uid": "e342e9b3-2bcc-4620-9171-f76c793c0d12",
+          "description": "City officials said they have begun to remove cameras, and they should all be down by the end of the week."
+        },
+        {
+          "title": "Minnesota cities pull back on Flock cameras amid public pushback",
+          "summary": "",
+          "source": "FOX 9",
+          "topic": "policing",
+          "url": "https://www.fox9.com/news/minnesota-cities-pull-back-flock-cameras-amid-public-pushback",
+          "published_at": "2026-08-11T03:13:27+00:00",
+          "image": {
+            "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/07/tz_b_fridley-flock_00.00.12.42.jpg",
+            "alt": ""
+          },
+          "uid": "b500dea1-9962-45fa-9f51-d1f6a8b092b9",
+          "description": "A growing number of Minnesota communities are rethinking their use of Flock cameras as debates over privacy and surveillance heat up."
+        },
+        {
+          "title": "Multiple cities around Minnesota cancel contracts with Flock Safety",
+          "summary": "",
+          "source": "KARE 11",
+          "topic": "policing",
+          "url": "https://www.kare11.com/article/news/local/breaking-the-news/multiple-cities-minnesota-cancel-contracts-flock/89-bfd002b1-6830-4139-8287-cea513e602a0",
+          "published_at": "2026-08-12T00:32:49+00:00",
+          "image": {
+            "url": "https://media.tegna-media.com/assets/KARE/images/fb526902-238f-46eb-8db2-d3ba4f4d45a9/20260811T212930/fb526902-238f-46eb-8db2-d3ba4f4d45a9_750x422.jpg",
+            "alt": ""
+          },
+          "uid": "26b76bf4-e193-4159-8ebe-0cdf9e38051e",
+          "description": "The reasons range from public input to feasibility."
+        },
+        {
+          "title": "Flock camera backlash: Some Minnesota cities keep license plate readers despite privacy concerns",
+          "summary": "",
+          "source": "FOX 9",
+          "topic": "policing",
+          "url": "https://www.fox9.com/news/flock-camera-backlash-mn-cities-keep-license-plate-readers-despite-privacy-concerns-aug-2026",
+          "published_at": "2026-08-14T22:01:11+00:00",
+          "image": {
+            "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/08/vlcsnap-2026-08-14-17h00m13s312.jpg",
+            "alt": ""
+          },
+          "uid": "a54fddb3-b1e2-445e-8485-b0313a4a539c",
+          "description": "The debate over Flock license plate cameras is heating up across Minnesota as some cities end their contracts while others stand by the technology."
+        }
+      ]
     }
   ],
   "sports": [
     {
-      "team": "Lynx",
-      "scores": [
-        "Lynx 108, Fever 100"
-      ]
-    },
-    {
       "team": "Twins",
       "scores": [
-        "Mariners 4, Twins 3"
+        "Phillies 7, Twins 5",
+        "Phillies 9, Twins 1",
+        "play Phillies at Field of Dreams",
+        "Twins 7, Orioles 5",
+        "Twins 9, Orioles 5"
       ]
     },
     {
       "team": "Minnesota United",
       "scores": [
-        "Minnesota United 1, San Diego FC 1"
+        "Minnesota United 1, Real Salt Lake 1"
+      ]
+    },
+    {
+      "team": "Lynx",
+      "scores": [
+        "Lynx 92, Aces 87",
+        "Lynx 85, Fire 81"
+      ]
+    },
+    {
+      "team": "Vikings",
+      "scores": [
+        "beats Giants in preseason opener",
+        "Murray named starting QB",
+        "McCarthy on losing QB job"
+      ]
+    },
+    {
+      "team": "Timberwolves",
+      "scores": [
+        "will retire Kevin Garnett's No. 21 on Feb. 28",
+        "host first Christmas Day game",
+        "first home Christmas game, vs. Thunder"
       ]
     }
   ]

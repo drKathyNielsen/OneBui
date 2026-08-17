@@ -1,0 +1,129 @@
+{
+  "shortName": "Boulder, CO",
+  "metroCode": "14500",
+  "metro": "Boulder, CO",
+  "date": "2026-08-06",
+  "are_you_ok": [
+    {
+      "title": "Another Weather Impact Alert issued for Saturday",
+      "summary": "Stop us if you've heard this one before: there's another Weather Impact Alert — the station's own flag for a day of hazardous weather — because of another Heat Advisory for Denver and the surrounding metro area.",
+      "source": "9NEWS",
+      "topic": "heat",
+      "url": "https://www.9news.com/article/weather/weather-colorado/denver-colorado-weather-impact-alert-hot-temps/73-15307984-5991-4ac3-aef4-1e37f852a9ce",
+      "published_at": "2026-08-06T20:22:24+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/e0e67ff2-b5af-4395-b7bb-1857f6b647fd/20260803T144946/e0e67ff2-b5af-4395-b7bb-1857f6b647fd_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "8e8f74c5-837c-47f1-8adf-251caaa03420",
+      "questions": [
+        "How are you doing with another hot stretch?",
+        "Are the heat advisories changing your routine?"
+      ],
+      "description": "Stop us if you've heard this one before: There's another Weather Impact Alert for Saturday because of another Heat Advisory for Denver and the metro area."
+    }
+  ],
+  "conversation_starters": [
+    {
+      "title": "9Things to do in Colorado this weekend: Aug. 7-9",
+      "summary": "Colorado's fair and festival scene is alive, with the Wheat Ridge Carnation Festival, Centennial Under The Stars and Littleton's Western Welcome Week — Wheat Ridge, Centennial and Littleton all being Denver suburbs roughly 20 to 40 miles south of Boulder.",
+      "source": "9NEWS",
+      "topic": "civic-events",
+      "url": "https://www.9news.com/article/entertainment/events/9-things-to-do/colorado-weekend-events-guide/73-1de2839f-3c65-45b4-8bfd-e2d5f175ff7c",
+      "published_at": "2026-08-06T13:50:49+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/d2d9632b-cef6-42c4-a859-0bd87a96ab4a/d2d9632b-cef6-42c4-a859-0bd87a96ab4a_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "84864d49-a72c-425b-8017-78751c8c1fc9",
+      "questions": [
+        "Do you get to any of the summer festivals?",
+        "Is Western Welcome Week worth the drive?"
+      ],
+      "description": "Colorado's fair and festival scene is alive this weekend, with the Wheat Ridge Carnation Festival, Centennial Under The Stars and Littleton's Western Welcome Week."
+    },
+    {
+      "title": "Denver concert hall's $122M renovation plan includes selling naming rights",
+      "summary": "",
+      "source": "9NEWS",
+      "topic": "business-jobs",
+      "url": "https://www.9news.com/article/life/style/colorado-guide/naming-rights-boettcher-concert-hall/73-e487a26f-3637-4016-a5fd-30738ac4bb96",
+      "published_at": "2026-08-06T12:18:20+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/cfbe1d2e-f1de-4073-a19b-5b8c39c999fd/20260806T121559/cfbe1d2e-f1de-4073-a19b-5b8c39c999fd_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "c3d32b8f-db8b-4ceb-b5ba-6ea188c06ccf",
+      "questions": [
+        "Have you been to Boettcher Concert Hall?",
+        "Do you get to the symphony much?"
+      ],
+      "description": "Denver's Boettcher Concert Hall, home to the Colorado Symphony, may undergo a $122M renovation with funds from naming rights sales, pending city council approval."
+    },
+    {
+      "title": "Cannabis company to close Denver facility, cut 141 jobs",
+      "summary": "",
+      "source": "9NEWS",
+      "topic": "business-jobs",
+      "url": "https://www.9news.com/article/money/business/native-roots-closing-grow-facility-layoffs/73-894c69fe-231b-4585-bf27-63fc0268664d",
+      "published_at": "2026-08-06T10:50:37+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KTVB/images/fcd17132-cfe7-4d8e-8702-8a7662a70e8f/20260714T182619/fcd17132-cfe7-4d8e-8702-8a7662a70e8f_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "a24d42a2-436e-431a-912a-a53a576dc06b",
+      "questions": [
+        "Did you hear about the Native Roots layoffs?",
+        "Do you know anyone working in that industry?"
+      ],
+      "description": "Native Roots is closing its Denver grow facility, laying off 141 employees, after selling 15 dispensaries, amid a deal with Verdant Capital Partners."
+    }
+  ],
+  "sports": [],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "Denver Water's largest reservoir is down 20 feet — and officials say it'll get worse",
+      "summary": "Denver Water, the utility serving Denver, about 30 miles southeast of Boulder, reports reservoir levels are at 75% of capacity due to ongoing drought, urging conservation as levels may further drop by next spring.",
+      "source": "9NEWS",
+      "topic": "drought-water",
+      "url": "https://www.9news.com/article/news/denver-waters-largest-reservoir-down-20-feet-and-officials-say-itll-get-worse/73-c0eeb1db-b4ed-40c1-9199-061c314ff745",
+      "published_at": "2026-08-06T03:13:21+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/a842b273-e52d-4616-a57b-71f89d00609f/20260806T014436/a842b273-e52d-4616-a57b-71f89d00609f_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "08fc88fb-96cb-40ec-8b35-209491f6e285",
+      "description": "Denver Water reports reservoir levels are at 75% of capacity due to ongoing drought, urging conservation as levels may further drop by next spring."
+    },
+    {
+      "title": "A new Colorado law is putting limits on sports betting",
+      "summary": "",
+      "source": "CBS Colorado",
+      "topic": "elections-politics",
+      "url": "https://www.cbsnews.com/colorado/video/a-new-colorado-law-is-putting-limits-on-sports-betting/",
+      "published_at": "2026-08-06T22:21:00+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/06/6faf2911-244d-4301-9677-8430e63d484e/thumbnail/1024x576/de63302de1ff66d2b5290eb92d1805d2/796331351b9c5bbe2aa2fff0c6c7647c.jpg",
+        "alt": ""
+      },
+      "uid": "4fee9195-66ee-4930-ada2-682499e33858",
+      "description": "A newly passed state law will put limits on sports betting in Colorado. The popular sports book FanDuel has already emailed users, warning them of deposit limits that could impact how people gamble.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    },
+    {
+      "title": "Only 1 Idaho Springs rafting company remains open as Clear Creek hits record-low flow",
+      "summary": "Rocky Mountain Whitewater Rafting, in Idaho Springs — a mountain town on Clear Creek about 35 miles southwest of Boulder — bought specialized rafts for low-water seasons, allowing it to continue after all competitors closed.",
+      "source": "9NEWS",
+      "topic": "drought-water",
+      "url": "https://www.9news.com/article/news/local/colorado-news/idaho-springs-rafting-company-open-clear-creek-hits-record-low-flow/73-61091a36-e63c-4e62-99c9-a1a95a2a44a2",
+      "published_at": "2026-08-06T22:53:21+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/b9a19406-7cfc-4a7e-95f7-438e1c8af48c/20260806T214009/b9a19406-7cfc-4a7e-95f7-438e1c8af48c_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "a5ce3877-5da0-4f3a-8b86-72034bb98a0e",
+      "description": "Rocky Mountain Whitewater Rafting bought specialized rafts for low-water seasons, allowing it to continue after all competitors closed."
+    }
+  ]
+}

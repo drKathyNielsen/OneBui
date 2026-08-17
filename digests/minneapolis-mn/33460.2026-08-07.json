@@ -1,0 +1,216 @@
+{
+  "shortName": "Minneapolis, MN",
+  "metroCode": "33460",
+  "metro": "Minneapolis-St. Paul-Bloomington, MN-WI",
+  "date": "2026-08-07",
+  "are_you_ok": [
+    {
+      "title": "Six beaches in Minneapolis close due to blue-green algae, E. coli",
+      "summary": "",
+      "source": "KARE 11",
+      "topic": "public-health",
+      "url": "https://www.kare11.com/article/news/health/six-beaches-minneapolis-close-due-blue-green-algae-coli/89-8712a9a8-1abc-4fca-ac8f-1960875def07",
+      "published_at": "2026-08-07T22:26:32+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/bed58349-913a-4cce-885a-8cdead045dae/20260807T204103/bed58349-913a-4cce-885a-8cdead045dae_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "e35281b5-6acd-4ca0-8fb9-20e3c6e93b62",
+      "questions": [
+        "Do you swim at any of the city beaches?",
+        "Has the algae closed the ones near you?"
+      ],
+      "description": "Six Minneapolis beaches are closed due to blue-green algae and elevated E. coli."
+    }
+  ],
+  "conversation_starters": [
+    {
+      "title": "How the Uptown Art Fair is aiming to help the Minneapolis neighborhood",
+      "summary": "The Uptown Art Fair kicked off Friday afternoon in Minneapolis. The event is closer to Uptown, a Minneapolis neighborhood just southwest of downtown, for the first time in two years. It's also giving back to the community that started it all. John Lauritsen shows how the fair could help revitalize the area.",
+      "source": "CBS Minnesota",
+      "topic": "civic-events",
+      "url": "https://www.cbsnews.com/minnesota/video/how-the-uptown-art-fair-is-aiming-to-help-the-minneapolis-neighborhood/",
+      "published_at": "2026-08-07T23:36:00+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/07/604c557b-be3f-4d3a-aca5-5b8017d10236/thumbnail/1024x576/e29263dc6a38a9b9c8159ad62295a4b9/e013ec689b554b1874dcb2fa32ef6e32.png",
+        "alt": ""
+      },
+      "uid": "0a31f722-a986-4a43-84cf-1ffe3404ad09",
+      "questions": [
+        "Do you go to the Uptown Art Fair?",
+        "Has that part of town changed much lately?"
+      ],
+      "description": "The Uptown Art Fair kicked off Friday afternoon in Minneapolis. The event is closer to the Minneapolis neighborhood of Uptown for the first time in two years. It's also giving back to the community that started it all. John Lauritsen shows how the fair could help revitalize the",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    },
+    {
+      "title": "Minnesota weather: Storms move out midday Friday, warm weekend to follow",
+      "summary": "",
+      "source": "FOX 9",
+      "topic": "severe-weather",
+      "url": "https://www.fox9.com/weather/minnesota-weather-forecast-aug-7-2026",
+      "published_at": "2026-08-07T20:08:10+00:00",
+      "image": {
+        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/08/mn-weather-storms-clear-for-pleasant-friday-evening.jpg",
+        "alt": ""
+      },
+      "uid": "a5642e6e-a272-49a8-8bed-89c11333558f",
+      "questions": [
+        "Did the storms reach you before the weekend?",
+        "Have you been getting the heat and humidity too?"
+      ],
+      "description": "Minnesota is in for a warm and more humid Friday with isolated thunderstorm chances throughout the day."
+    },
+    {
+      "title": "Award-winning Twin Cities culinary journalist Sue Zelickson dies at 91",
+      "summary": "",
+      "source": "KARE 11",
+      "topic": "human-interest",
+      "url": "https://www.kare11.com/article/news/local/award-winning-twin-cities-culinary-journalist-sue-zelickson-dies-at-91/89-c9306250-1136-4e36-86b1-631e36eddbbd",
+      "published_at": "2026-08-07T20:57:46+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/bbe26257-cd82-4ba1-ae97-633c86abd339/20260807T205136/bbe26257-cd82-4ba1-ae97-633c86abd339_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "3c9755f0-caae-46e3-903b-decd854fde4f",
+      "questions": [
+        "Did you follow Sue Zelickson's food writing?",
+        "Was she a fixture for people here?"
+      ],
+      "description": "The longtime radio host and columnist won a James Beard Award in 2005."
+    },
+    {
+      "title": "Minnesota nurse, 91, still teaching and volunteering 69 years after she started",
+      "summary": "",
+      "source": "FOX 9",
+      "topic": "human-interest",
+      "url": "https://www.fox9.com/news/minnesota-nurse-91-still-teaching-volunteering-69-years-aug-2026",
+      "published_at": "2026-08-07T23:09:24+00:00",
+      "image": {
+        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/08/vlcsnap-2026-08-07-17h51m00s866.jpg",
+        "alt": ""
+      },
+      "uid": "ca0aabe2-0e86-48d1-86a8-f4ec5d0bdbcf",
+      "questions": [
+        "Did you see the story about the 91-year-old nurse still volunteering?",
+        "Is she known around the hospitals here?"
+      ],
+      "description": "A 91-year-old woman has not stopped working, even after she was forced to retire from nursing after hospital closures."
+    },
+    {
+      "title": "First National Bank Building relights iconic sign",
+      "summary": "",
+      "source": "KARE 11",
+      "topic": "business-jobs",
+      "url": "https://www.kare11.com/article/news/local/first-national-bank-building-relights-iconic-sign-mn/89-7c1a13a4-65a2-4986-b89f-6ee9d4d3385a",
+      "published_at": "2026-08-07T00:28:02+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/75c51ad3-47ac-4a0a-9c64-c6d98aa94f5c/20260806T221444/75c51ad3-47ac-4a0a-9c64-c6d98aa94f5c_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "aa8e72ef-80ff-476b-9957-cf20525cacdd",
+      "questions": [
+        "Have you seen the relit sign downtown?",
+        "Is that building a landmark for people here?"
+      ],
+      "description": "The building's new owner said it was important to light this sign to show the community change is coming to downtown."
+    }
+  ],
+  "sports": [
+    {
+      "team": "Twins",
+      "scores": [
+        "Twins 4, Royals 3"
+      ]
+    }
+  ],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "Power failure appears to be culprit behind FAA outage but a cybersecurity expert says it exposed a problem",
+      "summary": "Faisal Kaleem, director of cyber programs at Metro State University, a public university in St. Paul, said this service disruption should be a wake-up call.",
+      "source": "KARE 11",
+      "topic": "transportation",
+      "url": "https://www.kare11.com/article/news/local/power-failure-appears-to-be-culprit-behind-faa-outage-but-a-cybersecurity-expert-says-it-exposed-a-problem/89-36f79326-b70d-4b07-b2f2-5421b1f1ead3",
+      "published_at": "2026-08-07T23:34:54+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/091c910a-6c1e-4b45-91cf-2a553fb65ceb/20260807T220955/091c910a-6c1e-4b45-91cf-2a553fb65ceb_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "b5f6f408-8143-465c-a3fe-f9f23f6830c8",
+      "description": "Metro State University Director of Cyber Programs Faisal Kaleem said this service disruption should be a wake-up call."
+    },
+    {
+      "title": "Encampment grows on St. Paul's west side after city clears site at Pig's Eye Park",
+      "summary": "City leaders in St. Paul, the neighboring city just east of Minneapolis, are trying to handle what they describe as a safety problem at an encampment. Our Conor Wight shows the ripple effect after a major encampment shutdown this week.",
+      "source": "CBS Minnesota",
+      "topic": "housing",
+      "url": "https://www.cbsnews.com/minnesota/video/encampment-grows-on-st-pauls-west-side-after-city-clears-site-at-pigs-eye-park/",
+      "published_at": "2026-08-07T23:32:00+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/07/ea4d111d-f39c-4a64-8d5f-f098bfee4e18/thumbnail/1024x576/6ca322a822ee696776f0deecc7a93fc2/2da011fc045cbee2f7ad4ba54e769e33.png",
+        "alt": ""
+      },
+      "uid": "2f896039-a2cb-40d3-93df-a0987718b7a3",
+      "description": "City leaders in St. Paul are trying to handle what they describe as a safety problem at an encampment. Our Conor Wight shows the ripple effect after a major encampment shutdown this week.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    },
+    {
+      "title": "Journalist Don Lemon files motion to dismiss charges stemming from ICE protest at Cities Church",
+      "summary": "",
+      "source": "KARE 11",
+      "topic": "immigration-enforcement",
+      "url": "https://www.kare11.com/article/news/local/ice-in-minnesota/journalist-don-lemon-files-motion-to-dismiss-charges-stemming-from-ice-protest-at-cities-church/89-0a52e3dd-f51b-4880-903a-d18cf5e8a803",
+      "published_at": "2026-08-07T14:49:14+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/af258be4-646d-463f-9714-1aa06b9ab9c3/20260213T202803/af258be4-646d-463f-9714-1aa06b9ab9c3_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "51117900-7fec-43d3-b1e0-4e92350c9e1b",
+      "description": "The filing argues Lemon's coverage of others' \"potentially unlawful conduct\" doesn't strip him of his First Amendment rights to report the events as a journalist."
+    },
+    {
+      "title": "Ramsey County files lawsuit to block two gangs from Minnesota State Fair",
+      "summary": "Ramsey County, which covers St. Paul just east of Minneapolis, and the Minnesota Attorney General are asking the court to block two rival gangs from engaging in \"gang activity\" at the Minnesota State Fair.",
+      "source": "FOX 9",
+      "topic": "policing",
+      "url": "https://www.fox9.com/news/ramsey-county-files-injunction-keep-two-rival-gangs-out-minnesota-state-fair",
+      "published_at": "2026-08-07T22:17:50+00:00",
+      "image": {
+        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2025/08/11vo-mn-state-fair-_1_kmsp7e75_146_mxf_00.00.08.18.jpg",
+        "alt": ""
+      },
+      "uid": "851bddfb-107b-4876-b41f-03722fa1422d",
+      "description": "Ramsey County and the Minnesota Attorney General are asking the court to block two rival gangs from engaging in \"gang activity\" at the Minnesota State Fair."
+    },
+    {
+      "title": "4 things to know from Aug. 7, 2026",
+      "summary": "The family of Mark Hortman — the Minnesota man killed alongside his wife, a state legislative leader, in 2025 — is pushing back on the nomination of Todd Blanche as the U.S. attorney general, President Trump signed two executive orders in his latest effort to refuse citizenship to some children born in the U.S. and more.",
+      "source": "CBS Minnesota",
+      "topic": "elections-politics",
+      "url": "https://www.cbsnews.com/minnesota/video/4-things-to-know-from-aug-7-2026/",
+      "published_at": "2026-08-07T12:01:00+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/07/9ef3bc16-dca3-4899-8bbc-b245d0850394/thumbnail/1024x576/dd448f5372911c28d09db3ff4fb8fd12/3c2b3296e6bf7348546ae6994a140e22.jpg",
+        "alt": ""
+      },
+      "uid": "a29f1757-3d97-4b26-9a1a-dfe33cb5a9b2",
+      "description": "The family of Mark Hortman is pushing back on the nomination of Todd Blanche as the U.S. attorney general, President Trump signed two executive orders in his latest effort to refuse citizenship to some children born in the U.S. and more.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    },
+    {
+      "title": "Edina, Plymouth among Minnesota cities hit by license plate camera vandalism",
+      "summary": "",
+      "source": "FOX 9",
+      "topic": "policing",
+      "url": "https://www.fox9.com/news/edina-plymouth-among-minnesota-cities-hit-license-plate-camera-vandalism",
+      "published_at": "2026-08-07T02:31:29+00:00",
+      "image": {
+        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/08/10p-flock-cam-explainer-_-manzoni_00.00.01.14.jpg",
+        "alt": ""
+      },
+      "uid": "da2b2dee-2a29-4e18-b057-6be15d641e1b",
+      "description": "Automated license plate reader cameras are being vandalized and stolen across Minnesota, raising concerns for police amid a national debate over data privacy."
+    }
+  ]
+}

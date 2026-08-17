@@ -1,0 +1,90 @@
+{
+  "shortName": "Boulder, CO",
+  "metroCode": "14500",
+  "metro": "Boulder, CO",
+  "date": "2026-08-15",
+  "are_you_ok": [
+    {
+      "title": "Severe thunderstorms bring heavy rain, hail to Denver Saturday",
+      "summary": "Severe thunderstorms brought heavy rain and hail Saturday afternoon in Denver, southeast of Boulder, and out on the Colorado plains, the flat farm country east of the mountains.",
+      "source": "9NEWS",
+      "topic": "severe-weather",
+      "url": "https://www.9news.com/article/weather/severe-weather/severe-storm-warning-denver-metro-area/73-6e35649b-2014-442b-b63b-b6c657e43002",
+      "published_at": "2026-08-15T20:18:16+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/e46730ea-658e-49b9-a98f-8b395aed232b/20260815T143244/e46730ea-658e-49b9-a98f-8b395aed232b_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "ae57a684-66f0-4a1d-b7e4-1fbc799f8582",
+      "questions": [
+        "Did the hail reach you?",
+        "Any damage to your car or house to deal with?"
+      ],
+      "description": "Severe thunderstorms brought heavy rain and hail Saturday afternoon in Denver and on the Colorado plains."
+    }
+  ],
+  "conversation_starters": [
+    {
+      "title": "Bear tears through screen, breaks into Colorado Cherry Company building to eat blueberry pie",
+      "summary": "A young bear broke into the Colorado Cherry Company's location on Highway 36 north of Lyons — the road running northwest out of Boulder toward the mountains, through the small town of Lyons about 15 miles away — to chow down on a blueberry pie.",
+      "source": "CBS Colorado",
+      "topic": "human-interest",
+      "url": "https://www.cbsnews.com/colorado/news/bear-colorado-cherry-company-pie/",
+      "published_at": "2026-08-15T04:22:26+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/15/839f74de-2df4-4c03-98b6-5eb1f9750579/thumbnail/1024x576/4f81ef5fe63a2a80c10198d7b3a6fcc5/bear1.jpg",
+        "alt": ""
+      },
+      "uid": "25a44a56-ad65-4c1f-9280-ea1a96cbefab",
+      "questions": [
+        "Did you see the bear that broke in for a blueberry pie up by Lyons?",
+        "Are bears getting into things where you live this year?"
+      ],
+      "description": "A young bear broke into the Colorado Cherry Company's location on Highway 36 north of Lyons to chow down on a blueberry pie.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    },
+    {
+      "title": "'Just so you know, the bear is up there': Colorado faces record bear season as new law cracks down",
+      "summary": "",
+      "source": "9NEWS",
+      "topic": "other",
+      "url": "https://www.9news.com/article/weather/colorado-faces-record-bear-season-new-law-cracks-down/73-a87294ed-013e-4f53-b1ba-15080a7aa1b9",
+      "published_at": "2026-08-15T04:33:53+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/a26e8db9-02ef-4baa-88c6-471db9d43153/20260815T022418/a26e8db9-02ef-4baa-88c6-471db9d43153_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "c8f80139-3136-4f4d-a530-0b0a151eda7e",
+      "questions": [
+        "Have you had bears in your neighborhood this season?",
+        "Do you do anything different with trash or bird feeders this time of year?"
+      ],
+      "description": "Colorado is witnessing a record bear season, with over 6,100 incidents reported, as drought conditions push bears into neighborhoods."
+    }
+  ],
+  "sports": [
+    {
+      "team": "Broncos",
+      "scores": [
+        "Broncos 27, Falcons 7"
+      ]
+    }
+  ],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "Trump administration accused of targeting Colorado with funding cuts, judge orders document release",
+      "summary": "The Trump Administration reportedly targeted Colorado after Gov. Polis refused to pardon Tina Peters, the former county clerk convicted over a breach of election equipment, with claims supported by a critical email unveiled in court.",
+      "source": "9NEWS",
+      "topic": "elections-politics",
+      "url": "https://www.9news.com/article/news/local/local-politics/trump-administration-accused-targeting-colorado-funding-cuts/73-de71632d-2f98-4120-9ad3-da83ecf64f04",
+      "published_at": "2026-08-15T01:56:50+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/bb81677c-9994-4e16-be5c-60e7c409cb08/20260702T123855/bb81677c-9994-4e16-be5c-60e7c409cb08_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "6fc1dab3-32c8-4053-a89e-d1500934a2ba",
+      "description": "The Trump Administration reportedly targeted Colorado after Gov. Polis refused to pardon Tina Peters, with claims supported by a critical email unveiled in court."
+    }
+  ]
+}

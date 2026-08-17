@@ -1,0 +1,48 @@
+{
+  "shortName": "San Antonio, TX",
+  "metroCode": "41700",
+  "metro": "San Antonio-New Braunfels, TX",
+  "date": "2026-08-13",
+  "are_you_ok": [],
+  "conversation_starters": [],
+  "sports": [
+    {
+      "team": "Spurs",
+      "scores": [
+        "Popovich speaks at Don Nelson memorial",
+        "2026-27 schedule: Austin, Paris, Manchester"
+      ]
+    }
+  ],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "Texas lawmakers call on six Bexar County cities to end 287(g) agreements with ICE",
+      "summary": "U.S. Rep. Joaquin Castro and others urge six cities in Bexar County, the county that contains San Antonio, to end their 287(g) agreements — the arrangements that let local police act as federal immigration officers — with ICE, citing trust issues and racial profiling concerns.",
+      "source": "KENS 5",
+      "topic": "immigration-enforcement",
+      "url": "https://www.kens5.com/article/news/local/texas-lawmakers-six-bexar-county-cities-end-287g-agreements-ice/273-44b6338c-7a1c-4408-921c-3c2aafe45887",
+      "published_at": "2026-08-13T02:22:13+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/b3933ee1-6358-42b0-8a0d-3d6a8fc6f7e5/20260812T231827/b3933ee1-6358-42b0-8a0d-3d6a8fc6f7e5_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "595106f1-c49f-4c25-862d-f3c035763a5c",
+      "description": "U.S. Rep. Joaquin Castro and others urge six Bexar County cities to end their 287(g) agreements with ICE, citing trust issues and racial profiling concerns."
+    },
+    {
+      "title": "San Antonio mariachi community calls for release of Venezuelan musician detained by ICE",
+      "summary": "",
+      "source": "KENS 5",
+      "topic": "immigration-enforcement",
+      "url": "https://www.kens5.com/article/news/local/san-antonio-mariachi-community-venezuelan-musician-detained-ice-reny-jesus-colina-torres-texas-cracker-barrel/273-820b91c7-999a-4e34-b7e9-8f7f18702076",
+      "published_at": "2026-08-13T22:39:09+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/50e57dbe-9ba9-414c-960f-8345e2768641/20260813T223743/50e57dbe-9ba9-414c-960f-8345e2768641_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "d582f7d1-118b-493f-bfb7-1acf5b088459",
+      "description": "San Antonio mariachi musician, Reny Jesus Colina Torres, is in ICE custody. His family and local community are now calling for his release."
+    }
+  ]
+}

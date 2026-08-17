@@ -1,0 +1,30 @@
+{
+  "shortName": "San Antonio, TX",
+  "metroCode": "41700",
+  "metro": "San Antonio-New Braunfels, TX",
+  "date": "2026-08-12",
+  "are_you_ok": [],
+  "conversation_starters": [
+    {
+      "title": "Perseid meteor shower peaks tonight: Look up for a celestial show over south Texas",
+      "summary": "",
+      "source": "KENS 5",
+      "topic": "other",
+      "url": "https://www.kens5.com/article/weather/perseid-meteor-shower-peaks-celestial-show-south-texas/273-74db9dd0-d0b3-4ad9-9ccf-5fcb21941c4b",
+      "published_at": "2026-08-12T23:09:14+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/f626ca52-35b5-4ab1-a29e-5246bae3d6be/20260812T230542/f626ca52-35b5-4ab1-a29e-5246bae3d6be_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "b9a0bd2c-ea6a-4577-9df2-a28f359e4d31",
+      "questions": [
+        "Did you get a look at the Perseids?",
+        "Is there anywhere around here you go to get away from the city lights?"
+      ],
+      "description": "You don't need a telescope or special equipment to see this dazzling celestial event."
+    }
+  ],
+  "sports": [],
+  "weather_alert": [],
+  "you_should_know": []
+}

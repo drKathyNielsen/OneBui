@@ -1,0 +1,37 @@
+{
+  "shortName": "San Antonio, TX",
+  "metroCode": "41700",
+  "metro": "San Antonio-New Braunfels, TX",
+  "date": "2026-08-11",
+  "are_you_ok": [],
+  "conversation_starters": [
+    {
+      "title": "Flood leaves fish stranded as Cibolo Creek reaches record level",
+      "summary": "Historic floodwaters transformed the Cibolo Center for Conservation, a nature preserve in Boerne about 30 miles northwest of San Antonio, leaving hundreds of fish stranded and reshaping the landscape in just a few hours.",
+      "source": "KENS 5",
+      "topic": "flood",
+      "url": "https://www.kens5.com/article/news/local/cibolo-center-cibolo-creek-flooding-stranded-fish-woodland-trail-conservation-nature-boerne-ecosystem-restoration-wildlife-floodwaters-trails/273-778deb17-99db-43d8-b80c-abe59f79bd9d",
+      "published_at": "2026-08-11T14:37:24+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/b850081c-bccf-4b35-907b-0d9c50628c78/20260811T143357/b850081c-bccf-4b35-907b-0d9c50628c78_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "17262f0a-c119-4b52-9e58-04621c1627e2",
+      "questions": [
+        "Have you ever been out to the Cibolo Center for Conservation?",
+        "Did the flooding change anything about the places you usually go?"
+      ],
+      "description": "Historic floodwaters transformed the Cibolo Center for Conservation, leaving hundreds of fish stranded and reshaping the landscape in just a few hours."
+    }
+  ],
+  "sports": [
+    {
+      "team": "Spurs",
+      "scores": [
+        "2026-27 slate: Christmas Day vs Knicks"
+      ]
+    }
+  ],
+  "weather_alert": [],
+  "you_should_know": []
+}

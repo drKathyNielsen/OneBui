@@ -1,0 +1,68 @@
+{
+  "shortName": "Minneapolis, MN",
+  "metroCode": "33460",
+  "metro": "Minneapolis-St. Paul-Bloomington, MN-WI",
+  "date": "2026-08-15",
+  "are_you_ok": [],
+  "conversation_starters": [],
+  "sports": [],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "Federal agents used facial recognition tech to compile protestor photos during Operation Metro Surge",
+      "summary": "New court filings are shedding light on how federal agents used facial recognition technology to create visual files of protestors during Operation Metro Surge, the federal enforcement push in the Minneapolis-St. Paul area.",
+      "source": "FOX 9",
+      "topic": "policing",
+      "url": "https://www.fox9.com/news/federal-agents-used-facial-recognition-tech-compile-protestor-photos-during-operation-metro-surge",
+      "published_at": "2026-08-15T02:01:40+00:00",
+      "image": {
+        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/08/vlcsnap-2026-08-14-20h37m29s542.jpg",
+        "alt": ""
+      },
+      "uid": "91f5bd5a-0f0c-4aa0-a8c2-339dd5f3e9c0",
+      "description": "New court filings are shedding light on how federal agents used facial recognition technology to create visual files of protestors during Operation Metro Surge."
+    },
+    {
+      "title": "Former Assistant Anoka County Attorney charged for alleged role in prostitution ring",
+      "summary": "Andrea Leigh Sampson, 35, a former prosecutor for Anoka County, the northern suburbs of Minneapolis, is charged with 13 counts of promoting prostitution and 13 counts of receiving profits from prostitution.",
+      "source": "KARE 11",
+      "topic": "violent-crime",
+      "url": "https://www.kare11.com/article/news/local/courts-news/former-assistant-anoka-county-attorney-charged-alleged-role-prostitution-ring/89-e724a3c0-e2f7-4843-938d-c6ce1c25c776",
+      "published_at": "2026-08-15T03:06:01+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/bd2131bb-e074-42e3-972b-91d5eabe85b0/bd2131bb-e074-42e3-972b-91d5eabe85b0_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "147795d0-dbb9-4ead-ac99-cc09ce078061",
+      "description": "Andrea Leigh Sampson, 35, is charged with 13 counts of promoting prostitution and 13 counts of receiving profits from prostitution."
+    },
+    {
+      "title": "Hundreds scooter through Minneapolis in protest of Flock cameras",
+      "summary": "Hundreds protested Flock Safety cameras — the automated license-plate readers a number of Minnesota police departments have installed — in Minneapolis Friday night.",
+      "source": "KARE 11",
+      "topic": "policing",
+      "url": "https://www.kare11.com/article/news/local/minneapolis-scooter-takeover-flock-protest/89-c73684c6-620f-4188-8b2e-9f1467def6fc",
+      "published_at": "2026-08-15T03:26:13+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/e60bfe6c-d14d-4bd5-a2f1-3c39b9ebf137/20260815T022922/e60bfe6c-d14d-4bd5-a2f1-3c39b9ebf137_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "96ce7ee2-f5b5-4a16-a3cb-3f18140ad1e7",
+      "description": "Hundreds protested Flock Safety cameras in Minneapolis Friday night."
+    },
+    {
+      "title": "Family mourns Hopkins daycare victims after deadly violence",
+      "summary": "The relatives of the Brown family are sharing their grief after the devastating murders at a daycare in Hopkins, a suburb about 10 miles west of Minneapolis, and a home in Burnsville, a suburb about 15 miles south of the city, that have left the communities rattled.",
+      "source": "FOX 9",
+      "topic": "violent-crime",
+      "url": "https://www.fox9.com/news/hopkins-daycare-deaths-brown-family-issues-statement-after-gruesome-deaths",
+      "published_at": "2026-08-15T22:25:24+00:00",
+      "image": {
+        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/08/8_13_26-hopkins-236-tyler-av-n-memorial-raw_00.02.30.16.jpg",
+        "alt": ""
+      },
+      "uid": "1b5fbe32-c9f6-48c8-bda7-3ffe1fa71285",
+      "description": "The relatives of the Brown family are sharing their grief after the devastating murders at a Hopkins daycare and a Burnsville home last week that have left the communities rattled."
+    }
+  ]
+}

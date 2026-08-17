@@ -1,0 +1,125 @@
+{
+  "shortName": "Minneapolis, MN",
+  "metroCode": "33460",
+  "metro": "Minneapolis-St. Paul-Bloomington, MN-WI",
+  "date": "2026-08-14",
+  "are_you_ok": [],
+  "conversation_starters": [
+    {
+      "title": "Minnesota State Fair food vendors gear up for hungry crowds",
+      "summary": "The Minnesota State Fairgrounds, between Minneapolis and St. Paul, are buzzing as food vendors prepare for the start of the Great Minnesota Get-Together, the state fair's long-standing nickname.",
+      "source": "CBS Minnesota",
+      "topic": "civic-events",
+      "url": "https://www.cbsnews.com/minnesota/news/minnesota-state-fair-food-vendors-preparations/",
+      "published_at": "2026-08-14T22:48:00+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/14/22af9259-2bff-49ec-b2c8-8d259582a6aa/thumbnail/1024x576/66c2eae4a08abfd8d7c858bb8b4d7372/5p-pkg-state-fair-preps-wccob2z8.jpg",
+        "alt": ""
+      },
+      "uid": "e979c954-f681-4f91-8f6c-421e24dde12f",
+      "questions": [
+        "Do you make it out to the State Fair most years?",
+        "Is there a fair food you look forward to, or one you'd skip?"
+      ],
+      "description": "The Minnesota State Fairgrounds are buzzing as food vendors prepare for the start of the Great Minnesota Get-Together.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    }
+  ],
+  "sports": [
+    {
+      "team": "Timberwolves",
+      "scores": [
+        "will retire Kevin Garnett's No. 21 on Feb. 28"
+      ]
+    }
+  ],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "Federal operation targeted progressive groups, unions in Minnesota",
+      "summary": "Homeland Security officers were spying on community meetings during Operation Metro Surge, the federal enforcement push in the Minneapolis-St. Paul area, according to court documents. The federal agents went undercover to identify people they described as violent, the filings said. As Conor Wight shows, the surveillance targeted progressive groups and labor unions.",
+      "source": "CBS Minnesota",
+      "topic": "policing",
+      "url": "https://www.cbsnews.com/minnesota/video/federal-operation-targeted-progressive-groups-unions-in-minnesota/",
+      "published_at": "2026-08-14T23:42:00+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/14/5f95370e-96bb-4815-bedf-42d8a9d96cb9/thumbnail/1024x576/6df74f5b1c38b0c83290bab942c2f165/dde1a8c652df0a41fb6dfb16f9520d0f.png",
+        "alt": ""
+      },
+      "uid": "454523b9-2f94-4c23-9b24-7b52121e8a53",
+      "description": "Homeland Security officers were spying on community meetings during Operation Metro Surge, according to court documents. The federal agents went undercover to identify people they described as violent, the filings said. As Conor Wight shows, the surveillance targeted progressive",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    },
+    {
+      "title": "Alex Pretti family attorney: 'If there is no accountability, that's a dark picture for America'",
+      "summary": "",
+      "source": "KARE 11",
+      "topic": "immigration-enforcement",
+      "url": "https://www.kare11.com/article/news/local/breaking-the-news/alex-pretti-family-attorney-interview-kare/89-9823cb39-4659-48bc-9e02-7d40fe7c0101",
+      "published_at": "2026-08-14T00:29:40+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/2de90d93-472f-4b56-8d10-8328be41bc78/20260725T223932/2de90d93-472f-4b56-8d10-8328be41bc78_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "141f3fc6-0408-4aea-afbf-c543edc5275a",
+      "description": "Seven months after Alex Pretti was shot and killed by federal agents, his parents have never been told who those agents were."
+    },
+    {
+      "title": "Minnesota farmers navigate worsening drought conditions",
+      "summary": "",
+      "source": "CBS Minnesota",
+      "topic": "drought-water",
+      "url": "https://www.cbsnews.com/minnesota/video/minnesota-farmers-navigate-worsening-drought-conditions/",
+      "published_at": "2026-08-14T23:28:00+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/14/1dd25780-c5f7-4de0-8f62-893dc63a3a7f/thumbnail/1024x576/4010a689a270bc6af3b4e7cf9158295a/0150654e5c870833176ee63525c10585.png",
+        "alt": ""
+      },
+      "uid": "4b2dbee1-bb06-43fd-adec-5f6e9058e22c",
+      "description": "Minnesota’s drought is getting worse. The latest conditions show nearly half the state is dealing with severe drought conditions. That includes part of the metro. Photojournalist Ray Campos and Frankie McLister show how it's impacting Minnesota farmers.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    },
+    {
+      "title": "MN Secretary of State: Hidden camera vouching 'investigation' now faces its own investigation",
+      "summary": "Secretary of State Steve Simon said members of a political group impersonated Minnesota voters during the Aug. 11 primary election, using vouching — the state's rule letting a registered voter confirm a neighbor's address so they can register at the polls.",
+      "source": "KARE 11",
+      "topic": "elections-politics",
+      "url": "https://www.kare11.com/article/news/politics/elections/minnesota-secretary-of-state-discredits-viral-investigation-into-vouching-voter-registration/89-5d5f6f7d-a8f2-4590-bd94-59139ca7a320",
+      "published_at": "2026-08-14T22:14:18+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/f07f3fd5-fffd-4ebe-927f-6b0077a597b5/20241102T023114/f07f3fd5-fffd-4ebe-927f-6b0077a597b5_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "1954eaab-32a5-47e9-9263-522be3c17b7c",
+      "description": "Secretary of State Steve Simon said members of a political group impersonated Minnesota voters during the Aug. 11 primary election."
+    },
+    {
+      "title": "Flock camera backlash: Some Minnesota cities keep license plate readers despite privacy concerns",
+      "summary": "",
+      "source": "FOX 9",
+      "topic": "policing",
+      "url": "https://www.fox9.com/news/flock-camera-backlash-mn-cities-keep-license-plate-readers-despite-privacy-concerns-aug-2026",
+      "published_at": "2026-08-14T22:01:11+00:00",
+      "image": {
+        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/08/vlcsnap-2026-08-14-17h00m13s312.jpg",
+        "alt": ""
+      },
+      "uid": "a54fddb3-b1e2-445e-8485-b0313a4a539c",
+      "description": "The debate over Flock license plate cameras is heating up across Minnesota as some cities end their contracts while others stand by the technology."
+    },
+    {
+      "title": "Hopkins daycare deaths: Victims, alleged perpetrator ID’d by medical examiner",
+      "summary": "The medical examiner for Hennepin County, the county that contains Minneapolis and its western suburbs, has identified both the victims and alleged perpetrator involved in a murder-suicide at a daycare center in Hopkins, about 10 miles west of the city.",
+      "source": "FOX 9",
+      "topic": "violent-crime",
+      "url": "https://www.fox9.com/news/hopkins-daycare-deaths-victims-alleged-perpetrator-id-aug-14-2026",
+      "published_at": "2026-08-14T20:38:50+00:00",
+      "image": {
+        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/08/hopkins-brown-photo-sized.jpg",
+        "alt": ""
+      },
+      "uid": "814d479f-63b3-4c82-bd63-fa1caa907e98",
+      "description": "The Hennepin County Medical Examiner has identified both the victims and alleged perpetrator involved in a murder-suicide at a Hopkins daycare center."
+    }
+  ]
+}

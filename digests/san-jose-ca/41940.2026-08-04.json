@@ -53,7 +53,8 @@
       "severity": "Moderate",
       "summary": "Heat Advisory for the Santa Clara Valley and Eastern Hills (Santa Clara County, the area including and surrounding San Jose, CA), with temperatures in the 90s to low 100s until 10 PM PDT, hottest across the southern interior Santa Clara Valley and interior Eastern Hills.",
       "description": "Heat Advisory issued August 4 at 9:14AM PDT until August 4 at 10:00PM PDT by NWS San Francisco CA\n\n* WHAT...Temperatures in the 90s to low 100s.\n\n* WHERE...The Santa Clara Valley and Eastern Hills.\n\n* WHEN...Until 10 PM PDT this evening.\n\n* IMPACTS...This level of heat affects most individuals sensitive to\nheat, especially those without effective cooling and/or adequate\nhydration. Impacts possible in some health systems and in\nheat-sensitive industries.\n\n* ADDITIONAL DETAILS...Hottest temperatures southern interior Santa\nClara Valley and interior Eastern Hills.",
-      "ends": "2026-08-04T22:00:00-07:00"
+      "ends": "2026-08-04T22:00:00-07:00",
+      "uid": "7e270f0b-1c9e-55a9-a99d-13376c06b3db"
     }
   ],
   "you_should_know": [

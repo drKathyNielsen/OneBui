@@ -1,0 +1,187 @@
+{
+  "shortName": "Boulder, CO",
+  "metroCode": "14500",
+  "metro": "Boulder, CO",
+  "date": "2026-08-07",
+  "are_you_ok": [
+    {
+      "title": "Extreme heat coming to the Denver area this weekend",
+      "summary": "",
+      "source": "CBS Colorado",
+      "topic": "heat",
+      "url": "https://www.cbsnews.com/colorado/video/extreme-heat-coming-to-the-denver-area-this-weekend/",
+      "published_at": "2026-08-07T16:04:00+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/07/af8a6da9-555e-47d7-8e84-180806abc513/thumbnail/1024x576/2b9da872de0981f9b34b5e117099e353/2843e639ffafe9f49839428b52207b35.jpg",
+        "alt": ""
+      },
+      "uid": "b56d43a7-de6d-41ba-8aed-88cb38a8986d",
+      "questions": [
+        "How is the heat where you are?",
+        "Anything you do to get through days like this?"
+      ],
+      "description": "Watch Lauren Whitney's forecast",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    }
+  ],
+  "conversation_starters": [
+    {
+      "title": "Waymo begins fully driverless vehicle tests in Denver, eyes wider rollout later this year",
+      "summary": "",
+      "source": "9NEWS",
+      "topic": "transportation",
+      "url": "https://www.9news.com/article/tech/waymo-begins-fully-driverless-vehicle-tests-denver/73-097d8065-cc62-4104-9339-429105444a56",
+      "published_at": "2026-08-07T04:34:18+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/defcabee-9469-472b-9d91-4fb66004c476/20260113T051556/defcabee-9469-472b-9d91-4fb66004c476_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "5a31a36a-55b9-4313-816e-10ad72325dcd",
+      "questions": [
+        "Have you seen the driverless cars around Denver?",
+        "Would you ride in one?"
+      ],
+      "description": "Waymo has entered the next phase of autonomous vehicle testing in Denver, operating driverless cars with employees as passengers while public access remains on hold."
+    },
+    {
+      "title": "Denver opens cooling centers at all recreation centers and libraries",
+      "summary": "",
+      "source": "CBS Colorado",
+      "topic": "heat",
+      "url": "https://www.cbsnews.com/colorado/news/denver-opens-cooling-centers-recreation-centers-libraries-aug-7-2026/",
+      "published_at": "2026-08-07T19:26:38+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/07/ff4e8373-8f70-4861-9428-1cb8d76746ce/thumbnail/1024x576/022a2e2f601d47534cb34a03ea747de3/gettyimages-1499943350.jpg",
+        "alt": ""
+      },
+      "uid": "0179dec9-7028-431d-9b0a-92f3f8491725",
+      "questions": [
+        "Do the cooling centers get used much where you are?",
+        "How are you staying cool?"
+      ],
+      "description": "The City and County of Denver has activated cooling centers across the area as temperatures are expected to rise over the weekend.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    },
+    {
+      "title": "Longmont teen's drone project has helped more than 35 local businesses — for free",
+      "summary": "Braeden Macchia, of Longmont — a city about 15 miles northeast of Boulder in the same county — turned a childhood drone hobby into Drones for Dreams, providing free aerial photography and video to more than 35 nonprofits.",
+      "source": "9NEWS",
+      "topic": "human-interest",
+      "url": "https://www.9news.com/article/news/local/longmont-teen-drone-project-local-businesses/73-5c7ac17f-a14d-40aa-8191-4a2ece9ffa0e",
+      "published_at": "2026-08-07T00:50:14+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/f8e51284-725a-4c23-8f85-951a7bf2c026/20260805T224855/f8e51284-725a-4c23-8f85-951a7bf2c026_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "619b11d4-b910-4606-a600-042e51250a1f",
+      "questions": [
+        "Did you see the story about the Longmont teen and his drones?",
+        "Do you know any of the groups he has worked with?"
+      ],
+      "description": "Braeden Macchia turned a childhood drone hobby into Drones for Dreams, providing free aerial photography and video to more than 35 nonprofits."
+    },
+    {
+      "title": "Colorado records 17th wolf death, a yearling tied to livestock losses",
+      "summary": "",
+      "source": "9NEWS",
+      "topic": "other",
+      "url": "https://www.9news.com/article/news/local/colorado-wolves/colorado-17th-wolf-death/73-5a20302d-c9e1-42da-98c4-1165037ca25e",
+      "published_at": "2026-08-07T13:57:03+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/ceed519f-21eb-4d88-9b7a-b89da92f6df6/20260323T162154/ceed519f-21eb-4d88-9b7a-b89da92f6df6_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "41583c2a-3b6e-4508-b1e3-3498f2f6d60d",
+      "questions": [
+        "Have you been following the wolf reintroduction?",
+        "Does it come up much in conversation there?"
+      ],
+      "description": "Colorado had imported 25 wolves over two rounds — in December 2023 and January 2025 — with 10 coming from Oregon and 15 from British Columbia."
+    },
+    {
+      "title": "Low water levels in Colorado reveal submerged ATV, snowmobile in reservoir",
+      "summary": "Historic low water levels in Green Mountain Reservoir, in the mountains about 90 miles west of Boulder, have unveiled submerged objects, including an ATV and snowmobile, offering a rare cleanup opportunity.",
+      "source": "9NEWS",
+      "topic": "drought-water",
+      "url": "https://www.9news.com/article/life/style/colorado-guide/colorado-reservoir-atv-pulled-up/73-3f83221f-ea77-459c-b6fa-b88d4f080d4c",
+      "published_at": "2026-08-07T14:18:27+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/56efa06d-e0f4-4cc0-a0d3-f3886610f892/20260807T131706/56efa06d-e0f4-4cc0-a0d3-f3886610f892_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "ad8e638f-f98b-4b8f-bbb6-3226b88e7afe",
+      "questions": [
+        "Did you see what turned up in Green Mountain Reservoir?",
+        "Have you been out to the reservoirs this summer?"
+      ],
+      "description": "Historic low water levels in Green Mountain Reservoir have unveiled submerged objects, including an ATV and snowmobile, offering a rare cleanup opportunity."
+    },
+    {
+      "title": "Denver Water begins project to replace 136-year-old water main along Santa Fe",
+      "summary": "Denver Water, the utility serving Denver, will begin a project to replace a 136-year-old water main along Santa Fe Drive, a main north-south artery through Denver about 30 miles southeast of Boulder.",
+      "source": "CBS Colorado",
+      "topic": "transportation",
+      "url": "https://www.cbsnews.com/colorado/video/denver-water-begins-project-to-replace-136-year-old-water-main-along-santa-fe/",
+      "published_at": "2026-08-07T18:42:00+00:00",
+      "image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/07/e9d47828-a19f-4a0c-a389-1b169a9e1f57/thumbnail/1024x576/5feb09b5fa7b2be2f87f37b7bbcaaa4f/f5c12b5b150b30d3deb2bfb97e242935.jpg",
+        "alt": ""
+      },
+      "uid": "925187e6-39e8-40b4-adc0-be54d980548c",
+      "questions": [
+        "Is that water main work anywhere near your commute?",
+        "Have you run into much road construction lately?"
+      ],
+      "description": "Denver Water to begin a project next week to replace a 136-year-old water main along Santa Fe.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    }
+  ],
+  "sports": [],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "Colorado's Gunnison County sheriff tells community: \"We're done dealing with ICE\"",
+      "summary": "Gunnison County Sheriff Adam Murdie said he was done dealing with Immigration and Customs Enforcement during an emotional session of public comment at a commissioners' meeting in Gunnison County, a rural mountain county about 200 miles southwest of Boulder.",
+      "source": "CBS Colorado",
+      "topic": "immigration-enforcement",
+      "url": "https://www.cbsnews.com/colorado/news/colorados-gunnison-county-sheriff-done-ice/",
+      "published_at": "2026-08-07T17:16:24+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/07/44b8e777-a667-4d2e-a7cd-23b318d77e17/thumbnail/1024x576/b2763b75b2be7851e041bcec646a6599/gunnison-sheriff-ice-cooperation-6sot-transfer-frame-80-copy.jpg",
+        "alt": ""
+      },
+      "uid": "b2ad7a0c-6c94-4af4-8e69-242c4e15c10e",
+      "description": "Gunnison County Sheriff Adam Murdie said he was done dealing with Immigration and Customs Enforcement during an emotional session of public comment during a Gunnison County Commissioner's meeting.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    },
+    {
+      "title": "Xcel Energy considers another rate increase as some Colorado regulators question methodology",
+      "summary": "Xcel Energy, the utility that supplies electricity and gas to Boulder, Denver and much of Colorado, is considering another energy rate increase for customers, but some Colorado regulators are calling the company's methodology into question.",
+      "source": "CBS Colorado",
+      "topic": "business-jobs",
+      "url": "https://www.cbsnews.com/colorado/news/xcel-energy-rate-increase-colorado-regulators-question-methodology/",
+      "published_at": "2026-08-07T16:18:55+00:00",
+      "image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/04/21/46647933-da18-418c-91a9-b8400557199c/thumbnail/1024x576/e271e61d5ed6efedc83ca74e651cfcff/gettyimages-2268828647.jpg",
+        "alt": ""
+      },
+      "uid": "078b5596-7d87-4e3e-bc26-0201403029c6",
+      "description": "Xcel Energy is considering another energy rate increase for customers but some Colorado regulators are calling the company's methodology into question.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    },
+    {
+      "title": "Glenwood Springs votes to sue property owner over ICE holding facility",
+      "summary": "The city council in Glenwood Springs, a mountain town about 150 miles west of Boulder, voted 6-1 to move forward with a lawsuit in state court.",
+      "source": "9NEWS",
+      "topic": "immigration-enforcement",
+      "url": "https://www.9news.com/article/news/local/glenwood-springs-to-sue-property-owner-over-ice-holding-facility/73-d3cc1f57-bced-4668-b87f-eae1f1ba1a8f",
+      "published_at": "2026-08-07T05:38:56+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/dd88b659-649d-4420-b618-4dd7d02b620b/20260807T043906/dd88b659-649d-4420-b618-4dd7d02b620b_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "75ae1d42-75d9-4b58-bf1d-ff843eba5061",
+      "description": "The Glenwood Springs City Council voted 6-1 Thursday night to move forward with a lawsuit in state court."
+    }
+  ]
+}

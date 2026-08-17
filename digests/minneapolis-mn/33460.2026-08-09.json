@@ -1,0 +1,90 @@
+{
+  "shortName": "Minneapolis, MN",
+  "metroCode": "33460",
+  "metro": "Minneapolis-St. Paul-Bloomington, MN-WI",
+  "date": "2026-08-09",
+  "are_you_ok": [],
+  "conversation_starters": [
+    {
+      "title": "Minneapolis scooter takeover: Scooters and bikes ride onto I-35W, around downtown",
+      "summary": "Hundreds of scooters rode onto I-35W, the interstate that runs north–south through the middle of Minneapolis, on Saturday night as part of an apparent takeover in downtown Minneapolis.",
+      "source": "FOX 9",
+      "topic": "transportation",
+      "url": "https://www.fox9.com/news/minneapolis-scooter-takeover-scooters-bikes-ride-around-downtown-onto-i-35w",
+      "published_at": "2026-08-09T22:02:39+00:00",
+      "image": {
+        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/08/scooter-takeover.jpg",
+        "alt": ""
+      },
+      "uid": "a7678d3f-a637-4dd6-95e6-3c06f7b17a3d",
+      "questions": [
+        "Did the scooter takeover affect your commute at all?",
+        "Is that something that happens often downtown?"
+      ],
+      "description": "Hundreds of scooters rode onto I-35W on Saturday night as part of an apparent takeover in downtown Minneapolis."
+    },
+    {
+      "title": "Continental U.S.'s largest women-only triathlon returns to Minneapolis",
+      "summary": "The largest women-only triathlon in the continental U.S. returned to Lake Nokomis, a lake in south Minneapolis, on Sunday.",
+      "source": "CBS Minnesota",
+      "topic": "civic-events",
+      "url": "https://www.cbsnews.com/minnesota/news/minneapolis-ywca-womens-triathlon-2026/",
+      "published_at": "2026-08-09T22:45:11+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/09/50c1ed6e-5409-4a59-a3f8-5b21da1d3080/thumbnail/1024x576/8d930695c0d5aca289217ccde322f281/ywca.jpg",
+        "alt": ""
+      },
+      "uid": "bc05d2ea-1ad9-43ea-9b05-11e2f0dc4b04",
+      "questions": [
+        "Did you know the country's biggest women-only triathlon is held here?",
+        "Do you spend much time around the city lakes in the summer?"
+      ],
+      "description": "The largest women-only triathlon in the continental U.S. returned to Minneapolis' Lake Nokomis on Sunday.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    },
+    {
+      "title": "Uptown Porchfest returns August 15 with over 85 bands across 37 porches in Minneapolis",
+      "summary": "The annual Uptown Porchfest returns on August 15, turning porches in Uptown — a Minneapolis neighborhood just southwest of downtown — into stages for over 85 bands.",
+      "source": "KARE 11",
+      "topic": "civic-events",
+      "url": "https://www.kare11.com/article/news/local/uptown-porchfest-returns-august-15-with-over-85-bands-across-37-porches-in-minneapolis-mn/89-9119e1a4-983a-4b81-915e-06f623b13361",
+      "published_at": "2026-08-09T20:01:55+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/566da2eb-df91-43df-bf1f-1bde898f58ae/20260809T194038/566da2eb-df91-43df-bf1f-1bde898f58ae_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "26da0a26-203a-4fae-9ef9-a8376527ee64",
+      "questions": [
+        "Have you ever gone to Porchfest?",
+        "Is Uptown a part of town you spend time in?"
+      ],
+      "description": "The annual Uptown Porchfest returns on August 15, transforming Uptown, Minneapolis, porches into stages."
+    }
+  ],
+  "sports": [
+    {
+      "team": "Lynx",
+      "scores": [
+        "Lynx 103, Wings 90"
+      ]
+    }
+  ],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "After Pig's Eye closure, St. Paul encampment doubles in size near luxury apartments",
+      "summary": "The closure of the Pig's Eye Park encampment in St. Paul — the neighboring city just east of Minneapolis — prompted dozens of people living there to take up residence at a different city encampment some seven miles up the Mississippi River.",
+      "source": "CBS Minnesota",
+      "topic": "housing",
+      "url": "https://www.cbsnews.com/minnesota/news/st-paul-minnesota-pigs-eye-park-homeless-randolph-encampment-luxury-apartments/",
+      "published_at": "2026-08-09T18:03:31+00:00",
+      "image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/09/8070982c-d14e-450b-9677-d84397a26c4f/thumbnail/1024x576/e559c428852e2065efd84ad2734ab33d/sp-encampment.jpg",
+        "alt": ""
+      },
+      "uid": "f7d35932-44cc-47e5-bc55-be7b73a52c3e",
+      "description": "The closure of the Pig's Eye Park encampment in St. Paul, Minnesota, prompted dozens of people living there to take up residence at a different city encampment some seven miles up the Mississippi River.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "shortName": "Boulder, CO",
+  "metroCode": "14500",
+  "metro": "Boulder, CO",
+  "date": "2026-08-12",
+  "are_you_ok": [
+    {
+      "title": "Emergency fishing salvage ordered at Westminster lake",
+      "summary": "Colorado Parks and Wildlife has removed fishing limits at McKay Lake in Westminster, a suburb between Boulder and Denver, to save fish from drought conditions, urging locals to participate with a valid license.",
+      "source": "9NEWS",
+      "topic": "drought-water",
+      "url": "https://www.9news.com/article/life/style/colorado-guide/emergency-fishing-salvage-mckay-lake/73-9dd22014-5a57-4689-bb00-3ff980f632e3",
+      "published_at": "2026-08-12T23:49:18+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/WVEC/images/8be351c2-f245-4419-9127-e367ee987574/8be351c2-f245-4419-9127-e367ee987574_750x422.jpeg",
+        "alt": ""
+      },
+      "uid": "0ef28a65-8304-4fcb-9ebf-850dd448095c",
+      "questions": [
+        "Are the lakes near you dropping like that too?",
+        "Has the drought changed anything about your summer?"
+      ],
+      "description": "Colorado Parks and Wildlife has removed fishing limits at McKay Lake to save fish from drought conditions, urging locals to participate with a valid license."
+    }
+  ],
+  "conversation_starters": [
+    {
+      "title": "Steve Lacy, Fuerza Regida announce autumn Red Rocks concerts",
+      "summary": "Steve Lacy and Fuerza Regida are set to heat up Red Rocks Amphitheatre — the open-air venue built into the rocks in the foothills west of Denver, roughly 40 miles south of Boulder — this November, as the iconic venue continues to expand its star-studded 2026 lineup.",
+      "source": "9NEWS",
+      "topic": "civic-events",
+      "url": "https://www.9news.com/article/life/style/colorado-guide/steve-lacy-fuerza-regida-red-rocks-concerts/73-b89a2b8b-89a1-465c-af6b-d75e783ba973",
+      "published_at": "2026-08-12T14:27:18+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/cea82ee6-5ee0-4cd5-9fec-f70bbb0ed6b9/20260812T140735/cea82ee6-5ee0-4cd5-9fec-f70bbb0ed6b9_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "25421ab0-d829-41b1-a391-98cf5937ca82",
+      "questions": [
+        "Do you get out to Red Rocks much?",
+        "Is there anything on this year's lineup you're trying to see?"
+      ],
+      "description": "Steve Lacy and Fuerza Regida are set to heat up Red Rocks Amphitheatre this November, as the iconic venue continues to expand its star-studded 2026 lineup."
+    },
+    {
+      "title": "Deputy breaks van window to rescue dog in 80-degree heat",
+      "summary": "",
+      "source": "9NEWS",
+      "topic": "human-interest",
+      "url": "https://www.9news.com/article/news/local/deputy-breaks-van-window-save-dog-80-degree-heat/73-4c7ea711-6002-4bd3-ab4f-cec2344ea295",
+      "published_at": "2026-08-12T22:28:22+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/f2f11628-0127-411f-8a1e-388d56452a34/f2f11628-0127-411f-8a1e-388d56452a34_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "be0f6f77-08db-446c-973e-3ff1b3e19059",
+      "questions": [
+        "Did you see the deputy who broke a window to get a dog out of a hot van?",
+        "Does that happen a lot around here in the summer?"
+      ],
+      "description": "Animal control officers believe the dog was left unattended inside the car for nearly four hours while temperatures outside climbed into the 80s."
+    }
+  ],
+  "sports": [],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "BVSD superintendent apologizes for district’s handling of antisemitic harassment, proposes reforms",
+      "summary": "",
+      "source": "Boulder Reporting Lab",
+      "topic": "education",
+      "url": "https://boulderreportinglab.org/2026/08/11/bvsd-superintendent-apologizes-for-districts-handling-of-antisemitic-harassment-proposes-reforms/",
+      "published_at": "2026-08-12T04:11:56+00:00",
+      "image": {
+        "url": "https://i0.wp.com/boulderreportinglab.org/wp-content/uploads/2026/06/IMG_6130-scaled.jpg?fit=1024%2C768&ssl=1",
+        "alt": ""
+      },
+      "uid": "b2d951d8-c715-4291-954a-b874a08387cd",
+      "description": "A federal complaint alleges a Jewish student endured nearly two years of harassment, including slurs, assaults and an incident in which a charging cable was pulled around his neck. The post BVSD superintendent apologizes for district’s handling of antisemitic harassment,",
+      "logo": "https://boulderreportinglab.org/wp-content/uploads/2021/06/cropped-brl-favicon-32x32.png"
+    },
+    {
+      "title": "Olivia Mendoza: Boulder is putting mass surveillance technology before civil liberties",
+      "summary": "",
+      "source": "Boulder Reporting Lab",
+      "topic": "policing",
+      "url": "https://boulderreportinglab.org/2026/08/11/olivia-mendoza-boulder-is-putting-mass-surveillance-technology-before-civil-liberties/",
+      "published_at": "2026-08-12T04:48:32+00:00",
+      "image": {
+        "url": "https://i0.wp.com/boulderreportinglab.org/wp-content/uploads/2025/04/BRL_OpinionGraphic1.jpg?fit=1024%2C576&ssl=1",
+        "alt": ""
+      },
+      "uid": "dbd5996a-da10-4f69-b476-030ca4e16687",
+      "description": "As Boulder considers a long-term contract for automated license plate readers, city officials should establish stronger safeguards, public oversight and vendor accountability before selecting a provider. The post Olivia Mendoza: Boulder is putting mass surveillance technology",
+      "logo": "https://boulderreportinglab.org/wp-content/uploads/2021/06/cropped-brl-favicon-32x32.png"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "shortName": "San Antonio, TX",
+  "metroCode": "41700",
+  "metro": "San Antonio-New Braunfels, TX",
+  "date": "2026-08-14",
+  "are_you_ok": [],
+  "conversation_starters": [
+    {
+      "title": "School A-F ratings are in | Here are the best schools in the San Antonio area in the 2025-2026 year",
+      "summary": "",
+      "source": "KENS 5",
+      "topic": "education",
+      "url": "https://www.kens5.com/article/news/education/school-a-f-ratings-are-in-here-are-the-best-and-worst-schools-in-the-san-antonio-area-in-2026/273-532da11c-7375-4c9b-9102-6176715bc3b9",
+      "published_at": "2026-08-14T21:21:02+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/WFAA/images/bd3ad4e1-4a74-4abc-8f1b-a200c2609f86/20250523T122447/bd3ad4e1-4a74-4abc-8f1b-a200c2609f86_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "aa8f9de2-603e-4607-a823-c05c0925e259",
+      "questions": [
+        "Did your district come out well in the new ratings?",
+        "Do the A-F ratings actually track how people around you feel about the schools?"
+      ],
+      "description": "The Texas Education Agency releases new school ratings for 2026, showing some improvement in several San Antonio area districts."
+    },
+    {
+      "title": "'Dinos After Dark' gives zoo visitors a chance to see Jurassic era at night",
+      "summary": "",
+      "source": "KENS 5",
+      "topic": "civic-events",
+      "url": "https://www.kens5.com/article/news/local/dinos-after-dark-gives-zoo-visitors-a-chance-to-see-jurassic-era-at-night/273-8afe22de-94b3-4af8-802a-eb1c166b344f",
+      "published_at": "2026-08-14T21:35:05+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/a624b494-457d-4137-bd5d-a2ad28183f6b/20260729T135647/a624b494-457d-4137-bd5d-a2ad28183f6b_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "188d5d1b-594f-49b0-aae4-5680fb023cbb",
+      "questions": [
+        "Have you taken anyone to Dinos After Dark at the zoo?",
+        "Is the zoo a regular stop for you in the summer?"
+      ],
+      "description": "San Antonio Zoo is hosting several nights of its Dinos After Dark event, featuring illuminated dinosaurs and live entertainment."
+    },
+    {
+      "title": "Explore 400 years of Tejano history, from vaqueros to Selena at the Briscoe Western Art Museum | Everything 210",
+      "summary": "Both exhibitions are now on display at the Briscoe in downtown San Antonio, on West Market Street along the River Walk.",
+      "source": "KENS 5",
+      "topic": "civic-events",
+      "url": "https://www.kens5.com/article/news/local/everything-210/tejano-legacy-briscoe-western-art-museum-san-antonio-history-everything-210/273-8cfb3ba0-c15f-41b4-a5bb-8ed1914f1c01",
+      "published_at": "2026-08-14T12:40:42+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/a5498973-d150-41f7-b7ba-dfe2365826a2/20260811T202125/a5498973-d150-41f7-b7ba-dfe2365826a2_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "700379a5-5315-4abd-a113-681d70f13cb2",
+      "questions": [
+        "Have you made it to the Tejano exhibitions at the Briscoe?",
+        "Do you get down to that stretch downtown much?"
+      ],
+      "description": "Both exhibitions are now on display in downtown San Antonio on West Market Street."
+    }
+  ],
+  "sports": [],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "FBI conducts court-authorized operations in San Antonio neighborhood, but details are unknown",
+      "summary": "Residents of a neighborhood on the West Side — the historically Mexican-American part of San Antonio just west of downtown — awoke to a surprise FBI operation early Friday morning. The agency confirmed it was conducting a court-authorized action.",
+      "source": "KENS 5",
+      "topic": "policing",
+      "url": "https://www.kens5.com/article/news/local/law-enforcement/fbi-court-authorized-operations-san-antonio-neighborhood-details-unknown/273-93ef9d90-357d-4b7c-9e35-292d418f159e",
+      "published_at": "2026-08-14T21:33:59+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/d490b1b6-f3bf-4ae2-af35-6d3df51ec7f2/20260814T210143/d490b1b6-f3bf-4ae2-af35-6d3df51ec7f2_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "e26fefdb-c7f6-45fb-bd17-e4c2b8d7c0da",
+      "description": "Residents of a west-side neighborhood awoke to a surprise FBI operation early Friday morning. The agency confirmed it was conducting a court-authorized action."
+    }
+  ]
+}

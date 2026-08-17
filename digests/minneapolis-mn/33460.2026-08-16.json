@@ -1,0 +1,106 @@
+{
+  "shortName": "Minneapolis, MN",
+  "metroCode": "33460",
+  "metro": "Minneapolis-St. Paul-Bloomington, MN-WI",
+  "date": "2026-08-16",
+  "are_you_ok": [
+    {
+      "title": "Severe drought expands in Minnesota, threatening farms",
+      "summary": "Drought conditions have spread across much of Minnesota, with some of the state's driest conditions in central and northern Minnesota, the stretch of the state running north from the Minneapolis metro.",
+      "source": "CBS Minnesota",
+      "topic": "drought-water",
+      "url": "https://www.cbsnews.com/minnesota/news/severe-drought-expands-minnesota-aug-2026/",
+      "published_at": "2026-08-16T18:41:29+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/16/9b94f7a3-4309-445e-8bf4-27544c3c4db3/thumbnail/1024x576/a78d4604d8b36ecdaa5af767ac261015/6p-pkg-mn-drought-conditions-wccob301.jpg",
+        "alt": ""
+      },
+      "uid": "076fc922-9557-4e4f-8270-04e0f1d6e7e4",
+      "questions": [
+        "Has the drought reached where you are, or is it mostly further north?",
+        "Are you or anyone close to you dealing with water restrictions right now?"
+      ],
+      "description": "Drought conditions have spread across much of Minnesota, with some of the state's driest conditions in central and northern Minnesota.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    }
+  ],
+  "conversation_starters": [
+    {
+      "title": "Porchfest brings live music and plenty of fans to south Minneapolis",
+      "summary": "",
+      "source": "KARE 11",
+      "topic": "civic-events",
+      "url": "https://www.kare11.com/article/news/local/porchfest-music-fans-south-minneapolis/89-2504406f-6e29-43c6-ab10-3c6561327eec",
+      "published_at": "2026-08-16T03:23:20+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/e92492aa-31b3-43bd-892d-7d9d888e4b96/20260816T022741/e92492aa-31b3-43bd-892d-7d9d888e4b96_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "c9f0b696-ad12-47df-a447-d1c12b64550e",
+      "questions": [
+        "Did you get out to Porchfest this year?",
+        "A hundred bands on thirty porches sounds like a lot to navigate — how do people pick where to go?"
+      ],
+      "description": "Organizers say more than 100 bands played across 30 porches Saturday."
+    }
+  ],
+  "sports": [
+    {
+      "team": "Twins",
+      "scores": [
+        "Phillies 7, Twins 5",
+        "Phillies 9, Twins 1"
+      ]
+    },
+    {
+      "team": "Minnesota United",
+      "scores": [
+        "Minnesota United 1, Real Salt Lake 1"
+      ]
+    },
+    {
+      "team": "Lynx",
+      "scores": [
+        "Lynx 92, Aces 87"
+      ]
+    },
+    {
+      "team": "Vikings",
+      "scores": [
+        "beats Giants in preseason opener"
+      ]
+    }
+  ],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "Ex-Anoka County prosecutor charged: Expert explains trafficking allegations",
+      "summary": "A former assistant attorney for Anoka County, the northern suburbs of Minneapolis, is now facing serious charges for her alleged role in a commercial sex trafficking operation.",
+      "source": "FOX 9",
+      "topic": "violent-crime",
+      "url": "https://www.fox9.com/news/ex-anoka-county-prosecutor-charged-expert-explains-trafficking-allegations",
+      "published_at": "2026-08-16T02:32:55+00:00",
+      "image": {
+        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/08/anoka-county-prosecutor-charged.jpg",
+        "alt": ""
+      },
+      "uid": "180e756f-7fa5-4476-ac74-e11ac5dda81f",
+      "description": "A former assistant Anoka County attorney is now facing serious charges for her alleged role in a commercial sex trafficking operation."
+    },
+    {
+      "title": "Families of Hopkins daycare double murder-suicide victims release statement",
+      "summary": "The family of Kristen and Evie Brown, the victims in the double murder-suicide in Hopkins, a suburb about 10 miles west of Minneapolis, has released a statement through the Hopkins Police Department.",
+      "source": "CBS Minnesota",
+      "topic": "violent-crime",
+      "url": "https://www.cbsnews.com/minnesota/news/families-hopkins-daycare-united-statement/",
+      "published_at": "2026-08-16T00:13:11+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/15/8993b274-691d-432d-b31a-0793e45ec450/thumbnail/1024x576/8682eda8babe3a371731bca6f2fe8a86/6p-vo-hl-hopkins-statement-wccob36f.jpg",
+        "alt": ""
+      },
+      "uid": "15d923f4-8f53-4d78-935e-2bd8cdc0880c",
+      "description": "The family of Kristen and Evie Brown, the victims in Wednesday's double murder-suicide in Hopkins, Minnesota, has released a statement through the Hopkins Police Department.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    }
+  ]
+}

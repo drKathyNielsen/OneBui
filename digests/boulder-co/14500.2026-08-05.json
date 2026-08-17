@@ -3,26 +3,64 @@
   "metroCode": "14500",
   "metro": "Boulder, CO",
   "date": "2026-08-05",
-  "are_you_ok": [],
-  "conversation_starters": [],
-  "sports": [],
-  "weather_alert": [
+  "are_you_ok": [
     {
-      "event": "Red Flag Warning",
-      "area": "Boulder",
-      "severity": "Severe",
-      "summary": "Red Flag Warning (conditions favorable for rapid wildfire spread) for Boulder County, which covers Boulder, CO and the surrounding area, in effect from noon to 7 PM MDT August 5.",
-      "description": "Red Flag Warning issued August 4 at 12:20PM MDT until August 5 at 7:00PM MDT by NWS Denver CO\n\nThe National Weather Service in Denver CO has issued a Red Flag\nWarning in effect from noon to 7 PM MDT Wednesday.\n\n* AFFECTED AREA...Fire Weather Zones 212, 214, 217, and 218.\n\n* TIMING...From noon to 7 PM MDT Wednesday.\n\n* WINDS...West 10 to 15 mph with gusts up to 30 mph.\n\n* RELATIVE HUMIDITY...Between 7 to 17 percent.\n\n* IMPACTS...Conditions will be favorable for rapid fire spread. Avoid\noutdoor burning and any activity that may produce a spark and start\na wildfire.",
-      "ends": "2026-08-05T19:00:00-06:00"
-    },
-    {
-      "event": "Air Quality Alert",
-      "area": "Boulder",
-      "severity": "Unknown",
-      "summary": "Air Quality Alert for the northern Front Range Urban Corridor — including Boulder County (covering Boulder, CO) along with neighboring Larimer, Weld, Broomfield, Jefferson, Denver, Douglas, and western Adams and Arapahoe Counties, stretching south and east of Boulder — with wildfire smoke and ozone reaching levels unhealthy for sensitive groups.",
-      "description": "Air Quality Alert issued August 4 at 9:10AM MDT by NWS Denver CO\n\nThe Colorado Department of Public Health and Environment has\nissued the following...\n\nWHAT...Action Day for Multiple Pollutants.\n\nWHERE...Douglas, Jefferson, Denver, western Arapahoe, western\nAdams, Broomfield, Boulder, Larimer, and Weld Counties\n\nWHEN...400 PM Monday August 03 to 400 PM Tuesday August 04\n\nIMPACTS...Action Day for Multiple Pollutants is now in effect for\nthe Front Range Urban Corridor.  Increasing wildfire smoke will\nresult in fine particulate concentrations reaching the Unhealthy\nfor Sensitive Groups category throughout the northern Front Range\nregion. Additionally, ozone could reach the Unhealthy for\nSensitive Groups category during the afternoons and evenings.  For\nColorado air quality conditions, forecasts, and advisories, visit:\nhttps://www.colorado.gov/airquality/colorado_summary.aspx   If\npossible, please help us reduce ozone pollution by limiting\ndriving gas and diesel-powered vehicles until at least 4 p.m.\nTuesday, August 4, 2026. Colorado is also addressing ozone\npollution through state policies. For more information about\nhealth impacts and how ozone pollution forms in Colorado, visit:\nhttps://cdphe.colorado.gov/ozone- pollution-and-your-health\n\nHEALTH INFORMATION...Increasing likelihood of respiratory symptoms\nin sensitive individuals, aggravation of heart or lung disease and\npremature mortality in people with cardiopulmonary disease and\nolder adults. People with heart or lung disease, older adults, and\nchildren should reduce prolonged or heavy exertion.",
-      "ends": "2026-08-05T09:00:00-06:00"
+      "title": "Denver has coolest morning in 50 days, ties record low",
+      "summary": "",
+      "source": "9NEWS",
+      "topic": "air-quality",
+      "url": "https://www.9news.com/article/weather/weather-colorado/denver-ties-record-low-temp-august-5/73-501b7945-6cfd-4cc8-be64-36fd8f13d6a4",
+      "published_at": "2026-08-05T16:06:14+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/b382eb01-628d-490e-ab15-bfd3fc551cb0/20260324T135528/b382eb01-628d-490e-ab15-bfd3fc551cb0_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "9d58e66f-de69-4472-9b70-c513a392edd0",
+      "questions": [
+        "Did you get a break from the heat?",
+        "Is the wildfire smoke affecting you?"
+      ],
+      "description": "Denver ties a record low temperature of 48 degrees, last seen in 1978, amidst a short-lived cool spell. Air quality suffers from wildfire smoke, prompting alerts."
     }
   ],
-  "you_should_know": []
+  "conversation_starters": [],
+  "sports": [
+    {
+      "team": "Rockies",
+      "scores": [
+        "Rays 5, Rockies 4 (11 inn)"
+      ]
+    }
+  ],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "Small town of Lochbuie approves 5-year moratorium on data centers, longest pause in Colorado",
+      "summary": "In Lochbuie, a small town on the plains northeast of Denver about 30 miles east of Boulder, the lone councilmember to vote against the measure said the five-year timeframe was too long.",
+      "source": "9NEWS",
+      "topic": "data-centers",
+      "url": "https://www.9news.com/article/news/local/lochbuie-5-year-moratorium-data-centers/73-9d2c9358-f5d0-40ba-8242-52f11eff182c",
+      "published_at": "2026-08-05T22:02:11+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/db0df4e2-a552-465d-bf4c-87b282d9622b/20260805T212006/db0df4e2-a552-465d-bf4c-87b282d9622b_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "03bba52f-d3bf-4469-8e6c-af4fc1b5258d",
+      "description": "The lone councilmember to vote against the measure said the five-year timeframe was too long."
+    },
+    {
+      "title": "Jury unlikely to learn officer charged in man's killing had his credibility questioned by judge",
+      "summary": "",
+      "source": "9NEWS",
+      "topic": "policing",
+      "url": "https://www.9news.com/article/news/crime/officer-charged-killing-judge-jury/73-e93495bb-c2ca-4a59-83cf-8518edd5fded",
+      "published_at": "2026-08-05T23:39:14+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/ba65207a-694f-4fa5-81fd-01bcaea30d03/20260531T033140/ba65207a-694f-4fa5-81fd-01bcaea30d03_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "8f2db335-a4fc-40cc-8f29-543167fc1c8a",
+      "description": "Matthew Neeley was accused of second-degree murder in the 2025 fatal shooting Rajon Belt-Stubblefield, 37, after a traffic stop."
+    }
+  ]
 }

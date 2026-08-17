@@ -1,0 +1,45 @@
+{
+  "shortName": "San Antonio, TX",
+  "metroCode": "41700",
+  "metro": "San Antonio-New Braunfels, TX",
+  "date": "2026-08-15",
+  "are_you_ok": [
+    {
+      "title": "H-E-B recalls jalapeño products over potential salmonella contamination",
+      "summary": "H-E-B, the San Antonio-based grocery chain that dominates Texas, said all products currently available in its stores are safe and are not impacted by the recall.",
+      "source": "KENS 5",
+      "topic": "product-recall",
+      "url": "https://www.kens5.com/article/life/food/h-e-b-recalls-jalapeo-products-over-potential-salmonella-contamination/273-87231fea-0836-4844-b562-3b0ef922e51c",
+      "published_at": "2026-08-15T15:13:20+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/WHAS/images/38cb075b-0736-4092-bcdf-812835807692/20260810T203939/38cb075b-0736-4092-bcdf-812835807692_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "dc826b44-2753-449f-badf-06e824f6d330",
+      "questions": [
+        "Did the recall affect anything you'd bought?",
+        "Have you had to throw much out?"
+      ],
+      "description": "H-E-B said all products currently available in its stores are safe and are not impacted by the recall."
+    }
+  ],
+  "conversation_starters": [],
+  "sports": [],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "SAPD officers seen fatally shooting armed suspect in newly shared bodycam video",
+      "summary": "",
+      "source": "KENS 5",
+      "topic": "policing",
+      "url": "https://www.kens5.com/article/news/local/law-enforcement/san-antonio-police-deadly-shooting-sapd-armed-man-suspect-hammond-avenue-bodycam/273-3b62e392-58cf-411d-a692-e9d64221514d",
+      "published_at": "2026-08-15T14:23:50+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/ab719281-3bdb-40da-9622-5e344612a63a/20260814T231222/ab719281-3bdb-40da-9622-5e344612a63a_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "28c81942-4986-496b-b563-d728fa4b85ef",
+      "description": "The early morning confrontation began with police trying to stop a bicyclist on the sidewalk before he is seen in the footage trying to escape."
+    }
+  ]
+}

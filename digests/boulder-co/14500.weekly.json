@@ -4,317 +4,407 @@
   "metroCode": "14500",
   "metro": "Boulder, CO",
   "range": {
-    "start": "2026-07-29",
-    "end": "2026-08-04"
+    "start": "2026-08-10",
+    "end": "2026-08-16"
   },
   "are_you_ok": [
     {
-      "title": "Smoke impacts Front Range with record heat, cooler weather on the way",
-      "summary": "The National Weather Service office in Boulder issued a heat advisory covering the entire Front Range (the populous corridor along the eastern edge of the Rocky Mountains that includes Boulder and Denver), taking effect at noon on Sunday and continuing through Monday. As the advisory held, the region also contended with gusty storms and wildfire smoke, and Denver set a new daily high-temperature record for Aug. 3 on Monday afternoon. Forecasters pointed to relief on Tuesday, with temperatures easing to around 80 degrees.",
+      "title": "Heavy rain drenches Colorado",
+      "summary": "A wet stretch moved across Colorado: forecasters warned first of flash flooding on Friday and Saturday, especially over burn scars — hillsides stripped by past wildfires where rain runs off instead of soaking in. Severe thunderstorms then hit Denver and the plains east of the mountains with rain and hail on Saturday afternoon, and by the end of the weekend the rain had left roads and trails muddy and put parts of the Denver metro, southeast of Boulder, under flood warnings.",
       "source": "9NEWS",
-      "topic": "heat",
-      "url": "https://www.9news.com/article/weather/weather-impact/wildfire-smoke-forecast-denver/73-6dbfa821-0708-4e96-a1a8-93096914389e",
-      "published_at": "2026-08-03T23:54:36+00:00",
+      "topic": "flood",
+      "url": "https://www.9news.com/article/weather/weather-colorado/rain-totals-colorado/73-4e5d798b-7f70-4a5c-935b-37aaf948596c",
+      "published_at": "2026-08-16T17:49:22+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/KUSA/images/e2538d09-5525-4e3a-a8ee-7f3e1dee10e4/20260803T215405/e2538d09-5525-4e3a-a8ee-7f3e1dee10e4_750x422.jpg",
+        "url": "https://media.tegna-media.com/assets/KUSA/images/a9c4301f-9250-455b-a16d-89b14ee6c50a/20260816T123709/a9c4301f-9250-455b-a16d-89b14ee6c50a_750x422.jpg",
         "alt": ""
       },
-      "uid": "c523253d-8678-4804-8481-80d3ecb443fc",
-      "description": "A Heat Advisory remains in effect, with gusty storms and wildfire smoke expected. Relief comes on Tuesday as temperatures drop to 80 degrees.",
+      "uid": "2cdcb4b8-d62f-4c76-9cc0-675301878f0b",
+      "description": "Heavy rain soaked parts of Colorado this weekend, leaving roads and trails muddy and prompting flood warnings in portions of the Denver metro area.",
       "questions": [
-        "How has the heat and wildfire smoke been where you are?",
-        "Have you had to change any routines because of the air quality?"
+        "Did the rain cause any trouble where you are?",
+        "Are the trails around you washed out, or did Boulder mostly miss it?"
       ],
       "thread": [
         {
-          "title": "9NEWS Weather Impact Alert issued for Sunday and Monday",
+          "title": "Heavy rain forecast raises flash flood risks in Colorado through weekend",
           "summary": "",
           "source": "9NEWS",
-          "topic": "heat",
-          "url": "https://www.9news.com/article/weather/weather-impact/denver-colorado-front-range-weather-alert-hot-temps/73-0515fd9c-2c8b-4db4-aefd-897cf7d9bf43",
-          "published_at": "2026-08-02T15:57:57+00:00",
+          "topic": "flood",
+          "url": "https://www.9news.com/article/weather/weather-colorado/rain-chances-denver-colorado-forecast/73-62c25a62-9de4-4bd3-af12-f8c28982afc0",
+          "published_at": "2026-08-14T22:33:10+00:00",
           "image": {
-            "url": "https://media.tegna-media.com/assets/KUSA/images/ef4d73d4-ebd8-469f-bfac-274c10b5338e/20260801T112859/ef4d73d4-ebd8-469f-bfac-274c10b5338e_750x422.jpg",
+            "url": "https://media.tegna-media.com/assets/KUSA/images/bad53148-f0b2-4ade-b3c7-8ec593a8ba89/20260814T100736/bad53148-f0b2-4ade-b3c7-8ec593a8ba89_750x422.jpg",
             "alt": ""
           },
-          "uid": "221ba0e1-8e0b-4ef3-a6b9-08171738abf6",
-          "description": "The National Weather Service in Boulder has issued a heat advisory for the entire Front Range starting at noon Sunday."
+          "uid": "2a3b1273-7d1e-4563-ab95-7efb2f6b0b14",
+          "description": "Colorado faces a risk of flash flooding with storms likely on Friday and Saturday, especially in burn scar areas. Stay alert and avoid flooded roads."
         },
         {
-          "title": "Smoke impacts Front Range with record heat, cooler weather on the way",
+          "title": "Severe thunderstorms bring heavy rain, hail to Denver Saturday",
           "summary": "",
           "source": "9NEWS",
-          "topic": "heat",
-          "url": "https://www.9news.com/article/weather/weather-impact/wildfire-smoke-forecast-denver/73-6dbfa821-0708-4e96-a1a8-93096914389e",
-          "published_at": "2026-08-03T23:54:36+00:00",
+          "topic": "severe-weather",
+          "url": "https://www.9news.com/article/weather/severe-weather/severe-storm-warning-denver-metro-area/73-6e35649b-2014-442b-b63b-b6c657e43002",
+          "published_at": "2026-08-15T20:18:16+00:00",
           "image": {
-            "url": "https://media.tegna-media.com/assets/KUSA/images/e2538d09-5525-4e3a-a8ee-7f3e1dee10e4/20260803T215405/e2538d09-5525-4e3a-a8ee-7f3e1dee10e4_750x422.jpg",
+            "url": "https://media.tegna-media.com/assets/KUSA/images/e46730ea-658e-49b9-a98f-8b395aed232b/20260815T143244/e46730ea-658e-49b9-a98f-8b395aed232b_750x422.jpg",
             "alt": ""
           },
-          "uid": "c523253d-8678-4804-8481-80d3ecb443fc",
-          "description": "A Heat Advisory remains in effect, with gusty storms and wildfire smoke expected. Relief comes on Tuesday as temperatures drop to 80 degrees."
+          "uid": "ae57a684-66f0-4a1d-b7e4-1fbc799f8582",
+          "description": "Severe thunderstorms brought heavy rain and hail Saturday afternoon in Denver and on the Colorado plains."
         },
         {
-          "title": "Denver reaches a new record high temperature for Aug. 3",
+          "title": "Heavy rain drenches Colorado",
           "summary": "",
-          "source": "CBS Colorado",
-          "topic": "heat",
-          "url": "https://www.cbsnews.com/colorado/news/denver-heat-record-high-temperature/",
-          "published_at": "2026-08-04T00:45:29+00:00",
+          "source": "9NEWS",
+          "topic": "flood",
+          "url": "https://www.9news.com/article/weather/weather-colorado/rain-totals-colorado/73-4e5d798b-7f70-4a5c-935b-37aaf948596c",
+          "published_at": "2026-08-16T17:49:22+00:00",
           "image": {
-            "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/03/250ba242-0596-4c77-a628-2d742fe3a8d6/thumbnail/1024x576/e1370e29f0d61562b43dc215cb49e65e/denver.jpg",
+            "url": "https://media.tegna-media.com/assets/KUSA/images/a9c4301f-9250-455b-a16d-89b14ee6c50a/20260816T123709/a9c4301f-9250-455b-a16d-89b14ee6c50a_750x422.jpg",
             "alt": ""
           },
-          "uid": "119722ea-e504-4599-bd92-26071110ab06",
-          "description": "A new daily high temperature record for Denver on Aug. 3 was set on Monday afternoon, according to the National Weather Service.",
-          "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+          "uid": "2cdcb4b8-d62f-4c76-9cc0-675301878f0b",
+          "description": "Heavy rain soaked parts of Colorado this weekend, leaving roads and trails muddy and prompting flood warnings in portions of the Denver metro area."
         }
       ]
     },
     {
-      "title": "Ground stop in place for Denver International Airport as storms move in",
-      "summary": "Denver International Airport was placed under a ground stop as thunderstorms moved into the area, halting flight operations at the region's main airport.",
-      "source": "CBS Colorado",
-      "topic": "severe-weather",
-      "url": "https://www.cbsnews.com/colorado/news/ground-stop-denver-international-airport-july-31-2026/",
-      "published_at": "2026-08-01T00:16:00+00:00",
+      "title": "'Nothing left here': Westminster lake shrinks as Colorado drought has forced 48 closures",
+      "summary": "Drought pushed McKay Lake in Westminster, a suburb between Boulder and Denver, low enough that Colorado Parks and Wildlife ordered an emergency fish salvage — lifting all catch limits so anglers with a license could take fish that would otherwise die. The lake is one of 48 waters the state has had to close or restrict as the drought deepens.",
+      "source": "9NEWS",
+      "topic": "drought-water",
+      "url": "https://www.9news.com/article/news/local/westminster-lake-shrinks-colorado-drought-closures-mckay/73-98772580-8426-490c-bc9b-fa898422d6f9",
+      "published_at": "2026-08-13T04:05:39+00:00",
       "image": {
-        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/10/08/bc4ab721-f111-4d8a-9ce6-3104e43d7072/thumbnail/1024x576/87a0d2bbec5a35e12d9ac94e9e6656e7/gov-shutdown-airport-issues-10pkg-transfer-frame-1350.jpg",
+        "url": "https://media.tegna-media.com/assets/KUSA/images/a164f1c9-a877-41bc-8ff1-d2e3a62520fa/20260813T013459/a164f1c9-a877-41bc-8ff1-d2e3a62520fa_750x422.jpg",
         "alt": ""
       },
-      "uid": "fe9c9c3f-10f9-4686-8557-f9527c8dc49d",
-      "description": "A ground stop has been issued for Denver International Airport due to thunderstorms moving into the area.",
-      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg",
-      "questions": [
-        "Have the storms around Denver International Airport disrupted any of your travel plans?",
-        "How has the stormy weather been where you are?"
+      "uid": "2ea974cd-c258-4735-8560-8b1fe4739775",
+      "description": "Colorado Parks and Wildlife issued an emergency fish salvage at McKay Lake due to severe drought, lifting all bag and possession limits.",
+      "thread": [
+        {
+          "title": "Emergency fishing salvage ordered at Westminster lake",
+          "summary": "",
+          "source": "9NEWS",
+          "topic": "drought-water",
+          "url": "https://www.9news.com/article/life/style/colorado-guide/emergency-fishing-salvage-mckay-lake/73-9dd22014-5a57-4689-bb00-3ff980f632e3",
+          "published_at": "2026-08-12T23:49:18+00:00",
+          "image": {
+            "url": "https://media.tegna-media.com/assets/WVEC/images/8be351c2-f245-4419-9127-e367ee987574/8be351c2-f245-4419-9127-e367ee987574_750x422.jpeg",
+            "alt": ""
+          },
+          "uid": "0ef28a65-8304-4fcb-9ebf-850dd448095c",
+          "description": "Colorado Parks and Wildlife has removed fishing limits at McKay Lake to save fish from drought conditions, urging locals to participate with a valid license."
+        },
+        {
+          "title": "'Nothing left here': Westminster lake shrinks as Colorado drought has forced 48 closures",
+          "summary": "",
+          "source": "9NEWS",
+          "topic": "drought-water",
+          "url": "https://www.9news.com/article/news/local/westminster-lake-shrinks-colorado-drought-closures-mckay/73-98772580-8426-490c-bc9b-fa898422d6f9",
+          "published_at": "2026-08-13T04:05:39+00:00",
+          "image": {
+            "url": "https://media.tegna-media.com/assets/KUSA/images/a164f1c9-a877-41bc-8ff1-d2e3a62520fa/20260813T013459/a164f1c9-a877-41bc-8ff1-d2e3a62520fa_750x422.jpg",
+            "alt": ""
+          },
+          "uid": "2ea974cd-c258-4735-8560-8b1fe4739775",
+          "description": "Colorado Parks and Wildlife issued an emergency fish salvage at McKay Lake due to severe drought, lifting all bag and possession limits."
+        }
       ]
     }
   ],
   "conversation_starters": [
     {
-      "title": "Flights diverted from Denver to Colorado Springs due to severe weather",
-      "summary": "Severe weather forced flights bound for Denver to divert to Colorado Springs, a city roughly an hour south. Five passengers received medical attention during the disruption, and one was taken to a hospital.",
-      "source": "9NEWS",
-      "topic": "severe-weather",
-      "url": "https://www.9news.com/article/travel/denver-international-airport/dia-flights-diverted-severe-weather/73-98228a78-8540-470a-a521-c1395ea9a533",
-      "published_at": "2026-08-04T13:24:07+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KUSA/images/de13580a-fdf0-4b33-b659-f4cacfb84fe3/20260804T132349/de13580a-fdf0-4b33-b659-f4cacfb84fe3_750x422.jpg",
-        "alt": ""
-      },
-      "uid": "afaa2e31-9552-4355-ab1d-3a882670c695",
-      "description": "Five passengers received medical attention and one passenger was taken to the hospital.",
-      "questions": [
-        "Did you hear about the flights getting diverted from Denver down to Colorado Springs because of the storms?",
-        "Has the severe weather in the area affected any of your travel plans?"
-      ]
-    },
-    {
-      "title": "Denver experiences 50-degree temperature swing as wildfire smoke moves in",
-      "summary": "Denver saw an extraordinary 50-degree temperature swing within a 14-hour span, and wildfire smoke moving into the area added smoky skies to an already dramatic shift in conditions.",
-      "source": "9NEWS",
-      "topic": "air-quality",
-      "url": "https://www.9news.com/article/weather/weather-colorado/denver-temperature-swing-wildfire-smoke/73-4690ac03-7a99-4473-9bf5-cc13cb2092cb",
-      "published_at": "2026-08-04T16:45:28+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KUSA/images/c9691a84-6f9b-4e72-a90e-391de57de562/20260706T182709/c9691a84-6f9b-4e72-a90e-391de57de562_750x422.jpg",
-        "alt": ""
-      },
-      "uid": "855da9ff-8558-467d-82b7-97e376e23337",
-      "description": "Denver experienced an extraordinary 50-degree temperature swing within 14 hours, with smoky skies adding to the dramatic weather change.",
-      "questions": [
-        "Did you notice that big temperature swing and the smoke moving in?",
-        "How have the smoky skies been affecting things where you are?"
-      ]
-    },
-    {
-      "title": "Coloradans celebrate 150 years of statehood",
-      "summary": "Colorado marked the 150th anniversary of its statehood on Saturday, the anniversary of its 1876 admission to the Union. Celebrations were held across the state, including a mile-long table set for 5,280 guests — a number chosen to echo Denver's 'Mile High' elevation of 5,280 feet.",
+      "title": "Mobile home residents in Colorado race to make competing offer for Boulder County park",
+      "summary": "Residents of San Lazaro Mobile Home Park, in Boulder County, are trying to buy the place they live. The park is on the market for $42.5 million, and the residents have until December to put together a competing offer of their own.",
       "source": "CBS Colorado",
-      "topic": "civic-events",
-      "url": "https://www.cbsnews.com/colorado/video/coloradans-celebrate-150-years-of-statehood/",
-      "published_at": "2026-08-02T01:36:00+00:00",
+      "topic": "housing",
+      "url": "https://www.cbsnews.com/colorado/news/san-lazaro-mobile-home-park-residents-colorado-offer-boulder-county-park/",
+      "published_at": "2026-08-11T13:42:26+00:00",
       "image": {
-        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/02/190e5a37-8ae6-42b4-b17c-98e6da59fecd/thumbnail/1024x576/e9e52a4c0d9c551a1352915e936b6877/ae84890603e5eb91c8dfafc855e046be.jpg",
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/05/28/b3d95980-07dc-464b-91f2-2f91ad66efe8/thumbnail/1024x576/145d150877e990685658c00fed4586d9/boulder-mobile-home-park-10pkg-transfer-frame-2938.jpg",
         "alt": ""
       },
-      "uid": "316cc110-d313-45db-8986-3092d60c460d",
-      "description": "Saturday marked Colorado's 150th birthday. It became a state on this date in 1876, and Coloradans celebrated with a number of events across the state.",
+      "uid": "c2721da7-3055-4a09-a31f-fefc5efb2f15",
+      "description": "Residents have until December to submit an offer for San Lazaro Mobile Home Park, which is listed for $42.5 million.",
       "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg",
-      "thread": [
-        {
-          "title": "Coloradans celebrate 150 years of statehood",
-          "summary": "",
-          "source": "CBS Colorado",
-          "topic": "civic-events",
-          "url": "https://www.cbsnews.com/colorado/video/coloradans-celebrate-150-years-of-statehood/",
-          "published_at": "2026-08-02T01:36:00+00:00",
-          "image": {
-            "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/02/190e5a37-8ae6-42b4-b17c-98e6da59fecd/thumbnail/1024x576/e9e52a4c0d9c551a1352915e936b6877/ae84890603e5eb91c8dfafc855e046be.jpg",
-            "alt": ""
-          },
-          "uid": "316cc110-d313-45db-8986-3092d60c460d",
-          "description": "Saturday marked Colorado's 150th birthday. It became a state on this date in 1876, and Coloradans celebrated with a number of events across the state.",
-          "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
-        },
-        {
-          "title": "Colorado's 150th celebrations include mile-long table with 5,280 guests",
-          "summary": "",
-          "source": "CBS Colorado",
-          "topic": "civic-events",
-          "url": "https://www.cbsnews.com/colorado/video/colorados-150th-celebrations-include-mile-long-table-with-5-280-guests/",
-          "published_at": "2026-08-03T18:02:00+00:00",
-          "image": {
-            "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/03/19f77c9a-a76b-48f3-9b64-a27a01d7e250/thumbnail/1024x576/ed48c3ee1753532c80968a3da48089c1/392d0542b252c561466d8604a62a05a3.jpg",
-            "alt": ""
-          },
-          "uid": "e2b16fd1-63ae-4d63-a961-0e8a342859e4",
-          "description": "Colorado's 150th celebrations over the weekend included a mile-long table with 5,280 guests.",
-          "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
-        }
+      "questions": [
+        "Have you been following what happens to the San Lazaro park residents?",
+        "Is a mobile home park a common way people afford to stay in the area?"
       ]
     },
     {
-      "title": "Artemis II astronauts discuss mission at Red Rocks event",
-      "summary": "The crew of Artemis II — billed as humanity's first trip to the moon in over 50 years — appeared at Red Rocks, a well-known outdoor amphitheater west of Denver. Across the event, the astronauts took the stage to discuss the mission and shared insights and footage from their lunar journey.",
-      "source": "9NEWS",
-      "topic": "civic-events",
-      "url": "https://www.9news.com/article/tech/science/aerospace/artemis-ii-astronauts-mission-red-rocks/73-763d5e29-e35f-4103-be88-5bc82060cec3",
-      "published_at": "2026-08-03T22:43:41+00:00",
+      "title": "Bear tears through screen, breaks into Colorado Cherry Company building to eat blueberry pie",
+      "summary": "A young bear tore through a screen to get into the Colorado Cherry Company on Highway 36 north of Lyons — the road running northwest out of Boulder through that small town, about 15 miles away — and ate a blueberry pie, one more sign of a bear season that drought has pushed toward people.",
+      "source": "CBS Colorado",
+      "topic": "human-interest",
+      "url": "https://www.cbsnews.com/colorado/news/bear-colorado-cherry-company-pie/",
+      "published_at": "2026-08-15T04:22:26+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/KUSA/images/f3590370-25ec-4f8a-b9dd-b3b61d371957/20260803T161435/f3590370-25ec-4f8a-b9dd-b3b61d371957_750x422.jpg",
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/15/839f74de-2df4-4c03-98b6-5eb1f9750579/thumbnail/1024x576/4f81ef5fe63a2a80c10198d7b3a6fcc5/bear1.jpg",
         "alt": ""
       },
-      "uid": "9a8b90da-ac9b-4d01-82ef-2df4f7ce186f",
-      "description": "The Artemis II crew shared insights and footage from their historic lunar mission at a Colorado event, marking humanity's first moon trip in over 50 years.",
+      "uid": "25a44a56-ad65-4c1f-9280-ea1a96cbefab",
+      "description": "A young bear broke into the Colorado Cherry Company's location on Highway 36 north of Lyons to chow down on a blueberry pie.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg",
       "questions": [
-        "Did you catch the Artemis II astronauts speaking at Red Rocks?",
-        "Have you ever been to an event at Red Rocks?"
+        "Did you see the bear that broke in for a blueberry pie up by Lyons?",
+        "Are bears getting into things where you live this year?"
+      ]
+    },
+    {
+      "title": "New Colorado law inspired by Megan Trussell's case requires colleges to act within 6 hours when students go missing",
+      "summary": "A new Colorado law, prompted by the case of missing student Megan Trussell, now requires colleges and universities in the state to take action within six hours of a student being reported missing.",
+      "source": "CBS Colorado",
+      "topic": "education",
+      "url": "https://www.cbsnews.com/colorado/news/new-colorado-law-megan-trussell-colleges-act-6-hours-student-missing/",
+      "published_at": "2026-08-13T02:34:00+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/06/21/356ad2c1-ec65-437c-952d-8df6620dff78/thumbnail/1024x576/31ac5d169f39fe87cf6d509b861d3c7e/megan-trussell.jpg",
+        "alt": ""
+      },
+      "uid": "7c5cdd72-325f-45f1-bbb9-3fd2e651f0a6",
+      "description": "A new Colorado law creates specific requirements for higher education institutions, including a six-hour window for schools to take action if a student is reported missing.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg",
+      "questions": [
+        "Had you been following the case behind that new law?",
+        "Do you think a six-hour window changes much for campuses here?"
+      ]
+    },
+    {
+      "title": "Boulder envisioned an all-electric Pearl Street Mall. That plan is shrinking.",
+      "summary": "Boulder's plan to make the downtown Pearl Street shopping district all-electric is getting smaller. Xcel, the utility that supplies gas and electricity to Boulder and most of Colorado, now says only about 24 buildings are connected to the aging downtown gas line, well down from the 66 originally believed — and those customers will be able to keep their natural gas service.",
+      "source": "Boulder Reporting Lab",
+      "topic": "other",
+      "url": "https://boulderreportinglab.org/2026/08/09/boulder-envisioned-an-all-electric-pearl-street-mall-that-plan-is-shrinking/",
+      "published_at": "2026-08-10T03:00:00+00:00",
+      "image": {
+        "url": "https://i0.wp.com/boulderreportinglab.org/wp-content/uploads/2026/08/PearlStreet4-scaled.jpg?fit=1024%2C768&ssl=1",
+        "alt": ""
+      },
+      "uid": "3bcdbabb-d607-40be-9b1c-a20a9ce9fd64",
+      "description": "Xcel now says only about 24 buildings are connected to an aging gas line in downtown Boulder, down from the 66 originally believed. Those customers will be able to keep natural gas service. The post Boulder envisioned an all-electric Pearl Street Mall. That plan is shrinking.",
+      "logo": "https://boulderreportinglab.org/wp-content/uploads/2021/06/cropped-brl-favicon-32x32.png",
+      "questions": [
+        "Have you been following the Pearl Street gas line question?",
+        "Do you spend much time downtown?"
+      ]
+    },
+    {
+      "title": "Savannah Bananas expected to bring Denver business boom",
+      "summary": "The Savannah Bananas — the touring baseball act known more for choreography than for baseball — came back to Denver, about 30 miles southeast of Boulder, for weekend shows at Coors Field, with a player meet-and-greet at a Dunkin' in the suburb of Greenwood Village and a business boost expected for downtown.",
+      "source": "9NEWS",
+      "topic": "civic-events",
+      "url": "https://www.9news.com/article/life/style/colorado-guide/savannah-bananas-denver-business-boom/73-adf22979-ec51-4eeb-914d-ff8d1b292a3c",
+      "published_at": "2026-08-14T16:35:13+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/a1a69c77-fbf7-4004-8765-bad29ea96415/20260814T163121/a1a69c77-fbf7-4004-8765-bad29ea96415_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "5af620b1-8d61-41b6-86ff-824d1432b55f",
+      "description": "The viral dancing sensation is set to return to the Mile High City on Friday and Saturday, generating dollars for downtown Denver businesses.",
+      "questions": [
+        "Are you going to catch the Savannah Bananas while they're in Denver?",
+        "Have you seen them before? I hear it's less baseball than show."
       ],
       "thread": [
         {
-          "title": "Artemis II astronauts discuss mission at Red Rocks event",
+          "title": "Savannah Bananas to stop by Dunkin' store in Colorado",
           "summary": "",
           "source": "9NEWS",
           "topic": "civic-events",
-          "url": "https://www.9news.com/article/tech/science/aerospace/artemis-ii-astronauts-mission-red-rocks/73-763d5e29-e35f-4103-be88-5bc82060cec3",
-          "published_at": "2026-08-03T22:43:41+00:00",
+          "url": "https://www.9news.com/article/life/style/colorado-guide/savannah-bananas-dunkin-donuts-colorado/73-639c0875-48d9-4943-9d26-c9cc66a382cc",
+          "published_at": "2026-08-11T14:13:13+00:00",
           "image": {
-            "url": "https://media.tegna-media.com/assets/KUSA/images/f3590370-25ec-4f8a-b9dd-b3b61d371957/20260803T161435/f3590370-25ec-4f8a-b9dd-b3b61d371957_750x422.jpg",
+            "url": "https://media.tegna-media.com/assets/KUSA/images/f146b53a-481f-4e02-9810-77c2c8acc55c/20260811T140333/f146b53a-481f-4e02-9810-77c2c8acc55c_750x422.jpg",
             "alt": ""
           },
-          "uid": "9a8b90da-ac9b-4d01-82ef-2df4f7ce186f",
-          "description": "The Artemis II crew shared insights and footage from their historic lunar mission at a Colorado event, marking humanity's first moon trip in over 50 years."
+          "uid": "b9fc7e55-c7e2-4da5-b0f9-c26bc68bc3d6",
+          "description": "Catch the Savannah Bananas in Denver this weekend as they bring their show to Coors Field. Meet the players at Dunkin' in Greenwood Village on Friday."
         },
         {
-          "title": "Artemis II crew takes the stage at Red Rocks",
+          "title": "Savannah Bananas expected to bring Denver business boom",
           "summary": "",
-          "source": "CBS Colorado",
+          "source": "9NEWS",
           "topic": "civic-events",
-          "url": "https://www.cbsnews.com/colorado/video/artemis-ii-crew-takes-the-stage-at-red-rocks/",
-          "published_at": "2026-08-04T12:47:00+00:00",
+          "url": "https://www.9news.com/article/life/style/colorado-guide/savannah-bananas-denver-business-boom/73-adf22979-ec51-4eeb-914d-ff8d1b292a3c",
+          "published_at": "2026-08-14T16:35:13+00:00",
           "image": {
-            "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/04/b1b518b4-9243-439a-9edf-a607c0c8d423/thumbnail/1024x576/43d01808fb1d630c0a48fe1f4d3c2ade/8030263e35c5224aa0376e9a9d4cf31d.jpg",
+            "url": "https://media.tegna-media.com/assets/KUSA/images/a1a69c77-fbf7-4004-8765-bad29ea96415/20260814T163121/a1a69c77-fbf7-4004-8765-bad29ea96415_750x422.jpg",
             "alt": ""
           },
-          "uid": "32ab0b3a-e2b9-4f33-8c52-3a0e5490e080",
-          "description": "The Artemis II crew took the stage at Red Rocks to talk about their latest space mission.",
-          "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+          "uid": "5af620b1-8d61-41b6-86ff-824d1432b55f",
+          "description": "The viral dancing sensation is set to return to the Mile High City on Friday and Saturday, generating dollars for downtown Denver businesses."
         }
-      ]
-    },
-    {
-      "title": "Broncos share new renderings of what Burnham Yard stadium site could look like",
-      "summary": "The Denver Broncos, the region's NFL team, released new renderings of a potential stadium at the Burnham Yard site. The updated plans followed community feedback the team said it had gathered and incorporated.",
-      "source": "9NEWS",
-      "topic": "business-jobs",
-      "url": "https://www.9news.com/article/sports/nfl/denver-broncos/broncos-release-updated-burnham-yard-renderings/73-6359889d-39a2-4bed-b843-3d522969195f",
-      "published_at": "2026-08-04T17:26:08+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KUSA/images/dc249885-9113-49e5-8a9d-92811fe85ebe/20260804T153221/dc249885-9113-49e5-8a9d-92811fe85ebe_750x422.jpg",
-        "alt": ""
-      },
-      "uid": "04d293b3-8d2e-4bcd-8276-e2c4641b3038",
-      "description": "Broncos update their stadium site plans at Burnham Yard after listening to community feedback.",
-      "questions": [
-        "Have you been following the Broncos' plans for the new stadium site?",
-        "What do folks in the area think about the proposed Burnham Yard stadium?"
       ]
     }
   ],
   "you_should_know": [
     {
-      "title": "Here are the wildfires burning in Colorado",
-      "summary": "A roundup provided the latest status of the wildfires burning across Colorado.",
-      "source": "9NEWS",
-      "topic": "wildfire",
-      "url": "https://www.9news.com/article/news/local/wildfire/wildfires-burning-in-colorado/73-5e0a83db-0795-41e6-af89-59ec243a497d",
-      "published_at": "2026-08-02T14:06:38+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KUSA/images/f27511f7-6d79-41b6-92ed-e674fa3bd8f8/20260729T191943/f27511f7-6d79-41b6-92ed-e674fa3bd8f8_750x422.jpg",
-        "alt": ""
-      },
-      "uid": "4de12d1b-060d-4c2c-9ec3-4c05e7013d21",
-      "description": "Here's the latest on the fires burning across the state."
-    },
-    {
-      "title": "Aurora Police officer charged in 2025 fatal shooting",
-      "summary": "Aurora Police officer Matthew Neely was charged with second-degree murder and reckless manslaughter in the fatal shooting of Rajon Belt-Stubblefield, nearly a year after the incident. Aurora is a large city adjacent to Denver.",
+      "title": "Man killed in shooting by Longmont Police officer identified",
+      "summary": "Police in the far southern end of Longmont, a city about 15 miles northeast of Boulder, responded to a domestic disturbance where a man had taken a victim hostage and said he had a gun. Officers shot and killed him after he refused to comply, and his name was released in the days that followed.",
       "source": "9NEWS",
       "topic": "policing",
-      "url": "https://www.9news.com/article/news/crime/aurora-officer-charged-2025-fatal-shooting/73-334aed76-1ccf-403e-a86d-66d8628b29d7",
-      "published_at": "2026-08-03T23:56:39+00:00",
+      "url": "https://www.9news.com/article/news/crime/suspect-injured-shooting-involving-longmont-police-officer/73-64b2bacc-05d6-4578-8667-c46e180b81f1",
+      "published_at": "2026-08-13T22:16:20+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/KUSA/images/e1b27b76-f1c6-480f-a5dc-242315461854/20260411T040444/e1b27b76-f1c6-480f-a5dc-242315461854_750x422.jpg",
+        "url": "https://media.tegna-media.com/assets/KUSA/images/c8b12605-38a3-448b-b9cf-3bf1a9fbbc5a/20260810T231146/c8b12605-38a3-448b-b9cf-3bf1a9fbbc5a_750x422.jpg",
         "alt": ""
       },
-      "uid": "cf305be1-9b37-4c1b-b960-2d97de20a51e",
-      "description": "Matthew Neely faces charges of second-degree murder and reckless manslaughter nearly a year after the fatal shooting of Rajon Belt-Stubblefield."
+      "uid": "b1f9ef92-5834-4aaf-b3bd-2428dfd02fb3",
+      "description": "Officers arrived and contacted the suspect, who had allegedly taken a victim hostage. He stated he had a gun and refused to comply with demands, police said.",
+      "thread": [
+        {
+          "title": "Police in Longmont, Colorado shoot and kill man who took victim hostage and said he had a gun",
+          "summary": "",
+          "source": "CBS Colorado",
+          "topic": "policing",
+          "url": "https://www.cbsnews.com/colorado/news/police-longmont-colorado-shoot-kill/",
+          "published_at": "2026-08-11T04:17:55+00:00",
+          "image": {
+            "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/11/9df13129-ea5b-40e9-9b60-327df1b9c8f3/thumbnail/1024x576/5e273e42b53966e86193a8095dfa69d1/shooting.jpg",
+            "alt": ""
+          },
+          "uid": "496294d5-df52-4a39-8853-0ab96c5f8c79",
+          "description": "Police in the far southern section of Longmont shot a man who they said was involved in a domestic disturbance and took a victim hostage.",
+          "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+        },
+        {
+          "title": "Man killed in shooting by Longmont Police officer identified",
+          "summary": "",
+          "source": "9NEWS",
+          "topic": "policing",
+          "url": "https://www.9news.com/article/news/crime/suspect-injured-shooting-involving-longmont-police-officer/73-64b2bacc-05d6-4578-8667-c46e180b81f1",
+          "published_at": "2026-08-13T22:16:20+00:00",
+          "image": {
+            "url": "https://media.tegna-media.com/assets/KUSA/images/c8b12605-38a3-448b-b9cf-3bf1a9fbbc5a/20260810T231146/c8b12605-38a3-448b-b9cf-3bf1a9fbbc5a_750x422.jpg",
+            "alt": ""
+          },
+          "uid": "b1f9ef92-5834-4aaf-b3bd-2428dfd02fb3",
+          "description": "Officers arrived and contacted the suspect, who had allegedly taken a victim hostage. He stated he had a gun and refused to comply with demands, police said."
+        }
+      ]
     },
     {
-      "title": "Multiple Colorado reservoirs announce boat ramp closures due to dropping water levels, another fish salvage announced",
-      "summary": "As monsoon rains proved insufficient to end Colorado's drought, several more reservoirs announced boat ramp closures amid dropping water levels, and another fish salvage was announced — part of a broader pattern of shrinking water supplies across the state.",
-      "source": "CBS Colorado",
-      "topic": "drought-water",
-      "url": "https://www.cbsnews.com/colorado/news/multiple-colorado-reservoirs-boat-closures-dropping-water-levels-fish-salvage/",
-      "published_at": "2026-08-01T22:12:00+00:00",
+      "title": "Colorado minimum wage will jump in 2027 to $15.71/hour, $12.69 tipped",
+      "summary": "Colorado set its 2027 minimum wage at $15.71 an hour, $12.69 for tipped workers — a 3.6% bump from the current rate and about 41% above what the state's floor was in 2019.",
+      "source": "9NEWS",
+      "topic": "business-jobs",
+      "url": "https://www.9news.com/article/news/local/colorado-minimum-wage-2027/73-55a3430b-152e-44ca-9111-2fd9e04ade16",
+      "published_at": "2026-08-14T19:57:53+00:00",
       "image": {
-        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/01/5e390325-49f0-4c49-a444-3b74da15a545/thumbnail/1024x576/b426306d8ea5deedb856a722cf5b8f8e/boat-ramps-2-crawford-state-park-in-mid-july-cpw.jpg",
+        "url": "https://media.tegna-media.com/assets/KUSA/images/f42fadfa-c1f8-4ca2-9bbc-4e5c554b8ba1/20260814T195407/f42fadfa-c1f8-4ca2-9bbc-4e5c554b8ba1_750x422.jpg",
         "alt": ""
       },
-      "uid": "d2c17e84-6c3d-4c56-b5ea-2dc747f50744",
-      "description": "Monsoon rains have not been enough to end Colorado's drought, and several more areas have announced boat ramp closures as water levels in our reservoirs continue to drop.",
-      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+      "uid": "6b2ab004-f843-4f32-857f-d35ab1674de0",
+      "description": "According to the DLSS, the new wage of $15.71 represents a 3.6% increase over the current wage and a 41.5% increase from the wage in 2019 of $11.10 an hour."
     },
     {
-      "title": "Firearm background checks reached record levels in July, CBI says",
-      "summary": "The Colorado Bureau of Investigation reported that firearm background checks reached record levels in July, driven by a surge in purchases ahead of Senate Bill 25-003, a state gun measure that took effect Aug. 1.",
+      "title": "BVSD superintendent apologizes for district’s handling of antisemitic harassment, proposes reforms",
+      "summary": "The superintendent of the Boulder Valley School District apologized for how the district handled a case of antisemitic harassment and proposed reforms, after a federal complaint alleged a Jewish student endured nearly two years of slurs and assaults, including having a charging cable pulled around his neck.",
+      "source": "Boulder Reporting Lab",
+      "topic": "education",
+      "url": "https://boulderreportinglab.org/2026/08/11/bvsd-superintendent-apologizes-for-districts-handling-of-antisemitic-harassment-proposes-reforms/",
+      "published_at": "2026-08-12T04:11:56+00:00",
+      "image": {
+        "url": "https://i0.wp.com/boulderreportinglab.org/wp-content/uploads/2026/06/IMG_6130-scaled.jpg?fit=1024%2C768&ssl=1",
+        "alt": ""
+      },
+      "uid": "b2d951d8-c715-4291-954a-b874a08387cd",
+      "description": "A federal complaint alleges a Jewish student endured nearly two years of harassment, including slurs, assaults and an incident in which a charging cable was pulled around his neck. The post BVSD superintendent apologizes for district’s handling of antisemitic harassment,",
+      "logo": "https://boulderreportinglab.org/wp-content/uploads/2021/06/cropped-brl-favicon-32x32.png"
+    },
+    {
+      "title": "Boulder delays license plate reader decision as scrutiny of Flock intensifies",
+      "summary": "Boulder's decision on automated license plate readers slipped. The city, which had opened its contract to competing vendors after privacy objections to Flock and planned to pick one by September, said the process would take longer — and a local commentator argued the city should lock in safeguards, public oversight and vendor accountability before choosing anyone at all.",
+      "source": "Boulder Reporting Lab",
+      "topic": "policing",
+      "url": "https://boulderreportinglab.org/2026/08/13/boulder-delays-license-plate-reader-decision-as-scrutiny-of-flock-intensifies/",
+      "published_at": "2026-08-14T03:02:06+00:00",
+      "image": {
+        "url": "https://i0.wp.com/boulderreportinglab.org/wp-content/uploads/2026/08/IMG_6432-scaled.jpeg?fit=1024%2C683&ssl=1",
+        "alt": "A Flock camera on U.S. 36 in Boulder. Credit: Brooke Stephenson"
+      },
+      "uid": "733b78b8-dacd-42f3-8087-76945d94b25f",
+      "description": "A Flock camera on U.S. 36 in Boulder. Credit: Brooke Stephenson After facing privacy concerns, Boulder invited companies to compete for its license plate reader contract and planned to choose a vendor by September. The city now says the process will take longer. The post Boulder",
+      "logo": "https://boulderreportinglab.org/wp-content/uploads/2021/06/cropped-brl-favicon-32x32.png",
+      "thread": [
+        {
+          "title": "Olivia Mendoza: Boulder is putting mass surveillance technology before civil liberties",
+          "summary": "",
+          "source": "Boulder Reporting Lab",
+          "topic": "policing",
+          "url": "https://boulderreportinglab.org/2026/08/11/olivia-mendoza-boulder-is-putting-mass-surveillance-technology-before-civil-liberties/",
+          "published_at": "2026-08-12T04:48:32+00:00",
+          "image": {
+            "url": "https://i0.wp.com/boulderreportinglab.org/wp-content/uploads/2025/04/BRL_OpinionGraphic1.jpg?fit=1024%2C576&ssl=1",
+            "alt": ""
+          },
+          "uid": "dbd5996a-da10-4f69-b476-030ca4e16687",
+          "description": "As Boulder considers a long-term contract for automated license plate readers, city officials should establish stronger safeguards, public oversight and vendor accountability before selecting a provider. The post Olivia Mendoza: Boulder is putting mass surveillance technology",
+          "logo": "https://boulderreportinglab.org/wp-content/uploads/2021/06/cropped-brl-favicon-32x32.png"
+        },
+        {
+          "title": "Boulder delays license plate reader decision as scrutiny of Flock intensifies",
+          "summary": "",
+          "source": "Boulder Reporting Lab",
+          "topic": "policing",
+          "url": "https://boulderreportinglab.org/2026/08/13/boulder-delays-license-plate-reader-decision-as-scrutiny-of-flock-intensifies/",
+          "published_at": "2026-08-14T03:02:06+00:00",
+          "image": {
+            "url": "https://i0.wp.com/boulderreportinglab.org/wp-content/uploads/2026/08/IMG_6432-scaled.jpeg?fit=1024%2C683&ssl=1",
+            "alt": "A Flock camera on U.S. 36 in Boulder. Credit: Brooke Stephenson"
+          },
+          "uid": "733b78b8-dacd-42f3-8087-76945d94b25f",
+          "description": "A Flock camera on U.S. 36 in Boulder. Credit: Brooke Stephenson After facing privacy concerns, Boulder invited companies to compete for its license plate reader contract and planned to choose a vendor by September. The city now says the process will take longer. The post Boulder",
+          "logo": "https://boulderreportinglab.org/wp-content/uploads/2021/06/cropped-brl-favicon-32x32.png"
+        }
+      ]
+    },
+    {
+      "title": "Trump administration accused of targeting Colorado with funding cuts, judge orders document release",
+      "summary": "A court ordered documents released in a dispute over federal funding for Colorado, including an email cited as evidence that the Trump administration singled the state out after Gov. Jared Polis declined to pardon Tina Peters, the former county clerk convicted over a breach of election equipment.",
       "source": "9NEWS",
       "topic": "elections-politics",
-      "url": "https://www.9news.com/article/news/local/colorado-news/cbi-firearms-background-checks/73-940b75ec-b426-46e3-a712-7b05ec2295d9",
-      "published_at": "2026-08-03T20:01:45+00:00",
+      "url": "https://www.9news.com/article/news/local/local-politics/trump-administration-accused-targeting-colorado-funding-cuts/73-de71632d-2f98-4120-9ad3-da83ecf64f04",
+      "published_at": "2026-08-15T01:56:50+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/KUSA/images/f83415fc-f2c9-435a-855d-94fbe0852020/20250129T015702/f83415fc-f2c9-435a-855d-94fbe0852020_750x422.jpg",
+        "url": "https://media.tegna-media.com/assets/KUSA/images/bb81677c-9994-4e16-be5c-60e7c409cb08/20260702T123855/bb81677c-9994-4e16-be5c-60e7c409cb08_750x422.jpg",
         "alt": ""
       },
-      "uid": "0144da0c-ba89-41ea-b944-f72db2c66aa6",
-      "description": "The surge came as firearm purchases increased before Senate Bill 25-003 took effect Aug. 1."
-    },
-    {
-      "title": "Advocates say Denver’s cooling centers leave gaps for people living outside during extreme heat",
-      "summary": "Advocates argued that Denver's cooling centers left gaps for people living outdoors during extreme heat, calling for dedicated emergency shelter and a pause on encampment sweeps (the clearing of homeless camps).",
-      "source": "9NEWS",
-      "topic": "housing",
-      "url": "https://www.9news.com/article/news/local/advocates-say-denvers-cooling-centers-leave-gaps-for-people-living-outside-during-extreme-heat/73-259db6f4-6c76-4c12-8de8-10861356c81f",
-      "published_at": "2026-08-01T23:41:45+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KUSA/images/df395631-4cbb-499f-9639-4f723d9b7b16/20260801T223029/df395631-4cbb-499f-9639-4f723d9b7b16_750x422.jpg",
-        "alt": ""
-      },
-      "uid": "c7b28a6d-8010-43b1-bf80-e83306788a4b",
-      "description": "Advocates want dedicated emergency shelter and a pause on encampment sweeps."
+      "uid": "6fc1dab3-32c8-4053-a89e-d1500934a2ba",
+      "description": "The Trump Administration reportedly targeted Colorado after Gov. Polis refused to pardon Tina Peters, with claims supported by a critical email unveiled in court."
     }
   ],
-  "sports": []
+  "sports": [
+    {
+      "team": "Broncos",
+      "scores": [
+        "coach needles staff on road trip",
+        "Broncos 27, Falcons 7",
+        "Thunder's owner and rider pass the reins"
+      ]
+    },
+    {
+      "team": "Rockies",
+      "scores": [
+        "Giants 7, Rockies 1",
+        "Rockies 6, Diamondbacks 4"
+      ]
+    },
+    {
+      "team": "Buffaloes",
+      "scores": [
+        "unveils new tailgate street party"
+      ]
+    },
+    {
+      "team": "Team USA",
+      "scores": [
+        "Colorado grad wins lacrosse gold in Tokyo"
+      ]
+    }
+  ]
 }

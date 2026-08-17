@@ -1,0 +1,81 @@
+{
+  "shortName": "Boulder, CO",
+  "metroCode": "14500",
+  "metro": "Boulder, CO",
+  "date": "2026-08-08",
+  "are_you_ok": [
+    {
+      "title": "Weekend temperatures expected to hit 100 degrees in parts of Colorado as summer heat continues",
+      "summary": "",
+      "source": "CBS Colorado",
+      "topic": "heat",
+      "url": "https://www.cbsnews.com/colorado/news/colorado-weekend-temperatures-some-areas-100-degrees-summer-heat-continues/",
+      "published_at": "2026-08-08T17:04:00+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/08/1fc9e876-5b90-4523-9d09-dee021d82eb8/thumbnail/1024x576/ec6a4a67830d786e7cf1c706d90839e4/heat-advisory.png",
+        "alt": ""
+      },
+      "uid": "4b631739-ba3f-4513-8a1b-3c249ff37c3f",
+      "questions": [
+        "How are you managing the heat?",
+        "Do you have a way to keep cool at home?"
+      ],
+      "description": "Colorado is heading into another dangerous stretch of summer heat, with temperatures soaring toward 100 degrees this weekend and elevated fire weather concerns across the mountains.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    }
+  ],
+  "conversation_starters": [
+    {
+      "title": "Denver Water reservoir levels are below capacity. \"It's a big concern,\" the public utility says.",
+      "summary": "The sources for Denver Water's supply — the utility serving Denver, about 30 miles southeast of Boulder — are taking a big hit due to the ongoing drought.",
+      "source": "CBS Colorado",
+      "topic": "drought-water",
+      "url": "https://www.cbsnews.com/colorado/news/denver-water-reservoir-levels-below-capacity-concern-public-utility/",
+      "published_at": "2026-08-08T02:11:54+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/08/f5cc5fc9-a8db-4adf-8a74-19a27d948e82/thumbnail/1024x576/3bcb647e47df58fcbadfb68503595427/denver-water-drought-reservoir-below-capacity.jpg",
+        "alt": ""
+      },
+      "uid": "ffbad21b-49d0-4643-a20a-cb3b9cc05280",
+      "questions": [
+        "Are water restrictions something you're dealing with?",
+        "Have you noticed the drought where you are?"
+      ],
+      "description": "The sources for Denver Water's supply are taking a big hit due to the ongoing drought.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    }
+  ],
+  "sports": [],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "Company that runs Aurora ICE facility could face $50,000 fines starting Wednesday",
+      "summary": "A new state law is supposed to take effect allowing the attorney general to issue fines for denying public health access at the ICE facility in Aurora, a suburb on Denver's east side about 40 miles southeast of Boulder.",
+      "source": "9NEWS",
+      "topic": "immigration-enforcement",
+      "url": "https://www.9news.com/article/news/politics/aurora-ice-facility-fines/73-d86ba67c-6988-4ac7-9710-f7743ffadee5",
+      "published_at": "2026-08-08T01:06:29+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/be40731f-2d5f-4ae0-899d-0338602dc5f0/20260808T000630/be40731f-2d5f-4ae0-899d-0338602dc5f0_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "0c6cfbfa-9e96-4a55-80b8-7a96ce2e071d",
+      "description": "A new state law is supposed to take effect Wednesday, allowing the attorney general to issue fines for denying public health access at an ICE facility."
+    },
+    {
+      "title": "Secretary of Homeland Security Markwayne Mullin visits Colorado, disputes tuberculosis concerns",
+      "summary": "U.S. Homeland Security Secretary Markwayne Mullin visited Colorado's Supermax prison, the federal maximum-security penitentiary at Florence in the south of the state, the U.S. Olympic & Paralympic Training Center in Colorado Springs and Immigration and Customs Enforcement offices in southern Colorado before holding a private meeting with U.S. Rep. Gabe Evans, whose district covers the suburbs and farm towns north of Denver, and Hispanic faith leaders.",
+      "source": "CBS Colorado",
+      "topic": "immigration-enforcement",
+      "url": "https://www.cbsnews.com/colorado/video/secretary-of-homeland-security-markwayne-mullin-visits-colorado-disputes-tuberculosis-concerns/",
+      "published_at": "2026-08-08T04:17:00+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/08/b84921e3-bb6e-41a2-b3a3-5b105f9d05b2/thumbnail/1024x576/1d5268081bea8a79953ec550eaa6f0ba/1cf6db8e7ce46ea73c17a8ca46c65f81.jpg",
+        "alt": ""
+      },
+      "uid": "3d96f7de-f692-4a1a-821d-89a66dbbe3ac",
+      "description": "U.S. Homeland Security Secretary Markwayne Mullin visited Colorado's Supermax prison, the U.S. Olympic & Paralympic Training Center and Immigration and Customs Enforcement offices in southern Colorado before holding a private meeting with U.S. Rep. Gabe Evans and Hispanic faith",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    }
+  ]
+}

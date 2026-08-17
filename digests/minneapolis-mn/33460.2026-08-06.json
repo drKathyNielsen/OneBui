@@ -1,0 +1,211 @@
+{
+  "shortName": "Minneapolis, MN",
+  "metroCode": "33460",
+  "metro": "Minneapolis-St. Paul-Bloomington, MN-WI",
+  "date": "2026-08-06",
+  "are_you_ok": [
+    {
+      "title": "Minneapolis Mayor planning budget cuts, layoffs and property tax increase to offset budget shortfall",
+      "summary": "",
+      "source": "KARE 11",
+      "topic": "elections-politics",
+      "url": "https://www.kare11.com/article/news/local/breaking-the-news/minneapolis-mayor-planning-budget-cuts-layoffs-and-property-tax-increase-to-offset-budget-shortfall-mn/89-8d5cb256-d490-463d-ad0e-8e815c358165",
+      "published_at": "2026-08-06T00:17:48+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/c283917e-61bd-4e13-97b3-99fd3ff315a9/20260806T000549/c283917e-61bd-4e13-97b3-99fd3ff315a9_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "c290d316-bb35-4d45-a79c-6990a865652d",
+      "questions": [
+        "Has the city budget news been a topic around your office?",
+        "Do you know anyone whose job might be affected?"
+      ],
+      "description": "Mayor Jacob Frey won't reveal his budget until next week, but those familiar with it say it will force some very tough decisions."
+    }
+  ],
+  "conversation_starters": [
+    {
+      "title": "Minnesota State Fair named nation's best by USA TODAY",
+      "summary": "",
+      "source": "CBS Minnesota",
+      "topic": "civic-events",
+      "url": "https://www.cbsnews.com/minnesota/news/minnesota-state-fair-best-in-us-usa-today/",
+      "published_at": "2026-08-06T15:29:33+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/06/126b4081-c6a0-497d-a858-7cb02f0f2c2f/thumbnail/1024x576/d460ad891e8bc07a18e783d6de4e0c95/gettyimages-2167483608.jpg",
+        "alt": ""
+      },
+      "uid": "f164d244-aecd-4da1-b169-cc3d4cc46129",
+      "questions": [
+        "Did you see the State Fair got named the best in the country?",
+        "What's the thing you always go for at the fair?"
+      ],
+      "description": "USA TODAY has confirmed what Minnesotans already know well: our state fair is the best in the nation.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    },
+    {
+      "title": "Ground stop briefly halts flights at Minneapolis-St. Paul International Airport",
+      "summary": "A ground stop is now lifted at Minneapolis-St. Paul International Airport Thursday after \"a regional FAA equipment outage,\" according to the Metropolitan Airports Commission, the public agency that runs the airport.",
+      "source": "CBS Minnesota",
+      "topic": "transportation",
+      "url": "https://www.cbsnews.com/minnesota/video/ground-stop-halts-flights-at-minneapolis-st-paul-international-airport/",
+      "published_at": "2026-08-06T21:11:00+00:00",
+      "image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/06/4732dd3a-7ace-4cbd-8de4-018f96c522ea/thumbnail/1024x576/57e06ab6d0f1ade25f1e894e80ac373c/368bfa23310756ee5817cdc5ee5c81d2.jpg",
+        "alt": ""
+      },
+      "uid": "8aa894f6-42d7-4cac-9347-525e9fe64167",
+      "questions": [
+        "Were you flying anywhere when the ground stop hit?",
+        "Did it snarl things up for people you know?"
+      ],
+      "description": "A ground stop is now lifted at Minneapolis-St. Paul International Airport Thursday after \"a regional FAA equipment outage,\" according to the Metropolitan Airports Commission​.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    },
+    {
+      "title": "Nearly 100 people laid off from Heliene facility in Mountain Iron",
+      "summary": "According to a WARN notice, the layoffs at the Mountain Iron plant — in northern Minnesota's Iron Range, roughly 200 miles north of Minneapolis — were due to \"unforeseen business circumstances.\"",
+      "source": "KARE 11",
+      "topic": "business-jobs",
+      "url": "https://www.kare11.com/article/news/local/nearly-100-people-laid-off-heliene-facility-in-mountain-iron/89-aded525c-9f56-4ec0-b74f-462fabcb7fcb",
+      "published_at": "2026-08-06T17:56:23+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/cf83a885-beef-4ad3-adb0-665f6ff0631e/20251021T030606/cf83a885-beef-4ad3-adb0-665f6ff0631e_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "9ef21dd3-31e2-46bf-8eaa-781ee6a454e0",
+      "questions": [
+        "Had you heard about the layoffs up in Mountain Iron?",
+        "Does that part of the state come up much down here?"
+      ],
+      "description": "According to a WARN notice, the layoffs were due to \"unforeseen business circumstances.\""
+    },
+    {
+      "title": "Art stolen by Nazis returned to Wayzata family by Austrian government",
+      "summary": "A woman from Wayzata, a lakeside suburb about 12 miles west of Minneapolis, is now the rightful owner of artwork that was taken from her relatives by the Nazi regime nearly a century ago.",
+      "source": "FOX 9",
+      "topic": "human-interest",
+      "url": "https://www.fox9.com/news/art-stolen-nazis-returned-wayzata-family-austrian-government-aug-6-2026",
+      "published_at": "2026-08-06T15:49:36+00:00",
+      "image": {
+        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/08/stolen-holocaust-art-returned-_00.00.38.16.jpg",
+        "alt": ""
+      },
+      "uid": "70d9d59e-aa92-44d7-bd3a-0cb1875ad541",
+      "questions": [
+        "Did you see the story about the artwork returned to a Wayzata family?",
+        "Is that something people here have been talking about?"
+      ],
+      "description": "A Wayzata woman is now the rightful owner of artwork that was taken from her relatives by the Nazi regime nearly a century ago."
+    },
+    {
+      "title": "NEXT Weather | 6 p.m. weather report for Aug. 6, 2026",
+      "summary": "",
+      "source": "CBS Minnesota",
+      "topic": "drought-water",
+      "url": "https://www.cbsnews.com/minnesota/video/next-weather-6-p-m-weather-report-for-aug-6-2026/",
+      "published_at": "2026-08-06T23:24:00+00:00",
+      "image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/06/c8d77877-d728-4520-9125-ae9d73884b6d/thumbnail/1024x576/41484fd662f403e640d9f76ce9648888/8d42e0044e7052e743d267ee6c493e8e.jpg",
+        "alt": ""
+      },
+      "uid": "8e7edb36-d953-4f58-b245-aed4434f92f4",
+      "questions": [
+        "Have you noticed the drought where you are?",
+        "Did the rain finally show up?"
+      ],
+      "description": "Drought conditions in Minnesota show it in the moderate to severe range for most of the state. Much-needed rain is on the way to help with those conditions. Our first round of rain is set to arrive Friday. Chief meteorologist Chris Shaffer breaks down when the rain is supposed",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    }
+  ],
+  "sports": [],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "19 cases against Minnesotans accused of assaulting federal officers dismissed so far; many linked to single HSI agent",
+      "summary": "WCCO, the CBS television station in Minneapolis, found that HSI Special Agent Richard Berger submitted sworn affidavits in 11 cases that judges have now dismissed. He's involved in at least 11 other cases that are still ongoing.",
+      "source": "CBS Minnesota",
+      "topic": "immigration-enforcement",
+      "url": "https://www.cbsnews.com/minnesota/news/one-agent-connected-to-several-dropped-assault-cases/",
+      "published_at": "2026-08-06T16:19:44+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/30/65a50860-1374-45aa-a48a-f7b13a12e851/thumbnail/1024x576/21844c1a41325668b2f925870dccc841/10p-pkg-ice-charges-dropped-wccoayz4-00-01-2505.jpg",
+        "alt": ""
+      },
+      "uid": "2e695a6e-1056-42f2-9b9d-048df7ab84ae",
+      "description": "WCCO found that HSI Special Agent Richard Berger submitted sworn affidavits in 11 cases that judges have now dismissed. He's involved in at least 11 other cases that are still ongoing.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    },
+    {
+      "title": "Henn. Co. Sheriff Dawanna Witt says feds threatened her with arrest over immigration policies",
+      "summary": "The claim comes after a report by The New York Times that federal immigration officials recently began saying they would seek criminal charges against Witt, the sheriff of Hennepin County, which covers Minneapolis.",
+      "source": "KARE 11",
+      "topic": "immigration-enforcement",
+      "url": "https://www.kare11.com/article/news/local/ice-in-minnesota/henn-co-sheriff-dawanna-witt-says-feds-threatened-her-with-arrest-over-immigration-policies/89-b0f7734e-4df1-4ccf-ab5b-1b3e94ec3aa0",
+      "published_at": "2026-08-06T15:30:46+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/e1bf32b8-a3e8-4059-a4f4-1d10fb035dff/20260127T195405/e1bf32b8-a3e8-4059-a4f4-1d10fb035dff_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "cdf7073d-8569-477c-b029-561fa9c88d4d",
+      "description": "The claim comes after a report by The New York Times that federal immigration officials recently began saying they would seek criminal charges against Witt."
+    },
+    {
+      "title": "Minneapolis mayor defends millions spent in police overtime amid 2026's crisis events",
+      "summary": "WCCO, the CBS television station in Minneapolis, reported in January that Minneapolis police officers worked at least $3 million over budget during Operation Metro Surge. In a news conference Thursday, the mayor said he wanted to clear up what he calls misinformation about the numbers.",
+      "source": "CBS Minnesota",
+      "topic": "policing",
+      "url": "https://www.cbsnews.com/minnesota/news/minneapolis-mayor-jacob-frey-defends-police-overtime-pay-operation-metro-surge/",
+      "published_at": "2026-08-06T20:37:02+00:00",
+      "image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/06/17/42b0fb33-abc4-4314-98fe-b10f7da3c024/thumbnail/1024x576/e2043951292c26401fe6c9d11df42f1c/cbsn-fusion-minneapolis-police-have-history-of-bias-beyond-george-floyd-killing-doj-says-thumbnail-2057801-640x360.jpg",
+        "alt": ""
+      },
+      "uid": "1c49b5c3-a8f5-44ca-9851-2d37801b7e77",
+      "description": "WCCO reported in January that Minneapolis police officers worked at least $3 million over budget during Operation Metro Surge. In a news conference Thursday, the mayor said he wanted to clear up what he calls misinformation about the numbers.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    },
+    {
+      "title": "MN wildfires: Businesses push Walz, lawmakers for recovery package",
+      "summary": "Businesses in northeastern Minnesota struggling amid the wildfires burning the Boundary Waters — the lake wilderness on the Canadian border, roughly 250 miles north of Minneapolis — are pushing Governor Walz and state lawmakers to move forward with a special session to pass an economic recovery package.",
+      "source": "FOX 9",
+      "topic": "wildfire",
+      "url": "https://www.fox9.com/news/mn-wildfires-businesses-push-walz-recovery-package",
+      "published_at": "2026-08-06T17:31:54+00:00",
+      "image": {
+        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/07/5v-bwca-closure-update_kmsp8c45_146_mxf_00.01.30.46.jpg",
+        "alt": ""
+      },
+      "uid": "715e5565-2ab5-4d43-8d1a-743b1c69d21f",
+      "description": "Northeastern Minnesota businesses struggling amid the wildfires burning the Boundary Waters are pushing Governor Walz and state lawmakers to move forward with a special session to pass an economic recovery package."
+    },
+    {
+      "title": "Attorneys for Georgia Fort file to have federal charges thrown out",
+      "summary": "Fort was among several people, including journalist Don Lemon and civil rights attorney Nekima Levy Armstrong, charged following a protest at a church in St. Paul, the neighboring city just east of Minneapolis.",
+      "source": "KARE 11",
+      "topic": "immigration-enforcement",
+      "url": "https://www.kare11.com/article/news/local/attorneys-for-georgia-fort-file-to-have-federal-charges-dismissed/89-9e1027d6-4cec-4b64-bf35-3a36958af04d",
+      "published_at": "2026-08-06T18:59:55+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/c709449a-ef36-401c-bd6e-b0e6c4664c7c/20260217T211528/c709449a-ef36-401c-bd6e-b0e6c4664c7c_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "b450511e-7efd-4374-835e-2af0ee448fb4",
+      "description": "Fort was among several people, including journalist Don Lemon and civil rights attorney Nekima Levy Armstrong, charged following a protest at a St. Paul church."
+    },
+    {
+      "title": "Judge finds enough probable cause that Mike Lindell may have violated campaign law when handing out pillows at parade",
+      "summary": "Lindell distributed pillows with the words \"Mike Lindell for Governor\" on the packaging during the Fourth of July parade in Delano, a small town about 35 miles west of Minneapolis.",
+      "source": "KARE 11",
+      "topic": "elections-politics",
+      "url": "https://www.kare11.com/article/news/local/judge-finds-enough-probable-cause-mike-lindell-may-have-violated-campaign-law-when-handing-out-pillows-at-parade/89-a54e49ec-70d0-41bf-81a2-4cb5ef1dc59b",
+      "published_at": "2026-08-06T21:01:18+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/e8cc0545-a51c-4a2c-aef7-0f3c0cb31550/20260804T024203/e8cc0545-a51c-4a2c-aef7-0f3c0cb31550_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "925aa9e8-b85e-4193-ab6a-4ad689c61420",
+      "description": "Lindell distributed pillows with the words \"Mike Lindell for Governor\" on the packaging during the Delano Fourth of July Parade."
+    }
+  ]
+}

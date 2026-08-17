@@ -1,0 +1,155 @@
+{
+  "shortName": "Boulder, CO",
+  "metroCode": "14500",
+  "metro": "Boulder, CO",
+  "date": "2026-08-10",
+  "are_you_ok": [
+    {
+      "title": "Staying hot across Colorado, but much needed changes arrive mid-week",
+      "summary": "",
+      "source": "CBS Colorado",
+      "topic": "heat",
+      "url": "https://www.cbsnews.com/colorado/video/staying-hot-across-colorado-but-much-needed-changes-arrive-mid-week/",
+      "published_at": "2026-08-10T14:10:00+00:00",
+      "image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/10/b25a6d65-a2f5-440d-aaf9-c7a99342b6e4/thumbnail/1024x576/21b30f20f4390ceb5594bc392d80c8f7/59e3d8572b284a258a2aa9c67deedc37.jpg",
+        "alt": ""
+      },
+      "uid": "18945d37-c98f-4759-9280-c3893f670314",
+      "questions": [
+        "How are you holding up in this heat?",
+        "Is the mid-week change coming soon enough for you?"
+      ],
+      "description": "Watch Alex Lehnert's forecast",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    }
+  ],
+  "conversation_starters": [
+    {
+      "title": "Boulder envisioned an all-electric Pearl Street Mall. That plan is shrinking.",
+      "summary": "Xcel, the utility that supplies gas and electricity to Boulder and most of Colorado, now says only about 24 buildings are connected to an aging gas line in downtown Boulder, down from the 66 originally believed. Those customers will be able to keep natural gas service.",
+      "source": "Boulder Reporting Lab",
+      "topic": "other",
+      "url": "https://boulderreportinglab.org/2026/08/09/boulder-envisioned-an-all-electric-pearl-street-mall-that-plan-is-shrinking/",
+      "published_at": "2026-08-10T03:00:00+00:00",
+      "image": {
+        "url": "https://i0.wp.com/boulderreportinglab.org/wp-content/uploads/2026/08/PearlStreet4-scaled.jpg?fit=1024%2C768&ssl=1",
+        "alt": ""
+      },
+      "uid": "3bcdbabb-d607-40be-9b1c-a20a9ce9fd64",
+      "questions": [
+        "Have you been following the Pearl Street gas line question?",
+        "Do you spend much time downtown?"
+      ],
+      "description": "Xcel now says only about 24 buildings are connected to an aging gas line in downtown Boulder, down from the 66 originally believed. Those customers will be able to keep natural gas service. The post Boulder envisioned an all-electric Pearl Street Mall. That plan is shrinking.",
+      "logo": "https://boulderreportinglab.org/wp-content/uploads/2021/06/cropped-brl-favicon-32x32.png"
+    },
+    {
+      "title": "Here comes the monsoon in Colorado, rain for Denver and the mountains",
+      "summary": "Joe Ruch is watching monsoon rain — the late-summer surge of moisture that brings Colorado its run of afternoon storms — and cooler temperatures in Colorado.",
+      "source": "CBS Colorado",
+      "topic": "other",
+      "url": "https://www.cbsnews.com/colorado/video/here-comes-the-monsoon-in-colorado-rain-for-denver-and-the-mountains/",
+      "published_at": "2026-08-10T00:13:00+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/10/de43a556-e72b-4780-aca3-0ce3070d0fec/thumbnail/1024x576/3363fc68edea29b5dbbb93f47c120e8a/5669efa9bf847af05ac266afed063b15.jpg",
+        "alt": ""
+      },
+      "uid": "8a2d3747-3508-49dd-9c8d-15dafd65da2e",
+      "questions": [
+        "Has the rain reached you yet?",
+        "Do the afternoon storms change your plans much?"
+      ],
+      "description": "Joe Ruch is watching monsoon rain and cooler temperatures in Colorado.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    },
+    {
+      "title": "CU Anschutz clinical trial finds GLP-1s help curb alcohol use disorder",
+      "summary": "Dr. Joseph Schacht, at CU Anschutz — the University of Colorado's medical campus in Aurora, east of Denver — led a clinical trial to see if the semaglutide pill used for diabetes and weight loss could help heavy drinkers cut down.",
+      "source": "9NEWS",
+      "topic": "public-health",
+      "url": "https://www.9news.com/article/news/health/cu-anschutz-clinical-trial-glp-1s-alcohol-use-disorder/73-00b1a234-1d7d-4d58-bd77-b8c627211fc3",
+      "published_at": "2026-08-10T03:56:50+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/15f57c26-3391-4b86-aa97-2e846a600b10/20260810T032752/15f57c26-3391-4b86-aa97-2e846a600b10_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "0c64f5eb-ac54-4dfc-a753-9abf62df827c",
+      "questions": [
+        "Did you see the CU Anschutz study?",
+        "Does research out of the university come up much locally?"
+      ],
+      "description": "Dr. Joseph Schacht led a clinical trial to see if the semaglutide pill used for diabetes and weight loss could help heavy drinkers cut down."
+    },
+    {
+      "title": "'REI meets a library': First nature library in US opens in Colorado",
+      "summary": "The Anythink Nature Library, a groundbreaking indoor-outdoor facility in Thornton, a suburb north of Denver about 20 miles east of Boulder, offers books and gear like snowshoes and wildlife cameras.",
+      "source": "9NEWS",
+      "topic": "civic-events",
+      "url": "https://www.9news.com/article/life/style/colorado-guide/first-nature-library-colorado/73-1a4a281c-05e5-4864-8fbb-83d5e6f1cf14",
+      "published_at": "2026-08-10T14:48:06+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/bbc64cf4-d551-4516-a872-792121d96b43/20260810T142000/bbc64cf4-d551-4516-a872-792121d96b43_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "0f54d4ca-d792-49ca-be69-c1b8b1ffc9d5",
+      "questions": [
+        "Have you heard about the nature library that opened in Thornton?",
+        "Would you borrow snowshoes from a library?"
+      ],
+      "description": "The Anythink Nature Library, a groundbreaking indoor-outdoor facility in Thornton, offers books and gear like snowshoes and wildlife cameras."
+    },
+    {
+      "title": "Microburst sends bounce house airborne at Colorado festival, injures vendor",
+      "summary": "A microburst — a sudden, violent downdraft from a thunderstorm — at the fall festival in Ault, a small town on the plains about 50 miles northeast of Boulder, sent a bounce house flying into a vendor, injuring her and destroying her booth.",
+      "source": "9NEWS",
+      "topic": "severe-weather",
+      "url": "https://www.9news.com/article/news/local/microburst-sends-bounce-house-airborne-injures-vendor/73-6b825d54-9183-4a67-a372-a2ca925b2769",
+      "published_at": "2026-08-10T22:16:03+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/ca0dc0d7-7e97-453a-8d30-149844fea12f/20260810T211652/ca0dc0d7-7e97-453a-8d30-149844fea12f_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "cf52027b-2579-4e07-8792-631fb61573f5",
+      "questions": [
+        "Did you see the bounce house that got picked up at the festival in Ault?",
+        "Have you ever been caught out in a microburst here?"
+      ],
+      "description": "A microburst at Ault’s fall festival sent a bounce house flying into a vendor, injuring her and destroying her booth."
+    },
+    {
+      "title": "RTD reports drop in crime after leaving elevators open",
+      "summary": "RTD, the Regional Transportation District that runs the buses and trains serving Boulder and the Denver area, expands its program to keep elevator doors open at stations, reducing security issues by over 50%.",
+      "source": "9NEWS",
+      "topic": "transportation",
+      "url": "https://www.9news.com/article/news/crime/rtd-elevators-open/73-7f706093-8895-45b7-a0ba-a6463c1dff08",
+      "published_at": "2026-08-10T16:06:16+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/acb1452b-aeec-4266-803f-4753b26f25a7/20260710T150716/acb1452b-aeec-4266-803f-4753b26f25a7_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "fcb3b5c2-e155-4ca3-8020-f6abb5aa58ce",
+      "questions": [
+        "Do you use RTD to get around?",
+        "Have the stations felt any different lately?"
+      ],
+      "description": "RTD expands its program to keep elevator doors open at stations, reducing security issues by over 50%."
+    }
+  ],
+  "sports": [
+    {
+      "team": "Broncos",
+      "scores": [
+        "Thunder's owner and rider pass the reins"
+      ]
+    },
+    {
+      "team": "Team USA",
+      "scores": [
+        "Colorado grad wins lacrosse gold in Tokyo"
+      ]
+    }
+  ],
+  "weather_alert": [],
+  "you_should_know": []
+}

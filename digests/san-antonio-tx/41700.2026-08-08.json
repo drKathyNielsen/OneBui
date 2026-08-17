@@ -1,0 +1,26 @@
+{
+  "shortName": "San Antonio, TX",
+  "metroCode": "41700",
+  "metro": "San Antonio-New Braunfels, TX",
+  "date": "2026-08-08",
+  "are_you_ok": [],
+  "conversation_starters": [],
+  "sports": [],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "San Antonio leaders establish community-led Project Marvel advisory committee",
+      "summary": "",
+      "source": "KENS 5",
+      "topic": "elections-politics",
+      "url": "https://www.kens5.com/article/news/local/project-marvel/san-antonio-spurs-arena-mayor-jones-project-marvel-community-benefits-advisory-committee-texas/273-330e45a1-9deb-4402-8fb0-d9c3367f88ca",
+      "published_at": "2026-08-08T03:37:45+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/a8bb599d-ee9d-4bfa-8770-321667cba9f3/20260710T181527/a8bb599d-ee9d-4bfa-8770-321667cba9f3_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "8629e1a5-d1e2-494d-a491-b2d79b69839f",
+      "description": "In one tense moment, Councilwoman Phyllis Viagran accused Mayor Gina Ortiz Jones of lying about what officials have accomplished so far in Spurs arena discussions."
+    }
+  ]
+}

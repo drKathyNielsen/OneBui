@@ -1,0 +1,237 @@
+{
+  "shortName": "Boulder, CO",
+  "metroCode": "14500",
+  "metro": "Boulder, CO",
+  "date": "2026-08-13",
+  "are_you_ok": [
+    {
+      "title": "Thunderstorms, flooding concerns: What we're tracking in Denver Thursday",
+      "summary": "Relief from the heat is set for Colorado as monsoon moisture — the late-summer flow of humid air up from the south that drives the region's afternoon thunderstorms — brings storms and a flood risk, with storms possibly impacting outdoor events like concerts.",
+      "source": "9NEWS",
+      "topic": "severe-weather",
+      "url": "https://www.9news.com/article/weather/weather-colorado/denver-cooler-weather-flash-flood-risks-storms-forecast/73-eb603277-be00-4ced-96b0-fefea0c06ec6",
+      "published_at": "2026-08-13T22:10:03+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/c8ef40f6-15cb-4213-a22e-603bd416b198/20260813T164358/c8ef40f6-15cb-4213-a22e-603bd416b198_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "633b2597-6c10-48b4-a110-2aed7c9ed2d5",
+      "questions": [
+        "Did the storms cool things off where you are?",
+        "Do the afternoon storms mess with your plans this time of year?"
+      ],
+      "description": "Relief from the heat is set for Colorado as monsoon moisture brings thunderstorms and a flood risk, with storms possibly impacting outdoor events like concerts."
+    }
+  ],
+  "conversation_starters": [
+    {
+      "title": "New Colorado law inspired by Megan Trussell's case requires colleges to act within 6 hours when students go missing",
+      "summary": "",
+      "source": "CBS Colorado",
+      "topic": "education",
+      "url": "https://www.cbsnews.com/colorado/news/new-colorado-law-megan-trussell-colleges-act-6-hours-student-missing/",
+      "published_at": "2026-08-13T02:34:00+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/06/21/356ad2c1-ec65-437c-952d-8df6620dff78/thumbnail/1024x576/31ac5d169f39fe87cf6d509b861d3c7e/megan-trussell.jpg",
+        "alt": ""
+      },
+      "uid": "7c5cdd72-325f-45f1-bbb9-3fd2e651f0a6",
+      "questions": [
+        "Had you been following the case behind that new law?",
+        "Do you think a six-hour window changes much for campuses here?"
+      ],
+      "description": "A new Colorado law creates specific requirements for higher education institutions, including a six-hour window for schools to take action if a student is reported missing.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    },
+    {
+      "title": "Zach Bryan returns to Denver: What to know for 'Heaven On Tour' stadium concerts",
+      "summary": "He will be in Denver for his \"Heaven On Tour\" concerts at Mile High Stadium, the Broncos' stadium about 30 miles southeast of Boulder, on Thursday and Friday. Fans should prepare for possible weather disruptions.",
+      "source": "9NEWS",
+      "topic": "civic-events",
+      "url": "https://www.9news.com/article/life/style/colorado-guide/zach-bryan-denver-stadium-concerts/73-a82a79d2-a484-4e35-a79e-11388f31ec1f",
+      "published_at": "2026-08-13T17:45:41+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/ef4a9603-a7e4-40c5-821a-46903e5a8f62/20260813T105719/ef4a9603-a7e4-40c5-821a-46903e5a8f62_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "314420c7-d6d6-4bab-8090-dc4358474b9b",
+      "questions": [
+        "Are you going to either of the Zach Bryan nights?",
+        "How bad does traffic get around the stadium for something that size?"
+      ],
+      "description": "He will be in Denver for his \"Heaven On Tour\" concerts at Mile High Stadium this Thursday and Friday. Fans should prepare for possible weather disruptions."
+    },
+    {
+      "title": "CU honors Native American Code Talkers with new dorms",
+      "summary": "Code Talker Hall is home to non-first-year undergraduate students on the University of Colorado Boulder campus, providing new opportunities for students to live and build community there.",
+      "source": "9NEWS",
+      "topic": "human-interest",
+      "url": "https://www.9news.com/article/news/local/outreach/back-to-school/university-colorado-boulder-code-talker-hall-dorms/73-c4c328e9-a79b-433d-a5b2-d8c5f4a90fe7",
+      "published_at": "2026-08-13T15:20:41+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/bd10197e-3c8a-4b61-8d10-d09af04a2e82/20260813T143302/bd10197e-3c8a-4b61-8d10-d09af04a2e82_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "fce86beb-f724-41a6-a599-5b43715d3520",
+      "questions": [
+        "Did you see CU named the new dorms after the Code Talkers?",
+        "Do you have much to do with the campus?"
+      ],
+      "description": "Code Talker Hall is home to non-first-year undergraduate students, providing new opportunities for students to live and build community on campus."
+    },
+    {
+      "title": "Denver Water now issuing fines to customers who violate water restrictions",
+      "summary": "Denver Water, the utility serving Denver and many of its suburbs, is now issuing fines to its customers across that metro who aren't following mandatory water use restrictions, and they aren't cheap.",
+      "source": "CBS Colorado",
+      "topic": "drought-water",
+      "url": "https://www.cbsnews.com/colorado/news/denver-water-issuing-fines-water-restriction-violations/",
+      "published_at": "2026-08-13T12:59:04+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/12/7e1067d6-096b-4884-83cc-df0d986fe7e3/thumbnail/1024x576/a92cf11ad96fa8535144c4f794ddb4ea/denver-water-restrictions-5pkg-frame-309.jpg",
+        "alt": ""
+      },
+      "uid": "6d9ffbf5-fa7f-4782-89ad-c61dd2c488f8",
+      "questions": [
+        "Are you under any watering restrictions in Boulder?",
+        "Have people you know changed how they water their yards this summer?"
+      ],
+      "description": "Denver Water is now issuing fines to its customers across the metro who aren't following mandatory water use restrictions, and they aren't cheap.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    },
+    {
+      "title": "Aurora won't take pictures of drivers in photo radar tickets as state law shifts liability to vehicle owners",
+      "summary": "A new law in Aurora, a large city east of Denver, closes off one of the state's worst-kept secrets for beating a photo radar ticket: Telling the city, \"It wasn't me.\"",
+      "source": "9NEWS",
+      "topic": "transportation",
+      "url": "https://www.9news.com/article/news/local/colorado-news/aurora-photo-radar-tickets-state-law-shifts-liability/73-23e5d476-10b3-495c-913b-58d017ecf443",
+      "published_at": "2026-08-13T00:38:02+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/5d09fd34-990a-4356-a7f1-ce0e5428060d/20260220T042700/5d09fd34-990a-4356-a7f1-ce0e5428060d_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "9b13d51f-0ecb-4184-9878-7156faea3291",
+      "questions": [
+        "Have you ever gotten one of those photo radar tickets?",
+        "Do you think shifting the liability to the owner is going to stick?"
+      ],
+      "description": "A new law closes off one of the state's worst-kept secrets for beating a photo radar ticket: Telling the city, \"It wasn't me.\""
+    },
+    {
+      "title": "Abandoned llama not interested in being rescued on Colorado trail",
+      "summary": "",
+      "source": "9NEWS",
+      "topic": "human-interest",
+      "url": "https://www.9news.com/article/life/style/colorado-guide/llama-colorado-trail-rescue/73-b299f94a-582b-4ab9-a5bd-1f75b8fef404",
+      "published_at": "2026-08-13T16:02:32+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/f3865720-361b-4217-ab7f-e115d86751b8/20260813T153024/f3865720-361b-4217-ab7f-e115d86751b8_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "7806eb18-607f-484c-9bfb-8abe9287bca5",
+      "questions": [
+        "Did you follow the llama rescue story?",
+        "What's the strangest thing you've run into on a trail here?"
+      ],
+      "description": "A lounging llama sparked a rescue mission on a Colorado trail, surprising deputies with her stubborn refusal to return home until her owners coaxed her back."
+    }
+  ],
+  "sports": [
+    {
+      "team": "Rockies",
+      "scores": [
+        "Rockies 6, Diamondbacks 4"
+      ]
+    }
+  ],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "Man killed in shooting by Longmont Police officer identified",
+      "summary": "",
+      "source": "9NEWS",
+      "topic": "policing",
+      "url": "https://www.9news.com/article/news/crime/suspect-injured-shooting-involving-longmont-police-officer/73-64b2bacc-05d6-4578-8667-c46e180b81f1",
+      "published_at": "2026-08-13T22:16:20+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/c8b12605-38a3-448b-b9cf-3bf1a9fbbc5a/20260810T231146/c8b12605-38a3-448b-b9cf-3bf1a9fbbc5a_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "b1f9ef92-5834-4aaf-b3bd-2428dfd02fb3",
+      "description": "Officers arrived and contacted the suspect, who had allegedly taken a victim hostage. He stated he had a gun and refused to comply with demands, police said."
+    },
+    {
+      "title": "New Colorado law expands disability protections for students amid federal education changes",
+      "summary": "",
+      "source": "CBS Colorado",
+      "topic": "education",
+      "url": "https://www.cbsnews.com/colorado/news/new-colorado-law-expands-disability-protections-for-students-amid-federal-education-changes/",
+      "published_at": "2026-08-13T19:27:00+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/04/14/dcb2a704-59b7-4d13-9d2e-161241027d06/thumbnail/1024x576/7f48f5ebec9db18b11d4c8383ec8c6bf/gettyimages-1345022898.jpg",
+        "alt": ""
+      },
+      "uid": "a27bd83b-bd39-4a33-9137-ef4fa4afe89a",
+      "description": "Advocates say the law was motivated in part by changes at the U.S. Department of Education.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    },
+    {
+      "title": "Colorado man pleads guilty to terrorism charged after pledging to serve as ISIS fighter",
+      "summary": "",
+      "source": "CBS Colorado",
+      "topic": "other",
+      "url": "https://www.cbsnews.com/colorado/video/colorado-man-pleads-guilty-to-terrorism-charged-after-pledging-to-serve-as-isis-fighter/",
+      "published_at": "2026-08-13T12:32:00+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/13/b9230ebc-5830-48f0-9697-81d537eb0295/thumbnail/1024x576/acb709f6de3beda20749c93e7ca44ced/854d8747b2ccde369120aa3578f5577f.jpg",
+        "alt": ""
+      },
+      "uid": "1522eb0b-9651-4815-8819-080dbd046b0d",
+      "description": "A Colorado man has pleaded guilty to terrorism charges after pledging to serve as an ISIS fighter.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    },
+    {
+      "title": "Contractor at ICE detention facility in Aurora to appear in court on assault charge",
+      "summary": "Brandon Booth has been accused of opening fire on two protesters outside the ICE detention facility in Aurora, a large city just east of Denver, hitting one of them in the foot.",
+      "source": "CBS Colorado",
+      "topic": "immigration-enforcement",
+      "url": "https://www.cbsnews.com/colorado/video/contractor-at-ice-detention-facility-in-aurora-to-appear-in-court-on-assault-charge/",
+      "published_at": "2026-08-13T12:41:00+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/13/17f861c2-a2a3-492a-9a90-b5c04eb55c83/thumbnail/1024x576/f043d2fc7d48f03c7f7ad566aea2743d/285239e0e133403f2c9db812f3a903f3.jpg",
+        "alt": ""
+      },
+      "uid": "feb82c91-282f-4fb0-a96c-2ff17c81270a",
+      "description": "Brandon Booth has been accused of opening fire on two protesters outside the ICE detention facility, hitting one of them in the foot.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    },
+    {
+      "title": "Burnham Yard community meeting addresses Denver residents' concerns, changes for proposed Broncos site",
+      "summary": "Wednesday's meeting was the third community meeting for the La Alma Lincoln Park neighborhood, just southwest of downtown Denver, since the Denver Broncos' leadership announced their plans to build the new Broncos stadium in Burnham Yard, the former railyard next to it.",
+      "source": "CBS Colorado",
+      "topic": "other",
+      "url": "https://www.cbsnews.com/colorado/news/burnham-yard-community-meeting-denver-concerns-proposed-broncos/",
+      "published_at": "2026-08-13T19:35:36+00:00",
+      "image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/13/b61dab09-060d-48b7-8690-669d70e9c635/thumbnail/1024x576/e30ec1c8c98857f9757b674ca0648b61/burnham-yard-community-meeting-vo-transfer-frame-11.jpg",
+        "alt": ""
+      },
+      "uid": "8722ece0-30cb-4506-9da0-380c27e22b0b",
+      "description": "Wednesday's meeting was the third community meeting for the La Alma Lincoln Park community since the Denver Broncos' leadership announced their plans to build the new Broncos stadium in the former railyard.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    },
+    {
+      "title": "Aurora officer accused of using drugs confiscated during traffic stop resigns",
+      "summary": "Officer Michael Gallagher resigned in lieu of termination after serious policy violations were identified, said police in Aurora, the large city just east of Denver.",
+      "source": "9NEWS",
+      "topic": "policing",
+      "url": "https://www.9news.com/article/news/crime/aurora-officer-accused-using-confiscated-drugs-resigns/73-e693e853-43a9-42eb-b137-44e53630f0ef",
+      "published_at": "2026-08-13T04:02:07+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/9bb3fc5a-a5c2-4988-bd52-27fd7b7e9b89/20260519T032029/9bb3fc5a-a5c2-4988-bd52-27fd7b7e9b89_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "e1956d9c-a012-4c70-b10f-0dd4972d3a8d",
+      "description": "Officer Michael Gallagher resigned in lieu of termination after serious policy violations were identified, Aurora Police said."
+    }
+  ]
+}

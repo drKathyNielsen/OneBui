@@ -1,0 +1,77 @@
+{
+  "shortName": "Boulder, CO",
+  "metroCode": "14500",
+  "metro": "Boulder, CO",
+  "date": "2026-08-09",
+  "are_you_ok": [
+    {
+      "title": "Colorado heat continues before cooler, wetter weather arrives",
+      "summary": "",
+      "source": "CBS Colorado",
+      "topic": "heat",
+      "url": "https://www.cbsnews.com/colorado/news/colorado-heat-continues-before-cooler-wetter-weather-arrives/",
+      "published_at": "2026-08-09T17:10:08+00:00",
+      "image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/09/d469ebd9-bd50-418b-957e-7ed9ede928d4/thumbnail/1024x576/d7742982bbec2641b1cfc1828dd9357b/temperature-trend.png",
+        "alt": ""
+      },
+      "uid": "cc07ae5b-a634-44cc-961e-ab6978b48c2d",
+      "questions": [
+        "How is the heat treating you?",
+        "Did the afternoon storms cause you any trouble?"
+      ],
+      "description": "While temperatures will be the main concern Sunday, a few showers and isolated thunderstorms will develop during the afternoon that could produce strong winds.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    }
+  ],
+  "conversation_starters": [
+    {
+      "title": "1 person dead, another hurt in Northern Colorado after suspected microburst",
+      "summary": "One person died and another was injured in a grass fire in Northern Colorado, Greeley police said — Greeley being a city about 35 miles northeast of Boulder. It happened in the early afternoon after sudden high winds knocked down power lines near the intersection of Highway 34 and Highway 85, two state highways that cross just outside that city.",
+      "source": "CBS Colorado",
+      "topic": "severe-weather",
+      "url": "https://www.cbsnews.com/colorado/video/1-person-dead-another-hurt-in-northern-colorado-after-suspected-microburst/",
+      "published_at": "2026-08-09T20:32:00+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/09/45f522d6-9c22-4447-af81-e4f38bc020df/thumbnail/1024x576/b8b2a33fb25a410e00fa83cc62c87ac6/7162c75780d5789cfd0198bbf8cb8549.jpg",
+        "alt": ""
+      },
+      "uid": "e1b95015-a080-4523-8f8f-449c6d92eea6",
+      "questions": [
+        "Did the storms up north affect you at all?",
+        "Have you lost power in any of this weather?"
+      ],
+      "description": "One person died and another was injured on Saturday in a grass fire in Northern Colorado, Greeley police said. It happened in the early afternoon after sudden high winds knocked down power lines near the intersection of Highway 34 and Highway 85.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    },
+    {
+      "title": "Dozens fall ill, 7 hospitalized at festival in Colorado Springs",
+      "summary": "The Colorado Springs Fire Department says 72 people became ill, and seven were taken to the hospital, during the Tacos and Tequila Festival in Colorado Springs, about 100 miles south of Boulder.",
+      "source": "CBS Colorado",
+      "topic": "public-health",
+      "url": "https://www.cbsnews.com/colorado/video/dozens-fall-ill-7-hospitalized-at-festival-in-colorado-springs/",
+      "published_at": "2026-08-09T23:16:00+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/09/725cc5df-75ca-42ab-a371-6bce905d926e/thumbnail/1024x576/72ab252d39df342ecae8918c9df350a7/9459f1aee6476cf3da996dd5b3ca8446.jpg",
+        "alt": ""
+      },
+      "uid": "27ea2404-e674-4057-81d5-e2cdf52f4753",
+      "questions": [
+        "Did you hear about the festival in Colorado Springs?",
+        "Do you get down that way for events?"
+      ],
+      "description": "On Saturday, the Colorado Springs Fire Department says 72 people became ill, and seven were taken to the hospital during the Tacos and Tequila Festival.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    }
+  ],
+  "sports": [
+    {
+      "team": "Rockies",
+      "scores": [
+        "Cardinals 7, Rockies 4"
+      ]
+    }
+  ],
+  "weather_alert": [],
+  "you_should_know": []
+}

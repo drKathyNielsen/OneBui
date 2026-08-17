@@ -1,0 +1,109 @@
+{
+  "shortName": "San Antonio, TX",
+  "metroCode": "41700",
+  "metro": "San Antonio-New Braunfels, TX",
+  "date": "2026-08-09",
+  "are_you_ok": [
+    {
+      "title": "Rare mosquito-borne virus confirmed in South Texas man",
+      "summary": "79-year-old Tony Gomez spent two weeks on a ventilator after contracting St. Louis encephalitis, a rare mosquito-borne virus now confirmed in South Texas, the region running from San Antonio south to the border.",
+      "source": "KENS 5",
+      "topic": "public-health",
+      "url": "https://www.kens5.com/article/news/health/rare-mosquito-borne-virus-confirmed-in-south-texas-man/503-c6eee28a-d04b-4abe-b83d-a5ccf59b80fe",
+      "published_at": "2026-08-09T17:55:19+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KIII/images/f6ff6bd4-0bac-499f-8b37-d50be5898411/20260809T034342/f6ff6bd4-0bac-499f-8b37-d50be5898411_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "d7929d35-4f09-4649-bedd-5ce016870ce8",
+      "questions": [
+        "Have mosquitoes been bad around you this summer?",
+        "Is the encephalitis case something people there are talking about?"
+      ],
+      "description": "79-year-old Tony Gomez spent two weeks on a ventilator after contracting St. Louis encephalitis, a rare mosquito-borne virus now confirmed in South Texas."
+    }
+  ],
+  "conversation_starters": [
+    {
+      "title": "Possible mountain lion sighted in Castroville park, officials urge caution",
+      "summary": "A mountain lion sighting was reported to park officials in Castroville, a small town about 25 miles west of San Antonio, on Saturday. Officials do not have confirmed information, but are urging park-goers to be cautious.",
+      "source": "KENS 5",
+      "topic": "other",
+      "url": "https://www.kens5.com/article/news/local/public-safety/possible-mountain-lion-sighted-castroville-park-officials-reigional-texas/273-2b40b371-27ed-4b1e-8a41-fbd8fc5487dc",
+      "published_at": "2026-08-09T21:50:25+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/a9eb8f56-fb9c-415b-9636-c483287f0996/20260809T214659/a9eb8f56-fb9c-415b-9636-c483287f0996_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "edc5b5b9-9937-4e02-b89d-76d5fe55c2d8",
+      "questions": [
+        "Have you heard anything more about the mountain lion sighting in Castroville?",
+        "Do wildlife sightings like that come up often out that way?"
+      ],
+      "description": "A mountain lion sighting was reported to park officials on Saturday. Officials do not have confirmed information, but are urging park-goers to be cautious."
+    }
+  ],
+  "sports": [],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "The largest change to veteran benefits in years is splitting the military community",
+      "summary": "",
+      "source": "San Antonio Report",
+      "topic": "other",
+      "url": "https://sanantonioreport.org/san-antonio-veterans-va-benefits-congressional-bill-rating-change/",
+      "published_at": "2026-08-09T16:00:00+00:00",
+      "image": {
+        "url": "https://i0.wp.com/sanantonioreport.org/wp-content/uploads/2026/08/CityCouncil_PlanningCommunityDevelopmentCommittee_VeteranHousingVouchers_17_04.28.2026_AmberEsparza-scaled-1.jpg?fit=1024%2C683&ssl=1",
+        "alt": ""
+      },
+      "uid": "09a06c16-a98a-440a-8778-99360c6aa758",
+      "description": "Veterans could soon see the changes they have been demanding for years, but only if the ratings for sleep apnea and tinnitus change. The largest change to veteran benefits in years is splitting the military community was first posted on August 9, 2026 at 11:00 am.©2021 \"San",
+      "logo": "https://sanantonioreport.org/wp-content/uploads/2020/09/cropped-SA_Report_Logo_512pxArtboard-1-32x32.jpg"
+    },
+    {
+      "title": "Democrats in Congress, able to visit ICE lockups in Texas, describe grim conditions",
+      "summary": "Immigration officials deny the allegations, but Rep. Joaquin Castro, who represents much of San Antonio in Congress, says they've come across numerous problematic examples.",
+      "source": "San Antonio Report",
+      "topic": "immigration-enforcement",
+      "url": "https://sanantonioreport.org/democrats-congress-ice-lockups-texas-joaquin-castro-grim-conditions/",
+      "published_at": "2026-08-09T21:00:00+00:00",
+      "image": {
+        "url": "https://i0.wp.com/sanantonioreport.org/wp-content/uploads/2026/08/0728-Castro-Presser-trib.jpg?fit=1024%2C683&ssl=1",
+        "alt": ""
+      },
+      "uid": "f4e3daa3-ba2d-47b7-8a9a-56bc482e0732",
+      "description": "Immigration officials deny the allegations, but Rep. Joaquin Castro says they’ve come across numerous problematic examples.Democrats in Congress, able to visit ICE lockups in Texas, describe grim conditions was first posted on August 9, 2026 at 4:00 pm.©2021 \"San Antonio",
+      "logo": "https://sanantonioreport.org/wp-content/uploads/2020/09/cropped-SA_Report_Logo_512pxArtboard-1-32x32.jpg"
+    },
+    {
+      "title": "When a TIRZ creates a pool of public dollars for a specific neighborhood, how do the rest fare?",
+      "summary": "",
+      "source": "San Antonio Report",
+      "topic": "business-jobs",
+      "url": "https://sanantonioreport.org/tirz-neighborhood-san-antonio-tax-increment-reinvestment-zone/",
+      "published_at": "2026-08-09T19:00:00+00:00",
+      "image": {
+        "url": "https://i0.wp.com/sanantonioreport.org/wp-content/uploads/2026/08/Scott-Ball_aerial-drone-downtown-stadium-san-pedro-creek-itc-institute-texan-cultures-8-21-2023_2.jpg?fit=1024%2C576&ssl=1",
+        "alt": ""
+      },
+      "uid": "38ed0842-3a7d-45af-a8a6-2e285c853bc5",
+      "description": "Some say a Tax Increment Reinvestment Zone has flaws with long-range effects: taking tax dollars from property development meant for all and trapping it in one geographic area of the city.When a TIRZ creates a pool of public dollars for a specific neighborhood, how do the rest",
+      "logo": "https://sanantonioreport.org/wp-content/uploads/2020/09/cropped-SA_Report_Logo_512pxArtboard-1-32x32.jpg"
+    },
+    {
+      "title": "Historic Black history marker damaged on San Antonio’s East Side, civil rights leader suspects 'racial vandalism'",
+      "summary": "Mario Salas authored the plaque located off South Pine and Iowa streets on San Antonio's East Side, the historically Black neighborhoods just east of downtown, which highlights the fight for equality and the struggles against injustice.",
+      "source": "KENS 5",
+      "topic": "other",
+      "url": "https://www.kens5.com/article/news/local/black-history/historic-black-history-marker-damaged-san-antonios-east-side-civil-rights-leader-racial-vandalism-denver-heights-sncc/273-84684418-9034-472b-9ecb-424d5f9185d4",
+      "published_at": "2026-08-09T22:51:18+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/01346716-dfc7-4baa-9464-cae536639519/20260809T224924/01346716-dfc7-4baa-9464-cae536639519_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "922f47ab-b140-4049-b428-223445681398",
+      "description": "Mario Salas authored the plaque located off South Pine and Iowa streets, which highlights the fight for equality and the struggles against injustice."
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "shortName": "Boulder, CO",
+  "metroCode": "14500",
+  "metro": "Boulder, CO",
+  "date": "2026-08-11",
+  "are_you_ok": [],
+  "conversation_starters": [
+    {
+      "title": "Mobile home residents in Colorado race to make competing offer for Boulder County park",
+      "summary": "",
+      "source": "CBS Colorado",
+      "topic": "housing",
+      "url": "https://www.cbsnews.com/colorado/news/san-lazaro-mobile-home-park-residents-colorado-offer-boulder-county-park/",
+      "published_at": "2026-08-11T13:42:26+00:00",
+      "image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/05/28/b3d95980-07dc-464b-91f2-2f91ad66efe8/thumbnail/1024x576/145d150877e990685658c00fed4586d9/boulder-mobile-home-park-10pkg-transfer-frame-2938.jpg",
+        "alt": ""
+      },
+      "uid": "c2721da7-3055-4a09-a31f-fefc5efb2f15",
+      "questions": [
+        "Have you been following what happens to the San Lazaro park residents?",
+        "Is a mobile home park a common way people afford to stay in the area?"
+      ],
+      "description": "Residents have until December to submit an offer for San Lazaro Mobile Home Park, which is listed for $42.5 million.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    },
+    {
+      "title": "Several dogs bitten by rattlesnakes in Colorado's Westminster Hills Open Space as heat wave continues",
+      "summary": "Colorado's hot summer is contributing to an increase in rattlesnake sightings in popular open spaces, including Westminster Hills Open Space in Westminster, a suburb about 15 miles southeast of Boulder on the way to Denver.",
+      "source": "CBS Colorado",
+      "topic": "other",
+      "url": "https://www.cbsnews.com/colorado/news/dogs-bitten-rattlesnakes-colorados-westminster-hills-open-space-heat-wave/",
+      "published_at": "2026-08-11T13:22:44+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/11/f1196a18-3f3e-4b29-8f6a-ca696afcfa23/thumbnail/1024x576/96fa54c38c1862420ba221ac9f207193/westminster-rattlesnakes-10pkg-transfer-frame-0.jpg",
+        "alt": ""
+      },
+      "uid": "cc7893b4-b093-4479-92e9-4c5a318fae46",
+      "questions": [
+        "Have you run into any snakes on the trails this summer?",
+        "Does the heat change where you walk the dog?"
+      ],
+      "description": "Colorado's hot summer is contributing to an increase in rattlesnake sightings in popular open spaces.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    },
+    {
+      "title": "In Colorado, teens can be charged the same as adults if they cause a crash",
+      "summary": "",
+      "source": "CBS Colorado",
+      "topic": "transportation",
+      "url": "https://www.cbsnews.com/colorado/news/colorado-teens-charged-adults-cause-crash/",
+      "published_at": "2026-08-11T13:16:39+00:00",
+      "image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/11/ecf0a586-9368-4576-95e2-c9e9167d831b/thumbnail/1024x576/ef0a12c39c399509e054ae43caf03a02/gettyimages-2251952992.jpg",
+        "alt": ""
+      },
+      "uid": "7a196b80-fb82-49d0-9798-140e05f2242b",
+      "questions": [
+        "Do you have teen drivers at home, or friends who do?",
+        "Was driver's education a big deal where you grew up?"
+      ],
+      "description": "The Colorado State Patrol says that in the first eight months of 2025, teens were at fault for almost 1,500 crashes.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    },
+    {
+      "title": "Savannah Bananas to stop by Dunkin' store in Colorado",
+      "summary": "Catch the Savannah Bananas in Denver as they bring their show to Coors Field, the Colorado Rockies' ballpark in downtown Denver about 30 miles southeast of Boulder. Meet the players at the Dunkin' in Greenwood Village, a suburb south of Denver.",
+      "source": "9NEWS",
+      "topic": "civic-events",
+      "url": "https://www.9news.com/article/life/style/colorado-guide/savannah-bananas-dunkin-donuts-colorado/73-639c0875-48d9-4943-9d26-c9cc66a382cc",
+      "published_at": "2026-08-11T14:13:13+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/f146b53a-481f-4e02-9810-77c2c8acc55c/20260811T140333/f146b53a-481f-4e02-9810-77c2c8acc55c_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "b9fc7e55-c7e2-4da5-b0f9-c26bc68bc3d6",
+      "questions": [
+        "Did you catch the Savannah Bananas when they came through?",
+        "Are you much of a baseball person?"
+      ],
+      "description": "Catch the Savannah Bananas in Denver this weekend as they bring their show to Coors Field. Meet the players at Dunkin' in Greenwood Village on Friday."
+    },
+    {
+      "title": "Denver City Council approves funding for Denver International Airport improvements",
+      "summary": "",
+      "source": "CBS Colorado",
+      "topic": "transportation",
+      "url": "https://www.cbsnews.com/colorado/video/denver-city-council-approves-funding-for-denver-international-airport-improvements/",
+      "published_at": "2026-08-11T12:51:00+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/11/a055a5e1-909c-45df-affd-360d36a6aee0/thumbnail/1024x576/a5965172000c69102acbdbb707b7fc00/0f027682553e2cd26810fc326f1823a1.jpg",
+        "alt": ""
+      },
+      "uid": "4593b236-ba7e-4b48-b72c-a17dcd59ce7b",
+      "questions": [
+        "Do you fly out of Denver International much?",
+        "Would the terminal work make your trips any easier?"
+      ],
+      "description": "Denver City Council approved funding for Denver International Airport improvements, such as expansion of the north terminal and funding for the train and walkways.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    },
+    {
+      "title": "Colorado to limit sports betting deposits to six in 24 hours",
+      "summary": "",
+      "source": "9NEWS",
+      "topic": "other",
+      "url": "https://www.9news.com/article/news/local/colorado-sports-betting-limits/73-2e8b9653-883f-4b82-a8a7-deafe9703092",
+      "published_at": "2026-08-11T22:46:04+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/a425b5e0-8a35-4689-8792-33db057faef7/20260811T223835/a425b5e0-8a35-4689-8792-33db057faef7_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "80527735-8454-4031-9745-b781dba44f34",
+      "questions": [
+        "Did you hear about the new cap on sports betting deposits?",
+        "Do you think limits like that make much difference?"
+      ],
+      "description": "The bipartisan law was passed in support of stronger responsible gambling measures."
+    }
+  ],
+  "sports": [],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "Police in Longmont, Colorado shoot and kill man who took victim hostage and said he had a gun",
+      "summary": "Police in the far southern section of Longmont, a city about 15 miles northeast of Boulder, shot a man who they said was involved in a domestic disturbance and took a victim hostage.",
+      "source": "CBS Colorado",
+      "topic": "policing",
+      "url": "https://www.cbsnews.com/colorado/news/police-longmont-colorado-shoot-kill/",
+      "published_at": "2026-08-11T04:17:55+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/11/9df13129-ea5b-40e9-9b60-327df1b9c8f3/thumbnail/1024x576/5e273e42b53966e86193a8095dfa69d1/shooting.jpg",
+        "alt": ""
+      },
+      "uid": "496294d5-df52-4a39-8853-0ab96c5f8c79",
+      "description": "Police in the far southern section of Longmont shot a man who they said was involved in a domestic disturbance and took a victim hostage.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    },
+    {
+      "title": "Aurora City Council decides to develop new regulations on data centers",
+      "summary": "The city council in Aurora, a large suburb on Denver's east side about 40 miles southeast of Boulder, has decided to develop new regulations on data centers instead of voting on a moratorium.",
+      "source": "CBS Colorado",
+      "topic": "data-centers",
+      "url": "https://www.cbsnews.com/colorado/video/aurora-city-council-decides-to-develop-new-regulations-on-data-centers/",
+      "published_at": "2026-08-11T12:44:00+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/11/cf6a7349-0ff2-4214-bc29-f10a8240638d/thumbnail/1024x576/d3805e15e50c2683bb389be24c2a2ff1/8e345f69cd01766d9385f891cc7e500d.jpg",
+        "alt": ""
+      },
+      "uid": "fab94080-4007-4147-9fc8-4f666881a032",
+      "description": "The Aurora City Council has decided to develop new regulations on data centers instead of voting on a moratorium.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    }
+  ]
+}
