@@ -1,0 +1,161 @@
+{
+ "shortName": "Fixture City, ZZ",
+ "metroCode": "00000",
+ "metro": "Fixture City, ZZ",
+ "date": "2026-08-18",
+ "are_you_ok": [
+  {
+   "title": "Sudden downpour strands drivers, prompts rescue efforts",
+   "summary": "Forecasters warned of flash flooding across Colorado, with the sharpest risk in burn scar areas — hillsides stripped by past wildfires, where rain runs off instead of soaking in. Severe thunderstorms then dropped heavy rain and hail on Denver and the eastern plains, leaving roads and trails muddy and prompting flood warnings across parts of the Denver metro area. One sudden downpour stranded drivers in their vehicles and pulled in rescue crews, with a fire battalion chief describing every call dropping at once.",
+   "source": "9NEWS",
+   "topic": "flood",
+   "url": "https://www.9news.com/article/weather/weather-colorado/sudden-downpour-strands-drivers-prompts-rescue-efforts-aurora-saturday/73-34f78507-50b7-4a32-96f4-fce84b81fc65#fixture-8",
+   "published_at": "2026-08-17T03:51:19+00:00",
+   "image": null,
+   "uid": "fixture-8",
+   "description": "\"All the calls dropped at the same time,\" fire Battalion Chief Jason Haley said. \"Pretty much everybody was just stuck in their vehicles and couldn't get out.\"",
+   "questions": [
+    "Did the downpour cause any trouble where you are?",
+    "Has the rain been affecting your commute at all?"
+   ],
+   "thread": [
+    {
+     "title": "Heavy rain forecast raises flash flood risks in Colorado through weekend",
+     "summary": "",
+     "source": "9NEWS",
+     "topic": "flood",
+     "url": "https://www.9news.com/article/weather/weather-colorado/rain-chances-denver-colorado-forecast/73-62c25a62-9de4-4bd3-af12-f8c28982afc0#fixture-8-t0",
+     "published_at": "2026-08-14T22:33:10+00:00",
+     "image": {
+      "url": "https://media.tegna-media.com/assets/KUSA/images/bad53148-f0b2-4ade-b3c7-8ec593a8ba89/20260814T100736/bad53148-f0b2-4ade-b3c7-8ec593a8ba89_750x422.jpg",
+      "alt": ""
+     },
+     "uid": "fixture-8-t0",
+     "description": "Colorado faces a risk of flash flooding with storms likely on Friday and Saturday, especially in burn scar areas. Stay alert and avoid flooded roads."
+    },
+    {
+     "title": "Severe thunderstorms bring heavy rain, hail to Denver Saturday",
+     "summary": "",
+     "source": "9NEWS",
+     "topic": "severe-weather",
+     "url": "https://www.9news.com/article/weather/severe-weather/severe-storm-warning-denver-metro-area/73-6e35649b-2014-442b-b63b-b6c657e43002#fixture-8-t1",
+     "published_at": "2026-08-15T20:18:16+00:00",
+     "image": {
+      "url": "https://media.tegna-media.com/assets/KUSA/images/e46730ea-658e-49b9-a98f-8b395aed232b/20260815T143244/e46730ea-658e-49b9-a98f-8b395aed232b_750x422.jpg",
+      "alt": ""
+     },
+     "uid": "fixture-8-t1",
+     "description": "Severe thunderstorms brought heavy rain and hail Saturday afternoon in Denver and on the Colorado plains."
+    },
+    {
+     "title": "Heavy rain drenches Colorado",
+     "summary": "",
+     "source": "9NEWS",
+     "topic": "flood",
+     "url": "https://www.9news.com/article/weather/weather-colorado/rain-totals-colorado/73-4e5d798b-7f70-4a5c-935b-37aaf948596c#fixture-8-t2",
+     "published_at": "2026-08-16T17:49:22+00:00",
+     "image": {
+      "url": "https://media.tegna-media.com/assets/KUSA/images/a9c4301f-9250-455b-a16d-89b14ee6c50a/20260816T123709/a9c4301f-9250-455b-a16d-89b14ee6c50a_750x422.jpg",
+      "alt": ""
+     },
+     "uid": "fixture-8-t2",
+     "description": "Heavy rain soaked parts of Colorado this weekend, leaving roads and trails muddy and prompting flood warnings in portions of the Denver metro area."
+    },
+    {
+     "title": "Sudden downpour strands drivers, prompts rescue efforts",
+     "summary": "",
+     "source": "9NEWS",
+     "topic": "flood",
+     "url": "https://www.9news.com/article/weather/weather-colorado/sudden-downpour-strands-drivers-prompts-rescue-efforts-aurora-saturday/73-34f78507-50b7-4a32-96f4-fce84b81fc65#fixture-8-t3",
+     "published_at": "2026-08-17T03:51:19+00:00",
+     "image": {
+      "url": "https://media.tegna-media.com/assets/KUSA/images/7b1bfdd1-2926-468b-b181-e80f13d37676/20260817T035023/7b1bfdd1-2926-468b-b181-e80f13d37676_750x422.jpg",
+      "alt": ""
+     },
+     "uid": "fixture-8-t3",
+     "description": "\"All the calls dropped at the same time,\" fire Battalion Chief Jason Haley said. \"Pretty much everybody was just stuck in their vehicles and couldn't get out.\""
+    }
+   ]
+  }
+ ],
+ "conversation_starters": [
+  {
+   "title": "Boulder County opens new quantum computing facility",
+   "summary": "The Colorado Quantum Innovation Center will serve as Inflection's headquarters in Louisville, a small city about 10 miles southeast of Boulder.",
+   "source": "CBS Colorado",
+   "topic": "business-jobs",
+   "url": "https://www.cbsnews.com/colorado/news/boulder-county-reveals-new-quantum-computing-center/#fixture-9",
+   "published_at": "2026-08-19T19:28:24+00:00",
+   "image": null,
+   "uid": "fixture-9",
+   "questions": [
+    "Have you heard much about the new quantum center opening in Louisville?",
+    "Does the growth in that kind of research show up around town at all?"
+   ],
+   "description": "The Colorado Quantum Innovation Center will serve as Inflection's headquarters in Louisville."
+  },
+  {
+   "title": "Rüfüs Du Sol in Colorado: What to know for the stadium concert",
+   "summary": "Rufus Du Sol is set to electrify Colorado with its largest North American headline tour, performing at CU Boulder's Folsom Field, the university's football stadium in the middle of the city.",
+   "source": "9NEWS",
+   "topic": "civic-events",
+   "url": "https://www.9news.com/article/entertainment/music/colorado-music/rufus-du-sol-folsom-field-stadium-colorado-concert/73-6f749886-4aa4-4874-9778-8536425e8a7c#fixture-10",
+   "published_at": "2026-08-19T15:53:02+00:00",
+   "image": null,
+   "uid": "fixture-10",
+   "questions": [
+    "Do the big shows at Folsom Field change how the city feels for a weekend?",
+    "Are you someone who goes to the stadium concerts, or do you steer clear?"
+   ],
+   "description": "Rüfüs Du Sol is set to electrify Colorado with its largest North American headline tour, performing at CU Boulder's Folsom Field this Saturday."
+  },
+  {
+   "title": "Bear crashes CSU move-in day, giving students a Colorado welcome",
+   "summary": "Around 3,200 students were expected to move into Colorado State University's campus in Fort Collins, a city about 45 miles north of Boulder. One bear decided to join the fun.",
+   "source": "9NEWS",
+   "topic": "wildlife",
+   "url": "https://www.9news.com/article/news/local/bear-crashes-csu-move-in-day/73-2c3ea266-8c74-44db-b615-9dcd497e1331#fixture-11",
+   "published_at": "2026-08-19T16:20:37+00:00",
+   "image": null,
+   "uid": "fixture-11",
+   "questions": [
+    "Did you see the story about the bear turning up for move-in at CSU?",
+    "Are bear sightings a normal part of late summer where you are?"
+   ],
+   "description": "Around 3,200 students were expected to move into Colorado State University's campus Tuesday. One bear decided to join the fun."
+  }
+ ],
+ "you_should_know": [
+  {
+   "title": "Colorado regulators approve Xcel Energy rate increase, raising monthly electric bills",
+   "summary": "",
+   "source": "CBS Colorado",
+   "topic": "other",
+   "url": "https://www.cbsnews.com/colorado/news/colorado-regulators-xcel-energy-rate-increase-electric-bills/#fixture-12",
+   "published_at": "2026-08-19T20:40:57+00:00",
+   "image": null,
+   "uid": "fixture-12",
+   "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+  },
+  {
+   "title": "Boulder will begin collecting its new transportation fee in 2027",
+   "summary": "",
+   "source": "Boulder Reporting Lab",
+   "topic": "transportation",
+   "url": "https://boulderreportinglab.org/2026/08/18/boulder-will-begin-collecting-its-new-transportation-fee-in-2027/#fixture-13",
+   "published_at": "2026-08-19T04:57:23+00:00",
+   "image": null,
+   "uid": "fixture-13",
+   "logo": "https://boulderreportinglab.org/wp-content/uploads/2021/06/cropped-brl-favicon-32x32.png"
+  }
+ ],
+ "sports": [
+  {
+   "team": "Fixture FC",
+   "scores": [
+    "draws with Sample United, 1-1"
+   ]
+  }
+ ],
+ "weather_alert": []
+}
