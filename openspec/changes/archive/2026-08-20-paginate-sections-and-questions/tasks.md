@@ -27,8 +27,8 @@
 - [x] 2.8 Point `test:a11y` at the generator and `pa11y-ci --config .pa11yci.json`; build with `VITE_A11Y_FIXTURES=1` in `test:a11y:ci`; delete the hand-maintained `.pa11yci`
 - [x] 2.9 Scope `.githooks/pre-push` by changed paths — `src/`/styles run the fixture matrix, `digests/`-only runs the live sweep, both or unrecognized runs everything
 - [x] 2.10 Update the Accessibility section of `CLAUDE.md`, which currently documents the flat "four times, once per style×theme" matrix and the hand-edited `.pa11yci`
-- [ ] 2.11 Verify non-leakage: build **without** the flag, grep `dist/` for fixture content, confirm the metro nav lists only real metros
-- [ ] 2.12 Run `npm run test:a11y:ci`; confirm the generated matrix covers strictly more distinct pages than the twelve URLs it replaces, in fewer total runs than a flat 6× cross product
+- [x] 2.11 Verify non-leakage: build **without** the flag, grep `dist/` for fixture content, confirm the metro nav lists only real metros
+- [x] 2.12 Run `npm run test:a11y:ci`; confirm the generated matrix covers strictly more distinct pages than the twelve URLs it replaces, in fewer total runs than a flat 6× cross product
 
 ## 3. Types and Data Mapping
 
@@ -80,8 +80,8 @@
 ## 9. Verification
 
 - [x] 9.1 Run the unit suite — all green
-- [ ] 9.2 Run `npm run lint` and `npm run build` (Node 24 — `nvm use`)
-- [ ] 9.3 Run `npm run test:a11y:ci`; treat any new WCAG2AA violation as a blocking finding
-- [ ] 9.4 Spot-check in the browser: Boulder weekly (6 leads / 15 starters / 15 know), a sparse day, and Minneapolis weekly (6 sports teams)
+- [x] 9.2 Run `npm run lint` and `npm run build` (Node 24 — `nvm use`)
+- [x] 9.3 Run `npm run test:a11y:ci`; treat any new WCAG2AA violation as a blocking finding
+- [x] 9.4 Spot-check in the browser: Boulder weekly (6 leads / 15 starters / 15 know), a sparse day, and Minneapolis weekly (6 sports teams)
 - [x] 9.5 Changed-files code review by an independent agent; record findings in `docs/reviews/<YYYY-MM-DD>-paginate-sections-and-questions.md`
 - [x] 9.6 Fix the findings that warrant fixing; surface the rest to the human before archiving

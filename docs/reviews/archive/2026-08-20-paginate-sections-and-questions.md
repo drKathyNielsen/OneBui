@@ -74,5 +74,21 @@ openers render as two items with no React error logged.
 
 All six findings fixed in this change. No findings deferred, accepted, or moved to
 `docs/BACKLOG.md`. Suite after fixes: 47 tests / 9 files green, `tsc -b` and
-`eslint .` clean. The accessibility run itself (`npm run test:a11y:ci`) is still
-outstanding and is the remaining gate before archive.
+`eslint .` clean.
+
+Dispositions settled at archive (2026-08-20):
+
+- **Accessibility run** — `npm run test:a11y:ci` run by the author; task 9.3 checked off.
+  No longer outstanding.
+- **Fixture non-leakage (task 2.11)** — verified at archive time. A plain `npm run build`
+  emits no `Fixture City, ZZ` and no fixture chunk; the same build with
+  `VITE_A11Y_FIXTURES=1` does. The only `00000` hits in `dist/` are Bootstrap hex colors.
+- **New finding, fixed at archive: stale spec requirement.** Syncing the delta specs
+  surfaced that `openspec/specs/digest-data/spec.md` → *Resilient Rendering of Sparse
+  Digests* still claimed empty sections "are omitted", while the code renders an
+  `emptyNote` (`ArticleList.tsx`, `AreTheyOk.tsx`, `Sports.tsx`) and the change's own
+  *Uniform Array Sections* delta says the note renders. The delta did not list that
+  requirement, so the contradiction would have shipped into the main specs. Scenario
+  rewritten to match the implementation.
+
+No open findings remain.
