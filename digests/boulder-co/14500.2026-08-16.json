@@ -21,6 +21,24 @@
         "Are the trails around you washed out, or did Boulder mostly miss it?"
       ],
       "description": "Heavy rain soaked parts of Colorado this weekend, leaving roads and trails muddy and prompting flood warnings in portions of the Denver metro area."
+    },
+    {
+      "title": "Here are the wildfires burning in Colorado",
+      "summary": "",
+      "source": "9NEWS",
+      "topic": "wildfire",
+      "url": "https://www.9news.com/article/news/local/wildfire/wildfires-burning-in-colorado/73-a06f70ba-1597-4506-84fe-1c06cf6f8bf8",
+      "published_at": "2026-08-16T16:07:29+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/e71873f6-2ea3-409b-ad6c-d0199e0ef84f/20260806T231622/e71873f6-2ea3-409b-ad6c-d0199e0ef84f_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "59d11c13-ff9f-4818-9ffc-622b04f1b887",
+      "questions": [
+        "Are any of the fires close to you?",
+        "Has the smoke reached Boulder?"
+      ],
+      "description": "Here's the latest on the fires burning across the state."
     }
   ],
   "conversation_starters": [],

@@ -21,6 +21,24 @@
         "Does the flood risk change your plans for the weekend?"
       ],
       "description": "Colorado faces a risk of flash flooding with storms likely on Friday and Saturday, especially in burn scar areas. Stay alert and avoid flooded roads."
+    },
+    {
+      "title": "Colorado has a new largest body of water — at least for now",
+      "summary": "Drought conditions have pushed Blue Mesa Reservoir, a reservoir in western Colorado about 200 miles southwest of Boulder, to historic lows, allowing Lake Granby, a reservoir in the mountains roughly 60 miles west of Boulder, to temporarily claim the title of Colorado's largest reservoir by volume.",
+      "source": "9NEWS",
+      "topic": "drought-water",
+      "url": "https://www.9news.com/article/weather/weather-ott/lake-granby-largest-reservoir-water/73-8aa40a59-99df-4449-862b-c000e848ec37",
+      "published_at": "2026-08-14T13:13:35+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/f47a1562-8bb5-4315-a505-db1c5bfa15f1/20260814T041524/f47a1562-8bb5-4315-a505-db1c5bfa15f1_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "38d087f1-c7cf-4b19-bd71-8cad926668d1",
+      "questions": [
+        "Has the drought changed anything for you day to day?",
+        "Do you get out to the reservoirs much?"
+      ],
+      "description": "Drought conditions have pushed Blue Mesa Reservoir to historic lows, allowing Lake Granby to temporarily claim the title of Colorado’s largest reservoir by volume."
     }
   ],
   "conversation_starters": [
@@ -44,24 +62,6 @@
       "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
     },
     {
-      "title": "Savannah Bananas expected to bring Denver business boom",
-      "summary": "The viral dancing sensation is set to return to Denver — the Mile High City, about 30 miles southeast of Boulder — on Friday and Saturday, generating dollars for downtown businesses there.",
-      "source": "9NEWS",
-      "topic": "civic-events",
-      "url": "https://www.9news.com/article/life/style/colorado-guide/savannah-bananas-denver-business-boom/73-adf22979-ec51-4eeb-914d-ff8d1b292a3c",
-      "published_at": "2026-08-14T16:35:13+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KUSA/images/a1a69c77-fbf7-4004-8765-bad29ea96415/20260814T163121/a1a69c77-fbf7-4004-8765-bad29ea96415_750x422.jpg",
-        "alt": ""
-      },
-      "uid": "5af620b1-8d61-41b6-86ff-824d1432b55f",
-      "questions": [
-        "Are you going to catch the Savannah Bananas while they're in Denver?",
-        "Have you seen them before? I hear it's less baseball than show."
-      ],
-      "description": "The viral dancing sensation is set to return to the Mile High City on Friday and Saturday, generating dollars for downtown Denver businesses."
-    },
-    {
       "title": "A century-old Boulder County war memorial is finally getting its due. Now the search is on for 1,500 families.",
       "summary": "",
       "source": "Boulder Reporting Lab",
@@ -81,22 +81,22 @@
       "logo": "https://boulderreportinglab.org/wp-content/uploads/2021/06/cropped-brl-favicon-32x32.png"
     },
     {
-      "title": "Abandoned llama rescued from Comanche Peak Trail after refusing to hike out",
-      "summary": "",
+      "title": "Savannah Bananas expected to bring Denver business boom",
+      "summary": "The viral dancing sensation is set to return to Denver — the Mile High City, about 30 miles southeast of Boulder — on Friday and Saturday, generating dollars for downtown businesses there.",
       "source": "9NEWS",
-      "topic": "human-interest",
-      "url": "https://www.9news.com/article/life/animals/abandoned-llama-rescued-comanche-peak-trail/73-3f34f642-ab79-401f-a3ab-02302cbab40f",
-      "published_at": "2026-08-14T03:59:51+00:00",
+      "topic": "civic-events",
+      "url": "https://www.9news.com/article/life/style/colorado-guide/savannah-bananas-denver-business-boom/73-adf22979-ec51-4eeb-914d-ff8d1b292a3c",
+      "published_at": "2026-08-14T16:35:13+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/KUSA/images/dde44206-edc0-4855-9b75-2bff0a280eef/20260814T025311/dde44206-edc0-4855-9b75-2bff0a280eef_750x422.jpg",
+        "url": "https://media.tegna-media.com/assets/KUSA/images/a1a69c77-fbf7-4004-8765-bad29ea96415/20260814T163121/a1a69c77-fbf7-4004-8765-bad29ea96415_750x422.jpg",
         "alt": ""
       },
-      "uid": "57505781-66dd-46f6-a947-a539311c3ef0",
+      "uid": "5af620b1-8d61-41b6-86ff-824d1432b55f",
       "questions": [
-        "Did you catch the story about the llama that refused to hike out?",
-        "Do you get up to that part of the state much?"
+        "Are you going to catch the Savannah Bananas while they're in Denver?",
+        "Have you seen them before? I hear it's less baseball than show."
       ],
-      "description": "The owners told deputies the stubborn animal decided to stay put during a hike. Deputies said the llama would walk about 30 feet before deciding it was break time."
+      "description": "The viral dancing sensation is set to return to the Mile High City on Friday and Saturday, generating dollars for downtown Denver businesses."
     },
     {
       "title": "Passengers evacuated after bullet found on plane at DIA",
@@ -115,6 +115,24 @@
         "Did the sweep hold up much of the terminal?"
       ],
       "description": "A United plane underwent a security sweep after a bullet was found prior to the flight's departure Thursday."
+    },
+    {
+      "title": "Abandoned llama rescued from Comanche Peak Trail after refusing to hike out",
+      "summary": "",
+      "source": "9NEWS",
+      "topic": "human-interest",
+      "url": "https://www.9news.com/article/life/animals/abandoned-llama-rescued-comanche-peak-trail/73-3f34f642-ab79-401f-a3ab-02302cbab40f",
+      "published_at": "2026-08-14T03:59:51+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/dde44206-edc0-4855-9b75-2bff0a280eef/20260814T025311/dde44206-edc0-4855-9b75-2bff0a280eef_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "57505781-66dd-46f6-a947-a539311c3ef0",
+      "questions": [
+        "Did you catch the story about the llama that refused to hike out?",
+        "Do you get up to that part of the state much?"
+      ],
+      "description": "The owners told deputies the stubborn animal decided to stay put during a hike. Deputies said the llama would walk about 30 feet before deciding it was break time."
     },
     {
       "title": "Tony Hawk gives away used, signed skateboard in Denver",

@@ -18,8 +18,8 @@
       },
       "uid": "a2862b60-e1b2-4743-9fa4-41f0ee4b2c8f",
       "questions": [
-        "Were you anywhere near downtown when the scooters came through?",
-        "How are people around you taking the safety concerns?"
+        "Did you see anything about the scooters downtown?",
+        "Has that changed how downtown feels in the evenings?"
       ],
       "description": "The Minnesota State Patrol and Minneapolis Police are concerned about public safety after witnesses saw hundreds of scooters on the interstate near downtown."
     }
@@ -42,7 +42,7 @@
   "you_should_know": [
     {
       "title": "DOJ monitors polling sites in Hennepin and Ramsey counties",
-      "summary": "Fifty federal staff members have been observing polling locations across seven counties during the primary season in Minnesota, including Hennepin County, which covers Minneapolis, and Ramsey County, which covers St. Paul.",
+      "summary": "",
       "source": "KARE 11",
       "topic": "elections-politics",
       "url": "https://www.kare11.com/article/news/local/doj-monitors-polling-sites-in-hennepin-and-ramsey-counties/89-2ebfcbd2-5ef8-4f74-8ab2-c1a73a9ebc29",
@@ -71,7 +71,7 @@
     },
     {
       "title": "Minnesota cities pull back on Flock cameras amid public pushback",
-      "summary": "A growing number of Minnesota communities are rethinking their use of Flock cameras, the automated license-plate readers many local police departments have installed, as debates over privacy and surveillance heat up.",
+      "summary": "A growing number of Minnesota communities are rethinking their use of Flock license-plate-reading cameras as debates over privacy and surveillance heat up.",
       "source": "FOX 9",
       "topic": "policing",
       "url": "https://www.fox9.com/news/minnesota-cities-pull-back-flock-cameras-amid-public-pushback",
@@ -85,7 +85,7 @@
     },
     {
       "title": "Firefighter dies from 'medical emergency' while battling wildfires in northern MN",
-      "summary": "The U.S. Forest Service said the incident occurred at around 10:40 a.m. near Ely, a town in far northeastern Minnesota roughly 230 miles north of Minneapolis, and said fire and emergency medical services responded.",
+      "summary": "The U.S. Forest Service said the incident occurred at around 10:40 a.m. near Ely, a town in far northeastern Minnesota, roughly 230 miles north of Minneapolis, and said fire and emergency medical services responded.",
       "source": "KARE 11",
       "topic": "wildfire",
       "url": "https://www.kare11.com/article/news/local/individual-dies-medical-emergency-while-battling-wildfires-northern-mn/89-9ee29bf1-3fb0-4bba-b4d7-987064163a08",

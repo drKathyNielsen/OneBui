@@ -6,7 +6,7 @@
   "are_you_ok": [
     {
       "title": "Severe drought expands in Minnesota, threatening farms",
-      "summary": "Drought conditions have spread across much of Minnesota, with some of the state's driest conditions in central and northern Minnesota, the stretch of the state running north from the Minneapolis metro.",
+      "summary": "",
       "source": "CBS Minnesota",
       "topic": "drought-water",
       "url": "https://www.cbsnews.com/minnesota/news/severe-drought-expands-minnesota-aug-2026/",
@@ -17,8 +17,8 @@
       },
       "uid": "076fc922-9557-4e4f-8270-04e0f1d6e7e4",
       "questions": [
-        "Has the drought reached where you are, or is it mostly further north?",
-        "Are you or anyone close to you dealing with water restrictions right now?"
+        "Has the drought reached your part of the state?",
+        "Are there any water restrictions where you live?"
       ],
       "description": "Drought conditions have spread across much of Minnesota, with some of the state's driest conditions in central and northern Minnesota.",
       "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
@@ -38,8 +38,8 @@
       },
       "uid": "c9f0b696-ad12-47df-a447-d1c12b64550e",
       "questions": [
-        "Did you get out to Porchfest this year?",
-        "A hundred bands on thirty porches sounds like a lot to navigate — how do people pick where to go?"
+        "Did you catch any of the Porchfest sets this year?",
+        "Is Porchfest something your neighborhood takes part in?"
       ],
       "description": "Organizers say more than 100 bands played across 30 porches Saturday."
     }
@@ -75,7 +75,7 @@
   "you_should_know": [
     {
       "title": "Ex-Anoka County prosecutor charged: Expert explains trafficking allegations",
-      "summary": "A former assistant attorney for Anoka County, the northern suburbs of Minneapolis, is now facing serious charges for her alleged role in a commercial sex trafficking operation.",
+      "summary": "A former assistant county attorney for Anoka County, the northern suburbs of Minneapolis, is now facing serious charges for her alleged role in a commercial sex trafficking operation.",
       "source": "FOX 9",
       "topic": "violent-crime",
       "url": "https://www.fox9.com/news/ex-anoka-county-prosecutor-charged-expert-explains-trafficking-allegations",
@@ -88,8 +88,22 @@
       "description": "A former assistant Anoka County attorney is now facing serious charges for her alleged role in a commercial sex trafficking operation."
     },
     {
+      "title": "Authorities reviewing election voting vouching stunt by conservative influencer",
+      "summary": "",
+      "source": "FOX 9",
+      "topic": "elections-politics",
+      "url": "https://www.fox9.com/news/authorities-reviewing-election-voting-vouching-stunt-conservative-influencer",
+      "published_at": "2026-08-16T23:51:38+00:00",
+      "image": {
+        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/08/cam-higby-getty.jpg",
+        "alt": ""
+      },
+      "uid": "6c22df54-277a-4e97-9ed4-6a8523d569d7",
+      "description": "Minnesota officials say authorities are reviewing a stunt by a conservative influencer who impersonated voters at Minneapolis polling sites while dressed in an Islamic niqab on primary day."
+    },
+    {
       "title": "Families of Hopkins daycare double murder-suicide victims release statement",
-      "summary": "The family of Kristen and Evie Brown, the victims in the double murder-suicide in Hopkins, a suburb about 10 miles west of Minneapolis, has released a statement through the Hopkins Police Department.",
+      "summary": "The family of Kristen and Evie Brown, the victims in Wednesday's double murder-suicide in Hopkins, a suburb just west of Minneapolis, has released a statement through the Hopkins Police Department.",
       "source": "CBS Minnesota",
       "topic": "violent-crime",
       "url": "https://www.cbsnews.com/minnesota/news/families-hopkins-daycare-united-statement/",

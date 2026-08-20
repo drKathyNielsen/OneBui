@@ -4,13 +4,13 @@
   "metroCode": "33460",
   "metro": "Minneapolis-St. Paul-Bloomington, MN-WI",
   "range": {
-    "start": "2026-08-10",
-    "end": "2026-08-16"
+    "start": "2026-08-13",
+    "end": "2026-08-19"
   },
   "are_you_ok": [
     {
       "title": "Severe drought expands in Minnesota, threatening farms",
-      "summary": "Drought tightened its grip on Minnesota over the week, with the driest ground in the middle and northern parts of the state — north of the Minneapolis metro — and farmers watching their fields as conditions worsened.",
+      "summary": "",
       "source": "CBS Minnesota",
       "topic": "drought-water",
       "url": "https://www.cbsnews.com/minnesota/news/severe-drought-expands-minnesota-aug-2026/",
@@ -23,83 +23,104 @@
       "description": "Drought conditions have spread across much of Minnesota, with some of the state's driest conditions in central and northern Minnesota.",
       "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg",
       "questions": [
-        "Has the drought reached where you are, or is it mostly further north?",
-        "Are you or anyone close to you dealing with water restrictions right now?"
+        "Has the drought reached your part of the state?",
+        "Are there any water restrictions where you live?"
       ]
     }
   ],
   "conversation_starters": [
     {
-      "title": "Minnesota State Fair food vendors gear up for hungry crowds",
-      "summary": "Preparations ramped up at the Minnesota State Fairgrounds, between Minneapolis and St. Paul, as food vendors got set for the opening of the fair — the event locals call the Great Minnesota Get-Together.",
+      "title": "Minnesota State Fair Grandstand concerts 2026: Brad Paisley, CeCe Winans and more",
+      "summary": "The Minnesota State Fair, the Great Minnesota Get-Together, moved into its final run-up: food vendors were setting up across the fairgrounds, and organizers laid out the Grandstand concert lineup, with Brad Paisley, Jimmy Jam and Terry Lewis, and CeCe Winans among the acts.",
       "source": "CBS Minnesota",
       "topic": "civic-events",
-      "url": "https://www.cbsnews.com/minnesota/news/minnesota-state-fair-food-vendors-preparations/",
-      "published_at": "2026-08-14T22:48:00+00:00",
+      "url": "https://www.cbsnews.com/minnesota/video/minnesota-state-fair-grandstand-concerts-2026-jonas-brothers-brad-paisley-cece-winans/",
+      "published_at": "2026-08-18T21:51:00+00:00",
       "image": {
-        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/14/22af9259-2bff-49ec-b2c8-8d259582a6aa/thumbnail/1024x576/66c2eae4a08abfd8d7c858bb8b4d7372/5p-pkg-state-fair-preps-wccob2z8.jpg",
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/18/63c9bbf3-a404-4f91-a35c-ad331a70eb82/thumbnail/1024x576/8801b413a40a2d22ce47f39f1146e06e/eee0f9f4494071087c4a55a70190ed11.jpg",
         "alt": ""
       },
-      "uid": "e979c954-f681-4f91-8f6c-421e24dde12f",
-      "description": "The Minnesota State Fairgrounds are buzzing as food vendors prepare for the start of the Great Minnesota Get-Together.",
+      "uid": "3eecf195-e159-48d8-94db-a0a7cef311ca",
+      "description": "The Minnesota State Fair kicks off next week, and the Grandstand lineup includes Brad Paisley, Jimmy Jam and Terry Lewis, and CeCe Winans.",
       "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg",
       "questions": [
-        "Do you make it out to the State Fair most years?",
-        "Is there a fair food you look forward to, or one you'd skip?"
-      ]
-    },
-    {
-      "title": "Electric scooters swarmed downtown Minneapolis Saturday night, sparking safety concerns and city response",
-      "summary": "Hundreds of electric scooters swarmed downtown Minneapolis on a Saturday night, some of them riding onto the interstate, and state and city police said the ride raised real public-safety concerns. The man who organized it surfaced afterward to say the point was simply having fun, while acknowledging the night included close calls.",
-      "source": "KARE 11",
-      "topic": "transportation",
-      "url": "https://www.kare11.com/article/news/local/breaking-the-news/electric-scooters-swarmed-downtown-minneapolis-saturday-night-sparking-safety-concerns-and-city-response/89-fa4a5718-6d68-4a61-81d8-e98373aa3d38",
-      "published_at": "2026-08-11T00:19:13+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KARE/images/d4da63b3-9558-4f8a-b56e-b33278f3ee34/20260810T223903/d4da63b3-9558-4f8a-b56e-b33278f3ee34_750x422.jpg",
-        "alt": ""
-      },
-      "uid": "a2862b60-e1b2-4743-9fa4-41f0ee4b2c8f",
-      "description": "The Minnesota State Patrol and Minneapolis Police are concerned about public safety after witnesses saw hundreds of scooters on the interstate near downtown.",
-      "questions": [
-        "Were you anywhere near downtown when the scooters came through?",
-        "How are people around you taking the safety concerns?"
+        "Are you planning to get to the State Fair this year?",
+        "Any of the Grandstand acts you'd go see?",
+        "Is there a fair food you always end up getting?"
       ],
       "thread": [
         {
-          "title": "Man who planned Minneapolis scooter takeover says it’s all about “having fun”",
+          "title": "Minnesota State Fair food vendors gear up for hungry crowds",
           "summary": "",
           "source": "CBS Minnesota",
-          "topic": "transportation",
-          "url": "https://www.cbsnews.com/minnesota/video/man-who-planned-minneapolis-scooter-takeover-says-its-all-about-having-fun/",
-          "published_at": "2026-08-10T10:22:00+00:00",
+          "topic": "civic-events",
+          "url": "https://www.cbsnews.com/minnesota/news/minnesota-state-fair-food-vendors-preparations/",
+          "published_at": "2026-08-14T22:48:00+00:00",
           "image": {
-            "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/10/275fa218-551a-47e5-a698-c14d19e7304e/thumbnail/1024x576/d7c7a9533481be014a173e06f4b926ee/715c9c36285ac68b789e7f5d80826e19.png",
+            "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/14/22af9259-2bff-49ec-b2c8-8d259582a6aa/thumbnail/1024x576/66c2eae4a08abfd8d7c858bb8b4d7372/5p-pkg-state-fair-preps-wccob2z8.jpg",
             "alt": ""
           },
-          "uid": "36bfe6f9-c395-465e-bd21-c86eabc79402",
-          "description": "A night of fun ended with close calls and alarming moments, including scooters driving down the interstate.",
+          "uid": "e979c954-f681-4f91-8f6c-421e24dde12f",
+          "description": "The Minnesota State Fairgrounds are buzzing as food vendors prepare for the start of the Great Minnesota Get-Together.",
           "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
         },
         {
-          "title": "Electric scooters swarmed downtown Minneapolis Saturday night, sparking safety concerns and city response",
+          "title": "Minnesota State Fair Grandstand concerts 2026: Brad Paisley, CeCe Winans and more",
           "summary": "",
-          "source": "KARE 11",
-          "topic": "transportation",
-          "url": "https://www.kare11.com/article/news/local/breaking-the-news/electric-scooters-swarmed-downtown-minneapolis-saturday-night-sparking-safety-concerns-and-city-response/89-fa4a5718-6d68-4a61-81d8-e98373aa3d38",
-          "published_at": "2026-08-11T00:19:13+00:00",
+          "source": "CBS Minnesota",
+          "topic": "civic-events",
+          "url": "https://www.cbsnews.com/minnesota/video/minnesota-state-fair-grandstand-concerts-2026-jonas-brothers-brad-paisley-cece-winans/",
+          "published_at": "2026-08-18T21:51:00+00:00",
           "image": {
-            "url": "https://media.tegna-media.com/assets/KARE/images/d4da63b3-9558-4f8a-b56e-b33278f3ee34/20260810T223903/d4da63b3-9558-4f8a-b56e-b33278f3ee34_750x422.jpg",
+            "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/18/63c9bbf3-a404-4f91-a35c-ad331a70eb82/thumbnail/1024x576/8801b413a40a2d22ce47f39f1146e06e/eee0f9f4494071087c4a55a70190ed11.jpg",
             "alt": ""
           },
-          "uid": "a2862b60-e1b2-4743-9fa4-41f0ee4b2c8f",
-          "description": "The Minnesota State Patrol and Minneapolis Police are concerned about public safety after witnesses saw hundreds of scooters on the interstate near downtown."
+          "uid": "3eecf195-e159-48d8-94db-a0a7cef311ca",
+          "description": "The Minnesota State Fair kicks off next week, and the Grandstand lineup includes Brad Paisley, Jimmy Jam and Terry Lewis, and CeCe Winans.",
+          "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
         }
       ]
     },
     {
+      "title": "Target's comeback quarter: New merchandise, more shoppers and a $994M tariff refund",
+      "summary": "",
+      "source": "CBS Minnesota",
+      "topic": "business-jobs",
+      "url": "https://www.cbsnews.com/minnesota/news/target-comeback-quarter-new-merchandise-more-shoppers-994m-tariff-refund/",
+      "published_at": "2026-08-19T11:53:58+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/19/4c427846-4b76-4db7-b8e1-9f4dfed68da4/thumbnail/1024x576/cfbae0f498678018836c85f3ec9d53a8/gettyimages-2288436986.jpg",
+        "alt": ""
+      },
+      "uid": "b755e755-d5a3-4d6e-baf8-13236969b5de",
+      "description": "Target is reporting its second straight quarter of comparable sales gains, saying a merchandising overhaul under the discount retailer's new CEO was attracting more customers.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg",
+      "questions": [
+        "Have you noticed the changes Target's been making in stores?",
+        "Does Target being headquartered there come up much day to day?"
+      ]
+    },
+    {
+      "title": "Twin Cities gas prices hit $4/gallon, up 16 cents in one week",
+      "summary": "Drivers across the Twin Cities, the Minneapolis-St. Paul metro area, are feeling the pinch as average gasoline prices have surged past $4 per gallon, fueled by global supply disruptions and refinery issues.",
+      "source": "FOX 9",
+      "topic": "business-jobs",
+      "url": "https://www.fox9.com/news/twin-cities-gas-prices-hit-4-gallon-up-16-cents-one-week",
+      "published_at": "2026-08-17T21:13:16+00:00",
+      "image": {
+        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/03/3_2_26-gas-prices-vo-gk_kmsp41d3_186_mp4_00.00.05.30.jpg",
+        "alt": ""
+      },
+      "uid": "fd2bce43-a7b1-4b40-a7cf-80a8d4ec0e84",
+      "description": "Drivers across the Twin Cities are feeling the pinch as average gasoline prices have surged past $4 per gallon, fueled by global supply disruptions and refinery issues.",
+      "questions": [
+        "Are you noticing the jump at the pump on your commute?",
+        "Has it changed how you're getting around at all?"
+      ]
+    },
+    {
       "title": "White Bear Lake company debuts world's first fully implanted cochlear device",
-      "summary": "Envoy Medical, a device maker in White Bear Lake, a suburb northeast of Minneapolis, unveiled what it calls the world's first fully implanted cochlear device, and says it expects FDA approval by the end of 2027.",
+      "summary": "",
       "source": "KARE 11",
       "topic": "business-jobs",
       "url": "https://www.kare11.com/article/news/local/white-bear-lake-company-debuts-worlds-first-fully-implanted-cochlear-device-mn/89-9b735959-626a-48a0-8448-f1d679af17e4",
@@ -111,13 +132,31 @@
       "uid": "b7607dfa-1ef8-45f5-8f1c-3574c2005187",
       "description": "Envoy Medical says it expects to have approval from the U.S. Food and Drug Administration by the end of 2027.",
       "questions": [
-        "Did you catch the story about the Minnesota company that put out the first fully implanted cochlear device?",
-        "Do you follow the medical device industry there at all?"
+        "Had you heard of Envoy Medical before this?",
+        "Do you follow what the medical-device companies around the Twin Cities are working on?"
+      ]
+    },
+    {
+      "title": "Fox steals golf balls at Chaska Town Course",
+      "summary": "No birdies for the group that day at Chaska Town Course, a municipal golf course in Chaska, about 25 miles southwest of Minneapolis — just a fox and two free drops.",
+      "source": "KARE 11",
+      "topic": "human-interest",
+      "url": "https://www.kare11.com/article/news/local/fox-steals-golf-balls-chaska-town-course/89-287a610e-50e9-4379-8ea8-17b29dce662c",
+      "published_at": "2026-08-13T03:21:22+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/f8d296d9-d3f0-497d-b956-7b7d0c69de61/20260812T220727/f8d296d9-d3f0-497d-b956-7b7d0c69de61_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "d5380cef-b9f7-4520-a882-b1cb189c0ae2",
+      "description": "No birdies for the group that day — just a fox and two free drops.",
+      "questions": [
+        "Did you see the fox that's been stealing golf balls out in Chaska?",
+        "Do you play any of the courses out that way?"
       ]
     },
     {
       "title": "Porchfest brings live music and plenty of fans to south Minneapolis",
-      "summary": "Porchfest filled south Minneapolis for a day, with organizers counting more than 100 bands playing from 30 porches and crowds moving between them.",
+      "summary": "",
       "source": "KARE 11",
       "topic": "civic-events",
       "url": "https://www.kare11.com/article/news/local/porchfest-music-fans-south-minneapolis/89-2504406f-6e29-43c6-ab10-3c6561327eec",
@@ -129,147 +168,63 @@
       "uid": "c9f0b696-ad12-47df-a447-d1c12b64550e",
       "description": "Organizers say more than 100 bands played across 30 porches Saturday.",
       "questions": [
-        "Did you get out to Porchfest this year?",
-        "A hundred bands on thirty porches sounds like a lot to navigate — how do people pick where to go?"
+        "Did you catch any of the Porchfest sets this year?",
+        "Is Porchfest something your neighborhood takes part in?"
       ]
     },
     {
-      "title": "Como Zoo celebrates historic first with hatching of endangered chicks",
-      "summary": "Como Zoo in St. Paul marked a first for the zoo: grey crowned crane chicks — an endangered species also called the African crowned crane — hatched and, keepers say, are growing quickly.",
+      "title": "Rush City urges immediate water conservation amid state drought warning",
+      "summary": "Rush City, a small town about 55 miles north of Minneapolis, urges residents to reduce water use as the St. Croix River basin, the river valley along the Minnesota-Wisconsin line east of Minneapolis, moves into drought warning.",
       "source": "KARE 11",
-      "topic": "human-interest",
-      "url": "https://www.kare11.com/article/news/local/como-zoo-celebrates-historic-first-with-hatching-of-endangered-chicks-minnesota/89-b363761b-c030-441d-93d1-5f5a701a9686",
-      "published_at": "2026-08-12T17:08:54+00:00",
+      "topic": "drought-water",
+      "url": "https://www.kare11.com/article/news/local/rush-city-urges-immediate-water-conservation-amid-state-drought-warning-mn/89-643c7380-7cb9-4e40-9019-cd415b45220c",
+      "published_at": "2026-08-19T20:50:07+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/KARE/images/bce414bf-8869-4ecf-bb4b-43623f81d651/20260812T165405/bce414bf-8869-4ecf-bb4b-43623f81d651_750x422.jpg",
+        "url": "https://media.tegna-media.com/assets/KARE/images/e38e4e61-3ada-49ae-848b-e6962d8fd70f/20260504T231714/e38e4e61-3ada-49ae-848b-e6962d8fd70f_750x422.jpg",
         "alt": ""
       },
-      "uid": "836566c5-a857-4feb-885e-c118b6a75b89",
-      "description": "Zookeepers say the grey crowned crane chicks, also known as the African crowned crane, crested crane, and golden crested crane, are doing well and growing quickly.",
+      "uid": "c9b6070b-c680-4315-95df-f3a06561d386",
+      "description": "Rush City urges residents to reduce water use as the St. Croix River basin moves into drought warning.",
       "questions": [
-        "Did you hear Como Zoo hatched its first crowned crane chicks?",
-        "Do you get over to Como much?"
+        "Has the dry stretch changed anything where you are - watering rules, the yard, the garden?",
+        "Is the drought something people are talking about locally?"
+      ]
+    },
+    {
+      "title": "Officials report Camp Fire at 97% containment in BWCAW",
+      "summary": "Firefighters reported increased containment at the Camp, Sioux and Bear Trap fires in the BWCAW, the Boundary Waters Canoe Area Wilderness, lake country on the Canadian border roughly 250 miles north of Minneapolis.",
+      "source": "KARE 11",
+      "topic": "wildfire",
+      "url": "https://www.kare11.com/article/news/local/officials-report-camp-fire-at-97-containment-in-bwcaw-mn/89-c9a278c3-e004-4400-bd95-c4c41e7525ab",
+      "published_at": "2026-08-19T17:52:47+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/d46c3aa3-1f7a-494d-a538-a9243d038b72/20260723T231359/d46c3aa3-1f7a-494d-a538-a9243d038b72_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "b5883532-8d69-48cc-ac1c-c488c84d6881",
+      "description": "Firefighters reported increased containment over the last week at the Camp, Sioux and Bear Trap fires.",
+      "questions": [
+        "Have the northern fires sent any smoke your way this summer?",
+        "Do you get up to the Boundary Waters much?"
       ]
     }
   ],
   "you_should_know": [
     {
-      "title": "Federal agents used facial recognition tech to compile protestor photos during Operation Metro Surge",
-      "summary": "Court filings opened up the federal enforcement push known as Operation Metro Surge in the Minneapolis-St. Paul area. The documents showed Homeland Security officers going undercover at community meetings and targeting progressive groups and labor unions, and further filings described agents using facial recognition to build photo files of protestors.",
-      "source": "FOX 9",
-      "topic": "policing",
-      "url": "https://www.fox9.com/news/federal-agents-used-facial-recognition-tech-compile-protestor-photos-during-operation-metro-surge",
-      "published_at": "2026-08-15T02:01:40+00:00",
-      "image": {
-        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/08/vlcsnap-2026-08-14-20h37m29s542.jpg",
-        "alt": ""
-      },
-      "uid": "91f5bd5a-0f0c-4aa0-a8c2-339dd5f3e9c0",
-      "description": "New court filings are shedding light on how federal agents used facial recognition technology to create visual files of protestors during Operation Metro Surge.",
-      "thread": [
-        {
-          "title": "Federal operation targeted progressive groups, unions in Minnesota",
-          "summary": "",
-          "source": "CBS Minnesota",
-          "topic": "policing",
-          "url": "https://www.cbsnews.com/minnesota/video/federal-operation-targeted-progressive-groups-unions-in-minnesota/",
-          "published_at": "2026-08-14T23:42:00+00:00",
-          "image": {
-            "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/14/5f95370e-96bb-4815-bedf-42d8a9d96cb9/thumbnail/1024x576/6df74f5b1c38b0c83290bab942c2f165/dde1a8c652df0a41fb6dfb16f9520d0f.png",
-            "alt": ""
-          },
-          "uid": "454523b9-2f94-4c23-9b24-7b52121e8a53",
-          "description": "Homeland Security officers were spying on community meetings during Operation Metro Surge, according to court documents. The federal agents went undercover to identify people they described as violent, the filings said. As Conor Wight shows, the surveillance targeted progressive",
-          "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
-        },
-        {
-          "title": "Federal agents used facial recognition tech to compile protestor photos during Operation Metro Surge",
-          "summary": "",
-          "source": "FOX 9",
-          "topic": "policing",
-          "url": "https://www.fox9.com/news/federal-agents-used-facial-recognition-tech-compile-protestor-photos-during-operation-metro-surge",
-          "published_at": "2026-08-15T02:01:40+00:00",
-          "image": {
-            "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/08/vlcsnap-2026-08-14-20h37m29s542.jpg",
-            "alt": ""
-          },
-          "uid": "91f5bd5a-0f0c-4aa0-a8c2-339dd5f3e9c0",
-          "description": "New court filings are shedding light on how federal agents used facial recognition technology to create visual files of protestors during Operation Metro Surge."
-        }
-      ]
-    },
-    {
-      "title": "Progressives win big in Minnesota DFL primaries for Senate and U.S. House",
-      "summary": "Minnesota's primary drew record turnout, which the secretary of state framed as a statement about the state's commitment to elections. In the results, progressive candidates — including Lt. Gov. Peggy Flanagan and Matt Little — won their Democratic primaries for Senate and U.S. House.",
-      "source": "KARE 11",
-      "topic": "elections-politics",
-      "url": "https://www.kare11.com/article/news/local/progressives-win-big-in-mn-dfl-primaries-for-senate-and-us-house/89-2316837a-3072-4b60-ac47-44602222fd9a",
-      "published_at": "2026-08-12T23:19:27+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KARE/images/e2969460-6f2e-48f4-a27b-75c51ec9acaa/20260812T105719/e2969460-6f2e-48f4-a27b-75c51ec9acaa_750x422.jpg",
-        "alt": ""
-      },
-      "uid": "01031b52-f940-491b-aa96-21cb016f8b07",
-      "description": "Peggy Flanagan and Matt Little scored more victories for progressives in their Democratic primaries on Tuesday night, keeping with national trends.",
-      "thread": [
-        {
-          "title": "Progressives win big in Minnesota DFL primaries for Senate and U.S. House",
-          "summary": "",
-          "source": "KARE 11",
-          "topic": "elections-politics",
-          "url": "https://www.kare11.com/article/news/local/progressives-win-big-in-mn-dfl-primaries-for-senate-and-us-house/89-2316837a-3072-4b60-ac47-44602222fd9a",
-          "published_at": "2026-08-12T23:19:27+00:00",
-          "image": {
-            "url": "https://media.tegna-media.com/assets/KARE/images/e2969460-6f2e-48f4-a27b-75c51ec9acaa/20260812T105719/e2969460-6f2e-48f4-a27b-75c51ec9acaa_750x422.jpg",
-            "alt": ""
-          },
-          "uid": "01031b52-f940-491b-aa96-21cb016f8b07",
-          "description": "Peggy Flanagan and Matt Little scored more victories for progressives in their Democratic primaries on Tuesday night, keeping with national trends."
-        },
-        {
-          "title": "'It was a Minnesota thing': Voter turnout record shattered in primary election",
-          "summary": "",
-          "source": "KARE 11",
-          "topic": "elections-politics",
-          "url": "https://www.kare11.com/article/news/local/breaking-the-news/voter-turnout-record-shattered-in-primary-election/89-1d1f3c49-1c9b-47b7-a934-179dc70e0ca4",
-          "published_at": "2026-08-13T00:18:28+00:00",
-          "image": {
-            "url": "https://media.tegna-media.com/assets/KARE/images/a7401e3e-f2e2-4588-83d0-9374f1998215/20260813T000559/a7401e3e-f2e2-4588-83d0-9374f1998215_750x422.jpg",
-            "alt": ""
-          },
-          "uid": "6214d7df-d631-447b-8e25-53dcc68ac18a",
-          "description": "\"It speaks volumes about Minnesotans, about their commitment to elections and democracy,\" Secretary of State Steve Simon said."
-        }
-      ]
-    },
-    {
-      "title": "1 child, 2 adults dead after incident at Hopkins home daycare",
-      "summary": "A killing at a home daycare in Hopkins, a suburb about 10 miles west of Minneapolis, unfolded across the week. Police first reported a child and two adults dead; a search warrant then described officers finding Kristen Brown and her 7-year-old daughter in the kitchen, the county medical examiner named the victims and the alleged perpetrator, and by week's end relatives — grieving deaths at both the daycare and a home in Burnsville, south of the city — released a statement through Hopkins police.",
-      "source": "KARE 11",
+      "title": "Neighbors gather to share memories of family members killed in Hopkins and Burnsville",
+      "summary": "A murder-suicide at a daycare in Hopkins, a suburb about 8 miles west of Minneapolis, and a home in Burnsville, a suburb south of the city, unfolded over the week. A search warrant described officers finding Kristen Brown and her 7-year-old daughter Evie dead in the kitchen; the Hennepin County Medical Examiner then identified the victims and the alleged perpetrator. The Brown family released a statement through the Hopkins Police Department and spoke about their grief, and neighbors gathered at Downtown Park in Hopkins to remember Evie, Kristen and Alice Brown.",
+      "source": "CBS Minnesota",
       "topic": "violent-crime",
-      "url": "https://www.kare11.com/article/news/local/police-respond-to-incident-in-hopkins/89-05ffd7d7-799c-45a2-8bf4-f3085a3dfc28",
-      "published_at": "2026-08-12T22:24:08+00:00",
+      "url": "https://www.cbsnews.com/minnesota/news/hopkins-vigil-memories-family-members-killed/",
+      "published_at": "2026-08-18T04:31:16+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/KARE/images/c186319a-5ccc-4ef0-a6c4-859793c0aea5/20260812T152936/c186319a-5ccc-4ef0-a6c4-859793c0aea5_750x422.jpg",
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/18/9157de68-e051-44ba-941d-a22ec8409329/thumbnail/1024x576/e5ce8028ef8888bd668ea79fe406f6fc/10p-pkg-hopkins-vigil-wccob3ko.jpg",
         "alt": ""
       },
-      "uid": "359b675d-e44f-46fd-b4c7-474f8b0cec2f",
-      "description": "Police say the man and woman who died were parents of the 7-year-old victim.",
+      "uid": "0af1402f-3f72-4192-9475-feaeea8855ca",
+      "description": "People gathered at Downtown Park in Hopkins, Minnesota, on Monday night to mourn the deaths of 7-year-old Evie Brown, Kristen Brown and Alice Brown.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg",
       "thread": [
-        {
-          "title": "1 child, 2 adults dead after incident at Hopkins home daycare",
-          "summary": "",
-          "source": "KARE 11",
-          "topic": "violent-crime",
-          "url": "https://www.kare11.com/article/news/local/police-respond-to-incident-in-hopkins/89-05ffd7d7-799c-45a2-8bf4-f3085a3dfc28",
-          "published_at": "2026-08-12T22:24:08+00:00",
-          "image": {
-            "url": "https://media.tegna-media.com/assets/KARE/images/c186319a-5ccc-4ef0-a6c4-859793c0aea5/20260812T152936/c186319a-5ccc-4ef0-a6c4-859793c0aea5_750x422.jpg",
-            "alt": ""
-          },
-          "uid": "359b675d-e44f-46fd-b4c7-474f8b0cec2f",
-          "description": "Police say the man and woman who died were parents of the 7-year-old victim."
-        },
         {
           "title": "Search warrant reveals new details about Hopkins triple murder-suicide",
           "summary": "",
@@ -326,12 +281,217 @@
           "uid": "15d923f4-8f53-4d78-935e-2bd8cdc0880c",
           "description": "The family of Kristen and Evie Brown, the victims in Wednesday's double murder-suicide in Hopkins, Minnesota, has released a statement through the Hopkins Police Department.",
           "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+        },
+        {
+          "title": "Neighbors gather to share memories of family members killed in Hopkins and Burnsville",
+          "summary": "",
+          "source": "CBS Minnesota",
+          "topic": "violent-crime",
+          "url": "https://www.cbsnews.com/minnesota/news/hopkins-vigil-memories-family-members-killed/",
+          "published_at": "2026-08-18T04:31:16+00:00",
+          "image": {
+            "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/18/9157de68-e051-44ba-941d-a22ec8409329/thumbnail/1024x576/e5ce8028ef8888bd668ea79fe406f6fc/10p-pkg-hopkins-vigil-wccob3ko.jpg",
+            "alt": ""
+          },
+          "uid": "0af1402f-3f72-4192-9475-feaeea8855ca",
+          "description": "People gathered at Downtown Park in Hopkins, Minnesota, on Monday night to mourn the deaths of 7-year-old Evie Brown, Kristen Brown and Alice Brown.",
+          "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
         }
       ]
     },
     {
+      "title": "Federal agents used facial recognition tech to compile protestor photos during Operation Metro Surge",
+      "summary": "Court documents showed that Homeland Security officers had gone undercover at community meetings during Operation Metro Surge, the federal enforcement push in the Minneapolis-St. Paul area, watching progressive groups and labor unions to identify people the filings described as violent. Later filings added that federal agents used facial recognition technology during the same operation to compile photo files of protesters.",
+      "source": "FOX 9",
+      "topic": "policing",
+      "url": "https://www.fox9.com/news/federal-agents-used-facial-recognition-tech-compile-protestor-photos-during-operation-metro-surge",
+      "published_at": "2026-08-15T02:01:40+00:00",
+      "image": {
+        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/08/vlcsnap-2026-08-14-20h37m29s542.jpg",
+        "alt": ""
+      },
+      "uid": "91f5bd5a-0f0c-4aa0-a8c2-339dd5f3e9c0",
+      "description": "New court filings are shedding light on how federal agents used facial recognition technology to create visual files of protestors during Operation Metro Surge.",
+      "thread": [
+        {
+          "title": "Federal operation targeted progressive groups, unions in Minnesota",
+          "summary": "",
+          "source": "CBS Minnesota",
+          "topic": "policing",
+          "url": "https://www.cbsnews.com/minnesota/video/federal-operation-targeted-progressive-groups-unions-in-minnesota/",
+          "published_at": "2026-08-14T23:42:00+00:00",
+          "image": {
+            "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/14/5f95370e-96bb-4815-bedf-42d8a9d96cb9/thumbnail/1024x576/6df74f5b1c38b0c83290bab942c2f165/dde1a8c652df0a41fb6dfb16f9520d0f.png",
+            "alt": ""
+          },
+          "uid": "454523b9-2f94-4c23-9b24-7b52121e8a53",
+          "description": "Homeland Security officers were spying on community meetings during Operation Metro Surge, according to court documents. The federal agents went undercover to identify people they described as violent, the filings said. As Conor Wight shows, the surveillance targeted progressive",
+          "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+        },
+        {
+          "title": "Federal agents used facial recognition tech to compile protestor photos during Operation Metro Surge",
+          "summary": "",
+          "source": "FOX 9",
+          "topic": "policing",
+          "url": "https://www.fox9.com/news/federal-agents-used-facial-recognition-tech-compile-protestor-photos-during-operation-metro-surge",
+          "published_at": "2026-08-15T02:01:40+00:00",
+          "image": {
+            "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/08/vlcsnap-2026-08-14-20h37m29s542.jpg",
+            "alt": ""
+          },
+          "uid": "91f5bd5a-0f0c-4aa0-a8c2-339dd5f3e9c0",
+          "description": "New court filings are shedding light on how federal agents used facial recognition technology to create visual files of protestors during Operation Metro Surge."
+        }
+      ]
+    },
+    {
+      "title": "Judge lifts pause, allowing end to Temporary Protected Status for Somalia",
+      "summary": "A federal judge in Massachusetts has lifted the pause that was protecting Somali Temporary Protected Status holders, many of whom live in the Minneapolis-St. Paul area, home to the largest Somali community in the United States.",
+      "source": "KARE 11",
+      "topic": "immigration-enforcement",
+      "url": "https://www.kare11.com/article/news/local/judge-lifts-pause-allowing-end-to-temporary-protected-status-for-somalia-mn/89-5d47cc3e-2078-498d-85ca-5b95c958f4ce",
+      "published_at": "2026-08-17T03:34:17+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/90500047-88d0-4796-bfc4-fa321dbd1a39/20260817T031255/90500047-88d0-4796-bfc4-fa321dbd1a39_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "1c3b1280-7ef6-4a84-b83f-ee6b8ce36997",
+      "description": "A federal judge in Massachusetts has lifted the pause that was protecting Somali Temporary Protected Status holders."
+    },
+    {
+      "title": "Minneapolis skipped public housing inspections for nearly 30 years, court finds",
+      "summary": "",
+      "source": "FOX 9",
+      "topic": "housing",
+      "url": "https://www.fox9.com/news/minneapolis-skipped-public-housing-inspections-nearly-30-years-court-finds",
+      "published_at": "2026-08-18T02:41:21+00:00",
+      "image": {
+        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/08/vlcsnap-2026-08-17-21h23m02s316.jpg",
+        "alt": ""
+      },
+      "uid": "ffc5e230-9d53-4c03-86ff-6129ddafa78d",
+      "description": "Minneapolis has failed to inspect public housing units for decades, even though City law required it, and only acted after a court decision."
+    },
+    {
+      "title": "HCAO, BCA share more details about alleged sex-trafficking operation",
+      "summary": "Andrea Leigh Sampson, 35, a former assistant county attorney in Anoka County, the northern suburbs of Minneapolis, was charged with 13 counts of promoting prostitution and 13 counts of receiving profits from prostitution over her alleged role in a commercial sex-trafficking operation. Investigators later filled in the picture, with the same counts filed against Frank Reeves, Viktoriya Komonash and Catherine Thomes.",
+      "source": "KARE 11",
+      "topic": "violent-crime",
+      "url": "https://www.kare11.com/article/news/local/hcao-bca-more-details-about-alleged-sex-trafficking-operation/89-fe465d00-65a4-4113-87a3-7769c8bde042",
+      "published_at": "2026-08-17T22:42:59+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/b5d6325a-c103-444e-96e3-6a1d20705ddb/b5d6325a-c103-444e-96e3-6a1d20705ddb_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "553382c3-cc5a-41f7-a9f2-6ae606bd2bcd",
+      "description": "Andrea Sampson, Frank Reeves, Viktoriya Komonash and Catherine Thomes were each charged with 13 counts of promoting prostitution and 13 counts of receiving profits.",
+      "thread": [
+        {
+          "title": "Former Assistant Anoka County Attorney charged for alleged role in prostitution ring",
+          "summary": "",
+          "source": "KARE 11",
+          "topic": "violent-crime",
+          "url": "https://www.kare11.com/article/news/local/courts-news/former-assistant-anoka-county-attorney-charged-alleged-role-prostitution-ring/89-e724a3c0-e2f7-4843-938d-c6ce1c25c776",
+          "published_at": "2026-08-15T03:06:01+00:00",
+          "image": {
+            "url": "https://media.tegna-media.com/assets/KARE/images/bd2131bb-e074-42e3-972b-91d5eabe85b0/bd2131bb-e074-42e3-972b-91d5eabe85b0_750x422.jpg",
+            "alt": ""
+          },
+          "uid": "147795d0-dbb9-4ead-ac99-cc09ce078061",
+          "description": "Andrea Leigh Sampson, 35, is charged with 13 counts of promoting prostitution and 13 counts of receiving profits from prostitution."
+        },
+        {
+          "title": "Ex-Anoka County prosecutor charged: Expert explains trafficking allegations",
+          "summary": "",
+          "source": "FOX 9",
+          "topic": "violent-crime",
+          "url": "https://www.fox9.com/news/ex-anoka-county-prosecutor-charged-expert-explains-trafficking-allegations",
+          "published_at": "2026-08-16T02:32:55+00:00",
+          "image": {
+            "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/08/anoka-county-prosecutor-charged.jpg",
+            "alt": ""
+          },
+          "uid": "180e756f-7fa5-4476-ac74-e11ac5dda81f",
+          "description": "A former assistant Anoka County attorney is now facing serious charges for her alleged role in a commercial sex trafficking operation."
+        },
+        {
+          "title": "HCAO, BCA share more details about alleged sex-trafficking operation",
+          "summary": "",
+          "source": "KARE 11",
+          "topic": "violent-crime",
+          "url": "https://www.kare11.com/article/news/local/hcao-bca-more-details-about-alleged-sex-trafficking-operation/89-fe465d00-65a4-4113-87a3-7769c8bde042",
+          "published_at": "2026-08-17T22:42:59+00:00",
+          "image": {
+            "url": "https://media.tegna-media.com/assets/KARE/images/b5d6325a-c103-444e-96e3-6a1d20705ddb/b5d6325a-c103-444e-96e3-6a1d20705ddb_750x422.jpg",
+            "alt": ""
+          },
+          "uid": "553382c3-cc5a-41f7-a9f2-6ae606bd2bcd",
+          "description": "Andrea Sampson, Frank Reeves, Viktoriya Komonash and Catherine Thomes were each charged with 13 counts of promoting prostitution and 13 counts of receiving profits."
+        }
+      ]
+    },
+    {
+      "title": "Three men agree to stay away from MN State Fair as part of gang injunction case",
+      "summary": "Lawsuits filed against two rival gangs, known as Muddy and The Ville, sought to keep their members away from the Minnesota State Fair after court records showed posts organizing a large fight there. A judge in Ramsey County, the county that covers St. Paul, just east of Minneapolis, heard the arguments, and three men then agreed to a proposed order barring them from the fair; they deny the allegations, and no liability is admitted.",
+      "source": "KARE 11",
+      "topic": "civil-litigation",
+      "url": "https://www.kare11.com/article/news/local/three-men-agree-to-stay-away-from-mn-state-fair-part-of-gang-injunction-case/89-914cf4ae-34b1-49c2-b746-1ffddcaaea12",
+      "published_at": "2026-08-19T18:41:50+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/bb485161-f48f-4fa0-b338-ff86212adf9c/20260813T230737/bb485161-f48f-4fa0-b338-ff86212adf9c_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "dfd78554-b92e-4c56-bef2-82d12ae9d25a",
+      "description": "Three men agreed to a proposed order barring them from the Minnesota State Fair amid allegations of gang ties. They deny the claims, and no liability is admitted.",
+      "thread": [
+        {
+          "title": "Ramsey County judge hears arguments on why two rival gangs should be kept out of the MN State Fair",
+          "summary": "",
+          "source": "KARE 11",
+          "topic": "violent-crime",
+          "url": "https://www.kare11.com/article/news/local/ramsey-county-judge-hears-arguments-on-why-two-rival-gangs-should-be-kept-out-of-mn-state-fair/89-f40aeef7-3143-4805-8dcb-c59015613ea9",
+          "published_at": "2026-08-13T23:09:56+00:00",
+          "image": {
+            "url": "https://media.tegna-media.com/assets/KARE/images/c2c71e65-c849-47d8-8e13-5df48d1681e8/20260813T223915/c2c71e65-c849-47d8-8e13-5df48d1681e8_750x422.jpg",
+            "alt": ""
+          },
+          "uid": "9172d56b-6555-405b-abf9-00d8430a7d90",
+          "description": "Lawsuits were filed against rival gangs known as Muddy and The Ville after court records showed members posted plans to organize a large fight at the MN State Fair."
+        },
+        {
+          "title": "Three men agree to stay away from MN State Fair as part of gang injunction case",
+          "summary": "",
+          "source": "KARE 11",
+          "topic": "civil-litigation",
+          "url": "https://www.kare11.com/article/news/local/three-men-agree-to-stay-away-from-mn-state-fair-part-of-gang-injunction-case/89-914cf4ae-34b1-49c2-b746-1ffddcaaea12",
+          "published_at": "2026-08-19T18:41:50+00:00",
+          "image": {
+            "url": "https://media.tegna-media.com/assets/KARE/images/bb485161-f48f-4fa0-b338-ff86212adf9c/20260813T230737/bb485161-f48f-4fa0-b338-ff86212adf9c_750x422.jpg",
+            "alt": ""
+          },
+          "uid": "dfd78554-b92e-4c56-bef2-82d12ae9d25a",
+          "description": "Three men agreed to a proposed order barring them from the Minnesota State Fair amid allegations of gang ties. They deny the claims, and no liability is admitted."
+        }
+      ]
+    },
+    {
+      "title": "Minnesota AG Ellison announces lawsuit against Texas Gov. Greg Abbott over extradition of ICE agent",
+      "summary": "",
+      "source": "CBS Minnesota",
+      "topic": "immigration-enforcement",
+      "url": "https://www.cbsnews.com/minnesota/news/minnesota-ice-agent-extradition-lawsuit/",
+      "published_at": "2026-08-18T23:29:00+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/19/969883e9-de4b-452b-ad2a-068923992e45/thumbnail/1024x576/e68434464ef36b8dbf232c7c82a7c139/inx-ag-ellison-ice-agent-extradition-lawsuit-081826-11-38-0221.jpg",
+        "alt": ""
+      },
+      "uid": "cb7bf00c-3f94-42e4-8d7e-466ebf1ae63e",
+      "description": "Minnesota Attorney General Keith Ellison on Tuesday announced he is suing Texas Gov. Greg Abbott over the extradition of an immigration agent accused of shooting a man in Minneapolis.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    },
+    {
       "title": "Alex Pretti family attorney: 'If there is no accountability, that's a dark picture for America'",
-      "summary": "Seven months after federal agents shot and killed Alex Pretti, his parents still have not been told which agents were involved, and the family's attorney argued publicly that the absence of accountability is the real story.",
+      "summary": "",
       "source": "KARE 11",
       "topic": "immigration-enforcement",
       "url": "https://www.kare11.com/article/news/local/breaking-the-news/alex-pretti-family-attorney-interview-kare/89-9823cb39-4659-48bc-9e02-7d40fe7c0101",
@@ -344,61 +504,19 @@
       "description": "Seven months after Alex Pretti was shot and killed by federal agents, his parents have never been told who those agents were."
     },
     {
-      "title": "West St. Paul suspends contract with Flock Safety, starts taking down cameras",
-      "summary": "Minnesota cities kept pulling back from Flock Safety's automated license-plate readers. Several cancelled their contracts outright over public input and feasibility, West St. Paul — a small city just south of St. Paul — suspended its contract and began taking cameras down, and other communities held onto the technology, leaving the privacy debate running across the state.",
+      "title": "No plans to alter Flock contract in Plymouth, despite high-profile incident",
+      "summary": "The fight over Flock license-plate-reader cameras widened across Minnesota, with some cities ending their contracts and others keeping the technology despite privacy objections. Flock's CEO promised more privacy and accountability and appeared to reference a June traffic stop in Plymouth, a suburb about 12 miles west of Minneapolis, that involved an innocent man and his wife; Plymouth signalled no plans to change its contract.",
       "source": "KARE 11",
       "topic": "policing",
-      "url": "https://www.kare11.com/article/news/local/west-st-paul-suspends-contract-flock-safety/89-5f230761-b0ca-44fc-b829-9d5bedcc9eea",
-      "published_at": "2026-08-10T22:18:35+00:00",
+      "url": "https://www.kare11.com/article/news/local/breaking-the-news/no-plans-to-alter-flock-contract-plymouth-high-profile-incident/89-3c9350aa-ae66-47fb-8995-4cc47209e84f",
+      "published_at": "2026-08-18T00:59:16+00:00",
       "image": {
         "url": "https://media.tegna-media.com/assets/KARE/images/f9653f26-ad78-401d-baeb-71094473ffeb/20260806T032046/f9653f26-ad78-401d-baeb-71094473ffeb_750x422.jpg",
         "alt": ""
       },
-      "uid": "e342e9b3-2bcc-4620-9171-f76c793c0d12",
-      "description": "City officials said they have begun to remove cameras, and they should all be down by the end of the week.",
+      "uid": "5b36367b-02a9-4f47-91eb-72458949f4d1",
+      "description": "While promising increased privacy and accountability last week, Flock's CEO appeared to reference a June stop in Plymouth involving an innocent man and his wife.",
       "thread": [
-        {
-          "title": "West St. Paul suspends contract with Flock Safety, starts taking down cameras",
-          "summary": "",
-          "source": "KARE 11",
-          "topic": "policing",
-          "url": "https://www.kare11.com/article/news/local/west-st-paul-suspends-contract-flock-safety/89-5f230761-b0ca-44fc-b829-9d5bedcc9eea",
-          "published_at": "2026-08-10T22:18:35+00:00",
-          "image": {
-            "url": "https://media.tegna-media.com/assets/KARE/images/f9653f26-ad78-401d-baeb-71094473ffeb/20260806T032046/f9653f26-ad78-401d-baeb-71094473ffeb_750x422.jpg",
-            "alt": ""
-          },
-          "uid": "e342e9b3-2bcc-4620-9171-f76c793c0d12",
-          "description": "City officials said they have begun to remove cameras, and they should all be down by the end of the week."
-        },
-        {
-          "title": "Minnesota cities pull back on Flock cameras amid public pushback",
-          "summary": "",
-          "source": "FOX 9",
-          "topic": "policing",
-          "url": "https://www.fox9.com/news/minnesota-cities-pull-back-flock-cameras-amid-public-pushback",
-          "published_at": "2026-08-11T03:13:27+00:00",
-          "image": {
-            "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/07/tz_b_fridley-flock_00.00.12.42.jpg",
-            "alt": ""
-          },
-          "uid": "b500dea1-9962-45fa-9f51-d1f6a8b092b9",
-          "description": "A growing number of Minnesota communities are rethinking their use of Flock cameras as debates over privacy and surveillance heat up."
-        },
-        {
-          "title": "Multiple cities around Minnesota cancel contracts with Flock Safety",
-          "summary": "",
-          "source": "KARE 11",
-          "topic": "policing",
-          "url": "https://www.kare11.com/article/news/local/breaking-the-news/multiple-cities-minnesota-cancel-contracts-flock/89-bfd002b1-6830-4139-8287-cea513e602a0",
-          "published_at": "2026-08-12T00:32:49+00:00",
-          "image": {
-            "url": "https://media.tegna-media.com/assets/KARE/images/fb526902-238f-46eb-8db2-d3ba4f4d45a9/20260811T212930/fb526902-238f-46eb-8db2-d3ba4f4d45a9_750x422.jpg",
-            "alt": ""
-          },
-          "uid": "26b76bf4-e193-4159-8ebe-0cdf9e38051e",
-          "description": "The reasons range from public input to feasibility."
-        },
         {
           "title": "Flock camera backlash: Some Minnesota cities keep license plate readers despite privacy concerns",
           "summary": "",
@@ -412,19 +530,213 @@
           },
           "uid": "a54fddb3-b1e2-445e-8485-b0313a4a539c",
           "description": "The debate over Flock license plate cameras is heating up across Minnesota as some cities end their contracts while others stand by the technology."
+        },
+        {
+          "title": "No plans to alter Flock contract in Plymouth, despite high-profile incident",
+          "summary": "",
+          "source": "KARE 11",
+          "topic": "policing",
+          "url": "https://www.kare11.com/article/news/local/breaking-the-news/no-plans-to-alter-flock-contract-plymouth-high-profile-incident/89-3c9350aa-ae66-47fb-8995-4cc47209e84f",
+          "published_at": "2026-08-18T00:59:16+00:00",
+          "image": {
+            "url": "https://media.tegna-media.com/assets/KARE/images/f9653f26-ad78-401d-baeb-71094473ffeb/20260806T032046/f9653f26-ad78-401d-baeb-71094473ffeb_750x422.jpg",
+            "alt": ""
+          },
+          "uid": "5b36367b-02a9-4f47-91eb-72458949f4d1",
+          "description": "While promising increased privacy and accountability last week, Flock's CEO appeared to reference a June stop in Plymouth involving an innocent man and his wife."
         }
       ]
+    },
+    {
+      "title": "Activists who filmed themselves posing as Minnesota voters during primary elections may be in legal trouble",
+      "summary": "Secretary of State Steve Simon said members of a political group impersonated Minnesota voters at Minneapolis polling places during the Aug. 11 primary, testing vouching, the Minnesota rule letting a registered voter confirm a neighbor's address so they can register at the polls. The stunt, filmed by a conservative influencer wearing an Islamic niqab, drew an official review, and the activists who recorded themselves may now face legal consequences of their own.",
+      "source": "CBS Minnesota",
+      "topic": "elections-politics",
+      "url": "https://www.cbsnews.com/minnesota/news/activists-posing-voters-minnesota-primary-legal/",
+      "published_at": "2026-08-18T13:04:00+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/17/c003b3a9-70ca-47a8-a5e5-98461c846f6f/thumbnail/1024x576/31e14e3c449306bfffb0efe48b1bce1d/yt-thumbnail-2026-08-17t172802-710.png",
+        "alt": ""
+      },
+      "uid": "72b170e8-c4d4-4e25-ba89-b773b06c9731",
+      "description": "An undercover video could land a handful of activists in legal trouble. They pretended to be Minnesota voters during the primary.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg",
+      "thread": [
+        {
+          "title": "MN Secretary of State: Hidden camera vouching 'investigation' now faces its own investigation",
+          "summary": "",
+          "source": "KARE 11",
+          "topic": "elections-politics",
+          "url": "https://www.kare11.com/article/news/politics/elections/minnesota-secretary-of-state-discredits-viral-investigation-into-vouching-voter-registration/89-5d5f6f7d-a8f2-4590-bd94-59139ca7a320",
+          "published_at": "2026-08-14T22:14:18+00:00",
+          "image": {
+            "url": "https://media.tegna-media.com/assets/KARE/images/f07f3fd5-fffd-4ebe-927f-6b0077a597b5/20241102T023114/f07f3fd5-fffd-4ebe-927f-6b0077a597b5_750x422.jpg",
+            "alt": ""
+          },
+          "uid": "1954eaab-32a5-47e9-9263-522be3c17b7c",
+          "description": "Secretary of State Steve Simon said members of a political group impersonated Minnesota voters during the Aug. 11 primary election."
+        },
+        {
+          "title": "Authorities reviewing election voting vouching stunt by conservative influencer",
+          "summary": "",
+          "source": "FOX 9",
+          "topic": "elections-politics",
+          "url": "https://www.fox9.com/news/authorities-reviewing-election-voting-vouching-stunt-conservative-influencer",
+          "published_at": "2026-08-16T23:51:38+00:00",
+          "image": {
+            "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/08/cam-higby-getty.jpg",
+            "alt": ""
+          },
+          "uid": "6c22df54-277a-4e97-9ed4-6a8523d569d7",
+          "description": "Minnesota officials say authorities are reviewing a stunt by a conservative influencer who impersonated voters at Minneapolis polling sites while dressed in an Islamic niqab on primary day."
+        },
+        {
+          "title": "Activists who filmed themselves posing as Minnesota voters during primary elections may be in legal trouble",
+          "summary": "",
+          "source": "CBS Minnesota",
+          "topic": "elections-politics",
+          "url": "https://www.cbsnews.com/minnesota/news/activists-posing-voters-minnesota-primary-legal/",
+          "published_at": "2026-08-18T13:04:00+00:00",
+          "image": {
+            "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/17/c003b3a9-70ca-47a8-a5e5-98461c846f6f/thumbnail/1024x576/31e14e3c449306bfffb0efe48b1bce1d/yt-thumbnail-2026-08-17t172802-710.png",
+            "alt": ""
+          },
+          "uid": "72b170e8-c4d4-4e25-ba89-b773b06c9731",
+          "description": "An undercover video could land a handful of activists in legal trouble. They pretended to be Minnesota voters during the primary.",
+          "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Gov. Walz authorizes emergency assistance for counties damaged by summer storms",
+      "summary": "",
+      "source": "KARE 11",
+      "topic": "severe-weather",
+      "url": "https://www.kare11.com/article/news/local/gov-walz-authorizes-emergency-assistance-counties-damaged-summer-storms/89-3905e406-4b90-491b-bc90-fcf801fc84fc",
+      "published_at": "2026-08-19T20:21:41+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/da6d9c4d-e20e-4257-8351-1cbb6ac3eea7/20260707T220551/da6d9c4d-e20e-4257-8351-1cbb6ac3eea7_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "7b7457ba-0085-4492-bea5-dcc674614f25",
+      "description": "The funds will be for a handful of counties that were impacted by the severe storms that hit the state between June 28 and July 8."
+    },
+    {
+      "title": "Court rules against Trump administration lawsuit over Minnesota voter rolls",
+      "summary": "",
+      "source": "KARE 11",
+      "topic": "elections-politics",
+      "url": "https://www.kare11.com/article/news/local/courts-news/court-rules-against-trump-administration-lawsuit-minnesota-voter-rolls/89-cb9ab373-bca1-4763-aea2-2999ce82cf4f",
+      "published_at": "2026-08-17T21:47:52+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/c104a0f8-cf05-4dad-b794-703bd7007779/c104a0f8-cf05-4dad-b794-703bd7007779_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "f5550bab-4462-42b8-b7b8-043ed1a88296",
+      "description": "A federal court in Minnesota rejected the Trump administration's attempt to obtain the state's voter rolls."
+    },
+    {
+      "title": "Judge mulling arguments in xAI's request to temporarily block Minnesota's AI \"nudification\" ban",
+      "summary": "xAI asked a federal judge to temporarily block Minnesota's ban on AI \"nudification,\" which took effect Aug. 1. The state attorney general filed an opposition ahead of the hearing on the preliminary injunction, and the judge took the arguments under advisement without ruling from the bench.",
+      "source": "CBS Minnesota",
+      "topic": "civil-litigation",
+      "url": "https://www.cbsnews.com/minnesota/news/hearing-xai-request-to-temporarily-block-minnesota-ai-nudification-ban/",
+      "published_at": "2026-08-19T17:24:05+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/19/f3813dfe-ca24-4592-bfaa-aa9672ba1e09/thumbnail/1024x576/80cf4e12aaee4050d4a9e7cf0a5851bd/gettyimages-2259623050.jpg",
+        "alt": ""
+      },
+      "uid": "602f5fe5-cef0-4101-a649-bd28300e1fbd",
+      "description": "There will be no decision Wednesday on xAI's request for a judge to temporarily block Minnesota's ban on AI \"nudification.\"",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg",
+      "thread": [
+        {
+          "title": "Minnesota AG files opposition to xAI's attempt to block AI nudification ban",
+          "summary": "",
+          "source": "KARE 11",
+          "topic": "civil-litigation",
+          "url": "https://www.kare11.com/article/news/local/minnesota-ag-files-opposition-xai-attempt-to-block-ai-nudification-ban/89-ded022ff-e57a-4089-9320-79b315a5bfed",
+          "published_at": "2026-08-18T21:30:00+00:00",
+          "image": {
+            "url": "https://media.tegna-media.com/assets/KARE/images/10919006-5edd-44b5-90cc-5a72fa926baf/10919006-5edd-44b5-90cc-5a72fa926baf_750x422.jpg",
+            "alt": ""
+          },
+          "uid": "a7b7bba7-882e-43dd-aacd-9e65a4efe2a9",
+          "description": "A federal hearing Wednesday will be on the motion for a preliminary injunction against enforcing the law, which went into effect Aug. 1."
+        },
+        {
+          "title": "Judge mulling arguments in xAI's request to temporarily block Minnesota's AI \"nudification\" ban",
+          "summary": "",
+          "source": "CBS Minnesota",
+          "topic": "civil-litigation",
+          "url": "https://www.cbsnews.com/minnesota/news/hearing-xai-request-to-temporarily-block-minnesota-ai-nudification-ban/",
+          "published_at": "2026-08-19T17:24:05+00:00",
+          "image": {
+            "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/19/f3813dfe-ca24-4592-bfaa-aa9672ba1e09/thumbnail/1024x576/80cf4e12aaee4050d4a9e7cf0a5851bd/gettyimages-2259623050.jpg",
+            "alt": ""
+          },
+          "uid": "602f5fe5-cef0-4101-a649-bd28300e1fbd",
+          "description": "There will be no decision Wednesday on xAI's request for a judge to temporarily block Minnesota's ban on AI \"nudification.\"",
+          "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+        }
+      ]
+    },
+    {
+      "title": "'We will protect this place forever': Walz announces executive order banning copper, nickel mining near the Boundary Waters",
+      "summary": "The move came after Congress voted in April to overturn a 20-year ban on mining near the Boundary Waters, lake country on the Canadian border roughly 250 miles north of Minneapolis.",
+      "source": "KARE 11",
+      "topic": "other",
+      "url": "https://www.kare11.com/article/news/local/walz-announces-executive-order-banning-copper-nickel-mining-in-the-bwcaw/89-ba7eb343-40df-40b2-bc7c-6313e5e7411f",
+      "published_at": "2026-08-18T23:19:57+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/cd2b7ea3-4d68-4200-82de-4883bbd2d3f1/cd2b7ea3-4d68-4200-82de-4883bbd2d3f1_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "e5b8aab3-64c3-42fd-904b-18bdafa950ee",
+      "description": "The move came after Congress voted in April to overturn a 20-year ban on mining near the Boundary Waters."
+    },
+    {
+      "title": "Minnesota wildfires: Flags at half-staff honor firefighter who died responding to Bear Trap Fire",
+      "summary": "",
+      "source": "FOX 9",
+      "topic": "wildfire",
+      "url": "https://www.fox9.com/news/walz-flags-half-staff-firefighter-died-responding-mn-wildfires",
+      "published_at": "2026-08-14T16:43:29+00:00",
+      "image": {
+        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/08/leslie-washington-sized.jpg",
+        "alt": ""
+      },
+      "uid": "a2d30bac-c3c3-4a82-98d9-a6517e2452ec",
+      "description": "Flags are flying at half-staff across the state to honor firefighter Leslie R. Washington, who died while responding to the northern Minnesota wildfires."
     }
   ],
   "sports": [
     {
+      "team": "Vikings",
+      "scores": [
+        "coach wants intense Ravens joint practices",
+        "sign OL Joshua Gray",
+        "preseason home game Saturday vs Ravens",
+        "place S Jamal Adams on injured reserve",
+        "preseason opener highlights",
+        "beats Giants in preseason opener",
+        "Murray named starting QB"
+      ]
+    },
+    {
+      "team": "Gophers",
+      "scores": [
+        "Fleck's 10th season, Lindsey back at QB"
+      ]
+    },
+    {
       "team": "Twins",
       "scores": [
+        "Twins 4, Braves 2",
         "Phillies 7, Twins 5",
         "Phillies 9, Twins 1",
         "play Phillies at Field of Dreams",
-        "Twins 7, Orioles 5",
-        "Twins 9, Orioles 5"
+        "Twins 7, Orioles 5"
       ]
     },
     {
@@ -441,19 +753,10 @@
       ]
     },
     {
-      "team": "Vikings",
-      "scores": [
-        "beats Giants in preseason opener",
-        "Murray named starting QB",
-        "McCarthy on losing QB job"
-      ]
-    },
-    {
       "team": "Timberwolves",
       "scores": [
         "will retire Kevin Garnett's No. 21 on Feb. 28",
-        "host first Christmas Day game",
-        "first home Christmas game, vs. Thunder"
+        "host first Christmas Day game"
       ]
     }
   ]

@@ -4,13 +4,31 @@
   "metroCode": "41700",
   "metro": "San Antonio-New Braunfels, TX",
   "range": {
-    "start": "2026-08-10",
-    "end": "2026-08-16"
+    "start": "2026-08-13",
+    "end": "2026-08-19"
   },
   "are_you_ok": [
     {
+      "title": "Heat Advisory issued for Thursday as extreme heat continues in South Texas | Weather Impact Alert",
+      "summary": "",
+      "source": "KENS 5",
+      "topic": "heat",
+      "url": "https://www.kens5.com/article/weather/forecast/heat-advisory-issued-for-thursday-as-extreme-heat-continues-in-south-texas-weather-impact-alert/273-4c95b659-058a-4198-8ed7-ac745dad0c97",
+      "published_at": "2026-08-19T20:04:58+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/c2212bc4-19d5-4ff9-b73e-2df2dbb1b2bd/c2212bc4-19d5-4ff9-b73e-2df2dbb1b2bd_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "e09a5a21-5f74-46e9-b47b-7a80613b2ecf",
+      "description": "Stay updated with the KENS 5 Weather Team on this severe weather development and how it impacts you.",
+      "questions": [
+        "How has the heat been treating everyone there?",
+        "Have you been able to keep cool with the advisory in place?"
+      ]
+    },
+    {
       "title": "H-E-B jalapeño product recall includes guacamole, prepared foods and more over salmonella concerns",
-      "summary": "H-E-B, the San Antonio-based grocery chain that dominates Texas, recalled jalapeño products over possible salmonella contamination, saying what remained on its shelves was safe. The recall then widened: dozens more items the chain makes in its own stores — guacamole and other prepared foods among them — came off the shelves because they were made with the affected peppers.",
+      "summary": "H-E-B, the San Antonio-based grocery chain that dominates Texas, recalled jalapeño products over possible salmonella contamination. The recall widened as it went on, pulling in guacamole, prepared foods and dozens of items made in stores that used the affected jalapeños, while the chain said everything still on its shelves was safe and unaffected.",
       "source": "KENS 5",
       "topic": "product-recall",
       "url": "https://www.kens5.com/article/news/local/heb-jalapeno-product-recall-salmonella/285-35ec3088-5a40-4296-b5bf-975e063249fe",
@@ -55,48 +73,48 @@
           "description": "Dozens of H-E-B products made in stores were also removed because they contained items impacted by the recall."
         }
       ]
+    },
+    {
+      "title": "UT San Antonio delays start of fall semester by three days after 'unauthorized activity' detected on campus systems, administration says",
+      "summary": "",
+      "source": "KENS 5",
+      "topic": "other",
+      "url": "https://www.kens5.com/article/news/local/ut-san-antonio-delays-start-three-days-unauthorized-activity-detected-on-campus-systems-administration-says/273-e92938ed-a6cc-4718-8707-3225a8d22617",
+      "published_at": "2026-08-18T22:56:57+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/e9cbfa21-fcc9-4b4c-8082-b55b1f06b1d6/20260302T041031/e9cbfa21-fcc9-4b4c-8082-b55b1f06b1d6_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "01a639f8-95ec-4c75-bec5-fd1c05bc5e0b",
+      "description": "The University of Texas at San Antonio said in a statement on Tuesday that they do not believe any data was accessed.",
+      "questions": [
+        "Did the UTSA delay end up touching anyone you know?",
+        "How are people on campus taking the later start?"
+      ]
     }
   ],
   "conversation_starters": [
     {
-      "title": "School A-F ratings are in | Here are the best schools in the San Antonio area in the 2025-2026 year",
-      "summary": "The Texas Education Agency released its A-F ratings for the 2025-2026 school year, and several San Antonio-area districts came out better than they had before.",
+      "title": "Back to school: Nearly 55,000 North East ISD students return to class",
+      "summary": "The backpacks are packed and the first-day outfits are ready as students across San Antonio head back to the classroom, including nearly 55,000 in North East ISD, the school district covering the city's north and northeast side.",
       "source": "KENS 5",
       "topic": "education",
-      "url": "https://www.kens5.com/article/news/education/school-a-f-ratings-are-in-here-are-the-best-and-worst-schools-in-the-san-antonio-area-in-2026/273-532da11c-7375-4c9b-9102-6176715bc3b9",
-      "published_at": "2026-08-14T21:21:02+00:00",
+      "url": "https://www.kens5.com/article/news/education/back-to-school-neisd-students-hidden-forest-elementary-classrooms-monday-teachers-families-buses-blanco-district-first-day-education/273-0ce76b5f-222b-40f6-93db-d0dec402627e",
+      "published_at": "2026-08-17T14:49:15+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/WFAA/images/bd3ad4e1-4a74-4abc-8f1b-a200c2609f86/20250523T122447/bd3ad4e1-4a74-4abc-8f1b-a200c2609f86_750x422.jpg",
+        "url": "https://media.tegna-media.com/assets/KENS/images/181c2a71-95fc-40ce-beb1-0953830dc8f9/20250523T031415/181c2a71-95fc-40ce-beb1-0953830dc8f9_750x422.jpg",
         "alt": ""
       },
-      "uid": "aa8f9de2-603e-4607-a823-c05c0925e259",
-      "description": "The Texas Education Agency releases new school ratings for 2026, showing some improvement in several San Antonio area districts.",
+      "uid": "428ef609-0bff-43de-a45e-563313671957",
+      "description": "The backpacks are packed and the first-day outfits are ready as students across San Antonio head back to the classroom, including nearly 55,000 in North East ISD.",
       "questions": [
-        "Did your district come out well in the new ratings?",
-        "Do the A-F ratings actually track how people around you feel about the schools?"
-      ]
-    },
-    {
-      "title": "Flood leaves fish stranded as Cibolo Creek reaches record level",
-      "summary": "Historic floodwaters pushed Cibolo Creek to a record level and reshaped the Cibolo Center for Conservation, a nature preserve in Boerne about 30 miles northwest of San Antonio, in a matter of hours — leaving hundreds of fish stranded across the transformed landscape.",
-      "source": "KENS 5",
-      "topic": "flood",
-      "url": "https://www.kens5.com/article/news/local/cibolo-center-cibolo-creek-flooding-stranded-fish-woodland-trail-conservation-nature-boerne-ecosystem-restoration-wildlife-floodwaters-trails/273-778deb17-99db-43d8-b80c-abe59f79bd9d",
-      "published_at": "2026-08-11T14:37:24+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/b850081c-bccf-4b35-907b-0d9c50628c78/20260811T143357/b850081c-bccf-4b35-907b-0d9c50628c78_750x422.jpg",
-        "alt": ""
-      },
-      "uid": "17262f0a-c119-4b52-9e58-04621c1627e2",
-      "description": "Historic floodwaters transformed the Cibolo Center for Conservation, leaving hundreds of fish stranded and reshaping the landscape in just a few hours.",
-      "questions": [
-        "Have you ever been out to the Cibolo Center for Conservation?",
-        "Did the flooding change anything about the places you usually go?"
+        "Did the first day of school change anything about your mornings this week?",
+        "How did the back-to-school routine go on your end?"
       ]
     },
     {
       "title": "Mission Concepción annual solar illumination lights up church's altar",
-      "summary": "The altar at Mission Concepción — one of the Spanish colonial missions south of downtown San Antonio — lit up in its annual solar illumination, an alignment historians say the Franciscans who built it designed deliberately, using light to reach the Indigenous people of the area.",
+      "summary": "",
       "source": "KENS 5",
       "topic": "civic-events",
       "url": "https://www.kens5.com/article/news/local/mission-concepcin-annual-solar-illumination-lights-up-the-churchs-altar/273-e0243e83-4310-4c7b-9670-f8b722eefebf",
@@ -113,26 +131,44 @@
       ]
     },
     {
-      "title": "Perseid meteor shower peaks tonight: Look up for a celestial show over south Texas",
-      "summary": "The Perseid meteor shower reached its peak over south Texas, visible without a telescope or any special equipment for anyone willing to get somewhere dark and look up.",
+      "title": "Loose bull calf rescued in drain tunnel after passing through Walmart parking lot, ACS says",
+      "summary": "The calf was spotted in the parking lot of a Walmart in the 1200 block of Southeast Military Drive, a road across the south side of San Antonio.",
       "source": "KENS 5",
-      "topic": "other",
-      "url": "https://www.kens5.com/article/weather/perseid-meteor-shower-peaks-celestial-show-south-texas/273-74db9dd0-d0b3-4ad9-9ccf-5fcb21941c4b",
-      "published_at": "2026-08-12T23:09:14+00:00",
+      "topic": "human-interest",
+      "url": "https://www.kens5.com/article/news/local/loose-bull-calf-rescued-in-drain-tunnel-after-passing-through-walmart-parking-lot-acs-says/273-09ffe871-b36f-4a0c-a2ab-56454e72c438",
+      "published_at": "2026-08-18T19:49:10+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/f626ca52-35b5-4ab1-a29e-5246bae3d6be/20260812T230542/f626ca52-35b5-4ab1-a29e-5246bae3d6be_750x422.jpg",
+        "url": "https://media.tegna-media.com/assets/KENS/images/ccae76ce-618a-420e-af29-f22071de8fe1/20260818T194640/ccae76ce-618a-420e-af29-f22071de8fe1_750x422.jpg",
         "alt": ""
       },
-      "uid": "b9a0bd2c-ea6a-4577-9df2-a28f359e4d31",
-      "description": "You don't need a telescope or special equipment to see this dazzling celestial event.",
+      "uid": "c5eccc0b-9448-460f-b9a1-cd3a04d5d500",
+      "description": "The calf was spotted in the parking lot of a Walmart in the 1200 block of Southeast Military Drive on Tuesday.",
       "questions": [
-        "Did you get a look at the Perseids?",
-        "Is there anywhere around here you go to get away from the city lights?"
+        "Did you see the story about the calf loose in the Walmart parking lot?",
+        "Does livestock turn up like that very often around there?"
+      ]
+    },
+    {
+      "title": "School A-F ratings are in | Here are the best schools in the San Antonio area in the 2025-2026 year",
+      "summary": "",
+      "source": "KENS 5",
+      "topic": "education",
+      "url": "https://www.kens5.com/article/news/education/school-a-f-ratings-are-in-here-are-the-best-and-worst-schools-in-the-san-antonio-area-in-2026/273-532da11c-7375-4c9b-9102-6176715bc3b9",
+      "published_at": "2026-08-14T21:21:02+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/WFAA/images/bd3ad4e1-4a74-4abc-8f1b-a200c2609f86/20250523T122447/bd3ad4e1-4a74-4abc-8f1b-a200c2609f86_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "aa8f9de2-603e-4607-a823-c05c0925e259",
+      "description": "The Texas Education Agency releases new school ratings for 2026, showing some improvement in several San Antonio area districts.",
+      "questions": [
+        "Did your district come out well in the new ratings?",
+        "Do the A-F ratings actually track how people around you feel about the schools?"
       ]
     },
     {
       "title": "Sneak Peek: San Antonio's new African American museum takes shape, set to become third-largest in nation",
-      "summary": "San Antonio's new African American museum took shape ahead of opening, on track to be the third-largest of its kind in the country, dedicated to the history and contributions of African Americans in the city and beyond.",
+      "summary": "",
       "source": "KENS 5",
       "topic": "development-projects",
       "url": "https://www.kens5.com/article/news/education/saaacam-museum-downtown-preview/273-c03c1fb7-6d97-4f01-8df1-b5e6b20f19f7",
@@ -147,26 +183,142 @@
         "Have you been following the new African American museum going up?",
         "Is that somewhere you'd want to visit when it opens?"
       ]
+    },
+    {
+      "title": "San Antonio Zoo named one of the best zoos in the world",
+      "summary": "",
+      "source": "KENS 5",
+      "topic": "human-interest",
+      "url": "https://www.kens5.com/article/news/local/san-antonio-zoo-worldwide-conde-nast-wildlife-conservation-recognition-horned-lizards-project-selva-animals-tourism-alamo-city-global-gorillas/273-ee063981-3c82-4fc4-bf68-ef08e1968d7f",
+      "published_at": "2026-08-17T12:19:07+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/f3dda6b2-dbe7-430c-81d0-e118b9640987/20260817T121846/f3dda6b2-dbe7-430c-81d0-e118b9640987_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "6ebeca60-2d4b-43b3-be11-ba246fbfd684",
+      "description": "San Antonio Zoo is getting some wild worldwide recognition, earning a spot on Condé Nast Traveler's list of the best zoos across the globe.",
+      "questions": [
+        "Have you been to the San Antonio Zoo recently?",
+        "It just made a global best-zoos list — is it a spot you take visitors?"
+      ]
+    },
+    {
+      "title": "'Dinos After Dark' gives zoo visitors a chance to see Jurassic era at night",
+      "summary": "",
+      "source": "KENS 5",
+      "topic": "civic-events",
+      "url": "https://www.kens5.com/article/news/local/dinos-after-dark-gives-zoo-visitors-a-chance-to-see-jurassic-era-at-night/273-8afe22de-94b3-4af8-802a-eb1c166b344f",
+      "published_at": "2026-08-14T21:35:05+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/a624b494-457d-4137-bd5d-a2ad28183f6b/20260729T135647/a624b494-457d-4137-bd5d-a2ad28183f6b_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "188d5d1b-594f-49b0-aae4-5680fb023cbb",
+      "description": "San Antonio Zoo is hosting several nights of its Dinos After Dark event, featuring illuminated dinosaurs and live entertainment.",
+      "questions": [
+        "Have you taken anyone to Dinos After Dark at the zoo?",
+        "Is the zoo a regular stop for you in the summer?"
+      ]
+    },
+    {
+      "title": "Explore 400 years of Tejano history, from vaqueros to Selena at the Briscoe Western Art Museum | Everything 210",
+      "summary": "Both exhibitions are now on display at the Briscoe in downtown San Antonio, on West Market Street along the River Walk.",
+      "source": "KENS 5",
+      "topic": "civic-events",
+      "url": "https://www.kens5.com/article/news/local/everything-210/tejano-legacy-briscoe-western-art-museum-san-antonio-history-everything-210/273-8cfb3ba0-c15f-41b4-a5bb-8ed1914f1c01",
+      "published_at": "2026-08-14T12:40:42+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/a5498973-d150-41f7-b7ba-dfe2365826a2/20260811T202125/a5498973-d150-41f7-b7ba-dfe2365826a2_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "700379a5-5315-4abd-a113-681d70f13cb2",
+      "description": "Both exhibitions are now on display in downtown San Antonio on West Market Street.",
+      "questions": [
+        "Have you made it to the Tejano exhibitions at the Briscoe?",
+        "Do you get down to that stretch downtown much?"
+      ]
+    },
+    {
+      "title": "Bobcats in Bexar County — What to know if you see one",
+      "summary": "A bobcat was found along the side of Loop 410, the highway that rings San Antonio, near Rigsby Avenue in Bexar County. The man who photographed the bobcat thought it may have been hit by a car.",
+      "source": "KENS 5",
+      "topic": "wildlife",
+      "url": "https://www.kens5.com/article/news/local/san-antonio-bobcats-bexar-county-what-to-know/273-24c5b911-ee85-444a-ae08-96f87fdeb141",
+      "published_at": "2026-08-17T23:23:56+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/cbabc552-6d8c-4a87-982e-523897387276/20260817T232135/cbabc552-6d8c-4a87-982e-523897387276_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "85ce257b-bbca-4266-b704-8c5d662aca93",
+      "description": "A bobcat was found Sunday along the side of Loop 410 near Rigsby Avenue in Bexar County. The man who photographed the bobcat thought it may have been hit by a car.",
+      "questions": [
+        "Have you ever run across a bobcat around there?",
+        "Is wildlife along the highways a common sight for you?"
+      ]
     }
   ],
   "you_should_know": [
     {
-      "title": "City Manager Erik Walsh addresses San Antonio leaders about 'misinformation' ahead of meeting on Spurs arena ballot measure",
-      "summary": "The fight over public funding for a new Spurs arena reached City Hall: City Manager Erik Walsh pushed back on what he called misinformation circulating among city leaders, ahead of a council debate over whether to put the funding question to a residential vote.",
+      "title": "San Antonio City Council rejects November vote on Spurs arena funding; members react",
+      "summary": "The fight over whether San Antonio voters would get a say on the city's $489 million contribution to a new Spurs arena came to a head. City Manager Erik Walsh warned city leaders about 'misinformation' circulating ahead of the council's debate; the meeting then ran nearly two and a half hours of public input, with most speakers pressing unsuccessfully for a referendum; and the council narrowly voted against putting the funding to a November residential vote, a decision that drew immediate reaction from its members.",
       "source": "KENS 5",
       "topic": "development-projects",
-      "url": "https://www.kens5.com/article/news/local/san-antonio-government/san-antonio-spurs-arena-funding-meeting-breakdown-city-council-jones-project-marvel/273-53178a3f-382f-42e8-9332-45231cd52814",
-      "published_at": "2026-08-16T20:33:08+00:00",
+      "url": "https://www.kens5.com/article/news/local/project-marvel/san-antonio-city-council-rejects-november-vote-spurs-arena-funding-members-react/273-cc3a75f1-2da0-4c04-8530-831fe76c0eb4",
+      "published_at": "2026-08-18T03:08:16+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/f02bfcaa-955f-47ac-a2dc-6ca20f4e6000/f02bfcaa-955f-47ac-a2dc-6ca20f4e6000_750x422.jpg",
+        "url": "https://media.tegna-media.com/assets/KENS/images/b1ef887c-9cbc-4f61-9a8a-95bb0e1b4263/20260818T030727/b1ef887c-9cbc-4f61-9a8a-95bb0e1b4263_750x422.jpg",
         "alt": ""
       },
-      "uid": "bd212fb4-56f1-43ab-abb9-eff1946df4c2",
-      "description": "City Council will debate the merits over a residential vote on Spurs arena funding on Monday."
+      "uid": "995b8f2a-9f7a-480c-9d0f-e61eafad2890",
+      "description": "San Antonio's City Council narrowly voted against allowing residents to vote on the city's $489 million contribution to a new Spurs arena, sparking a debate.",
+      "thread": [
+        {
+          "title": "City Manager Erik Walsh addresses San Antonio leaders about 'misinformation' ahead of meeting on Spurs arena ballot measure",
+          "summary": "",
+          "source": "KENS 5",
+          "topic": "development-projects",
+          "url": "https://www.kens5.com/article/news/local/san-antonio-government/san-antonio-spurs-arena-funding-meeting-breakdown-city-council-jones-project-marvel/273-53178a3f-382f-42e8-9332-45231cd52814",
+          "published_at": "2026-08-16T20:33:08+00:00",
+          "image": {
+            "url": "https://media.tegna-media.com/assets/KENS/images/f02bfcaa-955f-47ac-a2dc-6ca20f4e6000/f02bfcaa-955f-47ac-a2dc-6ca20f4e6000_750x422.jpg",
+            "alt": ""
+          },
+          "uid": "bd212fb4-56f1-43ab-abb9-eff1946df4c2",
+          "description": "City Council will debate the merits over a residential vote on Spurs arena funding on Monday."
+        },
+        {
+          "title": "San Antonio City Council swats away November vote for Spurs arena funding",
+          "summary": "",
+          "source": "KENS 5",
+          "topic": "development-projects",
+          "url": "https://www.kens5.com/article/news/local/san-antonio-government/san-antonio-city-council-spurs-arena-funding-vote-project-marvel-mayor-jones/273-db2bf633-acae-4bc5-9cbb-c68668db7968",
+          "published_at": "2026-08-17T23:16:45+00:00",
+          "image": {
+            "url": "https://media.tegna-media.com/assets/KENS/images/fc7380b9-a335-4f2a-9992-49c7d0793470/20250823T005916/fc7380b9-a335-4f2a-9992-49c7d0793470_750x422.jpg",
+            "alt": ""
+          },
+          "uid": "5bba2b71-80c1-48d4-94a4-781cf9551409",
+          "description": "Monday's meeting featured nearly two and a half hours of public input, with most speakers trying unsuccessfully to advocate for another public referendum."
+        },
+        {
+          "title": "San Antonio City Council rejects November vote on Spurs arena funding; members react",
+          "summary": "",
+          "source": "KENS 5",
+          "topic": "development-projects",
+          "url": "https://www.kens5.com/article/news/local/project-marvel/san-antonio-city-council-rejects-november-vote-spurs-arena-funding-members-react/273-cc3a75f1-2da0-4c04-8530-831fe76c0eb4",
+          "published_at": "2026-08-18T03:08:16+00:00",
+          "image": {
+            "url": "https://media.tegna-media.com/assets/KENS/images/b1ef887c-9cbc-4f61-9a8a-95bb0e1b4263/20260818T030727/b1ef887c-9cbc-4f61-9a8a-95bb0e1b4263_750x422.jpg",
+            "alt": ""
+          },
+          "uid": "995b8f2a-9f7a-480c-9d0f-e61eafad2890",
+          "description": "San Antonio's City Council narrowly voted against allowing residents to vote on the city's $489 million contribution to a new Spurs arena, sparking a debate."
+        }
+      ]
     },
     {
       "title": "Texas lawmakers call on six Bexar County cities to end 287(g) agreements with ICE",
-      "summary": "U.S. Rep. Joaquin Castro and other Texas lawmakers called on six cities in Bexar County — the county that contains San Antonio — to end their 287(g) agreements with ICE, the arrangements that let local police act as federal immigration officers, arguing they cost community trust and invite racial profiling.",
+      "summary": "U.S. Rep. Joaquin Castro and others urge six cities in Bexar County, the county that contains San Antonio, to end their 287(g) agreements — the arrangements that let local police act as federal immigration officers — with ICE, citing trust issues and racial profiling concerns.",
       "source": "KENS 5",
       "topic": "immigration-enforcement",
       "url": "https://www.kens5.com/article/news/local/texas-lawmakers-six-bexar-county-cities-end-287g-agreements-ice/273-44b6338c-7a1c-4408-921c-3c2aafe45887",
@@ -179,8 +331,36 @@
       "description": "U.S. Rep. Joaquin Castro and others urge six Bexar County cities to end their 287(g) agreements with ICE, citing trust issues and racial profiling concerns."
     },
     {
+      "title": "FBI conducts court-authorized operations in San Antonio neighborhood, but details are unknown",
+      "summary": "Residents of a neighborhood on the West Side — the historically Mexican-American part of San Antonio just west of downtown — awoke to a surprise FBI operation early Friday morning. The agency confirmed it was conducting a court-authorized action.",
+      "source": "KENS 5",
+      "topic": "policing",
+      "url": "https://www.kens5.com/article/news/local/law-enforcement/fbi-court-authorized-operations-san-antonio-neighborhood-details-unknown/273-93ef9d90-357d-4b7c-9e35-292d418f159e",
+      "published_at": "2026-08-14T21:33:59+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/d490b1b6-f3bf-4ae2-af35-6d3df51ec7f2/20260814T210143/d490b1b6-f3bf-4ae2-af35-6d3df51ec7f2_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "e26fefdb-c7f6-45fb-bd17-e4c2b8d7c0da",
+      "description": "Residents of a west-side neighborhood awoke to a surprise FBI operation early Friday morning. The agency confirmed it was conducting a court-authorized action."
+    },
+    {
+      "title": "Families ask U.S. Supreme Court to rule on Texas’ Ten Commandments requirement for public schools",
+      "summary": "",
+      "source": "KENS 5",
+      "topic": "civil-litigation",
+      "url": "https://www.kens5.com/article/news/local/texas/families-ask-us-supreme-court-to-rule-on-texas-ten-commandments-requirement-for-public-schools/273-f6d75e66-c9fc-4459-8554-d70c11ba2122",
+      "published_at": "2026-08-18T11:59:16+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/50fcac32-885d-4176-96cc-091d6e64bf72/20260818T115854/50fcac32-885d-4176-96cc-091d6e64bf72_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "8ec72b64-757a-4f74-9303-e3e27db09a26",
+      "description": "Texas can enforce the state's law requiring Ten Commandments posters in public schools. Here's what to know about the latest legal challenges."
+    },
+    {
       "title": "SAPD officers seen fatally shooting armed suspect in newly shared bodycam video",
-      "summary": "Newly released bodycam video showed San Antonio police fatally shooting an armed man during an early-morning encounter that began when officers tried to stop him for riding a bicycle on the sidewalk and he attempted to get away.",
+      "summary": "",
       "source": "KENS 5",
       "topic": "policing",
       "url": "https://www.kens5.com/article/news/local/law-enforcement/san-antonio-police-deadly-shooting-sapd-armed-man-suspect-hammond-avenue-bodycam/273-3b62e392-58cf-411d-a692-e9d64221514d",
@@ -193,32 +373,46 @@
       "description": "The early morning confrontation began with police trying to stop a bicyclist on the sidewalk before he is seen in the footage trying to escape."
     },
     {
-      "title": "Meta, Open AI commit to Texas data center rules as Gov. Abbott orders strict power, water audits",
-      "summary": "With AI data centers drawing backlash in North Texas, the Dallas-Fort Worth region, Meta, Google and Open AI committed to Gov. Abbott's new rules for the industry, as the state ordered strict audits of how much power and water the facilities use.",
+      "title": "San Antonio mariachi community calls for release of Venezuelan musician detained by ICE",
+      "summary": "",
       "source": "KENS 5",
-      "topic": "data-centers",
-      "url": "https://www.kens5.com/article/news/local/texas/meta-commits-texas-data-center-rules-gov-abbott-power-water-audits/287-3bc2fd95-ed9d-4809-b268-f19d1452dce9",
-      "published_at": "2026-08-10T22:59:50+00:00",
+      "topic": "immigration-enforcement",
+      "url": "https://www.kens5.com/article/news/local/san-antonio-mariachi-community-venezuelan-musician-detained-ice-reny-jesus-colina-torres-texas-cracker-barrel/273-820b91c7-999a-4e34-b7e9-8f7f18702076",
+      "published_at": "2026-08-13T22:39:09+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/WFAA/images/be287b71-582e-4be4-b64b-0e773a1c6c5c/20260715T222039/be287b71-582e-4be4-b64b-0e773a1c6c5c_750x422.jpg",
+        "url": "https://media.tegna-media.com/assets/KENS/images/50e57dbe-9ba9-414c-960f-8345e2768641/20260813T223743/50e57dbe-9ba9-414c-960f-8345e2768641_750x422.jpg",
         "alt": ""
       },
-      "uid": "3e5580ff-0e8b-440a-b381-1875d3fad820",
-      "description": "As AI data centers face North Texas backlash, Meta, Google and Open AI promise to play by Gov. Abbott’s new rules to protect the grid."
+      "uid": "d582f7d1-118b-493f-bfb7-1acf5b088459",
+      "description": "San Antonio mariachi musician, Reny Jesus Colina Torres, is in ICE custody. His family and local community are now calling for his release."
     },
     {
-      "title": "FBI conducts court-authorized operations in San Antonio neighborhood, but details are unknown",
-      "summary": "Residents of a West Side neighborhood — the historically Mexican-American part of San Antonio just west of downtown — woke early one Friday to a large FBI operation on their street. The bureau confirmed only that the action was court-authorized, leaving the reason for it unexplained.",
+      "title": "San Antonio police chief highlights need for better mental health response after fatal confrontation",
+      "summary": "",
       "source": "KENS 5",
       "topic": "policing",
-      "url": "https://www.kens5.com/article/news/local/law-enforcement/fbi-court-authorized-operations-san-antonio-neighborhood-details-unknown/273-93ef9d90-357d-4b7c-9e35-292d418f159e",
-      "published_at": "2026-08-14T21:33:59+00:00",
+      "url": "https://www.kens5.com/article/news/local/san-antonio-police-chief-highlights-need-for-better-mental-health-response-after-fatal-confrontation/273-f0fbc494-e438-4794-a8a5-23fa3b6a13ad",
+      "published_at": "2026-08-17T23:01:41+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/d490b1b6-f3bf-4ae2-af35-6d3df51ec7f2/20260814T210143/d490b1b6-f3bf-4ae2-af35-6d3df51ec7f2_750x422.jpg",
+        "url": "https://media.tegna-media.com/assets/KENS/images/d6103a91-4205-420a-b3b3-b74c1c30630d/20260817T225556/d6103a91-4205-420a-b3b3-b74c1c30630d_750x422.jpg",
         "alt": ""
       },
-      "uid": "e26fefdb-c7f6-45fb-bd17-e4c2b8d7c0da",
-      "description": "Residents of a west-side neighborhood awoke to a surprise FBI operation early Friday morning. The agency confirmed it was conducting a court-authorized action."
+      "uid": "7890ddbf-5d9c-4c06-a1eb-0566dd9a7147",
+      "description": "A confrontation highlights the delicate balance police face in mental health crises. Acting Police Chief Jesse Salame says more services are needed."
+    },
+    {
+      "title": "Gov. Abbott proposes ban on H-1B workers in Texas public schools",
+      "summary": "",
+      "source": "KENS 5",
+      "topic": "immigration-enforcement",
+      "url": "https://www.kens5.com/article/news/local/texas/abbott-ban-h-1b-workers-texas-public-schools/285-2e34b4ee-ee1c-424c-a2f8-997bb0136e53",
+      "published_at": "2026-08-18T22:58:22+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KHOU/images/73ab2bdb-e30d-428a-8edd-e53baaf919cd/20260807T031157/73ab2bdb-e30d-428a-8edd-e53baaf919cd_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "7bfd5214-fb6f-42ea-89d4-46e6f6aed7ce",
+      "description": "Abbott said he wants to stop \"foreign influence\" in schools."
     }
   ],
   "sports": [
@@ -226,8 +420,7 @@
       "team": "Spurs",
       "scores": [
         "Popovich speaks at Don Nelson memorial",
-        "2026-27 schedule: Austin, Paris, Manchester",
-        "2026-27 slate: Christmas Day vs Knicks"
+        "2026-27 schedule: Austin, Paris, Manchester"
       ]
     }
   ]

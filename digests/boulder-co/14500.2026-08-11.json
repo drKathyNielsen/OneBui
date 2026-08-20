@@ -25,25 +25,6 @@
       "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
     },
     {
-      "title": "Several dogs bitten by rattlesnakes in Colorado's Westminster Hills Open Space as heat wave continues",
-      "summary": "Colorado's hot summer is contributing to an increase in rattlesnake sightings in popular open spaces, including Westminster Hills Open Space in Westminster, a suburb about 15 miles southeast of Boulder on the way to Denver.",
-      "source": "CBS Colorado",
-      "topic": "other",
-      "url": "https://www.cbsnews.com/colorado/news/dogs-bitten-rattlesnakes-colorados-westminster-hills-open-space-heat-wave/",
-      "published_at": "2026-08-11T13:22:44+00:00",
-      "image": {
-        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/11/f1196a18-3f3e-4b29-8f6a-ca696afcfa23/thumbnail/1024x576/96fa54c38c1862420ba221ac9f207193/westminster-rattlesnakes-10pkg-transfer-frame-0.jpg",
-        "alt": ""
-      },
-      "uid": "cc7893b4-b093-4479-92e9-4c5a318fae46",
-      "questions": [
-        "Have you run into any snakes on the trails this summer?",
-        "Does the heat change where you walk the dog?"
-      ],
-      "description": "Colorado's hot summer is contributing to an increase in rattlesnake sightings in popular open spaces.",
-      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
-    },
-    {
       "title": "In Colorado, teens can be charged the same as adults if they cause a crash",
       "summary": "",
       "source": "CBS Colorado",
@@ -60,6 +41,25 @@
         "Was driver's education a big deal where you grew up?"
       ],
       "description": "The Colorado State Patrol says that in the first eight months of 2025, teens were at fault for almost 1,500 crashes.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    },
+    {
+      "title": "Several dogs bitten by rattlesnakes in Colorado's Westminster Hills Open Space as heat wave continues",
+      "summary": "Colorado's hot summer is contributing to an increase in rattlesnake sightings in popular open spaces, including Westminster Hills Open Space in Westminster, a suburb about 15 miles southeast of Boulder on the way to Denver.",
+      "source": "CBS Colorado",
+      "topic": "other",
+      "url": "https://www.cbsnews.com/colorado/news/dogs-bitten-rattlesnakes-colorados-westminster-hills-open-space-heat-wave/",
+      "published_at": "2026-08-11T13:22:44+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/11/f1196a18-3f3e-4b29-8f6a-ca696afcfa23/thumbnail/1024x576/96fa54c38c1862420ba221ac9f207193/westminster-rattlesnakes-10pkg-transfer-frame-0.jpg",
+        "alt": ""
+      },
+      "uid": "cc7893b4-b093-4479-92e9-4c5a318fae46",
+      "questions": [
+        "Have you run into any snakes on the trails this summer?",
+        "Does the heat change where you walk the dog?"
+      ],
+      "description": "Colorado's hot summer is contributing to an increase in rattlesnake sightings in popular open spaces.",
       "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
     },
     {
@@ -100,6 +100,24 @@
       "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
     },
     {
+      "title": "Negotiations weren't always smooth but Broncos have completed purchase of SRM Concrete's property",
+      "summary": "",
+      "source": "9NEWS",
+      "topic": "other",
+      "url": "https://www.9news.com/article/money/business/srm-concrete-broncos-stadium-footprint/73-5480159c-546d-445a-b4ed-25efbc710e7f",
+      "published_at": "2026-08-11T00:04:03+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/b554cfcc-cf89-440a-80cf-adb83f3277c2/20260212T150346/b554cfcc-cf89-440a-80cf-adb83f3277c2_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "b24d030d-f845-417b-93bd-cf02be090160",
+      "questions": [
+        "Are you following the Broncos' stadium plans?",
+        "Do you get to many Broncos games?"
+      ],
+      "description": "Broncos owner Greg Penner confirmed acquiring SRM's property is necessary before finalizing stadium plans."
+    },
+    {
       "title": "Colorado to limit sports betting deposits to six in 24 hours",
       "summary": "",
       "source": "9NEWS",
@@ -116,6 +134,25 @@
         "Do you think limits like that make much difference?"
       ],
       "description": "The bipartisan law was passed in support of stronger responsible gambling measures."
+    },
+    {
+      "title": "San Lazaro mobile home residents race to make competing offer for Boulder County park",
+      "summary": "",
+      "source": "CBS Colorado",
+      "topic": "housing",
+      "url": "https://www.cbsnews.com/colorado/video/san-lazaro-mobile-home-residents-race-to-make-competing-offer-for-boulder-county-park/",
+      "published_at": "2026-08-11T04:20:00+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/11/7612da2b-0c82-42df-a636-69be1e5f17d5/thumbnail/1024x576/0ee9cbc4e74462ba4ad9833777765ece/1e56fd681e17ab00c300228127092932.jpg",
+        "alt": ""
+      },
+      "uid": "ce0e2e53-2791-41f5-86c6-b3aada25a92d",
+      "questions": [
+        "Have you been following the San Lazaro mobile home park sale?",
+        "Is housing a common topic around Boulder County right now?"
+      ],
+      "description": "Residents have until December to submit an offer for the Colorado mobile home park, which is listed for $42.5 million.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
     }
   ],
   "sports": [],

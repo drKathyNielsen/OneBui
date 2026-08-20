@@ -18,8 +18,8 @@
       },
       "uid": "40d9b032-e8f0-4469-a50d-83b3b9e9a622",
       "questions": [
-        "Are you planning to check out IndiaFest at the Capitol?",
-        "What's the food like at that one?"
+        "Have you been to IndiaFest at the Capitol before?",
+        "Is it worth going for the food?"
       ],
       "description": "​Attendees can shop for clothing, try traditional Indian dishes and dance on the dance floor."
     },
@@ -36,8 +36,8 @@
       },
       "uid": "836566c5-a857-4feb-885e-c118b6a75b89",
       "questions": [
-        "Did you hear Como Zoo hatched its first crowned crane chicks?",
-        "Do you get over to Como much?"
+        "Did you hear Como Zoo hatched its first grey crowned crane chicks?",
+        "Do you get over to the zoo much?"
       ],
       "description": "Zookeepers say the grey crowned crane chicks, also known as the African crowned crane, crested crane, and golden crested crane, are doing well and growing quickly."
     }
@@ -53,20 +53,6 @@
   "weather_alert": [],
   "you_should_know": [
     {
-      "title": "Progressives win big in Minnesota DFL primaries for Senate and U.S. House",
-      "summary": "Peggy Flanagan, Minnesota's lieutenant governor, and Matt Little scored more victories for progressives in their Democratic primaries on Tuesday night, keeping with national trends.",
-      "source": "KARE 11",
-      "topic": "elections-politics",
-      "url": "https://www.kare11.com/article/news/local/progressives-win-big-in-mn-dfl-primaries-for-senate-and-us-house/89-2316837a-3072-4b60-ac47-44602222fd9a",
-      "published_at": "2026-08-12T23:19:27+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KARE/images/e2969460-6f2e-48f4-a27b-75c51ec9acaa/20260812T105719/e2969460-6f2e-48f4-a27b-75c51ec9acaa_750x422.jpg",
-        "alt": ""
-      },
-      "uid": "01031b52-f940-491b-aa96-21cb016f8b07",
-      "description": "Peggy Flanagan and Matt Little scored more victories for progressives in their Democratic primaries on Tuesday night, keeping with national trends."
-    },
-    {
       "title": "1 child, 2 adults dead after incident at Hopkins home daycare",
       "summary": "",
       "source": "KARE 11",
@@ -81,18 +67,18 @@
       "description": "Police say the man and woman who died were parents of the 7-year-old victim."
     },
     {
-      "title": "Federal observers spotted at Minneapolis polling place",
-      "summary": "The Department of Justice said they had 20 people out monitoring in Hennepin and Ramsey Counties, the two counties that contain Minneapolis and St. Paul.",
+      "title": "Progressives win big in Minnesota DFL primaries for Senate and U.S. House",
+      "summary": "",
       "source": "KARE 11",
       "topic": "elections-politics",
-      "url": "https://www.kare11.com/article/news/politics/federal-observers-spotted-at-minneapolis-polling-place/89-90112909-a370-4b20-a7d5-5b14d5993a95",
-      "published_at": "2026-08-12T00:29:50+00:00",
+      "url": "https://www.kare11.com/article/news/local/progressives-win-big-in-mn-dfl-primaries-for-senate-and-us-house/89-2316837a-3072-4b60-ac47-44602222fd9a",
+      "published_at": "2026-08-12T23:19:27+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/KARE/images/56f79201-8f32-4cf1-b679-23fbae102d82/20260811T211318/56f79201-8f32-4cf1-b679-23fbae102d82_750x422.jpg",
+        "url": "https://media.tegna-media.com/assets/KARE/images/e2969460-6f2e-48f4-a27b-75c51ec9acaa/20260812T105719/e2969460-6f2e-48f4-a27b-75c51ec9acaa_750x422.jpg",
         "alt": ""
       },
-      "uid": "634cec9e-dc37-475a-80be-72aa3164aa5e",
-      "description": "The Department of Justice said they had 20 people out monitoring in Hennepin and Ramsey Counties."
+      "uid": "01031b52-f940-491b-aa96-21cb016f8b07",
+      "description": "Peggy Flanagan and Matt Little scored more victories for progressives in their Democratic primaries on Tuesday night, keeping with national trends."
     },
     {
       "title": "Multiple cities around Minnesota cancel contracts with Flock Safety",
@@ -107,6 +93,20 @@
       },
       "uid": "26b76bf4-e193-4159-8ebe-0cdf9e38051e",
       "description": "The reasons range from public input to feasibility."
+    },
+    {
+      "title": "Federal observers spotted at Minneapolis polling place",
+      "summary": "The Department of Justice said they had 20 people out monitoring in Hennepin County, which covers Minneapolis, and Ramsey County, the county that covers St. Paul, just east of Minneapolis.",
+      "source": "KARE 11",
+      "topic": "elections-politics",
+      "url": "https://www.kare11.com/article/news/politics/federal-observers-spotted-at-minneapolis-polling-place/89-90112909-a370-4b20-a7d5-5b14d5993a95",
+      "published_at": "2026-08-12T00:29:50+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/56f79201-8f32-4cf1-b679-23fbae102d82/20260811T211318/56f79201-8f32-4cf1-b679-23fbae102d82_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "634cec9e-dc37-475a-80be-72aa3164aa5e",
+      "description": "The Department of Justice said they had 20 people out monitoring in Hennepin and Ramsey Counties."
     }
   ]
 }

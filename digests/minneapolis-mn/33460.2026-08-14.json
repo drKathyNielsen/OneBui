@@ -7,7 +7,7 @@
   "conversation_starters": [
     {
       "title": "Minnesota State Fair food vendors gear up for hungry crowds",
-      "summary": "The Minnesota State Fairgrounds, between Minneapolis and St. Paul, are buzzing as food vendors prepare for the start of the Great Minnesota Get-Together, the state fair's long-standing nickname.",
+      "summary": "The Minnesota State Fairgrounds are buzzing as food vendors prepare for the start of the Great Minnesota Get-Together, the state fair's longtime nickname.",
       "source": "CBS Minnesota",
       "topic": "civic-events",
       "url": "https://www.cbsnews.com/minnesota/news/minnesota-state-fair-food-vendors-preparations/",
@@ -18,8 +18,8 @@
       },
       "uid": "e979c954-f681-4f91-8f6c-421e24dde12f",
       "questions": [
-        "Do you make it out to the State Fair most years?",
-        "Is there a fair food you look forward to, or one you'd skip?"
+        "Are you planning to get to the fair this year?",
+        "Do you have a food you always go for at the fair?"
       ],
       "description": "The Minnesota State Fairgrounds are buzzing as food vendors prepare for the start of the Great Minnesota Get-Together.",
       "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
@@ -66,7 +66,7 @@
     },
     {
       "title": "Minnesota farmers navigate worsening drought conditions",
-      "summary": "",
+      "summary": "Minnesota's drought is getting worse. The latest conditions show nearly half the state is dealing with severe drought conditions. That includes part of the Minneapolis-St. Paul metro area. Photojournalist Ray Campos and Frankie McLister show how it's impacting Minnesota farmers.",
       "source": "CBS Minnesota",
       "topic": "drought-water",
       "url": "https://www.cbsnews.com/minnesota/video/minnesota-farmers-navigate-worsening-drought-conditions/",
@@ -81,7 +81,7 @@
     },
     {
       "title": "MN Secretary of State: Hidden camera vouching 'investigation' now faces its own investigation",
-      "summary": "Secretary of State Steve Simon said members of a political group impersonated Minnesota voters during the Aug. 11 primary election, using vouching — the state's rule letting a registered voter confirm a neighbor's address so they can register at the polls.",
+      "summary": "",
       "source": "KARE 11",
       "topic": "elections-politics",
       "url": "https://www.kare11.com/article/news/politics/elections/minnesota-secretary-of-state-discredits-viral-investigation-into-vouching-voter-registration/89-5d5f6f7d-a8f2-4590-bd94-59139ca7a320",
@@ -109,7 +109,7 @@
     },
     {
       "title": "Hopkins daycare deaths: Victims, alleged perpetrator ID’d by medical examiner",
-      "summary": "The medical examiner for Hennepin County, the county that contains Minneapolis and its western suburbs, has identified both the victims and alleged perpetrator involved in a murder-suicide at a daycare center in Hopkins, about 10 miles west of the city.",
+      "summary": "The Hennepin County Medical Examiner has identified both the victims and alleged perpetrator involved in a murder-suicide at a daycare center in Hopkins, a suburb just west of Minneapolis.",
       "source": "FOX 9",
       "topic": "violent-crime",
       "url": "https://www.fox9.com/news/hopkins-daycare-deaths-victims-alleged-perpetrator-id-aug-14-2026",
@@ -120,6 +120,20 @@
       },
       "uid": "814d479f-63b3-4c82-bd63-fa1caa907e98",
       "description": "The Hennepin County Medical Examiner has identified both the victims and alleged perpetrator involved in a murder-suicide at a Hopkins daycare center."
+    },
+    {
+      "title": "Minnesota wildfires: Flags at half-staff honor firefighter who died responding to Bear Trap Fire",
+      "summary": "",
+      "source": "FOX 9",
+      "topic": "wildfire",
+      "url": "https://www.fox9.com/news/walz-flags-half-staff-firefighter-died-responding-mn-wildfires",
+      "published_at": "2026-08-14T16:43:29+00:00",
+      "image": {
+        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/08/leslie-washington-sized.jpg",
+        "alt": ""
+      },
+      "uid": "a2d30bac-c3c3-4a82-98d9-a6517e2452ec",
+      "description": "Flags are flying at half-staff across the state to honor firefighter Leslie R. Washington, who died while responding to the northern Minnesota wildfires."
     }
   ]
 }

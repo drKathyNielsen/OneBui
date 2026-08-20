@@ -21,6 +21,24 @@
         "Do the afternoon storms mess with your plans this time of year?"
       ],
       "description": "Relief from the heat is set for Colorado as monsoon moisture brings thunderstorms and a flood risk, with storms possibly impacting outdoor events like concerts."
+    },
+    {
+      "title": "'Nothing left here': Westminster lake shrinks as Colorado drought has forced 48 closures",
+      "summary": "Colorado Parks and Wildlife issued an emergency fish salvage at McKay Lake, a lake in Westminster, a suburb between Boulder and Denver, due to severe drought, lifting all bag and possession limits.",
+      "source": "9NEWS",
+      "topic": "drought-water",
+      "url": "https://www.9news.com/article/news/local/westminster-lake-shrinks-colorado-drought-closures-mckay/73-98772580-8426-490c-bc9b-fa898422d6f9",
+      "published_at": "2026-08-13T04:05:39+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/a164f1c9-a877-41bc-8ff1-d2e3a62520fa/20260813T013459/a164f1c9-a877-41bc-8ff1-d2e3a62520fa_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "2ea974cd-c258-4735-8560-8b1fe4739775",
+      "questions": [
+        "Are you seeing the drought's effects around Boulder?",
+        "Do you spend much time at the lakes nearby?"
+      ],
+      "description": "Colorado Parks and Wildlife issued an emergency fish salvage at McKay Lake due to severe drought, lifting all bag and possession limits."
     }
   ],
   "conversation_starters": [
@@ -44,24 +62,6 @@
       "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
     },
     {
-      "title": "Zach Bryan returns to Denver: What to know for 'Heaven On Tour' stadium concerts",
-      "summary": "He will be in Denver for his \"Heaven On Tour\" concerts at Mile High Stadium, the Broncos' stadium about 30 miles southeast of Boulder, on Thursday and Friday. Fans should prepare for possible weather disruptions.",
-      "source": "9NEWS",
-      "topic": "civic-events",
-      "url": "https://www.9news.com/article/life/style/colorado-guide/zach-bryan-denver-stadium-concerts/73-a82a79d2-a484-4e35-a79e-11388f31ec1f",
-      "published_at": "2026-08-13T17:45:41+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KUSA/images/ef4a9603-a7e4-40c5-821a-46903e5a8f62/20260813T105719/ef4a9603-a7e4-40c5-821a-46903e5a8f62_750x422.jpg",
-        "alt": ""
-      },
-      "uid": "314420c7-d6d6-4bab-8090-dc4358474b9b",
-      "questions": [
-        "Are you going to either of the Zach Bryan nights?",
-        "How bad does traffic get around the stadium for something that size?"
-      ],
-      "description": "He will be in Denver for his \"Heaven On Tour\" concerts at Mile High Stadium this Thursday and Friday. Fans should prepare for possible weather disruptions."
-    },
-    {
       "title": "CU honors Native American Code Talkers with new dorms",
       "summary": "Code Talker Hall is home to non-first-year undergraduate students on the University of Colorado Boulder campus, providing new opportunities for students to live and build community there.",
       "source": "9NEWS",
@@ -78,6 +78,24 @@
         "Do you have much to do with the campus?"
       ],
       "description": "Code Talker Hall is home to non-first-year undergraduate students, providing new opportunities for students to live and build community on campus."
+    },
+    {
+      "title": "Zach Bryan returns to Denver: What to know for 'Heaven On Tour' stadium concerts",
+      "summary": "He will be in Denver for his \"Heaven On Tour\" concerts at Mile High Stadium, the Broncos' stadium about 30 miles southeast of Boulder, on Thursday and Friday. Fans should prepare for possible weather disruptions.",
+      "source": "9NEWS",
+      "topic": "civic-events",
+      "url": "https://www.9news.com/article/life/style/colorado-guide/zach-bryan-denver-stadium-concerts/73-a82a79d2-a484-4e35-a79e-11388f31ec1f",
+      "published_at": "2026-08-13T17:45:41+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/ef4a9603-a7e4-40c5-821a-46903e5a8f62/20260813T105719/ef4a9603-a7e4-40c5-821a-46903e5a8f62_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "314420c7-d6d6-4bab-8090-dc4358474b9b",
+      "questions": [
+        "Are you going to either of the Zach Bryan nights?",
+        "How bad does traffic get around the stadium for something that size?"
+      ],
+      "description": "He will be in Denver for his \"Heaven On Tour\" concerts at Mile High Stadium this Thursday and Friday. Fans should prepare for possible weather disruptions."
     },
     {
       "title": "Denver Water now issuing fines to customers who violate water restrictions",
@@ -117,6 +135,42 @@
       "description": "A new law closes off one of the state's worst-kept secrets for beating a photo radar ticket: Telling the city, \"It wasn't me.\""
     },
     {
+      "title": "Colorado project rebuilding congested interstate exit in mountains",
+      "summary": "The Colorado Department of Transportation has a major project to revamp the Exit 203 interchange on I-70, the interstate that runs west from Denver through the mountains, aiming to reduce traffic congestion and improve safety.",
+      "source": "9NEWS",
+      "topic": "transportation",
+      "url": "https://www.9news.com/article/traffic/cdot-interstate-70-frisco-exit-project/73-1a599cea-bddb-487b-a191-12b8a1d5f609",
+      "published_at": "2026-08-13T14:53:30+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/1e20c6b0-0997-4089-854e-17254c259576/20260813T133425/1e20c6b0-0997-4089-854e-17254c259576_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "7cb545a9-50d9-48d5-982c-0f34953d703e",
+      "questions": [
+        "Do you drive I-70 into the mountains much?",
+        "Would that interchange work change any of your regular trips?"
+      ],
+      "description": "The Colorado Department of Transportation has a major project to revamp the I-70 Exit 203 interchange, aiming to reduce traffic congestion and improve safety."
+    },
+    {
+      "title": "Colorado athlete Ashlee Wood wins gold at Special Olympics USA Games",
+      "summary": "",
+      "source": "9NEWS",
+      "topic": "human-interest",
+      "url": "https://www.9news.com/article/sports/local-sports/athlete-ashlee-wood-wins-gold-at-special-olympics-usa-games-representing-colorado/73-849117fb-9875-431d-82b2-fc97fcbf8f2e",
+      "published_at": "2026-08-13T23:33:58+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/c36544cc-55a0-48e7-851e-6e1ef62874ea/20260813T220150/c36544cc-55a0-48e7-851e-6e1ef62874ea_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "e2dc4167-9403-48c8-8429-7d9b9099f083",
+      "questions": [
+        "Did you catch any of the Special Olympics USA Games coverage?",
+        "Do you follow tennis at all?"
+      ],
+      "description": "From one-armed serve to gold: Ashlee Wood makes her mark in tennis"
+    },
+    {
       "title": "Abandoned llama not interested in being rescued on Colorado trail",
       "summary": "",
       "source": "9NEWS",
@@ -133,6 +187,61 @@
         "What's the strangest thing you've run into on a trail here?"
       ],
       "description": "A lounging llama sparked a rescue mission on a Colorado trail, surprising deputies with her stubborn refusal to return home until her owners coaxed her back."
+    },
+    {
+      "title": "Baby on board | New mom delivers baby in her car along the highway with an officer assist",
+      "summary": "",
+      "source": "9NEWS",
+      "topic": "human-interest",
+      "url": "https://www.9news.com/article/news/local/officers-help-new-mom-deliver-baby-car/73-155864dc-2e20-4eb2-869d-157d81cecc2a",
+      "published_at": "2026-08-13T22:19:22+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/b542ea04-bb76-4fee-b5fe-e7d94784f1f6/20260813T210050/b542ea04-bb76-4fee-b5fe-e7d94784f1f6_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "2c553013-cd89-4bd1-9abc-930ef6637aaf",
+      "questions": [
+        "Did you see the story about the baby delivered on the highway?",
+        "Any other local stories catch your eye this week?"
+      ],
+      "description": "When officers arrived, they found mom and baby in shock, but breathing and doing well. Police said calls to help with car deliveries happen every couple of months."
+    },
+    {
+      "title": "The Denver Zoo's African lion cubs celebrate their first birthday",
+      "summary": "",
+      "source": "CBS Colorado",
+      "topic": "human-interest",
+      "url": "https://www.cbsnews.com/colorado/video/the-denver-zoos-african-lion-cubs-celebrate-their-first-birthday/",
+      "published_at": "2026-08-13T16:16:00+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/13/f9096c3e-87cf-4dcd-a25f-f01527506755/thumbnail/1024x576/3d104cb36126e27690fd0e45c0b559a9/c4545ea049722ecfd6d85b3828e8389f.jpg",
+        "alt": ""
+      },
+      "uid": "045873c5-232b-493b-aeeb-2bf14be1e5e6",
+      "questions": [
+        "Have you been to the Denver Zoo?",
+        "Did you see the lion cubs' first birthday made the news?"
+      ],
+      "description": "The Denver Zoo Conservation Alliance celebrated their African lion cubs' first birthday with festivities around the enclosure.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    },
+    {
+      "title": "Denver choir using music to bring people together through difficult times",
+      "summary": "",
+      "source": "9NEWS",
+      "topic": "human-interest",
+      "url": "https://www.9news.com/video/news/local/denver-choir-using-music-to-bring-people-together-through-difficult-times/73-42cbf420-d605-4e43-8498-0a52985fa7b5",
+      "published_at": "2026-08-13T01:23:47+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/bfa3cfa2-9ef0-47ca-898b-f72c35ffa55e/20260813T011053/bfa3cfa2-9ef0-47ca-898b-f72c35ffa55e_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "5782f7c6-393b-4005-ad0c-561b531b2a35",
+      "questions": [
+        "Had you heard of the Second Verse Choir before this?",
+        "Do you sing or play anything yourself?"
+      ],
+      "description": "Second Verse Choir is a choir for people living with dementia and their care partners."
     }
   ],
   "sports": [
@@ -175,21 +284,6 @@
       "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
     },
     {
-      "title": "Colorado man pleads guilty to terrorism charged after pledging to serve as ISIS fighter",
-      "summary": "",
-      "source": "CBS Colorado",
-      "topic": "other",
-      "url": "https://www.cbsnews.com/colorado/video/colorado-man-pleads-guilty-to-terrorism-charged-after-pledging-to-serve-as-isis-fighter/",
-      "published_at": "2026-08-13T12:32:00+00:00",
-      "image": {
-        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/13/b9230ebc-5830-48f0-9697-81d537eb0295/thumbnail/1024x576/acb709f6de3beda20749c93e7ca44ced/854d8747b2ccde369120aa3578f5577f.jpg",
-        "alt": ""
-      },
-      "uid": "1522eb0b-9651-4815-8819-080dbd046b0d",
-      "description": "A Colorado man has pleaded guilty to terrorism charges after pledging to serve as an ISIS fighter.",
-      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
-    },
-    {
       "title": "Contractor at ICE detention facility in Aurora to appear in court on assault charge",
       "summary": "Brandon Booth has been accused of opening fire on two protesters outside the ICE detention facility in Aurora, a large city just east of Denver, hitting one of them in the foot.",
       "source": "CBS Colorado",
@@ -202,6 +296,21 @@
       },
       "uid": "feb82c91-282f-4fb0-a96c-2ff17c81270a",
       "description": "Brandon Booth has been accused of opening fire on two protesters outside the ICE detention facility, hitting one of them in the foot.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    },
+    {
+      "title": "Colorado man pleads guilty to terrorism charged after pledging to serve as ISIS fighter",
+      "summary": "",
+      "source": "CBS Colorado",
+      "topic": "other",
+      "url": "https://www.cbsnews.com/colorado/video/colorado-man-pleads-guilty-to-terrorism-charged-after-pledging-to-serve-as-isis-fighter/",
+      "published_at": "2026-08-13T12:32:00+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/13/b9230ebc-5830-48f0-9697-81d537eb0295/thumbnail/1024x576/acb709f6de3beda20749c93e7ca44ced/854d8747b2ccde369120aa3578f5577f.jpg",
+        "alt": ""
+      },
+      "uid": "1522eb0b-9651-4815-8819-080dbd046b0d",
+      "description": "A Colorado man has pleaded guilty to terrorism charges after pledging to serve as an ISIS fighter.",
       "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
     },
     {

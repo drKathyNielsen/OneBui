@@ -18,14 +18,14 @@
       },
       "uid": "b7607dfa-1ef8-45f5-8f1c-3574c2005187",
       "questions": [
-        "Did you catch the story about the Minnesota company that put out the first fully implanted cochlear device?",
-        "Do you follow the medical device industry there at all?"
+        "Had you heard of Envoy Medical before this?",
+        "Do you follow what the medical-device companies around the Twin Cities are working on?"
       ],
       "description": "Envoy Medical says it expects to have approval from the U.S. Food and Drug Administration by the end of 2027."
     },
     {
       "title": "Fox steals golf balls at Chaska Town Course",
-      "summary": "No birdies for the group that day at the Chaska Town Course, in Chaska about 25 miles southwest of Minneapolis — just a fox and two free drops.",
+      "summary": "No birdies for the group that day at Chaska Town Course, a municipal golf course in Chaska, about 25 miles southwest of Minneapolis — just a fox and two free drops.",
       "source": "KARE 11",
       "topic": "human-interest",
       "url": "https://www.kare11.com/article/news/local/fox-steals-golf-balls-chaska-town-course/89-287a610e-50e9-4379-8ea8-17b29dce662c",
@@ -36,8 +36,8 @@
       },
       "uid": "d5380cef-b9f7-4520-a882-b1cb189c0ae2",
       "questions": [
-        "Did you see the fox stealing golf balls out at Chaska?",
-        "Do you play much golf around the metro?"
+        "Did you see the fox that's been stealing golf balls out in Chaska?",
+        "Do you play any of the courses out that way?"
       ],
       "description": "No birdies for the group that day — just a fox and two free drops."
     }
@@ -73,7 +73,7 @@
   "you_should_know": [
     {
       "title": "Ramsey County judge hears arguments on why two rival gangs should be kept out of the MN State Fair",
-      "summary": "Lawsuits were filed against rival gangs known as Muddy and The Ville after court records showed members posted plans to organize a large fight at the MN State Fair, the state's big late-summer fair held on grounds between Minneapolis and St. Paul.",
+      "summary": "",
       "source": "KARE 11",
       "topic": "violent-crime",
       "url": "https://www.kare11.com/article/news/local/ramsey-county-judge-hears-arguments-on-why-two-rival-gangs-should-be-kept-out-of-mn-state-fair/89-f40aeef7-3143-4805-8dcb-c59015613ea9",

@@ -25,6 +25,24 @@
   ],
   "conversation_starters": [
     {
+      "title": "'Just so you know, the bear is up there': Colorado faces record bear season as new law cracks down",
+      "summary": "",
+      "source": "9NEWS",
+      "topic": "other",
+      "url": "https://www.9news.com/article/weather/colorado-faces-record-bear-season-new-law-cracks-down/73-a87294ed-013e-4f53-b1ba-15080a7aa1b9",
+      "published_at": "2026-08-15T04:33:53+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/a26e8db9-02ef-4baa-88c6-471db9d43153/20260815T022418/a26e8db9-02ef-4baa-88c6-471db9d43153_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "c8f80139-3136-4f4d-a530-0b0a151eda7e",
+      "questions": [
+        "Have you had bears in your neighborhood this season?",
+        "Do you do anything different with trash or bird feeders this time of year?"
+      ],
+      "description": "Colorado is witnessing a record bear season, with over 6,100 incidents reported, as drought conditions push bears into neighborhoods."
+    },
+    {
       "title": "Bear tears through screen, breaks into Colorado Cherry Company building to eat blueberry pie",
       "summary": "A young bear broke into the Colorado Cherry Company's location on Highway 36 north of Lyons — the road running northwest out of Boulder toward the mountains, through the small town of Lyons about 15 miles away — to chow down on a blueberry pie.",
       "source": "CBS Colorado",
@@ -42,24 +60,6 @@
       ],
       "description": "A young bear broke into the Colorado Cherry Company's location on Highway 36 north of Lyons to chow down on a blueberry pie.",
       "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
-    },
-    {
-      "title": "'Just so you know, the bear is up there': Colorado faces record bear season as new law cracks down",
-      "summary": "",
-      "source": "9NEWS",
-      "topic": "other",
-      "url": "https://www.9news.com/article/weather/colorado-faces-record-bear-season-new-law-cracks-down/73-a87294ed-013e-4f53-b1ba-15080a7aa1b9",
-      "published_at": "2026-08-15T04:33:53+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KUSA/images/a26e8db9-02ef-4baa-88c6-471db9d43153/20260815T022418/a26e8db9-02ef-4baa-88c6-471db9d43153_750x422.jpg",
-        "alt": ""
-      },
-      "uid": "c8f80139-3136-4f4d-a530-0b0a151eda7e",
-      "questions": [
-        "Have you had bears in your neighborhood this season?",
-        "Do you do anything different with trash or bird feeders this time of year?"
-      ],
-      "description": "Colorado is witnessing a record bear season, with over 6,100 incidents reported, as drought conditions push bears into neighborhoods."
     }
   ],
   "sports": [
