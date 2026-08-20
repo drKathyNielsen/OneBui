@@ -25,3 +25,6 @@ feedback/
 *.njsproj
 *.sln
 *.sw?
+
+# Generated accessibility URL matrix (see scripts/gen-pa11y-urls.mjs)
+.pa11yci.json

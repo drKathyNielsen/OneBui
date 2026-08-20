@@ -10,14 +10,15 @@ backend.
 
 ## Requirements
 
-- **Node 20+** is required. Vite 8 uses the rolldown bundler, whose native
-  binding is built against your Node version and fails on Node 18. The version
-  is pinned in `.nvmrc`; run `nvm use` (or `nvm install`) before building.
+- **Node 24** is required. Two independent floors: Vite 8 uses the rolldown
+  bundler, whose native binding is built against your Node version and fails on
+  Node 18; and puppeteer (behind pa11y) needs Node 22.12+. The version is pinned
+  in `.nvmrc` and `engines`; run `nvm use` (or `nvm install`) before building.
 
 ## Getting started
 
 ```bash
-nvm use            # honors .nvmrc (Node 20)
+nvm use            # honors .nvmrc (Node 24)
 npm install
 npm run dev        # dev server with HMR at http://localhost:5173
 ```
@@ -127,4 +128,4 @@ Specs and changes are managed with the **OpenSpec** workflow under `openspec/`.
 
 `render.yaml` is a Render Blueprint that deploys the app as a static site
 (`npm ci && npm run build` → `./dist`, with SPA rewrite and asset caching).
-Node 20 is pinned via `NODE_VERSION` for the build.
+Node 24 is pinned via `NODE_VERSION` for the build.

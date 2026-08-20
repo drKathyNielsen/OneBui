@@ -5,8 +5,9 @@ in `digests/<slug>/`. Specs and changes live under `openspec/` (OpenSpec workflo
 
 ## Build & tooling
 
-- **Node 20 is required** for the Vite build (`vite build` uses rolldown and fails on
-  Node 18). Use `nvm use 20` before `npm run build`, `npm run preview`, or the a11y checks.
+- **Node 24 is required** (`.nvmrc`, `engines`): `vite build` uses rolldown and fails on
+  Node 18, and puppeteer (behind pa11y) needs Node 22.12+. Run `nvm use` before
+  `npm run build`, `npm run preview`, or the a11y checks.
 - `npm run build` — typecheck (`tsc -b`) + Vite build.
 - `npm run lint` — ESLint.
 
