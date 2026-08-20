@@ -7,8 +7,8 @@ export default defineConfig({
   plugins: [react()],
   test: {
     environment: 'jsdom',
-    setupFiles: ['./src/test/setup.ts'],
-    include: ['src/**/*.test.{ts,tsx}'],
+    setupFiles: ['./tests/setup.ts'],
+    include: ['tests/**/*.test.{ts,tsx}'],
     // No `globals: true` — tests import describe/it/expect from 'vitest'
     // explicitly, so nothing is injected into the ambient type space.
     restoreMocks: true,

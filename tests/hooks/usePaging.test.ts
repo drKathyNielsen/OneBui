@@ -1,6 +1,6 @@
 import { describe, it, expect } from 'vitest';
 import { act, renderHook } from '@testing-library/react';
-import { usePaging } from './usePaging';
+import { usePaging } from '../../src/hooks/usePaging';
 
 const items = (n: number) => Array.from({ length: n }, (_, i) => i + 1);
 

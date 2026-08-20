@@ -1,6 +1,6 @@
 import { describe, it, expect } from 'vitest';
-import { toCityViewModel, accessibleName } from './format';
-import type { RawArticle, RawCity } from '../types';
+import { toCityViewModel, accessibleName } from '../../src/utils/format';
+import type { RawArticle, RawCity } from '../../src/types';
 
 function article(over: Partial<RawArticle> = {}): RawArticle {
   return {
@@ -50,5 +50,12 @@ describe('accessibleName', () => {
 
   it('leaves plain headings untouched', () => {
     expect(accessibleName('Conversation starters')).toBe('Conversation starters');
+  });
+});
+
+describe('mapItem description', () => {
+  it('falls back to the description when a daily item carries an empty summary', () => {
+    const vm = toCityViewModel(city([article({ summary: '', description: 'The real line' })]));
+    expect(vm.starters[0].description).toBe('The real line');
   });
 });

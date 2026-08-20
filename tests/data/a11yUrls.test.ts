@@ -1,6 +1,6 @@
 import { describe, it, expect } from 'vitest';
-import { selectA11yUrls, REQUIRED_SHAPES, type DigestDoc } from './a11yUrls';
-import type { RawArticle, RawCity, RawWeekly } from '../types';
+import { selectA11yUrls, REQUIRED_SHAPES, type DigestDoc } from '../../src/data/a11yUrls';
+import type { RawArticle, RawCity, RawWeekly } from '../../src/types';
 
 function article(over: Partial<RawArticle> = {}): RawArticle {
   return {

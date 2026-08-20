@@ -1,8 +1,8 @@
 import { describe, it, expect } from 'vitest';
 import { render, screen } from '@testing-library/react';
 import userEvent from '@testing-library/user-event';
-import AreTheyOk from './AreTheyOk';
-import type { Article } from '../types';
+import AreTheyOk from '../../src/components/AreTheyOk';
+import type { Article } from '../../src/types';
 
 const PAGER = { prev: 'Previous', next: 'Next' };
 

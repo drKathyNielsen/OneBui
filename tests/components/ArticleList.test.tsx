@@ -1,8 +1,8 @@
 import { describe, it, expect } from 'vitest';
 import { render, screen } from '@testing-library/react';
 import userEvent from '@testing-library/user-event';
-import ArticleList from './ArticleList';
-import type { Article } from '../types';
+import ArticleList from '../../src/components/ArticleList';
+import type { Article } from '../../src/types';
 
 const PAGER = { prev: 'Previous', next: 'Next' };
 
@@ -23,6 +23,7 @@ function renderList(list: Article[]) {
       heading="Conversation starters"
       items={list}
       emptyNote="No conversation starters this time."
+      blurb="Local stories worth bringing up next time you talk."
       pager={PAGER}
       questionsLabel="Ways to bring it up"
     />

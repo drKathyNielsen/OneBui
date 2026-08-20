@@ -4,7 +4,7 @@ import { describe, it, expect, vi, afterEach } from 'vitest';
 // registry and re-imports it with the flag in the state under test.
 async function loadMetros() {
   vi.resetModules();
-  const { metrosPromise } = await import('./digests');
+  const { metrosPromise } = await import('../../src/data/digests');
   return metrosPromise;
 }
 

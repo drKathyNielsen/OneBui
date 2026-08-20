@@ -1,6 +1,6 @@
 import { describe, it, expect, vi } from 'vitest';
 import { render, screen } from '@testing-library/react';
-import ArticleQuestions from './ArticleQuestions';
+import ArticleQuestions from '../../src/components/ArticleQuestions';
 
 const prompts = ['Did the storm hit your block?', 'Have you driven past it yet?'];
 
