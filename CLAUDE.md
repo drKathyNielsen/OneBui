@@ -39,8 +39,13 @@ npm run test:a11y:ci    # build (with fixtures), generate the URL matrix, serve 
 - Enforced in three places: the `Accessibility` GitHub Actions workflow on every PR
   (`.github/workflows/a11y.yml`), a local **pre-push** hook (`.githooks/pre-push`, wired by the
   `prepare` script), and this instruction for `/code-review`. The hook narrows the matrix by what
-  the push touched via `A11Y_TIER` (`src/` and `tests/` → fixtures, `digests/` → live, anything else → both);
-  the PR run is the backstop and always runs everything.
+  the push touched via `A11Y_TIER`, following what each tier actually proves. Anything that
+  could reach the UI — `src/`, `tests/`, `digests-fixtures/`, `scripts/`, build and dependency
+  config — runs **fixtures**, since that tier is what pins the required render shapes. Only
+  `digests/` changes run **live**, since that tier guarantees no shape and exists to catch
+  content drift; both together run everything. Paths that cannot affect either — `openspec/`,
+  `docs/`, `.github/`, `.githooks/`, root `*.md` — skip the check entirely. The PR run is the
+  backstop and always runs everything.
 - Design tokens live in `src/styles/theme.css`; normal-size text (meta, source links) must clear
   4.5:1 on both `--bg` and `--surface` in all six themes — `--text-secondary` and `--accent` are the
   usual offenders in dark modes.

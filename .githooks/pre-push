@@ -10,11 +10,16 @@ if [ -s "$HOME/.nvm/nvm.sh" ]; then
   nvm use 24 >/dev/null 2>&1 || true
 fi
 
-# Narrow the matrix by what is being pushed. UI changes need the fixture tier
-# (required render shapes × every style×theme combination); new digest data only
-# needs the live sweep (one page per metro, default appearance). Anything else —
-# both, or paths we do not recognize — runs everything. Scoping is an optimization;
-# the Accessibility workflow on the PR always runs the full matrix.
+# Narrow the matrix by what is being pushed.
+#
+# The fixture tier is what proves the required render shapes still pass, so any
+# change that could reach the UI runs it — that is the default, not a special case.
+# The live tier only sweeps real digests for content drift and guarantees no shape,
+# so it is worth running only when digest data itself changed. Paths that cannot
+# affect either — specs, docs, CI and hook config — skip the check outright.
+#
+# Scoping is an optimization; the Accessibility workflow on the PR always runs
+# the full matrix.
 range=$(git rev-parse --abbrev-ref --symbolic-full-name '@{u}' 2>/dev/null)
 if [ -n "$range" ]; then
   changed=$(git diff --name-only "$range"...HEAD)
@@ -22,23 +27,24 @@ else
   changed=$(git diff --name-only HEAD~1...HEAD 2>/dev/null)
 fi
 
+# Paths with no effect on the rendered app.
+inert_re='^(openspec/|docs/|\.github/|\.githooks/|[^/]+\.md$)'
+
 if [ -z "$changed" ]; then
   tier=all
 else
-  ui=$(printf '%s\n' "$changed" | grep -E '^(src/|tests/|index\.html|vite\.config\.ts)' || true)
   data=$(printf '%s\n' "$changed" | grep -E '^digests/' || true)
-  other=$(printf '%s\n' "$changed" | grep -vE '^(src/|tests/|index\.html|vite\.config\.ts|digests/)' || true)
+  code=$(printf '%s\n' "$changed" | grep -vE "$inert_re" | grep -vE '^digests/' || true)
 
-  if [ -n "$other" ]; then
+  if [ -n "$data" ] && [ -n "$code" ]; then
     tier=all
-  elif [ -n "$ui" ] && [ -n "$data" ]; then
-    tier=all
-  elif [ -n "$ui" ]; then
-    tier=fixture
   elif [ -n "$data" ]; then
     tier=live
+  elif [ -n "$code" ]; then
+    tier=fixture
   else
-    tier=all
+    echo "pre-push: only specs/docs/CI config changed — skipping accessibility check."
+    exit 0
   fi
 fi
 
