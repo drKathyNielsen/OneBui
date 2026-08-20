@@ -2,7 +2,7 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://github.com/oneb/oneb/docs/schema/digest.schema.json",
   "title": "oneb digest output",
-  "description": "Machine-readable contract for the JSON files render writes. A file is either a DailyDigest (<cbsa>.<yyyy-mm-dd>.json) or a WeeklyDigest (<cbsa>.weekly.json). This schema is the exchange artifact for the UI layer; the authoritative enforcement lives in render/src/oneb_render/contract.py (validate_day / validate_week) and the prose contract in openspec/specs/digest-output-contract/. Objects are intentionally open (additive fields are safe to ignore).",
+  "description": "Machine-readable contract for the JSON files render writes. A file is either a DailyDigest (<cbsa>.<yyyy-mm-dd>.json) or a WeeklyDigest (<cbsa>.weekly.json). This schema is the exchange artifact for the UI layer; the authoritative enforcement lives in render/src/oneb_render/contract.py (validate_day / validate_week) and the prose contract in openspec/specs/digest-output-contract/. Objects are intentionally open (additive fields are safe to ignore). Render applies NO per-appeal display count: are_you_ok, conversation_starters and you_should_know are complete ordered candidate sets in both the daily and the weekly file, so the consuming UI owns how many of each a reader sees and must bound them itself.",
   "oneOf": [
     { "$ref": "#/$defs/DailyDigest" },
     { "$ref": "#/$defs/WeeklyDigest" }
@@ -35,12 +35,12 @@
     "Article": {
       "type": "object",
       "description": "A story card. Emitted in are_you_ok, conversation_starters, you_should_know (and their weekly counterparts).",
-      "required": ["title", "summary", "source", "topic", "url", "published_at", "image"],
+      "required": ["title", "summary", "source", "topic", "url", "published_at", "image", "uid"],
       "properties": {
         "title": { "type": "string", "minLength": 1 },
         "summary": {
           "type": "string",
-          "description": "One-line editorial blurb (may be empty). In weekly items this is the multi-day arc summary."
+          "description": "One-line editorial blurb (may be empty). In a weekly item that threads several articles this is the multi-day arc summary."
         },
         "source": { "type": "string", "minLength": 1, "description": "Masthead label." },
         "topic": { "type": "string", "minLength": 1, "description": "Coarse theme; 'other' when unclassified." },
@@ -50,7 +50,7 @@
         "uid": {
           "type": "string",
           "minLength": 1,
-          "description": "Optional stable, opaque per-item feedback identity (minted at fetch). Absent on files rendered before it was introduced."
+          "description": "Stable, opaque per-item feedback identity, minted at fetch. Present on every Article: fetch refuses to emit an item without one."
         },
         "logo": {
           "type": "string",
@@ -95,10 +95,15 @@
     },
     "SportsEntry": {
       "type": "object",
+      "description": "One team's lines for the day (or, in a weekly digest, for the window). The section carries every kept sports item, not only game results, so an entry may cover a trade, an injury or an off-field story alongside scorelines.",
       "required": ["team", "scores"],
       "properties": {
         "team": { "type": "string", "minLength": 1 },
-        "scores": { "type": "array", "items": { "type": "string" } }
+        "scores": {
+          "type": "array",
+          "description": "The team's lines, one per item, in encounter order. Despite the field name these are not necessarily scorelines: a line may read 'signs goalie to extension'. Sports carries no rank, so the order is not an editorial ranking.",
+          "items": { "type": "string" }
+        }
       }
     },
     "DailyDigest": {
@@ -115,13 +120,16 @@
         "date": { "$ref": "#/$defs/IsoDate" },
         "are_you_ok": {
           "type": "array",
-          "maxItems": 1,
-          "description": "Zero or one human 'are you ok' story. Never displaced by weather alerts.",
+          "description": "Every human 'are you ok' story for the day, in rank order, with no upper bound — the UI applies the display count. Never displaced by weather alerts.",
           "items": { "$ref": "#/$defs/Article" }
         },
         "conversation_starters": { "type": "array", "items": { "$ref": "#/$defs/Article" } },
         "you_should_know": { "type": "array", "items": { "$ref": "#/$defs/Article" } },
-        "sports": { "type": "array", "items": { "$ref": "#/$defs/SportsEntry" } },
+        "sports": {
+          "type": "array",
+          "description": "The day's kept sports items grouped by team.",
+          "items": { "$ref": "#/$defs/SportsEntry" }
+        },
         "weather_alert": { "type": "array", "items": { "$ref": "#/$defs/WeatherAlert" } }
       }
     },
@@ -146,10 +154,26 @@
             "end": { "$ref": "#/$defs/IsoDate" }
           }
         },
-        "are_you_ok": { "type": "array", "items": { "$ref": "#/$defs/Article" } },
-        "conversation_starters": { "type": "array", "items": { "$ref": "#/$defs/Article" } },
-        "you_should_know": { "type": "array", "items": { "$ref": "#/$defs/Article" } },
-        "sports": { "type": "array", "items": { "$ref": "#/$defs/SportsEntry" } }
+        "are_you_ok": {
+          "type": "array",
+          "description": "Bounded upstream by prioritize's weekly selection (6 today) and not re-sliced by render, so the bound may move without a schema change. The UI applies the display count.",
+          "items": { "$ref": "#/$defs/Article" }
+        },
+        "conversation_starters": {
+          "type": "array",
+          "description": "Bounded upstream by prioritize's weekly selection (15 today) and not re-sliced by render, so the bound may move without a schema change. The UI applies the display count.",
+          "items": { "$ref": "#/$defs/Article" }
+        },
+        "you_should_know": {
+          "type": "array",
+          "description": "Bounded upstream by prioritize's weekly selection (15 today) and not re-sliced by render, so the bound may move without a schema change. The UI applies the display count.",
+          "items": { "$ref": "#/$defs/Article" }
+        },
+        "sports": {
+          "type": "array",
+          "description": "Every team's kept sports items across the window, grouped by team.",
+          "items": { "$ref": "#/$defs/SportsEntry" }
+        }
       }
     }
   }

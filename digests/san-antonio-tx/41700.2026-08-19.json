@@ -1,0 +1,30 @@
+{
+  "shortName": "San Antonio, TX",
+  "metroCode": "41700",
+  "metro": "San Antonio-New Braunfels, TX",
+  "date": "2026-08-19",
+  "are_you_ok": [
+    {
+      "title": "Heat Advisory issued for Thursday as extreme heat continues in South Texas | Weather Impact Alert",
+      "summary": "",
+      "source": "KENS 5",
+      "topic": "heat",
+      "url": "https://www.kens5.com/article/weather/forecast/heat-advisory-issued-for-thursday-as-extreme-heat-continues-in-south-texas-weather-impact-alert/273-4c95b659-058a-4198-8ed7-ac745dad0c97",
+      "published_at": "2026-08-19T20:04:58+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/c2212bc4-19d5-4ff9-b73e-2df2dbb1b2bd/c2212bc4-19d5-4ff9-b73e-2df2dbb1b2bd_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "e09a5a21-5f74-46e9-b47b-7a80613b2ecf",
+      "questions": [
+        "How has the heat been treating everyone there?",
+        "Have you been able to keep cool with the advisory in place?"
+      ],
+      "description": "Stay updated with the KENS 5 Weather Team on this severe weather development and how it impacts you."
+    }
+  ],
+  "conversation_starters": [],
+  "sports": [],
+  "weather_alert": [],
+  "you_should_know": []
+}

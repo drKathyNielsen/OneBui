@@ -1,0 +1,21 @@
+{
+  "shortName": "San Antonio, TX",
+  "metroCode": "41700",
+  "metro": "San Antonio-New Braunfels, TX",
+  "date": "2026-08-20",
+  "are_you_ok": [],
+  "conversation_starters": [],
+  "sports": [],
+  "weather_alert": [
+    {
+      "uid": "bd33ae57-2c0a-5ded-a27f-6dda0b3f808f",
+      "event": "Heat Advisory",
+      "area": "Atascosa, Bexar +3 more",
+      "severity": "Moderate",
+      "summary": "A heat advisory with temperatures up to 104 and heat index values up to 110, covering Bexar County along with Comal County just northeast of San Antonio, Guadalupe County to the east, Wilson County to the southeast, and Atascosa County to the south. Hot temperatures and high humidity may cause heat illnesses.",
+      "description": "Heat Advisory issued August 19 at 10:52AM CDT until August 23 at 7:00PM CDT by NWS Austin/San Antonio TX\n\n* WHAT...Temperatures up to 104 and heat index values up to 110\nexpected.\n\n* WHERE...The northern Hill Country, I-35 Corridor, and Coastal\nPlains.\n\n* WHEN...From 2 PM Thursday to 7 PM CDT Sunday.\n\n* IMPACTS...Hot temperatures and high humidity may cause heat\nillnesses.",
+      "ends": "2026-08-23T19:00:00-05:00"
+    }
+  ],
+  "you_should_know": []
+}

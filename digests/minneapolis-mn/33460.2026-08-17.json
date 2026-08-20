@@ -1,0 +1,82 @@
+{
+  "shortName": "Minneapolis, MN",
+  "metroCode": "33460",
+  "metro": "Minneapolis-St. Paul-Bloomington, MN-WI",
+  "date": "2026-08-17",
+  "are_you_ok": [],
+  "conversation_starters": [
+    {
+      "title": "Twin Cities gas prices hit $4/gallon, up 16 cents in one week",
+      "summary": "Drivers across the Twin Cities, the Minneapolis-St. Paul metro area, are feeling the pinch as average gasoline prices have surged past $4 per gallon, fueled by global supply disruptions and refinery issues.",
+      "source": "FOX 9",
+      "topic": "business-jobs",
+      "url": "https://www.fox9.com/news/twin-cities-gas-prices-hit-4-gallon-up-16-cents-one-week",
+      "published_at": "2026-08-17T21:13:16+00:00",
+      "image": {
+        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/03/3_2_26-gas-prices-vo-gk_kmsp41d3_186_mp4_00.00.05.30.jpg",
+        "alt": ""
+      },
+      "uid": "fd2bce43-a7b1-4b40-a7cf-80a8d4ec0e84",
+      "questions": [
+        "Are you noticing the jump at the pump on your commute?",
+        "Has it changed how you're getting around at all?"
+      ],
+      "description": "Drivers across the Twin Cities are feeling the pinch as average gasoline prices have surged past $4 per gallon, fueled by global supply disruptions and refinery issues."
+    }
+  ],
+  "sports": [
+    {
+      "team": "Vikings",
+      "scores": [
+        "preseason home game Saturday vs Ravens",
+        "place S Jamal Adams on injured reserve",
+        "preseason opener highlights"
+      ]
+    }
+  ],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "Judge lifts pause, allowing end to Temporary Protected Status for Somalia",
+      "summary": "A federal judge in Massachusetts has lifted the pause that was protecting Somali Temporary Protected Status holders, many of whom live in the Minneapolis-St. Paul area, home to the largest Somali community in the United States.",
+      "source": "KARE 11",
+      "topic": "immigration-enforcement",
+      "url": "https://www.kare11.com/article/news/local/judge-lifts-pause-allowing-end-to-temporary-protected-status-for-somalia-mn/89-5d47cc3e-2078-498d-85ca-5b95c958f4ce",
+      "published_at": "2026-08-17T03:34:17+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/90500047-88d0-4796-bfc4-fa321dbd1a39/20260817T031255/90500047-88d0-4796-bfc4-fa321dbd1a39_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "1c3b1280-7ef6-4a84-b83f-ee6b8ce36997",
+      "description": "A federal judge in Massachusetts has lifted the pause that was protecting Somali Temporary Protected Status holders."
+    },
+    {
+      "title": "HCAO, BCA share more details about alleged sex-trafficking operation",
+      "summary": "",
+      "source": "KARE 11",
+      "topic": "violent-crime",
+      "url": "https://www.kare11.com/article/news/local/hcao-bca-more-details-about-alleged-sex-trafficking-operation/89-fe465d00-65a4-4113-87a3-7769c8bde042",
+      "published_at": "2026-08-17T22:42:59+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/b5d6325a-c103-444e-96e3-6a1d20705ddb/b5d6325a-c103-444e-96e3-6a1d20705ddb_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "553382c3-cc5a-41f7-a9f2-6ae606bd2bcd",
+      "description": "Andrea Sampson, Frank Reeves, Viktoriya Komonash and Catherine Thomes were each charged with 13 counts of promoting prostitution and 13 counts of receiving profits."
+    },
+    {
+      "title": "Court rules against Trump administration lawsuit over Minnesota voter rolls",
+      "summary": "",
+      "source": "KARE 11",
+      "topic": "elections-politics",
+      "url": "https://www.kare11.com/article/news/local/courts-news/court-rules-against-trump-administration-lawsuit-minnesota-voter-rolls/89-cb9ab373-bca1-4763-aea2-2999ce82cf4f",
+      "published_at": "2026-08-17T21:47:52+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/c104a0f8-cf05-4dad-b794-703bd7007779/c104a0f8-cf05-4dad-b794-703bd7007779_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "f5550bab-4462-42b8-b7b8-043ed1a88296",
+      "description": "A federal court in Minnesota rejected the Trump administration's attempt to obtain the state's voter rolls."
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "shortName": "San Antonio, TX",
+  "metroCode": "41700",
+  "metro": "San Antonio-New Braunfels, TX",
+  "date": "2026-08-17",
+  "are_you_ok": [],
+  "conversation_starters": [
+    {
+      "title": "Back to school: Nearly 55,000 North East ISD students return to class",
+      "summary": "The backpacks are packed and the first-day outfits are ready as students across San Antonio head back to the classroom, including nearly 55,000 in North East ISD, the school district covering the city's north and northeast side.",
+      "source": "KENS 5",
+      "topic": "education",
+      "url": "https://www.kens5.com/article/news/education/back-to-school-neisd-students-hidden-forest-elementary-classrooms-monday-teachers-families-buses-blanco-district-first-day-education/273-0ce76b5f-222b-40f6-93db-d0dec402627e",
+      "published_at": "2026-08-17T14:49:15+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/181c2a71-95fc-40ce-beb1-0953830dc8f9/20250523T031415/181c2a71-95fc-40ce-beb1-0953830dc8f9_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "428ef609-0bff-43de-a45e-563313671957",
+      "questions": [
+        "Did the first day of school change anything about your mornings this week?",
+        "How did the back-to-school routine go on your end?"
+      ],
+      "description": "The backpacks are packed and the first-day outfits are ready as students across San Antonio head back to the classroom, including nearly 55,000 in North East ISD."
+    },
+    {
+      "title": "San Antonio Zoo named one of the best zoos in the world",
+      "summary": "",
+      "source": "KENS 5",
+      "topic": "human-interest",
+      "url": "https://www.kens5.com/article/news/local/san-antonio-zoo-worldwide-conde-nast-wildlife-conservation-recognition-horned-lizards-project-selva-animals-tourism-alamo-city-global-gorillas/273-ee063981-3c82-4fc4-bf68-ef08e1968d7f",
+      "published_at": "2026-08-17T12:19:07+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/f3dda6b2-dbe7-430c-81d0-e118b9640987/20260817T121846/f3dda6b2-dbe7-430c-81d0-e118b9640987_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "6ebeca60-2d4b-43b3-be11-ba246fbfd684",
+      "questions": [
+        "Have you been to the San Antonio Zoo recently?",
+        "It just made a global best-zoos list — is it a spot you take visitors?"
+      ],
+      "description": "San Antonio Zoo is getting some wild worldwide recognition, earning a spot on Condé Nast Traveler's list of the best zoos across the globe."
+    },
+    {
+      "title": "Bobcats in Bexar County — What to know if you see one",
+      "summary": "A bobcat was found along the side of Loop 410, the highway that rings San Antonio, near Rigsby Avenue in Bexar County. The man who photographed the bobcat thought it may have been hit by a car.",
+      "source": "KENS 5",
+      "topic": "wildlife",
+      "url": "https://www.kens5.com/article/news/local/san-antonio-bobcats-bexar-county-what-to-know/273-24c5b911-ee85-444a-ae08-96f87fdeb141",
+      "published_at": "2026-08-17T23:23:56+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/cbabc552-6d8c-4a87-982e-523897387276/20260817T232135/cbabc552-6d8c-4a87-982e-523897387276_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "85ce257b-bbca-4266-b704-8c5d662aca93",
+      "questions": [
+        "Have you ever run across a bobcat around there?",
+        "Is wildlife along the highways a common sight for you?"
+      ],
+      "description": "A bobcat was found Sunday along the side of Loop 410 near Rigsby Avenue in Bexar County. The man who photographed the bobcat thought it may have been hit by a car."
+    }
+  ],
+  "sports": [],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "San Antonio City Council swats away November vote for Spurs arena funding",
+      "summary": "",
+      "source": "KENS 5",
+      "topic": "development-projects",
+      "url": "https://www.kens5.com/article/news/local/san-antonio-government/san-antonio-city-council-spurs-arena-funding-vote-project-marvel-mayor-jones/273-db2bf633-acae-4bc5-9cbb-c68668db7968",
+      "published_at": "2026-08-17T23:16:45+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/fc7380b9-a335-4f2a-9992-49c7d0793470/20250823T005916/fc7380b9-a335-4f2a-9992-49c7d0793470_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "5bba2b71-80c1-48d4-94a4-781cf9551409",
+      "description": "Monday's meeting featured nearly two and a half hours of public input, with most speakers trying unsuccessfully to advocate for another public referendum."
+    },
+    {
+      "title": "San Antonio police chief highlights need for better mental health response after fatal confrontation",
+      "summary": "",
+      "source": "KENS 5",
+      "topic": "policing",
+      "url": "https://www.kens5.com/article/news/local/san-antonio-police-chief-highlights-need-for-better-mental-health-response-after-fatal-confrontation/273-f0fbc494-e438-4794-a8a5-23fa3b6a13ad",
+      "published_at": "2026-08-17T23:01:41+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/d6103a91-4205-420a-b3b3-b74c1c30630d/20260817T225556/d6103a91-4205-420a-b3b3-b74c1c30630d_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "7890ddbf-5d9c-4c06-a1eb-0566dd9a7147",
+      "description": "A confrontation highlights the delicate balance police face in mental health crises. Acting Police Chief Jesse Salame says more services are needed."
+    }
+  ]
+}
