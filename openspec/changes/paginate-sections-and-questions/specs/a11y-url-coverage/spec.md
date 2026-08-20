@@ -16,7 +16,7 @@ covered day by a hard-coded calendar date.
 
 #### Scenario: Appearance coverage is tiered by what each page is for
 - **WHEN** the URL list is generated
-- **THEN** each required-shape page is covered in all four style×theme combinations, because appearance tokens are what those pages exist to stress
+- **THEN** each required-shape page is covered in all six style×theme combinations, because appearance tokens are what those pages exist to stress
 - **AND** each live-data page is covered in the default appearance only, because its purpose is detecting content drift, not re-testing tokens the fixtures already cover
 
 ### Requirement: Required Shapes Come From Fixtures, Not Live Data

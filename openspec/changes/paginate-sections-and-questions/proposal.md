@@ -46,7 +46,7 @@ states to cover makes a gate that quietly degrades a liability.
 - Cover the accessibility gate's required render shapes with committed fixture digests
   (excluded from production builds) rather than hoping live data contains them, sweep the
   real metros separately for content drift, and generate the URL list from both instead of
-  pinning calendar dates — with the four-way appearance matrix applied to the fixture pages
+  pinning calendar dates — with the six-way appearance matrix applied to the fixture pages
   it exists to stress, not to every live page, so the gate stays fast enough to leave on.
 
 ## Capabilities
@@ -77,7 +77,7 @@ states to cover makes a gate that quietly degrades a liability.
   disabled-state handling, and a live announcement of page changes, and must keep
   `npm run test:a11y:ci` clean. The URL list moves from the checked-in `.pa11yci` to a
   generated, gitignored config produced by a new `scripts/gen-pa11y-urls.mjs`, in two tiers:
-  fixture pages across all four style×theme combinations, live pages in the default
+  fixture pages across all six style×theme combinations, live pages in the default
   appearance only. `DAILY_WINDOW` moves to `src/data/window.ts` so the generator and the
   loader share one definition of which days are reachable. New `digests-fixtures/` tree,
   loaded only under `VITE_A11Y_FIXTURES` so it never ships. `.githooks/pre-push` becomes

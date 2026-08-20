@@ -15,7 +15,7 @@ affinity, so two readers in one metro diverge. That makes "reachable **and** rat
 the load-bearing property, not merely "not overwhelming".
 
 Constraints: Bootstrap grid layout, per-style microcopy in `data/strings.ts`, and a
-hard accessibility gate (`npm run test:a11y:ci`, WCAG2AA, four style×theme runs, plus a
+hard accessibility gate (`npm run test:a11y:ci`, WCAG2AA, six style×theme runs, plus a
 pre-push hook).
 
 That gate is itself part of the problem. `.pa11yci` hard-codes two San Antonio dates
@@ -110,17 +110,17 @@ degrades silently, which is the bug we started with. It also cannot cover a shap
 data has never contained, such as three simultaneous alerts.
 
 **8. The appearance matrix applies to fixtures only; live pages get one combination.**
-Crossing every selected page with all four style×theme blocks costs 40 pa11y runs today
-(4 fixture + 6 live pages) and 96 at ten metros — serially, since `pa11y-ci` defaults to
+Crossing every selected page with all six style×theme blocks costs 60 pa11y runs today
+(4 fixture + 6 live pages) and 144 at ten metros — serially, since `pa11y-ci` defaults to
 `concurrency: 1`, on a pre-push hook. A gate that slow gets bypassed, which is the same
 failure as a gate that lies.
 
 The redundancy is on the theme axis. Style and theme vary *token values* from
-`theme.css`; they do not vary with data. Running Boulder's weekly through four themes
-re-tests the four token sets the fixtures already stress. So the matrix follows what each
-tier is for: fixtures × 4 combinations (the contrast matrix, on shapes chosen to stress
+`theme.css`; they do not vary with data. Running Boulder's weekly through six appearances
+re-tests the six token sets the fixtures already stress. So the matrix follows what each
+tier is for: fixtures × 6 combinations (the contrast matrix, on shapes chosen to stress
 it), live pages × the default combination (a structural smoke check per metro). That is
-22 runs today, and the fixture half — the expensive half — **does not grow as metros are
+30 runs today, and the fixture half — the expensive half — **does not grow as metros are
 added**. The generated config also sets `concurrency: 4`.
 
 The pre-push hook narrows further by what changed: a push touching `src/` or `styles/`
@@ -152,7 +152,7 @@ and guarantees the same silent rot returns.
 
 ## Risks / Trade-offs
 
-- **Disabled-button contrast fails WCAG2AA in one of the four themes** → the usual
+- **Disabled-button contrast fails WCAG2AA in one of the six appearances** → the usual
   offenders are `--text-secondary` and `--accent` in dark modes (per `CLAUDE.md`).
   Style the disabled state from an existing token verified at 4.5:1 rather than
   inventing a new grey; run the a11y suite before merge.

@@ -1,4 +1,5 @@
 import type { RawCity, RawWeekly } from '../types';
+import { DAILY_WINDOW } from './window';
 
 // One day of digest for a metro: the ISO date plus the loaded RawCity.
 export interface MetroDay {
@@ -16,28 +17,33 @@ export interface Metro {
   weekly: RawWeekly | null;
 }
 
-// How many daily files per metro enter the bundle. Older days are never
-// imported, so the bundle doesn't grow with history (contract intent, review #7).
-const DAILY_WINDOW = 4;
+type Loaders = Record<string, () => Promise<{ default: unknown }>>;
 
 // Lazy glob: a path -> dynamic-import map. Without `eager`, no JSON is inlined
 // up front; we import only the files we actually ingest below.
-const loaders = import.meta.glob('/digests/**/*.json') as Record<
-  string,
-  () => Promise<{ default: unknown }>
->;
+const liveLoaders = import.meta.glob('/digests/**/*.json') as Loaders;
+
+// Accessibility fixtures (see digests-fixtures/README.md). The glob is built
+// inside the branch so that in a production build — where Vite substitutes the
+// literal `undefined` for the unset flag — the whole expression is dead code and
+// no fixture JSON reaches the bundle.
+const fixtureLoaders: Loaders = import.meta.env.VITE_A11Y_FIXTURES
+  ? (import.meta.glob('/digests-fixtures/**/*.json') as Loaders)
+  : {};
+
+const loaders: Loaders = { ...liveLoaders, ...fixtureLoaders };
 
 type ClassifiedPath =
   | { kind: 'daily'; slug: string; metroCode: string; date: string }
   | { kind: 'weekly'; slug: string; metroCode: string };
 
 // Classify a digest path by filename (processor logic, not displayed data):
-//   /digests/<slug>/<metroCode>.weekly.json      -> the weekly aggregate
-//   /digests/<slug>/<metroCode>.<date>.json      -> a daily brief
+//   /digests[-fixtures]/<slug>/<metroCode>.weekly.json  -> the weekly aggregate
+//   /digests[-fixtures]/<slug>/<metroCode>.<date>.json   -> a daily brief
 function classifyPath(path: string): ClassifiedPath | null {
-  const weekly = path.match(/\/digests\/([^/]+)\/([^/.]+)\.weekly\.json$/);
+  const weekly = path.match(/\/digests(?:-fixtures)?\/([^/]+)\/([^/.]+)\.weekly\.json$/);
   if (weekly) return { kind: 'weekly', slug: weekly[1], metroCode: weekly[2] };
-  const daily = path.match(/\/digests\/([^/]+)\/([^/.]+)\.(\d{4}-\d{2}-\d{2})\.json$/);
+  const daily = path.match(/\/digests(?:-fixtures)?\/([^/]+)\/([^/.]+)\.(\d{4}-\d{2}-\d{2})\.json$/);
   if (daily) return { kind: 'daily', slug: daily[1], metroCode: daily[2], date: daily[3] };
   return null;
 }

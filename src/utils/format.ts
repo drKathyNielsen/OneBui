@@ -4,6 +4,15 @@ export function topicLabel(t: string): string {
   return t.replace(/-/g, ' ');
 }
 
+// Per-style microcopy carries decorative emoji ("Chat starters 💬"). They read
+// fine on screen but a screen reader announces "speech balloon" inside an
+// accessible name, so strip pictographic characters (and any variation
+// selector or zero-width joiner holding them together) wherever a display
+// string is reused as an aria-label.
+export function accessibleName(s: string): string {
+  return s.replace(/[\p{Extended_Pictographic}\u{FE0F}\u{200D}]/gu, '').trim();
+}
+
 const DOW = ['SUNDAY', 'MONDAY', 'TUESDAY', 'WEDNESDAY', 'THURSDAY', 'FRIDAY', 'SATURDAY'];
 const MON = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
 const MON_SHORT = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
@@ -56,6 +65,7 @@ function mapItem(it: RawArticle, isWeekly = false): Article {
     summary: isGroup ? it.summary : undefined,
     dateLabel: isWeekly && it.published_at ? formatItemDate(it.published_at) : undefined,
     uid: it.uid,
+    questions: it.questions,
   };
 }
 

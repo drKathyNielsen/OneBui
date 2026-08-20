@@ -67,5 +67,5 @@ set through disabled state rather than removal alone, and SHALL announce page ch
 - **THEN** the new position within the set is announced without moving focus away from the pager control
 
 #### Scenario: Automated checks stay clean
-- **WHEN** the accessibility suite runs across all four style×theme combinations
+- **WHEN** the accessibility suite runs across all six style×theme combinations
 - **THEN** the pager introduces no WCAG2AA violations, including contrast on its disabled state

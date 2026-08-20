@@ -21,9 +21,12 @@ export interface RawArticle {
   published_at?: string; // optional ISO 8601 with offset
   logo?: string; // outlet logo URL (joined by source); absent when the outlet has no known logo
   thread?: RawArticle[]; // weekly-only: contributing articles, oldest→newest (additive)
-  uid?: string; // stable per-article feedback id; present on all newly generated
-  // articles, but per docs/schema/digest.schema.json stays optional since files
-  // rendered before it was introduced (still in the DAILY_WINDOW/weekly) lack it
+  uid?: string; // stable per-article feedback id. The contract now requires one on
+  // every article (fetch refuses to emit an item without one); kept optional here
+  // until every bundled file is confirmed to carry one.
+  questions?: string[]; // 2–3 conversational openers. Emitted by the generator but
+  // NOT modelled in docs/schema/digest.schema.json, so treated as an optional
+  // additive field: absence renders normally rather than failing.
 }
 
 // A significance-filtered weather alert. Mirrors docs/schema/digest.schema.json
@@ -37,6 +40,9 @@ export interface RawAlert {
   summary: string; // pre-composed one-liner; redundant with event/area/ends — not rendered
   description: string; // full NWS product text (WHAT/WHERE/WHEN/IMPACTS) — not rendered
   ends: string | null; // ISO 8601 with numeric offset, or null when open-ended
+  uid?: string; // emitted by the generator but NOT modelled in
+  // docs/schema/digest.schema.json; optional here for the same reason as
+  // RawArticle.questions. Not rendered today.
 }
 
 // A per-day daily brief. See docs/schema/digest.schema.json #/$defs/DailyDigest.
@@ -44,7 +50,8 @@ export interface RawCity {
   shortName: string;
   metroCode: string;
   date: string; // ISO yyyy-mm-dd
-  are_you_ok: RawArticle[]; // 0–1 lead stories
+  are_you_ok: RawArticle[]; // complete ordered candidate set, no upper bound — the
+  // UI applies the display count (see section-pagination)
   conversation_starters: RawArticle[];
   sports: { team: string; scores: string[] }[];
   you_should_know: RawArticle[];
@@ -59,7 +66,8 @@ export interface RawWeekly {
   shortName: string;
   metroCode: string;
   range: { start: string; end: string }; // ISO yyyy-mm-dd, inclusive
-  are_you_ok: RawArticle[]; // 0–2 lead stories
+  are_you_ok: RawArticle[]; // complete ordered candidate set; bounded upstream by
+  // prioritize's weekly selection, which may move without a schema change
   conversation_starters: RawArticle[];
   you_should_know: RawArticle[];
   sports: { team: string; scores: string[] }[];
@@ -80,6 +88,7 @@ export interface Article {
   dateLabel?: string; // short published date, e.g. "Jul 24"; set on weekly items so
   // readers know *when* each story happened (daily items share the masthead date)
   uid?: string; // passed to ArticleFeedback for thumbs up/down; absent on older items
+  questions?: string[]; // conversational openers, rendered under the body when present
 }
 
 // A weather alert prepared for display. `endsLabel` is the human "Until…" line

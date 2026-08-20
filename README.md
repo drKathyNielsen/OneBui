@@ -40,8 +40,8 @@ for you:
 | `npm run build` | Typecheck (`tsc -b`) + Vite production build into `dist/`. |
 | `npm run preview` | Serve the built `dist/` on port 4173 (strict). |
 | `npm run lint` | ESLint over the repo. |
-| `npm run test:a11y` | Preview + run pa11y-ci (assumes a build exists). |
-| `npm run test:a11y:ci` | Build, serve preview, and run pa11y-ci (WCAG2AA). |
+| `npm run a11y:urls` | Regenerate the a11y URL matrix into `.pa11yci.json`. |
+| `npm run test:a11y:ci` | Build (with fixtures), serve preview, and run pa11y-ci (WCAG2AA). |
 
 ## Features
 
@@ -86,18 +86,26 @@ authoritative prose contract and validator live in the generator repo.
 
 ## Accessibility
 
-This repo gates on accessibility (WCAG2AA). The check builds the app, serves the
-preview, and runs pa11y-ci **four times** — once per style×theme combination,
-driving the appearance toggles via pa11y `actions`:
+This repo gates on accessibility (WCAG2AA). The check builds the app, generates
+the URL matrix, serves the preview, and runs pa11y-ci over it:
 
 ```bash
 npm run test:a11y:ci
 ```
 
-Config lives in `.pa11yci` (Chrome launched with `--no-sandbox` for CI/sandboxed
-Linux). Normal-size text (meta, source links) must clear 4.5:1 contrast on both
-`--bg` and `--surface` in all four themes — `--text-secondary` and `--accent`
-are the usual offenders in dark modes. The gate is enforced in three places:
+The URL list is **generated, not hand-maintained**: `scripts/gen-pa11y-urls.mjs`
+reads the digest files present and writes a gitignored `.pa11yci.json` (Chrome
+launched with `--no-sandbox` for CI/sandboxed Linux). Never edit that file —
+change the predicates in `src/data/a11yUrls.ts` instead. Coverage comes in two
+tiers: committed fixtures in `digests-fixtures/` pin the required render shapes
+and are crossed with **all six** style×theme combinations, while live `digests/`
+contributes each metro's newest day and weekly in the default appearance only,
+to catch content drift. Fixtures load only under `VITE_A11Y_FIXTURES`, so they
+never ship; generation exits non-zero, naming the shape, when one goes missing.
+
+Normal-size text (meta, source links) must clear 4.5:1 contrast on both `--bg`
+and `--surface` in all six themes — `--text-secondary` and `--accent` are the
+usual offenders in dark modes. The gate is enforced in three places:
 
 - the `Accessibility` GitHub Actions workflow on every PR
   (`.github/workflows/a11y.yml`),
@@ -111,12 +119,14 @@ To bypass the pre-push hook in an emergency: `git push --no-verify`.
 
 ```
 digests/          per-metro brief JSON (<slug>/<metroCode>.<date|weekly>.json)
+digests-fixtures/ a11y-only digests pinning required render shapes (never shipped)
 docs/             the daily and weekly digest data contracts
 openspec/         OpenSpec specs and change proposals (spec-driven workflow)
+scripts/          gen-pa11y-urls.mjs (builds the a11y URL matrix)
 src/
   components/     UI (NewsDigest, ArticleList, CitySideBar, PeriodNav, …)
-  data/           digest loading & manifest (digests.ts)
-  hooks/          useAppearance (style/theme state)
+  data/           digest loading & manifest (digests.ts), a11y URL selection
+  hooks/          useAppearance (style/theme state), usePaging (section paging)
   styles/         theme.css design tokens, newsDigest.css
   utils/          viewParams (URL state), format
   types.ts        raw JSON + view-model types

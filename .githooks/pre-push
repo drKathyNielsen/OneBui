@@ -10,8 +10,40 @@ if [ -s "$HOME/.nvm/nvm.sh" ]; then
   nvm use 24 >/dev/null 2>&1 || true
 fi
 
-echo "pre-push: running accessibility check (npm run test:a11y:ci)…"
-if ! npm run test:a11y:ci; then
+# Narrow the matrix by what is being pushed. UI changes need the fixture tier
+# (required render shapes × every style×theme combination); new digest data only
+# needs the live sweep (one page per metro, default appearance). Anything else —
+# both, or paths we do not recognize — runs everything. Scoping is an optimization;
+# the Accessibility workflow on the PR always runs the full matrix.
+range=$(git rev-parse --abbrev-ref --symbolic-full-name '@{u}' 2>/dev/null)
+if [ -n "$range" ]; then
+  changed=$(git diff --name-only "$range"...HEAD)
+else
+  changed=$(git diff --name-only HEAD~1...HEAD 2>/dev/null)
+fi
+
+if [ -z "$changed" ]; then
+  tier=all
+else
+  ui=$(printf '%s\n' "$changed" | grep -E '^(src/|index\.html|vite\.config\.ts)' || true)
+  data=$(printf '%s\n' "$changed" | grep -E '^digests/' || true)
+  other=$(printf '%s\n' "$changed" | grep -vE '^(src/|index\.html|vite\.config\.ts|digests/)' || true)
+
+  if [ -n "$other" ]; then
+    tier=all
+  elif [ -n "$ui" ] && [ -n "$data" ]; then
+    tier=all
+  elif [ -n "$ui" ]; then
+    tier=fixture
+  elif [ -n "$data" ]; then
+    tier=live
+  else
+    tier=all
+  fi
+fi
+
+echo "pre-push: running accessibility check (tier=$tier)…"
+if ! A11Y_TIER="$tier" npm run test:a11y:ci; then
   echo "pre-push: accessibility check failed — push aborted. Fix the reported issues or run 'npm run test:a11y:ci' locally to reproduce." >&2
   echo "pre-push: to bypass in an emergency, use 'git push --no-verify'." >&2
   exit 1

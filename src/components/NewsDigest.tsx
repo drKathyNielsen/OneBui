@@ -59,34 +59,30 @@ export default function NewsDigest({ vm, days, hasWeekly, period, selectedDate, 
           </div>
         )}
 
-        {vm.areOk.length === 0 ? (
-          <div className="row mb-4">
-            <div className="col-12">
-              <AreTheyOk eyebrow={strings.areOkEyebrow} emptyNote={strings.emptyAreOk} />
-            </div>
+        <div className="row mb-4">
+          <div className="col-12">
+            <AreTheyOk
+              articles={vm.areOk}
+              eyebrow={strings.areOkEyebrow}
+              emptyNote={strings.emptyAreOk}
+              pager={strings.pager}
+              questionsLabel={strings.questionsLabel}
+            />
           </div>
-        ) : (
-          vm.areOk.map((article) => (
-            <div className="row mb-4" key={article.url}>
-              <div className="col-12">
-                <AreTheyOk article={article} eyebrow={strings.areOkEyebrow} />
-              </div>
-            </div>
-          ))
-        )}
+        </div>
 
         <div className="row gy-4">
           <div className="col-12 col-md-6">
-            <ArticleList heading={strings.startersHeading} items={vm.starters} emptyNote={strings.emptyStarters} moreLabel={strings.moreLabel} />
+            <ArticleList heading={strings.startersHeading} items={vm.starters} emptyNote={strings.emptyStarters} pager={strings.pager} questionsLabel={strings.questionsLabel} />
           </div>
           <div className="col-12 col-md-6 oneb-col-divider">
-            <ArticleList heading={strings.knowHeading} items={vm.know} emptyNote={strings.emptyKnow} moreLabel={strings.moreLabel} />
+            <ArticleList heading={strings.knowHeading} items={vm.know} emptyNote={strings.emptyKnow} pager={strings.pager} questionsLabel={strings.questionsLabel} />
           </div>
         </div>
 
         <div className="row mt-4">
           <div className="col-12">
-            <Sports sports={vm.sports} heading={strings.sportsHeading} emptyNote={strings.emptySports} />
+            <Sports sports={vm.sports} heading={strings.sportsHeading} emptyNote={strings.emptySports} pager={strings.pager} />
           </div>
         </div>
       </main>

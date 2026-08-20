@@ -5,6 +5,14 @@ import type { Style } from '../types';
 // should match each visual style's voice. App brand name ("One B") is fixed
 // and does NOT vary by style. classic and modern keep the app's existing
 // literals verbatim; only friendly restyles the labels.
+
+// Visible text for a section pager's two controls. The accessible names are
+// built from the section heading, so these stay short.
+export interface PagerStrings {
+  prev: string;
+  next: string;
+}
+
 export interface StyleStrings {
   weatherHeading: string;
   areOkEyebrow: string;
@@ -12,7 +20,8 @@ export interface StyleStrings {
   knowHeading: string;
   sportsHeading: string;
   weeklyLabel: string;
-  moreLabel: string; // "reveal next 3" link under starters/you-should-know
+  pager: PagerStrings; // section pager controls (see components/Pager)
+  questionsLabel: string; // labels an article's conversational openers as a group
   // Shown in place of items when a section has nothing this period. Every
   // section always renders its header; these fill the body so the absence is
   // stated rather than left as a silent gap.
@@ -29,7 +38,8 @@ const NEUTRAL: StyleStrings = {
   knowHeading: 'You should know',
   sportsHeading: 'Sporting news',
   weeklyLabel: 'Last week',
-  moreLabel: 'More articles',
+  pager: { prev: 'Previous', next: 'Next' },
+  questionsLabel: 'Ways to bring it up',
   emptyAreOk: 'No urgent local concerns to flag.',
   emptyStarters: 'No conversation starters this time.',
   emptyKnow: 'Nothing else to flag.',
@@ -46,7 +56,8 @@ export const STYLE_STRINGS: Record<Style, StyleStrings> = {
     knowHeading: 'You should know',
     sportsHeading: 'Your teams 🏆',
     weeklyLabel: 'Last week',
-    moreLabel: 'More stories 👀',
+    pager: { prev: 'Back', next: 'More' },
+    questionsLabel: 'Ways to bring it up 💬',
     emptyAreOk: 'All clear — nothing urgent to flag. 😌',
     emptyStarters: 'No chat starters this time. 💬',
     emptyKnow: 'Nothing else to flag.',

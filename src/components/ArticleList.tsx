@@ -1,33 +1,27 @@
-import { useState } from 'react';
 import type { Article } from '../types';
+import type { PagerStrings } from '../data/strings';
+import { usePaging } from '../hooks/usePaging';
 import Thumb from './Thumb';
 import ArticleFeedback from './ArticleFeedback';
+import ArticleQuestions from './ArticleQuestions';
+import Pager from './Pager';
 
-// Items beyond this are hidden behind the "more" link, so a day with a full
-// 6-item section doesn't dump all of it on the reader at once.
+// The digest carries a complete ordered candidate set (weeklies run to 15), so
+// the display bound is ours. Three keeps today's density; the rest stays one
+// click away in either direction rather than behind a one-way reveal.
 const PAGE_SIZE = 3;
 
 interface Props {
   heading: string;
   items: Article[];
   emptyNote: string; // shown when items is empty, so the header never stands alone
-  moreLabel: string; // per-style label for the reveal-next-3 link
+  pager: PagerStrings; // per-style control text
+  questionsLabel: string; // per-style label for an item's conversational openers
 }
 
-export default function ArticleList({ heading, items, emptyNote, moreLabel }: Props) {
+export default function ArticleList({ heading, items, emptyNote, pager, questionsLabel }: Props) {
   const headingId = `heading-${heading.toLowerCase().replace(/\s+/g, '-')}`;
-  const [shown, setShown] = useState(PAGE_SIZE);
-  // Reset the reveal count when the underlying list changes (day/period switch),
-  // so an expanded Monday doesn't carry over into a freshly mounted Tuesday.
-  // Adjusted during render (React's prop-driven-state-reset pattern) rather
-  // than in an effect, to avoid an extra render pass.
-  const [prevItems, setPrevItems] = useState(items);
-  if (items !== prevItems) {
-    setPrevItems(items);
-    setShown(PAGE_SIZE);
-  }
-  const visible = items.slice(0, shown);
-  const hasMore = shown < items.length;
+  const { visible, page, pageCount, next, prev } = usePaging(items, PAGE_SIZE);
 
   return (
     <section className="oneb-section" aria-labelledby={headingId}>
@@ -44,6 +38,7 @@ export default function ArticleList({ heading, items, emptyNote, moreLabel }: Pr
               <h3 className="oneb-article-title">{item.title}</h3>
               <p className="oneb-article-desc">{item.description}</p>
               {item.summary && <p className="oneb-article-summary">{item.summary}</p>}
+              <ArticleQuestions questions={item.questions} label={questionsLabel} />
               <p className="oneb-meta">
                 {item.dateLabel && <>{item.dateLabel} · </>}
                 <a href={item.url} className="oneb-source-link" target="_blank" rel="noopener noreferrer">{item.source}</a> · {item.topic}
@@ -53,11 +48,17 @@ export default function ArticleList({ heading, items, emptyNote, moreLabel }: Pr
           </li>
         ))}
       </ol>
-      {hasMore && (
-        <button type="button" className="oneb-link-btn oneb-more-btn" onClick={() => setShown((s) => s + PAGE_SIZE)}>
-          {moreLabel}
-        </button>
-      )}
+      <Pager
+        label={heading.toLowerCase()}
+        page={page}
+        pageCount={pageCount}
+        pageSize={PAGE_SIZE}
+        total={items.length}
+        prevText={pager.prev}
+        nextText={pager.next}
+        onPrev={prev}
+        onNext={next}
+      />
       </>
       )}
     </section>
