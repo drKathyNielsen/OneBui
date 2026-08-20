@@ -52,7 +52,9 @@ function formatItemDate(iso: string): string {
 // items span the coverage range rather than sharing one masthead date.
 function mapItem(it: RawArticle, isWeekly = false): Article {
   const isGroup = isWeekly && Array.isArray(it.thread) && it.thread.length > 0;
-  const description = isWeekly ? (it.description ?? '') : (it.summary ?? it.description ?? '');
+  // Feeds routinely carry `summary: ""` rather than omitting the field, so the
+  // daily preference has to fall through on empty, not just on null.
+  const description = isWeekly ? (it.description ?? '') : (it.summary || it.description || '');
   return {
     title: it.title,
     description,

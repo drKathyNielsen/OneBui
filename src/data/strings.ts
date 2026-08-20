@@ -22,6 +22,11 @@ export interface StyleStrings {
   weeklyLabel: string;
   pager: PagerStrings; // section pager controls (see components/Pager)
   questionsLabel: string; // labels an article's conversational openers as a group
+  // One line under a section heading saying what the section is for. Shown
+  // whether or not the section has items, so the purpose reads even on an
+  // empty week.
+  startersBlurb: string;
+  knowBlurb: string;
   // Shown in place of items when a section has nothing this period. Every
   // section always renders its header; these fill the body so the absence is
   // stated rather than left as a silent gap.
@@ -40,6 +45,8 @@ const NEUTRAL: StyleStrings = {
   weeklyLabel: 'Last week',
   pager: { prev: 'Previous', next: 'Next' },
   questionsLabel: 'Ways to bring it up',
+  startersBlurb: 'Local stories safe to start up a converstion.',
+  knowBlurb: "Events going on their area, good context even if it doesn't come up.",
   emptyAreOk: 'No urgent local concerns to flag.',
   emptyStarters: 'No conversation starters this time.',
   emptyKnow: 'Nothing else to flag.',
@@ -58,6 +65,8 @@ export const STYLE_STRINGS: Record<Style, StyleStrings> = {
     weeklyLabel: 'Last week',
     pager: { prev: 'Back', next: 'More' },
     questionsLabel: 'Ways to bring it up 💬',
+    startersBlurb: 'Little things to chat about.',
+    knowBlurb: "Good to know about their area, even if it doesn't come up.",
     emptyAreOk: 'All clear — nothing urgent to flag. 😌',
     emptyStarters: 'No chat starters this time. 💬',
     emptyKnow: 'Nothing else to flag.',

@@ -15,17 +15,19 @@ interface Props {
   heading: string;
   items: Article[];
   emptyNote: string; // shown when items is empty, so the header never stands alone
+  blurb: string; // one line under the heading saying what the section is for
   pager: PagerStrings; // per-style control text
   questionsLabel: string; // per-style label for an item's conversational openers
 }
 
-export default function ArticleList({ heading, items, emptyNote, pager, questionsLabel }: Props) {
+export default function ArticleList({ heading, items, emptyNote, blurb, pager, questionsLabel }: Props) {
   const headingId = `heading-${heading.toLowerCase().replace(/\s+/g, '-')}`;
   const { visible, page, pageCount, next, prev } = usePaging(items, PAGE_SIZE);
 
   return (
     <section className="oneb-section" aria-labelledby={headingId}>
       <h2 className="oneb-section-heading" id={headingId}><span className="oneb-section-heading-badge">{heading}</span></h2>
+      <p className="oneb-section-blurb">{blurb}</p>
       {items.length === 0 ? (
         <p className="oneb-empty">{emptyNote}</p>
       ) : (

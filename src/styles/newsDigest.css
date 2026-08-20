@@ -418,8 +418,18 @@
   margin: 0 0 4px;
   font: 400 13px/1.45 var(--body-font);
   color: var(--text-body);
-  list-style: '— ';
+  list-style: '\2022  '; /* classic: a plain bullet */
   padding-left: 4px;
+}
+
+/* Per-style opener markers. The glyph is decorative — it inherits the item's
+   --text-body so it clears contrast in every theme, and it is set via ::marker
+   rather than a pseudo-element so it stays out of the accessible name. */
+.oneb-root[data-style="modern"] .oneb-question { list-style: '\203A  '; } /* chevron */
+.oneb-root[data-style="friendly"] .oneb-question { list-style: '?  '; }
+.oneb-root[data-style="friendly"] .oneb-question::marker {
+  font-weight: 700;
+  font-family: var(--heading-font);
 }
 
 .oneb-section { margin-bottom: 8px; }
@@ -429,6 +439,15 @@
 .oneb-empty {
   margin: 8px 0 0;
   font: 400 13.5px/1.6 var(--body-font);
+  color: var(--text-secondary);
+}
+
+/* Sits between a section heading and its items: says what the section is for.
+   Muted like other secondary copy, but a step smaller than an article
+   description so it reads as framing rather than content. */
+.oneb-section-blurb {
+  margin: -6px 0 12px;
+  font: 400 12.5px/1.5 var(--body-font);
   color: var(--text-secondary);
 }
 
