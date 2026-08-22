@@ -73,18 +73,18 @@
   "weather_alert": [],
   "you_should_know": [
     {
-      "title": "Three men agree to stay away from MN State Fair as part of gang injunction case",
+      "title": "State's minimum wage to rise to $11.87 an hour next year",
       "summary": "",
       "source": "KARE 11",
-      "topic": "civil-litigation",
-      "url": "https://www.kare11.com/article/news/local/three-men-agree-to-stay-away-from-mn-state-fair-part-of-gang-injunction-case/89-914cf4ae-34b1-49c2-b746-1ffddcaaea12",
-      "published_at": "2026-08-19T18:41:50+00:00",
+      "topic": "business-jobs",
+      "url": "https://www.kare11.com/article/news/local/states-minimum-wage-to-rise-to-1187-an-hour-next-year/89-7a56e23c-76fb-4418-8db4-4f5f78544a74",
+      "published_at": "2026-08-19T21:03:40+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/KARE/images/bb485161-f48f-4fa0-b338-ff86212adf9c/20260813T230737/bb485161-f48f-4fa0-b338-ff86212adf9c_750x422.jpg",
+        "url": "https://media.tegna-media.com/assets/KARE/images/dafefeb2-a2c8-483f-9b61-67d5b0394e36/20260408T112433/dafefeb2-a2c8-483f-9b61-67d5b0394e36_750x422.jpg",
         "alt": ""
       },
-      "uid": "dfd78554-b92e-4c56-bef2-82d12ae9d25a",
-      "description": "Three men agreed to a proposed order barring them from the Minnesota State Fair amid allegations of gang ties. They deny the claims, and no liability is admitted."
+      "uid": "f3761909-de6c-44dc-8cf2-e12b2ddf9941",
+      "description": "Minimum-wage increase reflects inflation adjustment and takes effect Jan. 1."
     },
     {
       "title": "Gov. Walz authorizes emergency assistance for counties damaged by summer storms",
@@ -101,19 +101,18 @@
       "description": "The funds will be for a handful of counties that were impacted by the severe storms that hit the state between June 28 and July 8."
     },
     {
-      "title": "Judge mulling arguments in xAI's request to temporarily block Minnesota's AI \"nudification\" ban",
+      "title": "Three men agree to stay away from MN State Fair as part of gang injunction case",
       "summary": "",
-      "source": "CBS Minnesota",
+      "source": "KARE 11",
       "topic": "civil-litigation",
-      "url": "https://www.cbsnews.com/minnesota/news/hearing-xai-request-to-temporarily-block-minnesota-ai-nudification-ban/",
-      "published_at": "2026-08-19T17:24:05+00:00",
+      "url": "https://www.kare11.com/article/news/local/three-men-agree-to-stay-away-from-mn-state-fair-part-of-gang-injunction-case/89-914cf4ae-34b1-49c2-b746-1ffddcaaea12",
+      "published_at": "2026-08-19T18:41:50+00:00",
       "image": {
-        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/19/f3813dfe-ca24-4592-bfaa-aa9672ba1e09/thumbnail/1024x576/80cf4e12aaee4050d4a9e7cf0a5851bd/gettyimages-2259623050.jpg",
+        "url": "https://media.tegna-media.com/assets/KARE/images/bb485161-f48f-4fa0-b338-ff86212adf9c/20260813T230737/bb485161-f48f-4fa0-b338-ff86212adf9c_750x422.jpg",
         "alt": ""
       },
-      "uid": "602f5fe5-cef0-4101-a649-bd28300e1fbd",
-      "description": "There will be no decision Wednesday on xAI's request for a judge to temporarily block Minnesota's ban on AI \"nudification.\"",
-      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+      "uid": "dfd78554-b92e-4c56-bef2-82d12ae9d25a",
+      "description": "Three men agreed to a proposed order barring them from the Minnesota State Fair amid allegations of gang ties. They deny the claims, and no liability is admitted."
     },
     {
       "title": "Ellison releases hundreds of internal Fleet Farm documents as part of straw-purchase lawsuit settlement",
@@ -128,6 +127,21 @@
       },
       "uid": "17ad642c-244e-4b74-a6af-c9c8ef550ee7",
       "description": "As part of the settlement, Fleet Farm was ordered to pay $1 million penalty, implement changes to Minnesota stores and release internal documents."
+    },
+    {
+      "title": "Judge mulling arguments in xAI's request to temporarily block Minnesota's AI \"nudification\" ban",
+      "summary": "",
+      "source": "CBS Minnesota",
+      "topic": "civil-litigation",
+      "url": "https://www.cbsnews.com/minnesota/news/hearing-xai-request-to-temporarily-block-minnesota-ai-nudification-ban/",
+      "published_at": "2026-08-19T17:24:05+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/19/f3813dfe-ca24-4592-bfaa-aa9672ba1e09/thumbnail/1024x576/80cf4e12aaee4050d4a9e7cf0a5851bd/gettyimages-2259623050.jpg",
+        "alt": ""
+      },
+      "uid": "602f5fe5-cef0-4101-a649-bd28300e1fbd",
+      "description": "There will be no decision Wednesday on xAI's request for a judge to temporarily block Minnesota's ban on AI \"nudification.\"",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
     }
   ]
 }

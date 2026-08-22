@@ -6,6 +6,24 @@
   "are_you_ok": [],
   "conversation_starters": [
     {
+      "title": "Rüfüs Du Sol in Colorado: What to know for the stadium concert",
+      "summary": "Rufus Du Sol is set to electrify Colorado with its largest North American headline tour, performing at CU Boulder's Folsom Field, the university's football stadium in the middle of the city.",
+      "source": "9NEWS",
+      "topic": "civic-events",
+      "url": "https://www.9news.com/article/entertainment/music/colorado-music/rufus-du-sol-folsom-field-stadium-colorado-concert/73-6f749886-4aa4-4874-9778-8536425e8a7c",
+      "published_at": "2026-08-19T15:53:02+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/c455c46c-547c-46b9-8620-71367d86a555/20260819T152840/c455c46c-547c-46b9-8620-71367d86a555_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "3e4cc333-1b49-422b-ac5f-4390d80f513d",
+      "questions": [
+        "Do the big shows at Folsom Field change how the city feels for a weekend?",
+        "Are you someone who goes to the stadium concerts, or do you steer clear?"
+      ],
+      "description": "Rüfüs Du Sol is set to electrify Colorado with its largest North American headline tour, performing at CU Boulder's Folsom Field this Saturday."
+    },
+    {
       "title": "Boulder County opens new quantum computing facility",
       "summary": "The Colorado Quantum Innovation Center will serve as Inflection's headquarters in Louisville, a small city about 10 miles southeast of Boulder.",
       "source": "CBS Colorado",
@@ -25,22 +43,22 @@
       "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
     },
     {
-      "title": "Rüfüs Du Sol in Colorado: What to know for the stadium concert",
-      "summary": "Rufus Du Sol is set to electrify Colorado with its largest North American headline tour, performing at CU Boulder's Folsom Field, the university's football stadium in the middle of the city.",
+      "title": "Drought conditions prompt 8 fish salvages across Colorado",
+      "summary": "",
       "source": "9NEWS",
-      "topic": "civic-events",
-      "url": "https://www.9news.com/article/entertainment/music/colorado-music/rufus-du-sol-folsom-field-stadium-colorado-concert/73-6f749886-4aa4-4874-9778-8536425e8a7c",
-      "published_at": "2026-08-19T15:53:02+00:00",
+      "topic": "drought-water",
+      "url": "https://www.9news.com/article/news/local/colorado-fish-salvages-drought-water/73-2996d504-6269-41fe-8f89-3aba26b83c58",
+      "published_at": "2026-08-19T22:50:52+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/KUSA/images/c455c46c-547c-46b9-8620-71367d86a555/20260819T152840/c455c46c-547c-46b9-8620-71367d86a555_750x422.jpg",
+        "url": "https://media.tegna-media.com/assets/KUSA/images/e48baee1-2e87-4a3b-87a7-2e8397511726/20260819T223952/e48baee1-2e87-4a3b-87a7-2e8397511726_750x422.jpg",
         "alt": ""
       },
-      "uid": "3e4cc333-1b49-422b-ac5f-4390d80f513d",
+      "uid": "a2e90bf3-ea52-404b-9ad6-a04fddfbe4fa",
       "questions": [
-        "Do the big shows at Folsom Field change how the city feels for a weekend?",
-        "Are you someone who goes to the stadium concerts, or do you steer clear?"
+        "Are you noticing the drought where you are?",
+        "Do you fish or get out on the water around there?"
       ],
-      "description": "Rüfüs Du Sol is set to electrify Colorado with its largest North American headline tour, performing at CU Boulder's Folsom Field this Saturday."
+      "description": "Colorado’s worsening drought is driving emergency fish salvages as shrinking water supplies put thousands of fish at risk."
     },
     {
       "title": "Bear crashes CSU move-in day, giving students a Colorado welcome",
@@ -113,17 +131,7 @@
       ]
     }
   ],
-  "weather_alert": [
-    {
-      "uid": "82a5a0c7-1e8b-5e59-8d03-754e9579059c",
-      "event": "Air Quality Alert",
-      "area": "Boulder",
-      "severity": "Unknown",
-      "summary": "An Ozone Action Day alert covers Boulder County, including the city of Boulder, with ozone expected to reach levels that are unhealthy for sensitive groups; active people and anyone with lung disease such as asthma should ease up on prolonged outdoor exertion.",
-      "description": "Air Quality Alert issued August 18 at 4:10PM MDT by NWS Denver CO\n\nThe Colorado Department of Public Health and Environment has\nissued the following...\n\nWHAT...Ozone Action Day Alert.\n\nWHERE...Douglas, Jefferson, Denver, western Arapahoe, western\nAdams, Broomfield, Boulder, Larimer, and Weld Counties\n\nWHEN...400 PM Tuesday August 18 to 400 PM Wednesday August 19\n\nIMPACTS...Ozone Action Day Alert is now in effect for the Front\nRange Urban Corridor.  Hot and sunny weather with light winds and\nlimited potential for afternoon storms will allow ozone to reach\nlevels that are Unhealthy for Sensitive Groups on Tuesday and\nWednesday. The highest ozone concentrations are most likely in the\nsouthern and western portions of the Denver Metro area.   For\nColorado air quality conditions, forecasts, and advisories, visit:\nhttps://www.colorado.gov/airquality/colorado_summary.aspx   If\npossible, please help us reduce ozone pollution by limiting\ndriving gas and diesel-powered vehicles until at least 4 p.m.\nWednesday, August 19, 2026. Colorado is also addressing ozone\npollution through state policies. For more information about\nhealth impacts and how ozone pollution forms in Colorado, visit:\nhttps://cdphe.colorado.gov/ozone-pollution-and-your-health\n\nHEALTH INFORMATION...Increasing likelihood of respiratory symptoms\nand breathing discomfort in active children and adults and people\nwith lung disease, such as asthma. Active children and adults, and\npeople with lung disease, such as asthma, should reduce prolonged\nor heavy outdoor exertion.",
-      "ends": "2026-08-19T16:00:00-06:00"
-    }
-  ],
+  "weather_alert": [],
   "you_should_know": [
     {
       "title": "Colorado regulators approve Xcel Energy rate increase, raising monthly electric bills",
@@ -156,6 +164,20 @@
       "logo": "https://boulderreportinglab.org/wp-content/uploads/2021/06/cropped-brl-favicon-32x32.png"
     },
     {
+      "title": "Colorado sues Aurora ICE detention facility over failure to comply in tuberculosis investigation",
+      "summary": "A case of active tuberculosis was first reported at the detention facility in Aurora, a large suburb 40 miles SE of Boulder, in June. Health officials said they have been stonewalled in their investigation.",
+      "source": "9NEWS",
+      "topic": "immigration-enforcement",
+      "url": "https://www.9news.com/article/news/local/colorado-sues-aurora-ice-detention-facility-operators-to-force-cooperation-in-tuberculosis-investigation/73-b927e4a2-6915-4422-876b-94289a1c1141",
+      "published_at": "2026-08-19T23:45:11+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/cfa9ac1e-003f-45b5-9a29-c4eaf75b9782/20260801T004916/cfa9ac1e-003f-45b5-9a29-c4eaf75b9782_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "054dffa4-7472-4f83-abff-8516663f5feb",
+      "description": "A case of active tuberculosis was first reported at the facility in June. Health officials said they have been stonewalled in their investigation."
+    },
+    {
       "title": "Colorado among states suing Meta, company behind Facebook and Instagram",
       "summary": "",
       "source": "CBS Colorado",
@@ -169,20 +191,6 @@
       "uid": "a2b16f12-d701-484d-882c-17a89bcdaec7",
       "description": "Colorado is among 29 states suing Meta, the company behind Facebook and Instagram, over the social media platforms and claims of addiction for children.",
       "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
-    },
-    {
-      "title": "Aurora detention center refuses to hand over information, documents about tuberculosis case",
-      "summary": "The facility denies any active tuberculosis cases but has refused to hand over any necessary information to CDPHE, the Colorado Department of Public Health and Environment, and other state leaders.",
-      "source": "9NEWS",
-      "topic": "public-health",
-      "url": "https://www.9news.com/article/news/politics/aurora-detention-center-information-documents-tuberculosis-case/73-631186cb-4716-479d-b3f0-24c9010a0fbf",
-      "published_at": "2026-08-19T03:23:25+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KUSA/images/667d75ee-1b74-45dc-a829-de2221668666/20260819T000602/667d75ee-1b74-45dc-a829-de2221668666_750x422.jpg",
-        "alt": ""
-      },
-      "uid": "28b2dae3-332c-43e2-9562-7da1474151cf",
-      "description": "The facility denies any active tuberculosis cases but has refused to hand over any necessary information to CDPHE and other state leaders."
     }
   ]
 }

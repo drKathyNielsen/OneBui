@@ -24,7 +24,14 @@
     }
   ],
   "conversation_starters": [],
-  "sports": [],
+  "sports": [
+    {
+      "team": "Spurs",
+      "scores": [
+        "Wembanyama named Team France captain"
+      ]
+    }
+  ],
   "weather_alert": [],
   "you_should_know": []
 }

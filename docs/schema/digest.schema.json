@@ -24,6 +24,7 @@
         { "type": "null" },
         {
           "type": "object",
+          "additionalProperties": false,
           "required": ["url", "alt"],
           "properties": {
             "url": { "type": "string" },
@@ -34,6 +35,7 @@
     },
     "Article": {
       "type": "object",
+      "additionalProperties": false,
       "description": "A story card. Emitted in are_you_ok, conversation_starters, you_should_know (and their weekly counterparts).",
       "required": ["title", "summary", "source", "topic", "url", "published_at", "image", "uid"],
       "properties": {
@@ -63,6 +65,11 @@
           "not": { "pattern": "[<>]" },
           "description": "Optional plain-text snippet (<=280 chars, no HTML/markup). Absent when the item has no blurb."
         },
+        "questions": {
+          "type": "array",
+          "description": "Optional conversation-starter prompts written by enrich. Absent when the item has none; render omits the key rather than emitting an empty array.",
+          "items": { "type": "string" }
+        },
         "thread": {
           "type": "array",
           "description": "Weekly only: the contributing daily Articles behind a clustered multi-day item.",
@@ -72,9 +79,15 @@
     },
     "WeatherAlert": {
       "type": "object",
+      "additionalProperties": false,
       "description": "One active, allow-listed NWS alert. The array is ordered most-severe first; render every entry unconditionally (significance filtering is upstream). A multi-day alert appears on every UTC day of its active window.",
-      "required": ["event", "area", "severity", "summary", "description", "ends"],
+      "required": ["uid", "event", "area", "severity", "summary", "description", "ends"],
       "properties": {
+        "uid": {
+          "type": "string",
+          "minLength": 1,
+          "description": "Stable per-alert identity, minted at fetch. The same value on every UTC day a multi-day alert spans."
+        },
         "event": { "type": "string", "minLength": 1, "description": "Canonical NWS event name, e.g. 'Heat Advisory', rendered verbatim." },
         "area": { "type": "string", "description": "Collapsed metro county label: a county name; 'A & B'; 'A, B +N more'; or 'metro-wide'. May be empty." },
         "severity": {
@@ -95,6 +108,7 @@
     },
     "SportsEntry": {
       "type": "object",
+      "additionalProperties": false,
       "description": "One team's lines for the day (or, in a weekly digest, for the window). The section carries every kept sports item, not only game results, so an entry may cover a trade, an injury or an off-field story alongside scorelines.",
       "required": ["team", "scores"],
       "properties": {
@@ -108,6 +122,7 @@
     },
     "DailyDigest": {
       "type": "object",
+      "additionalProperties": false,
       "description": "One UTC day's digest (<cbsa>.<yyyy-mm-dd>.json).",
       "required": [
         "shortName", "metroCode", "metro", "date",
@@ -135,6 +150,7 @@
     },
     "WeeklyDigest": {
       "type": "object",
+      "additionalProperties": false,
       "description": "The trailing-7-day highlight reel (<cbsa>.weekly.json). No weather_alert section.",
       "required": [
         "period", "shortName", "metroCode", "metro", "range",
@@ -147,6 +163,7 @@
         "metro": { "type": "string", "minLength": 1 },
         "range": {
           "type": "object",
+          "additionalProperties": false,
           "required": ["start", "end"],
           "description": "Inclusive UTC day window; start <= end.",
           "properties": {

@@ -4,13 +4,64 @@
   "metroCode": "14500",
   "metro": "Boulder, CO",
   "range": {
-    "start": "2026-08-13",
-    "end": "2026-08-19"
+    "start": "2026-08-15",
+    "end": "2026-08-21"
   },
   "are_you_ok": [
     {
+      "title": "Boulder fire officials concerned about dry conditions after fire ignites in Boulder Canyon",
+      "summary": "A wildfire named the People's Crossing Fire broke out near Boulder Canyon, the canyon running west from Boulder up into the mountains, briefly prompting an evacuation warning for areas near Eben G. Fine Park before officials said the fire was out by 10:22 a.m. Another fire then ignited in the canyon, and Boulder fire officials said they remain concerned about the dry conditions behind both.",
+      "source": "CBS Colorado",
+      "topic": "wildfire",
+      "url": "https://www.cbsnews.com/colorado/video/boulder-fire-officials-concerned-about-dry-conditions-after-fire-ignites-in-boulder-canyon/",
+      "published_at": "2026-08-21T14:58:00+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/21/bcc4f190-7f0a-46cf-9f40-6b84751423db/thumbnail/1024x576/3f1fdcd17b2f8d6ec444adea4b7fb995/f1a87cdf8ac5dd1dbb50eed1e519f77b.jpg",
+        "alt": ""
+      },
+      "uid": "5abaacbc-ffb1-4e03-877d-4eb7bf8fbd30",
+      "description": "Fire officials remain concerned about dry conditions after a fire ignited in Boulder Canyon on Thursday.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg",
+      "questions": [
+        "Was the Boulder Canyon fire close enough to affect you?",
+        "Are you getting much smoke or haze where you are?"
+      ],
+      "thread": [
+        {
+          "title": "Wildfire breaks out near Boulder Canyon; evacuation warning lifted",
+          "summary": "",
+          "source": "Boulder Reporting Lab",
+          "topic": "wildfire",
+          "url": "https://boulderreportinglab.org/2026/08/20/wildfire-breaks-out-near-boulder-canyon-evacuation-warning-lifted/",
+          "published_at": "2026-08-20T16:21:36+00:00",
+          "image": {
+            "url": "https://i0.wp.com/boulderreportinglab.org/wp-content/uploads/2026/08/IMG_6507-scaled.jpeg?fit=1024%2C683&ssl=1",
+            "alt": ""
+          },
+          "uid": "6f0e6f94-46e6-4d5d-8a90-ab5a0cd571cc",
+          "description": "The People’s Crossing Fire briefly prompted an evacuation warning for areas near Eben G. Fine Park. Officials said the fire was out by 10:22 a.m The post Wildfire breaks out near Boulder Canyon; evacuation warning lifted appeared first on The Boulder Reporting Lab.",
+          "logo": "https://boulderreportinglab.org/wp-content/uploads/2021/06/cropped-brl-favicon-32x32.png"
+        },
+        {
+          "title": "Boulder fire officials concerned about dry conditions after fire ignites in Boulder Canyon",
+          "summary": "",
+          "source": "CBS Colorado",
+          "topic": "wildfire",
+          "url": "https://www.cbsnews.com/colorado/video/boulder-fire-officials-concerned-about-dry-conditions-after-fire-ignites-in-boulder-canyon/",
+          "published_at": "2026-08-21T14:58:00+00:00",
+          "image": {
+            "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/21/bcc4f190-7f0a-46cf-9f40-6b84751423db/thumbnail/1024x576/3f1fdcd17b2f8d6ec444adea4b7fb995/f1a87cdf8ac5dd1dbb50eed1e519f77b.jpg",
+            "alt": ""
+          },
+          "uid": "5abaacbc-ffb1-4e03-877d-4eb7bf8fbd30",
+          "description": "Fire officials remain concerned about dry conditions after a fire ignited in Boulder Canyon on Thursday.",
+          "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+        }
+      ]
+    },
+    {
       "title": "Sudden downpour strands drivers, prompts rescue efforts",
-      "summary": "Forecasters warned of flash flooding across Colorado, with the sharpest risk in burn scar areas — hillsides stripped by past wildfires, where rain runs off instead of soaking in. Severe thunderstorms then dropped heavy rain and hail on Denver and the eastern plains, leaving roads and trails muddy and prompting flood warnings across parts of the Denver metro area. One sudden downpour stranded drivers in their vehicles and pulled in rescue crews, with a fire battalion chief describing every call dropping at once.",
+      "summary": "Severe thunderstorms brought heavy rain and hail to Denver, about 30 miles southeast of Boulder, and the Colorado plains on a Saturday afternoon. The rain soaked parts of the state, leaving roads and trails muddy and prompting flood warnings in portions of the Denver metro area. One sudden downpour stranded drivers and prompted rescue efforts; fire Battalion Chief Jason Haley said calls all dropped at the same time and that people were stuck in their vehicles and could not get out.",
       "source": "9NEWS",
       "topic": "flood",
       "url": "https://www.9news.com/article/weather/weather-colorado/sudden-downpour-strands-drivers-prompts-rescue-efforts-aurora-saturday/73-34f78507-50b7-4a32-96f4-fce84b81fc65",
@@ -26,20 +77,6 @@
         "Has the rain been affecting your commute at all?"
       ],
       "thread": [
-        {
-          "title": "Heavy rain forecast raises flash flood risks in Colorado through weekend",
-          "summary": "",
-          "source": "9NEWS",
-          "topic": "flood",
-          "url": "https://www.9news.com/article/weather/weather-colorado/rain-chances-denver-colorado-forecast/73-62c25a62-9de4-4bd3-af12-f8c28982afc0",
-          "published_at": "2026-08-14T22:33:10+00:00",
-          "image": {
-            "url": "https://media.tegna-media.com/assets/KUSA/images/bad53148-f0b2-4ade-b3c7-8ec593a8ba89/20260814T100736/bad53148-f0b2-4ade-b3c7-8ec593a8ba89_750x422.jpg",
-            "alt": ""
-          },
-          "uid": "2a3b1273-7d1e-4563-ab95-7efb2f6b0b14",
-          "description": "Colorado faces a risk of flash flooding with storms likely on Friday and Saturday, especially in burn scar areas. Stay alert and avoid flooded roads."
-        },
         {
           "title": "Severe thunderstorms bring heavy rain, hail to Denver Saturday",
           "summary": "",
@@ -85,6 +122,25 @@
       ]
     },
     {
+      "title": "Record tying heat possible in Denver heading into the weekend",
+      "summary": "Record-tying heat is possible in Denver, about 30 miles southeast of Boulder.",
+      "source": "CBS Colorado",
+      "topic": "heat",
+      "url": "https://www.cbsnews.com/colorado/video/record-tying-heat-possible-in-denver-heading-into-the-weekend/",
+      "published_at": "2026-08-21T18:38:00+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/21/b2247c30-728c-434b-8545-f2f464dfb513/thumbnail/1024x576/cc10c2f6a448626e3d56ceca5fb88db9/616a5c467df506fbeaa1667f81a14c49.jpg",
+        "alt": ""
+      },
+      "uid": "65e66815-822d-45d8-b5a3-b5608f920fa6",
+      "description": "Watch Lauren Whitney's forecast",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg",
+      "questions": [
+        "How are you holding up with the heat?",
+        "Is it changing any of your plans this week?"
+      ]
+    },
+    {
       "title": "Here are the wildfires burning in Colorado",
       "summary": "",
       "source": "9NEWS",
@@ -100,24 +156,6 @@
       "questions": [
         "Are any of the fires close to you?",
         "Has the smoke reached Boulder?"
-      ]
-    },
-    {
-      "title": "'Nothing left here': Westminster lake shrinks as Colorado drought has forced 48 closures",
-      "summary": "Colorado Parks and Wildlife issued an emergency fish salvage at McKay Lake, a lake in Westminster, a suburb between Boulder and Denver, due to severe drought, lifting all bag and possession limits.",
-      "source": "9NEWS",
-      "topic": "drought-water",
-      "url": "https://www.9news.com/article/news/local/westminster-lake-shrinks-colorado-drought-closures-mckay/73-98772580-8426-490c-bc9b-fa898422d6f9",
-      "published_at": "2026-08-13T04:05:39+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KUSA/images/a164f1c9-a877-41bc-8ff1-d2e3a62520fa/20260813T013459/a164f1c9-a877-41bc-8ff1-d2e3a62520fa_750x422.jpg",
-        "alt": ""
-      },
-      "uid": "2ea974cd-c258-4735-8560-8b1fe4739775",
-      "description": "Colorado Parks and Wildlife issued an emergency fish salvage at McKay Lake due to severe drought, lifting all bag and possession limits.",
-      "questions": [
-        "Are you seeing the drought's effects around Boulder?",
-        "Do you spend much time at the lakes nearby?"
       ]
     },
     {
@@ -137,42 +175,6 @@
       "questions": [
         "Did the storms come through your area?",
         "Is everything alright at home after the weather?"
-      ]
-    },
-    {
-      "title": "Colorado has a new largest body of water — at least for now",
-      "summary": "Drought conditions have pushed Blue Mesa Reservoir, a reservoir in western Colorado about 200 miles southwest of Boulder, to historic lows, allowing Lake Granby, a reservoir in the mountains roughly 60 miles west of Boulder, to temporarily claim the title of Colorado's largest reservoir by volume.",
-      "source": "9NEWS",
-      "topic": "drought-water",
-      "url": "https://www.9news.com/article/weather/weather-ott/lake-granby-largest-reservoir-water/73-8aa40a59-99df-4449-862b-c000e848ec37",
-      "published_at": "2026-08-14T13:13:35+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KUSA/images/f47a1562-8bb5-4315-a505-db1c5bfa15f1/20260814T041524/f47a1562-8bb5-4315-a505-db1c5bfa15f1_750x422.jpg",
-        "alt": ""
-      },
-      "uid": "38d087f1-c7cf-4b19-bd71-8cad926668d1",
-      "description": "Drought conditions have pushed Blue Mesa Reservoir to historic lows, allowing Lake Granby to temporarily claim the title of Colorado’s largest reservoir by volume.",
-      "questions": [
-        "Has the drought changed anything for you day to day?",
-        "Do you get out to the reservoirs much?"
-      ]
-    },
-    {
-      "title": "Thunderstorms, flooding concerns: What we're tracking in Denver Thursday",
-      "summary": "Relief from the heat is set for Colorado as monsoon moisture — the late-summer flow of humid air up from the south that drives the region's afternoon thunderstorms — brings storms and a flood risk, with storms possibly impacting outdoor events like concerts.",
-      "source": "9NEWS",
-      "topic": "severe-weather",
-      "url": "https://www.9news.com/article/weather/weather-colorado/denver-cooler-weather-flash-flood-risks-storms-forecast/73-eb603277-be00-4ced-96b0-fefea0c06ec6",
-      "published_at": "2026-08-13T22:10:03+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KUSA/images/c8ef40f6-15cb-4213-a22e-603bd416b198/20260813T164358/c8ef40f6-15cb-4213-a22e-603bd416b198_750x422.jpg",
-        "alt": ""
-      },
-      "uid": "633b2597-6c10-48b4-a110-2aed7c9ed2d5",
-      "description": "Relief from the heat is set for Colorado as monsoon moisture brings thunderstorms and a flood risk, with storms possibly impacting outdoor events like concerts.",
-      "questions": [
-        "Did the storms cool things off where you are?",
-        "Do the afternoon storms mess with your plans this time of year?"
       ]
     }
   ],
@@ -214,22 +216,41 @@
       ]
     },
     {
-      "title": "Colorado bear sightings double as new law strengthens penalties for unsecured trash",
-      "summary": "Colorado logged a record bear season, with more than 6,100 incidents reported and sightings roughly double their usual pace, as drought pushed bears into neighborhoods in search of food. Wildlife officials urged residents to secure trash and other attractants, and a new state law gave officers stronger penalties to use against people who leave food sources accessible.",
-      "source": "CBS Colorado",
-      "topic": "wildlife",
-      "url": "https://www.cbsnews.com/colorado/news/colorado-bear-law-unsecured-trash-violation/",
-      "published_at": "2026-08-17T14:44:13+00:00",
+      "title": "Colorado Connector passenger rail could reach Boulder by 2029. Here’s how the plan would work.",
+      "summary": "The planned intercity train would connect Fort Collins, a city about 45 miles north of Boulder, and Denver through eight communities, including Longmont, a city about 15 miles northeast of Boulder, and Boulder, using mostly existing tracks and committed state funding plus money from RTD, the Denver-area regional transit agency.",
+      "source": "Boulder Reporting Lab",
+      "topic": "transportation",
+      "url": "https://boulderreportinglab.org/2026/08/20/colorado-connector-passenger-rail-could-reach-boulder-by-2029-heres-how-the-plan-would-work/",
+      "published_at": "2026-08-21T04:28:56+00:00",
       "image": {
-        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/17/efda026e-c3f0-495e-9e74-412233d1678e/thumbnail/1024x576/3ebe8f4f060bcb5bee6f00ba4f6bf3ad/bear.jpg",
+        "url": "https://i0.wp.com/boulderreportinglab.org/wp-content/uploads/2026/08/CoCo-Render-2-Mountain-Range-Conceptual-Only-scaled-1.jpg?fit=1024%2C571&ssl=1",
         "alt": ""
       },
-      "uid": "3df5b650-9e1c-469a-b3bd-420c3ecb634d",
-      "description": "Colorado wildlife officials are urging residents to secure trash and other potential food sources as bear sightings surge across the state, and a new law gives officers stronger tools to penalize people who leave attractants accessible.",
+      "uid": "f315bf99-e20f-47c2-bc00-ddd8b747817f",
+      "description": "The planned intercity train would connect Fort Collins and Denver through eight communities, including Longmont and Boulder, using mostly existing tracks and committed state and RTD funding. The post Colorado Connector passenger rail could reach Boulder by 2029. Here’s how the",
+      "logo": "https://boulderreportinglab.org/wp-content/uploads/2021/06/cropped-brl-favicon-32x32.png",
+      "questions": [
+        "Would a train between Fort Collins and Denver be useful for you?",
+        "Do you drive that corridor much now?"
+      ]
+    },
+    {
+      "title": "Bear's messy jaunt through Aspen restaurant one of thousands of encounters as drought leaves food sources scarce",
+      "summary": "Colorado is having a record bear season, with more than 6,100 incidents reported statewide, roughly double the same period last year. Colorado Parks and Wildlife says drought is drying up natural food sources and pushing bears into neighborhoods to look for calories, and wildlife officers are urging residents to secure trash and other attractants, backed by a new law that strengthens penalties for leaving them accessible. Two people were injured in separate bear attacks in Steamboat Springs, a mountain town about 110 miles northwest of Boulder, and Aspen, a mountain town about 130 miles southwest of Boulder, with one bear euthanized after the Aspen attack; another bear made a messy run through an Aspen restaurant.",
+      "source": "CBS Colorado",
+      "topic": "wildlife",
+      "url": "https://www.cbsnews.com/colorado/news/colorado-bear-encounters-surge-food-restaurant-aspen/",
+      "published_at": "2026-08-21T01:23:22+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/21/0be3317d-4682-4ca0-b3ff-506d4470703e/thumbnail/1024x576/391169762ba0d8b91bc72b4cd70ad720/bear.jpg",
+        "alt": ""
+      },
+      "uid": "714bbb33-9da6-4edb-bdc9-09af8a7a360b",
+      "description": "Colorado Parks and Wildlife has received more than 6,000 bear reports so far this year, roughly double the number during the same period last year. Wildlife officials say drought conditions are reducing natural food sources and pushing bears into communities as they search for",
       "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg",
       "questions": [
-        "Have you been seeing more bears around than usual?",
-        "Does the new trash rule change anything for your household?"
+        "Have you had any bear encounters around Boulder?",
+        "Are people there talking about bears more this year?"
       ],
       "thread": [
         {
@@ -260,6 +281,35 @@
           "uid": "3df5b650-9e1c-469a-b3bd-420c3ecb634d",
           "description": "Colorado wildlife officials are urging residents to secure trash and other potential food sources as bear sightings surge across the state, and a new law gives officers stronger tools to penalize people who leave attractants accessible.",
           "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+        },
+        {
+          "title": "Two injured in separate bear attacks in Steamboat Springs, Aspen, as CPW warns of record bear activity",
+          "summary": "",
+          "source": "9NEWS",
+          "topic": "wildlife",
+          "url": "https://www.9news.com/article/life/animals/bear-attacks-steamboat-springs-aspen-injures/73-2f38d9ad-0a56-4ab4-96ee-7d1ab1f0ee94",
+          "published_at": "2026-08-20T02:49:43+00:00",
+          "image": {
+            "url": "https://media.tegna-media.com/assets/KUSA/images/724c9b2f-5549-4d3f-ad0c-d7d354af7dd0/724c9b2f-5549-4d3f-ad0c-d7d354af7dd0_750x422.jpg",
+            "alt": ""
+          },
+          "uid": "c379e712-ce9c-4bab-84dc-88c3ba388da1",
+          "description": "One bear was euthanized after the Aspen attack. Colorado Parks and Wildlife said drought and a lack of natural food are pushing bears closer to homes and people."
+        },
+        {
+          "title": "Bear's messy jaunt through Aspen restaurant one of thousands of encounters as drought leaves food sources scarce",
+          "summary": "",
+          "source": "CBS Colorado",
+          "topic": "wildlife",
+          "url": "https://www.cbsnews.com/colorado/news/colorado-bear-encounters-surge-food-restaurant-aspen/",
+          "published_at": "2026-08-21T01:23:22+00:00",
+          "image": {
+            "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/21/0be3317d-4682-4ca0-b3ff-506d4470703e/thumbnail/1024x576/391169762ba0d8b91bc72b4cd70ad720/bear.jpg",
+            "alt": ""
+          },
+          "uid": "714bbb33-9da6-4edb-bdc9-09af8a7a360b",
+          "description": "Colorado Parks and Wildlife has received more than 6,000 bear reports so far this year, roughly double the number during the same period last year. Wildlife officials say drought conditions are reducing natural food sources and pushing bears into communities as they search for",
+          "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
         }
       ]
     },
@@ -283,43 +333,6 @@
       ]
     },
     {
-      "title": "New Colorado law inspired by Megan Trussell's case requires colleges to act within 6 hours when students go missing",
-      "summary": "",
-      "source": "CBS Colorado",
-      "topic": "education",
-      "url": "https://www.cbsnews.com/colorado/news/new-colorado-law-megan-trussell-colleges-act-6-hours-student-missing/",
-      "published_at": "2026-08-13T02:34:00+00:00",
-      "image": {
-        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/06/21/356ad2c1-ec65-437c-952d-8df6620dff78/thumbnail/1024x576/31ac5d169f39fe87cf6d509b861d3c7e/megan-trussell.jpg",
-        "alt": ""
-      },
-      "uid": "7c5cdd72-325f-45f1-bbb9-3fd2e651f0a6",
-      "description": "A new Colorado law creates specific requirements for higher education institutions, including a six-hour window for schools to take action if a student is reported missing.",
-      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg",
-      "questions": [
-        "Had you been following the case behind that new law?",
-        "Do you think a six-hour window changes much for campuses here?"
-      ]
-    },
-    {
-      "title": "Airbnb offers $200 bonus as Sundance rental demand surges in Boulder",
-      "summary": "",
-      "source": "9NEWS",
-      "topic": "business-jobs",
-      "url": "https://www.9news.com/article/news/local/colorado-news/airbnb-offers-bonus-sundance-rental-demand-surges-boulder/73-64181fec-5628-4df1-8c77-79dbe5f0f33a",
-      "published_at": "2026-08-18T22:06:29+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KUSA/images/d670356f-2ea6-4994-800d-8f57f576bcc5/20260818T214344/d670356f-2ea6-4994-800d-8f57f576bcc5_750x422.jpg",
-        "alt": ""
-      },
-      "uid": "d31f14d8-8e66-44ad-8740-17f6bcc0d4c6",
-      "description": "Homeowners in Boulder can earn a $200 incentive from Airbnb for hosting during the Sundance Film Festival, as demand for rentals surges before its Colorado debut.",
-      "questions": [
-        "Are people you know thinking about renting out their places during the festival?",
-        "Has the festival started to change the rental market where you are?"
-      ]
-    },
-    {
       "title": "Rüfüs Du Sol in Colorado: What to know for the stadium concert",
       "summary": "Rufus Du Sol is set to electrify Colorado with its largest North American headline tour, performing at CU Boulder's Folsom Field, the university's football stadium in the middle of the city.",
       "source": "9NEWS",
@@ -335,62 +348,6 @@
       "questions": [
         "Do the big shows at Folsom Field change how the city feels for a weekend?",
         "Are you someone who goes to the stadium concerts, or do you steer clear?"
-      ]
-    },
-    {
-      "title": "New law requires Colorado teenagers to take 30 hours of driver's training to receive permit",
-      "summary": "",
-      "source": "CBS Colorado",
-      "topic": "transportation",
-      "url": "https://www.cbsnews.com/colorado/news/new-law-colorado-teenagers-drivers-training-permit/",
-      "published_at": "2026-08-18T12:52:08+00:00",
-      "image": {
-        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/18/7d33e24e-80d8-4c7a-a1d7-a0f7f5314357/thumbnail/1024x576/2bc875587a7a3fee616e6eb34311831b/gettyimages-958322434-1.jpg",
-        "alt": ""
-      },
-      "uid": "755de4af-1dcd-4e8c-b340-b06f60d282c8",
-      "description": "A new law takes effect in Colorado at the beginning of the year that will change the requirements for teen drivers who want to get behind the wheel.",
-      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg",
-      "questions": [
-        "Do you have anyone in the house close to driving age?",
-        "What do you make of the new training requirement for teen drivers?"
-      ]
-    },
-    {
-      "title": "CU honors Native American Code Talkers with new dorms",
-      "summary": "Code Talker Hall is home to non-first-year undergraduate students on the University of Colorado Boulder campus, providing new opportunities for students to live and build community there.",
-      "source": "9NEWS",
-      "topic": "human-interest",
-      "url": "https://www.9news.com/article/news/local/outreach/back-to-school/university-colorado-boulder-code-talker-hall-dorms/73-c4c328e9-a79b-433d-a5b2-d8c5f4a90fe7",
-      "published_at": "2026-08-13T15:20:41+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KUSA/images/bd10197e-3c8a-4b61-8d10-d09af04a2e82/20260813T143302/bd10197e-3c8a-4b61-8d10-d09af04a2e82_750x422.jpg",
-        "alt": ""
-      },
-      "uid": "fce86beb-f724-41a6-a599-5b43715d3520",
-      "description": "Code Talker Hall is home to non-first-year undergraduate students, providing new opportunities for students to live and build community on campus.",
-      "questions": [
-        "Did you see CU named the new dorms after the Code Talkers?",
-        "Do you have much to do with the campus?"
-      ]
-    },
-    {
-      "title": "A century-old Boulder County war memorial is finally getting its due. Now the search is on for 1,500 families.",
-      "summary": "",
-      "source": "Boulder Reporting Lab",
-      "topic": "human-interest",
-      "url": "https://boulderreportinglab.org/2026/08/13/a-century-old-boulder-county-war-memorial-is-finally-getting-its-due-now-the-search-is-on-for-1500-families/",
-      "published_at": "2026-08-14T03:01:38+00:00",
-      "image": {
-        "url": "https://i0.wp.com/boulderreportinglab.org/wp-content/uploads/2026/08/1.-ClydeCassUniform-scaled.jpg?fit=1024%2C731&ssl=1",
-        "alt": ""
-      },
-      "uid": "09976092-2c08-4fe8-ad8a-5dc31730662f",
-      "description": "Colorado has formally recognized the long-forgotten “Road of Remembrance” as local groups search for descendants of the 1,500 World War I veterans it honors. The post A century-old Boulder County war memorial is finally getting its due. Now the search is on for 1,500 families.",
-      "logo": "https://boulderreportinglab.org/wp-content/uploads/2021/06/cropped-brl-favicon-32x32.png",
-      "questions": [
-        "Had you heard of the Road of Remembrance before this?",
-        "Do you know anyone whose family goes back that far here?"
       ]
     },
     {
@@ -413,59 +370,131 @@
       ]
     },
     {
-      "title": "Dogs on trails in Boulder required to be on leash due to rise in bear activity",
+      "title": "Grab your free tulip bulbs from Boulder businesses",
+      "summary": "Boulder's annual tulip bulb giveaway, organized by the Parks and Recreation Department and Downtown Boulder Partnership, the nonprofit that promotes the downtown business district, offers free bulbs starting Aug. 19.",
+      "source": "9NEWS",
+      "topic": "civic-events",
+      "url": "https://www.9news.com/article/life/style/colorado-guide/free-tulip-bulbs-pearl-street-mall/73-e56bcded-31d9-4808-8ac4-c82601dff901",
+      "published_at": "2026-08-20T10:51:00+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/a9a3010d-3b0d-4549-9c0d-1305780305c6/a9a3010d-3b0d-4549-9c0d-1305780305c6_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "4f8e3954-a6a7-4afa-a973-d03501d044ee",
+      "description": "Boulder's annual tulip bulb giveaway, organized by the Parks and Recreation Department and Downtown Boulder Partnership, offers free bulbs starting Aug. 19.",
+      "questions": [
+        "Have you ever picked up bulbs from that giveaway?",
+        "Do you get downtown much for things like that?"
+      ]
+    },
+    {
+      "title": "Lafayette is searching for 216 cemetery plot holders. 9NEWS found 1.",
+      "summary": "Lafayette, a small city about 10 miles east of Boulder, faces challenges finding over 200 plot holders at its historic cemetery following burial record mishaps.",
+      "source": "9NEWS",
+      "topic": "human-interest",
+      "url": "https://www.9news.com/article/news/local/lafayette-cemetery-plot-holders/73-d8e5d210-cfbc-48e3-a437-01b74f644678",
+      "published_at": "2026-08-20T00:42:58+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/f50a4911-1aee-4e87-8f32-84a495804bf7/20260819T222714/f50a4911-1aee-4e87-8f32-84a495804bf7_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "33785456-23b4-4b61-8f02-2c095dc5ff35",
+      "description": "Lafayette faces challenges finding over 200 plot holders at its historic cemetery following burial record mishaps.",
+      "questions": [
+        "Had you heard about the cemetery record mix-up over in Lafayette?",
+        "Do you spend much time in that part of the county?"
+      ]
+    },
+    {
+      "title": "New law requires Colorado teenagers to take 30 hours of driver's training to receive permit",
       "summary": "",
       "source": "CBS Colorado",
-      "topic": "other",
-      "url": "https://www.cbsnews.com/colorado/video/dogs-on-trails-in-boulder-required-to-be-on-leash-due-to-rise-in-bear-activity/",
-      "published_at": "2026-08-14T13:41:00+00:00",
+      "topic": "transportation",
+      "url": "https://www.cbsnews.com/colorado/news/new-law-colorado-teenagers-drivers-training-permit/",
+      "published_at": "2026-08-18T12:52:08+00:00",
       "image": {
-        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/14/01679329-fe34-45e5-9811-dbd0a7eac94f/thumbnail/1024x576/8a676d70cdfc5821549593f503492f40/3c0a66e56e86208178fdf2cc23f1bb53.jpg",
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/18/7d33e24e-80d8-4c7a-a1d7-a0f7f5314357/thumbnail/1024x576/2bc875587a7a3fee616e6eb34311831b/gettyimages-958322434-1.jpg",
         "alt": ""
       },
-      "uid": "9f4d54fe-74ac-4b24-8f0a-f0673efa8f8f",
-      "description": "Dogs on the trails in Boulder are required to be on a leash due to a rise in bear activity.",
+      "uid": "755de4af-1dcd-4e8c-b340-b06f60d282c8",
+      "description": "A new law takes effect in Colorado at the beginning of the year that will change the requirements for teen drivers who want to get behind the wheel.",
       "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg",
       "questions": [
-        "Has the leash rule changed how you walk your dog?",
-        "Are you seeing more bears on the trails than usual?"
+        "Do you have anyone in the house close to driving age?",
+        "What do you make of the new training requirement for teen drivers?"
       ]
     },
     {
-      "title": "Bear tears through screen, breaks into Colorado Cherry Company building to eat blueberry pie",
-      "summary": "A young bear broke into the Colorado Cherry Company's location on Highway 36 north of Lyons — the road running northwest out of Boulder toward the mountains, through the small town of Lyons about 15 miles away — to chow down on a blueberry pie.",
+      "title": "Boulder's Folsom Field enters new era in music history as Mumford & Sons take stage",
+      "summary": "When Mumford & Sons took the stage at Folsom Field, the University of Colorado's football stadium in Boulder, it meant more to the band than a typical show - it was about becoming part of Colorado music history.",
       "source": "CBS Colorado",
-      "topic": "human-interest",
-      "url": "https://www.cbsnews.com/colorado/news/bear-colorado-cherry-company-pie/",
-      "published_at": "2026-08-15T04:22:26+00:00",
+      "topic": "arts-culture",
+      "url": "https://www.cbsnews.com/colorado/news/boulders-folsom-field-music-history-mumford-sons/",
+      "published_at": "2026-08-21T14:31:58+00:00",
       "image": {
-        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/15/839f74de-2df4-4c03-98b6-5eb1f9750579/thumbnail/1024x576/4f81ef5fe63a2a80c10198d7b3a6fcc5/bear1.jpg",
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/21/c21e6a7f-57bc-42c0-857d-1bcc633b7064/thumbnail/1024x576/0786063d7c621daf589f527bb6e0a8da/folsom-field-63pkg-hunter-saillen.jpg",
         "alt": ""
       },
-      "uid": "25a44a56-ad65-4c1f-9280-ea1a96cbefab",
-      "description": "A young bear broke into the Colorado Cherry Company's location on Highway 36 north of Lyons to chow down on a blueberry pie.",
+      "uid": "30f51258-5de3-42c4-b628-d915abcc6842",
+      "description": "When Mumford & Sons took the stage at Folsom Field this summer, it meant more to the band than a typical show- it was about becoming part of Colorado music history.",
       "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg",
       "questions": [
-        "Did you see the bear that broke in for a blueberry pie up by Lyons?",
-        "Are bears getting into things where you live this year?"
+        "Do you get out to shows at Folsom Field?",
+        "Was the Mumford & Sons show on your radar?"
       ]
     },
     {
-      "title": "Ski giant lays off workers amid push to keep HQ in Denver",
+      "title": "Airbnb offers $200 bonus as Sundance rental demand surges in Boulder",
       "summary": "",
       "source": "9NEWS",
       "topic": "business-jobs",
-      "url": "https://www.9news.com/article/money/business/alterra-mountain-layoffs/73-3a2345a3-93e5-424e-bd62-44281135c767",
-      "published_at": "2026-08-17T14:55:32+00:00",
+      "url": "https://www.9news.com/article/news/local/colorado-news/airbnb-offers-bonus-sundance-rental-demand-surges-boulder/73-64181fec-5628-4df1-8c77-79dbe5f0f33a",
+      "published_at": "2026-08-18T22:06:29+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/KUSA/images/e11bc617-a15b-4458-924c-7acc59ab3881/20250225T173142/e11bc617-a15b-4458-924c-7acc59ab3881_750x422.jpg",
+        "url": "https://media.tegna-media.com/assets/KUSA/images/d670356f-2ea6-4994-800d-8f57f576bcc5/20260818T214344/d670356f-2ea6-4994-800d-8f57f576bcc5_750x422.jpg",
         "alt": ""
       },
-      "uid": "d790ae41-75cc-44c1-afbd-59641051051b",
-      "description": "While it is not known how many workers were impacted in the layoffs, social media posts indicate that senior roles and long-tenured employees were affected.",
+      "uid": "d31f14d8-8e66-44ad-8740-17f6bcc0d4c6",
+      "description": "Homeowners in Boulder can earn a $200 incentive from Airbnb for hosting during the Sundance Film Festival, as demand for rentals surges before its Colorado debut.",
       "questions": [
-        "Did you catch the news about the ski company's layoffs?",
-        "Do you know people in that industry around here?"
+        "Are people you know thinking about renting out their places during the festival?",
+        "Has the festival started to change the rental market where you are?"
+      ]
+    },
+    {
+      "title": "Former CU track star says she can't run due to heart condition",
+      "summary": "",
+      "source": "9NEWS",
+      "topic": "human-interest",
+      "url": "https://www.9news.com/article/sports/former-cu-track-star-jenny-simpson-says-she-cant-run-due-to-heart-condition/73-d7da4fa9-f5ba-47fb-88c2-9de4edda2f8e",
+      "published_at": "2026-08-21T03:35:02+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/b617af81-4949-443e-b29d-e925d05adc82/20260821T030840/b617af81-4949-443e-b29d-e925d05adc82_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "7fe443a6-bf2d-4aaf-b622-214f1b71fb27",
+      "description": "The Olympic medalist went into cardiac arrest while pacing runners at an event in North Carolina in June.",
+      "questions": [
+        "Did you follow CU track when she was competing?",
+        "Have you seen how she's doing now?"
+      ]
+    },
+    {
+      "title": "Move over bears. Fat Marmot Week puts a spotlight on the alpine rodents",
+      "summary": "",
+      "source": "9NEWS",
+      "topic": "wildlife",
+      "url": "https://www.9news.com/article/life/style/colorado-guide/move-over-bears-fat-marmot-week-puts-a-spotlight-on-the-alpine-rodents/616-e4a2c589-1040-4179-865f-a724d6e8b20b",
+      "published_at": "2026-08-21T14:08:57+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/AssociatedPress/images/93b7456a-6e4e-4c1f-b0f5-31b1b226728a/20260821T130508/93b7456a-6e4e-4c1f-b0f5-31b1b226728a_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "4f134ee5-3f27-406a-895d-eb2f9b738630",
+      "description": "Last winter was tough for the groundhog-like rodents living in the Colorado mountains.",
+      "questions": [
+        "Had you heard of Fat Marmot Week?",
+        "Do you see marmots when you're up in the mountains?"
       ]
     },
     {
@@ -489,18 +518,124 @@
   ],
   "you_should_know": [
     {
-      "title": "Colorado cites White House email as key evidence in lawsuit against Trump administration",
-      "summary": "Colorado's lawsuit against the Trump administration built through the week: the state alleges the administration targeted it with funding cuts in retaliation over election policies and the prosecution of former Mesa County Clerk Tina Peters, after Gov. Polis refused to pardon her. A judge ordered documents released, and attorneys then pointed to a newly uncovered White House email as crucial evidence for the claim.",
-      "source": "CBS Colorado",
-      "topic": "elections-politics",
-      "url": "https://www.cbsnews.com/colorado/video/colorado-cites-white-house-email-as-key-evidence-in-lawsuit-against-trump-administration/",
-      "published_at": "2026-08-18T03:26:00+00:00",
+      "title": "Environmental group sues Trump administration over plan to dismantle Boulder’s NCAR",
+      "summary": "",
+      "source": "Boulder Reporting Lab",
+      "topic": "civil-litigation",
+      "url": "https://boulderreportinglab.org/2026/08/20/environmental-group-sues-trump-administration-over-plan-to-dismantle-boulders-ncar/",
+      "published_at": "2026-08-21T04:29:43+00:00",
       "image": {
-        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/18/d124c4d8-4a0f-4bc7-972e-61bd577d89a4/thumbnail/1024x576/2c2c3df1b3fcaf1dbc5c8cdfe671b5cf/8e285a5b4f46d4865ad66a221d32939e.jpg",
+        "url": "https://i0.wp.com/boulderreportinglab.org/wp-content/uploads/2025/12/IMG_3008-scaled.jpeg?fit=1024%2C683&ssl=1",
+        "alt": "The Trump administration is pushing to close the Boulder headquarters of the National Center for Atmospheric Research (NCAR). Credit: Brooke Stephenson"
+      },
+      "uid": "a8b1a702-d007-4fd4-97f0-d0f80f6c000d",
+      "description": "The Trump administration is pushing to close the Boulder headquarters of the National Center for Atmospheric Research (NCAR). Credit: Brooke Stephenson The Environmental Defense Fund filed a lawsuit against the Trump administration on Aug. 20 seeking to stop its attempt to",
+      "logo": "https://boulderreportinglab.org/wp-content/uploads/2021/06/cropped-brl-favicon-32x32.png"
+    },
+    {
+      "title": "Colorado regulators approve Xcel Energy rate increase, raising monthly electric bills",
+      "summary": "State regulators signed off on a rate increase for Xcel Energy, the electric utility company. Residential customers face about $5 more a month and commercial customers about $7, so the higher bills are now settled rather than proposed.",
+      "source": "CBS Colorado",
+      "topic": "other",
+      "url": "https://www.cbsnews.com/colorado/video/colorado-regulators-approve-xcel-energy-rate-increase-raising-monthly-electric-bills-1/",
+      "published_at": "2026-08-20T16:15:00+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/20/3a0416aa-2e1f-4305-8a90-b9914b5edc06/thumbnail/1024x576/b4d640745e2e9a5342309fbe7c50b41c/f087534dab6bd6a79a3c66c0c160ce7b.jpg",
         "alt": ""
       },
-      "uid": "6f0eba80-7ebb-47f9-8571-59ad213b632e",
-      "description": "Attorneys for the State of Colorado say a newly uncovered White House email provides crucial evidence in their lawsuit alleging the Trump administration retaliated against the state over election policies and the prosecution of former Mesa County Clerk Tina Peters.",
+      "uid": "6df32486-a071-4573-8a54-dfea83a88e69",
+      "description": "Under the approved plan, residential customers will see an average increase of about $5 per month, while commercial customers will pay about $7 more each month.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg",
+      "thread": [
+        {
+          "title": "Colorado regulators approve Xcel Energy rate increase, raising monthly electric bills",
+          "summary": "",
+          "source": "CBS Colorado",
+          "topic": "other",
+          "url": "https://www.cbsnews.com/colorado/news/colorado-regulators-xcel-energy-rate-increase-electric-bills/",
+          "published_at": "2026-08-19T20:40:57+00:00",
+          "image": {
+            "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/19/3ed50675-ab42-4f09-b8f0-3f1adf775294/thumbnail/1024x576/33d9fa56956203a952ddf6128171ae1d/gettyimages-1405271157-1.jpg",
+            "alt": ""
+          },
+          "uid": "c18ca92c-6db7-4805-816c-2439522d20a5",
+          "description": "Under the approved plan, residential customers will see an average increase of about $5 per month, while commercial customers will pay about $7 more each month.",
+          "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+        },
+        {
+          "title": "Colorado regulators approve Xcel Energy rate increase, raising monthly electric bills",
+          "summary": "",
+          "source": "CBS Colorado",
+          "topic": "other",
+          "url": "https://www.cbsnews.com/colorado/video/colorado-regulators-approve-xcel-energy-rate-increase-raising-monthly-electric-bills-1/",
+          "published_at": "2026-08-20T16:15:00+00:00",
+          "image": {
+            "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/20/3a0416aa-2e1f-4305-8a90-b9914b5edc06/thumbnail/1024x576/b4d640745e2e9a5342309fbe7c50b41c/f087534dab6bd6a79a3c66c0c160ce7b.jpg",
+            "alt": ""
+          },
+          "uid": "6df32486-a071-4573-8a54-dfea83a88e69",
+          "description": "Under the approved plan, residential customers will see an average increase of about $5 per month, while commercial customers will pay about $7 more each month.",
+          "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Emails show BVSD preparing for possible school closures months before public recommendation",
+      "summary": "Records show BVSD, the Boulder Valley School District, analyzing facilities, planning for staffing changes and exploring uses for buildings that could become vacant. One email suggests officials discussed closing two elementary schools and possibly a middle school, which the superintendent disputes.",
+      "source": "Boulder Reporting Lab",
+      "topic": "education",
+      "url": "https://boulderreportinglab.org/2026/08/20/emails-show-bvsd-preparing-for-possible-school-closures-months-before-public-recommendation/",
+      "published_at": "2026-08-21T04:30:20+00:00",
+      "image": {
+        "url": "https://i0.wp.com/boulderreportinglab.org/wp-content/uploads/2021/11/BVSD-buidling-4_11-17-2021-scaled.jpg?fit=1024%2C683&ssl=1",
+        "alt": ""
+      },
+      "uid": "315e54e0-6903-41f9-b1dd-7d2cf5d1cef1",
+      "description": "Records show the district analyzing facilities, planning for staffing changes and exploring uses for buildings that could become vacant. One email suggests officials discussed closing two elementary schools and possibly a middle school, which the superintendent disputes. The",
+      "logo": "https://boulderreportinglab.org/wp-content/uploads/2021/06/cropped-brl-favicon-32x32.png"
+    },
+    {
+      "title": "Colorado minimum wage rising in 2027",
+      "summary": "",
+      "source": "9NEWS",
+      "topic": "business-jobs",
+      "url": "https://www.9news.com/article/money/business/small-business/colorado-minimum-wage-rising/73-b563ece8-e44e-4830-a4d4-9ee49e5a61a4",
+      "published_at": "2026-08-18T09:49:32+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/b1cc4628-283a-4254-9f26-5605b3e62a33/20260818T094823/b1cc4628-283a-4254-9f26-5605b3e62a33_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "fbc1eae1-5b85-41fc-99d5-9e8926e8a662",
+      "description": "The City and County of Denver previously announced a minimum wage increase to $19.84."
+    },
+    {
+      "title": "Boulder will begin collecting its new transportation fee in 2027",
+      "summary": "",
+      "source": "Boulder Reporting Lab",
+      "topic": "transportation",
+      "url": "https://boulderreportinglab.org/2026/08/18/boulder-will-begin-collecting-its-new-transportation-fee-in-2027/",
+      "published_at": "2026-08-19T04:57:23+00:00",
+      "image": {
+        "url": "https://i0.wp.com/boulderreportinglab.org/wp-content/uploads/2024/07/DSC01173-scaled.jpeg?fit=1024%2C683&ssl=1",
+        "alt": ""
+      },
+      "uid": "f437dd75-ff39-4626-938b-895d882e5fab",
+      "description": "Boulder plans to begin collecting its new transportation maintenance fee in 2027. The fee is intended to provide a steady source of funding as revenue from city sales taxes levels off. The fee was approved by city council in 2025, with funds to be used for repairs and",
+      "logo": "https://boulderreportinglab.org/wp-content/uploads/2021/06/cropped-brl-favicon-32x32.png"
+    },
+    {
+      "title": "See email called \"smoking gun\" in Colorado's lawsuit alleging White House retaliation, White House denies tie to Tina Peters",
+      "summary": "Colorado's lawsuit alleging that the Trump administration retaliated against the state came into sharper focus as court records emerged. The state says the administration targeted it with funding cuts after Gov. Polis refused to pardon Tina Peters, the former clerk of Mesa County in western Colorado, whose prosecution over election policies is central to the case. A judge ordered documents released, and attorneys for the state pointed to a newly uncovered White House email - described in new exhibits as a \"smoking gun\" - as key evidence of what the suit calls an unconstitutional scheme to punish the state. The White House denies any tie to Peters.",
+      "source": "CBS Colorado",
+      "topic": "civil-litigation",
+      "url": "https://www.cbsnews.com/colorado/news/email-smoking-gun-colorados-lawsuit-alleging-white-house-retaliation-tina-peters/",
+      "published_at": "2026-08-21T20:01:31+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/12/11/68f9c55e-5af0-4d0c-a824-1be215a8061f/thumbnail/1024x576/9c69d09b56003b1e08196a749accf930/flags.jpg",
+        "alt": ""
+      },
+      "uid": "0c32bba4-a9a5-4910-b078-d8f8115c1ec4",
+      "description": "New exhibits in the federal court case Colorado vs. Trump, which alleges the Trump administration orchestrated an \"unconstitutional scheme to attack and punish the state,\" reveal communications between the White House and federal agencies on the topic of Colorado.",
       "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg",
       "thread": [
         {
@@ -546,199 +681,52 @@
           "uid": "6f0eba80-7ebb-47f9-8571-59ad213b632e",
           "description": "Attorneys for the State of Colorado say a newly uncovered White House email provides crucial evidence in their lawsuit alleging the Trump administration retaliated against the state over election policies and the prosecution of former Mesa County Clerk Tina Peters.",
           "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Colorado regulators approve Xcel Energy rate increase, raising monthly electric bills",
-      "summary": "",
-      "source": "CBS Colorado",
-      "topic": "other",
-      "url": "https://www.cbsnews.com/colorado/news/colorado-regulators-xcel-energy-rate-increase-electric-bills/",
-      "published_at": "2026-08-19T20:40:57+00:00",
-      "image": {
-        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/19/3ed50675-ab42-4f09-b8f0-3f1adf775294/thumbnail/1024x576/33d9fa56956203a952ddf6128171ae1d/gettyimages-1405271157-1.jpg",
-        "alt": ""
-      },
-      "uid": "c18ca92c-6db7-4805-816c-2439522d20a5",
-      "description": "Under the approved plan, residential customers will see an average increase of about $5 per month, while commercial customers will pay about $7 more each month.",
-      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
-    },
-    {
-      "title": "Colorado minimum wage will jump in 2027 to $15.71/hour, $12.69 tipped",
-      "summary": "Colorado set its 2027 minimum wage at $15.71 an hour, with a tipped rate of $12.69 — a 3.6% rise over the current wage and 41.5% above the $11.10 paid in 2019, according to the DLSS, the Division of Labor Standards and Statistics. The City and County of Denver had already announced its own higher local minimum of $19.84.",
-      "source": "9NEWS",
-      "topic": "business-jobs",
-      "url": "https://www.9news.com/article/news/local/colorado-minimum-wage-2027/73-55a3430b-152e-44ca-9111-2fd9e04ade16",
-      "published_at": "2026-08-14T19:57:53+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KUSA/images/f42fadfa-c1f8-4ca2-9bbc-4e5c554b8ba1/20260814T195407/f42fadfa-c1f8-4ca2-9bbc-4e5c554b8ba1_750x422.jpg",
-        "alt": ""
-      },
-      "uid": "6b2ab004-f843-4f32-857f-d35ab1674de0",
-      "description": "According to the DLSS, the new wage of $15.71 represents a 3.6% increase over the current wage and a 41.5% increase from the wage in 2019 of $11.10 an hour.",
-      "thread": [
-        {
-          "title": "Colorado minimum wage will jump in 2027 to $15.71/hour, $12.69 tipped",
-          "summary": "",
-          "source": "9NEWS",
-          "topic": "business-jobs",
-          "url": "https://www.9news.com/article/news/local/colorado-minimum-wage-2027/73-55a3430b-152e-44ca-9111-2fd9e04ade16",
-          "published_at": "2026-08-14T19:57:53+00:00",
-          "image": {
-            "url": "https://media.tegna-media.com/assets/KUSA/images/f42fadfa-c1f8-4ca2-9bbc-4e5c554b8ba1/20260814T195407/f42fadfa-c1f8-4ca2-9bbc-4e5c554b8ba1_750x422.jpg",
-            "alt": ""
-          },
-          "uid": "6b2ab004-f843-4f32-857f-d35ab1674de0",
-          "description": "According to the DLSS, the new wage of $15.71 represents a 3.6% increase over the current wage and a 41.5% increase from the wage in 2019 of $11.10 an hour."
         },
         {
-          "title": "Colorado minimum wage rising in 2027",
-          "summary": "",
-          "source": "9NEWS",
-          "topic": "business-jobs",
-          "url": "https://www.9news.com/article/money/business/small-business/colorado-minimum-wage-rising/73-b563ece8-e44e-4830-a4d4-9ee49e5a61a4",
-          "published_at": "2026-08-18T09:49:32+00:00",
-          "image": {
-            "url": "https://media.tegna-media.com/assets/KUSA/images/b1cc4628-283a-4254-9f26-5605b3e62a33/20260818T094823/b1cc4628-283a-4254-9f26-5605b3e62a33_750x422.jpg",
-            "alt": ""
-          },
-          "uid": "fbc1eae1-5b85-41fc-99d5-9e8926e8a662",
-          "description": "The City and County of Denver previously announced a minimum wage increase to $19.84."
-        }
-      ]
-    },
-    {
-      "title": "Man killed in shooting by Longmont Police officer identified",
-      "summary": "",
-      "source": "9NEWS",
-      "topic": "policing",
-      "url": "https://www.9news.com/article/news/crime/suspect-injured-shooting-involving-longmont-police-officer/73-64b2bacc-05d6-4578-8667-c46e180b81f1",
-      "published_at": "2026-08-13T22:16:20+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KUSA/images/c8b12605-38a3-448b-b9cf-3bf1a9fbbc5a/20260810T231146/c8b12605-38a3-448b-b9cf-3bf1a9fbbc5a_750x422.jpg",
-        "alt": ""
-      },
-      "uid": "b1f9ef92-5834-4aaf-b3bd-2428dfd02fb3",
-      "description": "Officers arrived and contacted the suspect, who had allegedly taken a victim hostage. He stated he had a gun and refused to comply with demands, police said."
-    },
-    {
-      "title": "Boulder will begin collecting its new transportation fee in 2027",
-      "summary": "",
-      "source": "Boulder Reporting Lab",
-      "topic": "transportation",
-      "url": "https://boulderreportinglab.org/2026/08/18/boulder-will-begin-collecting-its-new-transportation-fee-in-2027/",
-      "published_at": "2026-08-19T04:57:23+00:00",
-      "image": {
-        "url": "https://i0.wp.com/boulderreportinglab.org/wp-content/uploads/2024/07/DSC01173-scaled.jpeg?fit=1024%2C683&ssl=1",
-        "alt": ""
-      },
-      "uid": "f437dd75-ff39-4626-938b-895d882e5fab",
-      "description": "Boulder plans to begin collecting its new transportation maintenance fee in 2027. The fee is intended to provide a steady source of funding as revenue from city sales taxes levels off. The fee was approved by city council in 2025, with funds to be used for repairs and",
-      "logo": "https://boulderreportinglab.org/wp-content/uploads/2021/06/cropped-brl-favicon-32x32.png"
-    },
-    {
-      "title": "Boulder delays license plate reader decision as scrutiny of Flock intensifies",
-      "summary": "A Flock camera on U.S. 36 in Boulder, the highway linking Boulder to Denver. Credit: Brooke Stephenson After facing privacy concerns, Boulder invited companies to compete for its license plate reader contract and planned to choose a vendor by September. The city now says the process will take longer.",
-      "source": "Boulder Reporting Lab",
-      "topic": "policing",
-      "url": "https://boulderreportinglab.org/2026/08/13/boulder-delays-license-plate-reader-decision-as-scrutiny-of-flock-intensifies/",
-      "published_at": "2026-08-14T03:02:06+00:00",
-      "image": {
-        "url": "https://i0.wp.com/boulderreportinglab.org/wp-content/uploads/2026/08/IMG_6432-scaled.jpeg?fit=1024%2C683&ssl=1",
-        "alt": "A Flock camera on U.S. 36 in Boulder. Credit: Brooke Stephenson"
-      },
-      "uid": "733b78b8-dacd-42f3-8087-76945d94b25f",
-      "description": "A Flock camera on U.S. 36 in Boulder. Credit: Brooke Stephenson After facing privacy concerns, Boulder invited companies to compete for its license plate reader contract and planned to choose a vendor by September. The city now says the process will take longer. The post Boulder",
-      "logo": "https://boulderreportinglab.org/wp-content/uploads/2021/06/cropped-brl-favicon-32x32.png"
-    },
-    {
-      "title": "Aurora detention center refuses to hand over information, documents about tuberculosis case",
-      "summary": "A tuberculosis case inside the ICE detention center in Aurora, a large suburb 40 miles SE of Boulder, turned into a standoff with the state. A health order gave the GEO Group, the private company that runs the facility, a Monday deadline to hand over information about the case; the facility denies any active tuberculosis cases and has refused to provide what state health officials asked for.",
-      "source": "9NEWS",
-      "topic": "public-health",
-      "url": "https://www.9news.com/article/news/politics/aurora-detention-center-information-documents-tuberculosis-case/73-631186cb-4716-479d-b3f0-24c9010a0fbf",
-      "published_at": "2026-08-19T03:23:25+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KUSA/images/667d75ee-1b74-45dc-a829-de2221668666/20260819T000602/667d75ee-1b74-45dc-a829-de2221668666_750x422.jpg",
-        "alt": ""
-      },
-      "uid": "28b2dae3-332c-43e2-9562-7da1474151cf",
-      "description": "The facility denies any active tuberculosis cases but has refused to hand over any necessary information to CDPHE and other state leaders.",
-      "thread": [
-        {
-          "title": "Deadline arrives for Colorado Department of Health order over ICE detention center tuberculosis case",
+          "title": "See email called \"smoking gun\" in Colorado's lawsuit alleging White House retaliation, White House denies tie to Tina Peters",
           "summary": "",
           "source": "CBS Colorado",
-          "topic": "public-health",
-          "url": "https://www.cbsnews.com/colorado/video/deadline-arrives-for-colorado-department-of-health-order-over-ice-detention-center-tuberculosis-case/",
-          "published_at": "2026-08-18T03:31:00+00:00",
+          "topic": "civil-litigation",
+          "url": "https://www.cbsnews.com/colorado/news/email-smoking-gun-colorados-lawsuit-alleging-white-house-retaliation-tina-peters/",
+          "published_at": "2026-08-21T20:01:31+00:00",
           "image": {
-            "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/18/1a8e52f2-865b-487c-92ee-8e207740d506/thumbnail/1024x576/26d71d4c9410ad0943c98db1dd9d1d3c/c9132591bd13e177cbfb3dc608242066.jpg",
+            "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2025/12/11/68f9c55e-5af0-4d0c-a824-1be215a8061f/thumbnail/1024x576/9c69d09b56003b1e08196a749accf930/flags.jpg",
             "alt": ""
           },
-          "uid": "fca7a1c1-45c4-44c8-ae23-3f087a39371f",
-          "description": "Monday is the deadline for the GEO Group to turn over information about a case of tuberculosis inside the Aurora ICE Detention Center.",
+          "uid": "0c32bba4-a9a5-4910-b078-d8f8115c1ec4",
+          "description": "New exhibits in the federal court case Colorado vs. Trump, which alleges the Trump administration orchestrated an \"unconstitutional scheme to attack and punish the state,\" reveal communications between the White House and federal agencies on the topic of Colorado.",
           "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
-        },
-        {
-          "title": "Aurora detention center refuses to hand over information, documents about tuberculosis case",
-          "summary": "",
-          "source": "9NEWS",
-          "topic": "public-health",
-          "url": "https://www.9news.com/article/news/politics/aurora-detention-center-information-documents-tuberculosis-case/73-631186cb-4716-479d-b3f0-24c9010a0fbf",
-          "published_at": "2026-08-19T03:23:25+00:00",
-          "image": {
-            "url": "https://media.tegna-media.com/assets/KUSA/images/667d75ee-1b74-45dc-a829-de2221668666/20260819T000602/667d75ee-1b74-45dc-a829-de2221668666_750x422.jpg",
-            "alt": ""
-          },
-          "uid": "28b2dae3-332c-43e2-9562-7da1474151cf",
-          "description": "The facility denies any active tuberculosis cases but has refused to hand over any necessary information to CDPHE and other state leaders."
         }
       ]
     },
     {
-      "title": "New Colorado law expands disability protections for students amid federal education changes",
-      "summary": "",
+      "title": "Erie mineral rights deal falls apart as SM Energy cancels contract for Colorado town",
+      "summary": "An energy company is backing out of a multimillion-dollar mineral rights deal with the Town of Erie, a small town about 12 miles east of Boulder, after residents worked to put the agreement to a ballot vote.",
       "source": "CBS Colorado",
-      "topic": "education",
-      "url": "https://www.cbsnews.com/colorado/news/new-colorado-law-expands-disability-protections-for-students-amid-federal-education-changes/",
-      "published_at": "2026-08-13T19:27:00+00:00",
+      "topic": "other",
+      "url": "https://www.cbsnews.com/colorado/news/erie-mineral-rights-sm-energy-cancels-contract-colorado/",
+      "published_at": "2026-08-20T12:53:02+00:00",
       "image": {
-        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/04/14/dcb2a704-59b7-4d13-9d2e-161241027d06/thumbnail/1024x576/7f48f5ebec9db18b11d4c8383ec8c6bf/gettyimages-1345022898.jpg",
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/06/22/2abb6302-2d12-43f2-9ecd-40f4306dc245/thumbnail/1024x576/4ab99d03ca8aea04f2f2365aca9dbce0/erie-mineral-rights-reconsidered-10pkg-transfer-frame-0.jpg",
         "alt": ""
       },
-      "uid": "a27bd83b-bd39-4a33-9137-ef4fa4afe89a",
-      "description": "Advocates say the law was motivated in part by changes at the U.S. Department of Education.",
+      "uid": "b2743c6c-0acd-4480-ad65-05dfd964ea55",
+      "description": "An energy company is backing out of a multimillion-dollar mineral rights deal with the Town of Erie after residents worked to put the agreement to a ballot vote.",
       "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
     },
     {
-      "title": "Universal Preschool providers face weeks-long waits for help after state downsizes support staff",
-      "summary": "Support for UPK — Colorado's universal preschool program, which pays for part of every 4-year-old's preschool — went from 32 local organizations to a help desk with three state staffers, leaving preschool providers hanging ahead of the school year.",
-      "source": "9NEWS",
-      "topic": "education",
-      "url": "https://www.9news.com/article/news/education/colorado-upk-providers-face-weeks-long-waits-for-help-after-state-downsizes-support-staff/73-17d37c09-1589-4c81-86e3-b195df859e9d",
-      "published_at": "2026-08-14T00:31:30+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KUSA/images/d43e79cb-9bca-48d1-bb2a-c4e9bbc8dcad/20260814T001527/d43e79cb-9bca-48d1-bb2a-c4e9bbc8dcad_750x422.jpg",
-        "alt": ""
-      },
-      "uid": "2d84d13d-e432-4e18-a799-3039877dd754",
-      "description": "UPK support in Colorado went from 32 local organizations to a help desk with three state staffers, leaving preschool providers hanging ahead of the school year."
-    },
-    {
-      "title": "Colorado among states suing Meta, company behind Facebook and Instagram",
+      "title": "Federal judge blocks Colorado law requiring health inspections of immigrant detention centers",
       "summary": "",
       "source": "CBS Colorado",
-      "topic": "civil-litigation",
-      "url": "https://www.cbsnews.com/colorado/video/colorado-among-states-suing-meta-company-behind-facebook-and-instagram/",
-      "published_at": "2026-08-19T13:29:00+00:00",
+      "topic": "immigration-enforcement",
+      "url": "https://www.cbsnews.com/colorado/news/health-inspections-immigrant-detention-centers-federal-judge-colorado-law/",
+      "published_at": "2026-08-20T23:40:24+00:00",
       "image": {
-        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/19/589357a4-3c95-47c3-8fcd-95f7fd59b5cf/thumbnail/1024x576/85f8681a04102a874d7e680aa4d33596/81f6a089ca7232a3dd12268d17138e8c.jpg",
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/20/0136b9ef-341e-42b9-beaa-b1c4a43879d6/thumbnail/1024x576/540ea3fa73d28c237df3231dc752a39c/ice.jpg",
         "alt": ""
       },
-      "uid": "a2b16f12-d701-484d-882c-17a89bcdaec7",
-      "description": "Colorado is among 29 states suing Meta, the company behind Facebook and Instagram, over the social media platforms and claims of addiction for children.",
+      "uid": "27c3eb9d-0f28-47f0-a980-824c28337202",
+      "description": "A federal judge in Denver has blocked parts of a new state law​ requiring health and safety inspections of centers that detain immigrants.",
       "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
     },
     {
@@ -757,8 +745,97 @@
       "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
     },
     {
+      "title": "Colorado sues Aurora ICE detention facility over failure to comply in tuberculosis investigation",
+      "summary": "A tuberculosis case first reported in June inside the ICE detention center in Aurora, a large suburb 40 miles SE of Boulder, turned into a standoff. State health officials set a deadline for the facility's operator, the GEO Group, to hand over information; when it passed without compliance, Colorado sued, saying investigators had been stonewalled.",
+      "source": "9NEWS",
+      "topic": "immigration-enforcement",
+      "url": "https://www.9news.com/article/news/local/colorado-sues-aurora-ice-detention-facility-operators-to-force-cooperation-in-tuberculosis-investigation/73-b927e4a2-6915-4422-876b-94289a1c1141",
+      "published_at": "2026-08-19T23:45:11+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/cfa9ac1e-003f-45b5-9a29-c4eaf75b9782/20260801T004916/cfa9ac1e-003f-45b5-9a29-c4eaf75b9782_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "054dffa4-7472-4f83-abff-8516663f5feb",
+      "description": "A case of active tuberculosis was first reported at the facility in June. Health officials said they have been stonewalled in their investigation.",
+      "thread": [
+        {
+          "title": "Deadline arrives for Colorado Department of Health order over ICE detention center tuberculosis case",
+          "summary": "",
+          "source": "CBS Colorado",
+          "topic": "public-health",
+          "url": "https://www.cbsnews.com/colorado/video/deadline-arrives-for-colorado-department-of-health-order-over-ice-detention-center-tuberculosis-case/",
+          "published_at": "2026-08-18T03:31:00+00:00",
+          "image": {
+            "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/18/1a8e52f2-865b-487c-92ee-8e207740d506/thumbnail/1024x576/26d71d4c9410ad0943c98db1dd9d1d3c/c9132591bd13e177cbfb3dc608242066.jpg",
+            "alt": ""
+          },
+          "uid": "fca7a1c1-45c4-44c8-ae23-3f087a39371f",
+          "description": "Monday is the deadline for the GEO Group to turn over information about a case of tuberculosis inside the Aurora ICE Detention Center.",
+          "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+        },
+        {
+          "title": "Colorado sues Aurora ICE detention facility over failure to comply in tuberculosis investigation",
+          "summary": "",
+          "source": "9NEWS",
+          "topic": "immigration-enforcement",
+          "url": "https://www.9news.com/article/news/local/colorado-sues-aurora-ice-detention-facility-operators-to-force-cooperation-in-tuberculosis-investigation/73-b927e4a2-6915-4422-876b-94289a1c1141",
+          "published_at": "2026-08-19T23:45:11+00:00",
+          "image": {
+            "url": "https://media.tegna-media.com/assets/KUSA/images/cfa9ac1e-003f-45b5-9a29-c4eaf75b9782/20260801T004916/cfa9ac1e-003f-45b5-9a29-c4eaf75b9782_750x422.jpg",
+            "alt": ""
+          },
+          "uid": "054dffa4-7472-4f83-abff-8516663f5feb",
+          "description": "A case of active tuberculosis was first reported at the facility in June. Health officials said they have been stonewalled in their investigation."
+        }
+      ]
+    },
+    {
+      "title": "New federal rule cuts Medicaid funding for gender affirming care for minors",
+      "summary": "In a statement, HCPF, the Colorado Department of Health Care Policy and Financing, said it does not have the authority to cover these services without federal funding.",
+      "source": "9NEWS",
+      "topic": "public-health",
+      "url": "https://www.9news.com/article/news/politics/federal-rule-cuts-medicaid-funding-gender-affirming-care-minors/73-c1f48b55-667a-4d78-bb70-ca4a3552608b",
+      "published_at": "2026-08-20T01:01:04+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/d467020c-e85c-4c40-ab5c-a4791adb506b/20260819T233512/d467020c-e85c-4c40-ab5c-a4791adb506b_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "3488ab62-338b-46e1-9751-412a7e7a83f4",
+      "description": "In a statement, HCPF said it does not have the authority to cover these services without federal funding."
+    },
+    {
+      "title": "Denver's ShotSpotter gunshot detection system contract set to expire",
+      "summary": "",
+      "source": "CBS Colorado",
+      "topic": "policing",
+      "url": "https://www.cbsnews.com/colorado/news/denver-gunshot-detection-system-shotspotter-contract-expires/",
+      "published_at": "2026-08-21T19:27:56+00:00",
+      "image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/21/da496bba-49c8-43b0-8d1f-76a5ad2ddf60/thumbnail/1024x576/540046760b79b8effca55396fdabf94e/gettyimages-2173793253.jpg",
+        "alt": ""
+      },
+      "uid": "6ea283dd-989c-493f-9f07-d1c296b78e2a",
+      "description": "The Denver Police Department says it will phase out the use of ShotSpotter gunshot detection technology by the end of 2026 as the company's contract comes to an end.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    },
+    {
+      "title": "Colorado among states suing Meta, company behind Facebook and Instagram",
+      "summary": "",
+      "source": "CBS Colorado",
+      "topic": "civil-litigation",
+      "url": "https://www.cbsnews.com/colorado/video/colorado-among-states-suing-meta-company-behind-facebook-and-instagram/",
+      "published_at": "2026-08-19T13:29:00+00:00",
+      "image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/19/589357a4-3c95-47c3-8fcd-95f7fd59b5cf/thumbnail/1024x576/85f8681a04102a874d7e680aa4d33596/81f6a089ca7232a3dd12268d17138e8c.jpg",
+        "alt": ""
+      },
+      "uid": "a2b16f12-d701-484d-882c-17a89bcdaec7",
+      "description": "Colorado is among 29 states suing Meta, the company behind Facebook and Instagram, over the social media platforms and claims of addiction for children.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    },
+    {
       "title": "Castle Rock man pleads guilty to attempting to support ISIS after arrest at Denver airport in 2023",
-      "summary": "A Colorado man pleaded guilty to terrorism charges after pledging to serve as an ISIS fighter. He was later identified as Davin Meyer of Castle Rock, arrested in 2023 as he tried to board a flight to Turkey from the Denver airport, according to FBI Denver.",
+      "summary": "",
       "source": "9NEWS",
       "topic": "violent-crime",
       "url": "https://www.9news.com/article/news/crime/castle-rock-man-pleads-guilty-attempting-to-support-isis/73-ff66d186-96c5-4c4b-929c-17eb769449a2",
@@ -768,99 +845,30 @@
         "alt": ""
       },
       "uid": "3a269630-9c1a-402b-a378-0588fde96c36",
-      "description": "Davin Meyer has pleaded guilty to attempting to support ISIS after being arrested trying to board a flight to Turkey, according to FBI Denver.",
-      "thread": [
-        {
-          "title": "Colorado man pleads guilty to terrorism charged after pledging to serve as ISIS fighter",
-          "summary": "",
-          "source": "CBS Colorado",
-          "topic": "other",
-          "url": "https://www.cbsnews.com/colorado/video/colorado-man-pleads-guilty-to-terrorism-charged-after-pledging-to-serve-as-isis-fighter/",
-          "published_at": "2026-08-13T12:32:00+00:00",
-          "image": {
-            "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/13/b9230ebc-5830-48f0-9697-81d537eb0295/thumbnail/1024x576/acb709f6de3beda20749c93e7ca44ced/854d8747b2ccde369120aa3578f5577f.jpg",
-            "alt": ""
-          },
-          "uid": "1522eb0b-9651-4815-8819-080dbd046b0d",
-          "description": "A Colorado man has pleaded guilty to terrorism charges after pledging to serve as an ISIS fighter.",
-          "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
-        },
-        {
-          "title": "Castle Rock man pleads guilty to attempting to support ISIS after arrest at Denver airport in 2023",
-          "summary": "",
-          "source": "9NEWS",
-          "topic": "violent-crime",
-          "url": "https://www.9news.com/article/news/crime/castle-rock-man-pleads-guilty-attempting-to-support-isis/73-ff66d186-96c5-4c4b-929c-17eb769449a2",
-          "published_at": "2026-08-18T01:51:26+00:00",
-          "image": {
-            "url": "https://media.tegna-media.com/assets/KUSA/images/590323425/590323425_750x422.png",
-            "alt": ""
-          },
-          "uid": "3a269630-9c1a-402b-a378-0588fde96c36",
-          "description": "Davin Meyer has pleaded guilty to attempting to support ISIS after being arrested trying to board a flight to Turkey, according to FBI Denver."
-        }
-      ]
+      "description": "Davin Meyer has pleaded guilty to attempting to support ISIS after being arrested trying to board a flight to Turkey, according to FBI Denver."
     },
     {
-      "title": "Contractor at ICE detention facility in Aurora to appear in court on assault charge",
-      "summary": "Brandon Booth has been accused of opening fire on two protesters outside the ICE detention facility in Aurora, a large city just east of Denver, hitting one of them in the foot.",
-      "source": "CBS Colorado",
-      "topic": "immigration-enforcement",
-      "url": "https://www.cbsnews.com/colorado/video/contractor-at-ice-detention-facility-in-aurora-to-appear-in-court-on-assault-charge/",
-      "published_at": "2026-08-13T12:41:00+00:00",
-      "image": {
-        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/13/17f861c2-a2a3-492a-9a90-b5c04eb55c83/thumbnail/1024x576/f043d2fc7d48f03c7f7ad566aea2743d/285239e0e133403f2c9db812f3a903f3.jpg",
-        "alt": ""
-      },
-      "uid": "feb82c91-282f-4fb0-a96c-2ff17c81270a",
-      "description": "Brandon Booth has been accused of opening fire on two protesters outside the ICE detention facility, hitting one of them in the foot.",
-      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
-    },
-    {
-      "title": "Report at center of lawsuit against Colorado Secretary of State Griswold may have been destroyed",
-      "summary": "Former employees told CBS Colorado that Colorado Secretary of State Jena Griswold refused to take custody of the consultant's report because it was highly critical of her and she didn't want it subject to open records requests.",
-      "source": "CBS Colorado",
-      "topic": "elections-politics",
-      "url": "https://www.cbsnews.com/colorado/video/report-at-center-of-lawsuit-against-colorado-secretary-of-state-griswold-may-have-been-destroyed/",
-      "published_at": "2026-08-14T13:34:00+00:00",
-      "image": {
-        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/14/891e6bea-105e-4166-8b42-afcf50795523/thumbnail/1024x576/aee05b73dba2d55e2780788ce215240f/e170a5ec704bc08b7dfb1f7ff08ecb18.jpg",
-        "alt": ""
-      },
-      "uid": "3b16f8a7-a81a-4f2b-9e07-e97275acfbc4",
-      "description": "Former employees told CBS Colorado that Jena Griswold refused to take custody of the consultant's report because it was highly critical of her and she didn't want it subject to open records requests.",
-      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
-    },
-    {
-      "title": "Aurora officer accused of using drugs confiscated during traffic stop resigns",
-      "summary": "Officer Michael Gallagher resigned in lieu of termination after serious policy violations were identified, said police in Aurora, the large city just east of Denver.",
+      "title": "Latino Pride returns after ICE fears led to 2025 cancellation",
+      "summary": "",
       "source": "9NEWS",
-      "topic": "policing",
-      "url": "https://www.9news.com/article/news/crime/aurora-officer-accused-using-confiscated-drugs-resigns/73-e693e853-43a9-42eb-b137-44e53630f0ef",
-      "published_at": "2026-08-13T04:02:07+00:00",
+      "topic": "immigration-enforcement",
+      "url": "https://www.9news.com/article/news/local/latino-pride-returns-ice-fears-2025-cancellation/73-85142c11-da40-4faf-a149-6851d8df1110",
+      "published_at": "2026-08-20T23:06:45+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/KUSA/images/9bb3fc5a-a5c2-4988-bd52-27fd7b7e9b89/20260519T032029/9bb3fc5a-a5c2-4988-bd52-27fd7b7e9b89_750x422.jpg",
+        "url": "https://media.tegna-media.com/assets/KUSA/images/d2b7175d-a2bf-4d90-8bda-82fd8a01782f/20260820T222401/d2b7175d-a2bf-4d90-8bda-82fd8a01782f_750x422.jpg",
         "alt": ""
       },
-      "uid": "e1956d9c-a012-4c70-b10f-0dd4972d3a8d",
-      "description": "Officer Michael Gallagher resigned in lieu of termination after serious policy violations were identified, Aurora Police said."
+      "uid": "077fd5ca-b6a4-48b5-850f-fb93a35dde72",
+      "description": "\"It's something that affects all of us and it is something that affected my own family just recently,\" one organizer said."
     }
   ],
   "sports": [
     {
-      "team": "Rockies",
-      "scores": [
-        "unveiling Larry Walker statue Sunday",
-        "fall to Dodgers as Ohtani homers",
-        "Dodgers 11, Rockies 5",
-        "designates Lorenzen for assignment",
-        "Giants 7, Rockies 1",
-        "Rockies 6, Diamondbacks 4"
-      ]
-    },
-    {
       "team": "Broncos",
       "scores": [
+        "cornerback Moss stands out at camp",
+        "preseason home opener vs. Packers",
+        "Waddle beats Surtain on deep ball",
         "names new team behind mascot Thunder",
         "tempers flare at camp practice",
         "camp notes: Waddle, Wattenberg back",
@@ -872,13 +880,26 @@
     {
       "team": "Nuggets",
       "scores": [
+        "names Noah Reed play-by-play voice",
+        "trades Peyton Watson in 4-team deal",
         "to play preseason game at CU Boulder"
       ]
     },
     {
       "team": "Buffaloes",
       "scores": [
-        "unveils new tailgate street party"
+        "process server misses Deion at practice"
+      ]
+    },
+    {
+      "team": "Rockies",
+      "scores": [
+        "Dodgers sweep Rockies in 10 innings",
+        "unveiling Larry Walker statue Sunday",
+        "fall to Dodgers as Ohtani homers",
+        "Dodgers 11, Rockies 5",
+        "designates Lorenzen for assignment",
+        "Giants 7, Rockies 1"
       ]
     }
   ]
