@@ -1,0 +1,252 @@
+{
+  "shortName": "Boulder, CO",
+  "metroCode": "14500",
+  "metro": "Boulder, CO",
+  "date": "2026-08-20",
+  "are_you_ok": [
+    {
+      "title": "Wildfire breaks out near Boulder Canyon; evacuation warning lifted",
+      "summary": "The People's Crossing Fire briefly prompted an evacuation warning for areas near Eben G. Fine Park, the park at the western edge of Boulder where Boulder Canyon opens into town. Officials said the fire was out by 10:22 a.m.",
+      "source": "Boulder Reporting Lab",
+      "topic": "wildfire",
+      "url": "https://boulderreportinglab.org/2026/08/20/wildfire-breaks-out-near-boulder-canyon-evacuation-warning-lifted/",
+      "published_at": "2026-08-20T16:21:36+00:00",
+      "image": {
+        "url": "https://i0.wp.com/boulderreportinglab.org/wp-content/uploads/2026/08/IMG_6507-scaled.jpeg?fit=1024%2C683&ssl=1",
+        "alt": ""
+      },
+      "uid": "6f0e6f94-46e6-4d5d-8a90-ab5a0cd571cc",
+      "questions": [
+        "Were you anywhere near the canyon when that fire started?",
+        "Did the evacuation warning reach your neighborhood?",
+        "Is smoke from fires like that something you deal with often up there?"
+      ],
+      "description": "The People’s Crossing Fire briefly prompted an evacuation warning for areas near Eben G. Fine Park. Officials said the fire was out by 10:22 a.m The post Wildfire breaks out near Boulder Canyon; evacuation warning lifted appeared first on The Boulder Reporting Lab.",
+      "logo": "https://boulderreportinglab.org/wp-content/uploads/2021/06/cropped-brl-favicon-32x32.png"
+    }
+  ],
+  "conversation_starters": [
+    {
+      "title": "Grab your free tulip bulbs from Boulder businesses",
+      "summary": "Boulder's annual tulip bulb giveaway, organized by the Parks and Recreation Department and Downtown Boulder Partnership, the nonprofit that promotes the downtown business district, offers free bulbs starting Aug. 19.",
+      "source": "9NEWS",
+      "topic": "civic-events",
+      "url": "https://www.9news.com/article/life/style/colorado-guide/free-tulip-bulbs-pearl-street-mall/73-e56bcded-31d9-4808-8ac4-c82601dff901",
+      "published_at": "2026-08-20T10:51:00+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/a9a3010d-3b0d-4549-9c0d-1305780305c6/a9a3010d-3b0d-4549-9c0d-1305780305c6_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "4f8e3954-a6a7-4afa-a973-d03501d044ee",
+      "questions": [
+        "Have you ever picked up bulbs from that giveaway?",
+        "Do you get downtown much for things like that?"
+      ],
+      "description": "Boulder's annual tulip bulb giveaway, organized by the Parks and Recreation Department and Downtown Boulder Partnership, offers free bulbs starting Aug. 19."
+    },
+    {
+      "title": "Colorado weather: Near-record heat Friday before monsoon storms return this weekend",
+      "summary": "",
+      "source": "CBS Colorado",
+      "topic": "heat",
+      "url": "https://www.cbsnews.com/colorado/video/colorado-weather-near-record-heat-friday-before-monsoon-storms-return-this-weekend/",
+      "published_at": "2026-08-20T16:55:00+00:00",
+      "image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/20/b9a2122c-17d2-446c-b3ad-f2d213f7b8f7/thumbnail/1024x576/d2815e073979b18c7a11ba7a428823b2/5f4c532c3f648b7c517e1a898a5a9ed8.jpg",
+        "alt": ""
+      },
+      "uid": "b6693102-565c-4035-8628-edec787bc52b",
+      "questions": [
+        "How are you handling the heat right now?",
+        "Do the monsoon storms usually change your plans much?"
+      ],
+      "description": "Watch meteorologist Callie Zanandrie's forecast.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    },
+    {
+      "title": "Lafayette is searching for 216 cemetery plot holders. 9NEWS found 1.",
+      "summary": "Lafayette, a small city about 10 miles east of Boulder, faces challenges finding over 200 plot holders at its historic cemetery following burial record mishaps.",
+      "source": "9NEWS",
+      "topic": "human-interest",
+      "url": "https://www.9news.com/article/news/local/lafayette-cemetery-plot-holders/73-d8e5d210-cfbc-48e3-a437-01b74f644678",
+      "published_at": "2026-08-20T00:42:58+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/f50a4911-1aee-4e87-8f32-84a495804bf7/20260819T222714/f50a4911-1aee-4e87-8f32-84a495804bf7_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "33785456-23b4-4b61-8f02-2c095dc5ff35",
+      "questions": [
+        "Had you heard about the cemetery record mix-up over in Lafayette?",
+        "Do you spend much time in that part of the county?"
+      ],
+      "description": "Lafayette faces challenges finding over 200 plot holders at its historic cemetery following burial record mishaps."
+    },
+    {
+      "title": "United's Denver flight training hub grows to 86 simulators, more expansion ahead",
+      "summary": "",
+      "source": "9NEWS",
+      "topic": "business-jobs",
+      "url": "https://www.9news.com/article/money/business/united-denver-flight-training-hub-grows/73-90c7af6f-e540-4d9f-b5b9-f96938dcf491",
+      "published_at": "2026-08-20T22:51:03+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/c70d2da4-5f7c-4c7e-a358-ac5621236419/20260820T224950/c70d2da4-5f7c-4c7e-a358-ac5621236419_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "af3e8b7b-a6ef-4a4b-98b7-2f6aa634960c",
+      "questions": [
+        "Do you fly out of Denver much?",
+        "Had you heard about the training center expansion?"
+      ],
+      "description": "United Airlines just finished the first phase of a multi-year expansion project to build out more training space."
+    },
+    {
+      "title": "Two injured in separate bear attacks in Steamboat Springs, Aspen, as CPW warns of record bear activity",
+      "summary": "One bear was euthanized after the attack in Aspen, a mountain resort town about 150 miles southwest of Boulder. Colorado Parks and Wildlife said drought and a lack of natural food are pushing bears closer to homes and people.",
+      "source": "9NEWS",
+      "topic": "wildlife",
+      "url": "https://www.9news.com/article/life/animals/bear-attacks-steamboat-springs-aspen-injures/73-2f38d9ad-0a56-4ab4-96ee-7d1ab1f0ee94",
+      "published_at": "2026-08-20T02:49:43+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/724c9b2f-5549-4d3f-ad0c-d7d354af7dd0/724c9b2f-5549-4d3f-ad0c-d7d354af7dd0_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "c379e712-ce9c-4bab-84dc-88c3ba388da1",
+      "questions": [
+        "Have you been seeing more bears around your place this year?",
+        "Do you have to do anything special with trash where you live?"
+      ],
+      "description": "One bear was euthanized after the Aspen attack. Colorado Parks and Wildlife said drought and a lack of natural food are pushing bears closer to homes and people."
+    },
+    {
+      "title": "Bear dies in hot car after destroying it",
+      "summary": "Colorado wildlife officials warn of increased bear activity, urging residents to secure attractants and lock vehicles after a bear died in a car in Colorado Springs, a city about 100 miles south of Boulder.",
+      "source": "9NEWS",
+      "topic": "wildlife",
+      "url": "https://www.9news.com/article/life/animals/bear-dies-hot-car/73-1f33628a-d32b-48c8-a51e-d14b91755c5f",
+      "published_at": "2026-08-20T13:03:26+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/bf104597-45a1-46fb-bed0-d3777724f138/20260820T124525/bf104597-45a1-46fb-bed0-d3777724f138_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "0a29e3b3-483b-4fc1-b117-db8c43bdc50f",
+      "questions": [
+        "Have you started locking the car for bears too?",
+        "Is bear activity a normal part of summer where you are?"
+      ],
+      "description": "Colorado wildlife officials warn of increased bear activity, urging residents to secure attractants and lock vehicles after a bear died in a car in Colorado Springs."
+    }
+  ],
+  "sports": [
+    {
+      "team": "Nuggets",
+      "scores": [
+        "names Noah Reed play-by-play voice",
+        "trades Peyton Watson in 4-team deal"
+      ]
+    },
+    {
+      "team": "Broncos",
+      "scores": [
+        "Waddle beats Surtain on deep ball"
+      ]
+    },
+    {
+      "team": "Buffaloes",
+      "scores": [
+        "process server misses Deion at practice"
+      ]
+    },
+    {
+      "team": "Rockies",
+      "scores": [
+        "Dodgers sweep Rockies in 10 innings"
+      ]
+    }
+  ],
+  "weather_alert": [
+    {
+      "uid": "652d7c8a-0b7c-58df-a2da-143aecac2c1b",
+      "event": "Air Quality Alert",
+      "area": "Boulder",
+      "severity": "Unknown",
+      "summary": "An Ozone Action Day alert is in effect for Boulder County, the county Boulder sits in, along the Front Range Urban Corridor. Hot, sunny, stagnant weather is expected to push ozone to levels unhealthy for sensitive groups, with the highest concentrations in the southern and western Denver metro area. Active children and adults and people with lung disease such as asthma should reduce prolonged or heavy outdoor exertion.",
+      "description": "Air Quality Alert issued August 20 at 4:10PM MDT by NWS Denver CO\n\nThe Colorado Department of Public Health and Environment has\nissued the following...\n\nWHAT...Ozone Action Day Alert.\n\nWHERE...Douglas, Jefferson, Denver, western Arapahoe, western\nAdams, Broomfield, Boulder, Larimer, and Weld Counties\n\nWHEN...400 PM Thursday August 20 to 400 PM Friday August 21\n\nIMPACTS...Ozone Action Day Alert is now in effect for the Front\nRange Urban Corridor.  Hot, sunny, and stagnant weather will allow\nozone to reach the Unhealthy for Sensitive Groups concentration on\nThursday and Friday. The highest concentrations are expected in\nsouthern and western portions of the Denver Metro Area.  For\nColorado air quality conditions, forecasts, and advisories, visit:\nhttps://www.colorado.gov/airquality/colorado_summary.aspx   If\npossible, please help us reduce ozone pollution by limiting\ndriving gas and diesel-powered vehicles until at least 4 p.m.\nFriday, August 21, 2026. Colorado is also addressing ozone\npollution through state policies. For more information about\nhealth impacts and how ozone pollution forms in Colorado, visit:\nhttps://cdphe.colorado.gov/ozone- pollution-and-your-health\n\nHEALTH INFORMATION...Increasing likelihood of respiratory symptoms\nand breathing discomfort in active children and adults and people\nwith lung disease, such as asthma. Active children and adults, and\npeople with lung disease, such as asthma, should reduce prolonged\nor heavy outdoor exertion.",
+      "ends": "2026-08-21T16:00:00-06:00"
+    }
+  ],
+  "you_should_know": [
+    {
+      "title": "Colorado regulators approve Xcel Energy rate increase, raising monthly electric bills",
+      "summary": "Under the approved plan, residential customers of Xcel Energy, the electric utility company, will see an average increase of about $5 per month, while commercial customers will pay about $7 more each month.",
+      "source": "CBS Colorado",
+      "topic": "other",
+      "url": "https://www.cbsnews.com/colorado/video/colorado-regulators-approve-xcel-energy-rate-increase-raising-monthly-electric-bills-1/",
+      "published_at": "2026-08-20T16:15:00+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/20/3a0416aa-2e1f-4305-8a90-b9914b5edc06/thumbnail/1024x576/b4d640745e2e9a5342309fbe7c50b41c/f087534dab6bd6a79a3c66c0c160ce7b.jpg",
+        "alt": ""
+      },
+      "uid": "6df32486-a071-4573-8a54-dfea83a88e69",
+      "description": "Under the approved plan, residential customers will see an average increase of about $5 per month, while commercial customers will pay about $7 more each month.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    },
+    {
+      "title": "Erie mineral rights deal falls apart as SM Energy cancels contract for Colorado town",
+      "summary": "An energy company is backing out of a multimillion-dollar mineral rights deal with the Town of Erie, a small town about 12 miles east of Boulder, after residents worked to put the agreement to a ballot vote.",
+      "source": "CBS Colorado",
+      "topic": "other",
+      "url": "https://www.cbsnews.com/colorado/news/erie-mineral-rights-sm-energy-cancels-contract-colorado/",
+      "published_at": "2026-08-20T12:53:02+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/06/22/2abb6302-2d12-43f2-9ecd-40f4306dc245/thumbnail/1024x576/4ab99d03ca8aea04f2f2365aca9dbce0/erie-mineral-rights-reconsidered-10pkg-transfer-frame-0.jpg",
+        "alt": ""
+      },
+      "uid": "b2743c6c-0acd-4480-ad65-05dfd964ea55",
+      "description": "An energy company is backing out of a multimillion-dollar mineral rights deal with the Town of Erie after residents worked to put the agreement to a ballot vote.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    },
+    {
+      "title": "Federal judge blocks Colorado law requiring health inspections of immigrant detention centers",
+      "summary": "",
+      "source": "CBS Colorado",
+      "topic": "immigration-enforcement",
+      "url": "https://www.cbsnews.com/colorado/news/health-inspections-immigrant-detention-centers-federal-judge-colorado-law/",
+      "published_at": "2026-08-20T23:40:24+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/20/0136b9ef-341e-42b9-beaa-b1c4a43879d6/thumbnail/1024x576/540ea3fa73d28c237df3231dc752a39c/ice.jpg",
+        "alt": ""
+      },
+      "uid": "27c3eb9d-0f28-47f0-a980-824c28337202",
+      "description": "A federal judge in Denver has blocked parts of a new state law​ requiring health and safety inspections of centers that detain immigrants.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    },
+    {
+      "title": "New federal rule cuts Medicaid funding for gender affirming care for minors",
+      "summary": "In a statement, HCPF, the Colorado Department of Health Care Policy and Financing, said it does not have the authority to cover these services without federal funding.",
+      "source": "9NEWS",
+      "topic": "public-health",
+      "url": "https://www.9news.com/article/news/politics/federal-rule-cuts-medicaid-funding-gender-affirming-care-minors/73-c1f48b55-667a-4d78-bb70-ca4a3552608b",
+      "published_at": "2026-08-20T01:01:04+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/d467020c-e85c-4c40-ab5c-a4791adb506b/20260819T233512/d467020c-e85c-4c40-ab5c-a4791adb506b_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "3488ab62-338b-46e1-9751-412a7e7a83f4",
+      "description": "In a statement, HCPF said it does not have the authority to cover these services without federal funding."
+    },
+    {
+      "title": "Latino Pride returns after ICE fears led to 2025 cancellation",
+      "summary": "",
+      "source": "9NEWS",
+      "topic": "immigration-enforcement",
+      "url": "https://www.9news.com/article/news/local/latino-pride-returns-ice-fears-2025-cancellation/73-85142c11-da40-4faf-a149-6851d8df1110",
+      "published_at": "2026-08-20T23:06:45+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/d2b7175d-a2bf-4d90-8bda-82fd8a01782f/20260820T222401/d2b7175d-a2bf-4d90-8bda-82fd8a01782f_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "077fd5ca-b6a4-48b5-850f-fb93a35dde72",
+      "description": "\"It's something that affects all of us and it is something that affected my own family just recently,\" one organizer said."
+    }
+  ]
+}
