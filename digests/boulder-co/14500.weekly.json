@@ -4,8 +4,8 @@
   "metroCode": "14500",
   "metro": "Boulder, CO",
   "range": {
-    "start": "2026-08-15",
-    "end": "2026-08-21"
+    "start": "2026-08-17",
+    "end": "2026-08-23"
   },
   "are_you_ok": [
     {
@@ -61,7 +61,7 @@
     },
     {
       "title": "Sudden downpour strands drivers, prompts rescue efforts",
-      "summary": "Severe thunderstorms brought heavy rain and hail to Denver, about 30 miles southeast of Boulder, and the Colorado plains on a Saturday afternoon. The rain soaked parts of the state, leaving roads and trails muddy and prompting flood warnings in portions of the Denver metro area. One sudden downpour stranded drivers and prompted rescue efforts; fire Battalion Chief Jason Haley said calls all dropped at the same time and that people were stuck in their vehicles and could not get out.",
+      "summary": "",
       "source": "9NEWS",
       "topic": "flood",
       "url": "https://www.9news.com/article/weather/weather-colorado/sudden-downpour-strands-drivers-prompts-rescue-efforts-aurora-saturday/73-34f78507-50b7-4a32-96f4-fce84b81fc65",
@@ -75,87 +75,57 @@
       "questions": [
         "Did the downpour cause any trouble where you are?",
         "Has the rain been affecting your commute at all?"
+      ]
+    },
+    {
+      "title": "Severe storm threat continues Sunday in Colorado as scattered storms return",
+      "summary": "Colorado's stretch of heat eased as showers and thunderstorms returned, bringing the chance of severe weather across the state; the severe storm threat then carried into Sunday, with scattered storms returning.",
+      "source": "CBS Colorado",
+      "topic": "severe-weather",
+      "url": "https://www.cbsnews.com/colorado/video/colorado-weather-severe-storm-threat-continues-sunday-as-scattered-storms-return-through-thursday/",
+      "published_at": "2026-08-23T14:12:00+00:00",
+      "image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/23/3ca8c718-6c39-44cf-ae76-86ab6b08230f/thumbnail/1024x576/1c6e871f7a02490d718f0d703e511c3c/ae0a99bcfca31b1c4c4032681d410be6.jpg",
+        "alt": ""
+      },
+      "uid": "d1ac453d-bc4b-4a72-9387-4f56160f16dc",
+      "description": "Watch meteorologist Callie Zanandrie's forecast.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg",
+      "questions": [
+        "Have the scattered storms been causing any trouble around Boulder?",
+        "Is the severe storm threat affecting any plans or the commute?"
       ],
       "thread": [
         {
-          "title": "Severe thunderstorms bring heavy rain, hail to Denver Saturday",
+          "title": "Colorado heat eases as showers and thunderstorms return, severe weather possible this weekend",
           "summary": "",
-          "source": "9NEWS",
+          "source": "CBS Colorado",
           "topic": "severe-weather",
-          "url": "https://www.9news.com/article/weather/severe-weather/severe-storm-warning-denver-metro-area/73-6e35649b-2014-442b-b63b-b6c657e43002",
-          "published_at": "2026-08-15T20:18:16+00:00",
+          "url": "https://www.cbsnews.com/colorado/video/colorado-heat-eases-as-showers-and-thunderstorms-return-severe-weather-possible-this-weekend/",
+          "published_at": "2026-08-22T15:23:00+00:00",
           "image": {
-            "url": "https://media.tegna-media.com/assets/KUSA/images/e46730ea-658e-49b9-a98f-8b395aed232b/20260815T143244/e46730ea-658e-49b9-a98f-8b395aed232b_750x422.jpg",
+            "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/22/7a435a28-16e5-4a92-b46f-5da85b7e8e6b/thumbnail/1024x576/a476b977ab6dca5a184b5332e70f3aca/3e7fcf9dcf60384174d796220158a44f.jpg",
             "alt": ""
           },
-          "uid": "ae57a684-66f0-4a1d-b7e4-1fbc799f8582",
-          "description": "Severe thunderstorms brought heavy rain and hail Saturday afternoon in Denver and on the Colorado plains."
+          "uid": "ad7cd2d8-c84b-4850-9c2d-f68918509e39",
+          "description": "Watch meteorologist Callie Zanandrie's forecast.",
+          "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
         },
         {
-          "title": "Heavy rain drenches Colorado",
+          "title": "Severe storm threat continues Sunday in Colorado as scattered storms return",
           "summary": "",
-          "source": "9NEWS",
-          "topic": "flood",
-          "url": "https://www.9news.com/article/weather/weather-colorado/rain-totals-colorado/73-4e5d798b-7f70-4a5c-935b-37aaf948596c",
-          "published_at": "2026-08-16T17:49:22+00:00",
+          "source": "CBS Colorado",
+          "topic": "severe-weather",
+          "url": "https://www.cbsnews.com/colorado/video/colorado-weather-severe-storm-threat-continues-sunday-as-scattered-storms-return-through-thursday/",
+          "published_at": "2026-08-23T14:12:00+00:00",
           "image": {
-            "url": "https://media.tegna-media.com/assets/KUSA/images/a9c4301f-9250-455b-a16d-89b14ee6c50a/20260816T123709/a9c4301f-9250-455b-a16d-89b14ee6c50a_750x422.jpg",
+            "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/23/3ca8c718-6c39-44cf-ae76-86ab6b08230f/thumbnail/1024x576/1c6e871f7a02490d718f0d703e511c3c/ae0a99bcfca31b1c4c4032681d410be6.jpg",
             "alt": ""
           },
-          "uid": "2cdcb4b8-d62f-4c76-9cc0-675301878f0b",
-          "description": "Heavy rain soaked parts of Colorado this weekend, leaving roads and trails muddy and prompting flood warnings in portions of the Denver metro area."
-        },
-        {
-          "title": "Sudden downpour strands drivers, prompts rescue efforts",
-          "summary": "",
-          "source": "9NEWS",
-          "topic": "flood",
-          "url": "https://www.9news.com/article/weather/weather-colorado/sudden-downpour-strands-drivers-prompts-rescue-efforts-aurora-saturday/73-34f78507-50b7-4a32-96f4-fce84b81fc65",
-          "published_at": "2026-08-17T03:51:19+00:00",
-          "image": {
-            "url": "https://media.tegna-media.com/assets/KUSA/images/7b1bfdd1-2926-468b-b181-e80f13d37676/20260817T035023/7b1bfdd1-2926-468b-b181-e80f13d37676_750x422.jpg",
-            "alt": ""
-          },
-          "uid": "ef350ef8-3cb6-41d0-a3c8-96f21cbc7522",
-          "description": "\"All the calls dropped at the same time,\" fire Battalion Chief Jason Haley said. \"Pretty much everybody was just stuck in their vehicles and couldn't get out.\""
+          "uid": "d1ac453d-bc4b-4a72-9387-4f56160f16dc",
+          "description": "Watch meteorologist Callie Zanandrie's forecast.",
+          "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
         }
-      ]
-    },
-    {
-      "title": "Record tying heat possible in Denver heading into the weekend",
-      "summary": "Record-tying heat is possible in Denver, about 30 miles southeast of Boulder.",
-      "source": "CBS Colorado",
-      "topic": "heat",
-      "url": "https://www.cbsnews.com/colorado/video/record-tying-heat-possible-in-denver-heading-into-the-weekend/",
-      "published_at": "2026-08-21T18:38:00+00:00",
-      "image": {
-        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/21/b2247c30-728c-434b-8545-f2f464dfb513/thumbnail/1024x576/cc10c2f6a448626e3d56ceca5fb88db9/616a5c467df506fbeaa1667f81a14c49.jpg",
-        "alt": ""
-      },
-      "uid": "65e66815-822d-45d8-b5a3-b5608f920fa6",
-      "description": "Watch Lauren Whitney's forecast",
-      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg",
-      "questions": [
-        "How are you holding up with the heat?",
-        "Is it changing any of your plans this week?"
-      ]
-    },
-    {
-      "title": "Here are the wildfires burning in Colorado",
-      "summary": "",
-      "source": "9NEWS",
-      "topic": "wildfire",
-      "url": "https://www.9news.com/article/news/local/wildfire/wildfires-burning-in-colorado/73-a06f70ba-1597-4506-84fe-1c06cf6f8bf8",
-      "published_at": "2026-08-16T16:07:29+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KUSA/images/e71873f6-2ea3-409b-ad6c-d0199e0ef84f/20260806T231622/e71873f6-2ea3-409b-ad6c-d0199e0ef84f_750x422.jpg",
-        "alt": ""
-      },
-      "uid": "59d11c13-ff9f-4818-9ffc-622b04f1b887",
-      "description": "Here's the latest on the fires burning across the state.",
-      "questions": [
-        "Are any of the fires close to you?",
-        "Has the smoke reached Boulder?"
       ]
     },
     {
@@ -175,6 +145,24 @@
       "questions": [
         "Did the storms come through your area?",
         "Is everything alright at home after the weather?"
+      ]
+    },
+    {
+      "title": "Denver heat breaks record Friday",
+      "summary": "The high temperature in Denver, the state capital, about 30 miles southeast of Boulder, reached triple digits for the seventh time this year.",
+      "source": "9NEWS",
+      "topic": "heat",
+      "url": "https://www.9news.com/article/weather/weather-colorado/denver-heat-breaks-record-friday/73-437b7b85-eca5-4644-94c6-84d8c62a916a",
+      "published_at": "2026-08-21T22:07:43+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/d00d4670-2099-45a2-871f-6ea03023be87/20260713T143711/d00d4670-2099-45a2-871f-6ea03023be87_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "778997a3-9767-43f6-ab81-f4067d3a491a",
+      "description": "The high temperature reached triple digits for the seventh time this year.",
+      "questions": [
+        "Have you been feeling the heat up your way?",
+        "Has it changed how you're spending time outside?"
       ]
     }
   ],
@@ -235,80 +223,51 @@
       ]
     },
     {
-      "title": "Bear's messy jaunt through Aspen restaurant one of thousands of encounters as drought leaves food sources scarce",
-      "summary": "Colorado is having a record bear season, with more than 6,100 incidents reported statewide, roughly double the same period last year. Colorado Parks and Wildlife says drought is drying up natural food sources and pushing bears into neighborhoods to look for calories, and wildlife officers are urging residents to secure trash and other attractants, backed by a new law that strengthens penalties for leaving them accessible. Two people were injured in separate bear attacks in Steamboat Springs, a mountain town about 110 miles northwest of Boulder, and Aspen, a mountain town about 130 miles southwest of Boulder, with one bear euthanized after the Aspen attack; another bear made a messy run through an Aspen restaurant.",
+      "title": "Olympian Jenny Simpson won't be able to run again after a cardiac event. Here's what she wants to focus on as she recovers.",
+      "summary": "Jenny Simpson, the Olympic medalist who ran for the University of Colorado, went into cardiac arrest in June while pacing runners at an event in North Carolina. She was later diagnosed with a rare heart condition, and has now said she will not be able to run again and is turning her focus to recovery.",
       "source": "CBS Colorado",
-      "topic": "wildlife",
-      "url": "https://www.cbsnews.com/colorado/news/colorado-bear-encounters-surge-food-restaurant-aspen/",
-      "published_at": "2026-08-21T01:23:22+00:00",
+      "topic": "human-interest",
+      "url": "https://www.cbsnews.com/colorado/news/jenny-simpson-cardiac-event-heart-condition-recovery-running/",
+      "published_at": "2026-08-22T18:54:58+00:00",
       "image": {
-        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/21/0be3317d-4682-4ca0-b3ff-506d4470703e/thumbnail/1024x576/391169762ba0d8b91bc72b4cd70ad720/bear.jpg",
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/21/66d4a45f-95d9-468f-88d4-7bd36f9527e6/thumbnail/1024x576/12494951d3a10e25571b896ac234b6bf/gettyimages-1178576631.jpg",
         "alt": ""
       },
-      "uid": "714bbb33-9da6-4edb-bdc9-09af8a7a360b",
-      "description": "Colorado Parks and Wildlife has received more than 6,000 bear reports so far this year, roughly double the number during the same period last year. Wildlife officials say drought conditions are reducing natural food sources and pushing bears into communities as they search for",
+      "uid": "1521d807-1915-431b-990a-6b927f8a0a07",
+      "description": "Olympian Jenny Simpson said she won't be able to run again after being diagnosed with a rare heart condition earlier this year.",
       "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg",
       "questions": [
-        "Have you had any bear encounters around Boulder?",
-        "Are people there talking about bears more this year?"
+        "Did you see the news about Jenny Simpson having to give up running?",
+        "Do you follow track at all?"
       ],
       "thread": [
         {
-          "title": "'Just so you know, the bear is up there': Colorado faces record bear season as new law cracks down",
+          "title": "Former CU track star says she can't run due to heart condition",
           "summary": "",
           "source": "9NEWS",
-          "topic": "other",
-          "url": "https://www.9news.com/article/weather/colorado-faces-record-bear-season-new-law-cracks-down/73-a87294ed-013e-4f53-b1ba-15080a7aa1b9",
-          "published_at": "2026-08-15T04:33:53+00:00",
+          "topic": "human-interest",
+          "url": "https://www.9news.com/article/sports/former-cu-track-star-jenny-simpson-says-she-cant-run-due-to-heart-condition/73-d7da4fa9-f5ba-47fb-88c2-9de4edda2f8e",
+          "published_at": "2026-08-21T03:35:02+00:00",
           "image": {
-            "url": "https://media.tegna-media.com/assets/KUSA/images/a26e8db9-02ef-4baa-88c6-471db9d43153/20260815T022418/a26e8db9-02ef-4baa-88c6-471db9d43153_750x422.jpg",
+            "url": "https://media.tegna-media.com/assets/KUSA/images/b617af81-4949-443e-b29d-e925d05adc82/20260821T030840/b617af81-4949-443e-b29d-e925d05adc82_750x422.jpg",
             "alt": ""
           },
-          "uid": "c8f80139-3136-4f4d-a530-0b0a151eda7e",
-          "description": "Colorado is witnessing a record bear season, with over 6,100 incidents reported, as drought conditions push bears into neighborhoods."
+          "uid": "7fe443a6-bf2d-4aaf-b622-214f1b71fb27",
+          "description": "The Olympic medalist went into cardiac arrest while pacing runners at an event in North Carolina in June."
         },
         {
-          "title": "Colorado bear sightings double as new law strengthens penalties for unsecured trash",
+          "title": "Olympian Jenny Simpson won't be able to run again after a cardiac event. Here's what she wants to focus on as she recovers.",
           "summary": "",
           "source": "CBS Colorado",
-          "topic": "wildlife",
-          "url": "https://www.cbsnews.com/colorado/news/colorado-bear-law-unsecured-trash-violation/",
-          "published_at": "2026-08-17T14:44:13+00:00",
+          "topic": "human-interest",
+          "url": "https://www.cbsnews.com/colorado/news/jenny-simpson-cardiac-event-heart-condition-recovery-running/",
+          "published_at": "2026-08-22T18:54:58+00:00",
           "image": {
-            "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/17/efda026e-c3f0-495e-9e74-412233d1678e/thumbnail/1024x576/3ebe8f4f060bcb5bee6f00ba4f6bf3ad/bear.jpg",
+            "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/21/66d4a45f-95d9-468f-88d4-7bd36f9527e6/thumbnail/1024x576/12494951d3a10e25571b896ac234b6bf/gettyimages-1178576631.jpg",
             "alt": ""
           },
-          "uid": "3df5b650-9e1c-469a-b3bd-420c3ecb634d",
-          "description": "Colorado wildlife officials are urging residents to secure trash and other potential food sources as bear sightings surge across the state, and a new law gives officers stronger tools to penalize people who leave attractants accessible.",
-          "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
-        },
-        {
-          "title": "Two injured in separate bear attacks in Steamboat Springs, Aspen, as CPW warns of record bear activity",
-          "summary": "",
-          "source": "9NEWS",
-          "topic": "wildlife",
-          "url": "https://www.9news.com/article/life/animals/bear-attacks-steamboat-springs-aspen-injures/73-2f38d9ad-0a56-4ab4-96ee-7d1ab1f0ee94",
-          "published_at": "2026-08-20T02:49:43+00:00",
-          "image": {
-            "url": "https://media.tegna-media.com/assets/KUSA/images/724c9b2f-5549-4d3f-ad0c-d7d354af7dd0/724c9b2f-5549-4d3f-ad0c-d7d354af7dd0_750x422.jpg",
-            "alt": ""
-          },
-          "uid": "c379e712-ce9c-4bab-84dc-88c3ba388da1",
-          "description": "One bear was euthanized after the Aspen attack. Colorado Parks and Wildlife said drought and a lack of natural food are pushing bears closer to homes and people."
-        },
-        {
-          "title": "Bear's messy jaunt through Aspen restaurant one of thousands of encounters as drought leaves food sources scarce",
-          "summary": "",
-          "source": "CBS Colorado",
-          "topic": "wildlife",
-          "url": "https://www.cbsnews.com/colorado/news/colorado-bear-encounters-surge-food-restaurant-aspen/",
-          "published_at": "2026-08-21T01:23:22+00:00",
-          "image": {
-            "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/21/0be3317d-4682-4ca0-b3ff-506d4470703e/thumbnail/1024x576/391169762ba0d8b91bc72b4cd70ad720/bear.jpg",
-            "alt": ""
-          },
-          "uid": "714bbb33-9da6-4edb-bdc9-09af8a7a360b",
-          "description": "Colorado Parks and Wildlife has received more than 6,000 bear reports so far this year, roughly double the number during the same period last year. Wildlife officials say drought conditions are reducing natural food sources and pushing bears into communities as they search for",
+          "uid": "1521d807-1915-431b-990a-6b927f8a0a07",
+          "description": "Olympian Jenny Simpson said she won't be able to run again after being diagnosed with a rare heart condition earlier this year.",
           "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
         }
       ]
@@ -333,43 +292,6 @@
       ]
     },
     {
-      "title": "Rüfüs Du Sol in Colorado: What to know for the stadium concert",
-      "summary": "Rufus Du Sol is set to electrify Colorado with its largest North American headline tour, performing at CU Boulder's Folsom Field, the university's football stadium in the middle of the city.",
-      "source": "9NEWS",
-      "topic": "civic-events",
-      "url": "https://www.9news.com/article/entertainment/music/colorado-music/rufus-du-sol-folsom-field-stadium-colorado-concert/73-6f749886-4aa4-4874-9778-8536425e8a7c",
-      "published_at": "2026-08-19T15:53:02+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KUSA/images/c455c46c-547c-46b9-8620-71367d86a555/20260819T152840/c455c46c-547c-46b9-8620-71367d86a555_750x422.jpg",
-        "alt": ""
-      },
-      "uid": "3e4cc333-1b49-422b-ac5f-4390d80f513d",
-      "description": "Rüfüs Du Sol is set to electrify Colorado with its largest North American headline tour, performing at CU Boulder's Folsom Field this Saturday.",
-      "questions": [
-        "Do the big shows at Folsom Field change how the city feels for a weekend?",
-        "Are you someone who goes to the stadium concerts, or do you steer clear?"
-      ]
-    },
-    {
-      "title": "Boulder County landowners are getting $15,000-a-year offers to host giant batteries",
-      "summary": "A 2024 Colorado law requires Xcel Energy, the utility that supplies electricity to most of the Front Range including Boulder, to acquire distributed generation paired with battery storage. Developers are now seeking private land in Boulder County, the county Boulder sits in, for the projects, with some proposing leases that could last 40 years.",
-      "source": "Boulder Reporting Lab",
-      "topic": "development-projects",
-      "url": "https://boulderreportinglab.org/2026/08/16/boulder-county-landowners-are-getting-15000-a-year-offers-to-host-giant-batteries/",
-      "published_at": "2026-08-17T03:00:00+00:00",
-      "image": {
-        "url": "https://i0.wp.com/boulderreportinglab.org/wp-content/uploads/2026/08/AP25300443454226-scaled.jpg?fit=1024%2C683&ssl=1",
-        "alt": ""
-      },
-      "uid": "d15bcc43-8ef7-4f67-93ea-4dcb0063bcf8",
-      "description": "A 2024 Colorado law requires Xcel Energy to acquire distributed generation paired with battery storage. Developers are now seeking private land for the projects, with some proposing leases that could last 40 years. The post Boulder County landowners are getting $15,000-a-year",
-      "logo": "https://boulderreportinglab.org/wp-content/uploads/2021/06/cropped-brl-favicon-32x32.png",
-      "questions": [
-        "Have you heard about the battery-storage leases being offered around the county?",
-        "Do you know anyone who has been approached about hosting one?"
-      ]
-    },
-    {
       "title": "Grab your free tulip bulbs from Boulder businesses",
       "summary": "Boulder's annual tulip bulb giveaway, organized by the Parks and Recreation Department and Downtown Boulder Partnership, the nonprofit that promotes the downtown business district, offers free bulbs starting Aug. 19.",
       "source": "9NEWS",
@@ -385,43 +307,6 @@
       "questions": [
         "Have you ever picked up bulbs from that giveaway?",
         "Do you get downtown much for things like that?"
-      ]
-    },
-    {
-      "title": "Lafayette is searching for 216 cemetery plot holders. 9NEWS found 1.",
-      "summary": "Lafayette, a small city about 10 miles east of Boulder, faces challenges finding over 200 plot holders at its historic cemetery following burial record mishaps.",
-      "source": "9NEWS",
-      "topic": "human-interest",
-      "url": "https://www.9news.com/article/news/local/lafayette-cemetery-plot-holders/73-d8e5d210-cfbc-48e3-a437-01b74f644678",
-      "published_at": "2026-08-20T00:42:58+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KUSA/images/f50a4911-1aee-4e87-8f32-84a495804bf7/20260819T222714/f50a4911-1aee-4e87-8f32-84a495804bf7_750x422.jpg",
-        "alt": ""
-      },
-      "uid": "33785456-23b4-4b61-8f02-2c095dc5ff35",
-      "description": "Lafayette faces challenges finding over 200 plot holders at its historic cemetery following burial record mishaps.",
-      "questions": [
-        "Had you heard about the cemetery record mix-up over in Lafayette?",
-        "Do you spend much time in that part of the county?"
-      ]
-    },
-    {
-      "title": "New law requires Colorado teenagers to take 30 hours of driver's training to receive permit",
-      "summary": "",
-      "source": "CBS Colorado",
-      "topic": "transportation",
-      "url": "https://www.cbsnews.com/colorado/news/new-law-colorado-teenagers-drivers-training-permit/",
-      "published_at": "2026-08-18T12:52:08+00:00",
-      "image": {
-        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/18/7d33e24e-80d8-4c7a-a1d7-a0f7f5314357/thumbnail/1024x576/2bc875587a7a3fee616e6eb34311831b/gettyimages-958322434-1.jpg",
-        "alt": ""
-      },
-      "uid": "755de4af-1dcd-4e8c-b340-b06f60d282c8",
-      "description": "A new law takes effect in Colorado at the beginning of the year that will change the requirements for teen drivers who want to get behind the wheel.",
-      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg",
-      "questions": [
-        "Do you have anyone in the house close to driving age?",
-        "What do you make of the new training requirement for teen drivers?"
       ]
     },
     {
@@ -444,6 +329,45 @@
       ]
     },
     {
+      "title": "Fall Foliage is forecast to arrive early in Colorado",
+      "summary": "",
+      "source": "CBS Colorado",
+      "topic": "human-interest",
+      "url": "https://www.cbsnews.com/colorado/video/fall-foliage-is-forecast-to-arrive-early-in-colorado/",
+      "published_at": "2026-08-23T01:06:00+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/23/b1a65aa2-9a35-4fa1-8473-680efef98985/thumbnail/1024x576/b86825fac038dc095adbbe85ecb6e4c5/9b5489d10fe0bb8b9178de1e3937834f.jpg",
+        "alt": ""
+      },
+      "uid": "14108513-eb1b-4283-a6d0-9e4ecdecd07f",
+      "description": "Colorado's fall colors are starting up to 10 days early in 2026.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg",
+      "questions": [
+        "Have the aspens started turning near Boulder yet?",
+        "Do you have a favorite spot for seeing the fall colors around Boulder?",
+        "Does an early fall change the timing of any leaf-peeping trips?"
+      ]
+    },
+    {
+      "title": "Boulder County landowners are getting $15,000-a-year offers to host giant batteries",
+      "summary": "A 2024 Colorado law requires Xcel Energy, the utility that supplies electricity to most of the Front Range including Boulder, to acquire distributed generation paired with battery storage. Developers are now seeking private land in Boulder County, the county Boulder sits in, for the projects, with some proposing leases that could last 40 years.",
+      "source": "Boulder Reporting Lab",
+      "topic": "development-projects",
+      "url": "https://boulderreportinglab.org/2026/08/16/boulder-county-landowners-are-getting-15000-a-year-offers-to-host-giant-batteries/",
+      "published_at": "2026-08-17T03:00:00+00:00",
+      "image": {
+        "url": "https://i0.wp.com/boulderreportinglab.org/wp-content/uploads/2026/08/AP25300443454226-scaled.jpg?fit=1024%2C683&ssl=1",
+        "alt": ""
+      },
+      "uid": "d15bcc43-8ef7-4f67-93ea-4dcb0063bcf8",
+      "description": "A 2024 Colorado law requires Xcel Energy to acquire distributed generation paired with battery storage. Developers are now seeking private land for the projects, with some proposing leases that could last 40 years. The post Boulder County landowners are getting $15,000-a-year",
+      "logo": "https://boulderreportinglab.org/wp-content/uploads/2021/06/cropped-brl-favicon-32x32.png",
+      "questions": [
+        "Have you heard about the battery-storage leases being offered around the county?",
+        "Do you know anyone who has been approached about hosting one?"
+      ]
+    },
+    {
       "title": "Airbnb offers $200 bonus as Sundance rental demand surges in Boulder",
       "summary": "",
       "source": "9NEWS",
@@ -462,57 +386,128 @@
       ]
     },
     {
-      "title": "Former CU track star says she can't run due to heart condition",
-      "summary": "",
+      "title": "Fisherman attacked by bear in Colorado, bear found and euthanized",
+      "summary": "Colorado Parks and Wildlife says a fisherman was injured in a bear attack in Jefferson County, the foothills county just south of Boulder, on Friday. Wildlife officers located and euthanized the bear on Saturday morning.",
+      "source": "CBS Colorado",
+      "topic": "wildlife",
+      "url": "https://www.cbsnews.com/colorado/video/fisherman-attacked-by-bear-in-colorado-bear-found-and-euthanized/",
+      "published_at": "2026-08-22T23:56:00+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/22/79c1ad64-88da-4a5b-ae9e-03cda08aa568/thumbnail/1024x576/16da5d5b5f6badbf2f07cc2ed8e52493/2ec89fbb6a01fc1c2735982344db00d2.jpg",
+        "alt": ""
+      },
+      "uid": "d7b74176-e2d2-43e0-89fc-ac1ebe9f75fb",
+      "description": "Colorado Parks and Wildlife says a fisherman was injured in a bear attack in Jefferson County on Friday. Wildlife officers located and euthanized the bear on Saturday morning.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg",
+      "questions": [
+        "Did the bear attack in Jefferson County get talked about around Boulder?",
+        "Are bear sightings common around Boulder in late summer?",
+        "Does living close to the foothills mean thinking about bears much?"
+      ]
+    },
+    {
+      "title": "Lafayette is searching for 216 cemetery plot holders. 9NEWS found 1.",
+      "summary": "Lafayette, a small city about 10 miles east of Boulder, faces challenges finding over 200 plot holders at its historic cemetery following burial record mishaps.",
       "source": "9NEWS",
       "topic": "human-interest",
-      "url": "https://www.9news.com/article/sports/former-cu-track-star-jenny-simpson-says-she-cant-run-due-to-heart-condition/73-d7da4fa9-f5ba-47fb-88c2-9de4edda2f8e",
-      "published_at": "2026-08-21T03:35:02+00:00",
+      "url": "https://www.9news.com/article/news/local/lafayette-cemetery-plot-holders/73-d8e5d210-cfbc-48e3-a437-01b74f644678",
+      "published_at": "2026-08-20T00:42:58+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/KUSA/images/b617af81-4949-443e-b29d-e925d05adc82/20260821T030840/b617af81-4949-443e-b29d-e925d05adc82_750x422.jpg",
+        "url": "https://media.tegna-media.com/assets/KUSA/images/f50a4911-1aee-4e87-8f32-84a495804bf7/20260819T222714/f50a4911-1aee-4e87-8f32-84a495804bf7_750x422.jpg",
         "alt": ""
       },
-      "uid": "7fe443a6-bf2d-4aaf-b622-214f1b71fb27",
-      "description": "The Olympic medalist went into cardiac arrest while pacing runners at an event in North Carolina in June.",
+      "uid": "33785456-23b4-4b61-8f02-2c095dc5ff35",
+      "description": "Lafayette faces challenges finding over 200 plot holders at its historic cemetery following burial record mishaps.",
       "questions": [
-        "Did you follow CU track when she was competing?",
-        "Have you seen how she's doing now?"
+        "Had you heard about the cemetery record mix-up over in Lafayette?",
+        "Do you spend much time in that part of the county?"
       ]
     },
     {
-      "title": "Move over bears. Fat Marmot Week puts a spotlight on the alpine rodents",
-      "summary": "",
-      "source": "9NEWS",
-      "topic": "wildlife",
-      "url": "https://www.9news.com/article/life/style/colorado-guide/move-over-bears-fat-marmot-week-puts-a-spotlight-on-the-alpine-rodents/616-e4a2c589-1040-4179-865f-a724d6e8b20b",
-      "published_at": "2026-08-21T14:08:57+00:00",
+      "title": "New Colorado School of Mines students bring a piece of home for annual M Climb",
+      "summary": "More than 1,000 new students at the Colorado School of Mines climbed Mount Zion, the hill above Golden, about 20 miles south of Boulder, each carrying a rock from their hometown to leave behind. The M Climb marks the start of the school year and is now 118 years old.",
+      "source": "CBS Colorado",
+      "topic": "civic-events",
+      "url": "https://www.cbsnews.com/colorado/news/colorado-school-mines-student-rocks-m-climb-2026/",
+      "published_at": "2026-08-22T03:39:11+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/AssociatedPress/images/93b7456a-6e4e-4c1f-b0f5-31b1b226728a/20260821T130508/93b7456a-6e4e-4c1f-b0f5-31b1b226728a_750x422.jpg",
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/22/c45bd5b0-c38a-4871-817e-90f083897166/thumbnail/1024x576/eb17e8fc5959f715d5dd710d41e5aebc/m-climb-transfer-frame-574.jpg",
         "alt": ""
       },
-      "uid": "4f134ee5-3f27-406a-895d-eb2f9b738630",
-      "description": "Last winter was tough for the groundhog-like rodents living in the Colorado mountains.",
+      "uid": "f9120d94-df08-40eb-8e02-80e6361a82e1",
+      "description": "New students at the Colorado School of Mines celebrated the start of the school year on Friday by leaving their mark on Mount Zion.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg",
       "questions": [
-        "Had you heard of Fat Marmot Week?",
-        "Do you see marmots when you're up in the mountains?"
+        "Had you heard of the M Climb tradition at Mines?",
+        "Does the start of the school year change the feel of things around you?"
+      ],
+      "thread": [
+        {
+          "title": "Mines students carry rocks up Golden mountain in 118-year-old school tradition",
+          "summary": "",
+          "source": "9NEWS",
+          "topic": "human-interest",
+          "url": "https://www.9news.com/article/life/style/colorado-guide/colorado-school-mines-freshmen-mount-zion/73-b7aa4e0a-4b59-4b6b-9d09-14da49beb955",
+          "published_at": "2026-08-21T15:10:06+00:00",
+          "image": {
+            "url": "https://media.tegna-media.com/assets/KUSA/images/e25a5337-f0a1-4c3a-acbc-988ed89c2570/20260821T144534/e25a5337-f0a1-4c3a-acbc-988ed89c2570_750x422.jpg",
+            "alt": ""
+          },
+          "uid": "c3523211-d59e-4db3-a3e5-511a074dd4da",
+          "description": "More than 1,000 new students at Colorado School of Mines climbed Mount Zion, carrying hometown rocks as part of a century-old tradition."
+        },
+        {
+          "title": "New Colorado School of Mines students bring a piece of home for annual M Climb",
+          "summary": "",
+          "source": "CBS Colorado",
+          "topic": "civic-events",
+          "url": "https://www.cbsnews.com/colorado/news/colorado-school-mines-student-rocks-m-climb-2026/",
+          "published_at": "2026-08-22T03:39:11+00:00",
+          "image": {
+            "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/22/c45bd5b0-c38a-4871-817e-90f083897166/thumbnail/1024x576/eb17e8fc5959f715d5dd710d41e5aebc/m-climb-transfer-frame-574.jpg",
+            "alt": ""
+          },
+          "uid": "f9120d94-df08-40eb-8e02-80e6361a82e1",
+          "description": "New students at the Colorado School of Mines celebrated the start of the school year on Friday by leaving their mark on Mount Zion.",
+          "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+        }
       ]
     },
     {
-      "title": "NOAA predicts strongest El Niño on record: How might it impact Colorado's winter",
+      "title": "New law requires Colorado teenagers to take 30 hours of driver's training to receive permit",
       "summary": "",
-      "source": "9NEWS",
-      "topic": "weather-forecast",
-      "url": "https://www.9news.com/article/weather/weather-colorado/strong-el-nino-colorado-winter-snow/73-4c8112ab-2d0f-464c-ae9a-04a5cc9307dc",
-      "published_at": "2026-08-17T15:12:35+00:00",
+      "source": "CBS Colorado",
+      "topic": "transportation",
+      "url": "https://www.cbsnews.com/colorado/news/new-law-colorado-teenagers-drivers-training-permit/",
+      "published_at": "2026-08-18T12:52:08+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/KUSA/images/ac147695-389c-4642-a9bf-f642b274095a/20260514T123706/ac147695-389c-4642-a9bf-f642b274095a_750x422.jpg",
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/18/7d33e24e-80d8-4c7a-a1d7-a0f7f5314357/thumbnail/1024x576/2bc875587a7a3fee616e6eb34311831b/gettyimages-958322434-1.jpg",
         "alt": ""
       },
-      "uid": "f6517fb1-a75f-49d8-909e-f3e03f2d8eea",
-      "description": "NOAA predicts a potentially record-breaking El Niño this winter, possibly exceeding the 1982-83 event, impacting global weather patterns and boosting Colorado's snow odds.",
+      "uid": "755de4af-1dcd-4e8c-b340-b06f60d282c8",
+      "description": "A new law takes effect in Colorado at the beginning of the year that will change the requirements for teen drivers who want to get behind the wheel.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg",
       "questions": [
-        "Do you pay attention to the winter outlook this early?",
-        "Does a big snow year change your plans at all?"
+        "Do you have anyone in the house close to driving age?",
+        "What do you make of the new training requirement for teen drivers?"
+      ]
+    },
+    {
+      "title": "Drought conditions prompt 8 fish salvages across Colorado",
+      "summary": "",
+      "source": "9NEWS",
+      "topic": "drought-water",
+      "url": "https://www.9news.com/article/news/local/colorado-fish-salvages-drought-water/73-2996d504-6269-41fe-8f89-3aba26b83c58",
+      "published_at": "2026-08-19T22:50:52+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/e48baee1-2e87-4a3b-87a7-2e8397511726/20260819T223952/e48baee1-2e87-4a3b-87a7-2e8397511726_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "a2e90bf3-ea52-404b-9ad6-a04fddfbe4fa",
+      "description": "Colorado’s worsening drought is driving emergency fish salvages as shrinking water supplies put thousands of fish at risk.",
+      "questions": [
+        "Are you noticing the drought where you are?",
+        "Do you fish or get out on the water around there?"
       ]
     }
   ],
@@ -531,6 +526,79 @@
       "uid": "a8b1a702-d007-4fd4-97f0-d0f80f6c000d",
       "description": "The Trump administration is pushing to close the Boulder headquarters of the National Center for Atmospheric Research (NCAR). Credit: Brooke Stephenson The Environmental Defense Fund filed a lawsuit against the Trump administration on Aug. 20 seeking to stop its attempt to",
       "logo": "https://boulderreportinglab.org/wp-content/uploads/2021/06/cropped-brl-favicon-32x32.png"
+    },
+    {
+      "title": "Lyons could become first Colorado town to require wildfire mitigation at existing homes",
+      "summary": "In an effort to bolster wildfire defenses, the Town of Lyons, a small town about 15 miles north of Boulder, is eyeing an unprecedented ordinance requiring homeowners to implement specific mitigation measures.",
+      "source": "9NEWS",
+      "topic": "wildfire",
+      "url": "https://www.9news.com/article/news/local/wildfire/lyons-could-become-first-colorado-town-to-require-wildfire-mitigation-at-existing-homes/73-731c0ef4-6519-4432-89b2-1c014307da06",
+      "published_at": "2026-08-23T00:01:23+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/d37e98b0-41ba-4367-96c2-f9f8ce3bf9a5/20260822T220234/d37e98b0-41ba-4367-96c2-f9f8ce3bf9a5_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "74c35f8c-aac2-4b6c-ba71-a468a6ec82d5",
+      "description": "In an effort to bolster wildfire defenses, the Town of Lyons is eyeing an unprecedented ordinance requiring homeowners to implement specific mitigation measures."
+    },
+    {
+      "title": "Boulder will begin collecting its new transportation fee in 2027",
+      "summary": "",
+      "source": "Boulder Reporting Lab",
+      "topic": "transportation",
+      "url": "https://boulderreportinglab.org/2026/08/18/boulder-will-begin-collecting-its-new-transportation-fee-in-2027/",
+      "published_at": "2026-08-19T04:57:23+00:00",
+      "image": {
+        "url": "https://i0.wp.com/boulderreportinglab.org/wp-content/uploads/2024/07/DSC01173-scaled.jpeg?fit=1024%2C683&ssl=1",
+        "alt": ""
+      },
+      "uid": "f437dd75-ff39-4626-938b-895d882e5fab",
+      "description": "Boulder plans to begin collecting its new transportation maintenance fee in 2027. The fee is intended to provide a steady source of funding as revenue from city sales taxes levels off. The fee was approved by city council in 2025, with funds to be used for repairs and",
+      "logo": "https://boulderreportinglab.org/wp-content/uploads/2021/06/cropped-brl-favicon-32x32.png"
+    },
+    {
+      "title": "Emails show BVSD preparing for possible school closures months before public recommendation",
+      "summary": "Records show BVSD, the Boulder Valley School District, analyzing facilities, planning for staffing changes and exploring uses for buildings that could become vacant. One email suggests officials discussed closing two elementary schools and possibly a middle school, which the superintendent disputes.",
+      "source": "Boulder Reporting Lab",
+      "topic": "education",
+      "url": "https://boulderreportinglab.org/2026/08/20/emails-show-bvsd-preparing-for-possible-school-closures-months-before-public-recommendation/",
+      "published_at": "2026-08-21T04:30:20+00:00",
+      "image": {
+        "url": "https://i0.wp.com/boulderreportinglab.org/wp-content/uploads/2021/11/BVSD-buidling-4_11-17-2021-scaled.jpg?fit=1024%2C683&ssl=1",
+        "alt": ""
+      },
+      "uid": "315e54e0-6903-41f9-b1dd-7d2cf5d1cef1",
+      "description": "Records show the district analyzing facilities, planning for staffing changes and exploring uses for buildings that could become vacant. One email suggests officials discussed closing two elementary schools and possibly a middle school, which the superintendent disputes. The",
+      "logo": "https://boulderreportinglab.org/wp-content/uploads/2021/06/cropped-brl-favicon-32x32.png"
+    },
+    {
+      "title": "Erie mineral rights deal falls apart as SM Energy cancels contract for Colorado town",
+      "summary": "An energy company is backing out of a multimillion-dollar mineral rights deal with the Town of Erie, a small town about 12 miles east of Boulder, after residents worked to put the agreement to a ballot vote.",
+      "source": "CBS Colorado",
+      "topic": "other",
+      "url": "https://www.cbsnews.com/colorado/news/erie-mineral-rights-sm-energy-cancels-contract-colorado/",
+      "published_at": "2026-08-20T12:53:02+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/06/22/2abb6302-2d12-43f2-9ecd-40f4306dc245/thumbnail/1024x576/4ab99d03ca8aea04f2f2365aca9dbce0/erie-mineral-rights-reconsidered-10pkg-transfer-frame-0.jpg",
+        "alt": ""
+      },
+      "uid": "b2743c6c-0acd-4480-ad65-05dfd964ea55",
+      "description": "An energy company is backing out of a multimillion-dollar mineral rights deal with the Town of Erie after residents worked to put the agreement to a ballot vote.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    },
+    {
+      "title": "Polis officially requests federal disaster declaration for Colorado wildfires and floods",
+      "summary": "",
+      "source": "9NEWS",
+      "topic": "wildfire",
+      "url": "https://www.9news.com/article/news/local/colorado-news/polis-requests-major-disaster-declaration-support-recovery-wildfires/73-7a4dd46d-7639-42f4-9583-47aaaca54bac",
+      "published_at": "2026-08-23T19:03:16+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/508ad37e-5cb8-485f-b4de-41a1a6160bc4/20260818T225140/508ad37e-5cb8-485f-b4de-41a1a6160bc4_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "30d0a8ad-c689-4f6f-b455-316b736f289a",
+      "description": "Gov. Jared Polis has requested a Major Disaster Declaration to aid recovery from the Aspen Acres and Gold Mountain fires, and subsequent flooding in the burn scars."
     },
     {
       "title": "Colorado regulators approve Xcel Energy rate increase, raising monthly electric bills",
@@ -580,19 +648,19 @@
       ]
     },
     {
-      "title": "Emails show BVSD preparing for possible school closures months before public recommendation",
-      "summary": "Records show BVSD, the Boulder Valley School District, analyzing facilities, planning for staffing changes and exploring uses for buildings that could become vacant. One email suggests officials discussed closing two elementary schools and possibly a middle school, which the superintendent disputes.",
-      "source": "Boulder Reporting Lab",
-      "topic": "education",
-      "url": "https://boulderreportinglab.org/2026/08/20/emails-show-bvsd-preparing-for-possible-school-closures-months-before-public-recommendation/",
-      "published_at": "2026-08-21T04:30:20+00:00",
+      "title": "Drastic water cuts issued for California, Nevada and Arizona from drought-stricken Colorado River",
+      "summary": "",
+      "source": "CBS Colorado",
+      "topic": "drought-water",
+      "url": "https://www.cbsnews.com/colorado/news/colorado-river-drastic-water-cuts-california-nevada-arizona-drought/",
+      "published_at": "2026-08-22T04:01:54+00:00",
       "image": {
-        "url": "https://i0.wp.com/boulderreportinglab.org/wp-content/uploads/2021/11/BVSD-buidling-4_11-17-2021-scaled.jpg?fit=1024%2C683&ssl=1",
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/22/f6193208-f6dd-4151-a49d-983c7aac0784/thumbnail/1024x576/3052394293bdc49fb6abfe605bfd049b/img-3900.jpg",
         "alt": ""
       },
-      "uid": "315e54e0-6903-41f9-b1dd-7d2cf5d1cef1",
-      "description": "Records show the district analyzing facilities, planning for staffing changes and exploring uses for buildings that could become vacant. One email suggests officials discussed closing two elementary schools and possibly a middle school, which the superintendent disputes. The",
-      "logo": "https://boulderreportinglab.org/wp-content/uploads/2021/06/cropped-brl-favicon-32x32.png"
+      "uid": "f489aade-176b-4eae-9529-559ff6459a50",
+      "description": "Federal officials announced sharp water cuts for the next two years on Friday for three Western states that rely on the imperiled Colorado River.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
     },
     {
       "title": "Colorado minimum wage rising in 2027",
@@ -609,23 +677,23 @@
       "description": "The City and County of Denver previously announced a minimum wage increase to $19.84."
     },
     {
-      "title": "Boulder will begin collecting its new transportation fee in 2027",
-      "summary": "",
-      "source": "Boulder Reporting Lab",
-      "topic": "transportation",
-      "url": "https://boulderreportinglab.org/2026/08/18/boulder-will-begin-collecting-its-new-transportation-fee-in-2027/",
-      "published_at": "2026-08-19T04:57:23+00:00",
+      "title": "Fired Colorado fire chief taking legal action against city over dismissal",
+      "summary": "Earlier this week, city officials in Golden, Colorado, a small city about 20 miles south of Boulder at the foot of the mountains west of Denver, fired the city manager and fire chief as investigations continue into a reported racist incident at a local fire station. Now, former Fire Chief Kasey Beal is pushing back against the city's decision.",
+      "source": "CBS Colorado",
+      "topic": "civil-litigation",
+      "url": "https://www.cbsnews.com/colorado/video/fired-colorado-fire-chief-taking-legal-action-against-city-over-dismissal/",
+      "published_at": "2026-08-17T00:27:00+00:00",
       "image": {
-        "url": "https://i0.wp.com/boulderreportinglab.org/wp-content/uploads/2024/07/DSC01173-scaled.jpeg?fit=1024%2C683&ssl=1",
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/17/82d02960-c699-41e6-ab63-941aea23ebf7/thumbnail/1024x576/b3cf6cd5d64778bbd91bed572aa2a56d/3daffb2bb5a18f5630a4b108442dd90f.jpg",
         "alt": ""
       },
-      "uid": "f437dd75-ff39-4626-938b-895d882e5fab",
-      "description": "Boulder plans to begin collecting its new transportation maintenance fee in 2027. The fee is intended to provide a steady source of funding as revenue from city sales taxes levels off. The fee was approved by city council in 2025, with funds to be used for repairs and",
-      "logo": "https://boulderreportinglab.org/wp-content/uploads/2021/06/cropped-brl-favicon-32x32.png"
+      "uid": "c19db681-3b43-4b37-a43a-9f3533a6a6c0",
+      "description": "Earlier this week, city officials in Golden, Colorado, fired the city manager and fire chief as investigations continue into a reported racist incident at a local fire station. Now, former Fire Chief Kasey Beal is pushing back against the city's decision.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
     },
     {
       "title": "See email called \"smoking gun\" in Colorado's lawsuit alleging White House retaliation, White House denies tie to Tina Peters",
-      "summary": "Colorado's lawsuit alleging that the Trump administration retaliated against the state came into sharper focus as court records emerged. The state says the administration targeted it with funding cuts after Gov. Polis refused to pardon Tina Peters, the former clerk of Mesa County in western Colorado, whose prosecution over election policies is central to the case. A judge ordered documents released, and attorneys for the state pointed to a newly uncovered White House email - described in new exhibits as a \"smoking gun\" - as key evidence of what the suit calls an unconstitutional scheme to punish the state. The White House denies any tie to Peters.",
+      "summary": "Colorado's lawsuit against the Trump administration alleges the federal government retaliated against the state over its election policies and its prosecution of former Mesa County Clerk Tina Peters. State attorneys point to a newly uncovered White House email as key evidence, and new exhibits filed in the case show communications between the White House and federal agencies about Colorado. The White House denies any link to the Peters prosecution.",
       "source": "CBS Colorado",
       "topic": "civil-litigation",
       "url": "https://www.cbsnews.com/colorado/news/email-smoking-gun-colorados-lawsuit-alleging-white-house-retaliation-tina-peters/",
@@ -638,20 +706,6 @@
       "description": "New exhibits in the federal court case Colorado vs. Trump, which alleges the Trump administration orchestrated an \"unconstitutional scheme to attack and punish the state,\" reveal communications between the White House and federal agencies on the topic of Colorado.",
       "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg",
       "thread": [
-        {
-          "title": "Trump administration accused of targeting Colorado with funding cuts, judge orders document release",
-          "summary": "",
-          "source": "9NEWS",
-          "topic": "elections-politics",
-          "url": "https://www.9news.com/article/news/local/local-politics/trump-administration-accused-targeting-colorado-funding-cuts/73-de71632d-2f98-4120-9ad3-da83ecf64f04",
-          "published_at": "2026-08-15T01:56:50+00:00",
-          "image": {
-            "url": "https://media.tegna-media.com/assets/KUSA/images/bb81677c-9994-4e16-be5c-60e7c409cb08/20260702T123855/bb81677c-9994-4e16-be5c-60e7c409cb08_750x422.jpg",
-            "alt": ""
-          },
-          "uid": "6fc1dab3-32c8-4053-a89e-d1500934a2ba",
-          "description": "The Trump Administration reportedly targeted Colorado after Gov. Polis refused to pardon Tina Peters, with claims supported by a critical email unveiled in court."
-        },
         {
           "title": "Colorado cites White House email as key evidence in lawsuit against Trump administration",
           "summary": "",
@@ -700,21 +754,6 @@
       ]
     },
     {
-      "title": "Erie mineral rights deal falls apart as SM Energy cancels contract for Colorado town",
-      "summary": "An energy company is backing out of a multimillion-dollar mineral rights deal with the Town of Erie, a small town about 12 miles east of Boulder, after residents worked to put the agreement to a ballot vote.",
-      "source": "CBS Colorado",
-      "topic": "other",
-      "url": "https://www.cbsnews.com/colorado/news/erie-mineral-rights-sm-energy-cancels-contract-colorado/",
-      "published_at": "2026-08-20T12:53:02+00:00",
-      "image": {
-        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/06/22/2abb6302-2d12-43f2-9ecd-40f4306dc245/thumbnail/1024x576/4ab99d03ca8aea04f2f2365aca9dbce0/erie-mineral-rights-reconsidered-10pkg-transfer-frame-0.jpg",
-        "alt": ""
-      },
-      "uid": "b2743c6c-0acd-4480-ad65-05dfd964ea55",
-      "description": "An energy company is backing out of a multimillion-dollar mineral rights deal with the Town of Erie after residents worked to put the agreement to a ballot vote.",
-      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
-    },
-    {
       "title": "Federal judge blocks Colorado law requiring health inspections of immigrant detention centers",
       "summary": "",
       "source": "CBS Colorado",
@@ -727,21 +766,6 @@
       },
       "uid": "27c3eb9d-0f28-47f0-a980-824c28337202",
       "description": "A federal judge in Denver has blocked parts of a new state law​ requiring health and safety inspections of centers that detain immigrants.",
-      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
-    },
-    {
-      "title": "Fired Colorado fire chief taking legal action against city over dismissal",
-      "summary": "Earlier this week, city officials in Golden, Colorado, a small city about 20 miles south of Boulder at the foot of the mountains west of Denver, fired the city manager and fire chief as investigations continue into a reported racist incident at a local fire station. Now, former Fire Chief Kasey Beal is pushing back against the city's decision.",
-      "source": "CBS Colorado",
-      "topic": "civil-litigation",
-      "url": "https://www.cbsnews.com/colorado/video/fired-colorado-fire-chief-taking-legal-action-against-city-over-dismissal/",
-      "published_at": "2026-08-17T00:27:00+00:00",
-      "image": {
-        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/17/82d02960-c699-41e6-ab63-941aea23ebf7/thumbnail/1024x576/b3cf6cd5d64778bbd91bed572aa2a56d/3daffb2bb5a18f5630a4b108442dd90f.jpg",
-        "alt": ""
-      },
-      "uid": "c19db681-3b43-4b37-a43a-9f3533a6a6c0",
-      "description": "Earlier this week, city officials in Golden, Colorado, fired the city manager and fire chief as investigations continue into a reported racist incident at a local fire station. Now, former Fire Chief Kasey Beal is pushing back against the city's decision.",
       "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
     },
     {
@@ -790,20 +814,6 @@
       ]
     },
     {
-      "title": "New federal rule cuts Medicaid funding for gender affirming care for minors",
-      "summary": "In a statement, HCPF, the Colorado Department of Health Care Policy and Financing, said it does not have the authority to cover these services without federal funding.",
-      "source": "9NEWS",
-      "topic": "public-health",
-      "url": "https://www.9news.com/article/news/politics/federal-rule-cuts-medicaid-funding-gender-affirming-care-minors/73-c1f48b55-667a-4d78-bb70-ca4a3552608b",
-      "published_at": "2026-08-20T01:01:04+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KUSA/images/d467020c-e85c-4c40-ab5c-a4791adb506b/20260819T233512/d467020c-e85c-4c40-ab5c-a4791adb506b_750x422.jpg",
-        "alt": ""
-      },
-      "uid": "3488ab62-338b-46e1-9751-412a7e7a83f4",
-      "description": "In a statement, HCPF said it does not have the authority to cover these services without federal funding."
-    },
-    {
       "title": "Denver's ShotSpotter gunshot detection system contract set to expire",
       "summary": "",
       "source": "CBS Colorado",
@@ -819,67 +829,38 @@
       "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
     },
     {
-      "title": "Colorado among states suing Meta, company behind Facebook and Instagram",
-      "summary": "",
-      "source": "CBS Colorado",
-      "topic": "civil-litigation",
-      "url": "https://www.cbsnews.com/colorado/video/colorado-among-states-suing-meta-company-behind-facebook-and-instagram/",
-      "published_at": "2026-08-19T13:29:00+00:00",
-      "image": {
-        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/19/589357a4-3c95-47c3-8fcd-95f7fd59b5cf/thumbnail/1024x576/85f8681a04102a874d7e680aa4d33596/81f6a089ca7232a3dd12268d17138e8c.jpg",
-        "alt": ""
-      },
-      "uid": "a2b16f12-d701-484d-882c-17a89bcdaec7",
-      "description": "Colorado is among 29 states suing Meta, the company behind Facebook and Instagram, over the social media platforms and claims of addiction for children.",
-      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
-    },
-    {
-      "title": "Castle Rock man pleads guilty to attempting to support ISIS after arrest at Denver airport in 2023",
-      "summary": "",
+      "title": "New federal rule cuts Medicaid funding for gender affirming care for minors",
+      "summary": "In a statement, HCPF, the Colorado Department of Health Care Policy and Financing, said it does not have the authority to cover these services without federal funding.",
       "source": "9NEWS",
-      "topic": "violent-crime",
-      "url": "https://www.9news.com/article/news/crime/castle-rock-man-pleads-guilty-attempting-to-support-isis/73-ff66d186-96c5-4c4b-929c-17eb769449a2",
-      "published_at": "2026-08-18T01:51:26+00:00",
+      "topic": "public-health",
+      "url": "https://www.9news.com/article/news/politics/federal-rule-cuts-medicaid-funding-gender-affirming-care-minors/73-c1f48b55-667a-4d78-bb70-ca4a3552608b",
+      "published_at": "2026-08-20T01:01:04+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/KUSA/images/590323425/590323425_750x422.png",
+        "url": "https://media.tegna-media.com/assets/KUSA/images/d467020c-e85c-4c40-ab5c-a4791adb506b/20260819T233512/d467020c-e85c-4c40-ab5c-a4791adb506b_750x422.jpg",
         "alt": ""
       },
-      "uid": "3a269630-9c1a-402b-a378-0588fde96c36",
-      "description": "Davin Meyer has pleaded guilty to attempting to support ISIS after being arrested trying to board a flight to Turkey, according to FBI Denver."
-    },
-    {
-      "title": "Latino Pride returns after ICE fears led to 2025 cancellation",
-      "summary": "",
-      "source": "9NEWS",
-      "topic": "immigration-enforcement",
-      "url": "https://www.9news.com/article/news/local/latino-pride-returns-ice-fears-2025-cancellation/73-85142c11-da40-4faf-a149-6851d8df1110",
-      "published_at": "2026-08-20T23:06:45+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KUSA/images/d2b7175d-a2bf-4d90-8bda-82fd8a01782f/20260820T222401/d2b7175d-a2bf-4d90-8bda-82fd8a01782f_750x422.jpg",
-        "alt": ""
-      },
-      "uid": "077fd5ca-b6a4-48b5-850f-fb93a35dde72",
-      "description": "\"It's something that affects all of us and it is something that affected my own family just recently,\" one organizer said."
+      "uid": "3488ab62-338b-46e1-9751-412a7e7a83f4",
+      "description": "In a statement, HCPF said it does not have the authority to cover these services without federal funding."
     }
   ],
   "sports": [
     {
       "team": "Broncos",
       "scores": [
+        "Packers 33, Broncos 13",
         "cornerback Moss stands out at camp",
         "preseason home opener vs. Packers",
         "Waddle beats Surtain on deep ball",
         "names new team behind mascot Thunder",
         "tempers flare at camp practice",
         "camp notes: Waddle, Wattenberg back",
-        "close training camp to fans after storm damage",
-        "coach needles staff on road trip",
-        "Broncos 27, Falcons 7"
+        "close training camp to fans after storm damage"
       ]
     },
     {
       "team": "Nuggets",
       "scores": [
+        "signs DeMar DeRozan to 1-year deal",
         "names Noah Reed play-by-play voice",
         "trades Peyton Watson in 4-team deal",
         "to play preseason game at CU Boulder"
@@ -898,8 +879,7 @@
         "unveiling Larry Walker statue Sunday",
         "fall to Dodgers as Ohtani homers",
         "Dodgers 11, Rockies 5",
-        "designates Lorenzen for assignment",
-        "Giants 7, Rockies 1"
+        "designates Lorenzen for assignment"
       ]
     }
   ]

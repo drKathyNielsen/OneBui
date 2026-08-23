@@ -163,17 +163,7 @@
       ]
     }
   ],
-  "weather_alert": [
-    {
-      "uid": "652d7c8a-0b7c-58df-a2da-143aecac2c1b",
-      "event": "Air Quality Alert",
-      "area": "Boulder",
-      "severity": "Unknown",
-      "summary": "An Ozone Action Day alert is in effect for Boulder County, the county Boulder sits in, along the Front Range Urban Corridor. Hot, sunny, stagnant weather is expected to push ozone to levels unhealthy for sensitive groups, with the highest concentrations in the southern and western Denver metro area. Active children and adults and people with lung disease such as asthma should reduce prolonged or heavy outdoor exertion.",
-      "description": "Air Quality Alert issued August 20 at 4:10PM MDT by NWS Denver CO\n\nThe Colorado Department of Public Health and Environment has\nissued the following...\n\nWHAT...Ozone Action Day Alert.\n\nWHERE...Douglas, Jefferson, Denver, western Arapahoe, western\nAdams, Broomfield, Boulder, Larimer, and Weld Counties\n\nWHEN...400 PM Thursday August 20 to 400 PM Friday August 21\n\nIMPACTS...Ozone Action Day Alert is now in effect for the Front\nRange Urban Corridor.  Hot, sunny, and stagnant weather will allow\nozone to reach the Unhealthy for Sensitive Groups concentration on\nThursday and Friday. The highest concentrations are expected in\nsouthern and western portions of the Denver Metro Area.  For\nColorado air quality conditions, forecasts, and advisories, visit:\nhttps://www.colorado.gov/airquality/colorado_summary.aspx   If\npossible, please help us reduce ozone pollution by limiting\ndriving gas and diesel-powered vehicles until at least 4 p.m.\nFriday, August 21, 2026. Colorado is also addressing ozone\npollution through state policies. For more information about\nhealth impacts and how ozone pollution forms in Colorado, visit:\nhttps://cdphe.colorado.gov/ozone- pollution-and-your-health\n\nHEALTH INFORMATION...Increasing likelihood of respiratory symptoms\nand breathing discomfort in active children and adults and people\nwith lung disease, such as asthma. Active children and adults, and\npeople with lung disease, such as asthma, should reduce prolonged\nor heavy outdoor exertion.",
-      "ends": "2026-08-21T16:00:00-06:00"
-    }
-  ],
+  "weather_alert": [],
   "you_should_know": [
     {
       "title": "Colorado regulators approve Xcel Energy rate increase, raising monthly electric bills",

@@ -24,23 +24,22 @@
       "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
     },
     {
-      "title": "Record tying heat possible in Denver heading into the weekend",
-      "summary": "Record-tying heat is possible in Denver, about 30 miles southeast of Boulder.",
-      "source": "CBS Colorado",
+      "title": "Denver heat breaks record Friday",
+      "summary": "The high temperature in Denver, the state capital, about 30 miles southeast of Boulder, reached triple digits for the seventh time this year.",
+      "source": "9NEWS",
       "topic": "heat",
-      "url": "https://www.cbsnews.com/colorado/video/record-tying-heat-possible-in-denver-heading-into-the-weekend/",
-      "published_at": "2026-08-21T18:38:00+00:00",
+      "url": "https://www.9news.com/article/weather/weather-colorado/denver-heat-breaks-record-friday/73-437b7b85-eca5-4644-94c6-84d8c62a916a",
+      "published_at": "2026-08-21T22:07:43+00:00",
       "image": {
-        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/21/b2247c30-728c-434b-8545-f2f464dfb513/thumbnail/1024x576/cc10c2f6a448626e3d56ceca5fb88db9/616a5c467df506fbeaa1667f81a14c49.jpg",
+        "url": "https://media.tegna-media.com/assets/KUSA/images/d00d4670-2099-45a2-871f-6ea03023be87/20260713T143711/d00d4670-2099-45a2-871f-6ea03023be87_750x422.jpg",
         "alt": ""
       },
-      "uid": "65e66815-822d-45d8-b5a3-b5608f920fa6",
+      "uid": "778997a3-9767-43f6-ab81-f4067d3a491a",
       "questions": [
-        "How are you holding up with the heat?",
-        "Is it changing any of your plans this week?"
+        "Have you been feeling the heat up your way?",
+        "Has it changed how you're spending time outside?"
       ],
-      "description": "Watch Lauren Whitney's forecast",
-      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+      "description": "The high temperature reached triple digits for the seventh time this year."
     }
   ],
   "conversation_starters": [
@@ -202,17 +201,7 @@
       ]
     }
   ],
-  "weather_alert": [
-    {
-      "uid": "652d7c8a-0b7c-58df-a2da-143aecac2c1b",
-      "event": "Air Quality Alert",
-      "area": "Boulder",
-      "severity": "Unknown",
-      "summary": "An Ozone Action Day alert is in effect for Boulder County, the county Boulder sits in, along the Front Range Urban Corridor. Hot, sunny, stagnant weather is expected to push ozone to levels unhealthy for sensitive groups, with the highest concentrations in the southern and western Denver metro area. Active children and adults and people with lung disease such as asthma should reduce prolonged or heavy outdoor exertion.",
-      "description": "Air Quality Alert issued August 20 at 4:10PM MDT by NWS Denver CO\n\nThe Colorado Department of Public Health and Environment has\nissued the following...\n\nWHAT...Ozone Action Day Alert.\n\nWHERE...Douglas, Jefferson, Denver, western Arapahoe, western\nAdams, Broomfield, Boulder, Larimer, and Weld Counties\n\nWHEN...400 PM Thursday August 20 to 400 PM Friday August 21\n\nIMPACTS...Ozone Action Day Alert is now in effect for the Front\nRange Urban Corridor.  Hot, sunny, and stagnant weather will allow\nozone to reach the Unhealthy for Sensitive Groups concentration on\nThursday and Friday. The highest concentrations are expected in\nsouthern and western portions of the Denver Metro Area.  For\nColorado air quality conditions, forecasts, and advisories, visit:\nhttps://www.colorado.gov/airquality/colorado_summary.aspx   If\npossible, please help us reduce ozone pollution by limiting\ndriving gas and diesel-powered vehicles until at least 4 p.m.\nFriday, August 21, 2026. Colorado is also addressing ozone\npollution through state policies. For more information about\nhealth impacts and how ozone pollution forms in Colorado, visit:\nhttps://cdphe.colorado.gov/ozone- pollution-and-your-health\n\nHEALTH INFORMATION...Increasing likelihood of respiratory symptoms\nand breathing discomfort in active children and adults and people\nwith lung disease, such as asthma. Active children and adults, and\npeople with lung disease, such as asthma, should reduce prolonged\nor heavy outdoor exertion.",
-      "ends": "2026-08-21T16:00:00-06:00"
-    }
-  ],
+  "weather_alert": [],
   "you_should_know": [
     {
       "title": "Environmental group sues Trump administration over plan to dismantle Boulder’s NCAR",

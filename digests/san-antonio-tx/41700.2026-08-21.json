@@ -5,6 +5,24 @@
   "date": "2026-08-21",
   "are_you_ok": [
     {
+      "title": "Residents evacuated as fire crews work to put out large grass fire in south Bexar County",
+      "summary": "",
+      "source": "KENS 5",
+      "topic": "wildfire",
+      "url": "https://www.kens5.com/article/news/local/residents-evacuated-as-fire-crews-work-to-put-out-large-grass-fire-in-south-bexar-county/273-8cf81bfc-7b02-4c0e-881e-1bb5db8cb078",
+      "published_at": "2026-08-21T22:34:34+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KING/images/b75efbb8-7763-483b-a6d4-0b6506a36519/b75efbb8-7763-483b-a6d4-0b6506a36519_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "3ac244ce-bc28-41f3-9525-50c3cd96f00e",
+      "questions": [
+        "Was the grass fire anywhere near you?",
+        "Do you know anyone who had to leave home for it?"
+      ],
+      "description": "Crews are working to put out a large grass fire in south Bexar County, prompting evacuations, the sheriff's office reports."
+    },
+    {
       "title": "Jourdanton issues boil water notice after temporary system malfunction, says they will be collecting samples for testing",
       "summary": "The City of Jourdanton, a small town about 35 miles south of San Antonio, is under a boil water notice after a malfunction in its SCADA system, the automated controls that run the water plant. The City Council will be handing out water bottles until 11 p.m.",
       "source": "KENS 5",
@@ -65,17 +83,7 @@
     }
   ],
   "sports": [],
-  "weather_alert": [
-    {
-      "uid": "faca267c-8f6b-524d-bc8c-a659af59f516",
-      "event": "Heat Advisory",
-      "area": "Atascosa, Bexar +3 more",
-      "severity": "Moderate",
-      "summary": "A Heat Advisory is in effect for Bexar County, which contains San Antonio, along with Comal and Guadalupe counties just northeast of the city, Atascosa County to the south, and Wilson County to the southeast. Heat index values up to 109 are expected, and hot temperatures with high humidity may cause heat illnesses.",
-      "description": "Heat Advisory issued August 21 at 1:48PM CDT until August 23 at 7:00PM CDT by NWS Austin/San Antonio TX\n\n* WHAT...Heat index values up to 109.\n\n* WHERE...The northern Hill Country, I-35 Corridor, and Coastal\nPlains.\n\n* WHEN...Until 7 PM CDT Sunday.\n\n* IMPACTS...Hot temperatures and high humidity may cause heat\nillnesses.",
-      "ends": "2026-08-23T19:00:00-05:00"
-    }
-  ],
+  "weather_alert": [],
   "you_should_know": [
     {
       "title": "Full list: Here are the books an advocacy group wants pulled from Texas school libraries",

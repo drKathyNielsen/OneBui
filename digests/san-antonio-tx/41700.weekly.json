@@ -4,10 +4,28 @@
   "metroCode": "41700",
   "metro": "San Antonio-New Braunfels, TX",
   "range": {
-    "start": "2026-08-15",
-    "end": "2026-08-21"
+    "start": "2026-08-17",
+    "end": "2026-08-23"
   },
   "are_you_ok": [
+    {
+      "title": "Residents evacuated as fire crews work to put out large grass fire in south Bexar County",
+      "summary": "",
+      "source": "KENS 5",
+      "topic": "wildfire",
+      "url": "https://www.kens5.com/article/news/local/residents-evacuated-as-fire-crews-work-to-put-out-large-grass-fire-in-south-bexar-county/273-8cf81bfc-7b02-4c0e-881e-1bb5db8cb078",
+      "published_at": "2026-08-21T22:34:34+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KING/images/b75efbb8-7763-483b-a6d4-0b6506a36519/b75efbb8-7763-483b-a6d4-0b6506a36519_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "3ac244ce-bc28-41f3-9525-50c3cd96f00e",
+      "description": "Crews are working to put out a large grass fire in south Bexar County, prompting evacuations, the sheriff's office reports.",
+      "questions": [
+        "Was the grass fire anywhere near you?",
+        "Do you know anyone who had to leave home for it?"
+      ]
+    },
     {
       "title": "Heat Advisory issued for Thursday as extreme heat continues in South Texas | Weather Impact Alert",
       "summary": "",
@@ -27,69 +45,40 @@
       ]
     },
     {
-      "title": "H-E-B jalapeño product recall includes guacamole, prepared foods and more over salmonella concerns",
-      "summary": "H-E-B, the San Antonio-based grocery chain that dominates Texas, recalled jalapeño products over possible salmonella contamination. The recall widened as it went on, pulling in guacamole, prepared foods and dozens of items made in stores that used the affected jalapeños, while the chain said everything still on its shelves was safe and unaffected.",
+      "title": "CPS Energy asks customers to conserve power, declares ‘Yellow Day’",
+      "summary": "CPS Energy, the city-owned electric and gas utility, is encouraging customers to limit their electricity use during certain hours, including avoiding the use of large appliances.",
       "source": "KENS 5",
-      "topic": "product-recall",
-      "url": "https://www.kens5.com/article/news/local/heb-jalapeno-product-recall-salmonella/285-35ec3088-5a40-4296-b5bf-975e063249fe",
-      "published_at": "2026-08-16T11:27:41+00:00",
+      "topic": "other",
+      "url": "https://www.kens5.com/article/news/local/san-antonio-cps-energy-yellow-day-peak-energy-demand/273-2fa8975c-068f-4e48-b66f-8b72267261f2",
+      "published_at": "2026-08-20T11:50:55+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/KHOU/images/ae52b041-f5ac-4fbd-bf39-611a65eb3a13/20260815T193712/ae52b041-f5ac-4fbd-bf39-611a65eb3a13_750x422.jpg",
+        "url": "https://media.tegna-media.com/assets/KENS/images/c077a716-6022-4d47-8d8f-1d061d472101/c077a716-6022-4d47-8d8f-1d061d472101_750x422.jpg",
         "alt": ""
       },
-      "uid": "f734c04e-f53b-4afb-998f-ebe126eb3fc2",
-      "description": "Dozens of H-E-B products made in stores were also removed because they contained items impacted by the recall.",
+      "uid": "0ba18a16-4915-4b52-bd67-314265100e24",
+      "description": "Customers are encouraged to limit their electricity use during certain hours, including avoiding the use of large appliances.",
       "questions": [
-        "Did you have any of the recalled H-E-B items in your fridge?",
-        "Is everyone in your house doing all right?"
-      ],
-      "thread": [
-        {
-          "title": "H-E-B recalls jalapeño products over potential salmonella contamination",
-          "summary": "",
-          "source": "KENS 5",
-          "topic": "product-recall",
-          "url": "https://www.kens5.com/article/life/food/h-e-b-recalls-jalapeo-products-over-potential-salmonella-contamination/273-87231fea-0836-4844-b562-3b0ef922e51c",
-          "published_at": "2026-08-15T15:13:20+00:00",
-          "image": {
-            "url": "https://media.tegna-media.com/assets/WHAS/images/38cb075b-0736-4092-bcdf-812835807692/20260810T203939/38cb075b-0736-4092-bcdf-812835807692_750x422.jpg",
-            "alt": ""
-          },
-          "uid": "dc826b44-2753-449f-badf-06e824f6d330",
-          "description": "H-E-B said all products currently available in its stores are safe and are not impacted by the recall."
-        },
-        {
-          "title": "H-E-B jalapeño product recall includes guacamole, prepared foods and more over salmonella concerns",
-          "summary": "",
-          "source": "KENS 5",
-          "topic": "product-recall",
-          "url": "https://www.kens5.com/article/news/local/heb-jalapeno-product-recall-salmonella/285-35ec3088-5a40-4296-b5bf-975e063249fe",
-          "published_at": "2026-08-16T11:27:41+00:00",
-          "image": {
-            "url": "https://media.tegna-media.com/assets/KHOU/images/ae52b041-f5ac-4fbd-bf39-611a65eb3a13/20260815T193712/ae52b041-f5ac-4fbd-bf39-611a65eb3a13_750x422.jpg",
-            "alt": ""
-          },
-          "uid": "f734c04e-f53b-4afb-998f-ebe126eb3fc2",
-          "description": "Dozens of H-E-B products made in stores were also removed because they contained items impacted by the recall."
-        }
+        "Have you been asked to cut back on power use at home?",
+        "Is the heat making it hard to keep the house comfortable?",
+        "Does your area usually hold up when the grid gets stretched?"
       ]
     },
     {
-      "title": "UTSA offering resources, solutions as they prepare for delayed start to fall semester after cybersecurity incident",
-      "summary": "The University of Texas at San Antonio, known locally as UTSA, pushed the start of its fall semester back three days after detecting 'unauthorized activity' on campus systems, saying it did not believe any data was accessed. In the days that followed, the university brought more systems and services back online and offered resources and workarounds to students and staff heading into the delayed start.",
+      "title": "UT San Antonio delays start of fall semester by three days after 'unauthorized activity' detected on campus systems, administration says",
+      "summary": "The University of Texas at San Antonio pushed the start of its fall semester back three days after detecting \"unauthorized activity\" on campus systems, saying it did not believe any data had been accessed. As the delayed start approached, the university said more systems and services were coming back online each day and pointed students and staff to resources for working around what was still down.",
       "source": "KENS 5",
-      "topic": "education",
-      "url": "https://www.kens5.com/article/tech/utsa-resources-solutions-prepare-delayed-start-fall-semester/273-7084f2ef-14c5-40c9-a534-4cad77129645",
-      "published_at": "2026-08-20T15:07:38+00:00",
+      "topic": "other",
+      "url": "https://www.kens5.com/article/news/local/ut-san-antonio-delays-start-three-days-unauthorized-activity-detected-on-campus-systems-administration-says/273-e92938ed-a6cc-4718-8707-3225a8d22617",
+      "published_at": "2026-08-18T22:56:57+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/e8ec202c-4b71-40b5-91fa-31febf1a59b8/e8ec202c-4b71-40b5-91fa-31febf1a59b8_750x422.jpg",
+        "url": "https://media.tegna-media.com/assets/KENS/images/e9cbfa21-fcc9-4b4c-8082-b55b1f06b1d6/20260302T041031/e9cbfa21-fcc9-4b4c-8082-b55b1f06b1d6_750x422.jpg",
         "alt": ""
       },
-      "uid": "26d8a057-f93c-4241-9747-5e64dba232b2",
-      "description": "Officials said more university systems and services are coming online each day.",
+      "uid": "01a639f8-95ec-4c75-bec5-fd1c05bc5e0b",
+      "description": "The University of Texas at San Antonio said in a statement on Tuesday that they do not believe any data was accessed.",
       "questions": [
-        "Has the delayed start at the university touched anyone in your circle?",
-        "Did the campus systems being down affect anything you needed?"
+        "Did the UTSA delay end up touching anyone you know?",
+        "How are people on campus taking the later start?"
       ],
       "thread": [
         {
@@ -123,22 +112,21 @@
       ]
     },
     {
-      "title": "CPS Energy asks customers to conserve power, declares ‘Yellow Day’",
-      "summary": "CPS Energy, the city-owned electric and gas utility, is encouraging customers to limit their electricity use during certain hours, including avoiding the use of large appliances.",
+      "title": "Rabies case in San Antonio dog prompts warning after skunk encounter goes unreported",
+      "summary": "",
       "source": "KENS 5",
-      "topic": "other",
-      "url": "https://www.kens5.com/article/news/local/san-antonio-cps-energy-yellow-day-peak-energy-demand/273-2fa8975c-068f-4e48-b66f-8b72267261f2",
-      "published_at": "2026-08-20T11:50:55+00:00",
+      "topic": "public-health",
+      "url": "https://www.kens5.com/article/life/pets/rabies-pet-dog-san-antonio-texas-husky-warning-skunk-encounter-unreported/273-7e10972a-70e8-477b-bb38-32c27000c5b5",
+      "published_at": "2026-08-20T03:32:42+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/c077a716-6022-4d47-8d8f-1d061d472101/c077a716-6022-4d47-8d8f-1d061d472101_750x422.jpg",
+        "url": "https://media.tegna-media.com/assets/WCNC/images/a6d14423-7bb0-4f33-8f6b-6ff3a1359615/20250409T235441/a6d14423-7bb0-4f33-8f6b-6ff3a1359615_750x422.jpg",
         "alt": ""
       },
-      "uid": "0ba18a16-4915-4b52-bd67-314265100e24",
-      "description": "Customers are encouraged to limit their electricity use during certain hours, including avoiding the use of large appliances.",
+      "uid": "7070309a-a744-4508-a157-ed48c9568cb0",
+      "description": "The case is the first reported rabid pet dog in Bexar County in more than a decade and comes amid a sharp increase in rabies among wild animals in the area.",
       "questions": [
-        "Have you been asked to cut back on power use at home?",
-        "Is the heat making it hard to keep the house comfortable?",
-        "Does your area usually hold up when the grid gets stretched?"
+        "Do you have pets that might run into wildlife around your place?",
+        "Has the rabies warning changed anything about walking the dog?"
       ]
     },
     {
@@ -158,24 +146,6 @@
         "Are you anywhere near Jourdanton?",
         "Is your water coming from that system, or a different one?",
         "Do you have enough bottled water on hand?"
-      ]
-    },
-    {
-      "title": "Rabies case in San Antonio dog prompts warning after skunk encounter goes unreported",
-      "summary": "",
-      "source": "KENS 5",
-      "topic": "public-health",
-      "url": "https://www.kens5.com/article/life/pets/rabies-pet-dog-san-antonio-texas-husky-warning-skunk-encounter-unreported/273-7e10972a-70e8-477b-bb38-32c27000c5b5",
-      "published_at": "2026-08-20T03:32:42+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/WCNC/images/a6d14423-7bb0-4f33-8f6b-6ff3a1359615/20250409T235441/a6d14423-7bb0-4f33-8f6b-6ff3a1359615_750x422.jpg",
-        "alt": ""
-      },
-      "uid": "7070309a-a744-4508-a157-ed48c9568cb0",
-      "description": "The case is the first reported rabid pet dog in Bexar County in more than a decade and comes amid a sharp increase in rabies among wild animals in the area.",
-      "questions": [
-        "Do you have pets that might run into wildlife around your place?",
-        "Has the rabies warning changed anything about walking the dog?"
       ]
     }
   ],
@@ -218,76 +188,40 @@
       ]
     },
     {
-      "title": "Howl yeah! Werewolf Gorge bringing record-breaking family thrills to Six Flags Fiesta Texas",
-      "summary": "",
+      "title": "Nearly La Parra, almost HemisFair: Durango Boulevard’s surprising history",
+      "summary": "Durango survived an attempted rebranding tied to HemisFair, the 1968 world's fair held in San Antonio, and was transformed from a short street on the West Side, just west of downtown, into a major boulevard before losing its name in 2011.",
       "source": "KENS 5",
-      "topic": "development-projects",
-      "url": "https://www.kens5.com/article/news/local/werewolf-gorge-coaster-quarry-launches-airtime-thrill-vekoma-cryptids-anniversary-2027-six-flags-fiesta-texas-amusement-park-family-fun-entertainment/273-21773939-5922-4326-974d-c5af00d56228",
-      "published_at": "2026-08-21T14:46:34+00:00",
+      "topic": "other",
+      "url": "https://www.kens5.com/article/news/history/san-antonio-la-parra-hemisfair-durango-boulevard-history/273-5f477d1c-98fd-4f77-b27f-1015654cf2c2",
+      "published_at": "2026-08-23T02:42:44+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/f55793bb-946f-4c31-b6d7-6d35d4dd0c7a/20260821T132645/f55793bb-946f-4c31-b6d7-6d35d4dd0c7a_750x422.jpg",
+        "url": "https://media.tegna-media.com/assets/KENS/images/f126d085-949d-4e4b-9b01-5d2ba7e86e61/20260823T022406/f126d085-949d-4e4b-9b01-5d2ba7e86e61_750x422.jpg",
         "alt": ""
       },
-      "uid": "f6eb91d1-dd08-4f15-92be-56f097ad400a",
-      "description": "The new coaster will feature four launches, 32 airtime moments and more than 4,000 feet of track when it opens in 2027.",
+      "uid": "cf2c46ec-6bc7-4813-9506-b680306e99fc",
+      "description": "Durango survived an attempted HemisFair rebranding and was transformed from a short West Side street into a major boulevard before losing its name in 2011.",
       "questions": [
-        "Do you get out to Six Flags Fiesta Texas much?",
-        "Are you a roller coaster person?",
-        "Would the kids in your life be excited about that one?"
+        "Have you come across the story of how Durango Boulevard started out as a short West Side street?",
+        "Is San Antonio history something you follow, or mostly news to you?",
+        "What's a piece of San Antonio history that people outside the city usually don't know?"
       ]
     },
     {
-      "title": "Loose bull calf rescued in drain tunnel after passing through Walmart parking lot, ACS says",
-      "summary": "The calf was spotted in the parking lot of a Walmart in the 1200 block of Southeast Military Drive, a road across the south side of San Antonio.",
+      "title": "Major highway closures underway this weekend at LP 1604, I-10 on north west side",
+      "summary": "The closures are scheduled to remain in place until 5 a.m. Monday as part of bridge demolition work for the North Expansion Project on Loop 1604, the outer highway loop that circles San Antonio.",
       "source": "KENS 5",
-      "topic": "human-interest",
-      "url": "https://www.kens5.com/article/news/local/loose-bull-calf-rescued-in-drain-tunnel-after-passing-through-walmart-parking-lot-acs-says/273-09ffe871-b36f-4a0c-a2ab-56454e72c438",
-      "published_at": "2026-08-18T19:49:10+00:00",
+      "topic": "transportation",
+      "url": "https://www.kens5.com/article/traffic/loop-1604-highway-closures-the-rim-la-cantera/273-48706725-6cef-4bf8-8505-cbc9709cb784",
+      "published_at": "2026-08-22T15:04:04+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/ccae76ce-618a-420e-af29-f22071de8fe1/20260818T194640/ccae76ce-618a-420e-af29-f22071de8fe1_750x422.jpg",
+        "url": "https://media.tegna-media.com/assets/KENS/images/b5167397-2dec-47fb-8b96-e3b15c1495f5/20250410T181054/b5167397-2dec-47fb-8b96-e3b15c1495f5_750x422.jpg",
         "alt": ""
       },
-      "uid": "c5eccc0b-9448-460f-b9a1-cd3a04d5d500",
-      "description": "The calf was spotted in the parking lot of a Walmart in the 1200 block of Southeast Military Drive on Tuesday.",
+      "uid": "260f2d53-ef61-4a23-a6ad-835850a95f7d",
+      "description": "The closures are scheduled to remain in place until 5 a.m. Monday as part of bridge demolition work for the Loop 1604 North Expansion Project.",
       "questions": [
-        "Did you see the story about the calf loose in the Walmart parking lot?",
-        "Does livestock turn up like that very often around there?"
-      ]
-    },
-    {
-      "title": "Sneak Peek: San Antonio's new African American museum takes shape, set to become third-largest in nation",
-      "summary": "",
-      "source": "KENS 5",
-      "topic": "development-projects",
-      "url": "https://www.kens5.com/article/news/education/saaacam-museum-downtown-preview/273-c03c1fb7-6d97-4f01-8df1-b5e6b20f19f7",
-      "published_at": "2026-08-16T14:18:32+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/f7869539-ecf5-40f8-a11c-29461680298c/20260816T034514/f7869539-ecf5-40f8-a11c-29461680298c_750x422.jpg",
-        "alt": ""
-      },
-      "uid": "3aebc3d1-069e-431e-8431-22677039707c",
-      "description": "The museum is dedicated to preserving and celebrating the history and contributions of African Americans in San Antonio and beyond.",
-      "questions": [
-        "Have you been following the new African American museum going up?",
-        "Is that somewhere you'd want to visit when it opens?"
-      ]
-    },
-    {
-      "title": "San Antonio Zoo named one of the best zoos in the world",
-      "summary": "",
-      "source": "KENS 5",
-      "topic": "human-interest",
-      "url": "https://www.kens5.com/article/news/local/san-antonio-zoo-worldwide-conde-nast-wildlife-conservation-recognition-horned-lizards-project-selva-animals-tourism-alamo-city-global-gorillas/273-ee063981-3c82-4fc4-bf68-ef08e1968d7f",
-      "published_at": "2026-08-17T12:19:07+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/f3dda6b2-dbe7-430c-81d0-e118b9640987/20260817T121846/f3dda6b2-dbe7-430c-81d0-e118b9640987_750x422.jpg",
-        "alt": ""
-      },
-      "uid": "6ebeca60-2d4b-43b3-be11-ba246fbfd684",
-      "description": "San Antonio Zoo is getting some wild worldwide recognition, earning a spot on Condé Nast Traveler's list of the best zoos across the globe.",
-      "questions": [
-        "Have you been to the San Antonio Zoo recently?",
-        "It just made a global best-zoos list — is it a spot you take visitors?"
+        "Have the Loop 1604 closures changed how you get around?",
+        "Is the 1604 expansion work something you notice day to day?"
       ]
     },
     {
@@ -310,21 +244,22 @@
       ]
     },
     {
-      "title": "Mission Concepción annual solar illumination lights up church's altar",
+      "title": "Howl yeah! Werewolf Gorge bringing record-breaking family thrills to Six Flags Fiesta Texas",
       "summary": "",
       "source": "KENS 5",
-      "topic": "civic-events",
-      "url": "https://www.kens5.com/article/news/local/mission-concepcin-annual-solar-illumination-lights-up-the-churchs-altar/273-e0243e83-4310-4c7b-9670-f8b722eefebf",
-      "published_at": "2026-08-16T14:18:50+00:00",
+      "topic": "development-projects",
+      "url": "https://www.kens5.com/article/news/local/werewolf-gorge-coaster-quarry-launches-airtime-thrill-vekoma-cryptids-anniversary-2027-six-flags-fiesta-texas-amusement-park-family-fun-entertainment/273-21773939-5922-4326-974d-c5af00d56228",
+      "published_at": "2026-08-21T14:46:34+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/0d1e146b-2afe-4df4-a96c-0d67121aeb2e/20260816T035108/0d1e146b-2afe-4df4-a96c-0d67121aeb2e_750x422.jpg",
+        "url": "https://media.tegna-media.com/assets/KENS/images/f55793bb-946f-4c31-b6d7-6d35d4dd0c7a/20260821T132645/f55793bb-946f-4c31-b6d7-6d35d4dd0c7a_750x422.jpg",
         "alt": ""
       },
-      "uid": "97ee7d31-678a-48b9-9775-16fa981a43e3",
-      "description": "Historians say the Franciscans who built the historic mission intentionally used light as a way to connect with Indigenous people in the area.",
+      "uid": "f6eb91d1-dd08-4f15-92be-56f097ad400a",
+      "description": "The new coaster will feature four launches, 32 airtime moments and more than 4,000 feet of track when it opens in 2027.",
       "questions": [
-        "Did you get out to see the solar illumination at the mission?",
-        "Do you take visitors to the missions when they come through?"
+        "Do you get out to Six Flags Fiesta Texas much?",
+        "Are you a roller coaster person?",
+        "Would the kids in your life be excited about that one?"
       ]
     },
     {
@@ -346,21 +281,39 @@
       ]
     },
     {
-      "title": "Bobcats in Bexar County — What to know if you see one",
-      "summary": "A bobcat was found along the side of Loop 410, the highway that rings San Antonio, near Rigsby Avenue in Bexar County. The man who photographed the bobcat thought it may have been hit by a car.",
+      "title": "San Antonio Zoo named one of the best zoos in the world",
+      "summary": "",
       "source": "KENS 5",
-      "topic": "wildlife",
-      "url": "https://www.kens5.com/article/news/local/san-antonio-bobcats-bexar-county-what-to-know/273-24c5b911-ee85-444a-ae08-96f87fdeb141",
-      "published_at": "2026-08-17T23:23:56+00:00",
+      "topic": "human-interest",
+      "url": "https://www.kens5.com/article/news/local/san-antonio-zoo-worldwide-conde-nast-wildlife-conservation-recognition-horned-lizards-project-selva-animals-tourism-alamo-city-global-gorillas/273-ee063981-3c82-4fc4-bf68-ef08e1968d7f",
+      "published_at": "2026-08-17T12:19:07+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/cbabc552-6d8c-4a87-982e-523897387276/20260817T232135/cbabc552-6d8c-4a87-982e-523897387276_750x422.jpg",
+        "url": "https://media.tegna-media.com/assets/KENS/images/f3dda6b2-dbe7-430c-81d0-e118b9640987/20260817T121846/f3dda6b2-dbe7-430c-81d0-e118b9640987_750x422.jpg",
         "alt": ""
       },
-      "uid": "85ce257b-bbca-4266-b704-8c5d662aca93",
-      "description": "A bobcat was found Sunday along the side of Loop 410 near Rigsby Avenue in Bexar County. The man who photographed the bobcat thought it may have been hit by a car.",
+      "uid": "6ebeca60-2d4b-43b3-be11-ba246fbfd684",
+      "description": "San Antonio Zoo is getting some wild worldwide recognition, earning a spot on Condé Nast Traveler's list of the best zoos across the globe.",
       "questions": [
-        "Have you ever run across a bobcat around there?",
-        "Is wildlife along the highways a common sight for you?"
+        "Have you been to the San Antonio Zoo recently?",
+        "It just made a global best-zoos list — is it a spot you take visitors?"
+      ]
+    },
+    {
+      "title": "Loose bull calf rescued in drain tunnel after passing through Walmart parking lot, ACS says",
+      "summary": "The calf was spotted in the parking lot of a Walmart in the 1200 block of Southeast Military Drive, a road across the south side of San Antonio.",
+      "source": "KENS 5",
+      "topic": "human-interest",
+      "url": "https://www.kens5.com/article/news/local/loose-bull-calf-rescued-in-drain-tunnel-after-passing-through-walmart-parking-lot-acs-says/273-09ffe871-b36f-4a0c-a2ab-56454e72c438",
+      "published_at": "2026-08-18T19:49:10+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/ccae76ce-618a-420e-af29-f22071de8fe1/20260818T194640/ccae76ce-618a-420e-af29-f22071de8fe1_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "c5eccc0b-9448-460f-b9a1-cd3a04d5d500",
+      "description": "The calf was spotted in the parking lot of a Walmart in the 1200 block of Southeast Military Drive on Tuesday.",
+      "questions": [
+        "Did you see the story about the calf loose in the Walmart parking lot?",
+        "Does livestock turn up like that very often around there?"
       ]
     },
     {
@@ -381,80 +334,40 @@
         "Is a charity golf tournament something you'd go to?",
         "Do people there still claim him as a hometown guy?"
       ]
+    },
+    {
+      "title": "Bobcats in Bexar County — What to know if you see one",
+      "summary": "A bobcat was found along the side of Loop 410, the highway that rings San Antonio, near Rigsby Avenue in Bexar County. The man who photographed the bobcat thought it may have been hit by a car.",
+      "source": "KENS 5",
+      "topic": "wildlife",
+      "url": "https://www.kens5.com/article/news/local/san-antonio-bobcats-bexar-county-what-to-know/273-24c5b911-ee85-444a-ae08-96f87fdeb141",
+      "published_at": "2026-08-17T23:23:56+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/cbabc552-6d8c-4a87-982e-523897387276/20260817T232135/cbabc552-6d8c-4a87-982e-523897387276_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "85ce257b-bbca-4266-b704-8c5d662aca93",
+      "description": "A bobcat was found Sunday along the side of Loop 410 near Rigsby Avenue in Bexar County. The man who photographed the bobcat thought it may have been hit by a car.",
+      "questions": [
+        "Have you ever run across a bobcat around there?",
+        "Is wildlife along the highways a common sight for you?"
+      ]
     }
   ],
   "you_should_know": [
     {
-      "title": "San Antonio City Council rejects November vote on Spurs arena funding; members react",
-      "summary": "The fight over whether San Antonio voters would get a say on the city's $489 million contribution to a new Spurs arena came to a head. City Manager Erik Walsh warned city leaders about 'misinformation' circulating ahead of the council's debate; the meeting then ran nearly two and a half hours of public input, with most speakers pressing unsuccessfully for a referendum; and the council narrowly voted against putting the funding to a November residential vote, a decision that drew immediate reaction from its members.",
+      "title": "San Antonio City Council approves renaming Cesar E. Chavez Boulevard back to Durango Boulevard",
+      "summary": "San Antonio's City Council voted to rename Cesar E. Chavez Boulevard back to Durango Boulevard, following a March \"New York Times\" report that brought multiple sexual misconduct allegations against Chavez to the forefront. The change lands on 295 addresses, among them Southtown Joe's, a coffee shop in Southtown, the neighborhood just south of downtown San Antonio, where an old Durango street sign is already displayed inside; residents and business owners there greeted the old name's return as their own neighborhood coming back.",
       "source": "KENS 5",
-      "topic": "development-projects",
-      "url": "https://www.kens5.com/article/news/local/project-marvel/san-antonio-city-council-rejects-november-vote-spurs-arena-funding-members-react/273-cc3a75f1-2da0-4c04-8530-831fe76c0eb4",
-      "published_at": "2026-08-18T03:08:16+00:00",
+      "topic": "elections-politics",
+      "url": "https://www.kens5.com/article/news/community/san-antonio-city-council-renaming-cesar-chavez-boulevard-decision/273-0eec7172-0e45-4b37-b2e1-ee1bc70b0fad",
+      "published_at": "2026-08-20T15:39:44+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/b1ef887c-9cbc-4f61-9a8a-95bb0e1b4263/20260818T030727/b1ef887c-9cbc-4f61-9a8a-95bb0e1b4263_750x422.jpg",
+        "url": "https://media.tegna-media.com/assets/KENS/images/413454024/413454024_750x422.jpg",
         "alt": ""
       },
-      "uid": "995b8f2a-9f7a-480c-9d0f-e61eafad2890",
-      "description": "San Antonio's City Council narrowly voted against allowing residents to vote on the city's $489 million contribution to a new Spurs arena, sparking a debate.",
-      "thread": [
-        {
-          "title": "City Manager Erik Walsh addresses San Antonio leaders about 'misinformation' ahead of meeting on Spurs arena ballot measure",
-          "summary": "",
-          "source": "KENS 5",
-          "topic": "development-projects",
-          "url": "https://www.kens5.com/article/news/local/san-antonio-government/san-antonio-spurs-arena-funding-meeting-breakdown-city-council-jones-project-marvel/273-53178a3f-382f-42e8-9332-45231cd52814",
-          "published_at": "2026-08-16T20:33:08+00:00",
-          "image": {
-            "url": "https://media.tegna-media.com/assets/KENS/images/f02bfcaa-955f-47ac-a2dc-6ca20f4e6000/f02bfcaa-955f-47ac-a2dc-6ca20f4e6000_750x422.jpg",
-            "alt": ""
-          },
-          "uid": "bd212fb4-56f1-43ab-abb9-eff1946df4c2",
-          "description": "City Council will debate the merits over a residential vote on Spurs arena funding on Monday."
-        },
-        {
-          "title": "San Antonio City Council swats away November vote for Spurs arena funding",
-          "summary": "",
-          "source": "KENS 5",
-          "topic": "development-projects",
-          "url": "https://www.kens5.com/article/news/local/san-antonio-government/san-antonio-city-council-spurs-arena-funding-vote-project-marvel-mayor-jones/273-db2bf633-acae-4bc5-9cbb-c68668db7968",
-          "published_at": "2026-08-17T23:16:45+00:00",
-          "image": {
-            "url": "https://media.tegna-media.com/assets/KENS/images/fc7380b9-a335-4f2a-9992-49c7d0793470/20250823T005916/fc7380b9-a335-4f2a-9992-49c7d0793470_750x422.jpg",
-            "alt": ""
-          },
-          "uid": "5bba2b71-80c1-48d4-94a4-781cf9551409",
-          "description": "Monday's meeting featured nearly two and a half hours of public input, with most speakers trying unsuccessfully to advocate for another public referendum."
-        },
-        {
-          "title": "San Antonio City Council rejects November vote on Spurs arena funding; members react",
-          "summary": "",
-          "source": "KENS 5",
-          "topic": "development-projects",
-          "url": "https://www.kens5.com/article/news/local/project-marvel/san-antonio-city-council-rejects-november-vote-spurs-arena-funding-members-react/273-cc3a75f1-2da0-4c04-8530-831fe76c0eb4",
-          "published_at": "2026-08-18T03:08:16+00:00",
-          "image": {
-            "url": "https://media.tegna-media.com/assets/KENS/images/b1ef887c-9cbc-4f61-9a8a-95bb0e1b4263/20260818T030727/b1ef887c-9cbc-4f61-9a8a-95bb0e1b4263_750x422.jpg",
-            "alt": ""
-          },
-          "uid": "995b8f2a-9f7a-480c-9d0f-e61eafad2890",
-          "description": "San Antonio's City Council narrowly voted against allowing residents to vote on the city's $489 million contribution to a new Spurs arena, sparking a debate."
-        }
-      ]
-    },
-    {
-      "title": "‘My neighborhood, my barrio’: Durango Boulevard’s return resonates with residents, businesses",
-      "summary": "San Antonio's City Council voted to rename Cesar E. Chavez Boulevard back to Durango Boulevard, its earlier name, following a \"New York Times\" report in March detailing multiple sexual misconduct allegations against Chavez, the farm labor leader the street had been named for. The change affects 295 addresses, and residents and businesses along the street welcomed the return of the old name, among them Southtown Joe's, a coffee shop in Southtown, the neighborhood just south of downtown San Antonio, where an old Durango street sign already hangs inside.",
-      "source": "KENS 5",
-      "topic": "government",
-      "url": "https://www.kens5.com/article/news/local/durango-boulevards-residents-businesses-southtown-joes-east-cesar-chavez/273-4aa0bc55-9f0d-4574-9feb-2a5934acd632",
-      "published_at": "2026-08-21T04:12:53+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/e695a646-bd22-4af2-be52-6b2494b7bdbc/20260821T034648/e695a646-bd22-4af2-be52-6b2494b7bdbc_750x422.jpg",
-        "alt": ""
-      },
-      "uid": "970618a5-8ac5-474a-865d-4d0d590db2cf",
-      "description": "The official name change will affect 295 addresses, including Southtown Joe’s, where an old Durango street sign is already displayed inside.",
+      "uid": "5a437a37-b5eb-4e8c-9c74-0a1ec11ab0a8",
+      "description": "In March, multiple sexual misconduct allegations against Chavez were brought to the forefront in a \"New York Times\" report.",
       "thread": [
         {
           "title": "San Antonio City Council approves renaming Cesar E. Chavez Boulevard back to Durango Boulevard",
@@ -487,6 +400,64 @@
       ]
     },
     {
+      "title": "San Antonio City Council rejects November vote on Spurs arena funding; members react",
+      "summary": "San Antonio's City Council weighed whether residents should get a public vote on the city's $489 million contribution to a new arena for the Spurs, the city's NBA team. A council meeting drew nearly two and a half hours of public input, with most speakers pressing unsuccessfully for a referendum, and the council then narrowly voted against putting the question on the November ballot — a decision members were still debating afterward.",
+      "source": "KENS 5",
+      "topic": "development-projects",
+      "url": "https://www.kens5.com/article/news/local/project-marvel/san-antonio-city-council-rejects-november-vote-spurs-arena-funding-members-react/273-cc3a75f1-2da0-4c04-8530-831fe76c0eb4",
+      "published_at": "2026-08-18T03:08:16+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/b1ef887c-9cbc-4f61-9a8a-95bb0e1b4263/20260818T030727/b1ef887c-9cbc-4f61-9a8a-95bb0e1b4263_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "995b8f2a-9f7a-480c-9d0f-e61eafad2890",
+      "description": "San Antonio's City Council narrowly voted against allowing residents to vote on the city's $489 million contribution to a new Spurs arena, sparking a debate.",
+      "thread": [
+        {
+          "title": "San Antonio City Council swats away November vote for Spurs arena funding",
+          "summary": "",
+          "source": "KENS 5",
+          "topic": "development-projects",
+          "url": "https://www.kens5.com/article/news/local/san-antonio-government/san-antonio-city-council-spurs-arena-funding-vote-project-marvel-mayor-jones/273-db2bf633-acae-4bc5-9cbb-c68668db7968",
+          "published_at": "2026-08-17T23:16:45+00:00",
+          "image": {
+            "url": "https://media.tegna-media.com/assets/KENS/images/fc7380b9-a335-4f2a-9992-49c7d0793470/20250823T005916/fc7380b9-a335-4f2a-9992-49c7d0793470_750x422.jpg",
+            "alt": ""
+          },
+          "uid": "5bba2b71-80c1-48d4-94a4-781cf9551409",
+          "description": "Monday's meeting featured nearly two and a half hours of public input, with most speakers trying unsuccessfully to advocate for another public referendum."
+        },
+        {
+          "title": "San Antonio City Council rejects November vote on Spurs arena funding; members react",
+          "summary": "",
+          "source": "KENS 5",
+          "topic": "development-projects",
+          "url": "https://www.kens5.com/article/news/local/project-marvel/san-antonio-city-council-rejects-november-vote-spurs-arena-funding-members-react/273-cc3a75f1-2da0-4c04-8530-831fe76c0eb4",
+          "published_at": "2026-08-18T03:08:16+00:00",
+          "image": {
+            "url": "https://media.tegna-media.com/assets/KENS/images/b1ef887c-9cbc-4f61-9a8a-95bb0e1b4263/20260818T030727/b1ef887c-9cbc-4f61-9a8a-95bb0e1b4263_750x422.jpg",
+            "alt": ""
+          },
+          "uid": "995b8f2a-9f7a-480c-9d0f-e61eafad2890",
+          "description": "San Antonio's City Council narrowly voted against allowing residents to vote on the city's $489 million contribution to a new Spurs arena, sparking a debate."
+        }
+      ]
+    },
+    {
+      "title": "San Antonio police chief highlights need for better mental health response after fatal confrontation",
+      "summary": "",
+      "source": "KENS 5",
+      "topic": "policing",
+      "url": "https://www.kens5.com/article/news/local/san-antonio-police-chief-highlights-need-for-better-mental-health-response-after-fatal-confrontation/273-f0fbc494-e438-4794-a8a5-23fa3b6a13ad",
+      "published_at": "2026-08-17T23:01:41+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/d6103a91-4205-420a-b3b3-b74c1c30630d/20260817T225556/d6103a91-4205-420a-b3b3-b74c1c30630d_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "7890ddbf-5d9c-4c06-a1eb-0566dd9a7147",
+      "description": "A confrontation highlights the delicate balance police face in mental health crises. Acting Police Chief Jesse Salame says more services are needed."
+    },
+    {
       "title": "Full list: Here are the books an advocacy group wants pulled from Texas school libraries",
       "summary": "",
       "source": "KENS 5",
@@ -499,34 +470,6 @@
       },
       "uid": "e5bfbc78-b939-4d17-8595-b74ce1f08c98",
       "description": "Lt. Gov. Dan Patrick wants school districts to look over their library catalogs for \"vulgar\" material."
-    },
-    {
-      "title": "SAPD officers seen fatally shooting armed suspect in newly shared bodycam video",
-      "summary": "",
-      "source": "KENS 5",
-      "topic": "policing",
-      "url": "https://www.kens5.com/article/news/local/law-enforcement/san-antonio-police-deadly-shooting-sapd-armed-man-suspect-hammond-avenue-bodycam/273-3b62e392-58cf-411d-a692-e9d64221514d",
-      "published_at": "2026-08-15T14:23:50+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/ab719281-3bdb-40da-9622-5e344612a63a/20260814T231222/ab719281-3bdb-40da-9622-5e344612a63a_750x422.jpg",
-        "alt": ""
-      },
-      "uid": "28c81942-4986-496b-b563-d728fa4b85ef",
-      "description": "The early morning confrontation began with police trying to stop a bicyclist on the sidewalk before he is seen in the footage trying to escape."
-    },
-    {
-      "title": "Texas lawmakers discuss data centers, transmission lines in marathon hearing",
-      "summary": "The House State Affairs Committee, a committee of the Texas Legislature, took up two of the biggest topics that Texans are fired up about right now: data centers and transmission lines.",
-      "source": "KENS 5",
-      "topic": "data-centers",
-      "url": "https://www.kens5.com/article/news/politics/texas-legislature/texas-lawmakers-data-centers-transmission-lines-hearing/269-59a311a0-b8cd-46bf-82a6-1fb5bd63c1e6",
-      "published_at": "2026-08-20T15:44:21+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KVUE/images/5886d65c-79fa-4570-bed6-f14e55faee8d/20260727T121346/5886d65c-79fa-4570-bed6-f14e55faee8d_750x422.jpg",
-        "alt": ""
-      },
-      "uid": "144d7858-ddc9-4bd3-857d-2048759b97a5",
-      "description": "The House State Affairs Committee took up two of the biggest topics that Texans are fired up about right now: data centers and transmission lines."
     },
     {
       "title": "Families ask U.S. Supreme Court to rule on Texas’ Ten Commandments requirement for public schools",
@@ -543,6 +486,20 @@
       "description": "Texas can enforce the state's law requiring Ten Commandments posters in public schools. Here's what to know about the latest legal challenges."
     },
     {
+      "title": "Texas lawmakers discuss data centers, transmission lines in marathon hearing",
+      "summary": "The House State Affairs Committee, a committee of the Texas Legislature, took up two of the biggest topics that Texans are fired up about right now: data centers and transmission lines.",
+      "source": "KENS 5",
+      "topic": "data-centers",
+      "url": "https://www.kens5.com/article/news/politics/texas-legislature/texas-lawmakers-data-centers-transmission-lines-hearing/269-59a311a0-b8cd-46bf-82a6-1fb5bd63c1e6",
+      "published_at": "2026-08-20T15:44:21+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KVUE/images/5886d65c-79fa-4570-bed6-f14e55faee8d/20260727T121346/5886d65c-79fa-4570-bed6-f14e55faee8d_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "144d7858-ddc9-4bd3-857d-2048759b97a5",
+      "description": "The House State Affairs Committee took up two of the biggest topics that Texans are fired up about right now: data centers and transmission lines."
+    },
+    {
       "title": "Gov. Abbott proposes ban on H-1B workers in Texas public schools",
       "summary": "",
       "source": "KENS 5",
@@ -555,20 +512,6 @@
       },
       "uid": "7bfd5214-fb6f-42ea-89d4-46e6f6aed7ce",
       "description": "Abbott said he wants to stop \"foreign influence\" in schools."
-    },
-    {
-      "title": "San Antonio police chief highlights need for better mental health response after fatal confrontation",
-      "summary": "",
-      "source": "KENS 5",
-      "topic": "policing",
-      "url": "https://www.kens5.com/article/news/local/san-antonio-police-chief-highlights-need-for-better-mental-health-response-after-fatal-confrontation/273-f0fbc494-e438-4794-a8a5-23fa3b6a13ad",
-      "published_at": "2026-08-17T23:01:41+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/d6103a91-4205-420a-b3b3-b74c1c30630d/20260817T225556/d6103a91-4205-420a-b3b3-b74c1c30630d_750x422.jpg",
-        "alt": ""
-      },
-      "uid": "7890ddbf-5d9c-4c06-a1eb-0566dd9a7147",
-      "description": "A confrontation highlights the delicate balance police face in mental health crises. Acting Police Chief Jesse Salame says more services are needed."
     },
     {
       "title": "Conservation Society of San Antonio cites city’s ‘redevelopment plans’ as cause for NIOSA refresh",
