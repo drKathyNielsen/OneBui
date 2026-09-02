@@ -9,6 +9,7 @@
       "summary": "Colorado faces a risk of flash flooding with storms likely on Friday and Saturday, especially over burn scars — hillsides stripped by past wildfires, where rain runs off instead of soaking in. Stay alert and avoid flooded roads.",
       "source": "9NEWS",
       "topic": "flood",
+      "topics_secondary": [],
       "url": "https://www.9news.com/article/weather/weather-colorado/rain-chances-denver-colorado-forecast/73-62c25a62-9de4-4bd3-af12-f8c28982afc0",
       "published_at": "2026-08-14T22:33:10+00:00",
       "image": {
@@ -27,6 +28,7 @@
       "summary": "Drought conditions have pushed Blue Mesa Reservoir, a reservoir in western Colorado about 200 miles southwest of Boulder, to historic lows, allowing Lake Granby, a reservoir in the mountains roughly 60 miles west of Boulder, to temporarily claim the title of Colorado's largest reservoir by volume.",
       "source": "9NEWS",
       "topic": "drought-water",
+      "topics_secondary": [],
       "url": "https://www.9news.com/article/weather/weather-ott/lake-granby-largest-reservoir-water/73-8aa40a59-99df-4449-862b-c000e848ec37",
       "published_at": "2026-08-14T13:13:35+00:00",
       "image": {
@@ -47,6 +49,7 @@
       "summary": "",
       "source": "CBS Colorado",
       "topic": "other",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/colorado/video/dogs-on-trails-in-boulder-required-to-be-on-leash-due-to-rise-in-bear-activity/",
       "published_at": "2026-08-14T13:41:00+00:00",
       "image": {
@@ -66,6 +69,7 @@
       "summary": "",
       "source": "Boulder Reporting Lab",
       "topic": "human-interest",
+      "topics_secondary": [],
       "url": "https://boulderreportinglab.org/2026/08/13/a-century-old-boulder-county-war-memorial-is-finally-getting-its-due-now-the-search-is-on-for-1500-families/",
       "published_at": "2026-08-14T03:01:38+00:00",
       "image": {
@@ -85,6 +89,7 @@
       "summary": "The viral dancing sensation is set to return to Denver — the Mile High City, about 30 miles southeast of Boulder — on Friday and Saturday, generating dollars for downtown businesses there.",
       "source": "9NEWS",
       "topic": "civic-events",
+      "topics_secondary": [],
       "url": "https://www.9news.com/article/life/style/colorado-guide/savannah-bananas-denver-business-boom/73-adf22979-ec51-4eeb-914d-ff8d1b292a3c",
       "published_at": "2026-08-14T16:35:13+00:00",
       "image": {
@@ -103,6 +108,7 @@
       "summary": "",
       "source": "9NEWS",
       "topic": "other",
+      "topics_secondary": [],
       "url": "https://www.9news.com/article/travel/denver-international-airport/bullet-found-united-plane-denver-international-airport/73-647f6b6c-9e15-4800-bdb4-bbd490eb9f91",
       "published_at": "2026-08-14T04:27:15+00:00",
       "image": {
@@ -121,6 +127,7 @@
       "summary": "",
       "source": "9NEWS",
       "topic": "human-interest",
+      "topics_secondary": [],
       "url": "https://www.9news.com/article/life/animals/abandoned-llama-rescued-comanche-peak-trail/73-3f34f642-ab79-401f-a3ab-02302cbab40f",
       "published_at": "2026-08-14T03:59:51+00:00",
       "image": {
@@ -139,6 +146,7 @@
       "summary": "Joseph Martinez found the skateboard at La Raza Park, a park in north Denver.",
       "source": "9NEWS",
       "topic": "human-interest",
+      "topics_secondary": [],
       "url": "https://www.9news.com/article/news/local/tony-hawk-gives-away-used-signed-skateboard-in-denver/73-4c72ea91-1074-4d00-87f6-2ab3e9949ef7",
       "published_at": "2026-08-14T04:25:16+00:00",
       "image": {
@@ -168,6 +176,7 @@
       "summary": "According to the DLSS — Colorado's state labor standards division — the new wage of $15.71 represents a 3.6% increase over the current wage and a 41.5% increase from the wage in 2019 of $11.10 an hour.",
       "source": "9NEWS",
       "topic": "business-jobs",
+      "topics_secondary": [],
       "url": "https://www.9news.com/article/news/local/colorado-minimum-wage-2027/73-55a3430b-152e-44ca-9111-2fd9e04ade16",
       "published_at": "2026-08-14T19:57:53+00:00",
       "image": {
@@ -182,6 +191,7 @@
       "summary": "A Flock camera on U.S. 36 in Boulder, the highway linking Boulder to Denver. Credit: Brooke Stephenson After facing privacy concerns, Boulder invited companies to compete for its license plate reader contract and planned to choose a vendor by September. The city now says the process will take longer.",
       "source": "Boulder Reporting Lab",
       "topic": "policing",
+      "topics_secondary": [],
       "url": "https://boulderreportinglab.org/2026/08/13/boulder-delays-license-plate-reader-decision-as-scrutiny-of-flock-intensifies/",
       "published_at": "2026-08-14T03:02:06+00:00",
       "image": {
@@ -197,6 +207,7 @@
       "summary": "Support for UPK — Colorado's universal preschool program, which pays for part of every 4-year-old's preschool — went from 32 local organizations to a help desk with three state staffers, leaving preschool providers hanging ahead of the school year.",
       "source": "9NEWS",
       "topic": "education",
+      "topics_secondary": [],
       "url": "https://www.9news.com/article/news/education/colorado-upk-providers-face-weeks-long-waits-for-help-after-state-downsizes-support-staff/73-17d37c09-1589-4c81-86e3-b195df859e9d",
       "published_at": "2026-08-14T00:31:30+00:00",
       "image": {
@@ -211,6 +222,7 @@
       "summary": "Former employees told CBS Colorado that Colorado Secretary of State Jena Griswold refused to take custody of the consultant's report because it was highly critical of her and she didn't want it subject to open records requests.",
       "source": "CBS Colorado",
       "topic": "elections-politics",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/colorado/video/report-at-center-of-lawsuit-against-colorado-secretary-of-state-griswold-may-have-been-destroyed/",
       "published_at": "2026-08-14T13:34:00+00:00",
       "image": {

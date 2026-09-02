@@ -9,6 +9,7 @@
       "summary": "",
       "source": "CBS Colorado",
       "topic": "severe-weather",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/colorado/video/colorado-heat-eases-as-showers-and-thunderstorms-return-severe-weather-possible-this-weekend/",
       "published_at": "2026-08-22T15:23:00+00:00",
       "image": {
@@ -30,6 +31,7 @@
       "summary": "",
       "source": "CBS Colorado",
       "topic": "human-interest",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/colorado/news/jenny-simpson-cardiac-event-heart-condition-recovery-running/",
       "published_at": "2026-08-22T18:54:58+00:00",
       "image": {
@@ -49,6 +51,7 @@
       "summary": "Colorado Parks and Wildlife says a fisherman was injured in a bear attack in Jefferson County, the foothills county just south of Boulder, on Friday. Wildlife officers located and euthanized the bear on Saturday morning.",
       "source": "CBS Colorado",
       "topic": "wildlife",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/colorado/video/fisherman-attacked-by-bear-in-colorado-bear-found-and-euthanized/",
       "published_at": "2026-08-22T23:56:00+00:00",
       "image": {
@@ -69,6 +72,7 @@
       "summary": "New students at the Colorado School of Mines celebrated the start of the school year by leaving their mark on Mount Zion, the hill above Golden, about 20 miles south of Boulder.",
       "source": "CBS Colorado",
       "topic": "civic-events",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/colorado/news/colorado-school-mines-student-rocks-m-climb-2026/",
       "published_at": "2026-08-22T03:39:11+00:00",
       "image": {
@@ -105,6 +109,7 @@
       "summary": "",
       "source": "CBS Colorado",
       "topic": "drought-water",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/colorado/news/colorado-river-drastic-water-cuts-california-nevada-arizona-drought/",
       "published_at": "2026-08-22T04:01:54+00:00",
       "image": {

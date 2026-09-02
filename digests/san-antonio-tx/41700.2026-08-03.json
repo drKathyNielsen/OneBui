@@ -9,6 +9,7 @@
       "summary": "Castro, San Antonio's local congressman, said that neither Emely nor Fernando has committed a crime.",
       "source": "KENS 5",
       "topic": "immigration-enforcement",
+      "topics_secondary": [],
       "url": "https://www.kens5.com/article/news/politics/immigration-news/san-antonio-teen-detained-immigration-customs-enforcement-joaquin-castro-x/273-7422d593-06ff-4c7c-b1b2-545c4c7f2b59",
       "published_at": "2026-08-03T17:03:01+00:00",
       "image": {
@@ -30,6 +31,7 @@
       "summary": "",
       "source": "KENS 5",
       "topic": "civic-events",
+      "topics_secondary": [],
       "url": "https://www.kens5.com/article/news/local/the-alamo-visit-san-antonio-hamilton-musical-cast-tickets-texas/273-3f5ee737-c124-4ee6-9d7d-edfa2b919117",
       "published_at": "2026-08-03T22:21:16+00:00",
       "image": {
@@ -49,6 +51,7 @@
       "summary": "Methodist Healthcare System announced it has acquired 18 Texas MedClinic urgent care clinics across San Antonio.",
       "source": "San Antonio Report",
       "topic": "business-jobs",
+      "topics_secondary": [],
       "url": "https://sanantonioreport.org/methodist-healthcare-acquires-texas-medclinic-urgent-care-clinics-san-antonio/",
       "published_at": "2026-08-03T19:20:19+00:00",
       "image": {
@@ -69,6 +72,7 @@
       "summary": "Stay updated with the KENS 5 Weather Team, a San Antonio TV station, on this severe weather development and how it impacts you.",
       "source": "KENS 5",
       "topic": "heat",
+      "topics_secondary": [],
       "url": "https://www.kens5.com/article/weather/forecast/weather-impact-alert-dangerous-heat-index-high-pressure-ridge/273-600e4690-6fa2-43c9-9f7b-3642dbe4230e",
       "published_at": "2026-08-03T00:19:23+00:00",
       "image": {
@@ -92,6 +96,7 @@
       "summary": "",
       "source": "San Antonio Report",
       "topic": "data-centers",
+      "topics_secondary": [],
       "url": "https://sanantonioreport.org/data-center-approvals-texas-halted-audit/",
       "published_at": "2026-08-03T22:15:56+00:00",
       "image": {
@@ -107,6 +112,7 @@
       "summary": "",
       "source": "KENS 5",
       "topic": "public-health",
+      "topics_secondary": [],
       "url": "https://www.kens5.com/article/news/local/snap-san-antonio-food-bank-feeding-texas-food-insecurity-hunger-texas-eric-cooper-one-big-beautiful-bill-congress-nutrition-benefits-assistance/273-120e797a-847a-4bc0-b845-fa7887e3d7b9",
       "published_at": "2026-08-03T12:11:49+00:00",
       "image": {
@@ -121,6 +127,7 @@
       "summary": "",
       "source": "KENS 5",
       "topic": "education",
+      "topics_secondary": [],
       "url": "https://www.kens5.com/article/news/education/esas-about-texas-school-vouchers-education-freedom-accounts/269-06f5673f-9466-433c-bfc0-ecff22412d5b",
       "published_at": "2026-08-03T22:25:10+00:00",
       "image": {

@@ -9,6 +9,7 @@
       "summary": "A Heat Advisory remains in effect along the Front Range, the urban corridor at the base of the Rockies that includes Boulder, CO, with gusty storms and wildfire smoke expected. Relief comes on Tuesday as temperatures drop to 80 degrees.",
       "source": "9NEWS",
       "topic": "heat",
+      "topics_secondary": [],
       "url": "https://www.9news.com/article/weather/weather-impact/wildfire-smoke-forecast-denver/73-6dbfa821-0708-4e96-a1a8-93096914389e",
       "published_at": "2026-08-03T23:54:36+00:00",
       "image": {
@@ -29,6 +30,7 @@
       "summary": "The Artemis II crew shared insights and footage from their historic lunar mission at Red Rocks, an outdoor amphitheater in the foothills about 25 miles south of Boulder, CO, marking humanity's first moon trip in over 50 years.",
       "source": "9NEWS",
       "topic": "civic-events",
+      "topics_secondary": [],
       "url": "https://www.9news.com/article/tech/science/aerospace/artemis-ii-astronauts-mission-red-rocks/73-763d5e29-e35f-4103-be88-5bc82060cec3",
       "published_at": "2026-08-03T22:43:41+00:00",
       "image": {
@@ -47,6 +49,7 @@
       "summary": "",
       "source": "CBS Colorado",
       "topic": "civic-events",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/colorado/video/colorados-150th-celebrations-include-mile-long-table-with-5-280-guests/",
       "published_at": "2026-08-03T18:02:00+00:00",
       "image": {
@@ -66,6 +69,7 @@
       "summary": "If it feels like bears are showing up in more suburban spots across Colorado's Front Range, the urban corridor at the base of the Rockies that includes Boulder, CO, this summer, you're not imagining it.",
       "source": "CBS Colorado",
       "topic": "human-interest",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/colorado/news/bears-colorado-suburban-areas-denver/",
       "published_at": "2026-08-03T23:22:58+00:00",
       "image": {
@@ -85,6 +89,7 @@
       "summary": "Colorado Parks and Wildlife advised people to use caution if handling or harvesting fish from Boyd Lake, a reservoir and state park about 25 miles northeast of Boulder, CO, warning that sick or dead fish may carry risks.",
       "source": "9NEWS",
       "topic": "drought-water",
+      "topics_secondary": [],
       "url": "https://www.9news.com/article/news/local/thousands-of-fish-die-boyd-lakedrought-conditions/73-ca5bdb24-458c-4add-ac55-005ed285d80d",
       "published_at": "2026-08-03T23:55:07+00:00",
       "image": {
@@ -103,6 +108,7 @@
       "summary": "",
       "source": "9NEWS",
       "topic": "education",
+      "topics_secondary": [],
       "url": "https://www.9news.com/article/life/style/colorado-guide/colorado-world-top-universities/73-07f7c958-7a3b-4ca8-a1d0-cbc795b3c56e",
       "published_at": "2026-08-03T11:28:46+00:00",
       "image": {
@@ -125,6 +131,7 @@
       "summary": "",
       "source": "9NEWS",
       "topic": "policing",
+      "topics_secondary": [],
       "url": "https://www.9news.com/article/news/crime/aurora-officer-charged-2025-fatal-shooting/73-334aed76-1ccf-403e-a86d-66d8628b29d7",
       "published_at": "2026-08-03T23:56:39+00:00",
       "image": {
@@ -139,6 +146,7 @@
       "summary": "",
       "source": "9NEWS",
       "topic": "elections-politics",
+      "topics_secondary": [],
       "url": "https://www.9news.com/article/news/local/colorado-news/cbi-firearms-background-checks/73-940b75ec-b426-46e3-a712-7b05ec2295d9",
       "published_at": "2026-08-03T20:01:45+00:00",
       "image": {

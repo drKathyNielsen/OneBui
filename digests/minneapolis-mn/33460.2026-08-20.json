@@ -9,6 +9,7 @@
       "summary": "",
       "source": "CBS Minnesota",
       "topic": "immigration-enforcement",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/minnesota/news/5000th-ice-detainee-msp-airport/",
       "published_at": "2026-08-20T23:44:57+00:00",
       "image": {
@@ -28,6 +29,7 @@
       "summary": "",
       "source": "CBS Minnesota",
       "topic": "severe-weather",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/minnesota/video/next-weather-5-p-m-report-on-aug-20-2026/",
       "published_at": "2026-08-20T22:22:00+00:00",
       "image": {
@@ -47,6 +49,7 @@
       "summary": "",
       "source": "FOX 9",
       "topic": "public-health",
+      "topics_secondary": [],
       "url": "https://www.fox9.com/news/minnesota-wisconsin-e-coli-salmonella-alfalfa-sprouts-aug-20-2026",
       "published_at": "2026-08-20T22:18:38+00:00",
       "image": {
@@ -65,6 +68,7 @@
       "summary": "",
       "source": "CBS Minnesota",
       "topic": "drought-water",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/minnesota/news/minnesotas-drought-conditions-water-restrictions-several-cities-2026/",
       "published_at": "2026-08-20T23:08:53+00:00",
       "image": {
@@ -86,6 +90,7 @@
       "summary": "",
       "source": "CBS Minnesota",
       "topic": "transportation",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/minnesota/video/transportation-tips-to-get-to-the-minnesota-state-fair/",
       "published_at": "2026-08-20T22:27:00+00:00",
       "image": {
@@ -105,6 +110,7 @@
       "summary": "",
       "source": "FOX 9",
       "topic": "education",
+      "topics_secondary": [],
       "url": "https://www.fox9.com/news/minnesota-school-phone-bans-research-student-mental-health-performance-aug-20-2026",
       "published_at": "2026-08-20T22:46:53+00:00",
       "image": {
@@ -123,6 +129,7 @@
       "summary": "",
       "source": "FOX 9",
       "topic": "business-jobs",
+      "topics_secondary": [],
       "url": "https://www.fox9.com/news/nasa-minnesota-state-aerospace-work-hub",
       "published_at": "2026-08-20T21:49:29+00:00",
       "image": {
@@ -164,6 +171,7 @@
       "summary": "",
       "source": "FOX 9",
       "topic": "violent-crime",
+      "topics_secondary": [],
       "url": "https://www.fox9.com/news/annunciation-shooting-how-support-honor-community-1-year-anniversary",
       "published_at": "2026-08-20T21:41:35+00:00",
       "image": {
@@ -178,6 +186,7 @@
       "summary": "Between a judge's order and voluntary agreements, the State of Minnesota and Ramsey County, the county that covers St. Paul, just east of Minneapolis, achieved legal blockades against 10 people accused of planning gang violence at the Minnesota State Fair, after years of gang fights and gunfire have caused chaos at the fairgrounds.",
       "source": "CBS Minnesota",
       "topic": "civil-litigation",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/minnesota/news/minnesota-state-fair-gang-members-banned-civil-suit/",
       "published_at": "2026-08-20T23:43:00+00:00",
       "image": {
@@ -193,6 +202,7 @@
       "summary": "",
       "source": "KARE 11",
       "topic": "civil-litigation",
+      "topics_secondary": [],
       "url": "https://www.kare11.com/article/news/local/breaking-the-news/elon-musks-xai-company-faces-off-against-minnesota-in-federal-court/89-e1aa301c-7fca-4f49-bef4-8a0a8705c2e6",
       "published_at": "2026-08-20T01:30:51+00:00",
       "image": {
@@ -207,6 +217,7 @@
       "summary": "",
       "source": "KARE 11",
       "topic": "violent-crime",
+      "topics_secondary": [],
       "url": "https://www.kare11.com/article/news/local/courts-news/victim-families-upset-with-plea-deal-for-boom-island-murder-defendant/89-6594f565-bd1f-4880-9983-6cca29fae3e2",
       "published_at": "2026-08-20T23:42:52+00:00",
       "image": {
@@ -221,6 +232,7 @@
       "summary": "Twin Metals says a copper-nickel mine near the Boundary Waters Canoe Area Wilderness, lake country on the Canadian border roughly 250 miles north of Minneapolis, would bring hundreds of union jobs and 1,400 additional positions. Still, opponents say the environmental risks to the watershed are not worth the trade-offs.",
       "source": "CBS Minnesota",
       "topic": "development-projects",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/minnesota/news/twin-metals-mining-ban-minnesota-copper-nickel-why/",
       "published_at": "2026-08-20T13:59:50+00:00",
       "image": {

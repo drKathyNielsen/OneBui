@@ -1,0 +1,84 @@
+{
+  "shortName": "San Antonio, TX",
+  "metroCode": "41700",
+  "metro": "San Antonio-New Braunfels, TX",
+  "date": "2026-09-02",
+  "are_you_ok": [],
+  "conversation_starters": [
+    {
+      "title": "San Antonio couple wins Food Network's debut season of 'Pitmasters'",
+      "summary": "Esaul and Grecia Ramos, owners of 2M Smokehouse, a San Antonio barbecue restaurant, took home the trophy and a $30,000 prize.",
+      "source": "KENS 5",
+      "topic": "food-dining",
+      "topics_secondary": [
+        "human-interest",
+        "celebrity-entertainment"
+      ],
+      "url": "https://www.kens5.com/article/life/food/2msmokehouse-pitmasters-food-network-esaul-ramos-grecia-barbecue-champions-30000-brisket-southeast-side-san-antonio/273-d1d3722d-a8ab-49fa-b8cd-f6c9b0ae6028",
+      "published_at": "2026-09-02T13:11:14+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/a7b251ea-ccfb-4637-be80-8645774085fd/20260902T130305/a7b251ea-ccfb-4637-be80-8645774085fd_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "b2f633df-2a8a-4d69-abbd-54b936b629d8",
+      "questions": [
+        "Did you follow 2M Smokehouse on the Food Network competition?",
+        "What is your go-to barbecue place in San Antonio?"
+      ],
+      "description": "2M Smokehouse owners Esaul and Grecia Ramos took home the trophy and a $30,000 prize."
+    }
+  ],
+  "sports": [],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "DHS signs $17.3M contract to convert east-side San Antonio warehouse into ICE facility, online records say",
+      "summary": "",
+      "source": "KENS 5",
+      "topic": "immigration-enforcement",
+      "topics_secondary": [],
+      "url": "https://www.kens5.com/article/news/local/dhs-signs-173m-contract-convert-east-side-san-antonio-warehouse-ice-facility-texas-detention-center/273-5a8d5525-85b4-4c44-aa78-b21d5510b46e",
+      "published_at": "2026-09-02T03:19:30+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/a7a64f86-cfdc-445d-bdf2-36a5481cacdb/20260825T184552/a7a64f86-cfdc-445d-bdf2-36a5481cacdb_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "7a568f4e-38fd-4e7b-a689-39272a541948",
+      "description": "The Department of Homeland Security has signed a $17.3 million contract with GardaWorld to convert a San Antonio warehouse into an ICE facility, online records say."
+    },
+    {
+      "title": "Salame to be appointed San Antonio police chief, city leaders confirm",
+      "summary": "",
+      "source": "KENS 5",
+      "topic": "government",
+      "topics_secondary": [
+        "policing"
+      ],
+      "url": "https://www.kens5.com/article/news/local/law-enforcement/san-antonio-texas-satx-new-police-chief-jesse-salame-sapd-retirment-william-mcmanuis-city-council-manager-erik-walsh-announcment-september-2026/273-0c7b5a90-65ec-4312-a5c1-3c87868853ca",
+      "published_at": "2026-09-02T15:05:35+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/a37966dd-c99f-4ffd-9265-f1bc970a1651/20260708T210614/a37966dd-c99f-4ffd-9265-f1bc970a1651_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "1bdac96c-d993-4370-9066-cb1146b6f391",
+      "description": "San Antonio City Manager Erik Walsh is set to announce a new police chief on Wednesday morning, filling the position after the retirement of Chief McManus."
+    },
+    {
+      "title": "'ICE is going to take him:' Mother says her son was wrongly accused of threatening ICE officers in San Antonio",
+      "summary": "",
+      "source": "KENS 5",
+      "topic": "immigration-enforcement",
+      "topics_secondary": [
+        "violent-crime"
+      ],
+      "url": "https://www.kens5.com/article/news/crime/ice-mother-son-wrongly-accused-hreatening-ice-officers-san-antonio/273-1bfa8e71-385a-4959-868d-ba1acc375607",
+      "published_at": "2026-09-02T03:43:38+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/e1ad63ed-8b6a-4e91-9a1f-a248fbeb0774/20260902T023325/e1ad63ed-8b6a-4e91-9a1f-a248fbeb0774_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "e5a09f67-1cd2-408d-bf3a-fc6fadc13d1c",
+      "description": "Josue David Pineda Munoz remains in the Bexar County jail, where he faces a charge of making a terroristic threat."
+    }
+  ]
+}

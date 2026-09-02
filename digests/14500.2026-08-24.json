@@ -9,6 +9,7 @@
       "summary": "Joe Ruch, a meteorologist covering Colorado weather, is tracking hot weather across the state, but the bigger concern is the potential for strong to severe thunderstorms.",
       "source": "CBS Colorado",
       "topic": "severe-weather",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/colorado/video/severe-storms-possible-across-colorado-and-in-denver-monday-through-wednesday/",
       "published_at": "2026-08-24T00:14:00+00:00",
       "image": {
@@ -30,6 +31,7 @@
       "summary": "",
       "source": "Boulder Reporting Lab",
       "topic": "development-projects",
+      "topics_secondary": [],
       "url": "https://boulderreportinglab.org/2026/08/23/boulder-city-council-approves-5-8-million-sale-of-downtown-parking-lot-for-110-room-hotel/",
       "published_at": "2026-08-24T03:51:55+00:00",
       "image": {
@@ -49,6 +51,7 @@
       "summary": "",
       "source": "CBS Colorado",
       "topic": "environment-conservation",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/colorado/news/greenback-cutthroat-trout-rocky-mountain-national-park-fishing/",
       "published_at": "2026-08-24T02:23:31+00:00",
       "image": {
@@ -68,6 +71,7 @@
       "summary": "Marmots are having a moment -- and researchers at the Rocky Mountain Biological Laboratory, a mountain field research station, are hoping their Fat Marmot Week contest can extend the time in the spotlight.",
       "source": "9NEWS",
       "topic": "wildlife",
+      "topics_secondary": [],
       "url": "https://www.9news.com/article/news/local/fat-marmot-week-voting-underway/73-f3279bcd-1d2b-49c1-b299-395b6e3190f9",
       "published_at": "2026-08-24T13:00:00+00:00",
       "image": {
@@ -98,6 +102,7 @@
       "summary": "",
       "source": "Boulder Reporting Lab",
       "topic": "civil-litigation",
+      "topics_secondary": [],
       "url": "https://boulderreportinglab.org/2026/08/23/colorado-appeals-court-upholds-boulders-financing-plan-for-76-5-million-cu-south-flood-project/",
       "published_at": "2026-08-24T03:50:40+00:00",
       "image": {
@@ -113,6 +118,7 @@
       "summary": "",
       "source": "CBS Colorado",
       "topic": "wildfire",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/colorado/news/colorado-major-disaster-declaration-wildfires-aspen-acres-gold-mountain/",
       "published_at": "2026-08-24T00:31:34+00:00",
       "image": {
@@ -128,6 +134,7 @@
       "summary": "After years under a consent decree, the City of Aurora, a large suburb 40 miles SE of Boulder, aims to keep oversight and accountability over APD, the Aurora Police Department, through a new Office of Public Safety Accountability.",
       "source": "9NEWS",
       "topic": "policing",
+      "topics_secondary": [],
       "url": "https://www.9news.com/article/news/local/aurora-to-launch-office-of-public-safety-accountability/73-4bc7da1e-1e5d-439b-b0b0-a84600adab57",
       "published_at": "2026-08-24T04:26:00+00:00",
       "image": {

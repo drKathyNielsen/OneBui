@@ -9,6 +9,7 @@
       "summary": "",
       "source": "9NEWS",
       "topic": "heat",
+      "topics_secondary": [],
       "url": "https://www.9news.com/article/weather/weather-impact/denver-colorado-front-range-weather-alert-hot-temps/73-0515fd9c-2c8b-4db4-aefd-897cf7d9bf43",
       "published_at": "2026-08-02T15:57:57+00:00",
       "image": {
@@ -25,6 +26,7 @@
       "summary": "",
       "source": "CBS Colorado",
       "topic": "civic-events",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/colorado/video/coloradans-celebrate-150-years-of-statehood/",
       "published_at": "2026-08-02T01:36:00+00:00",
       "image": {
@@ -40,6 +42,7 @@
       "summary": "A bear was spotted raiding trash cans early Saturday morning in Cherry Creek, an upscale shopping and residential neighborhood in Denver, about 35 miles southeast of Boulder, CO.",
       "source": "CBS Colorado",
       "topic": "human-interest",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/colorado/video/bear-spotted-in-denvers-cherry-creek-neighborhood/",
       "published_at": "2026-08-02T01:45:00+00:00",
       "image": {
@@ -63,6 +66,7 @@
       "summary": "",
       "source": "9NEWS",
       "topic": "wildfire",
+      "topics_secondary": [],
       "url": "https://www.9news.com/article/news/local/wildfire/wildfires-burning-in-colorado/73-5e0a83db-0795-41e6-af89-59ec243a497d",
       "published_at": "2026-08-02T14:06:38+00:00",
       "image": {

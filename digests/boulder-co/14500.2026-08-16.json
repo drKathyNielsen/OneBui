@@ -9,6 +9,7 @@
       "summary": "Heavy rain soaked parts of Colorado over the weekend, leaving roads and trails muddy and prompting flood warnings in portions of the Denver metro area, the urban stretch southeast of Boulder.",
       "source": "9NEWS",
       "topic": "flood",
+      "topics_secondary": [],
       "url": "https://www.9news.com/article/weather/weather-colorado/rain-totals-colorado/73-4e5d798b-7f70-4a5c-935b-37aaf948596c",
       "published_at": "2026-08-16T17:49:22+00:00",
       "image": {
@@ -27,6 +28,7 @@
       "summary": "",
       "source": "9NEWS",
       "topic": "wildfire",
+      "topics_secondary": [],
       "url": "https://www.9news.com/article/news/local/wildfire/wildfires-burning-in-colorado/73-a06f70ba-1597-4506-84fe-1c06cf6f8bf8",
       "published_at": "2026-08-16T16:07:29+00:00",
       "image": {

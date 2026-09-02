@@ -9,6 +9,7 @@
       "summary": "",
       "source": "KARE 11",
       "topic": "elections-politics",
+      "topics_secondary": [],
       "url": "https://www.kare11.com/article/news/local/breaking-the-news/minneapolis-mayor-planning-budget-cuts-layoffs-and-property-tax-increase-to-offset-budget-shortfall-mn/89-8d5cb256-d490-463d-ad0e-8e815c358165",
       "published_at": "2026-08-06T00:17:48+00:00",
       "image": {
@@ -29,6 +30,7 @@
       "summary": "",
       "source": "CBS Minnesota",
       "topic": "civic-events",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/minnesota/news/minnesota-state-fair-best-in-us-usa-today/",
       "published_at": "2026-08-06T15:29:33+00:00",
       "image": {
@@ -48,6 +50,7 @@
       "summary": "A ground stop is now lifted at Minneapolis-St. Paul International Airport Thursday after \"a regional FAA equipment outage,\" according to the Metropolitan Airports Commission, the public agency that runs the airport.",
       "source": "CBS Minnesota",
       "topic": "transportation",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/minnesota/video/ground-stop-halts-flights-at-minneapolis-st-paul-international-airport/",
       "published_at": "2026-08-06T21:11:00+00:00",
       "image": {
@@ -67,6 +70,7 @@
       "summary": "According to a WARN notice, the layoffs at the Mountain Iron plant — in northern Minnesota's Iron Range, roughly 200 miles north of Minneapolis — were due to \"unforeseen business circumstances.\"",
       "source": "KARE 11",
       "topic": "business-jobs",
+      "topics_secondary": [],
       "url": "https://www.kare11.com/article/news/local/nearly-100-people-laid-off-heliene-facility-in-mountain-iron/89-aded525c-9f56-4ec0-b74f-462fabcb7fcb",
       "published_at": "2026-08-06T17:56:23+00:00",
       "image": {
@@ -85,6 +89,7 @@
       "summary": "A woman from Wayzata, a lakeside suburb about 12 miles west of Minneapolis, is now the rightful owner of artwork that was taken from her relatives by the Nazi regime nearly a century ago.",
       "source": "FOX 9",
       "topic": "human-interest",
+      "topics_secondary": [],
       "url": "https://www.fox9.com/news/art-stolen-nazis-returned-wayzata-family-austrian-government-aug-6-2026",
       "published_at": "2026-08-06T15:49:36+00:00",
       "image": {
@@ -103,6 +108,7 @@
       "summary": "",
       "source": "CBS Minnesota",
       "topic": "drought-water",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/minnesota/video/next-weather-6-p-m-weather-report-for-aug-6-2026/",
       "published_at": "2026-08-06T23:24:00+00:00",
       "image": {
@@ -126,6 +132,7 @@
       "summary": "WCCO, the CBS television station in Minneapolis, found that HSI Special Agent Richard Berger submitted sworn affidavits in 11 cases that judges have now dismissed. He's involved in at least 11 other cases that are still ongoing.",
       "source": "CBS Minnesota",
       "topic": "immigration-enforcement",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/minnesota/news/one-agent-connected-to-several-dropped-assault-cases/",
       "published_at": "2026-08-06T16:19:44+00:00",
       "image": {
@@ -141,6 +148,7 @@
       "summary": "The claim comes after a report by The New York Times that federal immigration officials recently began saying they would seek criminal charges against Witt, the sheriff of Hennepin County, which covers Minneapolis.",
       "source": "KARE 11",
       "topic": "immigration-enforcement",
+      "topics_secondary": [],
       "url": "https://www.kare11.com/article/news/local/ice-in-minnesota/henn-co-sheriff-dawanna-witt-says-feds-threatened-her-with-arrest-over-immigration-policies/89-b0f7734e-4df1-4ccf-ab5b-1b3e94ec3aa0",
       "published_at": "2026-08-06T15:30:46+00:00",
       "image": {
@@ -155,6 +163,7 @@
       "summary": "WCCO, the CBS television station in Minneapolis, reported in January that Minneapolis police officers worked at least $3 million over budget during Operation Metro Surge. In a news conference Thursday, the mayor said he wanted to clear up what he calls misinformation about the numbers.",
       "source": "CBS Minnesota",
       "topic": "policing",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/minnesota/news/minneapolis-mayor-jacob-frey-defends-police-overtime-pay-operation-metro-surge/",
       "published_at": "2026-08-06T20:37:02+00:00",
       "image": {
@@ -170,6 +179,7 @@
       "summary": "Businesses in northeastern Minnesota struggling amid the wildfires burning the Boundary Waters — the lake wilderness on the Canadian border, roughly 250 miles north of Minneapolis — are pushing Governor Walz and state lawmakers to move forward with a special session to pass an economic recovery package.",
       "source": "FOX 9",
       "topic": "wildfire",
+      "topics_secondary": [],
       "url": "https://www.fox9.com/news/mn-wildfires-businesses-push-walz-recovery-package",
       "published_at": "2026-08-06T17:31:54+00:00",
       "image": {
@@ -184,6 +194,7 @@
       "summary": "Fort was among several people, including journalist Don Lemon and civil rights attorney Nekima Levy Armstrong, charged following a protest at a church in St. Paul, the neighboring city just east of Minneapolis.",
       "source": "KARE 11",
       "topic": "immigration-enforcement",
+      "topics_secondary": [],
       "url": "https://www.kare11.com/article/news/local/attorneys-for-georgia-fort-file-to-have-federal-charges-dismissed/89-9e1027d6-4cec-4b64-bf35-3a36958af04d",
       "published_at": "2026-08-06T18:59:55+00:00",
       "image": {
@@ -198,6 +209,7 @@
       "summary": "Lindell distributed pillows with the words \"Mike Lindell for Governor\" on the packaging during the Fourth of July parade in Delano, a small town about 35 miles west of Minneapolis.",
       "source": "KARE 11",
       "topic": "elections-politics",
+      "topics_secondary": [],
       "url": "https://www.kare11.com/article/news/local/judge-finds-enough-probable-cause-mike-lindell-may-have-violated-campaign-law-when-handing-out-pillows-at-parade/89-a54e49ec-70d0-41bf-81a2-4cb5ef1dc59b",
       "published_at": "2026-08-06T21:01:18+00:00",
       "image": {

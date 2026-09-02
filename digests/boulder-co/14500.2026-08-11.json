@@ -10,6 +10,7 @@
       "summary": "",
       "source": "CBS Colorado",
       "topic": "housing",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/colorado/news/san-lazaro-mobile-home-park-residents-colorado-offer-boulder-county-park/",
       "published_at": "2026-08-11T13:42:26+00:00",
       "image": {
@@ -29,6 +30,7 @@
       "summary": "",
       "source": "CBS Colorado",
       "topic": "transportation",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/colorado/news/colorado-teens-charged-adults-cause-crash/",
       "published_at": "2026-08-11T13:16:39+00:00",
       "image": {
@@ -48,6 +50,7 @@
       "summary": "Colorado's hot summer is contributing to an increase in rattlesnake sightings in popular open spaces, including Westminster Hills Open Space in Westminster, a suburb about 15 miles southeast of Boulder on the way to Denver.",
       "source": "CBS Colorado",
       "topic": "other",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/colorado/news/dogs-bitten-rattlesnakes-colorados-westminster-hills-open-space-heat-wave/",
       "published_at": "2026-08-11T13:22:44+00:00",
       "image": {
@@ -67,6 +70,7 @@
       "summary": "Catch the Savannah Bananas in Denver as they bring their show to Coors Field, the Colorado Rockies' ballpark in downtown Denver about 30 miles southeast of Boulder. Meet the players at the Dunkin' in Greenwood Village, a suburb south of Denver.",
       "source": "9NEWS",
       "topic": "civic-events",
+      "topics_secondary": [],
       "url": "https://www.9news.com/article/life/style/colorado-guide/savannah-bananas-dunkin-donuts-colorado/73-639c0875-48d9-4943-9d26-c9cc66a382cc",
       "published_at": "2026-08-11T14:13:13+00:00",
       "image": {
@@ -85,6 +89,7 @@
       "summary": "",
       "source": "CBS Colorado",
       "topic": "transportation",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/colorado/video/denver-city-council-approves-funding-for-denver-international-airport-improvements/",
       "published_at": "2026-08-11T12:51:00+00:00",
       "image": {
@@ -104,6 +109,7 @@
       "summary": "",
       "source": "9NEWS",
       "topic": "other",
+      "topics_secondary": [],
       "url": "https://www.9news.com/article/money/business/srm-concrete-broncos-stadium-footprint/73-5480159c-546d-445a-b4ed-25efbc710e7f",
       "published_at": "2026-08-11T00:04:03+00:00",
       "image": {
@@ -122,6 +128,7 @@
       "summary": "",
       "source": "9NEWS",
       "topic": "other",
+      "topics_secondary": [],
       "url": "https://www.9news.com/article/news/local/colorado-sports-betting-limits/73-2e8b9653-883f-4b82-a8a7-deafe9703092",
       "published_at": "2026-08-11T22:46:04+00:00",
       "image": {
@@ -140,6 +147,7 @@
       "summary": "",
       "source": "CBS Colorado",
       "topic": "housing",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/colorado/video/san-lazaro-mobile-home-residents-race-to-make-competing-offer-for-boulder-county-park/",
       "published_at": "2026-08-11T04:20:00+00:00",
       "image": {
@@ -163,6 +171,7 @@
       "summary": "Police in the far southern section of Longmont, a city about 15 miles northeast of Boulder, shot a man who they said was involved in a domestic disturbance and took a victim hostage.",
       "source": "CBS Colorado",
       "topic": "policing",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/colorado/news/police-longmont-colorado-shoot-kill/",
       "published_at": "2026-08-11T04:17:55+00:00",
       "image": {
@@ -178,6 +187,7 @@
       "summary": "The city council in Aurora, a large suburb on Denver's east side about 40 miles southeast of Boulder, has decided to develop new regulations on data centers instead of voting on a moratorium.",
       "source": "CBS Colorado",
       "topic": "data-centers",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/colorado/video/aurora-city-council-decides-to-develop-new-regulations-on-data-centers/",
       "published_at": "2026-08-11T12:44:00+00:00",
       "image": {

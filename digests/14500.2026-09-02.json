@@ -1,0 +1,114 @@
+{
+  "shortName": "Boulder, CO",
+  "metroCode": "14500",
+  "metro": "Boulder, CO",
+  "date": "2026-09-02",
+  "are_you_ok": [
+    {
+      "title": "First responders warn of continued fire risk despite some downgraded fire restrictions",
+      "summary": "Clear Creek County, a small mountain county about 30 miles southwest of Boulder, along with Jefferson and Arapahoe counties, the suburbs south and southeast of Boulder, and Ouray County, a rural mountain county about 250 miles southwest, are under stage 1 fire restrictions. Pitkin County, a mountain county about 110 miles southwest, and Gilpin County, a small mountain county about 20 miles southwest, are set to roll their restrictions back.",
+      "source": "9NEWS",
+      "topic": "weather-hazard",
+      "topics_secondary": [],
+      "url": "https://www.9news.com/article/news/local/continued-fire-risk-despite-downgraded-fire-restrictions/73-f7e4d1a3-2fa9-4cd3-b54e-378dbd3d39fd",
+      "published_at": "2026-09-02T04:38:25+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/fa56a108-e792-4869-9a20-05fcde9e5907/20260902T043325/fa56a108-e792-4869-9a20-05fcde9e5907_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "0143deb2-0d4d-4c60-a76f-8a21d8598137",
+      "questions": [
+        "Are the fire restrictions affecting anything close to home?",
+        "How has the fire risk around Boulder felt this season?",
+        "Have smoke or fire conditions changed any weekend plans?"
+      ],
+      "description": "Clear Creek, Jefferson, Arapahoe and Ouray counties are under stage 1 restrictions as of this weekend. Pitkin and Gilpin counties are set to roll back by Friday."
+    }
+  ],
+  "conversation_starters": [
+    {
+      "title": "Meet Boulder’s new environmental data collectors: the bees",
+      "summary": "",
+      "source": "9NEWS",
+      "topic": "environment-conservation",
+      "topics_secondary": [
+        "science"
+      ],
+      "url": "https://www.9news.com/article/tech/science/environment/boulders-environmental-data-collectors-bees/73-e5de57aa-1373-4885-ab87-f3022c8c7693",
+      "published_at": "2026-09-02T01:22:18+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/ae1f5beb-20e0-49cd-b773-9f17dd873c92/20260902T003657/ae1f5beb-20e0-49cd-b773-9f17dd873c92_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "eb3af8a1-a420-4620-ad46-215ca01e28a8",
+      "questions": [
+        "Have the bees Boulder is using to collect environmental data come up at all?",
+        "Would that kind of local environmental data be interesting to see?"
+      ],
+      "description": "Boulder started a new bee bio-monitoring project to learn more about the environment from a regional to an individual level."
+    },
+    {
+      "title": "Denver Water eliminating water references in marketing campaign",
+      "summary": "\"Water is Missing\" sees popular water phrases changed on billboards in Denver, the state capital, about 30 miles southeast of Boulder.",
+      "source": "9NEWS",
+      "topic": "drought-water",
+      "topics_secondary": [],
+      "url": "https://www.9news.com/article/news/local/denver-water-eliminating-water-marketing-campaign/73-2e4572c7-5a10-4d19-b8f9-5774a9b7d7f8",
+      "published_at": "2026-09-02T03:40:29+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/bd41e18c-50a9-4341-b7f1-7f3e50b3b0d2/20260902T033044/bd41e18c-50a9-4341-b7f1-7f3e50b3b0d2_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "6c4b25bb-621a-49d3-9647-493d5968f5ca",
+      "questions": [
+        "Have any of the \"Water is Missing\" billboards turned up on the drive to Denver?",
+        "Is water use something people are talking about right now?"
+      ],
+      "description": "\"Water is Missing\" sees popular water phrases changed on Denver billboards"
+    }
+  ],
+  "sports": [
+    {
+      "team": "Nuggets",
+      "scores": [
+        "Kroenke buying the Angels"
+      ]
+    }
+  ],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "Colorado waits for disaster aid as Trump doles out assistance to political allies",
+      "summary": "",
+      "source": "9NEWS",
+      "topic": "elections-politics",
+      "topics_secondary": [
+        "weather-hazard"
+      ],
+      "url": "https://www.9news.com/article/news/politics/colorado-waits-disaster-aid-as-trump-assistance-political-allies/73-bde71ad6-7c44-46d0-883b-d1746d3dc2ad",
+      "published_at": "2026-09-02T00:28:24+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/b125ca14-c8e1-44e0-a579-5eb05390aae4/20260826T002318/b125ca14-c8e1-44e0-a579-5eb05390aae4_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "8ae67c75-e397-4924-b8ee-7193b9fcaa3c",
+      "description": "The Aspen Acres and Gold Mountain fires burned more than 300 homes and caused nearly $19 million in damage to public infrastructure."
+    },
+    {
+      "title": "Boulder’s Spruce Pool will stay open in 2027. After that, its future is unclear.",
+      "summary": "One-time funding will keep the longtime gathering place in Whittier, a neighborhood just northeast of downtown Boulder, open for the 2027 season, but the city says no ongoing funding is available for 2028 as Boulder confronts rising costs and cuts across its recreation system.",
+      "source": "Boulder Reporting Lab",
+      "topic": "government",
+      "topics_secondary": [],
+      "url": "https://boulderreportinglab.org/2026/09/01/boulders-spruce-pool-will-stay-open-in-2027-after-that-its-future-is-unclear/",
+      "published_at": "2026-09-02T05:17:57+00:00",
+      "image": {
+        "url": "https://i0.wp.com/boulderreportinglab.org/wp-content/uploads/2026/09/IMG_07671-scaled.jpeg?fit=1024%2C768&ssl=1",
+        "alt": ""
+      },
+      "uid": "f98bac8d-c867-4448-91a9-abee611c5674",
+      "description": "One-time funding will keep the longtime Whittier gathering place open for the 2027 season, but the city says no ongoing funding is available for 2028 as Boulder confronts rising costs and cuts across its recreation system. The post Boulder’s Spruce Pool will stay open in 2027.",
+      "logo": "https://boulderreportinglab.org/wp-content/uploads/2021/06/cropped-brl-favicon-32x32.png"
+    }
+  ]
+}

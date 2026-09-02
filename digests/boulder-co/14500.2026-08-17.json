@@ -9,6 +9,7 @@
       "summary": "",
       "source": "9NEWS",
       "topic": "flood",
+      "topics_secondary": [],
       "url": "https://www.9news.com/article/weather/weather-colorado/sudden-downpour-strands-drivers-prompts-rescue-efforts-aurora-saturday/73-34f78507-50b7-4a32-96f4-fce84b81fc65",
       "published_at": "2026-08-17T03:51:19+00:00",
       "image": {
@@ -29,6 +30,7 @@
       "summary": "",
       "source": "9NEWS",
       "topic": "education",
+      "topics_secondary": [],
       "url": "https://www.9news.com/article/news/local/outreach/back-to-school/cu-boulder-class-of-2030-move-in-week/73-2001bbd6-c824-4d4c-8a78-36dd72c7d2a0",
       "published_at": "2026-08-17T20:04:53+00:00",
       "image": {
@@ -47,6 +49,7 @@
       "summary": "",
       "source": "CBS Colorado",
       "topic": "wildlife",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/colorado/news/colorado-bear-law-unsecured-trash-violation/",
       "published_at": "2026-08-17T14:44:13+00:00",
       "image": {
@@ -66,6 +69,7 @@
       "summary": "A 2024 Colorado law requires Xcel Energy, the utility that supplies electricity to most of the Front Range including Boulder, to acquire distributed generation paired with battery storage. Developers are now seeking private land in Boulder County, the county Boulder sits in, for the projects, with some proposing leases that could last 40 years.",
       "source": "Boulder Reporting Lab",
       "topic": "development-projects",
+      "topics_secondary": [],
       "url": "https://boulderreportinglab.org/2026/08/16/boulder-county-landowners-are-getting-15000-a-year-offers-to-host-giant-batteries/",
       "published_at": "2026-08-17T03:00:00+00:00",
       "image": {
@@ -85,6 +89,7 @@
       "summary": "",
       "source": "9NEWS",
       "topic": "business-jobs",
+      "topics_secondary": [],
       "url": "https://www.9news.com/article/money/business/alterra-mountain-layoffs/73-3a2345a3-93e5-424e-bd62-44281135c767",
       "published_at": "2026-08-17T14:55:32+00:00",
       "image": {
@@ -103,6 +108,7 @@
       "summary": "",
       "source": "9NEWS",
       "topic": "weather-forecast",
+      "topics_secondary": [],
       "url": "https://www.9news.com/article/weather/weather-colorado/strong-el-nino-colorado-winter-snow/73-4c8112ab-2d0f-464c-ae9a-04a5cc9307dc",
       "published_at": "2026-08-17T15:12:35+00:00",
       "image": {
@@ -139,6 +145,7 @@
       "summary": "Attorneys for the State of Colorado say a newly uncovered White House email provides crucial evidence in their lawsuit alleging the Trump administration retaliated against the state over election policies and the prosecution of former Mesa County Clerk Tina Peters, the local election official convicted over a breach of voting systems in Mesa County, in western Colorado about 250 miles west of Boulder.",
       "source": "CBS Colorado",
       "topic": "elections-politics",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/colorado/news/colorado-cites-white-house-email-key-evidence-lawsuit-against-trump-administration/",
       "published_at": "2026-08-17T23:13:00+00:00",
       "image": {
@@ -154,6 +161,7 @@
       "summary": "Earlier this week, city officials in Golden, Colorado, a small city about 20 miles south of Boulder at the foot of the mountains west of Denver, fired the city manager and fire chief as investigations continue into a reported racist incident at a local fire station. Now, former Fire Chief Kasey Beal is pushing back against the city's decision.",
       "source": "CBS Colorado",
       "topic": "civil-litigation",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/colorado/video/fired-colorado-fire-chief-taking-legal-action-against-city-over-dismissal/",
       "published_at": "2026-08-17T00:27:00+00:00",
       "image": {

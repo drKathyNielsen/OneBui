@@ -9,6 +9,7 @@
       "summary": "",
       "source": "CBS Colorado",
       "topic": "heat",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/colorado/video/staying-hot-across-colorado-but-much-needed-changes-arrive-mid-week/",
       "published_at": "2026-08-10T14:10:00+00:00",
       "image": {
@@ -30,6 +31,7 @@
       "summary": "Xcel, the utility that supplies gas and electricity to Boulder and most of Colorado, now says only about 24 buildings are connected to an aging gas line in downtown Boulder, down from the 66 originally believed. Those customers will be able to keep natural gas service.",
       "source": "Boulder Reporting Lab",
       "topic": "other",
+      "topics_secondary": [],
       "url": "https://boulderreportinglab.org/2026/08/09/boulder-envisioned-an-all-electric-pearl-street-mall-that-plan-is-shrinking/",
       "published_at": "2026-08-10T03:00:00+00:00",
       "image": {
@@ -49,6 +51,7 @@
       "summary": "Joe Ruch is watching monsoon rain — the late-summer surge of moisture that brings Colorado its run of afternoon storms — and cooler temperatures in Colorado.",
       "source": "CBS Colorado",
       "topic": "other",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/colorado/video/here-comes-the-monsoon-in-colorado-rain-for-denver-and-the-mountains/",
       "published_at": "2026-08-10T00:13:00+00:00",
       "image": {
@@ -68,6 +71,7 @@
       "summary": "Dr. Joseph Schacht, at CU Anschutz — the University of Colorado's medical campus in Aurora, east of Denver — led a clinical trial to see if the semaglutide pill used for diabetes and weight loss could help heavy drinkers cut down.",
       "source": "9NEWS",
       "topic": "public-health",
+      "topics_secondary": [],
       "url": "https://www.9news.com/article/news/health/cu-anschutz-clinical-trial-glp-1s-alcohol-use-disorder/73-00b1a234-1d7d-4d58-bd77-b8c627211fc3",
       "published_at": "2026-08-10T03:56:50+00:00",
       "image": {
@@ -86,6 +90,7 @@
       "summary": "The Anythink Nature Library, a groundbreaking indoor-outdoor facility in Thornton, a suburb north of Denver about 20 miles east of Boulder, offers books and gear like snowshoes and wildlife cameras.",
       "source": "9NEWS",
       "topic": "civic-events",
+      "topics_secondary": [],
       "url": "https://www.9news.com/article/life/style/colorado-guide/first-nature-library-colorado/73-1a4a281c-05e5-4864-8fbb-83d5e6f1cf14",
       "published_at": "2026-08-10T14:48:06+00:00",
       "image": {
@@ -104,6 +109,7 @@
       "summary": "A microburst — a sudden, violent downdraft from a thunderstorm — at the fall festival in Ault, a small town on the plains about 50 miles northeast of Boulder, sent a bounce house flying into a vendor, injuring her and destroying her booth.",
       "source": "9NEWS",
       "topic": "severe-weather",
+      "topics_secondary": [],
       "url": "https://www.9news.com/article/news/local/microburst-sends-bounce-house-airborne-injures-vendor/73-6b825d54-9183-4a67-a372-a2ca925b2769",
       "published_at": "2026-08-10T22:16:03+00:00",
       "image": {
@@ -122,6 +128,7 @@
       "summary": "RTD, the Regional Transportation District that runs the buses and trains serving Boulder and the Denver area, expands its program to keep elevator doors open at stations, reducing security issues by over 50%.",
       "source": "9NEWS",
       "topic": "transportation",
+      "topics_secondary": [],
       "url": "https://www.9news.com/article/news/crime/rtd-elevators-open/73-7f706093-8895-45b7-a0ba-a6463c1dff08",
       "published_at": "2026-08-10T16:06:16+00:00",
       "image": {

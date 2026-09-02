@@ -9,6 +9,7 @@
       "summary": "A ground stop has been issued for Denver International Airport, the region's main airport about 45 miles southeast of Boulder, CO, due to thunderstorms moving into the area.",
       "source": "CBS Colorado",
       "topic": "severe-weather",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/colorado/news/ground-stop-denver-international-airport-july-31-2026/",
       "published_at": "2026-08-01T00:16:00+00:00",
       "image": {
@@ -33,6 +34,7 @@
       "summary": "",
       "source": "CBS Colorado",
       "topic": "drought-water",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/colorado/news/multiple-colorado-reservoirs-boat-closures-dropping-water-levels-fish-salvage/",
       "published_at": "2026-08-01T22:12:00+00:00",
       "image": {
@@ -48,6 +50,7 @@
       "summary": "",
       "source": "CBS Colorado",
       "topic": "drought-water",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/colorado/news/colorado-river-plan-spares-upper-basin-states-mandatory-cuts/",
       "published_at": "2026-08-01T02:10:00+00:00",
       "image": {
@@ -63,6 +66,7 @@
       "summary": "",
       "source": "9NEWS",
       "topic": "housing",
+      "topics_secondary": [],
       "url": "https://www.9news.com/article/news/local/advocates-say-denvers-cooling-centers-leave-gaps-for-people-living-outside-during-extreme-heat/73-259db6f4-6c76-4c12-8de8-10861356c81f",
       "published_at": "2026-08-01T23:41:45+00:00",
       "image": {
@@ -77,6 +81,7 @@
       "summary": "",
       "source": "CBS Colorado",
       "topic": "drought-water",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/colorado/news/aurora-successes-struggles-water-conservation-efforts-drought/",
       "published_at": "2026-08-01T22:40:00+00:00",
       "image": {

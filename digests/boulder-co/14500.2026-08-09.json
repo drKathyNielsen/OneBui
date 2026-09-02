@@ -9,6 +9,7 @@
       "summary": "",
       "source": "CBS Colorado",
       "topic": "heat",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/colorado/news/colorado-heat-continues-before-cooler-wetter-weather-arrives/",
       "published_at": "2026-08-09T17:10:08+00:00",
       "image": {
@@ -30,6 +31,7 @@
       "summary": "One person died and another was injured in a grass fire in Northern Colorado, Greeley police said — Greeley being a city about 35 miles northeast of Boulder. It happened in the early afternoon after sudden high winds knocked down power lines near the intersection of Highway 34 and Highway 85, two state highways that cross just outside that city.",
       "source": "CBS Colorado",
       "topic": "severe-weather",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/colorado/video/1-person-dead-another-hurt-in-northern-colorado-after-suspected-microburst/",
       "published_at": "2026-08-09T20:32:00+00:00",
       "image": {
@@ -49,6 +51,7 @@
       "summary": "The Colorado Springs Fire Department says 72 people became ill, and seven were taken to the hospital, during the Tacos and Tequila Festival in Colorado Springs, about 100 miles south of Boulder.",
       "source": "CBS Colorado",
       "topic": "public-health",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/colorado/video/dozens-fall-ill-7-hospitalized-at-festival-in-colorado-springs/",
       "published_at": "2026-08-09T23:16:00+00:00",
       "image": {

@@ -9,6 +9,7 @@
       "summary": "Severe thunderstorms brought heavy rain and hail Saturday afternoon in Denver, southeast of Boulder, and out on the Colorado plains, the flat farm country east of the mountains.",
       "source": "9NEWS",
       "topic": "severe-weather",
+      "topics_secondary": [],
       "url": "https://www.9news.com/article/weather/severe-weather/severe-storm-warning-denver-metro-area/73-6e35649b-2014-442b-b63b-b6c657e43002",
       "published_at": "2026-08-15T20:18:16+00:00",
       "image": {
@@ -29,6 +30,7 @@
       "summary": "",
       "source": "9NEWS",
       "topic": "other",
+      "topics_secondary": [],
       "url": "https://www.9news.com/article/weather/colorado-faces-record-bear-season-new-law-cracks-down/73-a87294ed-013e-4f53-b1ba-15080a7aa1b9",
       "published_at": "2026-08-15T04:33:53+00:00",
       "image": {
@@ -47,6 +49,7 @@
       "summary": "A young bear broke into the Colorado Cherry Company's location on Highway 36 north of Lyons — the road running northwest out of Boulder toward the mountains, through the small town of Lyons about 15 miles away — to chow down on a blueberry pie.",
       "source": "CBS Colorado",
       "topic": "human-interest",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/colorado/news/bear-colorado-cherry-company-pie/",
       "published_at": "2026-08-15T04:22:26+00:00",
       "image": {
@@ -77,6 +80,7 @@
       "summary": "The Trump Administration reportedly targeted Colorado after Gov. Polis refused to pardon Tina Peters, the former county clerk convicted over a breach of election equipment, with claims supported by a critical email unveiled in court.",
       "source": "9NEWS",
       "topic": "elections-politics",
+      "topics_secondary": [],
       "url": "https://www.9news.com/article/news/local/local-politics/trump-administration-accused-targeting-colorado-funding-cuts/73-de71632d-2f98-4120-9ad3-da83ecf64f04",
       "published_at": "2026-08-15T01:56:50+00:00",
       "image": {

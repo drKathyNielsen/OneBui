@@ -9,6 +9,7 @@
       "summary": "Fire officials remain concerned about dry conditions after a fire ignited in Boulder Canyon, the canyon running west from Boulder up into the mountains.",
       "source": "CBS Colorado",
       "topic": "wildfire",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/colorado/video/boulder-fire-officials-concerned-about-dry-conditions-after-fire-ignites-in-boulder-canyon/",
       "published_at": "2026-08-21T14:58:00+00:00",
       "image": {
@@ -28,6 +29,7 @@
       "summary": "The high temperature in Denver, the state capital, about 30 miles southeast of Boulder, reached triple digits for the seventh time this year.",
       "source": "9NEWS",
       "topic": "heat",
+      "topics_secondary": [],
       "url": "https://www.9news.com/article/weather/weather-colorado/denver-heat-breaks-record-friday/73-437b7b85-eca5-4644-94c6-84d8c62a916a",
       "published_at": "2026-08-21T22:07:43+00:00",
       "image": {
@@ -48,6 +50,7 @@
       "summary": "The planned intercity train would connect Fort Collins, a city about 45 miles north of Boulder, and Denver through eight communities, including Longmont, a city about 15 miles northeast of Boulder, and Boulder, using mostly existing tracks and committed state funding plus money from RTD, the Denver-area regional transit agency.",
       "source": "Boulder Reporting Lab",
       "topic": "transportation",
+      "topics_secondary": [],
       "url": "https://boulderreportinglab.org/2026/08/20/colorado-connector-passenger-rail-could-reach-boulder-by-2029-heres-how-the-plan-would-work/",
       "published_at": "2026-08-21T04:28:56+00:00",
       "image": {
@@ -67,6 +70,7 @@
       "summary": "When Mumford & Sons took the stage at Folsom Field, the University of Colorado's football stadium in Boulder, it meant more to the band than a typical show - it was about becoming part of Colorado music history.",
       "source": "CBS Colorado",
       "topic": "arts-culture",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/colorado/news/boulders-folsom-field-music-history-mumford-sons/",
       "published_at": "2026-08-21T14:31:58+00:00",
       "image": {
@@ -86,6 +90,7 @@
       "summary": "",
       "source": "9NEWS",
       "topic": "wildlife",
+      "topics_secondary": [],
       "url": "https://www.9news.com/article/life/style/colorado-guide/move-over-bears-fat-marmot-week-puts-a-spotlight-on-the-alpine-rodents/616-e4a2c589-1040-4179-865f-a724d6e8b20b",
       "published_at": "2026-08-21T14:08:57+00:00",
       "image": {
@@ -104,6 +109,7 @@
       "summary": "",
       "source": "9NEWS",
       "topic": "human-interest",
+      "topics_secondary": [],
       "url": "https://www.9news.com/article/sports/former-cu-track-star-jenny-simpson-says-she-cant-run-due-to-heart-condition/73-d7da4fa9-f5ba-47fb-88c2-9de4edda2f8e",
       "published_at": "2026-08-21T03:35:02+00:00",
       "image": {
@@ -122,6 +128,7 @@
       "summary": "The good news is for areas near Denver and the northeastern plains. In fact, areas from Sterling, a small city about 120 miles northeast of Boulder, down to Deer Trail and Limon, small towns about 65 and 105 miles southeast of Boulder, out to the Kansas state line have dropped down to dry or no drought at all.",
       "source": "CBS Colorado",
       "topic": "drought-water",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/colorado/news/a-little-good-news-for-drought-in-the-denver-metro-area/",
       "published_at": "2026-08-21T02:39:55+00:00",
       "image": {
@@ -141,6 +148,7 @@
       "summary": "",
       "source": "CBS Colorado",
       "topic": "wildlife",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/colorado/news/colorado-bear-encounters-surge-food-restaurant-aspen/",
       "published_at": "2026-08-21T01:23:22+00:00",
       "image": {
@@ -160,6 +168,7 @@
       "summary": "",
       "source": "9NEWS",
       "topic": "human-interest",
+      "topics_secondary": [],
       "url": "https://www.9news.com/article/news/local/denver-wrong-street-signs/73-540a2281-7bd4-4b22-9611-96445579b27d",
       "published_at": "2026-08-21T01:21:49+00:00",
       "image": {
@@ -178,6 +187,7 @@
       "summary": "More than 1,000 new students at Colorado School of Mines climbed Mount Zion, the hill above Golden, a small city about 20 miles south of Boulder, carrying hometown rocks as part of a century-old tradition.",
       "source": "9NEWS",
       "topic": "human-interest",
+      "topics_secondary": [],
       "url": "https://www.9news.com/article/life/style/colorado-guide/colorado-school-mines-freshmen-mount-zion/73-b7aa4e0a-4b59-4b6b-9d09-14da49beb955",
       "published_at": "2026-08-21T15:10:06+00:00",
       "image": {
@@ -208,6 +218,7 @@
       "summary": "",
       "source": "Boulder Reporting Lab",
       "topic": "civil-litigation",
+      "topics_secondary": [],
       "url": "https://boulderreportinglab.org/2026/08/20/environmental-group-sues-trump-administration-over-plan-to-dismantle-boulders-ncar/",
       "published_at": "2026-08-21T04:29:43+00:00",
       "image": {
@@ -223,6 +234,7 @@
       "summary": "Records show BVSD, the Boulder Valley School District, analyzing facilities, planning for staffing changes and exploring uses for buildings that could become vacant. One email suggests officials discussed closing two elementary schools and possibly a middle school, which the superintendent disputes.",
       "source": "Boulder Reporting Lab",
       "topic": "education",
+      "topics_secondary": [],
       "url": "https://boulderreportinglab.org/2026/08/20/emails-show-bvsd-preparing-for-possible-school-closures-months-before-public-recommendation/",
       "published_at": "2026-08-21T04:30:20+00:00",
       "image": {
@@ -238,6 +250,7 @@
       "summary": "",
       "source": "CBS Colorado",
       "topic": "policing",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/colorado/news/denver-gunshot-detection-system-shotspotter-contract-expires/",
       "published_at": "2026-08-21T19:27:56+00:00",
       "image": {
@@ -253,6 +266,7 @@
       "summary": "",
       "source": "CBS Colorado",
       "topic": "civil-litigation",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/colorado/news/email-smoking-gun-colorados-lawsuit-alleging-white-house-retaliation-tina-peters/",
       "published_at": "2026-08-21T20:01:31+00:00",
       "image": {

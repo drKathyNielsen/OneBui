@@ -10,6 +10,7 @@
       "summary": "Drivers across the Twin Cities, the Minneapolis-St. Paul metro area, are feeling the pinch as average gasoline prices have surged past $4 per gallon, fueled by global supply disruptions and refinery issues.",
       "source": "FOX 9",
       "topic": "business-jobs",
+      "topics_secondary": [],
       "url": "https://www.fox9.com/news/twin-cities-gas-prices-hit-4-gallon-up-16-cents-one-week",
       "published_at": "2026-08-17T21:13:16+00:00",
       "image": {
@@ -41,6 +42,7 @@
       "summary": "A federal judge in Massachusetts has lifted the pause that was protecting Somali Temporary Protected Status holders, many of whom live in the Minneapolis-St. Paul area, home to the largest Somali community in the United States.",
       "source": "KARE 11",
       "topic": "immigration-enforcement",
+      "topics_secondary": [],
       "url": "https://www.kare11.com/article/news/local/judge-lifts-pause-allowing-end-to-temporary-protected-status-for-somalia-mn/89-5d47cc3e-2078-498d-85ca-5b95c958f4ce",
       "published_at": "2026-08-17T03:34:17+00:00",
       "image": {
@@ -55,6 +57,7 @@
       "summary": "",
       "source": "KARE 11",
       "topic": "violent-crime",
+      "topics_secondary": [],
       "url": "https://www.kare11.com/article/news/local/hcao-bca-more-details-about-alleged-sex-trafficking-operation/89-fe465d00-65a4-4113-87a3-7769c8bde042",
       "published_at": "2026-08-17T22:42:59+00:00",
       "image": {
@@ -69,6 +72,7 @@
       "summary": "",
       "source": "KARE 11",
       "topic": "elections-politics",
+      "topics_secondary": [],
       "url": "https://www.kare11.com/article/news/local/courts-news/court-rules-against-trump-administration-lawsuit-minnesota-voter-rolls/89-cb9ab373-bca1-4763-aea2-2999ce82cf4f",
       "published_at": "2026-08-17T21:47:52+00:00",
       "image": {

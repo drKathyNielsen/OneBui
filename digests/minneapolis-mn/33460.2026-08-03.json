@@ -9,6 +9,7 @@
       "summary": "",
       "source": "FOX 9",
       "topic": "other",
+      "topics_secondary": [],
       "url": "https://www.fox9.com/news/ram-pickup-trucks-recall-seat-belt-issue",
       "published_at": "2026-08-03T15:49:25+00:00",
       "image": {
@@ -29,6 +30,7 @@
       "summary": "",
       "source": "KARE 11",
       "topic": "civic-events",
+      "topics_secondary": [],
       "url": "https://www.kare11.com/article/news/local/summerslam-major-crowds-business-minneapolis/89-b63491c7-203a-483d-90ad-064a44d80ef1",
       "published_at": "2026-08-03T22:27:24+00:00",
       "image": {
@@ -47,6 +49,7 @@
       "summary": "A data center is set to move into the North Loop, a downtown warehouse-turned-residential district just northwest of the Minneapolis, MN city center, sparking debate over the future of downtown and the best use of local resources.",
       "source": "FOX 9",
       "topic": "data-centers",
+      "topics_secondary": [],
       "url": "https://www.fox9.com/news/data-center-poised-replace-star-tribune-printing-facility-north-loop",
       "published_at": "2026-08-03T22:52:39+00:00",
       "image": {
@@ -65,6 +68,7 @@
       "summary": "While the Minnesota Department of Transportation (MnDOT) said Highway 280, a short connector between Minneapolis, MN and St. Paul, is on track to reopen before the State Fair, some drivers are causing problems during the current closure.",
       "source": "KARE 11",
       "topic": "transportation",
+      "topics_secondary": [],
       "url": "https://www.kare11.com/article/news/local/mndot-highway-280-expected-to-reopen-by-minnesota-state-fair/89-7b3b6afd-88ee-4bf4-859d-a8b74854b81e",
       "published_at": "2026-08-03T23:22:42+00:00",
       "image": {
@@ -83,6 +87,7 @@
       "summary": "Nearly 1,000 firefighters are still working to put out flames in the Boundary Waters Canoe Area Wilderness (BWCA), the vast canoe-country wilderness along the Canadian border in far northeastern Minnesota, roughly 250 miles north of Minneapolis, MN, as officials push to reopen more canoe entry points.",
       "source": "KARE 11",
       "topic": "wildfire",
+      "topics_secondary": [],
       "url": "https://www.kare11.com/article/news/local/breaking-the-news/wildfire-containment-improving-as-bwca-prepares-to-reopen-more-entry-points-this-week/89-7693e6ed-07d3-48ee-be0e-cf4aa375b128",
       "published_at": "2026-08-03T23:55:38+00:00",
       "image": {
@@ -101,6 +106,7 @@
       "summary": "Recent weeks of below-normal rainfall, combined with above-normal temperatures, have worsened drought conditions across north-central Minnesota, the lake-and-forest region a couple hours' drive north of Minneapolis, MN.",
       "source": "KARE 11",
       "topic": "drought-water",
+      "topics_secondary": [],
       "url": "https://www.kare11.com/article/news/state/persistent-drought-continues-to-lower-lake-levels-across-north-central-minnesota-water/89-18329416-f5bf-4f8f-ae4f-531af26d6667",
       "published_at": "2026-08-03T20:36:20+00:00",
       "image": {
@@ -123,6 +129,7 @@
       "summary": "A convicted assassin faces a new round of charges in Hennepin County court — Hennepin County is the county that contains Minneapolis, MN — bringing more pain for the families of his victims and renewed debate about justice in Minnesota.",
       "source": "FOX 9",
       "topic": "violent-crime",
+      "topics_secondary": [],
       "url": "https://www.fox9.com/news/hortman-assassin-raises-health-complaints-conspiracies-state-murder-case-kicks-off",
       "published_at": "2026-08-03T22:19:05+00:00",
       "image": {
@@ -137,6 +144,7 @@
       "summary": "Christian Castro was arrested in Harlingen, Texas, in May and booked into the Cameron County Jail — both in far southern Texas near the Mexico border — where he remains. Hennepin County Attorney Mary Moriarty (Hennepin County contains Minneapolis, MN) has written the Texas governor demanding his extradition back to Minnesota.",
       "source": "KARE 11",
       "topic": "immigration-enforcement",
+      "topics_secondary": [],
       "url": "https://www.kare11.com/article/news/local/ice-in-minnesota/moriarty-pens-letter-to-tx-governor-demanding-ice-officers-extradition-to-mn/89-85c6a408-0e4d-4966-ae42-dbc5f9c933d2",
       "published_at": "2026-08-03T16:54:14+00:00",
       "image": {
@@ -151,6 +159,7 @@
       "summary": "",
       "source": "KARE 11",
       "topic": "policing",
+      "topics_secondary": [],
       "url": "https://www.kare11.com/article/news/local/minneapolis-safety-commissioner-toddrick-barnette-to-step-down-end-of-the-year/89-2b7d7ba1-3b7c-49a9-8063-e05ad22a651b",
       "published_at": "2026-08-03T23:15:59+00:00",
       "image": {
@@ -165,6 +174,7 @@
       "summary": "Minnesota GOP candidate for governor Mike Lindell says he's being wrongly attacked for tossing pillows at parades. A complaint says he's breaking something called the Twinkie law — a Minnesota law limiting free giveaways to influence voters. Esme Murphy listened to a hearing Monday in connection with the accusation.",
       "source": "CBS Minnesota",
       "topic": "elections-politics",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/minnesota/video/mike-lindell-responds-after-being-accused-of-violating-campaign-law/",
       "published_at": "2026-08-03T23:44:00+00:00",
       "image": {

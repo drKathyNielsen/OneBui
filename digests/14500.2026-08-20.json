@@ -9,6 +9,7 @@
       "summary": "The People's Crossing Fire briefly prompted an evacuation warning for areas near Eben G. Fine Park, the park at the western edge of Boulder where Boulder Canyon opens into town. Officials said the fire was out by 10:22 a.m.",
       "source": "Boulder Reporting Lab",
       "topic": "wildfire",
+      "topics_secondary": [],
       "url": "https://boulderreportinglab.org/2026/08/20/wildfire-breaks-out-near-boulder-canyon-evacuation-warning-lifted/",
       "published_at": "2026-08-20T16:21:36+00:00",
       "image": {
@@ -31,6 +32,7 @@
       "summary": "Boulder's annual tulip bulb giveaway, organized by the Parks and Recreation Department and Downtown Boulder Partnership, the nonprofit that promotes the downtown business district, offers free bulbs starting Aug. 19.",
       "source": "9NEWS",
       "topic": "civic-events",
+      "topics_secondary": [],
       "url": "https://www.9news.com/article/life/style/colorado-guide/free-tulip-bulbs-pearl-street-mall/73-e56bcded-31d9-4808-8ac4-c82601dff901",
       "published_at": "2026-08-20T10:51:00+00:00",
       "image": {
@@ -49,6 +51,7 @@
       "summary": "",
       "source": "CBS Colorado",
       "topic": "heat",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/colorado/video/colorado-weather-near-record-heat-friday-before-monsoon-storms-return-this-weekend/",
       "published_at": "2026-08-20T16:55:00+00:00",
       "image": {
@@ -68,6 +71,7 @@
       "summary": "Lafayette, a small city about 10 miles east of Boulder, faces challenges finding over 200 plot holders at its historic cemetery following burial record mishaps.",
       "source": "9NEWS",
       "topic": "human-interest",
+      "topics_secondary": [],
       "url": "https://www.9news.com/article/news/local/lafayette-cemetery-plot-holders/73-d8e5d210-cfbc-48e3-a437-01b74f644678",
       "published_at": "2026-08-20T00:42:58+00:00",
       "image": {
@@ -86,6 +90,7 @@
       "summary": "",
       "source": "9NEWS",
       "topic": "business-jobs",
+      "topics_secondary": [],
       "url": "https://www.9news.com/article/money/business/united-denver-flight-training-hub-grows/73-90c7af6f-e540-4d9f-b5b9-f96938dcf491",
       "published_at": "2026-08-20T22:51:03+00:00",
       "image": {
@@ -104,6 +109,7 @@
       "summary": "One bear was euthanized after the attack in Aspen, a mountain resort town about 150 miles southwest of Boulder. Colorado Parks and Wildlife said drought and a lack of natural food are pushing bears closer to homes and people.",
       "source": "9NEWS",
       "topic": "wildlife",
+      "topics_secondary": [],
       "url": "https://www.9news.com/article/life/animals/bear-attacks-steamboat-springs-aspen-injures/73-2f38d9ad-0a56-4ab4-96ee-7d1ab1f0ee94",
       "published_at": "2026-08-20T02:49:43+00:00",
       "image": {
@@ -122,6 +128,7 @@
       "summary": "Colorado wildlife officials warn of increased bear activity, urging residents to secure attractants and lock vehicles after a bear died in a car in Colorado Springs, a city about 100 miles south of Boulder.",
       "source": "9NEWS",
       "topic": "wildlife",
+      "topics_secondary": [],
       "url": "https://www.9news.com/article/life/animals/bear-dies-hot-car/73-1f33628a-d32b-48c8-a51e-d14b91755c5f",
       "published_at": "2026-08-20T13:03:26+00:00",
       "image": {
@@ -170,6 +177,7 @@
       "summary": "Under the approved plan, residential customers of Xcel Energy, the electric utility company, will see an average increase of about $5 per month, while commercial customers will pay about $7 more each month.",
       "source": "CBS Colorado",
       "topic": "other",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/colorado/video/colorado-regulators-approve-xcel-energy-rate-increase-raising-monthly-electric-bills-1/",
       "published_at": "2026-08-20T16:15:00+00:00",
       "image": {
@@ -185,6 +193,7 @@
       "summary": "An energy company is backing out of a multimillion-dollar mineral rights deal with the Town of Erie, a small town about 12 miles east of Boulder, after residents worked to put the agreement to a ballot vote.",
       "source": "CBS Colorado",
       "topic": "other",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/colorado/news/erie-mineral-rights-sm-energy-cancels-contract-colorado/",
       "published_at": "2026-08-20T12:53:02+00:00",
       "image": {
@@ -200,6 +209,7 @@
       "summary": "",
       "source": "CBS Colorado",
       "topic": "immigration-enforcement",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/colorado/news/health-inspections-immigrant-detention-centers-federal-judge-colorado-law/",
       "published_at": "2026-08-20T23:40:24+00:00",
       "image": {
@@ -215,6 +225,7 @@
       "summary": "In a statement, HCPF, the Colorado Department of Health Care Policy and Financing, said it does not have the authority to cover these services without federal funding.",
       "source": "9NEWS",
       "topic": "public-health",
+      "topics_secondary": [],
       "url": "https://www.9news.com/article/news/politics/federal-rule-cuts-medicaid-funding-gender-affirming-care-minors/73-c1f48b55-667a-4d78-bb70-ca4a3552608b",
       "published_at": "2026-08-20T01:01:04+00:00",
       "image": {
@@ -229,6 +240,7 @@
       "summary": "",
       "source": "9NEWS",
       "topic": "immigration-enforcement",
+      "topics_secondary": [],
       "url": "https://www.9news.com/article/news/local/latino-pride-returns-ice-fears-2025-cancellation/73-85142c11-da40-4faf-a149-6851d8df1110",
       "published_at": "2026-08-20T23:06:45+00:00",
       "image": {

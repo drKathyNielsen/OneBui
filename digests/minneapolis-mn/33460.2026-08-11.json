@@ -10,6 +10,7 @@
       "summary": "",
       "source": "KARE 11",
       "topic": "transportation",
+      "topics_secondary": [],
       "url": "https://www.kare11.com/article/news/local/breaking-the-news/electric-scooters-swarmed-downtown-minneapolis-saturday-night-sparking-safety-concerns-and-city-response/89-fa4a5718-6d68-4a61-81d8-e98373aa3d38",
       "published_at": "2026-08-11T00:19:13+00:00",
       "image": {
@@ -45,6 +46,7 @@
       "summary": "",
       "source": "KARE 11",
       "topic": "elections-politics",
+      "topics_secondary": [],
       "url": "https://www.kare11.com/article/news/local/doj-monitors-polling-sites-in-hennepin-and-ramsey-counties/89-2ebfcbd2-5ef8-4f74-8ab2-c1a73a9ebc29",
       "published_at": "2026-08-11T14:02:22+00:00",
       "image": {
@@ -59,6 +61,7 @@
       "summary": "Democratic U.S. Rep. Ilhan Omar says a Homeland Security Investigations agent was outside her monthly town hall meeting in Richfield, a suburb just south of Minneapolis, on Thursday.",
       "source": "CBS Minnesota",
       "topic": "immigration-enforcement",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/minnesota/news/ilhan-omar-federal-agent-richfield-meeting/",
       "published_at": "2026-08-11T12:18:35+00:00",
       "image": {
@@ -74,6 +77,7 @@
       "summary": "A growing number of Minnesota communities are rethinking their use of Flock license-plate-reading cameras as debates over privacy and surveillance heat up.",
       "source": "FOX 9",
       "topic": "policing",
+      "topics_secondary": [],
       "url": "https://www.fox9.com/news/minnesota-cities-pull-back-flock-cameras-amid-public-pushback",
       "published_at": "2026-08-11T03:13:27+00:00",
       "image": {
@@ -88,6 +92,7 @@
       "summary": "The U.S. Forest Service said the incident occurred at around 10:40 a.m. near Ely, a town in far northeastern Minnesota, roughly 230 miles north of Minneapolis, and said fire and emergency medical services responded.",
       "source": "KARE 11",
       "topic": "wildfire",
+      "topics_secondary": [],
       "url": "https://www.kare11.com/article/news/local/individual-dies-medical-emergency-while-battling-wildfires-northern-mn/89-9ee29bf1-3fb0-4bba-b4d7-987064163a08",
       "published_at": "2026-08-11T21:43:40+00:00",
       "image": {

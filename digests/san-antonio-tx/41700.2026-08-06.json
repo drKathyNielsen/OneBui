@@ -10,6 +10,7 @@
       "summary": "The 7-year-old domesticated kangaroo escaped Saturday morning from his home in Adkins, a small community in Wilson County about 20 miles southeast of San Antonio. His owner is offering a $1,000 reward for information that leads her to him.",
       "source": "KENS 5",
       "topic": "human-interest",
+      "topics_secondary": [],
       "url": "https://www.kens5.com/article/news/local/peanut-drones-horses-search-missing-kangaroo-wilson-county-adkins/273-9eb21f28-2d1d-4a5f-862b-7b6fd7dd8cb3",
       "published_at": "2026-08-06T03:24:14+00:00",
       "image": {
@@ -28,6 +29,7 @@
       "summary": "Great Hearts Texas opened the restored Koehler House, a historic mansion just north of downtown San Antonio, which the school will lease for use as a library, for art and music, and offices.",
       "source": "San Antonio Report",
       "topic": "civic-events",
+      "topics_secondary": [],
       "url": "https://sanantonioreport.org/charter-historic-koehler-house-great-hearts-weston-urban/",
       "published_at": "2026-08-06T15:25:35+00:00",
       "image": {
@@ -47,6 +49,7 @@
       "summary": "The Texas Department of Transportation has initiated the final phase of the Loop 1604 North Expansion Project, a $1.4 billion effort to widen the highway loop that rings San Antonio's north side.",
       "source": "KENS 5",
       "topic": "transportation",
+      "topics_secondary": [],
       "url": "https://www.kens5.com/article/news/local/txdot-final-phasef-loop-1604-north-expansion-project-other-segments-completion/273-3651889b-4694-4a32-8e54-06e573ddeae4",
       "published_at": "2026-08-06T03:44:45+00:00",
       "image": {
@@ -69,6 +72,7 @@
       "summary": "Three of the city's biggest legacy investments — Project Marvel, the downtown sports and entertainment district planned around a new Spurs arena, city-funded pre-K, and workforce training — could go before voters for recommitment in an already high-stakes midterm.",
       "source": "San Antonio Report",
       "topic": "elections-politics",
+      "topics_secondary": [],
       "url": "https://sanantonioreport.org/san-antonio-project-marvel-prek4sa-ready-to-work-nov-3-midterm-ballot/",
       "published_at": "2026-08-06T20:49:21+00:00",
       "image": {
@@ -84,6 +88,7 @@
       "summary": "House Bill 8 tied community college funding to student outcomes, but now the model is being adjusted as colleges — including San Antonio's Alamo Colleges district — outperformed state expectations.",
       "source": "San Antonio Report",
       "topic": "education",
+      "topics_secondary": [],
       "url": "https://sanantonioreport.org/texas-hb-8-alamo-colleges-millions-lost-state-funding/",
       "published_at": "2026-08-06T10:00:00+00:00",
       "image": {
@@ -99,6 +104,7 @@
       "summary": "",
       "source": "KENS 5",
       "topic": "elections-politics",
+      "topics_secondary": [],
       "url": "https://www.kens5.com/article/news/politics/spurs-arena-vote-san-antonio-mayor-jones-project-marvel-study-election/273-83a7f2c9-5b9a-464f-a48e-3f474281b80f",
       "published_at": "2026-08-06T00:37:40+00:00",
       "image": {

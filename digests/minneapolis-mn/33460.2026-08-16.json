@@ -9,6 +9,7 @@
       "summary": "",
       "source": "CBS Minnesota",
       "topic": "drought-water",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/minnesota/news/severe-drought-expands-minnesota-aug-2026/",
       "published_at": "2026-08-16T18:41:29+00:00",
       "image": {
@@ -30,6 +31,7 @@
       "summary": "",
       "source": "KARE 11",
       "topic": "civic-events",
+      "topics_secondary": [],
       "url": "https://www.kare11.com/article/news/local/porchfest-music-fans-south-minneapolis/89-2504406f-6e29-43c6-ab10-3c6561327eec",
       "published_at": "2026-08-16T03:23:20+00:00",
       "image": {
@@ -78,6 +80,7 @@
       "summary": "A former assistant county attorney for Anoka County, the northern suburbs of Minneapolis, is now facing serious charges for her alleged role in a commercial sex trafficking operation.",
       "source": "FOX 9",
       "topic": "violent-crime",
+      "topics_secondary": [],
       "url": "https://www.fox9.com/news/ex-anoka-county-prosecutor-charged-expert-explains-trafficking-allegations",
       "published_at": "2026-08-16T02:32:55+00:00",
       "image": {
@@ -92,6 +95,7 @@
       "summary": "",
       "source": "FOX 9",
       "topic": "elections-politics",
+      "topics_secondary": [],
       "url": "https://www.fox9.com/news/authorities-reviewing-election-voting-vouching-stunt-conservative-influencer",
       "published_at": "2026-08-16T23:51:38+00:00",
       "image": {
@@ -106,6 +110,7 @@
       "summary": "The family of Kristen and Evie Brown, the victims in Wednesday's double murder-suicide in Hopkins, a suburb just west of Minneapolis, has released a statement through the Hopkins Police Department.",
       "source": "CBS Minnesota",
       "topic": "violent-crime",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/minnesota/news/families-hopkins-daycare-united-statement/",
       "published_at": "2026-08-16T00:13:11+00:00",
       "image": {

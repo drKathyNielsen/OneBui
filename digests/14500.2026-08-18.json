@@ -9,6 +9,7 @@
       "summary": "Watch the forecast from Lauren Whitney, a local television meteorologist.",
       "source": "CBS Colorado",
       "topic": "severe-weather",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/colorado/video/severe-storms-possible-around-the-denver-area/",
       "published_at": "2026-08-18T14:08:00+00:00",
       "image": {
@@ -30,6 +31,7 @@
       "summary": "",
       "source": "9NEWS",
       "topic": "civic-events",
+      "topics_secondary": [],
       "url": "https://www.9news.com/article/life/style/colorado-guide/cu-boulder-official-partner-sundance-film-festival/73-162fac1e-1862-42a0-b8d2-180742a928f8",
       "published_at": "2026-08-18T22:39:58+00:00",
       "image": {
@@ -48,6 +50,7 @@
       "summary": "",
       "source": "CBS Colorado",
       "topic": "transportation",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/colorado/news/new-law-colorado-teenagers-drivers-training-permit/",
       "published_at": "2026-08-18T12:52:08+00:00",
       "image": {
@@ -67,6 +70,7 @@
       "summary": "",
       "source": "9NEWS",
       "topic": "business-jobs",
+      "topics_secondary": [],
       "url": "https://www.9news.com/article/news/local/colorado-news/airbnb-offers-bonus-sundance-rental-demand-surges-boulder/73-64181fec-5628-4df1-8c77-79dbe5f0f33a",
       "published_at": "2026-08-18T22:06:29+00:00",
       "image": {
@@ -85,6 +89,7 @@
       "summary": "",
       "source": "CBS Colorado",
       "topic": "wildlife",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/colorado/news/bear-dies-trapped-inside-car-colorado-springs/",
       "published_at": "2026-08-18T14:07:52+00:00",
       "image": {
@@ -104,6 +109,7 @@
       "summary": "",
       "source": "9NEWS",
       "topic": "human-interest",
+      "topics_secondary": [],
       "url": "https://www.9news.com/article/sports/baseball/kristen-bell-savannah-bananas-frozen-songs/73-cf04c627-3d6f-425c-826f-6acdcd844607",
       "published_at": "2026-08-18T11:40:14+00:00",
       "image": {
@@ -140,6 +146,7 @@
       "summary": "",
       "source": "9NEWS",
       "topic": "business-jobs",
+      "topics_secondary": [],
       "url": "https://www.9news.com/article/money/business/small-business/colorado-minimum-wage-rising/73-b563ece8-e44e-4830-a4d4-9ee49e5a61a4",
       "published_at": "2026-08-18T09:49:32+00:00",
       "image": {
@@ -154,6 +161,7 @@
       "summary": "Attorneys for the State of Colorado say a newly uncovered White House email provides crucial evidence in their lawsuit alleging the Trump administration retaliated against the state over election policies and the prosecution of former Mesa County Clerk Tina Peters, the local election official convicted over a breach of voting systems in Mesa County, in western Colorado about 250 miles west of Boulder.",
       "source": "CBS Colorado",
       "topic": "elections-politics",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/colorado/video/colorado-cites-white-house-email-as-key-evidence-in-lawsuit-against-trump-administration/",
       "published_at": "2026-08-18T03:26:00+00:00",
       "image": {
@@ -169,6 +177,7 @@
       "summary": "Monday is the deadline for the GEO Group, the private company that runs the facility, to turn over information about a case of tuberculosis inside the ICE detention center in Aurora, a large suburb 40 miles SE of Boulder.",
       "source": "CBS Colorado",
       "topic": "public-health",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/colorado/video/deadline-arrives-for-colorado-department-of-health-order-over-ice-detention-center-tuberculosis-case/",
       "published_at": "2026-08-18T03:31:00+00:00",
       "image": {
@@ -184,6 +193,7 @@
       "summary": "",
       "source": "9NEWS",
       "topic": "violent-crime",
+      "topics_secondary": [],
       "url": "https://www.9news.com/article/news/crime/castle-rock-man-pleads-guilty-attempting-to-support-isis/73-ff66d186-96c5-4c4b-929c-17eb769449a2",
       "published_at": "2026-08-18T01:51:26+00:00",
       "image": {

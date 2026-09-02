@@ -9,6 +9,7 @@
       "summary": "A new daily high temperature record for Denver on Aug. 3 was set on Monday afternoon, according to the National Weather Service. (Denver sits about 30 miles southeast of Boulder, CO.)",
       "source": "CBS Colorado",
       "topic": "heat",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/colorado/news/denver-heat-record-high-temperature/",
       "published_at": "2026-08-04T00:45:29+00:00",
       "image": {
@@ -30,6 +31,7 @@
       "summary": "Flights bound for Denver were diverted about 70 miles south to Colorado Springs due to severe weather; five passengers received medical attention and one passenger was taken to the hospital.",
       "source": "9NEWS",
       "topic": "severe-weather",
+      "topics_secondary": [],
       "url": "https://www.9news.com/article/travel/denver-international-airport/dia-flights-diverted-severe-weather/73-98228a78-8540-470a-a521-c1395ea9a533",
       "published_at": "2026-08-04T13:24:07+00:00",
       "image": {
@@ -48,6 +50,7 @@
       "summary": "Denver, about 30 miles southeast of Boulder, experienced an extraordinary 50-degree temperature swing within 14 hours, with smoky skies adding to the dramatic weather change.",
       "source": "9NEWS",
       "topic": "air-quality",
+      "topics_secondary": [],
       "url": "https://www.9news.com/article/weather/weather-colorado/denver-temperature-swing-wildfire-smoke/73-4690ac03-7a99-4473-9bf5-cc13cb2092cb",
       "published_at": "2026-08-04T16:45:28+00:00",
       "image": {
@@ -66,6 +69,7 @@
       "summary": "The Denver Broncos NFL team shared updated plans for a potential new stadium at Burnham Yard, a former rail yard just southwest of downtown Denver (about 30 miles southeast of Boulder), after listening to community feedback.",
       "source": "9NEWS",
       "topic": "business-jobs",
+      "topics_secondary": [],
       "url": "https://www.9news.com/article/sports/nfl/denver-broncos/broncos-release-updated-burnham-yard-renderings/73-6359889d-39a2-4bed-b843-3d522969195f",
       "published_at": "2026-08-04T17:26:08+00:00",
       "image": {
@@ -84,6 +88,7 @@
       "summary": "The crew of NASA's Artemis II mission took the stage at Red Rocks, the well-known outdoor amphitheater in the foothills about 20 miles southeast of Boulder, to talk about their upcoming trip around the Moon.",
       "source": "CBS Colorado",
       "topic": "civic-events",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/colorado/video/artemis-ii-crew-takes-the-stage-at-red-rocks/",
       "published_at": "2026-08-04T12:47:00+00:00",
       "image": {
@@ -103,6 +108,7 @@
       "summary": "Cargill and Teamsters Local 455 reached a tentative agreement that could have ended the over-70-day lockout at the meat processing plant in Fort Morgan, a town about 80 miles northeast of Boulder. Union members voted against the settlement, continuing the lockout.",
       "source": "CBS Colorado",
       "topic": "business-jobs",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/colorado/video/union-members-rejected-the-tentative-cargill-agreement-continuing-a-more-than-70-day-lockout/",
       "published_at": "2026-08-04T17:45:00+00:00",
       "image": {
@@ -122,6 +128,7 @@
       "summary": "An 11-year-old girl rushed to help her neighbors after a fire broke out at an apartment building in Aurora, a large suburb about 35 miles southeast of Boulder, CO.",
       "source": "CBS Colorado",
       "topic": "human-interest",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/colorado/video/girl-helps-neighbors-get-to-safety-during-fire-at-apartment-complex/",
       "published_at": "2026-08-04T00:30:00+00:00",
       "image": {
@@ -164,6 +171,7 @@
       "summary": "There's been renewed attention on how Aurora, the large suburb just east of Denver (about 35 miles southeast of Boulder), polices the community in the years following Elijah McClain's death at the hands of Aurora Police Department (APD) officers and paramedics.",
       "source": "9NEWS",
       "topic": "policing",
+      "topics_secondary": [],
       "url": "https://www.9news.com/article/news/local/grand-jury-indicts-apd-officer-use-force-aurora-under-consent-decree-improve-departments-responses/73-5dd4623e-fa48-44f1-9ebd-a6d18bade262",
       "published_at": "2026-08-04T04:30:43+00:00",
       "image": {
@@ -178,6 +186,7 @@
       "summary": "More than 4,700 complaints have been filed with Denver Water, the utility serving the Denver area about 30 miles southeast of Boulder, by people who say their neighbors are using too much water.",
       "source": "9NEWS",
       "topic": "drought-water",
+      "topics_secondary": [],
       "url": "https://www.9news.com/article/news/local/denver-has-cut-water-usage-5-percent-this-summer-well-short-20-percent-goal/73-994e0f99-0751-42a7-8121-c79b8279db9d",
       "published_at": "2026-08-04T00:59:05+00:00",
       "image": {

@@ -10,6 +10,7 @@
       "summary": "The Minnesota State Fairgrounds are buzzing as food vendors prepare for the start of the Great Minnesota Get-Together, the state fair's longtime nickname.",
       "source": "CBS Minnesota",
       "topic": "civic-events",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/minnesota/news/minnesota-state-fair-food-vendors-preparations/",
       "published_at": "2026-08-14T22:48:00+00:00",
       "image": {
@@ -40,6 +41,7 @@
       "summary": "Homeland Security officers were spying on community meetings during Operation Metro Surge, the federal enforcement push in the Minneapolis-St. Paul area, according to court documents. The federal agents went undercover to identify people they described as violent, the filings said. As Conor Wight shows, the surveillance targeted progressive groups and labor unions.",
       "source": "CBS Minnesota",
       "topic": "policing",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/minnesota/video/federal-operation-targeted-progressive-groups-unions-in-minnesota/",
       "published_at": "2026-08-14T23:42:00+00:00",
       "image": {
@@ -55,6 +57,7 @@
       "summary": "",
       "source": "KARE 11",
       "topic": "immigration-enforcement",
+      "topics_secondary": [],
       "url": "https://www.kare11.com/article/news/local/breaking-the-news/alex-pretti-family-attorney-interview-kare/89-9823cb39-4659-48bc-9e02-7d40fe7c0101",
       "published_at": "2026-08-14T00:29:40+00:00",
       "image": {
@@ -69,6 +72,7 @@
       "summary": "Minnesota's drought is getting worse. The latest conditions show nearly half the state is dealing with severe drought conditions. That includes part of the Minneapolis-St. Paul metro area. Photojournalist Ray Campos and Frankie McLister show how it's impacting Minnesota farmers.",
       "source": "CBS Minnesota",
       "topic": "drought-water",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/minnesota/video/minnesota-farmers-navigate-worsening-drought-conditions/",
       "published_at": "2026-08-14T23:28:00+00:00",
       "image": {
@@ -84,6 +88,7 @@
       "summary": "",
       "source": "KARE 11",
       "topic": "elections-politics",
+      "topics_secondary": [],
       "url": "https://www.kare11.com/article/news/politics/elections/minnesota-secretary-of-state-discredits-viral-investigation-into-vouching-voter-registration/89-5d5f6f7d-a8f2-4590-bd94-59139ca7a320",
       "published_at": "2026-08-14T22:14:18+00:00",
       "image": {
@@ -98,6 +103,7 @@
       "summary": "",
       "source": "FOX 9",
       "topic": "policing",
+      "topics_secondary": [],
       "url": "https://www.fox9.com/news/flock-camera-backlash-mn-cities-keep-license-plate-readers-despite-privacy-concerns-aug-2026",
       "published_at": "2026-08-14T22:01:11+00:00",
       "image": {
@@ -112,6 +118,7 @@
       "summary": "The Hennepin County Medical Examiner has identified both the victims and alleged perpetrator involved in a murder-suicide at a daycare center in Hopkins, a suburb just west of Minneapolis.",
       "source": "FOX 9",
       "topic": "violent-crime",
+      "topics_secondary": [],
       "url": "https://www.fox9.com/news/hopkins-daycare-deaths-victims-alleged-perpetrator-id-aug-14-2026",
       "published_at": "2026-08-14T20:38:50+00:00",
       "image": {
@@ -126,6 +133,7 @@
       "summary": "",
       "source": "FOX 9",
       "topic": "wildfire",
+      "topics_secondary": [],
       "url": "https://www.fox9.com/news/walz-flags-half-staff-firefighter-died-responding-mn-wildfires",
       "published_at": "2026-08-14T16:43:29+00:00",
       "image": {

@@ -4,8 +4,8 @@
   "metroCode": "33460",
   "metro": "Minneapolis-St. Paul-Bloomington, MN-WI",
   "range": {
-    "start": "2026-08-26",
-    "end": "2026-09-01"
+    "start": "2026-08-27",
+    "end": "2026-09-02"
   },
   "are_you_ok": [
     {
@@ -72,6 +72,117 @@
   ],
   "conversation_starters": [
     {
+      "title": "Which food vendors make the most money at the Minnesota State Fair?",
+      "summary": "The Minnesota State Fair opened with new attractions, including the America 250 Wheel and the Summer Lakes Boat House, and broke its Day 1 attendance record. Fairgoers made AI-generated ‘butter busts’ of themselves, which the fair's AI Hub used to spark discussion about artificial intelligence, while more than 300 food vendors competed for the crowd's cash and stomach space.",
+      "source": "CBS Minnesota",
+      "topic": "business-jobs",
+      "topics_secondary": [
+        "food-dining"
+      ],
+      "url": "https://www.cbsnews.com/minnesota/news/minnesota-state-fair-which-vendors-make-the-most-money/",
+      "published_at": "2026-09-02T03:31:12+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/31/80da53e6-3a96-4207-bc29-2507ec7ef34b/thumbnail/1024x576/05979b60ecd135a9d10ea3ba18699894/gettyimages-1340349078.jpg",
+        "alt": ""
+      },
+      "uid": "822f0125-3811-4c9f-8e3a-df3992892abc",
+      "description": "There's more than 300 vendors keeping people fed at the Minnesota State Fair. That's a lot of competition for your cash and the limited space in your stomach.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg",
+      "questions": [
+        "Have you been out to the Minnesota State Fair?",
+        "What's the one State Fair food worth standing in line for?",
+        "Is there a fair vendor you go back to every year?"
+      ],
+      "thread": [
+        {
+          "title": "America 250 Wheel debuts at Minnesota State Fair on opening day",
+          "summary": "",
+          "source": "CBS Minnesota",
+          "topic": "culture-events",
+          "topics_secondary": [],
+          "url": "https://www.cbsnews.com/minnesota/video/america-250-wheel-debuts-at-minnesota-state-fair-on-opening-day/",
+          "published_at": "2026-08-27T17:45:00+00:00",
+          "image": {
+            "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/27/086bb2c9-954c-41fd-92b2-438dbe07dd05/thumbnail/1024x576/cb0276ffffd9e94e30b3c5384f06f087/def5c6e324dfaa685477b9e9650f8cd3.jpg",
+            "alt": ""
+          },
+          "uid": "5adf57c9-2082-4f58-993a-95132dc87713",
+          "description": "The Minnesota State Fair is open, with new attractions including the America 250 Wheel and the Summer Lakes Boat House added to this year's lineup.",
+          "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+        },
+        {
+          "title": "Minnesota State Fair breaks Day 1 attendance record",
+          "summary": "",
+          "source": "FOX 9",
+          "topic": "culture-events",
+          "topics_secondary": [],
+          "url": "https://www.fox9.com/news/minnesota-state-fair-breaks-day-1-attendance-record",
+          "published_at": "2026-08-28T18:30:26+00:00",
+          "image": {
+            "url": "https://static.fox9.com/www.fox9.com/content/uploads/2025/08/11vo-mn-state-fair-_1_kmsp7e75_146_mxf_00.00.08.18.jpg",
+            "alt": ""
+          },
+          "uid": "c1a003c4-0164-48f5-b925-127a863e964f",
+          "description": "A record-breaking number of fairgoers was recorded on the first day of this year's great Minnesota Get-Together."
+        },
+        {
+          "title": "Minnesota State Fair visitors get their own AI-generated ‘butter busts’",
+          "summary": "",
+          "source": "KARE 11",
+          "topic": "culture-events",
+          "topics_secondary": [],
+          "url": "https://www.kare11.com/article/news/mn-state-fair-visitors-get-their-own-ai-generated-butter-busts/89-ec8d9606-3d86-4a05-b66d-5b47dc2d7b49",
+          "published_at": "2026-08-29T23:12:34+00:00",
+          "image": {
+            "url": "https://media.tegna-media.com/assets/KARE/images/3aa68222-0206-473e-8dba-7ed70174cae0/20260829T230432/3aa68222-0206-473e-8dba-7ed70174cae0_750x422.jpg",
+            "alt": ""
+          },
+          "uid": "33a108bd-51c2-43cc-a6bf-98d5dea97d94",
+          "description": "Attendees at the Minnesota State Fair enjoyed creating AI-generated butter busts, sparking discussions led by the AI Hub about the use of artificial intelligence."
+        },
+        {
+          "title": "Which food vendors make the most money at the Minnesota State Fair?",
+          "summary": "",
+          "source": "CBS Minnesota",
+          "topic": "business-jobs",
+          "topics_secondary": [
+            "food-dining"
+          ],
+          "url": "https://www.cbsnews.com/minnesota/news/minnesota-state-fair-which-vendors-make-the-most-money/",
+          "published_at": "2026-09-02T03:31:12+00:00",
+          "image": {
+            "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/31/80da53e6-3a96-4207-bc29-2507ec7ef34b/thumbnail/1024x576/05979b60ecd135a9d10ea3ba18699894/gettyimages-1340349078.jpg",
+            "alt": ""
+          },
+          "uid": "822f0125-3811-4c9f-8e3a-df3992892abc",
+          "description": "There's more than 300 vendors keeping people fed at the Minnesota State Fair. That's a lot of competition for your cash and the limited space in your stomach.",
+          "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Como Zoo welcomes 2 new gorillas, Nora and Kamba",
+      "summary": "",
+      "source": "CBS Minnesota",
+      "topic": "human-interest",
+      "topics_secondary": [
+        "animal-welfare"
+      ],
+      "url": "https://www.cbsnews.com/minnesota/news/como-zoo-welcomes-2-new-gorillas-nora-and-kamba/",
+      "published_at": "2026-09-01T20:23:00+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/01/6a44c554-da6b-4754-8dfc-b2e52e079af6/thumbnail/1024x576/d4df4750d6b818dd788f3928285d1600/untitled-may-03-2026-at-10-00-28-1.png",
+        "alt": ""
+      },
+      "uid": "6c7eb3c4-cdeb-4646-8a6e-021f1e1330c7",
+      "description": "The female western lowland gorillas recently arrived from Brookfield Zoo Chicago, where they were both born and grew up together.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg",
+      "questions": [
+        "Have you been to Como Zoo?",
+        "Is seeing the new gorillas at Como Zoo on your list?"
+      ]
+    },
+    {
       "title": "Thousands of Twin Cities kids head back to school before Labor Day",
       "summary": "",
       "source": "CBS Minnesota",
@@ -89,6 +200,140 @@
       "questions": [
         "Did school start earlier than usual this year for families around you?",
         "How is the early start going for the kids in your life?"
+      ]
+    },
+    {
+      "title": "Never-before-heard Prince recordings featured on new album",
+      "summary": "The Prince estate opened the late Minneapolis musician's vault, releasing recordings no one had heard spanning 40 years of his career. WCCO, the CBS television station in Minneapolis, showed fans what to expect from the release, which arrived as an album called \"Timeless.\"",
+      "source": "CBS Minnesota",
+      "topic": "celebrity-entertainment",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/minnesota/news/prince-new-album-timeless-estate-music/",
+      "published_at": "2026-08-29T00:04:15+00:00",
+      "image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/28/c9aa4ce5-2762-49fc-904d-3e40844958de/thumbnail/1024x576/92b17fb86ce3ece47c0b10fd7f90c868/gettyimages-74291807.jpg",
+        "alt": ""
+      },
+      "uid": "3c2863e2-afe3-4706-9feb-ef7648ce9f1b",
+      "description": "The vault is open. Recordings no one's ever heard, spanning 40 years of Prince's musical career, are now available on a new album called \"Timeless.\"",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg",
+      "questions": [
+        "Has the new Prince album from the vault come up around town?",
+        "Is Prince's music still a big part of life in Minneapolis?"
+      ],
+      "thread": [
+        {
+          "title": "Prince estate opens the vault for new album",
+          "summary": "",
+          "source": "CBS Minnesota",
+          "topic": "celebrity-entertainment",
+          "topics_secondary": [],
+          "url": "https://www.cbsnews.com/minnesota/video/prince-estate-opens-the-vault-for-new-album/",
+          "published_at": "2026-08-28T23:31:00+00:00",
+          "image": {
+            "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/28/4cb8a06a-4c9a-4967-8365-564026c5b57f/thumbnail/1024x576/dbcd5e0f5b55de5c84f4c1d8c5e37005/e34ac7f4032552f60ee1ba93150c1efe.png",
+            "alt": ""
+          },
+          "uid": "564631d3-761b-403a-bc54-f04317e42668",
+          "description": "Recordings no one's ever heard spanning 40 years of Prince's musical career are now available. Only on WCCO, Reg Chapman shows the experience fans can expect from a new Prince album.",
+          "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+        },
+        {
+          "title": "Never-before-heard Prince recordings featured on new album",
+          "summary": "",
+          "source": "CBS Minnesota",
+          "topic": "celebrity-entertainment",
+          "topics_secondary": [],
+          "url": "https://www.cbsnews.com/minnesota/news/prince-new-album-timeless-estate-music/",
+          "published_at": "2026-08-29T00:04:15+00:00",
+          "image": {
+            "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/28/c9aa4ce5-2762-49fc-904d-3e40844958de/thumbnail/1024x576/92b17fb86ce3ece47c0b10fd7f90c868/gettyimages-74291807.jpg",
+            "alt": ""
+          },
+          "uid": "3c2863e2-afe3-4706-9feb-ef7648ce9f1b",
+          "description": "The vault is open. Recordings no one's ever heard, spanning 40 years of Prince's musical career, are now available on a new album called \"Timeless.\"",
+          "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+        }
+      ]
+    },
+    {
+      "title": "A partial lunar eclipse will be visible over Minnesota on Thursday. Here's what to know.",
+      "summary": "",
+      "source": "CBS Minnesota",
+      "topic": "science",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/minnesota/news/partial-lunar-eclipse-minnesota-aug-27/",
+      "published_at": "2026-08-27T13:41:30+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/24/75b84598-358f-4043-ad3d-3500ef795fb6/thumbnail/1024x576/0d4794cf044e244604c33d367c841073/gettyimages-2265603192.jpg",
+        "alt": ""
+      },
+      "uid": "3d07787a-272f-4d20-925f-6601fb4301f0",
+      "description": "A partial lunar eclipse will be visible over Minnesota and Wisconsin between Thursday evening and early Friday.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg",
+      "questions": [
+        "Are you planning to watch the partial lunar eclipse?",
+        "Do the skies over Minnesota usually cooperate for something like an eclipse?"
+      ]
+    },
+    {
+      "title": "Minnesota AG announces 10-year oversight agreement in North Memorial Health, Sanford Health merger",
+      "summary": "A major merger between Minnesota-based hospital system North Memorial Health and South Dakota-based Sanford Health was announced, and is set to close within days.",
+      "source": "CBS Minnesota",
+      "topic": "business-jobs",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/minnesota/news/draft-north-memorial-sanford-merger-oversight-agreement/",
+      "published_at": "2026-08-28T22:31:06+00:00",
+      "image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/05/08/b0c93f15-d630-47fd-9aaa-6fc215b20e90/thumbnail/1024x576/b40deeb70c21c72332a974920096fb84/yt-thumbnail-30.png",
+        "alt": ""
+      },
+      "uid": "964deac9-09f5-4ffb-8d42-cbcf29e55f9a",
+      "description": "A major merger between Minnesota-based North Memorial Health and South Dakota-based Sanford Health was announced Friday morning, and is set to close in a matter of days.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg",
+      "questions": [
+        "Has the North Memorial and Sanford Health merger been a topic where you are?",
+        "Does the merger change where people in the area get care?"
+      ]
+    },
+    {
+      "title": "11-year-old with bone cancer used football to stay strong — then got to coach the Minnesota Vikings",
+      "summary": "",
+      "source": "CBS Minnesota",
+      "topic": "human-interest",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/minnesota/news/bone-cancer-vikings-coach-make-a-wish/",
+      "published_at": "2026-08-31T17:49:51+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/31/63c563e1-3171-44db-9d19-c26f664cefb3/thumbnail/1024x576/d9e18191a22d90954b663e3486439718/download-1.png",
+        "alt": ""
+      },
+      "uid": "1993f125-bc70-4e21-857c-e0325f8c8014",
+      "description": "Zy'ire was diagnosed with bone cancer in his tibia, and throughout treatment, his love of the game helped keep his spirits up. Make-A-Wish Minnesota granted his wish by putting him on the sideline in Vikings gear.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg",
+      "questions": [
+        "Did you see the story about the 11-year-old who got to coach the Vikings?",
+        "Do you follow the Vikings once the season gets going?"
+      ]
+    },
+    {
+      "title": "Friends remember Minneapolis radio personality Chaz Millionaire as a champion for the community",
+      "summary": "The community is mourning the loss of Charles Dillon, also known as Chaz Millionaire, a longtime voice on the airwaves in the Twin Cities, the neighboring cities of Minneapolis and St. Paul.",
+      "source": "CBS Minnesota",
+      "topic": "human-interest",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/minnesota/news/minneapolis-dj-remembered-chaz-millionaire/",
+      "published_at": "2026-08-28T22:32:19+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/28/c552d5ac-e73a-426f-997f-5df5c5c357ce/thumbnail/1024x576/8ab2dfc5e95bbf0307f3e45dcdd6333e/5p-pkg-chaz-millionaire-wccob67k.jpg",
+        "alt": ""
+      },
+      "uid": "01da3334-3202-4b24-b86a-f11e8ad764ec",
+      "description": "The community is mourning the loss of Charles Dillon, also known as Chaz Millionaire, a longtime voice on the Twin Cities airwaves.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg",
+      "questions": [
+        "Did you listen to Chaz Millionaire on the radio?",
+        "How are people around Minneapolis remembering Chaz Millionaire?"
       ]
     },
     {
@@ -162,116 +407,22 @@
       ]
     },
     {
-      "title": "Never-before-heard Prince recordings featured on new album",
-      "summary": "The Prince estate opened the late Minneapolis musician's vault, releasing recordings no one had heard spanning 40 years of his career. WCCO, the CBS television station in Minneapolis, showed fans what to expect from the release, which arrived as an album called \"Timeless.\"",
-      "source": "CBS Minnesota",
-      "topic": "celebrity-entertainment",
-      "topics_secondary": [],
-      "url": "https://www.cbsnews.com/minnesota/news/prince-new-album-timeless-estate-music/",
-      "published_at": "2026-08-29T00:04:15+00:00",
-      "image": {
-        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/28/c9aa4ce5-2762-49fc-904d-3e40844958de/thumbnail/1024x576/92b17fb86ce3ece47c0b10fd7f90c868/gettyimages-74291807.jpg",
-        "alt": ""
-      },
-      "uid": "3c2863e2-afe3-4706-9feb-ef7648ce9f1b",
-      "description": "The vault is open. Recordings no one's ever heard, spanning 40 years of Prince's musical career, are now available on a new album called \"Timeless.\"",
-      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg",
-      "questions": [
-        "Has the new Prince album from the vault come up around town?",
-        "Is Prince's music still a big part of life in Minneapolis?"
-      ],
-      "thread": [
-        {
-          "title": "Prince estate opens the vault for new album",
-          "summary": "",
-          "source": "CBS Minnesota",
-          "topic": "celebrity-entertainment",
-          "topics_secondary": [],
-          "url": "https://www.cbsnews.com/minnesota/video/prince-estate-opens-the-vault-for-new-album/",
-          "published_at": "2026-08-28T23:31:00+00:00",
-          "image": {
-            "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/28/4cb8a06a-4c9a-4967-8365-564026c5b57f/thumbnail/1024x576/dbcd5e0f5b55de5c84f4c1d8c5e37005/e34ac7f4032552f60ee1ba93150c1efe.png",
-            "alt": ""
-          },
-          "uid": "564631d3-761b-403a-bc54-f04317e42668",
-          "description": "Recordings no one's ever heard spanning 40 years of Prince's musical career are now available. Only on WCCO, Reg Chapman shows the experience fans can expect from a new Prince album.",
-          "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
-        },
-        {
-          "title": "Never-before-heard Prince recordings featured on new album",
-          "summary": "",
-          "source": "CBS Minnesota",
-          "topic": "celebrity-entertainment",
-          "topics_secondary": [],
-          "url": "https://www.cbsnews.com/minnesota/news/prince-new-album-timeless-estate-music/",
-          "published_at": "2026-08-29T00:04:15+00:00",
-          "image": {
-            "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/28/c9aa4ce5-2762-49fc-904d-3e40844958de/thumbnail/1024x576/92b17fb86ce3ece47c0b10fd7f90c868/gettyimages-74291807.jpg",
-            "alt": ""
-          },
-          "uid": "3c2863e2-afe3-4706-9feb-ef7648ce9f1b",
-          "description": "The vault is open. Recordings no one's ever heard, spanning 40 years of Prince's musical career, are now available on a new album called \"Timeless.\"",
-          "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Boston Scientific hit by cybersecurity incident",
-      "summary": "According to Boston Scientific, the medical device manufacturer, the incident impacted certain operating systems, including the ability to process and ship customers' orders.",
-      "source": "KARE 11",
-      "topic": "technology",
-      "topics_secondary": [],
-      "url": "https://www.kare11.com/article/news/local/boston-scientific-cybersecurity-incident/89-d6e0bc57-5984-4102-bd0e-6291c1ad8aac",
-      "published_at": "2026-08-26T20:13:59+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KARE/images/ded629a3-0baa-4a43-9951-2add6ae82d96/20260826T201046/ded629a3-0baa-4a43-9951-2add6ae82d96_750x422.jpg",
-        "alt": ""
-      },
-      "uid": "1bd77953-b15d-49ec-82ff-2b9f917a5bde",
-      "description": "According to the company, the incident impacted certain operating systems, including the ability to process and ship customers' orders.",
-      "questions": [
-        "Has the Boston Scientific cybersecurity incident touched anyone you know?",
-        "Is Boston Scientific a big employer around Minneapolis?"
-      ]
-    },
-    {
-      "title": "Minnesota AG announces 10-year oversight agreement in North Memorial Health, Sanford Health merger",
-      "summary": "A major merger between Minnesota-based hospital system North Memorial Health and South Dakota-based Sanford Health was announced, and is set to close within days.",
-      "source": "CBS Minnesota",
+      "title": "General Mills ditches artificial dye from Lucky Charms, Trix",
+      "summary": "",
+      "source": "FOX 9",
       "topic": "business-jobs",
       "topics_secondary": [],
-      "url": "https://www.cbsnews.com/minnesota/news/draft-north-memorial-sanford-merger-oversight-agreement/",
-      "published_at": "2026-08-28T22:31:06+00:00",
+      "url": "https://www.fox9.com/news/general-mills-artificial-dyes-cereals",
+      "published_at": "2026-08-27T21:13:50+00:00",
       "image": {
-        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/05/08/b0c93f15-d630-47fd-9aaa-6fc215b20e90/thumbnail/1024x576/b40deeb70c21c72332a974920096fb84/yt-thumbnail-30.png",
+        "url": "https://static.livenowfox.com/www.livenowfox.com/content/uploads/2026/08/lucky-charms-.jpg",
         "alt": ""
       },
-      "uid": "964deac9-09f5-4ffb-8d42-cbcf29e55f9a",
-      "description": "A major merger between Minnesota-based North Memorial Health and South Dakota-based Sanford Health was announced Friday morning, and is set to close in a matter of days.",
-      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg",
+      "uid": "8375652d-e08a-4a1f-8ee3-e3079f3ff3e4",
+      "description": "General Mills announced it is dropping synthetic food dyes in its cereals, swapping them for natural alternatives to keep its products colorful.",
       "questions": [
-        "Has the North Memorial and Sanford Health merger been a topic where you are?",
-        "Does the merger change where people in the area get care?"
-      ]
-    },
-    {
-      "title": "A partial lunar eclipse will be visible over Minnesota on Thursday. Here's what to know.",
-      "summary": "",
-      "source": "CBS Minnesota",
-      "topic": "science",
-      "topics_secondary": [],
-      "url": "https://www.cbsnews.com/minnesota/news/partial-lunar-eclipse-minnesota-aug-27/",
-      "published_at": "2026-08-27T13:41:30+00:00",
-      "image": {
-        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/24/75b84598-358f-4043-ad3d-3500ef795fb6/thumbnail/1024x576/0d4794cf044e244604c33d367c841073/gettyimages-2265603192.jpg",
-        "alt": ""
-      },
-      "uid": "3d07787a-272f-4d20-925f-6601fb4301f0",
-      "description": "A partial lunar eclipse will be visible over Minnesota and Wisconsin between Thursday evening and early Friday.",
-      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg",
-      "questions": [
-        "Are you planning to watch the partial lunar eclipse?",
-        "Do the skies over Minnesota usually cooperate for something like an eclipse?"
+        "Has the General Mills switch to natural food dyes been talked about locally?",
+        "Do you know people who work at General Mills?"
       ]
     },
     {
@@ -340,187 +491,6 @@
           "uid": "8d159ce5-e267-4ad6-ac0f-072564cf280c",
           "description": "The Ramsey County Attorney's Office charged Tamica Bazinet Monday after police located the missing statue inside a St. Paul home Friday morning."
         }
-      ]
-    },
-    {
-      "title": "11-year-old with bone cancer used football to stay strong — then got to coach the Minnesota Vikings",
-      "summary": "",
-      "source": "CBS Minnesota",
-      "topic": "human-interest",
-      "topics_secondary": [],
-      "url": "https://www.cbsnews.com/minnesota/news/bone-cancer-vikings-coach-make-a-wish/",
-      "published_at": "2026-08-31T17:49:51+00:00",
-      "image": {
-        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/31/63c563e1-3171-44db-9d19-c26f664cefb3/thumbnail/1024x576/d9e18191a22d90954b663e3486439718/download-1.png",
-        "alt": ""
-      },
-      "uid": "1993f125-bc70-4e21-857c-e0325f8c8014",
-      "description": "Zy'ire was diagnosed with bone cancer in his tibia, and throughout treatment, his love of the game helped keep his spirits up. Make-A-Wish Minnesota granted his wish by putting him on the sideline in Vikings gear.",
-      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg",
-      "questions": [
-        "Did you see the story about the 11-year-old who got to coach the Vikings?",
-        "Do you follow the Vikings once the season gets going?"
-      ]
-    },
-    {
-      "title": "Friends remember Minneapolis radio personality Chaz Millionaire as a champion for the community",
-      "summary": "The community is mourning the loss of Charles Dillon, also known as Chaz Millionaire, a longtime voice on the airwaves in the Twin Cities, the neighboring cities of Minneapolis and St. Paul.",
-      "source": "CBS Minnesota",
-      "topic": "human-interest",
-      "topics_secondary": [],
-      "url": "https://www.cbsnews.com/minnesota/news/minneapolis-dj-remembered-chaz-millionaire/",
-      "published_at": "2026-08-28T22:32:19+00:00",
-      "image": {
-        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/28/c552d5ac-e73a-426f-997f-5df5c5c357ce/thumbnail/1024x576/8ab2dfc5e95bbf0307f3e45dcdd6333e/5p-pkg-chaz-millionaire-wccob67k.jpg",
-        "alt": ""
-      },
-      "uid": "01da3334-3202-4b24-b86a-f11e8ad764ec",
-      "description": "The community is mourning the loss of Charles Dillon, also known as Chaz Millionaire, a longtime voice on the Twin Cities airwaves.",
-      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg",
-      "questions": [
-        "Did you listen to Chaz Millionaire on the radio?",
-        "How are people around Minneapolis remembering Chaz Millionaire?"
-      ]
-    },
-    {
-      "title": "Minnesota State Fair visitors get their own AI-generated ‘butter busts’",
-      "summary": "The Minnesota State Fair opened after a last scramble by vendors and workers, debuting new attractions including the America 250 Wheel and the Summer Lakes Boat House. The first day set an attendance record, and among the draws were AI-generated \"butter busts\" that prompted conversations about artificial intelligence.",
-      "source": "KARE 11",
-      "topic": "culture-events",
-      "topics_secondary": [],
-      "url": "https://www.kare11.com/article/news/mn-state-fair-visitors-get-their-own-ai-generated-butter-busts/89-ec8d9606-3d86-4a05-b66d-5b47dc2d7b49",
-      "published_at": "2026-08-29T23:12:34+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KARE/images/3aa68222-0206-473e-8dba-7ed70174cae0/20260829T230432/3aa68222-0206-473e-8dba-7ed70174cae0_750x422.jpg",
-        "alt": ""
-      },
-      "uid": "33a108bd-51c2-43cc-a6bf-98d5dea97d94",
-      "description": "Attendees at the Minnesota State Fair enjoyed creating AI-generated butter busts, sparking discussions led by the AI Hub about the use of artificial intelligence.",
-      "questions": [
-        "Have the AI-generated butter busts at the State Fair come up in conversation?",
-        "What do folks around you make of the butter sculptures at the Minnesota State Fair?"
-      ],
-      "thread": [
-        {
-          "title": "Last-minute preps for vendors of the Minnesota State Fair",
-          "summary": "",
-          "source": "CBS Minnesota",
-          "topic": "culture-events",
-          "topics_secondary": [],
-          "url": "https://www.cbsnews.com/minnesota/video/last-minute-preps-for-vendors-of-the-minnesota-state-fair/",
-          "published_at": "2026-08-26T22:31:00+00:00",
-          "image": {
-            "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/26/2d9e4e5b-941b-45c2-b126-1844f0d42c55/thumbnail/1024x576/aa55ba3603d25f2638761076f1700e13/4b5b4c71d9838dcc26b17b35e7e31aa0.jpg",
-            "alt": ""
-          },
-          "uid": "011280e3-226c-4a5b-bb5d-3fe24dba66fc",
-          "description": "Less than 14 hours away, workers at the Minnesota State Fair are getting ready to welcome visitors.",
-          "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
-        },
-        {
-          "title": "America 250 Wheel debuts at Minnesota State Fair on opening day",
-          "summary": "",
-          "source": "CBS Minnesota",
-          "topic": "culture-events",
-          "topics_secondary": [],
-          "url": "https://www.cbsnews.com/minnesota/video/america-250-wheel-debuts-at-minnesota-state-fair-on-opening-day/",
-          "published_at": "2026-08-27T17:45:00+00:00",
-          "image": {
-            "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/27/086bb2c9-954c-41fd-92b2-438dbe07dd05/thumbnail/1024x576/cb0276ffffd9e94e30b3c5384f06f087/def5c6e324dfaa685477b9e9650f8cd3.jpg",
-            "alt": ""
-          },
-          "uid": "5adf57c9-2082-4f58-993a-95132dc87713",
-          "description": "The Minnesota State Fair is open, with new attractions including the America 250 Wheel and the Summer Lakes Boat House added to this year's lineup.",
-          "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
-        },
-        {
-          "title": "Minnesota State Fair breaks Day 1 attendance record",
-          "summary": "",
-          "source": "FOX 9",
-          "topic": "culture-events",
-          "topics_secondary": [],
-          "url": "https://www.fox9.com/news/minnesota-state-fair-breaks-day-1-attendance-record",
-          "published_at": "2026-08-28T18:30:26+00:00",
-          "image": {
-            "url": "https://static.fox9.com/www.fox9.com/content/uploads/2025/08/11vo-mn-state-fair-_1_kmsp7e75_146_mxf_00.00.08.18.jpg",
-            "alt": ""
-          },
-          "uid": "c1a003c4-0164-48f5-b925-127a863e964f",
-          "description": "A record-breaking number of fairgoers was recorded on the first day of this year's great Minnesota Get-Together."
-        },
-        {
-          "title": "Minnesota State Fair visitors get their own AI-generated ‘butter busts’",
-          "summary": "",
-          "source": "KARE 11",
-          "topic": "culture-events",
-          "topics_secondary": [],
-          "url": "https://www.kare11.com/article/news/mn-state-fair-visitors-get-their-own-ai-generated-butter-busts/89-ec8d9606-3d86-4a05-b66d-5b47dc2d7b49",
-          "published_at": "2026-08-29T23:12:34+00:00",
-          "image": {
-            "url": "https://media.tegna-media.com/assets/KARE/images/3aa68222-0206-473e-8dba-7ed70174cae0/20260829T230432/3aa68222-0206-473e-8dba-7ed70174cae0_750x422.jpg",
-            "alt": ""
-          },
-          "uid": "33a108bd-51c2-43cc-a6bf-98d5dea97d94",
-          "description": "Attendees at the Minnesota State Fair enjoyed creating AI-generated butter busts, sparking discussions led by the AI Hub about the use of artificial intelligence."
-        }
-      ]
-    },
-    {
-      "title": "General Mills ditches artificial dye from Lucky Charms, Trix",
-      "summary": "",
-      "source": "FOX 9",
-      "topic": "business-jobs",
-      "topics_secondary": [],
-      "url": "https://www.fox9.com/news/general-mills-artificial-dyes-cereals",
-      "published_at": "2026-08-27T21:13:50+00:00",
-      "image": {
-        "url": "https://static.livenowfox.com/www.livenowfox.com/content/uploads/2026/08/lucky-charms-.jpg",
-        "alt": ""
-      },
-      "uid": "8375652d-e08a-4a1f-8ee3-e3079f3ff3e4",
-      "description": "General Mills announced it is dropping synthetic food dyes in its cereals, swapping them for natural alternatives to keep its products colorful.",
-      "questions": [
-        "Has the General Mills switch to natural food dyes been talked about locally?",
-        "Do you know people who work at General Mills?"
-      ]
-    },
-    {
-      "title": "Emerald ash borer in Minnesota: Over a billion ash trees at risk as spread moves north",
-      "summary": "",
-      "source": "FOX 9",
-      "topic": "environment-conservation",
-      "topics_secondary": [],
-      "url": "https://www.fox9.com/news/emerald-ash-borer-minnesota-over-billion-ash-trees-risk-spread-moves-north",
-      "published_at": "2026-08-26T01:38:59+00:00",
-      "image": {
-        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/08/gettyimages-2207331067.jpg",
-        "alt": ""
-      },
-      "uid": "a57510b7-2844-460c-ba9e-2bd553aad250",
-      "description": "More than a billion ash trees in Minnesota are under threat from a tiny but destructive invasive insect — and the fight to stop it has been going on for more than 15 years.",
-      "questions": [
-        "Are ash trees coming down in your neighborhood?",
-        "Has the emerald ash borer changed how the streets look where you live?"
-      ]
-    },
-    {
-      "title": "University of Minnesota launches new ice cream",
-      "summary": "",
-      "source": "CBS Minnesota",
-      "topic": "human-interest",
-      "topics_secondary": [],
-      "url": "https://www.cbsnews.com/minnesota/video/university-of-minnesota-launches-new-ice-cream/",
-      "published_at": "2026-08-26T22:31:00+00:00",
-      "image": {
-        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/26/372a9aa8-7e85-4523-ab25-4dc4edfe1b4e/thumbnail/1024x576/734edaac0766f72a06b1a6e79442a1b8/a12c19554831f6dabf4ea74d8e1c83e9.jpg",
-        "alt": ""
-      },
-      "uid": "c4eafa7c-b822-4307-a8ad-930196665a28",
-      "description": "The University of Minnesota put out a challenge ahead of its 175 anniversary.",
-      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg",
-      "questions": [
-        "Have you tried the new University of Minnesota ice cream?",
-        "Is the university's 175th anniversary getting much attention around town?"
       ]
     },
     {
@@ -678,8 +648,75 @@
       ]
     },
     {
+      "title": "St. Paul removing Flock cameras after residents raise privacy concerns",
+      "summary": "",
+      "source": "CBS Minnesota",
+      "topic": "policing",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/minnesota/video/st-paul-removing-flock-cameras-after-residents-raise-privacy-concerns/",
+      "published_at": "2026-08-27T17:33:00+00:00",
+      "image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/27/edec9dec-9700-4e6b-8dde-28f2f10c7236/thumbnail/1024x576/4ba6765f3fd2aa49607e1d2a276798f2/5845386e573ca6ec97b4b5e9afe2bb37.jpg",
+        "alt": ""
+      },
+      "uid": "1381d543-5ff0-4958-b7eb-cbfdbf53dea5",
+      "description": "Officers have used the cameras to help solve and respond to crimes, but residents have raised concerns about surveillance and the handling of their private data.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    },
+    {
+      "title": "Annunciation shooting: $2.6M in federal funds awarded for mental health, support services",
+      "summary": "A year after the Aug. 27, 2025 mass shooting at Annunciation Catholic School in south Minneapolis, neighbors in the surrounding area have banded together to support the affected families. The school community is now set to receive roughly $2.6 million in federal funding for mental health and other support services.",
+      "source": "FOX 9",
+      "topic": "public-health",
+      "topics_secondary": [
+        "government"
+      ],
+      "url": "https://www.fox9.com/news/annunciation-shooting-2-6m-federal-funds-awarded-mental-health-support-services",
+      "published_at": "2026-09-02T14:04:19+00:00",
+      "image": {
+        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2025/08/annunciation-sized.jpg",
+        "alt": ""
+      },
+      "uid": "99fc1941-84ee-4a70-b8e0-d4fccafa8e11",
+      "description": "The Annunciation Catholic School community will receive approximately $2.6 million in federal funding to help support those impacted by last year’s deadly mass shooting in Minneapolis.",
+      "thread": [
+        {
+          "title": "One year later, impact of Annunciation tragedy still felt in surrounding neighborhoods",
+          "summary": "",
+          "source": "KARE 11",
+          "topic": "human-interest",
+          "topics_secondary": [],
+          "url": "https://www.kare11.com/article/news/local/one-year-later-impact-annunciation-tragedy-neighbors/89-5107bdd6-7978-48cb-8d1a-40bc971ade4a",
+          "published_at": "2026-08-27T23:41:39+00:00",
+          "image": {
+            "url": "https://media.tegna-media.com/assets/KARE/images/d772a80e-13cf-4d2e-986d-5f4125cf0320/20260827T210845/d772a80e-13cf-4d2e-986d-5f4125cf0320_750x422.jpg",
+            "alt": ""
+          },
+          "uid": "951afdb2-7b3d-42f0-ad38-c6334fdf5ccc",
+          "description": "Neighbors in South Minneapolis have banded together over the last year to support Annunciation families following the Aug. 27, 2025 mass shooting."
+        },
+        {
+          "title": "Annunciation shooting: $2.6M in federal funds awarded for mental health, support services",
+          "summary": "",
+          "source": "FOX 9",
+          "topic": "public-health",
+          "topics_secondary": [
+            "government"
+          ],
+          "url": "https://www.fox9.com/news/annunciation-shooting-2-6m-federal-funds-awarded-mental-health-support-services",
+          "published_at": "2026-09-02T14:04:19+00:00",
+          "image": {
+            "url": "https://static.fox9.com/www.fox9.com/content/uploads/2025/08/annunciation-sized.jpg",
+            "alt": ""
+          },
+          "uid": "99fc1941-84ee-4a70-b8e0-d4fccafa8e11",
+          "description": "The Annunciation Catholic School community will receive approximately $2.6 million in federal funding to help support those impacted by last year’s deadly mass shooting in Minneapolis."
+        }
+      ]
+    },
+    {
       "title": "Minnesota fears ICE officer Christian Castro may flee to Mexico after Texas releases him without extradition",
-      "summary": "A federal judge denied Minnesota's request to block the release of an ICE officer charged in a shooting in north Minneapolis during Operation Metro Surge, the federal enforcement push in the Minneapolis-St. Paul area, and with lying about it under oath. Texas released the officer, Christian Castro, without honoring Minnesota's extradition request, and Minnesota prosecutors now say he could cross into Mexico.",
+      "summary": "Christian Castro, an ICE officer charged in a January shooting in Minneapolis, was released from a Texas jail without Texas honoring Minnesota's extradition request. Minnesota officials and prosecutors say he could now run, possibly crossing into Mexico, while the governor of Texas says law enforcement is keeping watch on him.",
       "source": "CBS Minnesota",
       "topic": "violent-crime",
       "topics_secondary": [],
@@ -693,22 +730,6 @@
       "description": "Minnesota officials say Christian Castro, charged in a January Minneapolis shooting, could cross into Mexico now that Texas has released him without honoring the state's extradition request.",
       "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg",
       "thread": [
-        {
-          "title": "Judge denies Minnesota's request to halt release of ICE officer charged in Minneapolis shooting",
-          "summary": "",
-          "source": "CBS Minnesota",
-          "topic": "immigration-enforcement",
-          "topics_secondary": [],
-          "url": "https://www.cbsnews.com/minnesota/news/judge-denies-minnesota-request-halt-release-christian-castro-minneapolis-ice-agent-shooting/",
-          "published_at": "2026-08-26T22:32:19+00:00",
-          "image": {
-            "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/01/15/97feb5ee-c289-43e6-84c3-1b8893e3bbc1/thumbnail/1024x576/960c97a7cfefc69a2ac58fe1603805b9/gettyimages-2255761853.jpg",
-            "alt": ""
-          },
-          "uid": "89de7184-71a8-4625-b8f5-ff632e8e15f8",
-          "description": "A federal judge on Wednesday denied Minnesota's request for a temporary restraining order to halt the release of the ICE agent sought for extradition in a shooting earlier this year in north Minneapolis amid Operation Metro Surge, and then lying about the circumstances under",
-          "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
-        },
         {
           "title": "Minnesota officials worry ICE agent charged in shooting could flee after release from Texas jail",
           "summary": "",
@@ -742,6 +763,21 @@
           "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
         }
       ]
+    },
+    {
+      "title": "Minnesota Supreme Court denies Mike Lindell's recount challenge",
+      "summary": "",
+      "source": "FOX 9",
+      "topic": "elections-politics",
+      "topics_secondary": [],
+      "url": "https://www.fox9.com/news/minnesota-supreme-court-denies-lindell-bid-force-new-recount-process",
+      "published_at": "2026-08-30T23:31:19+00:00",
+      "image": {
+        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/08/image2026-08-06-12h55m18s816.jpg",
+        "alt": ""
+      },
+      "uid": "3af08608-47af-4f83-9e0a-b642a9e9063f",
+      "description": "An effort by former MyPillow CEO Mike Lindell to force the state to allow a recount in the Republican primary for Minnesota governor under his terms has been denied by the Minnesota Supreme Court."
     },
     {
       "title": "St. Paul police release bodycam, surveillance footage of shooting at Regions Hospital",
@@ -791,84 +827,36 @@
       ]
     },
     {
-      "title": "Minnesota’s Inspector General office launches",
-      "summary": "Four members of the DFL, Minnesota's Democratic-Farmer-Labor Party, and four Republicans split between the state House and Senate met as part of their work on the state's new office of the Inspector General.",
-      "source": "CBS Minnesota",
-      "topic": "government",
-      "topics_secondary": [],
-      "url": "https://www.cbsnews.com/minnesota/video/minnesotas-inspector-general-office-launches/",
-      "published_at": "2026-08-26T22:29:00+00:00",
+      "title": "New public health survey asking residents about impacts of Operation Metro Surge",
+      "summary": "The public health department in Bloomington, a suburb about 10 miles south of Minneapolis, wants to know how Operation Metro Surge, the federal enforcement push in the Minneapolis-St. Paul area, affected people in their daily lives.",
+      "source": "KARE 11",
+      "topic": "immigration-enforcement",
+      "topics_secondary": [
+        "public-health"
+      ],
+      "url": "https://www.kare11.com/article/news/health/public-health-survey-impact-operation-metro-surge-bloomington/89-d7b69bcd-8417-49cb-9793-aaa561113eb4",
+      "published_at": "2026-09-01T19:58:30+00:00",
       "image": {
-        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/26/a2d82b74-440a-48d2-a7fe-469133d8b924/thumbnail/1024x576/c4e2659b18c49e6b38e3ed68bc684ddc/97ae3370699427f62aa9b5d915a862bc.jpg",
+        "url": "https://media.tegna-media.com/assets/KARE/images/f01ebf48-54b2-4568-8e59-c788f731688a/20260117T013747/f01ebf48-54b2-4568-8e59-c788f731688a_750x422.jpg",
         "alt": ""
       },
-      "uid": "80c7e117-f369-484f-b71d-b18afc348ba3",
-      "description": "Four DFL members and four Republicans split between the state House and Senate met on Wednesday as part of their work on the state’s new office of the Inspector General.",
-      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+      "uid": "18801dcd-0e4a-4cbb-bf29-4d08666bf84a",
+      "description": "The city of Bloomington Public Health Department wants to know how Operation Metro Surge affected people in their daily lives."
     },
     {
-      "title": "St. Paul removing Flock cameras after residents raise privacy concerns",
-      "summary": "St. Paul, the capital city, just east of Minneapolis, decided to take down its Flock license-plate cameras, which had become caught up in a national argument over privacy and surveillance. Officers had used the cameras to solve and respond to crimes, but residents objected to the surveillance and to how their data was handled.",
-      "source": "CBS Minnesota",
-      "topic": "policing",
-      "topics_secondary": [],
-      "url": "https://www.cbsnews.com/minnesota/video/st-paul-removing-flock-cameras-after-residents-raise-privacy-concerns/",
-      "published_at": "2026-08-27T17:33:00+00:00",
-      "image": {
-        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/27/edec9dec-9700-4e6b-8dde-28f2f10c7236/thumbnail/1024x576/4ba6765f3fd2aa49607e1d2a276798f2/5845386e573ca6ec97b4b5e9afe2bb37.jpg",
-        "alt": ""
-      },
-      "uid": "1381d543-5ff0-4958-b7eb-cbfdbf53dea5",
-      "description": "Officers have used the cameras to help solve and respond to crimes, but residents have raised concerns about surveillance and the handling of their private data.",
-      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg",
-      "thread": [
-        {
-          "title": "St. Paul taking down its Flock cameras",
-          "summary": "",
-          "source": "KARE 11",
-          "topic": "policing",
-          "topics_secondary": [],
-          "url": "https://www.kare11.com/article/news/local/st-paul-taking-down-flock-cameras/89-ebdb4505-ed8b-433b-a26d-6337b17f4511",
-          "published_at": "2026-08-26T22:27:16+00:00",
-          "image": {
-            "url": "https://media.tegna-media.com/assets/KARE/images/b5bee0ba-fa86-4d45-ab09-2015f021360f/20260826T221542/b5bee0ba-fa86-4d45-ab09-2015f021360f_750x422.jpg",
-            "alt": ""
-          },
-          "uid": "8054fea5-f80d-4fa9-8a5d-defbb595e50d",
-          "description": "St. Paul will remove its Flock cameras, which have become embroiled in a national debate over privacy and surveillance."
-        },
-        {
-          "title": "St. Paul removing Flock cameras after residents raise privacy concerns",
-          "summary": "",
-          "source": "CBS Minnesota",
-          "topic": "policing",
-          "topics_secondary": [],
-          "url": "https://www.cbsnews.com/minnesota/video/st-paul-removing-flock-cameras-after-residents-raise-privacy-concerns/",
-          "published_at": "2026-08-27T17:33:00+00:00",
-          "image": {
-            "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/27/edec9dec-9700-4e6b-8dde-28f2f10c7236/thumbnail/1024x576/4ba6765f3fd2aa49607e1d2a276798f2/5845386e573ca6ec97b4b5e9afe2bb37.jpg",
-            "alt": ""
-          },
-          "uid": "1381d543-5ff0-4958-b7eb-cbfdbf53dea5",
-          "description": "Officers have used the cameras to help solve and respond to crimes, but residents have raised concerns about surveillance and the handling of their private data.",
-          "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Minnesota Supreme Court denies Mike Lindell's recount challenge",
-      "summary": "",
+      "title": "Heritage Park Apartments: $6 million investment aims to address poor living conditions",
+      "summary": "The Minneapolis Public Housing Authority Board of Commissioners voted to approve a $6 million investment after public outcry over poor living conditions at Heritage Park Apartments, a public housing complex on the north side of Minneapolis.",
       "source": "FOX 9",
-      "topic": "elections-politics",
+      "topic": "housing",
       "topics_secondary": [],
-      "url": "https://www.fox9.com/news/minnesota-supreme-court-denies-lindell-bid-force-new-recount-process",
-      "published_at": "2026-08-30T23:31:19+00:00",
+      "url": "https://www.fox9.com/news/heritage-park-apartments-6-million-poor-living-conditions-aug-27-2026",
+      "published_at": "2026-08-27T17:42:54+00:00",
       "image": {
-        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/08/image2026-08-06-12h55m18s816.jpg",
+        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/06/heritage-apts-problems-folo-thumb.jpg",
         "alt": ""
       },
-      "uid": "3af08608-47af-4f83-9e0a-b642a9e9063f",
-      "description": "An effort by former MyPillow CEO Mike Lindell to force the state to allow a recount in the Republican primary for Minnesota governor under his terms has been denied by the Minnesota Supreme Court."
+      "uid": "c29a07a2-9e7b-4bec-b988-a3e0eaac790f",
+      "description": "The Minneapolis Public Housing Authority Board of Commissioners voted to approve a $6 million investment after public outcry over poor living conditions at Heritage Park Apartments."
     },
     {
       "title": "Man gets 30 years in fatal 2025 Boom Island Park shooting",
@@ -884,22 +872,6 @@
       },
       "uid": "23387fa6-36df-48d1-888b-cb8b8abb1b6b",
       "description": "Zyere Porter received sentences of 360 months, 88 months, and 98 months, respectively, for each charge to be served concurrently."
-    },
-    {
-      "title": "13% of Minnesota, Wisconsin kindergartners didn't get standard vaccinations, CDC data shows",
-      "summary": "",
-      "source": "CBS Minnesota",
-      "topic": "public-health",
-      "topics_secondary": [],
-      "url": "https://www.cbsnews.com/minnesota/news/vaccinations-minnesota-wisconsin-kindergartners-cdc-data/",
-      "published_at": "2026-09-01T14:34:26+00:00",
-      "image": {
-        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/21/c4c9a429-4077-4a69-9ac9-5246b9b10e43/thumbnail/1024x576/6f5a07a3926074fe01a2ede747309359/cbsn-fusion-kindergarten-vaccine-exemptions-hit-record-42-cdc-says-thumbnail.jpg",
-        "alt": ""
-      },
-      "uid": "f59e17fd-2375-409d-b24e-78ce7c7a74ce",
-      "description": "This year, your kid may be more likely to catch a back-to-school bug, as fewer students are getting their shots than at any time in the past decade.",
-      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
     },
     {
       "title": "Chisago County employees return to work after months on strike",
@@ -1002,23 +974,8 @@
       ]
     },
     {
-      "title": "One year later, impact of Annunciation tragedy still felt in surrounding neighborhoods",
-      "summary": "Neighbors in south Minneapolis have banded together over the last year to support families from Annunciation, the Catholic church and school where the Aug. 27, 2025 mass shooting happened.",
-      "source": "KARE 11",
-      "topic": "human-interest",
-      "topics_secondary": [],
-      "url": "https://www.kare11.com/article/news/local/one-year-later-impact-annunciation-tragedy-neighbors/89-5107bdd6-7978-48cb-8d1a-40bc971ade4a",
-      "published_at": "2026-08-27T23:41:39+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KARE/images/d772a80e-13cf-4d2e-986d-5f4125cf0320/20260827T210845/d772a80e-13cf-4d2e-986d-5f4125cf0320_750x422.jpg",
-        "alt": ""
-      },
-      "uid": "951afdb2-7b3d-42f0-ad38-c6334fdf5ccc",
-      "description": "Neighbors in South Minneapolis have banded together over the last year to support Annunciation families following the Aug. 27, 2025 mass shooting."
-    },
-    {
       "title": "Judge temporarily blocks new Postal Service rules for mail voting",
-      "summary": "Minnesota Attorney General Keith Ellison joined attorneys general from 25 states and the District of Columbia in suing the U.S. Postal Service over its new mail-voting requirements. A federal judge temporarily blocked the Postal Service from enforcing those rules for the November midterm elections.",
+      "summary": "",
       "source": "CBS Minnesota",
       "topic": "elections-politics",
       "topics_secondary": [],
@@ -1030,103 +987,102 @@
       },
       "uid": "efc8b401-6a55-43e2-b034-a7a6b763da61",
       "description": "A federal judge on Thursday temporarily blocked the U.S. Postal Service from enforcing its new requirements for mail voting for the November midterm elections.",
-      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    },
+    {
+      "title": "Officials identify 3 found dead inside Inver Grove Heights townhome",
+      "summary": "Police in Inver Grove Heights, a suburb about 15 miles southeast of Minneapolis, said that preliminary findings indicate that it was a double murder-suicide.",
+      "source": "KARE 11",
+      "topic": "violent-crime",
+      "topics_secondary": [],
+      "url": "https://www.kare11.com/article/news/crime/officials-identify-3-found-dead-inside-inver-grove-heights-townhome/89-850d3582-fbf1-45d9-b1f4-8c9946b2fe97",
+      "published_at": "2026-09-01T17:35:50+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/ab6b26fd-e69b-42a4-815f-ae205d5067e3/20260831T032400/ab6b26fd-e69b-42a4-815f-ae205d5067e3_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "5a8d1ae4-8e25-467f-a3e6-3887c13baa64",
+      "description": "Inver Grove Heights Police said that preliminary findings indicate that it was a double murder-suicide."
+    },
+    {
+      "title": "Shakopee flock cameras: City defends surveillance tools amid misinformation concerns",
+      "summary": "Officials in Shakopee, a suburb about 25 miles southwest of Minneapolis, defended the city's Flock license plate reading cameras in documents posted to the City Council agenda, calling the opposition social media outrage campaigns and misinformation ahead of a council discussion. The cameras sit at the center of a growing debate over privacy, surveillance and who gets to see residents' data.",
+      "source": "FOX 9",
+      "topic": "policing",
+      "topics_secondary": [],
+      "url": "https://www.fox9.com/news/shakopee-flock-cameras-city-defends-surveillance-tools-amid-misinformation-concerns",
+      "published_at": "2026-09-02T02:13:51+00:00",
+      "image": {
+        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/09/vlcsnap-2026-09-01-20h39m59s870.jpg",
+        "alt": ""
+      },
+      "uid": "11b121f9-dc4c-43da-8feb-0dddd593ac37",
+      "description": "Shakopee's Flock cameras are at the center of a growing debate over privacy, surveillance and who gets to see your data.",
       "thread": [
         {
-          "title": "Minnesota Attorney General sues U.S. Postal Service over new mail voting rules",
+          "title": "Shakopee officials defend Flock cams against 'misinformation' ahead of meeting",
           "summary": "",
-          "source": "KARE 11",
-          "topic": "elections-politics",
+          "source": "FOX 9",
+          "topic": "policing",
           "topics_secondary": [],
-          "url": "https://www.kare11.com/article/news/politics/mn-attorney-general-keith-ellison-sues-usps-new-mail-voting-rules/89-b54595f4-4dc2-44a9-b640-eb0aa7cf39eb",
-          "published_at": "2026-08-26T19:39:54+00:00",
+          "url": "https://www.fox9.com/news/shakopee-officials-defend-flock-cameras-against-misinformation-ahead-council-meeting",
+          "published_at": "2026-08-31T22:38:26+00:00",
           "image": {
-            "url": "https://media.tegna-media.com/assets/KARE/images/32ef4cb1-3b95-42db-8372-094d9b07b04a/20241014T220713/32ef4cb1-3b95-42db-8372-094d9b07b04a_750x422.jpg",
+            "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/07/tz_b_fridley-flock_00.00.12.42.jpg",
             "alt": ""
           },
-          "uid": "28c01da2-51f7-4837-847a-75ea901091cb",
-          "description": "Ellison joined attorneys general from 25 states and the District of Columbia in filing the lawsuit Wednesday."
+          "uid": "5ffb2f36-0e09-4694-a53e-ef27c9dc22b5",
+          "description": "Documents posted to the Shakopee City Council agenda are defending the city's Flock cameras program against “social media outrage campaigns\" and “misinformation\" ahead of a council discussion this week on the license plate reading tech."
         },
         {
-          "title": "Judge temporarily blocks new Postal Service rules for mail voting",
+          "title": "Shakopee flock cameras: City defends surveillance tools amid misinformation concerns",
           "summary": "",
-          "source": "CBS Minnesota",
-          "topic": "elections-politics",
+          "source": "FOX 9",
+          "topic": "policing",
           "topics_secondary": [],
-          "url": "https://www.cbsnews.com/minnesota/news/judge-temporarily-blocks-new-postal-service-rules-for-mail-voting-trump/",
-          "published_at": "2026-08-28T19:45:51+00:00",
+          "url": "https://www.fox9.com/news/shakopee-flock-cameras-city-defends-surveillance-tools-amid-misinformation-concerns",
+          "published_at": "2026-09-02T02:13:51+00:00",
           "image": {
-            "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/05/12/ec3ebb6a-ce4f-4ad9-b83e-d5eddb7e23a8/thumbnail/1024x576/517edd58dac427e6f3fde896d6efffd9/gettyimages-2180910258.jpg",
+            "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/09/vlcsnap-2026-09-01-20h39m59s870.jpg",
             "alt": ""
           },
-          "uid": "efc8b401-6a55-43e2-b034-a7a6b763da61",
-          "description": "A federal judge on Thursday temporarily blocked the U.S. Postal Service from enforcing its new requirements for mail voting for the November midterm elections.",
-          "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+          "uid": "11b121f9-dc4c-43da-8feb-0dddd593ac37",
+          "description": "Shakopee's Flock cameras are at the center of a growing debate over privacy, surveillance and who gets to see your data."
         }
       ]
     },
     {
-      "title": "'We are not satisfied with an apology' | Minnesota civil rights leaders pledge to continue Target boycott",
-      "summary": "",
-      "source": "KARE 11",
-      "topic": "other",
-      "topics_secondary": [],
-      "url": "https://www.kare11.com/article/news/local/minnesota-civil-rights-leaders-pledge-continued-target-boycott/89-b9a35c87-c8e7-41ca-9cd6-09f12257316e",
-      "published_at": "2026-08-28T19:35:09+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KARE/images/b4aed48d-8aee-4dc6-91c1-ebb76fc53cdd/20260828T191534/b4aed48d-8aee-4dc6-91c1-ebb76fc53cdd_750x422.jpg",
-        "alt": ""
-      },
-      "uid": "5dbcd717-bfe5-4559-bb6d-b1c209047e40",
-      "description": "The announcement comes after Target apologized for a racist Halloween costume available for sale on its website."
-    },
-    {
-      "title": "Heritage Park Apartments: $6 million investment aims to address poor living conditions",
-      "summary": "The Minneapolis Public Housing Authority Board of Commissioners voted to approve a $6 million investment after public outcry over poor living conditions at Heritage Park Apartments, a public housing complex on the north side of Minneapolis.",
-      "source": "FOX 9",
-      "topic": "housing",
-      "topics_secondary": [],
-      "url": "https://www.fox9.com/news/heritage-park-apartments-6-million-poor-living-conditions-aug-27-2026",
-      "published_at": "2026-08-27T17:42:54+00:00",
-      "image": {
-        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/06/heritage-apts-problems-folo-thumb.jpg",
-        "alt": ""
-      },
-      "uid": "c29a07a2-9e7b-4bec-b988-a3e0eaac790f",
-      "description": "The Minneapolis Public Housing Authority Board of Commissioners voted to approve a $6 million investment after public outcry over poor living conditions at Heritage Park Apartments."
-    },
-    {
-      "title": "Arguments heard over releasing records in federal conspiracy case against MN 15",
+      "title": "Minneapolis City Council approves new dress code ordinance for bars, restaurants",
       "summary": "",
       "source": "FOX 9",
-      "topic": "other",
+      "topic": "government",
       "topics_secondary": [],
-      "url": "https://www.fox9.com/news/arguments-heard-over-releasing-records-federal-conspiracy-case-against-mn-15",
-      "published_at": "2026-08-28T02:57:39+00:00",
+      "url": "https://www.fox9.com/news/minneapolis-city-council-approves-new-dress-code-ordinance-bars-restaurants",
+      "published_at": "2026-08-27T17:17:13+00:00",
       "image": {
-        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/08/10natvo-isaac-sant-case-_-soyoung-kim_00.00.12.12.jpg",
+        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2024/08/Minneapolis-skyline-sized.jpg",
         "alt": ""
       },
-      "uid": "1cbafb7a-eaf7-42a0-a2e3-461a22a6245f",
-      "description": "A defense attorney in the federal conspiracy case against the group known as the \"Minnesota 15\" argued for the release of more surveillance-related records from the federal government."
+      "uid": "1e70d31e-7985-42a0-92bc-33b82bbccf71",
+      "description": "The Minneapolis City Council voted 13-0 on Thursday to pass a new ordinance requiring liquor-serving establishments with dress codes to display them clearly at their entrances."
     }
   ],
   "sports": [
     {
-      "team": "Twins",
-      "scores": [
-        "Twins 11, Tigers 1",
-        "Twins 5, White Sox 1",
-        "call up prospect Walker Jenkins",
-        "Athletics 4, Twins 2"
-      ]
-    },
-    {
       "team": "Vikings",
       "scores": [
+        "sign veteran edge rusher Van Noy",
         "waives QB Max Brosmer",
         "Broncos 34, Vikings 6",
         "Turner takes on bigger camp role"
+      ]
+    },
+    {
+      "team": "Twins",
+      "scores": [
+        "Twins 15, Tigers 2",
+        "Twins 5, White Sox 1",
+        "call up prospect Walker Jenkins"
       ]
     },
     {
@@ -1145,12 +1101,6 @@
       "team": "Lynx",
       "scores": [
         "Dream 89, Lynx 81"
-      ]
-    },
-    {
-      "team": "Timberwolves",
-      "scores": [
-        "signs forward Jonathan Kuminga"
       ]
     }
   ]

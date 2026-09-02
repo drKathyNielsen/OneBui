@@ -4,31 +4,10 @@
   "metroCode": "41700",
   "metro": "San Antonio-New Braunfels, TX",
   "range": {
-    "start": "2026-08-26",
-    "end": "2026-09-01"
+    "start": "2026-08-27",
+    "end": "2026-09-02"
   },
   "are_you_ok": [
-    {
-      "title": "'Those are two very tragic events' | Two people die in separate possible storm-related drownings in San Antonio",
-      "summary": "",
-      "source": "KENS 5",
-      "topic": "accident",
-      "topics_secondary": [
-        "weather-hazard"
-      ],
-      "url": "https://www.kens5.com/article/weather/severe-weather/death-investigation-storm-related-drownings-san-antonio/273-aadfa57c-b6a1-4031-9bd1-c1475d02b077",
-      "published_at": "2026-08-31T03:08:11+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/d8af1efa-29cc-4e3e-8056-f4e74e1cb937/20260831T021456/d8af1efa-29cc-4e3e-8056-f4e74e1cb937_750x422.jpg",
-        "alt": ""
-      },
-      "uid": "b13c3842-133d-4c3c-9544-998844ff0198",
-      "description": "“On Friday evening, two individuals were in a drainage area when they were swept away by rapidly moving water during the heavy rainfall.\"",
-      "questions": [
-        "I saw San Antonio had some serious flooding - are you and your family all right?",
-        "Is flooding in the drainage areas something that affects the roads you normally drive?"
-      ]
-    },
     {
       "title": "Number of CPS Energy customers without power drops to the hundreds days after storms tear through San Antonio",
       "summary": "Severe thunderstorms tore through Bexar County on Friday, with wind gusts reaching 75 miles per hour and causing widespread damage that knocked out power for more than 100,000 CPS Energy customers. The city opened six resilience hubs and the San Antonio Food Bank scheduled three food distribution events for residents still without power, while CPS Energy said restoration would run through Tuesday night. The outage count fell from six figures to fewer than 2,000 and then to the hundreds, though some families spent the wait in homes sitting in the low 90s. No repeat of the storms is forecast for the following seven days.",
@@ -112,6 +91,46 @@
       ]
     },
     {
+      "title": "Dangerous heat continues as storms return to South-Central Texas | Weather Impact Alert",
+      "summary": "",
+      "source": "KENS 5",
+      "topic": "weather-hazard",
+      "topics_secondary": [],
+      "url": "https://www.kens5.com/article/weather/forecast/san-antonio-heat-storms-thursday-advisory-triple-digits-rain-thunderstorms-gusty-humidity-forecast-south-central-texas-impact-alert-weekend/273-cb54686e-645d-4c1f-b4bc-2a381ff2af2b",
+      "published_at": "2026-08-27T15:14:07+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/c2212bc4-19d5-4ff9-b73e-2df2dbb1b2bd/c2212bc4-19d5-4ff9-b73e-2df2dbb1b2bd_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "15db79ac-4ef4-4e0b-be15-065e4cf44c1f",
+      "description": "Triple-digit heat remains the biggest concern Thursday, while scattered storms bring a chance for heavy rain and gusty winds.",
+      "questions": [
+        "How are you holding up with the triple-digit heat?",
+        "Does the heat change how you plan out a week?"
+      ]
+    },
+    {
+      "title": "'Those are two very tragic events' | Two people die in separate possible storm-related drownings in San Antonio",
+      "summary": "",
+      "source": "KENS 5",
+      "topic": "accident",
+      "topics_secondary": [
+        "weather-hazard"
+      ],
+      "url": "https://www.kens5.com/article/weather/severe-weather/death-investigation-storm-related-drownings-san-antonio/273-aadfa57c-b6a1-4031-9bd1-c1475d02b077",
+      "published_at": "2026-08-31T03:08:11+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/d8af1efa-29cc-4e3e-8056-f4e74e1cb937/20260831T021456/d8af1efa-29cc-4e3e-8056-f4e74e1cb937_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "b13c3842-133d-4c3c-9544-998844ff0198",
+      "description": "“On Friday evening, two individuals were in a drainage area when they were swept away by rapidly moving water during the heavy rainfall.\"",
+      "questions": [
+        "I saw San Antonio had some serious flooding - are you and your family all right?",
+        "Is flooding in the drainage areas something that affects the roads you normally drive?"
+      ]
+    },
+    {
       "title": "Residents assess damage after powerful storm hits Somerset, causing power outages and school closures",
       "summary": "A severe storm hit Somerset, a small town about 20 miles southwest of San Antonio, causing significant damage and power outages that led to school closures.",
       "source": "KENS 5",
@@ -131,29 +150,70 @@
       ]
     },
     {
-      "title": "Dangerous heat continues as storms return to South-Central Texas | Weather Impact Alert",
+      "title": "Burnout operation underway in Atascosa County as firefighters battle 300-acre River Bluff Fire",
       "summary": "",
       "source": "KENS 5",
       "topic": "weather-hazard",
       "topics_secondary": [],
-      "url": "https://www.kens5.com/article/weather/forecast/san-antonio-heat-storms-thursday-advisory-triple-digits-rain-thunderstorms-gusty-humidity-forecast-south-central-texas-impact-alert-weekend/273-cb54686e-645d-4c1f-b4bc-2a381ff2af2b",
-      "published_at": "2026-08-27T15:14:07+00:00",
+      "url": "https://www.kens5.com/article/news/local/texas/atascosa-county-lytle-rossville-texas-river-bluff-wild-fire-300-acres-southwest-san-antonio-latest-august-2026/273-26239b4e-c5e6-4186-aa81-02a60349b555",
+      "published_at": "2026-09-01T20:10:40+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/c2212bc4-19d5-4ff9-b73e-2df2dbb1b2bd/c2212bc4-19d5-4ff9-b73e-2df2dbb1b2bd_750x422.jpg",
+        "url": "https://media.tegna-media.com/assets/KENS/images/d3b83e16-fe77-4bd1-90f5-e304933e932d/20260901T194948/d3b83e16-fe77-4bd1-90f5-e304933e932d_750x422.jpg",
         "alt": ""
       },
-      "uid": "15db79ac-4ef4-4e0b-be15-065e4cf44c1f",
-      "description": "Triple-digit heat remains the biggest concern Thursday, while scattered storms bring a chance for heavy rain and gusty winds.",
+      "uid": "3d881077-b34a-40c0-8364-4ec32c4475e3",
+      "description": "Firefighters are conducting a burnout operation to contain the 300-acre River Bluff Fire southwest of San Antonio, according to officials.",
       "questions": [
-        "How are you holding up with the triple-digit heat?",
-        "Does the heat change how you plan out a week?"
+        "Is the River Bluff Fire close enough to affect where you are?",
+        "Has the smoke been noticeable in your part of the area?"
       ]
     }
   ],
   "conversation_starters": [
     {
+      "title": "San Antonio couple wins Food Network's debut season of 'Pitmasters'",
+      "summary": "Esaul and Grecia Ramos, owners of 2M Smokehouse, a San Antonio barbecue restaurant, took home the trophy and a $30,000 prize.",
+      "source": "KENS 5",
+      "topic": "food-dining",
+      "topics_secondary": [
+        "human-interest",
+        "celebrity-entertainment"
+      ],
+      "url": "https://www.kens5.com/article/life/food/2msmokehouse-pitmasters-food-network-esaul-ramos-grecia-barbecue-champions-30000-brisket-southeast-side-san-antonio/273-d1d3722d-a8ab-49fa-b8cd-f6c9b0ae6028",
+      "published_at": "2026-09-02T13:11:14+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/a7b251ea-ccfb-4637-be80-8645774085fd/20260902T130305/a7b251ea-ccfb-4637-be80-8645774085fd_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "b2f633df-2a8a-4d69-abbd-54b936b629d8",
+      "description": "2M Smokehouse owners Esaul and Grecia Ramos took home the trophy and a $30,000 prize.",
+      "questions": [
+        "Did you follow 2M Smokehouse on the Food Network competition?",
+        "What is your go-to barbecue place in San Antonio?"
+      ]
+    },
+    {
+      "title": "'Best of the Wurst' | Beloved Wurstfest returns for 65th year in New Braunfels; Tickets now on sale",
+      "summary": "Tickets for the 65th Wurstfest in New Braunfels, a small city about 30 miles northeast of San Antonio, go on sale Tuesday; the festival celebrates German culture with music, food, and charity, promising fun for all ages.",
+      "source": "KENS 5",
+      "topic": "culture-events",
+      "topics_secondary": [],
+      "url": "https://www.kens5.com/article/news/local/best-of-the-wurst-beloved-wurstfest-returns-for-65th-year-in-new-braunfels-tickets-now-on-sale/273-f014b041-e435-414e-bced-2663c564a5a8",
+      "published_at": "2026-09-01T18:08:46+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/b5398c2c-36b4-4c9d-bbc3-72f154078686/b5398c2c-36b4-4c9d-bbc3-72f154078686_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "f0d67c5f-c1db-4ebc-9a46-a3863101d020",
+      "description": "Tickets for the 65th Wurstfest in New Braunfels, a festival celebrating German culture with music, food, and charity, go on sale Tuesday, promising fun for all ages.",
+      "questions": [
+        "Do you make it out to Wurstfest most years?",
+        "Is Wurstfest something the whole family goes to, or more of a friends trip?"
+      ]
+    },
+    {
       "title": "TxDOT Loop 410 San Pedro improvements construction project near San Antonio airport set to begin in September",
-      "summary": "TxDOT, the Texas Department of Transportation, opened its Loop 410 improvement project to the public at an open house, saying work would begin within the year and finish by 2029. The plan then firmed up into a $156 million construction project near the San Antonio airport, starting in September, aimed at easing congestion where Loop 410 — the freeway ringing the city — meets U.S. 281.",
+      "summary": "San Antonio drivers face more construction as a $156 million project from TxDOT, the Texas Department of Transportation, aims to ease congestion on Loop 410, the freeway that rings the city, and U.S. 281, the highway running north out of downtown. Expected completion: 2029.",
       "source": "KENS 5",
       "topic": "transportation",
       "topics_secondary": [],
@@ -168,57 +228,6 @@
       "questions": [
         "Does your commute take you anywhere near Loop 410 and U.S. 281?",
         "Is the construction on Loop 410 going to change how you get around?"
-      ],
-      "thread": [
-        {
-          "title": "TxDOT to host open house ahead of Loop 410 improvement project's start",
-          "summary": "",
-          "source": "KENS 5",
-          "topic": "transportation",
-          "topics_secondary": [],
-          "url": "https://www.kens5.com/article/news/local/txdot-to-host-open-house-ahead-of-loop-410-improvement-projects-start/273-fe5376b5-61c7-47bd-90cc-acbfc892054b",
-          "published_at": "2026-08-26T01:17:35+00:00",
-          "image": {
-            "url": "https://media.tegna-media.com/assets/KENS/images/304559842/304559842_750x422.jpg",
-            "alt": ""
-          },
-          "uid": "8d9daabe-638f-4980-a912-f9e5c98c4934",
-          "description": "The project is expected to begin this year and reach completion by 2029."
-        },
-        {
-          "title": "TxDOT Loop 410 San Pedro improvements construction project near San Antonio airport set to begin in September",
-          "summary": "",
-          "source": "KENS 5",
-          "topic": "transportation",
-          "topics_secondary": [],
-          "url": "https://www.kens5.com/article/traffic/texas-traffic-txdot-loop-410-san-antonio-pedro-construction-project-airport-september/273-c22a46e0-8f60-4f28-b4de-52cfc4392661",
-          "published_at": "2026-08-28T03:16:03+00:00",
-          "image": {
-            "url": "https://media.tegna-media.com/assets/KENS/images/e8032e08-b51f-476c-a5e9-dbc64d50aa44/20260828T031408/e8032e08-b51f-476c-a5e9-dbc64d50aa44_750x422.jpg",
-            "alt": ""
-          },
-          "uid": "1d3f3625-608f-4bf0-aeb3-e5d6e582715c",
-          "description": "San Antonio drivers face more construction as a $156 million TxDOT project aims to ease congestion on Loop 410 and U.S. 281. Expected completion: 2029."
-        }
-      ]
-    },
-    {
-      "title": "‘Complete opposite’ | Donations lag as Texas Hill Country continues to deal with flood damage",
-      "summary": "Despite four times as many damaged homes and businesses, a nonprofit in the Hill Country, the region of hills and small towns just northwest of San Antonio, says donations and volunteers have dropped compared to the July 4, 2025 floods.",
-      "source": "KENS 5",
-      "topic": "weather-hazard",
-      "topics_secondary": [],
-      "url": "https://www.kens5.com/article/news/local/donations-lag-texas-hill-country-faces-greater-damage-2026-floods/269-2bd6bc3d-7e05-4d6e-bcf0-772d77a269c7",
-      "published_at": "2026-08-26T21:19:16+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KVUE/images/5c43b2f4-cefe-4ad6-ae20-1dcacc4c5a2c/20260717T230721/5c43b2f4-cefe-4ad6-ae20-1dcacc4c5a2c_750x422.jpg",
-        "alt": ""
-      },
-      "uid": "26925394-b609-4e3a-bf49-d653212d4038",
-      "description": "Despite four times as many damaged homes and businesses, a Hill Country nonprofit says donations and volunteers have dropped compared to the July 4, 2025 floods.",
-      "questions": [
-        "Have you been following the Hill Country flood recovery?",
-        "Is the Hill Country somewhere you spend much time?"
       ]
     },
     {
@@ -241,22 +250,24 @@
       ]
     },
     {
-      "title": "San Antonio Zoo welcomes endangered tree kangaroo joey",
+      "title": "Project Cool running low on box fans as San Antonio heat continues",
       "summary": "",
       "source": "KENS 5",
       "topic": "human-interest",
-      "topics_secondary": [],
-      "url": "https://www.kens5.com/article/life/animals/joey-finni-tobai-endangered-conservation-pouch-wildaustralia-papuanewguinea-newborn/273-13be294a-de94-4dc7-aea8-e4f212872d0c",
-      "published_at": "2026-08-26T18:13:10+00:00",
+      "topics_secondary": [
+        "weather-hazard"
+      ],
+      "url": "https://www.kens5.com/article/news/local/outreach/kens-cares/project-cool-box-fans-united-way-heat-seniors-donations-safd-cooling-bexar-county-211/273-333db062-f66f-4d0c-b066-571531a4246e",
+      "published_at": "2026-09-01T17:14:08+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/c80172dd-6cc9-4fee-b585-503685c6e849/20260826T150142/c80172dd-6cc9-4fee-b585-503685c6e849_750x422.jpg",
+        "url": "https://media.tegna-media.com/assets/KENS/images/cefc9701-99c7-493e-a774-08236ad47de3/20260901T170546/cefc9701-99c7-493e-a774-08236ad47de3_750x422.jpg",
         "alt": ""
       },
-      "uid": "c4e3f210-2441-4ca9-89d4-1c018e792874",
-      "description": "The joey is starting to peek from Finni’s pouch, marking an important birth for the endangered species.",
+      "uid": "66881cbb-44ed-409d-b8cd-c25695b6a217",
+      "description": "United Way is asking San Antonio residents to donate new box fans as demand from seniors and people with disabilities outpaces supply.",
       "questions": [
-        "Do you ever get out to the San Antonio Zoo?",
-        "Had you heard about the new tree kangaroo joey?"
+        "Have you heard about the Project Cool fan drive this year?",
+        "Is the heat still as rough as it has been?"
       ]
     },
     {
@@ -277,28 +288,24 @@
         "Have you ever caught a show at Gruene Hall?",
         "Is Gruene Hall worth the drive from San Antonio?"
       ]
-    },
-    {
-      "title": "San Antonio Animal Care Services celebrates National Dog Day with free adoptions",
-      "summary": "Looking for a new best friend? SAACS, San Antonio Animal Care Services, is offering $0 adoptions over the weekend as hundreds of dogs and puppies wait for homes.",
-      "source": "KENS 5",
-      "topic": "animal-welfare",
-      "topics_secondary": [],
-      "url": "https://www.kens5.com/article/life/pets/free-adoption-puppies-shelter-canine-matchmaking-foreverhome-august26-pets/273-f9091ad6-a906-4127-ba06-ed05298c523d",
-      "published_at": "2026-08-26T14:46:37+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/c1141232-53f0-4a4f-8cad-9c7e5ca8c944/c1141232-53f0-4a4f-8cad-9c7e5ca8c944_750x422.jpg",
-        "alt": ""
-      },
-      "uid": "aaa47162-a0aa-49c1-b86a-ff86ad04a38b",
-      "description": "Looking for a new best friend? SAACS is offering $0 adoptions through the weekend as hundreds of dogs and puppies wait for homes.",
-      "questions": [
-        "Do you have any pets at home?",
-        "Have you ever adopted from San Antonio Animal Care Services?"
-      ]
     }
   ],
   "you_should_know": [
+    {
+      "title": "DHS signs $17.3M contract to convert east-side San Antonio warehouse into ICE facility, online records say",
+      "summary": "",
+      "source": "KENS 5",
+      "topic": "immigration-enforcement",
+      "topics_secondary": [],
+      "url": "https://www.kens5.com/article/news/local/dhs-signs-173m-contract-convert-east-side-san-antonio-warehouse-ice-facility-texas-detention-center/273-5a8d5525-85b4-4c44-aa78-b21d5510b46e",
+      "published_at": "2026-09-02T03:19:30+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/a7a64f86-cfdc-445d-bdf2-36a5481cacdb/20260825T184552/a7a64f86-cfdc-445d-bdf2-36a5481cacdb_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "7a568f4e-38fd-4e7b-a689-39272a541948",
+      "description": "The Department of Homeland Security has signed a $17.3 million contract with GardaWorld to convert a San Antonio warehouse into an ICE facility, online records say."
+    },
     {
       "title": "Man arrested after allegedly threatening to shoot up San Antonio elementary school in AI chats, affidavit says",
       "summary": "",
@@ -315,49 +322,36 @@
       "description": "One quote from the chat included: \"I'm getting a gun as soon as I can, and when Serna Elementary starts, I'm just gonna walk in there and start shooting up kids.\""
     },
     {
-      "title": "Staples Police Department deactivated by state; Guadalupe County deputies take over calls",
-      "summary": "City leaders dispute some of the findings from TCOLE, the Texas Commission on Law Enforcement, and say they had no opportunity to appeal. Amended state standards governing police agencies take effect Sept. 1.",
+      "title": "Salame to be appointed San Antonio police chief, city leaders confirm",
+      "summary": "",
+      "source": "KENS 5",
+      "topic": "government",
+      "topics_secondary": [
+        "policing"
+      ],
+      "url": "https://www.kens5.com/article/news/local/law-enforcement/san-antonio-texas-satx-new-police-chief-jesse-salame-sapd-retirment-william-mcmanuis-city-council-manager-erik-walsh-announcment-september-2026/273-0c7b5a90-65ec-4312-a5c1-3c87868853ca",
+      "published_at": "2026-09-02T15:05:35+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/a37966dd-c99f-4ffd-9265-f1bc970a1651/20260708T210614/a37966dd-c99f-4ffd-9265-f1bc970a1651_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "1bdac96c-d993-4370-9066-cb1146b6f391",
+      "description": "San Antonio City Manager Erik Walsh is set to announce a new police chief on Wednesday morning, filling the position after the retirement of Chief McManus."
+    },
+    {
+      "title": "Gov. Abbott blocks state agencies from spending money on Flock cameras",
+      "summary": "Gov. Greg Abbott has ordered all state agencies to pause funding for Flock cameras, automated license plate readers, as scrutiny over the AI-powered surveillance devices has mounted.",
       "source": "KENS 5",
       "topic": "policing",
       "topics_secondary": [],
-      "url": "https://www.kens5.com/article/news/local/staples-texas-police-department-deactivated-state-guadalupe-county-deputies/273-5d8faef8-58c3-4ca8-98dd-a96ff087793e",
-      "published_at": "2026-08-27T05:00:04+00:00",
+      "url": "https://www.kens5.com/article/news/local/texas/gov-abbott-blocks-state-agencies-from-spending-money-on-flock-cameras/287-77449273-4be6-4136-922c-4cc30e2bdbb6",
+      "published_at": "2026-08-28T22:45:19+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/f0131d32-16d3-4b39-b594-4e747c8e9ba5/20260827T042843/f0131d32-16d3-4b39-b594-4e747c8e9ba5_750x422.jpg",
+        "url": "https://media.tegna-media.com/assets/WFAA/images/f773bbec-5fc4-404b-95b5-b6da9f0a5489/20260828T222058/f773bbec-5fc4-404b-95b5-b6da9f0a5489_750x422.jpg",
         "alt": ""
       },
-      "uid": "b122f446-2d40-4f65-8abe-f8d014380a0a",
-      "description": "City leaders dispute some of TCOLE’s findings and say they had no opportunity to appeal. Amended state standards governing police agencies take effect Sept. 1."
-    },
-    {
-      "title": "Man accused of threatening ICE officers outside San Antonio federal office, affidavit says",
-      "summary": "",
-      "source": "KENS 5",
-      "topic": "immigration-enforcement",
-      "topics_secondary": [],
-      "url": "https://www.kens5.com/article/news/crime/ice-threat-jackson-keller-castle-hills-cellphone-officers-honda-affidavit-warrant-federal-pineda-munoz-homeland-security/273-c7049da9-cb95-4bae-b1d9-6a018c0f5853",
-      "published_at": "2026-08-28T23:17:44+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/bef733fe-c55c-48ac-9ab1-2d04fbf3119d/20260828T160346/bef733fe-c55c-48ac-9ab1-2d04fbf3119d_750x422.jpg",
-        "alt": ""
-      },
-      "uid": "489eab7d-5041-4767-afe5-2696dc053305",
-      "description": "Investigators say the suspect repeatedly drove past federal officers and threatened to shoot them while holding up a cellphone."
-    },
-    {
-      "title": "San Antonio City Council could add rules for data center development, but some leaders concerned about all-out pause",
-      "summary": "Some San Antonio leaders said they want the ability to approve any data center project looking to break ground in the Alamo City, as San Antonio is nicknamed.",
-      "source": "KENS 5",
-      "topic": "technology",
-      "topics_secondary": [],
-      "url": "https://www.kens5.com/article/news/politics/san-antonio-city-council-could-add-rules-for-data-center-development-but-some-leaders-concerned-about-all-out-pause/273-35e3d06f-bc7a-485a-ba5f-fb15e3e9565f",
-      "published_at": "2026-08-26T03:18:25+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/256c8f57-2e5f-43fc-9e87-82e5ee710c02/20260826T031712/256c8f57-2e5f-43fc-9e87-82e5ee710c02_750x422.jpg",
-        "alt": ""
-      },
-      "uid": "5dae12d0-21ef-4593-86d3-c7deb0df0888",
-      "description": "Some San Antonio leaders said they want the ability to approve any data center project looking to break ground in the Alamo City."
+      "uid": "568eae21-0a84-4384-9132-c25a4191be73",
+      "description": "Gov. Greg Abbott has ordered all state agencies to pause funding for Flock cameras as scrutiny over the AI-powered surveillance devices has mounted."
     },
     {
       "title": "Feds ordered to extend pause on Big Bend border construction, state senator says",
@@ -407,6 +401,21 @@
       ]
     },
     {
+      "title": "Staples Police Department deactivated by state; Guadalupe County deputies take over calls",
+      "summary": "City leaders dispute some of the findings from TCOLE, the Texas Commission on Law Enforcement, and say they had no opportunity to appeal. Amended state standards governing police agencies take effect Sept. 1.",
+      "source": "KENS 5",
+      "topic": "policing",
+      "topics_secondary": [],
+      "url": "https://www.kens5.com/article/news/local/staples-texas-police-department-deactivated-state-guadalupe-county-deputies/273-5d8faef8-58c3-4ca8-98dd-a96ff087793e",
+      "published_at": "2026-08-27T05:00:04+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/f0131d32-16d3-4b39-b594-4e747c8e9ba5/20260827T042843/f0131d32-16d3-4b39-b594-4e747c8e9ba5_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "b122f446-2d40-4f65-8abe-f8d014380a0a",
+      "description": "City leaders dispute some of TCOLE’s findings and say they had no opportunity to appeal. Amended state standards governing police agencies take effect Sept. 1."
+    },
+    {
       "title": "'Don't you touch me' | Balcones Heights mayor released on bond after arrest following heated council meeting",
       "summary": "Johnny Rodriguez, mayor of Balcones Heights, a small city surrounded by San Antonio about five miles northwest of downtown, was released on bond after his arrest on an assault charge.",
       "source": "KENS 5",
@@ -422,52 +431,65 @@
       "description": "Balcones Heights Mayor Johnny Rodriguez was released on bond after his arrest on an assault charge."
     },
     {
-      "title": "Gov. Abbott blocks state agencies from spending money on Flock cameras",
-      "summary": "Gov. Greg Abbott has ordered all state agencies to pause funding for Flock cameras, automated license plate readers, as scrutiny over the AI-powered surveillance devices has mounted.",
+      "title": "'ICE is going to take him:' Mother says her son was wrongly accused of threatening ICE officers in San Antonio",
+      "summary": "An affidavit accused Josue David Pineda Munoz of repeatedly driving past federal immigration officers outside San Antonio's federal office and threatening to shoot them while holding up a cellphone. He was charged with making a terroristic threat and remains held at the Bexar County jail in San Antonio, and his mother has since said publicly that her son was wrongly accused.",
       "source": "KENS 5",
-      "topic": "policing",
-      "topics_secondary": [],
-      "url": "https://www.kens5.com/article/news/local/texas/gov-abbott-blocks-state-agencies-from-spending-money-on-flock-cameras/287-77449273-4be6-4136-922c-4cc30e2bdbb6",
-      "published_at": "2026-08-28T22:45:19+00:00",
+      "topic": "immigration-enforcement",
+      "topics_secondary": [
+        "violent-crime"
+      ],
+      "url": "https://www.kens5.com/article/news/crime/ice-mother-son-wrongly-accused-hreatening-ice-officers-san-antonio/273-1bfa8e71-385a-4959-868d-ba1acc375607",
+      "published_at": "2026-09-02T03:43:38+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/WFAA/images/f773bbec-5fc4-404b-95b5-b6da9f0a5489/20260828T222058/f773bbec-5fc4-404b-95b5-b6da9f0a5489_750x422.jpg",
+        "url": "https://media.tegna-media.com/assets/KENS/images/e1ad63ed-8b6a-4e91-9a1f-a248fbeb0774/20260902T023325/e1ad63ed-8b6a-4e91-9a1f-a248fbeb0774_750x422.jpg",
         "alt": ""
       },
-      "uid": "568eae21-0a84-4384-9132-c25a4191be73",
-      "description": "Gov. Greg Abbott has ordered all state agencies to pause funding for Flock cameras as scrutiny over the AI-powered surveillance devices has mounted."
-    },
-    {
-      "title": "Kendall County commissioners unanimously vote not to renew Flock Safety contract",
-      "summary": "Kendall County, the Hill Country county about 30 miles northwest of San Antonio, voted to end its contract with Flock Safety after resident pushback against automated license plate cameras, citing privacy concerns.",
-      "source": "KENS 5",
-      "topic": "policing",
-      "topics_secondary": [],
-      "url": "https://www.kens5.com/article/news/politics/kendall-county-commissioners-unanimously-vote-not-renew-flock-safety-contract-texas-privacy-concerns/273-9abe1f4a-3e06-4ddb-97c8-21874ed9531b",
-      "published_at": "2026-08-26T03:14:12+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/0fc609ed-8658-4cdb-b253-6f934e3638f6/20260826T031131/0fc609ed-8658-4cdb-b253-6f934e3638f6_750x422.jpg",
-        "alt": ""
-      },
-      "uid": "4c5a7279-9bb3-43bf-bf83-8a5e726cbe96",
-      "description": "Kendall County voted to end its contract with Flock Safety after resident pushback against automated license plate cameras, citing privacy concerns."
-    },
-    {
-      "title": "Man accused of making threats against San Antonio officials on Facebook, affidavit says",
-      "summary": "",
-      "source": "KENS 5",
-      "topic": "violent-crime",
-      "topics_secondary": [],
-      "url": "https://www.kens5.com/article/news/crime/san-antonio-officials-texas-timothy-alejos-facebook-terroristic-threats/273-45be7b94-dbc2-4d82-8e30-0158ea8c5a14",
-      "published_at": "2026-08-26T22:30:21+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/d157126f-661c-42f0-9998-c3162ce508c5/20260826T221716/d157126f-661c-42f0-9998-c3162ce508c5_750x422.jpg",
-        "alt": ""
-      },
-      "uid": "902337f0-7e44-469e-8420-6c3a01c56e5d",
-      "description": "Timothy Alejos, 38, has been charged with terroristic threat involving impairment of public service, public fear of serious bodily injury or influencing government."
+      "uid": "e5a09f67-1cd2-408d-bf3a-fc6fadc13d1c",
+      "description": "Josue David Pineda Munoz remains in the Bexar County jail, where he faces a charge of making a terroristic threat.",
+      "thread": [
+        {
+          "title": "Man accused of threatening ICE officers outside San Antonio federal office, affidavit says",
+          "summary": "",
+          "source": "KENS 5",
+          "topic": "immigration-enforcement",
+          "topics_secondary": [],
+          "url": "https://www.kens5.com/article/news/crime/ice-threat-jackson-keller-castle-hills-cellphone-officers-honda-affidavit-warrant-federal-pineda-munoz-homeland-security/273-c7049da9-cb95-4bae-b1d9-6a018c0f5853",
+          "published_at": "2026-08-28T23:17:44+00:00",
+          "image": {
+            "url": "https://media.tegna-media.com/assets/KENS/images/bef733fe-c55c-48ac-9ab1-2d04fbf3119d/20260828T160346/bef733fe-c55c-48ac-9ab1-2d04fbf3119d_750x422.jpg",
+            "alt": ""
+          },
+          "uid": "489eab7d-5041-4767-afe5-2696dc053305",
+          "description": "Investigators say the suspect repeatedly drove past federal officers and threatened to shoot them while holding up a cellphone."
+        },
+        {
+          "title": "'ICE is going to take him:' Mother says her son was wrongly accused of threatening ICE officers in San Antonio",
+          "summary": "",
+          "source": "KENS 5",
+          "topic": "immigration-enforcement",
+          "topics_secondary": [
+            "violent-crime"
+          ],
+          "url": "https://www.kens5.com/article/news/crime/ice-mother-son-wrongly-accused-hreatening-ice-officers-san-antonio/273-1bfa8e71-385a-4959-868d-ba1acc375607",
+          "published_at": "2026-09-02T03:43:38+00:00",
+          "image": {
+            "url": "https://media.tegna-media.com/assets/KENS/images/e1ad63ed-8b6a-4e91-9a1f-a248fbeb0774/20260902T023325/e1ad63ed-8b6a-4e91-9a1f-a248fbeb0774_750x422.jpg",
+            "alt": ""
+          },
+          "uid": "e5a09f67-1cd2-408d-bf3a-fc6fadc13d1c",
+          "description": "Josue David Pineda Munoz remains in the Bexar County jail, where he faces a charge of making a terroristic threat."
+        }
+      ]
     }
   ],
   "sports": [
+    {
+      "team": "Spurs",
+      "scores": [
+        "Austin game tickets on sale Thursday",
+        "expands Jackals fan section, holds auditions"
+      ]
+    },
     {
       "team": "UTSA",
       "scores": [
@@ -478,12 +500,6 @@
       "team": "Longhorns",
       "scores": [
         "season preview: title contender"
-      ]
-    },
-    {
-      "team": "Spurs",
-      "scores": [
-        "expands Jackals fan section, holds auditions"
       ]
     }
   ]

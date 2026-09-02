@@ -9,6 +9,7 @@
       "summary": "",
       "source": "KARE 11",
       "topic": "public-health",
+      "topics_secondary": [],
       "url": "https://www.kare11.com/article/news/health/six-beaches-minneapolis-close-due-blue-green-algae-coli/89-8712a9a8-1abc-4fca-ac8f-1960875def07",
       "published_at": "2026-08-07T22:26:32+00:00",
       "image": {
@@ -29,6 +30,7 @@
       "summary": "The Uptown Art Fair kicked off Friday afternoon in Minneapolis. The event is closer to Uptown, a Minneapolis neighborhood just southwest of downtown, for the first time in two years. It's also giving back to the community that started it all. John Lauritsen shows how the fair could help revitalize the area.",
       "source": "CBS Minnesota",
       "topic": "civic-events",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/minnesota/video/how-the-uptown-art-fair-is-aiming-to-help-the-minneapolis-neighborhood/",
       "published_at": "2026-08-07T23:36:00+00:00",
       "image": {
@@ -48,6 +50,7 @@
       "summary": "",
       "source": "FOX 9",
       "topic": "severe-weather",
+      "topics_secondary": [],
       "url": "https://www.fox9.com/weather/minnesota-weather-forecast-aug-7-2026",
       "published_at": "2026-08-07T20:08:10+00:00",
       "image": {
@@ -66,6 +69,7 @@
       "summary": "",
       "source": "KARE 11",
       "topic": "human-interest",
+      "topics_secondary": [],
       "url": "https://www.kare11.com/article/news/local/award-winning-twin-cities-culinary-journalist-sue-zelickson-dies-at-91/89-c9306250-1136-4e36-86b1-631e36eddbbd",
       "published_at": "2026-08-07T20:57:46+00:00",
       "image": {
@@ -84,6 +88,7 @@
       "summary": "",
       "source": "FOX 9",
       "topic": "human-interest",
+      "topics_secondary": [],
       "url": "https://www.fox9.com/news/minnesota-nurse-91-still-teaching-volunteering-69-years-aug-2026",
       "published_at": "2026-08-07T23:09:24+00:00",
       "image": {
@@ -102,6 +107,7 @@
       "summary": "",
       "source": "KARE 11",
       "topic": "business-jobs",
+      "topics_secondary": [],
       "url": "https://www.kare11.com/article/news/local/first-national-bank-building-relights-iconic-sign-mn/89-7c1a13a4-65a2-4986-b89f-6ee9d4d3385a",
       "published_at": "2026-08-07T00:28:02+00:00",
       "image": {
@@ -131,6 +137,7 @@
       "summary": "Faisal Kaleem, director of cyber programs at Metro State University, a public university in St. Paul, said this service disruption should be a wake-up call.",
       "source": "KARE 11",
       "topic": "transportation",
+      "topics_secondary": [],
       "url": "https://www.kare11.com/article/news/local/power-failure-appears-to-be-culprit-behind-faa-outage-but-a-cybersecurity-expert-says-it-exposed-a-problem/89-36f79326-b70d-4b07-b2f2-5421b1f1ead3",
       "published_at": "2026-08-07T23:34:54+00:00",
       "image": {
@@ -145,6 +152,7 @@
       "summary": "City leaders in St. Paul, the neighboring city just east of Minneapolis, are trying to handle what they describe as a safety problem at an encampment. Our Conor Wight shows the ripple effect after a major encampment shutdown this week.",
       "source": "CBS Minnesota",
       "topic": "housing",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/minnesota/video/encampment-grows-on-st-pauls-west-side-after-city-clears-site-at-pigs-eye-park/",
       "published_at": "2026-08-07T23:32:00+00:00",
       "image": {
@@ -160,6 +168,7 @@
       "summary": "",
       "source": "KARE 11",
       "topic": "immigration-enforcement",
+      "topics_secondary": [],
       "url": "https://www.kare11.com/article/news/local/ice-in-minnesota/journalist-don-lemon-files-motion-to-dismiss-charges-stemming-from-ice-protest-at-cities-church/89-0a52e3dd-f51b-4880-903a-d18cf5e8a803",
       "published_at": "2026-08-07T14:49:14+00:00",
       "image": {
@@ -174,6 +183,7 @@
       "summary": "Ramsey County, which covers St. Paul just east of Minneapolis, and the Minnesota Attorney General are asking the court to block two rival gangs from engaging in \"gang activity\" at the Minnesota State Fair.",
       "source": "FOX 9",
       "topic": "policing",
+      "topics_secondary": [],
       "url": "https://www.fox9.com/news/ramsey-county-files-injunction-keep-two-rival-gangs-out-minnesota-state-fair",
       "published_at": "2026-08-07T22:17:50+00:00",
       "image": {
@@ -188,6 +198,7 @@
       "summary": "The family of Mark Hortman — the Minnesota man killed alongside his wife, a state legislative leader, in 2025 — is pushing back on the nomination of Todd Blanche as the U.S. attorney general, President Trump signed two executive orders in his latest effort to refuse citizenship to some children born in the U.S. and more.",
       "source": "CBS Minnesota",
       "topic": "elections-politics",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/minnesota/video/4-things-to-know-from-aug-7-2026/",
       "published_at": "2026-08-07T12:01:00+00:00",
       "image": {
@@ -203,6 +214,7 @@
       "summary": "",
       "source": "FOX 9",
       "topic": "policing",
+      "topics_secondary": [],
       "url": "https://www.fox9.com/news/edina-plymouth-among-minnesota-cities-hit-license-plate-camera-vandalism",
       "published_at": "2026-08-07T02:31:29+00:00",
       "image": {

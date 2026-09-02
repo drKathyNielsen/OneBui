@@ -9,6 +9,7 @@
       "summary": "",
       "source": "CBS Minnesota",
       "topic": "drought-water",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/minnesota/news/as-minnesota-drought-conditions-worsen-relief-remains-uncertain/",
       "published_at": "2026-08-23T22:45:45+00:00",
       "image": {
@@ -28,6 +29,7 @@
       "summary": "",
       "source": "FOX 9",
       "topic": "property-crime",
+      "topics_secondary": [],
       "url": "https://www.fox9.com/news/minneapolis-car-break-ins-police-investigate-87-smashed-windows-across-9-neighborhoods",
       "published_at": "2026-08-23T02:33:52+00:00",
       "image": {
@@ -71,6 +73,7 @@
       "summary": "",
       "source": "CBS Minnesota",
       "topic": "violent-crime",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/minnesota/news/far-right-jake-lang-rally-arrested-inciting-riot/",
       "published_at": "2026-08-23T15:57:52+00:00",
       "image": {
@@ -86,6 +89,7 @@
       "summary": "The fight over Flock cameras could be moving to St. Paul, the capital city, just east of Minneapolis. The automatic license plate-reading cameras continue to spark debate across Minnesota, with some cities cutting ties with the technology, as other cities deal with vandals taking matters into their own hands.",
       "source": "CBS Minnesota",
       "topic": "policing",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/minnesota/news/the-fight-flock-cameras-st-paul/",
       "published_at": "2026-08-23T16:29:51+00:00",
       "image": {

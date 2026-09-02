@@ -9,6 +9,7 @@
       "summary": "",
       "source": "CBS Colorado",
       "topic": "severe-weather",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/colorado/video/colorado-weather-severe-storm-threat-continues-sunday-as-scattered-storms-return-through-thursday/",
       "published_at": "2026-08-23T14:12:00+00:00",
       "image": {
@@ -30,6 +31,7 @@
       "summary": "",
       "source": "CBS Colorado",
       "topic": "human-interest",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/colorado/video/fall-foliage-is-forecast-to-arrive-early-in-colorado/",
       "published_at": "2026-08-23T01:06:00+00:00",
       "image": {
@@ -54,6 +56,7 @@
       "summary": "",
       "source": "9NEWS",
       "topic": "wildfire",
+      "topics_secondary": [],
       "url": "https://www.9news.com/article/news/local/colorado-news/polis-requests-major-disaster-declaration-support-recovery-wildfires/73-7a4dd46d-7639-42f4-9583-47aaaca54bac",
       "published_at": "2026-08-23T19:03:16+00:00",
       "image": {
@@ -68,6 +71,7 @@
       "summary": "In an effort to bolster wildfire defenses, the Town of Lyons, a small town about 15 miles north of Boulder, is eyeing an unprecedented ordinance requiring homeowners to implement specific mitigation measures.",
       "source": "9NEWS",
       "topic": "wildfire",
+      "topics_secondary": [],
       "url": "https://www.9news.com/article/news/local/wildfire/lyons-could-become-first-colorado-town-to-require-wildfire-mitigation-at-existing-homes/73-731c0ef4-6519-4432-89b2-1c014307da06",
       "published_at": "2026-08-23T00:01:23+00:00",
       "image": {

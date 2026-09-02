@@ -9,6 +9,7 @@
       "summary": "",
       "source": "9NEWS",
       "topic": "air-quality",
+      "topics_secondary": [],
       "url": "https://www.9news.com/article/weather/weather-colorado/denver-ties-record-low-temp-august-5/73-501b7945-6cfd-4cc8-be64-36fd8f13d6a4",
       "published_at": "2026-08-05T16:06:14+00:00",
       "image": {
@@ -39,6 +40,7 @@
       "summary": "In Lochbuie, a small town on the plains northeast of Denver about 30 miles east of Boulder, the lone councilmember to vote against the measure said the five-year timeframe was too long.",
       "source": "9NEWS",
       "topic": "data-centers",
+      "topics_secondary": [],
       "url": "https://www.9news.com/article/news/local/lochbuie-5-year-moratorium-data-centers/73-9d2c9358-f5d0-40ba-8242-52f11eff182c",
       "published_at": "2026-08-05T22:02:11+00:00",
       "image": {
@@ -53,6 +55,7 @@
       "summary": "",
       "source": "9NEWS",
       "topic": "policing",
+      "topics_secondary": [],
       "url": "https://www.9news.com/article/news/crime/officer-charged-killing-judge-jury/73-e93495bb-c2ca-4a59-83cf-8518edd5fded",
       "published_at": "2026-08-05T23:39:14+00:00",
       "image": {

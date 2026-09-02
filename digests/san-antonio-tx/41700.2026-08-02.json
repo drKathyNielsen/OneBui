@@ -9,6 +9,7 @@
       "summary": "",
       "source": "KENS 5",
       "topic": "flood",
+      "topics_secondary": [],
       "url": "https://www.kens5.com/article/syndication/associatedpress/weather-conditions-again-brought-devastating-floods-to-a-vulnerable-swath-of-texas/616-a291d9ae-9351-4121-bcbf-5b06e2f42d40",
       "published_at": "2026-08-02T20:18:44+00:00",
       "image": {
@@ -30,6 +31,7 @@
       "summary": "",
       "source": "KENS 5",
       "topic": "human-interest",
+      "topics_secondary": [],
       "url": "https://www.kens5.com/article/news/local/san-antonio-man-has-reunited-more-than-200-people-with-lost-class-rings-while-searching-for-his-own/273-0bf6f14a-2736-4cca-b45b-5622d64d50a0",
       "published_at": "2026-08-02T23:01:36+00:00",
       "image": {
@@ -49,6 +51,7 @@
       "summary": "Community members are asking what the increase in data center construction across Bexar County, the county that contains San Antonio, means for the city's environment and economy.",
       "source": "San Antonio Report",
       "topic": "data-centers",
+      "topics_secondary": [],
       "url": "https://sanantonioreport.org/data-centers-development-growing-san-antonio-bexar-county/",
       "published_at": "2026-08-02T21:00:00+00:00",
       "image": {
@@ -69,6 +72,7 @@
       "summary": "Alamo Ranch, a fast-growing residential hub on the far west side of San Antonio in Bexar County, is one of the area's centers of population growth, and public officials are expanding roads there to keep up.",
       "source": "San Antonio Report",
       "topic": "transportation",
+      "topics_secondary": [],
       "url": "https://sanantonioreport.org/population-traffic-booming-alamo-ranch-bexar-county/",
       "published_at": "2026-08-02T10:00:00+00:00",
       "image": {
@@ -93,6 +97,7 @@
       "summary": "",
       "source": "San Antonio Report",
       "topic": "housing",
+      "topics_secondary": [],
       "url": "https://sanantonioreport.org/mayor-jones-revisit-veterans-housing-vouchers-debate/",
       "published_at": "2026-08-02T16:00:00+00:00",
       "image": {
@@ -108,6 +113,7 @@
       "summary": "",
       "source": "KENS 5",
       "topic": "business-jobs",
+      "topics_secondary": [],
       "url": "https://www.kens5.com/article/news/local/thc-restrictions-hemp-businesses/285-3fe2342e-5ba7-4fb0-997d-915430e8fc96",
       "published_at": "2026-08-02T18:56:08+00:00",
       "image": {
@@ -122,6 +128,7 @@
       "summary": "",
       "source": "San Antonio Report",
       "topic": "education",
+      "topics_secondary": [],
       "url": "https://sanantonioreport.org/censorship-or-accountability-impact-of-law-prompting-texas-scrutiny-of-universities-detailed/",
       "published_at": "2026-08-02T19:00:00+00:00",
       "image": {

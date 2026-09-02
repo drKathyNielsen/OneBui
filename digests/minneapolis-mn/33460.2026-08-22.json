@@ -9,6 +9,7 @@
       "summary": "",
       "source": "FOX 9",
       "topic": "property-crime",
+      "topics_secondary": [],
       "url": "https://www.fox9.com/news/mpd-investigating-87-vehicles-windows-smashed-aug-22-2026",
       "published_at": "2026-08-22T18:03:03+00:00",
       "image": {
@@ -27,6 +28,7 @@
       "summary": "",
       "source": "FOX 9",
       "topic": "public-health",
+      "topics_secondary": [],
       "url": "https://www.fox9.com/news/minneapolis-sprouts-distributor-salmonella-e-coli-outbreak-15-states-aug-22-2026",
       "published_at": "2026-08-22T14:30:06+00:00",
       "image": {
@@ -47,6 +49,7 @@
       "summary": "Highway 280 has reopened after a four-month closure. The short connector along the Minneapolis–St. Paul border was shut from I-94, the interstate through the center of the metro, to Highway 36/I-35 just to the north.",
       "source": "FOX 9",
       "topic": "transportation",
+      "topics_secondary": [],
       "url": "https://www.fox9.com/news/highway-280-reopens-time-minnesota-state-fair",
       "published_at": "2026-08-22T01:24:26+00:00",
       "image": {
@@ -65,6 +68,7 @@
       "summary": "",
       "source": "KARE 11",
       "topic": "civic-events",
+      "topics_secondary": [],
       "url": "https://www.kare11.com/article/news/local/kare11-saturday/huzzah-minnesota-renaissance-festival-marks-55th-season/89-6fbe43df-4ba4-4f40-b3c1-26468c8bd9f9",
       "published_at": "2026-08-22T15:19:13+00:00",
       "image": {
@@ -83,6 +87,7 @@
       "summary": "Director Chris Newberry spoke with KARE 11 about the new documentary that delves into the Jacob Wetterling case, the 1989 abduction of an 11-year-old Minnesota boy that went unsolved for 27 years.",
       "source": "KARE 11",
       "topic": "arts-culture",
+      "topics_secondary": [],
       "url": "https://www.kare11.com/article/news/local/kare11-saturday/documentary-on-jacob-wetterling-case-now-playing-in-local-theaters/89-10326080-26dc-4f0c-bb42-4cb8e3df3a8f",
       "published_at": "2026-08-22T14:49:15+00:00",
       "image": {
@@ -118,6 +123,7 @@
       "summary": "",
       "source": "CBS Minnesota",
       "topic": "technology",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/minnesota/news/minneapolis-mayor-jacob-frey-data-centers/",
       "published_at": "2026-08-22T03:46:59+00:00",
       "image": {
@@ -133,6 +139,7 @@
       "summary": "Jake Lang, the far-right influencer pardoned for his part in the Jan. 6 Capitol riot, held a protest outside Minneapolis City Hall. His protest was met with counter-protesters. He, a few of his followers and a few counter-protesters were all taken into custody.",
       "source": "CBS Minnesota",
       "topic": "violent-crime",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/minnesota/video/far-right-influencer-jake-lang-among-several-arrested-at-a-protest-outside-minneapolis-city-hall/",
       "published_at": "2026-08-22T22:20:00+00:00",
       "image": {
@@ -148,6 +155,7 @@
       "summary": "",
       "source": "CBS Minnesota",
       "topic": "public-health",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/minnesota/news/mental-health-coordinator-addresses-minneapolis-deaths/",
       "published_at": "2026-08-22T00:02:00+00:00",
       "image": {
@@ -163,6 +171,7 @@
       "summary": "Bob Fletcher, sheriff of Ramsey County, the county that covers St. Paul, just east of Minneapolis, tells KARE 11 that warning letters were sent to 233 young people who have been identified in ongoing investigations involving gangs.",
       "source": "KARE 11",
       "topic": "policing",
+      "topics_secondary": [],
       "url": "https://www.kare11.com/article/news/crime/ramsey-county-sheriffs-office-minnesota-state-fair-crackdown/89-78b0fe84-34b3-4e24-a85b-b03a84626ea3",
       "published_at": "2026-08-22T03:23:20+00:00",
       "image": {
@@ -177,6 +186,7 @@
       "summary": "Flock cameras, which automatically read license plates, continue to spark debate across Minnesota, with some cities cutting ties with the technology, as other cities deal with vandals taking matters into their own hands.",
       "source": "CBS Minnesota",
       "topic": "policing",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/minnesota/video/a-st-paul-group-is-working-to-educate-residents-about-flock-cameras-and-what-it-means-for-privacy/",
       "published_at": "2026-08-22T23:18:00+00:00",
       "image": {
@@ -192,6 +202,7 @@
       "summary": "Advocates say a copper-nickel mine near the Boundary Waters Canoe Area Wilderness, lake country on the Canadian border roughly 250 miles north of Minneapolis, is the type of diversification needed to keep the industry alive in the region. Concerned neighbors worry that it could compromise the watershed and tarnish the wilderness area. Beyond environmental concerns, some wonder if a copper-nickel mine in the area makes sense.",
       "source": "CBS Minnesota",
       "topic": "environment-conservation",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/minnesota/news/does-mine-near-boundary-waters-make-sense/",
       "published_at": "2026-08-22T03:49:44+00:00",
       "image": {

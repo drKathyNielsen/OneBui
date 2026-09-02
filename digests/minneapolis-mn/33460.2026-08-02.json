@@ -9,6 +9,7 @@
       "summary": "",
       "source": "FOX 9",
       "topic": "transportation",
+      "topics_secondary": [],
       "url": "https://www.fox9.com/news/ford-f-150-f-250-recall-issued-over-rear-camera-issue",
       "published_at": "2026-08-02T02:55:49+00:00",
       "image": {
@@ -29,6 +30,7 @@
       "summary": "Thousands of people are ready for some rage in the cage. SummerSlam is bringing fans and former wrestling pros to Minnesota. Tyler Boike with Meet Minneapolis, the city's tourism and convention bureau, talks about the event's impact.",
       "source": "CBS Minnesota",
       "topic": "civic-events",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/minnesota/video/wwe-summerslam-brings-thousands-to-minneapolis/",
       "published_at": "2026-08-02T16:05:00+00:00",
       "image": {
@@ -48,6 +50,7 @@
       "summary": "",
       "source": "CBS Minnesota",
       "topic": "human-interest",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/minnesota/video/minnesota-woman-gives-birth-to-ultra-rare-mono-mono-twins/",
       "published_at": "2026-08-02T16:11:00+00:00",
       "image": {
@@ -67,6 +70,7 @@
       "summary": "The U.S. Forest Service will reopen more entry points to the Boundary Waters Canoe Area Wilderness — the vast canoe-country wilderness along the Canadian border in far northeastern Minnesota, roughly 250 miles north of Minneapolis, MN — as wildfire conditions improve.",
       "source": "KARE 11",
       "topic": "wildfire",
+      "topics_secondary": [],
       "url": "https://www.kare11.com/article/news/local/us-forest-service-to-reopen-some-boundary-waters-entry-points-as-wildfire-risk-lowers-mn/89-6f6cd1ed-ca26-4e8c-94d8-1b7c7632d618",
       "published_at": "2026-08-02T02:56:29+00:00",
       "image": {
@@ -108,6 +112,7 @@
       "summary": "Last week, we learned that St. Paul Police Chief Axel Henry had filed a complaint with the city Attorney's office against Mayor Kaohly Her, alleging sexual harassment. (St. Paul is the state capital and twin city just east of Minneapolis, MN.) In a letter, the Chief's Attorney alleges that Mayor Her had sent \"inappropriate, and indeed, unlawful text messages\" to city staffers. Since then, more allegations have surfaced, including Mayor Her's alleged comments about a Deputy Chief's breasts, as well as photoshopped images of city staffers including police officers. Mayor Her released this statement saying in part-- \"I recognize that some of my attempts at humor fell short of the standard I expect of myself.\" To help sort out what we know, Esme Murphy spoke earlier this morning with Hamline Law Professor David Schultz — Hamline University is a St. Paul school.",
       "source": "CBS Minnesota",
       "topic": "policing",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/minnesota/video/what-we-know-about-allegations-against-st-paul-mayor-kaohly-her/",
       "published_at": "2026-08-02T15:48:00+00:00",
       "image": {
@@ -123,6 +128,7 @@
       "summary": "A man who introduced himself as Beekey said that he was directed to the encampment at Pig's Eye Park — a large, undeveloped riverside park on the southeast edge of St. Paul, just east of Minneapolis, MN — when he got out of jail about two and a half months ago. He said that this stint behind bars meant that he lost his housing. He's concerned about where he'd end up without the encampment.",
       "source": "CBS Minnesota",
       "topic": "housing",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/minnesota/news/pigs-eye-park-encampment-residents-closure-concerns/",
       "published_at": "2026-08-02T16:31:53+00:00",
       "image": {
@@ -138,6 +144,7 @@
       "summary": "",
       "source": "CBS Minnesota",
       "topic": "elections-politics",
+      "topics_secondary": [],
       "url": "https://www.cbsnews.com/minnesota/video/minnesota-enacts-first-of-its-kind-ban-on-ai-nudification-tech-but-not-without-obstacles/",
       "published_at": "2026-08-02T15:52:00+00:00",
       "image": {
@@ -153,6 +160,7 @@
       "summary": "",
       "source": "FOX 9",
       "topic": "wildfire",
+      "topics_secondary": [],
       "url": "https://www.fox9.com/news/minnesota-wildfires-over-64000-acres-burning-crews-continue-battle-multiple-fires",
       "published_at": "2026-08-02T02:18:56+00:00",
       "image": {
