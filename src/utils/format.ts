@@ -63,7 +63,7 @@ function mapItem(it: RawArticle, isWeekly = false): Article {
     alt: it.image?.alt ?? '',
     logo: it.logo,
     source: it.source,
-    topic: topicLabel(it.topic),
+    topic: [it.topic, ...(it.topics_secondary ?? [])].map(topicLabel).join(', '),
     summary: isGroup ? it.summary : undefined,
     dateLabel: isWeekly && it.published_at ? formatItemDate(it.published_at) : undefined,
     uid: it.uid,

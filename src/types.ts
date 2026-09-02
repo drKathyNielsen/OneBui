@@ -15,6 +15,8 @@ export interface RawArticle {
   image: RawImage | null; // lead image, or null
   source: string; // human outlet label, e.g. "9NEWS"
   topic: string; // kebab slug
+  topics_secondary?: string[]; // additional topics the item spans, same vocabulary
+  // as `topic`; absent/empty when the item has none
   url: string;
   summary?: string; // optional editorial line (weekly narrates the arc here; daily
   // now also gets a fuller summary that supersedes `description` when present)

@@ -37,7 +37,7 @@
       "type": "object",
       "additionalProperties": false,
       "description": "A story card. Emitted in are_you_ok, conversation_starters, you_should_know (and their weekly counterparts).",
-      "required": ["title", "summary", "source", "topic", "url", "published_at", "image", "uid"],
+      "required": ["title", "summary", "source", "topic", "topics_secondary", "url", "published_at", "image", "uid"],
       "properties": {
         "title": { "type": "string", "minLength": 1 },
         "summary": {
@@ -46,6 +46,11 @@
         },
         "source": { "type": "string", "minLength": 1, "description": "Masthead label." },
         "topic": { "type": "string", "minLength": 1, "description": "Coarse theme; 'other' when unclassified." },
+        "topics_secondary": {
+          "type": "array",
+          "description": "Additional topics the item genuinely spans, from the same vocabulary as `topic`, excluding it. Empty when the item has none.",
+          "items": { "type": "string" }
+        },
         "url": { "type": "string", "minLength": 1, "format": "uri" },
         "published_at": { "$ref": "#/$defs/IsoOffsetDateTime" },
         "image": { "$ref": "#/$defs/Image" },

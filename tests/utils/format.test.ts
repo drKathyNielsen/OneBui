@@ -59,3 +59,20 @@ describe('mapItem description', () => {
     expect(vm.starters[0].description).toBe('The real line');
   });
 });
+
+describe('mapItem topic', () => {
+  it('appends secondary topics after the primary topic, undifferentiated', () => {
+    const vm = toCityViewModel(city([article({ topic: 'civic-events', topics_secondary: ['weather', 'traffic'] })]));
+    expect(vm.starters[0].topic).toBe('civic events, weather, traffic');
+  });
+
+  it('leaves the topic unchanged when there are no secondary topics', () => {
+    const vm = toCityViewModel(city([article({ topic: 'civic-events', topics_secondary: [] })]));
+    expect(vm.starters[0].topic).toBe('civic events');
+  });
+
+  it('leaves the topic unchanged when topics_secondary is absent', () => {
+    const vm = toCityViewModel(city([article({ topic: 'civic-events' })]));
+    expect(vm.starters[0].topic).toBe('civic events');
+  });
+});
