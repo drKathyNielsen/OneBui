@@ -4,535 +4,486 @@
   "metroCode": "41700",
   "metro": "San Antonio-New Braunfels, TX",
   "range": {
-    "start": "2026-08-17",
-    "end": "2026-08-23"
+    "start": "2026-08-26",
+    "end": "2026-09-01"
   },
   "are_you_ok": [
     {
-      "title": "Residents evacuated as fire crews work to put out large grass fire in south Bexar County",
+      "title": "'Those are two very tragic events' | Two people die in separate possible storm-related drownings in San Antonio",
       "summary": "",
       "source": "KENS 5",
-      "topic": "wildfire",
-      "url": "https://www.kens5.com/article/news/local/residents-evacuated-as-fire-crews-work-to-put-out-large-grass-fire-in-south-bexar-county/273-8cf81bfc-7b02-4c0e-881e-1bb5db8cb078",
-      "published_at": "2026-08-21T22:34:34+00:00",
+      "topic": "accident",
+      "topics_secondary": [
+        "weather-hazard"
+      ],
+      "url": "https://www.kens5.com/article/weather/severe-weather/death-investigation-storm-related-drownings-san-antonio/273-aadfa57c-b6a1-4031-9bd1-c1475d02b077",
+      "published_at": "2026-08-31T03:08:11+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/KING/images/b75efbb8-7763-483b-a6d4-0b6506a36519/b75efbb8-7763-483b-a6d4-0b6506a36519_750x422.jpg",
+        "url": "https://media.tegna-media.com/assets/KENS/images/d8af1efa-29cc-4e3e-8056-f4e74e1cb937/20260831T021456/d8af1efa-29cc-4e3e-8056-f4e74e1cb937_750x422.jpg",
         "alt": ""
       },
-      "uid": "3ac244ce-bc28-41f3-9525-50c3cd96f00e",
-      "description": "Crews are working to put out a large grass fire in south Bexar County, prompting evacuations, the sheriff's office reports.",
+      "uid": "b13c3842-133d-4c3c-9544-998844ff0198",
+      "description": "“On Friday evening, two individuals were in a drainage area when they were swept away by rapidly moving water during the heavy rainfall.\"",
       "questions": [
-        "Was the grass fire anywhere near you?",
-        "Do you know anyone who had to leave home for it?"
+        "I saw San Antonio had some serious flooding - are you and your family all right?",
+        "Is flooding in the drainage areas something that affects the roads you normally drive?"
       ]
     },
     {
-      "title": "Heat Advisory issued for Thursday as extreme heat continues in South Texas | Weather Impact Alert",
-      "summary": "",
+      "title": "Number of CPS Energy customers without power drops to the hundreds days after storms tear through San Antonio",
+      "summary": "Severe thunderstorms tore through Bexar County on Friday, with wind gusts reaching 75 miles per hour and causing widespread damage that knocked out power for more than 100,000 CPS Energy customers. The city opened six resilience hubs and the San Antonio Food Bank scheduled three food distribution events for residents still without power, while CPS Energy said restoration would run through Tuesday night. The outage count fell from six figures to fewer than 2,000 and then to the hundreds, though some families spent the wait in homes sitting in the low 90s. No repeat of the storms is forecast for the following seven days.",
       "source": "KENS 5",
-      "topic": "heat",
-      "url": "https://www.kens5.com/article/weather/forecast/heat-advisory-issued-for-thursday-as-extreme-heat-continues-in-south-texas-weather-impact-alert/273-4c95b659-058a-4198-8ed7-ac745dad0c97",
-      "published_at": "2026-08-19T20:04:58+00:00",
+      "topic": "weather-hazard",
+      "topics_secondary": [],
+      "url": "https://www.kens5.com/article/news/local/number-of-cps-energy-customers-without-power-drops-to-the-hundreds-days-after-storms-tear-through-san-antonio/273-1fa74fb5-b032-49b5-90bf-ee5c3da1dfe3",
+      "published_at": "2026-09-01T03:37:16+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/c2212bc4-19d5-4ff9-b73e-2df2dbb1b2bd/c2212bc4-19d5-4ff9-b73e-2df2dbb1b2bd_750x422.jpg",
+        "url": "https://media.tegna-media.com/assets/KENS/images/307e1b66-6d00-4930-adca-b4ed0c3c782f/20260901T032409/307e1b66-6d00-4930-adca-b4ed0c3c782f_750x422.jpg",
         "alt": ""
       },
-      "uid": "e09a5a21-5f74-46e9-b47b-7a80613b2ecf",
-      "description": "Stay updated with the KENS 5 Weather Team on this severe weather development and how it impacts you.",
+      "uid": "dfbc0527-08ac-42e0-9480-c1b8202f06d3",
+      "description": "Temperatures inside a family's home on the southwest side have sat in the low 90s.",
       "questions": [
-        "How has the heat been treating everyone there?",
-        "Have you been able to keep cool with the advisory in place?"
-      ]
-    },
-    {
-      "title": "CPS Energy asks customers to conserve power, declares ‘Yellow Day’",
-      "summary": "CPS Energy, the city-owned electric and gas utility, is encouraging customers to limit their electricity use during certain hours, including avoiding the use of large appliances.",
-      "source": "KENS 5",
-      "topic": "other",
-      "url": "https://www.kens5.com/article/news/local/san-antonio-cps-energy-yellow-day-peak-energy-demand/273-2fa8975c-068f-4e48-b66f-8b72267261f2",
-      "published_at": "2026-08-20T11:50:55+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/c077a716-6022-4d47-8d8f-1d061d472101/c077a716-6022-4d47-8d8f-1d061d472101_750x422.jpg",
-        "alt": ""
-      },
-      "uid": "0ba18a16-4915-4b52-bd67-314265100e24",
-      "description": "Customers are encouraged to limit their electricity use during certain hours, including avoiding the use of large appliances.",
-      "questions": [
-        "Have you been asked to cut back on power use at home?",
-        "Is the heat making it hard to keep the house comfortable?",
-        "Does your area usually hold up when the grid gets stretched?"
-      ]
-    },
-    {
-      "title": "UT San Antonio delays start of fall semester by three days after 'unauthorized activity' detected on campus systems, administration says",
-      "summary": "The University of Texas at San Antonio pushed the start of its fall semester back three days after detecting \"unauthorized activity\" on campus systems, saying it did not believe any data had been accessed. As the delayed start approached, the university said more systems and services were coming back online each day and pointed students and staff to resources for working around what was still down.",
-      "source": "KENS 5",
-      "topic": "other",
-      "url": "https://www.kens5.com/article/news/local/ut-san-antonio-delays-start-three-days-unauthorized-activity-detected-on-campus-systems-administration-says/273-e92938ed-a6cc-4718-8707-3225a8d22617",
-      "published_at": "2026-08-18T22:56:57+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/e9cbfa21-fcc9-4b4c-8082-b55b1f06b1d6/20260302T041031/e9cbfa21-fcc9-4b4c-8082-b55b1f06b1d6_750x422.jpg",
-        "alt": ""
-      },
-      "uid": "01a639f8-95ec-4c75-bec5-fd1c05bc5e0b",
-      "description": "The University of Texas at San Antonio said in a statement on Tuesday that they do not believe any data was accessed.",
-      "questions": [
-        "Did the UTSA delay end up touching anyone you know?",
-        "How are people on campus taking the later start?"
+        "The storms knocked out power across San Antonio for days — is the power back on at your place?",
+        "How did your household get through the days without air conditioning?",
+        "Did your neighborhood see much damage from the storms?"
       ],
       "thread": [
         {
-          "title": "UT San Antonio delays start of fall semester by three days after 'unauthorized activity' detected on campus systems, administration says",
+          "title": "Wind gusts hit 75 miles per hour in Bexar County during severe thunderstorms on Friday",
           "summary": "",
           "source": "KENS 5",
-          "topic": "other",
-          "url": "https://www.kens5.com/article/news/local/ut-san-antonio-delays-start-three-days-unauthorized-activity-detected-on-campus-systems-administration-says/273-e92938ed-a6cc-4718-8707-3225a8d22617",
-          "published_at": "2026-08-18T22:56:57+00:00",
+          "topic": "weather-hazard",
+          "topics_secondary": [],
+          "url": "https://www.kens5.com/article/weather/severe-weather/wind-gusts-hit-75-miles-per-hour-bexar-county-severe-thunderstorms-friday-power-outage-texas-weather-rain-flash-flood/273-919dcf76-d815-4876-8cbb-df6ee35b829a",
+          "published_at": "2026-08-29T23:57:06+00:00",
           "image": {
-            "url": "https://media.tegna-media.com/assets/KENS/images/e9cbfa21-fcc9-4b4c-8082-b55b1f06b1d6/20260302T041031/e9cbfa21-fcc9-4b4c-8082-b55b1f06b1d6_750x422.jpg",
+            "url": "https://media.tegna-media.com/assets/KENS/images/dcf3fbad-5d04-4bbd-976a-ff533ad1ac8d/20260829T151737/dcf3fbad-5d04-4bbd-976a-ff533ad1ac8d_750x422.jpg",
             "alt": ""
           },
-          "uid": "01a639f8-95ec-4c75-bec5-fd1c05bc5e0b",
-          "description": "The University of Texas at San Antonio said in a statement on Tuesday that they do not believe any data was accessed."
+          "uid": "b29450b0-3f94-4045-afe6-a74070c5598f",
+          "description": "Severe thunderstorms hit Bexar County on Friday, causing widespread damage. No repeat of this activity is forecast for the next seven days."
         },
         {
-          "title": "UTSA offering resources, solutions as they prepare for delayed start to fall semester after cybersecurity incident",
+          "title": "Resources available for San Antonio residents still without power after storms",
           "summary": "",
           "source": "KENS 5",
-          "topic": "education",
-          "url": "https://www.kens5.com/article/tech/utsa-resources-solutions-prepare-delayed-start-fall-semester/273-7084f2ef-14c5-40c9-a534-4cad77129645",
-          "published_at": "2026-08-20T15:07:38+00:00",
+          "topic": "weather-hazard",
+          "topics_secondary": [],
+          "url": "https://www.kens5.com/article/news/local/resources-available-for-san-antonio-residents-still-without-power-after-storms/273-af8778fe-7d71-406b-9a49-9ee50e6847b0",
+          "published_at": "2026-08-30T23:31:18+00:00",
           "image": {
-            "url": "https://media.tegna-media.com/assets/KENS/images/e8ec202c-4b71-40b5-91fa-31febf1a59b8/e8ec202c-4b71-40b5-91fa-31febf1a59b8_750x422.jpg",
+            "url": "https://media.tegna-media.com/assets/KENS/images/c95b86a7-a87d-4f55-a71c-ae5d6530a897/20250301T060231/c95b86a7-a87d-4f55-a71c-ae5d6530a897_750x422.jpg",
             "alt": ""
           },
-          "uid": "26d8a057-f93c-4241-9747-5e64dba232b2",
-          "description": "Officials said more university systems and services are coming online each day."
+          "uid": "9ffbb25f-e1e5-461e-9341-305a892df556",
+          "description": "The city plans to operate six resilience hubs until noon on Monday, while the San Antonio Food Bank plans to host three food distribution events."
+        },
+        {
+          "title": "CPS Energy expects power restoration to finish by Tuesday night; fewer than 2,000 customers without power days after San Antonio storms",
+          "summary": "",
+          "source": "KENS 5",
+          "topic": "weather-hazard",
+          "topics_secondary": [],
+          "url": "https://www.kens5.com/article/news/local/san-antonio-power-outages-cps-energy-storm-recovery-debris-pickup-texas/273-8d59d37d-c1e2-4d57-bacb-d53dfccdc8be",
+          "published_at": "2026-08-31T23:30:40+00:00",
+          "image": {
+            "url": "https://media.tegna-media.com/assets/KENS/images/e1b9ef48-f52b-40ad-9c50-74f9a9d6f485/20260831T174346/e1b9ef48-f52b-40ad-9c50-74f9a9d6f485_750x422.jpg",
+            "alt": ""
+          },
+          "uid": "e5e8b85b-b99a-486e-8d47-5eedb905fb09",
+          "description": "Officials said restoration efforts will continue Monday and Tuesday amid ongoing recovery from Friday storms that knocked out power for more than 100,000."
+        },
+        {
+          "title": "Number of CPS Energy customers without power drops to the hundreds days after storms tear through San Antonio",
+          "summary": "",
+          "source": "KENS 5",
+          "topic": "weather-hazard",
+          "topics_secondary": [],
+          "url": "https://www.kens5.com/article/news/local/number-of-cps-energy-customers-without-power-drops-to-the-hundreds-days-after-storms-tear-through-san-antonio/273-1fa74fb5-b032-49b5-90bf-ee5c3da1dfe3",
+          "published_at": "2026-09-01T03:37:16+00:00",
+          "image": {
+            "url": "https://media.tegna-media.com/assets/KENS/images/307e1b66-6d00-4930-adca-b4ed0c3c782f/20260901T032409/307e1b66-6d00-4930-adca-b4ed0c3c782f_750x422.jpg",
+            "alt": ""
+          },
+          "uid": "dfbc0527-08ac-42e0-9480-c1b8202f06d3",
+          "description": "Temperatures inside a family's home on the southwest side have sat in the low 90s."
         }
       ]
     },
     {
-      "title": "Rabies case in San Antonio dog prompts warning after skunk encounter goes unreported",
-      "summary": "",
+      "title": "Residents assess damage after powerful storm hits Somerset, causing power outages and school closures",
+      "summary": "A severe storm hit Somerset, a small town about 20 miles southwest of San Antonio, causing significant damage and power outages that led to school closures.",
       "source": "KENS 5",
-      "topic": "public-health",
-      "url": "https://www.kens5.com/article/life/pets/rabies-pet-dog-san-antonio-texas-husky-warning-skunk-encounter-unreported/273-7e10972a-70e8-477b-bb38-32c27000c5b5",
-      "published_at": "2026-08-20T03:32:42+00:00",
+      "topic": "weather-hazard",
+      "topics_secondary": [],
+      "url": "https://www.kens5.com/article/news/local/somerset-texas-storm-damage-power-outages-school-closures-august-2026/273-c2ad4482-4988-433e-b2f1-75eb4af5f136",
+      "published_at": "2026-08-28T22:53:37+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/WCNC/images/a6d14423-7bb0-4f33-8f6b-6ff3a1359615/20250409T235441/a6d14423-7bb0-4f33-8f6b-6ff3a1359615_750x422.jpg",
+        "url": "https://media.tegna-media.com/assets/KENS/images/14b2fdc7-ec02-4a14-b327-929b1514f757/20260828T211142/14b2fdc7-ec02-4a14-b327-929b1514f757_750x422.jpg",
         "alt": ""
       },
-      "uid": "7070309a-a744-4508-a157-ed48c9568cb0",
-      "description": "The case is the first reported rabid pet dog in Bexar County in more than a decade and comes amid a sharp increase in rabies among wild animals in the area.",
+      "uid": "e0d9fedc-b37b-472f-8e0c-c2f46518464b",
+      "description": "A severe storm hit Somerset, causing significant damage and power outages that led to school closures.",
       "questions": [
-        "Do you have pets that might run into wildlife around your place?",
-        "Has the rabies warning changed anything about walking the dog?"
+        "Did the storm that hit Somerset reach your area?",
+        "Did you lose power in the storms?"
       ]
     },
     {
-      "title": "Jourdanton issues boil water notice after temporary system malfunction, says they will be collecting samples for testing",
-      "summary": "The City of Jourdanton, a small town about 35 miles south of San Antonio, is under a boil water notice after a malfunction in its SCADA system, the automated controls that run the water plant. The City Council will be handing out water bottles until 11 p.m.",
+      "title": "Dangerous heat continues as storms return to South-Central Texas | Weather Impact Alert",
+      "summary": "",
       "source": "KENS 5",
-      "topic": "drought-water",
-      "url": "https://www.kens5.com/article/news/local/public-safety/jourdanton-issues-boil-water-notice-after-temporary-system-malfunction-says-they-will-be-collecting-samples-for-testing/273-541ff262-6437-4da0-8567-3aefacdbd862",
-      "published_at": "2026-08-21T02:28:45+00:00",
+      "topic": "weather-hazard",
+      "topics_secondary": [],
+      "url": "https://www.kens5.com/article/weather/forecast/san-antonio-heat-storms-thursday-advisory-triple-digits-rain-thunderstorms-gusty-humidity-forecast-south-central-texas-impact-alert-weekend/273-cb54686e-645d-4c1f-b4bc-2a381ff2af2b",
+      "published_at": "2026-08-27T15:14:07+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/d211dc6c-b0fa-4bb9-a738-3fd2b73d8569/d211dc6c-b0fa-4bb9-a738-3fd2b73d8569_750x422.jpg",
+        "url": "https://media.tegna-media.com/assets/KENS/images/c2212bc4-19d5-4ff9-b73e-2df2dbb1b2bd/c2212bc4-19d5-4ff9-b73e-2df2dbb1b2bd_750x422.jpg",
         "alt": ""
       },
-      "uid": "eae546da-1d1f-486a-b2d0-c17a67779a39",
-      "description": "The City of Jourdanton is under a boil water notice after a SCADA system malfunction. The City Council will be handing out water bottles until 11 p.m.",
+      "uid": "15db79ac-4ef4-4e0b-be15-065e4cf44c1f",
+      "description": "Triple-digit heat remains the biggest concern Thursday, while scattered storms bring a chance for heavy rain and gusty winds.",
       "questions": [
-        "Are you anywhere near Jourdanton?",
-        "Is your water coming from that system, or a different one?",
-        "Do you have enough bottled water on hand?"
+        "How are you holding up with the triple-digit heat?",
+        "Does the heat change how you plan out a week?"
       ]
     }
   ],
   "conversation_starters": [
     {
-      "title": "Back to school: Nearly 55,000 North East ISD students return to class",
-      "summary": "The backpacks are packed and the first-day outfits are ready as students across San Antonio head back to the classroom, including nearly 55,000 in North East ISD, the school district covering the city's north and northeast side.",
+      "title": "TxDOT Loop 410 San Pedro improvements construction project near San Antonio airport set to begin in September",
+      "summary": "TxDOT, the Texas Department of Transportation, opened its Loop 410 improvement project to the public at an open house, saying work would begin within the year and finish by 2029. The plan then firmed up into a $156 million construction project near the San Antonio airport, starting in September, aimed at easing congestion where Loop 410 — the freeway ringing the city — meets U.S. 281.",
+      "source": "KENS 5",
+      "topic": "transportation",
+      "topics_secondary": [],
+      "url": "https://www.kens5.com/article/traffic/texas-traffic-txdot-loop-410-san-antonio-pedro-construction-project-airport-september/273-c22a46e0-8f60-4f28-b4de-52cfc4392661",
+      "published_at": "2026-08-28T03:16:03+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/e8032e08-b51f-476c-a5e9-dbc64d50aa44/20260828T031408/e8032e08-b51f-476c-a5e9-dbc64d50aa44_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "1d3f3625-608f-4bf0-aeb3-e5d6e582715c",
+      "description": "San Antonio drivers face more construction as a $156 million TxDOT project aims to ease congestion on Loop 410 and U.S. 281. Expected completion: 2029.",
+      "questions": [
+        "Does your commute take you anywhere near Loop 410 and U.S. 281?",
+        "Is the construction on Loop 410 going to change how you get around?"
+      ],
+      "thread": [
+        {
+          "title": "TxDOT to host open house ahead of Loop 410 improvement project's start",
+          "summary": "",
+          "source": "KENS 5",
+          "topic": "transportation",
+          "topics_secondary": [],
+          "url": "https://www.kens5.com/article/news/local/txdot-to-host-open-house-ahead-of-loop-410-improvement-projects-start/273-fe5376b5-61c7-47bd-90cc-acbfc892054b",
+          "published_at": "2026-08-26T01:17:35+00:00",
+          "image": {
+            "url": "https://media.tegna-media.com/assets/KENS/images/304559842/304559842_750x422.jpg",
+            "alt": ""
+          },
+          "uid": "8d9daabe-638f-4980-a912-f9e5c98c4934",
+          "description": "The project is expected to begin this year and reach completion by 2029."
+        },
+        {
+          "title": "TxDOT Loop 410 San Pedro improvements construction project near San Antonio airport set to begin in September",
+          "summary": "",
+          "source": "KENS 5",
+          "topic": "transportation",
+          "topics_secondary": [],
+          "url": "https://www.kens5.com/article/traffic/texas-traffic-txdot-loop-410-san-antonio-pedro-construction-project-airport-september/273-c22a46e0-8f60-4f28-b4de-52cfc4392661",
+          "published_at": "2026-08-28T03:16:03+00:00",
+          "image": {
+            "url": "https://media.tegna-media.com/assets/KENS/images/e8032e08-b51f-476c-a5e9-dbc64d50aa44/20260828T031408/e8032e08-b51f-476c-a5e9-dbc64d50aa44_750x422.jpg",
+            "alt": ""
+          },
+          "uid": "1d3f3625-608f-4bf0-aeb3-e5d6e582715c",
+          "description": "San Antonio drivers face more construction as a $156 million TxDOT project aims to ease congestion on Loop 410 and U.S. 281. Expected completion: 2029."
+        }
+      ]
+    },
+    {
+      "title": "‘Complete opposite’ | Donations lag as Texas Hill Country continues to deal with flood damage",
+      "summary": "Despite four times as many damaged homes and businesses, a nonprofit in the Hill Country, the region of hills and small towns just northwest of San Antonio, says donations and volunteers have dropped compared to the July 4, 2025 floods.",
+      "source": "KENS 5",
+      "topic": "weather-hazard",
+      "topics_secondary": [],
+      "url": "https://www.kens5.com/article/news/local/donations-lag-texas-hill-country-faces-greater-damage-2026-floods/269-2bd6bc3d-7e05-4d6e-bcf0-772d77a269c7",
+      "published_at": "2026-08-26T21:19:16+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KVUE/images/5c43b2f4-cefe-4ad6-ae20-1dcacc4c5a2c/20260717T230721/5c43b2f4-cefe-4ad6-ae20-1dcacc4c5a2c_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "26925394-b609-4e3a-bf49-d653212d4038",
+      "description": "Despite four times as many damaged homes and businesses, a Hill Country nonprofit says donations and volunteers have dropped compared to the July 4, 2025 floods.",
+      "questions": [
+        "Have you been following the Hill Country flood recovery?",
+        "Is the Hill Country somewhere you spend much time?"
+      ]
+    },
+    {
+      "title": "Northside ISD partnering with OpenAI for 'ChatGPT for Teachers'",
+      "summary": "Northside ISD, the school district covering the northwest side of San Antonio, joins dozens of school districts integrating ChatGPT for classroom experiences while prioritizing data privacy in an AI expansion.",
       "source": "KENS 5",
       "topic": "education",
-      "url": "https://www.kens5.com/article/news/education/back-to-school-neisd-students-hidden-forest-elementary-classrooms-monday-teachers-families-buses-blanco-district-first-day-education/273-0ce76b5f-222b-40f6-93db-d0dec402627e",
-      "published_at": "2026-08-17T14:49:15+00:00",
+      "topics_secondary": [],
+      "url": "https://www.kens5.com/article/news/education/northside-isd-partnering-with-open-ai-for-chatgpt-for-teachers/273-f4661298-13d1-4f0c-831c-2c8a8634093f",
+      "published_at": "2026-08-28T16:42:24+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/181c2a71-95fc-40ce-beb1-0953830dc8f9/20250523T031415/181c2a71-95fc-40ce-beb1-0953830dc8f9_750x422.jpg",
+        "url": "https://media.tegna-media.com/assets/KENS/images/321a2512-0bcc-4005-9059-0a25d54807f2/20260207T000901/321a2512-0bcc-4005-9059-0a25d54807f2_750x422.jpg",
         "alt": ""
       },
-      "uid": "428ef609-0bff-43de-a45e-563313671957",
-      "description": "The backpacks are packed and the first-day outfits are ready as students across San Antonio head back to the classroom, including nearly 55,000 in North East ISD.",
+      "uid": "21f80893-9af6-4243-8fab-6e7c8b16497a",
+      "description": "Northside ISD joins dozens of school districts integrating ChatGPT for classroom experiences while prioritizing data privacy in an AI expansion.",
       "questions": [
-        "Did the first day of school change anything about your mornings this week?",
-        "How did the back-to-school routine go on your end?"
+        "Have you heard anything about Northside ISD bringing ChatGPT into classrooms?",
+        "Do you know families with kids in the Northside district?"
       ]
     },
     {
-      "title": "TxDOT planning multiple weekend closures along northeast Interstate 35",
-      "summary": "The closures will affect major portions of I-35, the interstate running northeast out of San Antonio, beginning Saturday and lasting through early Monday.",
-      "source": "KENS 5",
-      "topic": "transportation",
-      "url": "https://www.kens5.com/article/news/local/txdot-planning-multiple-weekend-closures-along-northeast-interstate-35/273-f4a71e4d-b84e-4b5b-b236-1bbb04f42872",
-      "published_at": "2026-08-20T22:31:54+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/a167807c-0558-4dad-9149-19856ac9ef33/20250919T030855/a167807c-0558-4dad-9149-19856ac9ef33_750x422.jpg",
-        "alt": ""
-      },
-      "uid": "5b294789-051e-4607-b89c-33f321a2debe",
-      "description": "The closures will affect major portions of the highway beginning Saturday and lasting through early Monday.",
-      "questions": [
-        "Does your commute touch that stretch of I-35?",
-        "Were you planning to drive anywhere that way?",
-        "Do the weekend closures there usually snarl things up?"
-      ]
-    },
-    {
-      "title": "Nearly La Parra, almost HemisFair: Durango Boulevard’s surprising history",
-      "summary": "Durango survived an attempted rebranding tied to HemisFair, the 1968 world's fair held in San Antonio, and was transformed from a short street on the West Side, just west of downtown, into a major boulevard before losing its name in 2011.",
-      "source": "KENS 5",
-      "topic": "other",
-      "url": "https://www.kens5.com/article/news/history/san-antonio-la-parra-hemisfair-durango-boulevard-history/273-5f477d1c-98fd-4f77-b27f-1015654cf2c2",
-      "published_at": "2026-08-23T02:42:44+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/f126d085-949d-4e4b-9b01-5d2ba7e86e61/20260823T022406/f126d085-949d-4e4b-9b01-5d2ba7e86e61_750x422.jpg",
-        "alt": ""
-      },
-      "uid": "cf2c46ec-6bc7-4813-9506-b680306e99fc",
-      "description": "Durango survived an attempted HemisFair rebranding and was transformed from a short West Side street into a major boulevard before losing its name in 2011.",
-      "questions": [
-        "Have you come across the story of how Durango Boulevard started out as a short West Side street?",
-        "Is San Antonio history something you follow, or mostly news to you?",
-        "What's a piece of San Antonio history that people outside the city usually don't know?"
-      ]
-    },
-    {
-      "title": "Major highway closures underway this weekend at LP 1604, I-10 on north west side",
-      "summary": "The closures are scheduled to remain in place until 5 a.m. Monday as part of bridge demolition work for the North Expansion Project on Loop 1604, the outer highway loop that circles San Antonio.",
-      "source": "KENS 5",
-      "topic": "transportation",
-      "url": "https://www.kens5.com/article/traffic/loop-1604-highway-closures-the-rim-la-cantera/273-48706725-6cef-4bf8-8505-cbc9709cb784",
-      "published_at": "2026-08-22T15:04:04+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/b5167397-2dec-47fb-8b96-e3b15c1495f5/20250410T181054/b5167397-2dec-47fb-8b96-e3b15c1495f5_750x422.jpg",
-        "alt": ""
-      },
-      "uid": "260f2d53-ef61-4a23-a6ad-835850a95f7d",
-      "description": "The closures are scheduled to remain in place until 5 a.m. Monday as part of bridge demolition work for the Loop 1604 North Expansion Project.",
-      "questions": [
-        "Have the Loop 1604 closures changed how you get around?",
-        "Is the 1604 expansion work something you notice day to day?"
-      ]
-    },
-    {
-      "title": "San Antonio Stock Show and Rodeo releases first group of entertainers",
-      "summary": "",
-      "source": "KENS 5",
-      "topic": "civic-events",
-      "url": "https://www.kens5.com/article/news/local/san-antonio-stock-show-and-rodeo-releases-first-group-of-entertainers/273-efd217c3-285f-4ab6-b8bc-568d5d08728c",
-      "published_at": "2026-08-20T18:44:08+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/c836dd93-a483-4f14-8003-b11b28e195cf/20250209T120821/c836dd93-a483-4f14-8003-b11b28e195cf_750x422.jpg",
-        "alt": ""
-      },
-      "uid": "eea32f94-0ad1-43f8-be97-ce06f0032478",
-      "description": "The San Antonio Stock Show and Rodeo unveil a lineup with Flatland Cavalry, Turnpike Troubadours, BlackHawk, and Keith Urban for the 2027 event.",
-      "questions": [
-        "Do you usually go to the rodeo?",
-        "Any of those acts ones you'd want to see?",
-        "Is the rodeo a big deal in your household?"
-      ]
-    },
-    {
-      "title": "Howl yeah! Werewolf Gorge bringing record-breaking family thrills to Six Flags Fiesta Texas",
-      "summary": "",
-      "source": "KENS 5",
-      "topic": "development-projects",
-      "url": "https://www.kens5.com/article/news/local/werewolf-gorge-coaster-quarry-launches-airtime-thrill-vekoma-cryptids-anniversary-2027-six-flags-fiesta-texas-amusement-park-family-fun-entertainment/273-21773939-5922-4326-974d-c5af00d56228",
-      "published_at": "2026-08-21T14:46:34+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/f55793bb-946f-4c31-b6d7-6d35d4dd0c7a/20260821T132645/f55793bb-946f-4c31-b6d7-6d35d4dd0c7a_750x422.jpg",
-        "alt": ""
-      },
-      "uid": "f6eb91d1-dd08-4f15-92be-56f097ad400a",
-      "description": "The new coaster will feature four launches, 32 airtime moments and more than 4,000 feet of track when it opens in 2027.",
-      "questions": [
-        "Do you get out to Six Flags Fiesta Texas much?",
-        "Are you a roller coaster person?",
-        "Would the kids in your life be excited about that one?"
-      ]
-    },
-    {
-      "title": "Concerns about the New World screwworm have put Texas pet adoptions on hold",
-      "summary": "",
-      "source": "KENS 5",
-      "topic": "agriculture",
-      "url": "https://www.kens5.com/article/syndication/associatedpress/concerns-about-the-new-world-screwworm-have-put-texas-pet-adoptions-on-hold/616-39be10dc-c9a1-44a8-b995-e43c7dcc09a7",
-      "published_at": "2026-08-20T15:31:18+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/AssociatedPress/images/63da7246-6436-4a80-bea1-a7a4b09893f4/20260819T130519/63da7246-6436-4a80-bea1-a7a4b09893f4_750x422.jpg",
-        "alt": ""
-      },
-      "uid": "89acf62f-d1ba-4d80-a63a-25c3cd6ed29d",
-      "description": "The first New World screwworm outbreak in Texas in 60 years is hindering efforts to move rescued dogs and cats out of crowded animal shelters to states where they...",
-      "questions": [
-        "Have you seen the shelters around you filling up?",
-        "Were you thinking about adopting a pet any time soon?"
-      ]
-    },
-    {
-      "title": "San Antonio Zoo named one of the best zoos in the world",
+      "title": "San Antonio Zoo welcomes endangered tree kangaroo joey",
       "summary": "",
       "source": "KENS 5",
       "topic": "human-interest",
-      "url": "https://www.kens5.com/article/news/local/san-antonio-zoo-worldwide-conde-nast-wildlife-conservation-recognition-horned-lizards-project-selva-animals-tourism-alamo-city-global-gorillas/273-ee063981-3c82-4fc4-bf68-ef08e1968d7f",
-      "published_at": "2026-08-17T12:19:07+00:00",
+      "topics_secondary": [],
+      "url": "https://www.kens5.com/article/life/animals/joey-finni-tobai-endangered-conservation-pouch-wildaustralia-papuanewguinea-newborn/273-13be294a-de94-4dc7-aea8-e4f212872d0c",
+      "published_at": "2026-08-26T18:13:10+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/f3dda6b2-dbe7-430c-81d0-e118b9640987/20260817T121846/f3dda6b2-dbe7-430c-81d0-e118b9640987_750x422.jpg",
+        "url": "https://media.tegna-media.com/assets/KENS/images/c80172dd-6cc9-4fee-b585-503685c6e849/20260826T150142/c80172dd-6cc9-4fee-b585-503685c6e849_750x422.jpg",
         "alt": ""
       },
-      "uid": "6ebeca60-2d4b-43b3-be11-ba246fbfd684",
-      "description": "San Antonio Zoo is getting some wild worldwide recognition, earning a spot on Condé Nast Traveler's list of the best zoos across the globe.",
+      "uid": "c4e3f210-2441-4ca9-89d4-1c018e792874",
+      "description": "The joey is starting to peek from Finni’s pouch, marking an important birth for the endangered species.",
       "questions": [
-        "Have you been to the San Antonio Zoo recently?",
-        "It just made a global best-zoos list — is it a spot you take visitors?"
+        "Do you ever get out to the San Antonio Zoo?",
+        "Had you heard about the new tree kangaroo joey?"
       ]
     },
     {
-      "title": "Loose bull calf rescued in drain tunnel after passing through Walmart parking lot, ACS says",
-      "summary": "The calf was spotted in the parking lot of a Walmart in the 1200 block of Southeast Military Drive, a road across the south side of San Antonio.",
+      "title": "Aaron Watson returning to Gruene Hall for three nights to record live album",
+      "summary": "Texas country star Aaron Watson is giving fans a chance to become part of his next live album during three shows at Gruene Hall, the historic dance hall in New Braunfels, about 30 miles northeast of San Antonio.",
       "source": "KENS 5",
-      "topic": "human-interest",
-      "url": "https://www.kens5.com/article/news/local/loose-bull-calf-rescued-in-drain-tunnel-after-passing-through-walmart-parking-lot-acs-says/273-09ffe871-b36f-4a0c-a2ab-56454e72c438",
-      "published_at": "2026-08-18T19:49:10+00:00",
+      "topic": "culture-events",
+      "topics_secondary": [],
+      "url": "https://www.kens5.com/article/entertainment/music/aaron-watson-gruene-hall-new-braunfels-live-album-concert-recording-texas-country-jake-watson-music-november-tickets-father-son/273-a484bee9-1c42-4d9e-8836-f105c25292f5",
+      "published_at": "2026-08-28T18:46:18+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/ccae76ce-618a-420e-af29-f22071de8fe1/20260818T194640/ccae76ce-618a-420e-af29-f22071de8fe1_750x422.jpg",
+        "url": "https://media.tegna-media.com/assets/KENS/images/bede0c1c-1ad1-4032-bc7c-1978e506012c/20260828T184546/bede0c1c-1ad1-4032-bc7c-1978e506012c_750x422.jpg",
         "alt": ""
       },
-      "uid": "c5eccc0b-9448-460f-b9a1-cd3a04d5d500",
-      "description": "The calf was spotted in the parking lot of a Walmart in the 1200 block of Southeast Military Drive on Tuesday.",
+      "uid": "63e1feda-95e3-4f96-beec-040bb5dd5e6e",
+      "description": "Texas country star Aaron Watson is giving fans a chance to become part of his next live album during three shows at Gruene Hall.",
       "questions": [
-        "Did you see the story about the calf loose in the Walmart parking lot?",
-        "Does livestock turn up like that very often around there?"
+        "Have you ever caught a show at Gruene Hall?",
+        "Is Gruene Hall worth the drive from San Antonio?"
       ]
     },
     {
-      "title": "Jordan Clarkson's foundation hosting celebrity charity golf tournament in San Antonio",
-      "summary": "Clarkson, a San Antonio native and New York Knicks guard, graduated from Wagner High School on the city's northeast side.",
+      "title": "San Antonio Animal Care Services celebrates National Dog Day with free adoptions",
+      "summary": "Looking for a new best friend? SAACS, San Antonio Animal Care Services, is offering $0 adoptions over the weekend as hundreds of dogs and puppies wait for homes.",
       "source": "KENS 5",
-      "topic": "human-interest",
-      "url": "https://www.kens5.com/article/news/local/jordan-clarksons-foundation-hosting-celebrity-charity-golf-tournament-in-san-antonio/273-88dc2a66-5db7-4962-b3d9-69ef2ec7fe51",
-      "published_at": "2026-08-21T00:49:31+00:00",
+      "topic": "animal-welfare",
+      "topics_secondary": [],
+      "url": "https://www.kens5.com/article/life/pets/free-adoption-puppies-shelter-canine-matchmaking-foreverhome-august26-pets/273-f9091ad6-a906-4127-ba06-ed05298c523d",
+      "published_at": "2026-08-26T14:46:37+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/79c9630a-d7c8-4aae-bd22-aee0e1c4264f/79c9630a-d7c8-4aae-bd22-aee0e1c4264f_750x422.jpg",
+        "url": "https://media.tegna-media.com/assets/KENS/images/c1141232-53f0-4a4f-8cad-9c7e5ca8c944/c1141232-53f0-4a4f-8cad-9c7e5ca8c944_750x422.jpg",
         "alt": ""
       },
-      "uid": "c6e0ebd7-cb90-4fe2-a562-98e94e5134e8",
-      "description": "Clarkson, a San Antonio native and New York Knicks guard, graduated from Wagner High School.",
+      "uid": "aaa47162-a0aa-49c1-b86a-ff86ad04a38b",
+      "description": "Looking for a new best friend? SAACS is offering $0 adoptions through the weekend as hundreds of dogs and puppies wait for homes.",
       "questions": [
-        "Do you follow Jordan Clarkson at all?",
-        "Is a charity golf tournament something you'd go to?",
-        "Do people there still claim him as a hometown guy?"
-      ]
-    },
-    {
-      "title": "Bobcats in Bexar County — What to know if you see one",
-      "summary": "A bobcat was found along the side of Loop 410, the highway that rings San Antonio, near Rigsby Avenue in Bexar County. The man who photographed the bobcat thought it may have been hit by a car.",
-      "source": "KENS 5",
-      "topic": "wildlife",
-      "url": "https://www.kens5.com/article/news/local/san-antonio-bobcats-bexar-county-what-to-know/273-24c5b911-ee85-444a-ae08-96f87fdeb141",
-      "published_at": "2026-08-17T23:23:56+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/cbabc552-6d8c-4a87-982e-523897387276/20260817T232135/cbabc552-6d8c-4a87-982e-523897387276_750x422.jpg",
-        "alt": ""
-      },
-      "uid": "85ce257b-bbca-4266-b704-8c5d662aca93",
-      "description": "A bobcat was found Sunday along the side of Loop 410 near Rigsby Avenue in Bexar County. The man who photographed the bobcat thought it may have been hit by a car.",
-      "questions": [
-        "Have you ever run across a bobcat around there?",
-        "Is wildlife along the highways a common sight for you?"
+        "Do you have any pets at home?",
+        "Have you ever adopted from San Antonio Animal Care Services?"
       ]
     }
   ],
   "you_should_know": [
     {
-      "title": "San Antonio City Council approves renaming Cesar E. Chavez Boulevard back to Durango Boulevard",
-      "summary": "San Antonio's City Council voted to rename Cesar E. Chavez Boulevard back to Durango Boulevard, following a March \"New York Times\" report that brought multiple sexual misconduct allegations against Chavez to the forefront. The change lands on 295 addresses, among them Southtown Joe's, a coffee shop in Southtown, the neighborhood just south of downtown San Antonio, where an old Durango street sign is already displayed inside; residents and business owners there greeted the old name's return as their own neighborhood coming back.",
-      "source": "KENS 5",
-      "topic": "elections-politics",
-      "url": "https://www.kens5.com/article/news/community/san-antonio-city-council-renaming-cesar-chavez-boulevard-decision/273-0eec7172-0e45-4b37-b2e1-ee1bc70b0fad",
-      "published_at": "2026-08-20T15:39:44+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/413454024/413454024_750x422.jpg",
-        "alt": ""
-      },
-      "uid": "5a437a37-b5eb-4e8c-9c74-0a1ec11ab0a8",
-      "description": "In March, multiple sexual misconduct allegations against Chavez were brought to the forefront in a \"New York Times\" report.",
-      "thread": [
-        {
-          "title": "San Antonio City Council approves renaming Cesar E. Chavez Boulevard back to Durango Boulevard",
-          "summary": "",
-          "source": "KENS 5",
-          "topic": "elections-politics",
-          "url": "https://www.kens5.com/article/news/community/san-antonio-city-council-renaming-cesar-chavez-boulevard-decision/273-0eec7172-0e45-4b37-b2e1-ee1bc70b0fad",
-          "published_at": "2026-08-20T15:39:44+00:00",
-          "image": {
-            "url": "https://media.tegna-media.com/assets/KENS/images/413454024/413454024_750x422.jpg",
-            "alt": ""
-          },
-          "uid": "5a437a37-b5eb-4e8c-9c74-0a1ec11ab0a8",
-          "description": "In March, multiple sexual misconduct allegations against Chavez were brought to the forefront in a \"New York Times\" report."
-        },
-        {
-          "title": "‘My neighborhood, my barrio’: Durango Boulevard’s return resonates with residents, businesses",
-          "summary": "",
-          "source": "KENS 5",
-          "topic": "government",
-          "url": "https://www.kens5.com/article/news/local/durango-boulevards-residents-businesses-southtown-joes-east-cesar-chavez/273-4aa0bc55-9f0d-4574-9feb-2a5934acd632",
-          "published_at": "2026-08-21T04:12:53+00:00",
-          "image": {
-            "url": "https://media.tegna-media.com/assets/KENS/images/e695a646-bd22-4af2-be52-6b2494b7bdbc/20260821T034648/e695a646-bd22-4af2-be52-6b2494b7bdbc_750x422.jpg",
-            "alt": ""
-          },
-          "uid": "970618a5-8ac5-474a-865d-4d0d590db2cf",
-          "description": "The official name change will affect 295 addresses, including Southtown Joe’s, where an old Durango street sign is already displayed inside."
-        }
-      ]
-    },
-    {
-      "title": "San Antonio City Council rejects November vote on Spurs arena funding; members react",
-      "summary": "San Antonio's City Council weighed whether residents should get a public vote on the city's $489 million contribution to a new arena for the Spurs, the city's NBA team. A council meeting drew nearly two and a half hours of public input, with most speakers pressing unsuccessfully for a referendum, and the council then narrowly voted against putting the question on the November ballot — a decision members were still debating afterward.",
-      "source": "KENS 5",
-      "topic": "development-projects",
-      "url": "https://www.kens5.com/article/news/local/project-marvel/san-antonio-city-council-rejects-november-vote-spurs-arena-funding-members-react/273-cc3a75f1-2da0-4c04-8530-831fe76c0eb4",
-      "published_at": "2026-08-18T03:08:16+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/b1ef887c-9cbc-4f61-9a8a-95bb0e1b4263/20260818T030727/b1ef887c-9cbc-4f61-9a8a-95bb0e1b4263_750x422.jpg",
-        "alt": ""
-      },
-      "uid": "995b8f2a-9f7a-480c-9d0f-e61eafad2890",
-      "description": "San Antonio's City Council narrowly voted against allowing residents to vote on the city's $489 million contribution to a new Spurs arena, sparking a debate.",
-      "thread": [
-        {
-          "title": "San Antonio City Council swats away November vote for Spurs arena funding",
-          "summary": "",
-          "source": "KENS 5",
-          "topic": "development-projects",
-          "url": "https://www.kens5.com/article/news/local/san-antonio-government/san-antonio-city-council-spurs-arena-funding-vote-project-marvel-mayor-jones/273-db2bf633-acae-4bc5-9cbb-c68668db7968",
-          "published_at": "2026-08-17T23:16:45+00:00",
-          "image": {
-            "url": "https://media.tegna-media.com/assets/KENS/images/fc7380b9-a335-4f2a-9992-49c7d0793470/20250823T005916/fc7380b9-a335-4f2a-9992-49c7d0793470_750x422.jpg",
-            "alt": ""
-          },
-          "uid": "5bba2b71-80c1-48d4-94a4-781cf9551409",
-          "description": "Monday's meeting featured nearly two and a half hours of public input, with most speakers trying unsuccessfully to advocate for another public referendum."
-        },
-        {
-          "title": "San Antonio City Council rejects November vote on Spurs arena funding; members react",
-          "summary": "",
-          "source": "KENS 5",
-          "topic": "development-projects",
-          "url": "https://www.kens5.com/article/news/local/project-marvel/san-antonio-city-council-rejects-november-vote-spurs-arena-funding-members-react/273-cc3a75f1-2da0-4c04-8530-831fe76c0eb4",
-          "published_at": "2026-08-18T03:08:16+00:00",
-          "image": {
-            "url": "https://media.tegna-media.com/assets/KENS/images/b1ef887c-9cbc-4f61-9a8a-95bb0e1b4263/20260818T030727/b1ef887c-9cbc-4f61-9a8a-95bb0e1b4263_750x422.jpg",
-            "alt": ""
-          },
-          "uid": "995b8f2a-9f7a-480c-9d0f-e61eafad2890",
-          "description": "San Antonio's City Council narrowly voted against allowing residents to vote on the city's $489 million contribution to a new Spurs arena, sparking a debate."
-        }
-      ]
-    },
-    {
-      "title": "San Antonio police chief highlights need for better mental health response after fatal confrontation",
+      "title": "Man arrested after allegedly threatening to shoot up San Antonio elementary school in AI chats, affidavit says",
       "summary": "",
+      "source": "KENS 5",
+      "topic": "violent-crime",
+      "topics_secondary": [],
+      "url": "https://www.kens5.com/article/news/crime/neisd-man-threatens-shoot-school-ai-chat-serna-elementary-neisd/273-f44b44c5-5ea3-4d9c-b50f-9e87d2bcc6cb",
+      "published_at": "2026-09-01T03:00:21+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/aa8aff47-70d3-4768-928b-f9c785fa322f/20260901T024736/aa8aff47-70d3-4768-928b-f9c785fa322f_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "60a13d00-fcf4-46a4-a0d5-e564e753d9c8",
+      "description": "One quote from the chat included: \"I'm getting a gun as soon as I can, and when Serna Elementary starts, I'm just gonna walk in there and start shooting up kids.\""
+    },
+    {
+      "title": "Staples Police Department deactivated by state; Guadalupe County deputies take over calls",
+      "summary": "City leaders dispute some of the findings from TCOLE, the Texas Commission on Law Enforcement, and say they had no opportunity to appeal. Amended state standards governing police agencies take effect Sept. 1.",
       "source": "KENS 5",
       "topic": "policing",
-      "url": "https://www.kens5.com/article/news/local/san-antonio-police-chief-highlights-need-for-better-mental-health-response-after-fatal-confrontation/273-f0fbc494-e438-4794-a8a5-23fa3b6a13ad",
-      "published_at": "2026-08-17T23:01:41+00:00",
+      "topics_secondary": [],
+      "url": "https://www.kens5.com/article/news/local/staples-texas-police-department-deactivated-state-guadalupe-county-deputies/273-5d8faef8-58c3-4ca8-98dd-a96ff087793e",
+      "published_at": "2026-08-27T05:00:04+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/d6103a91-4205-420a-b3b3-b74c1c30630d/20260817T225556/d6103a91-4205-420a-b3b3-b74c1c30630d_750x422.jpg",
+        "url": "https://media.tegna-media.com/assets/KENS/images/f0131d32-16d3-4b39-b594-4e747c8e9ba5/20260827T042843/f0131d32-16d3-4b39-b594-4e747c8e9ba5_750x422.jpg",
         "alt": ""
       },
-      "uid": "7890ddbf-5d9c-4c06-a1eb-0566dd9a7147",
-      "description": "A confrontation highlights the delicate balance police face in mental health crises. Acting Police Chief Jesse Salame says more services are needed."
+      "uid": "b122f446-2d40-4f65-8abe-f8d014380a0a",
+      "description": "City leaders dispute some of TCOLE’s findings and say they had no opportunity to appeal. Amended state standards governing police agencies take effect Sept. 1."
     },
     {
-      "title": "Full list: Here are the books an advocacy group wants pulled from Texas school libraries",
-      "summary": "",
-      "source": "KENS 5",
-      "topic": "education",
-      "url": "https://www.kens5.com/article/news/local/full-list-books-dan-patrick-school-libraries/285-dccb696d-e6d8-4a6b-88e1-c1e06e4c800a",
-      "published_at": "2026-08-21T01:06:39+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KHOU/images/44dff1e1-0f93-4dfb-a28b-39c03af32b89/20250308T003037/44dff1e1-0f93-4dfb-a28b-39c03af32b89_750x422.jpg",
-        "alt": ""
-      },
-      "uid": "e5bfbc78-b939-4d17-8595-b74ce1f08c98",
-      "description": "Lt. Gov. Dan Patrick wants school districts to look over their library catalogs for \"vulgar\" material."
-    },
-    {
-      "title": "Families ask U.S. Supreme Court to rule on Texas’ Ten Commandments requirement for public schools",
-      "summary": "",
-      "source": "KENS 5",
-      "topic": "civil-litigation",
-      "url": "https://www.kens5.com/article/news/local/texas/families-ask-us-supreme-court-to-rule-on-texas-ten-commandments-requirement-for-public-schools/273-f6d75e66-c9fc-4459-8554-d70c11ba2122",
-      "published_at": "2026-08-18T11:59:16+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/50fcac32-885d-4176-96cc-091d6e64bf72/20260818T115854/50fcac32-885d-4176-96cc-091d6e64bf72_750x422.jpg",
-        "alt": ""
-      },
-      "uid": "8ec72b64-757a-4f74-9303-e3e27db09a26",
-      "description": "Texas can enforce the state's law requiring Ten Commandments posters in public schools. Here's what to know about the latest legal challenges."
-    },
-    {
-      "title": "Texas lawmakers discuss data centers, transmission lines in marathon hearing",
-      "summary": "The House State Affairs Committee, a committee of the Texas Legislature, took up two of the biggest topics that Texans are fired up about right now: data centers and transmission lines.",
-      "source": "KENS 5",
-      "topic": "data-centers",
-      "url": "https://www.kens5.com/article/news/politics/texas-legislature/texas-lawmakers-data-centers-transmission-lines-hearing/269-59a311a0-b8cd-46bf-82a6-1fb5bd63c1e6",
-      "published_at": "2026-08-20T15:44:21+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KVUE/images/5886d65c-79fa-4570-bed6-f14e55faee8d/20260727T121346/5886d65c-79fa-4570-bed6-f14e55faee8d_750x422.jpg",
-        "alt": ""
-      },
-      "uid": "144d7858-ddc9-4bd3-857d-2048759b97a5",
-      "description": "The House State Affairs Committee took up two of the biggest topics that Texans are fired up about right now: data centers and transmission lines."
-    },
-    {
-      "title": "Gov. Abbott proposes ban on H-1B workers in Texas public schools",
+      "title": "Man accused of threatening ICE officers outside San Antonio federal office, affidavit says",
       "summary": "",
       "source": "KENS 5",
       "topic": "immigration-enforcement",
-      "url": "https://www.kens5.com/article/news/local/texas/abbott-ban-h-1b-workers-texas-public-schools/285-2e34b4ee-ee1c-424c-a2f8-997bb0136e53",
-      "published_at": "2026-08-18T22:58:22+00:00",
+      "topics_secondary": [],
+      "url": "https://www.kens5.com/article/news/crime/ice-threat-jackson-keller-castle-hills-cellphone-officers-honda-affidavit-warrant-federal-pineda-munoz-homeland-security/273-c7049da9-cb95-4bae-b1d9-6a018c0f5853",
+      "published_at": "2026-08-28T23:17:44+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/KHOU/images/73ab2bdb-e30d-428a-8edd-e53baaf919cd/20260807T031157/73ab2bdb-e30d-428a-8edd-e53baaf919cd_750x422.jpg",
+        "url": "https://media.tegna-media.com/assets/KENS/images/bef733fe-c55c-48ac-9ab1-2d04fbf3119d/20260828T160346/bef733fe-c55c-48ac-9ab1-2d04fbf3119d_750x422.jpg",
         "alt": ""
       },
-      "uid": "7bfd5214-fb6f-42ea-89d4-46e6f6aed7ce",
-      "description": "Abbott said he wants to stop \"foreign influence\" in schools."
+      "uid": "489eab7d-5041-4767-afe5-2696dc053305",
+      "description": "Investigators say the suspect repeatedly drove past federal officers and threatened to shoot them while holding up a cellphone."
     },
     {
-      "title": "Conservation Society of San Antonio cites city’s ‘redevelopment plans’ as cause for NIOSA refresh",
-      "summary": "At least two staff members have left the organization, which has put on NIOSA, short for A Night in Old San Antonio, a food-and-music street party held during Fiesta, the city's biggest annual festival, for more than seven decades.",
+      "title": "San Antonio City Council could add rules for data center development, but some leaders concerned about all-out pause",
+      "summary": "Some San Antonio leaders said they want the ability to approve any data center project looking to break ground in the Alamo City, as San Antonio is nicknamed.",
       "source": "KENS 5",
-      "topic": "development-projects",
-      "url": "https://www.kens5.com/article/news/local/staff-reduction-looms-as-conservation-society-of-san-antonio-signals-refresh-of-niosa-event/273-338d551c-56ea-44ab-a632-56dfa2dad190",
-      "published_at": "2026-08-20T03:33:14+00:00",
+      "topic": "technology",
+      "topics_secondary": [],
+      "url": "https://www.kens5.com/article/news/politics/san-antonio-city-council-could-add-rules-for-data-center-development-but-some-leaders-concerned-about-all-out-pause/273-35e3d06f-bc7a-485a-ba5f-fb15e3e9565f",
+      "published_at": "2026-08-26T03:18:25+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/4350ffff-8e36-4a2d-8e63-17e3df601573/20260422T032313/4350ffff-8e36-4a2d-8e63-17e3df601573_750x422.jpg",
+        "url": "https://media.tegna-media.com/assets/KENS/images/256c8f57-2e5f-43fc-9e87-82e5ee710c02/20260826T031712/256c8f57-2e5f-43fc-9e87-82e5ee710c02_750x422.jpg",
         "alt": ""
       },
-      "uid": "4420c313-991e-42cd-b9ed-2eb14b8feb82",
-      "description": "At least two staff members have left the organization, which has put on the NIOSA event during Fiesta for more than seven decades."
+      "uid": "5dae12d0-21ef-4593-86d3-c7deb0df0888",
+      "description": "Some San Antonio leaders said they want the ability to approve any data center project looking to break ground in the Alamo City."
+    },
+    {
+      "title": "Feds ordered to extend pause on Big Bend border construction, state senator says",
+      "summary": "A federal judge in San Antonio took up an effort to stop border security construction in Big Bend, the stretch of the Texas-Mexico border in far west Texas, hearing arguments over whether the project should be halted. Federal officials were then ordered to extend their pause on the work by 15 days beyond the Sept. 15 date already in place, according to Texas State Senator Roland Gutierrez.",
+      "source": "KENS 5",
+      "topic": "civil-litigation",
+      "topics_secondary": [],
+      "url": "https://www.kens5.com/article/news/local/texas/feds-ordered-to-extend-halt-on-big-bend-border-construction-texas-senator-says/273-e9554ecf-081c-4549-ada1-c0db94ce7183",
+      "published_at": "2026-09-01T03:53:18+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/1e75c3eb-7793-4183-b16e-22d991310dd7/20260901T035207/1e75c3eb-7793-4183-b16e-22d991310dd7_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "ad1c6b74-363f-4684-a3f8-35b6421bb790",
+      "description": "The pause, previously in place until Sept. 15, was extended by 15 days, Texas State Senator Roland Gutierrez said Monday afternoon.",
+      "thread": [
+        {
+          "title": "Big Bend border project heads to federal court in San Antonio",
+          "summary": "",
+          "source": "KENS 5",
+          "topic": "immigration-enforcement",
+          "topics_secondary": [],
+          "url": "https://www.kens5.com/article/news/politics/big-bend-border-construction-smartwall-lawsuit-hearing-courthouse-lipan-apache-barriers-patrol-preservation-restraining-order/273-68ea81fc-716d-440d-92e1-57df76f02f7b",
+          "published_at": "2026-08-28T11:59:40+00:00",
+          "image": {
+            "url": "https://media.tegna-media.com/assets/KENS/images/fa558c1a-2127-4bd6-a001-24e45e14ba90/20260828T115848/fa558c1a-2127-4bd6-a001-24e45e14ba90_750x422.jpg",
+            "alt": ""
+          },
+          "uid": "2bd36b2d-9dce-44ca-bad0-a840707bdd06",
+          "description": "A federal judge will hear arguments over an effort to stop border security construction in Big Bend."
+        },
+        {
+          "title": "Feds ordered to extend pause on Big Bend border construction, state senator says",
+          "summary": "",
+          "source": "KENS 5",
+          "topic": "civil-litigation",
+          "topics_secondary": [],
+          "url": "https://www.kens5.com/article/news/local/texas/feds-ordered-to-extend-halt-on-big-bend-border-construction-texas-senator-says/273-e9554ecf-081c-4549-ada1-c0db94ce7183",
+          "published_at": "2026-09-01T03:53:18+00:00",
+          "image": {
+            "url": "https://media.tegna-media.com/assets/KENS/images/1e75c3eb-7793-4183-b16e-22d991310dd7/20260901T035207/1e75c3eb-7793-4183-b16e-22d991310dd7_750x422.jpg",
+            "alt": ""
+          },
+          "uid": "ad1c6b74-363f-4684-a3f8-35b6421bb790",
+          "description": "The pause, previously in place until Sept. 15, was extended by 15 days, Texas State Senator Roland Gutierrez said Monday afternoon."
+        }
+      ]
+    },
+    {
+      "title": "'Don't you touch me' | Balcones Heights mayor released on bond after arrest following heated council meeting",
+      "summary": "Johnny Rodriguez, mayor of Balcones Heights, a small city surrounded by San Antonio about five miles northwest of downtown, was released on bond after his arrest on an assault charge.",
+      "source": "KENS 5",
+      "topic": "violent-crime",
+      "topics_secondary": [],
+      "url": "https://www.kens5.com/article/news/crime/texas-san-antonio-balcones-heights-mayor-arrested-assault-incident-recent-city-council-meeting/273-3ec1bfba-b1b8-4e4b-97fb-6a30a63ce0af",
+      "published_at": "2026-08-27T11:42:46+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/b2f8453a-c265-4585-bede-efa41829c276/20260827T033006/b2f8453a-c265-4585-bede-efa41829c276_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "c433c76c-bc31-43f0-b1e2-edb98f7c55f0",
+      "description": "Balcones Heights Mayor Johnny Rodriguez was released on bond after his arrest on an assault charge."
+    },
+    {
+      "title": "Gov. Abbott blocks state agencies from spending money on Flock cameras",
+      "summary": "Gov. Greg Abbott has ordered all state agencies to pause funding for Flock cameras, automated license plate readers, as scrutiny over the AI-powered surveillance devices has mounted.",
+      "source": "KENS 5",
+      "topic": "policing",
+      "topics_secondary": [],
+      "url": "https://www.kens5.com/article/news/local/texas/gov-abbott-blocks-state-agencies-from-spending-money-on-flock-cameras/287-77449273-4be6-4136-922c-4cc30e2bdbb6",
+      "published_at": "2026-08-28T22:45:19+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/WFAA/images/f773bbec-5fc4-404b-95b5-b6da9f0a5489/20260828T222058/f773bbec-5fc4-404b-95b5-b6da9f0a5489_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "568eae21-0a84-4384-9132-c25a4191be73",
+      "description": "Gov. Greg Abbott has ordered all state agencies to pause funding for Flock cameras as scrutiny over the AI-powered surveillance devices has mounted."
+    },
+    {
+      "title": "Kendall County commissioners unanimously vote not to renew Flock Safety contract",
+      "summary": "Kendall County, the Hill Country county about 30 miles northwest of San Antonio, voted to end its contract with Flock Safety after resident pushback against automated license plate cameras, citing privacy concerns.",
+      "source": "KENS 5",
+      "topic": "policing",
+      "topics_secondary": [],
+      "url": "https://www.kens5.com/article/news/politics/kendall-county-commissioners-unanimously-vote-not-renew-flock-safety-contract-texas-privacy-concerns/273-9abe1f4a-3e06-4ddb-97c8-21874ed9531b",
+      "published_at": "2026-08-26T03:14:12+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/0fc609ed-8658-4cdb-b253-6f934e3638f6/20260826T031131/0fc609ed-8658-4cdb-b253-6f934e3638f6_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "4c5a7279-9bb3-43bf-bf83-8a5e726cbe96",
+      "description": "Kendall County voted to end its contract with Flock Safety after resident pushback against automated license plate cameras, citing privacy concerns."
+    },
+    {
+      "title": "Man accused of making threats against San Antonio officials on Facebook, affidavit says",
+      "summary": "",
+      "source": "KENS 5",
+      "topic": "violent-crime",
+      "topics_secondary": [],
+      "url": "https://www.kens5.com/article/news/crime/san-antonio-officials-texas-timothy-alejos-facebook-terroristic-threats/273-45be7b94-dbc2-4d82-8e30-0158ea8c5a14",
+      "published_at": "2026-08-26T22:30:21+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/d157126f-661c-42f0-9998-c3162ce508c5/20260826T221716/d157126f-661c-42f0-9998-c3162ce508c5_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "902337f0-7e44-469e-8420-6c3a01c56e5d",
+      "description": "Timothy Alejos, 38, has been charged with terroristic threat involving impairment of public service, public fear of serious bodily injury or influencing government."
     }
   ],
   "sports": [
     {
+      "team": "UTSA",
+      "scores": [
+        "hosts UTRGV in season opener"
+      ]
+    },
+    {
+      "team": "Longhorns",
+      "scores": [
+        "season preview: title contender"
+      ]
+    },
+    {
       "team": "Spurs",
       "scores": [
-        "Wembanyama named Team France captain"
+        "expands Jackals fan section, holds auditions"
       ]
     }
   ]

@@ -1,0 +1,119 @@
+{
+  "shortName": "Boulder, CO",
+  "metroCode": "14500",
+  "metro": "Boulder, CO",
+  "date": "2026-08-22",
+  "are_you_ok": [
+    {
+      "title": "Colorado heat eases as showers and thunderstorms return, severe weather possible this weekend",
+      "summary": "",
+      "source": "CBS Colorado",
+      "topic": "severe-weather",
+      "url": "https://www.cbsnews.com/colorado/video/colorado-heat-eases-as-showers-and-thunderstorms-return-severe-weather-possible-this-weekend/",
+      "published_at": "2026-08-22T15:23:00+00:00",
+      "image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/22/7a435a28-16e5-4a92-b46f-5da85b7e8e6b/thumbnail/1024x576/a476b977ab6dca5a184b5332e70f3aca/3e7fcf9dcf60384174d796220158a44f.jpg",
+        "alt": ""
+      },
+      "uid": "ad7cd2d8-c84b-4850-9c2d-f68918509e39",
+      "questions": [
+        "Has the heat eased off where you are?",
+        "Are you keeping an eye on the storm forecast?"
+      ],
+      "description": "Watch meteorologist Callie Zanandrie's forecast.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    }
+  ],
+  "conversation_starters": [
+    {
+      "title": "Olympian Jenny Simpson won't be able to run again after a cardiac event. Here's what she wants to focus on as she recovers.",
+      "summary": "",
+      "source": "CBS Colorado",
+      "topic": "human-interest",
+      "url": "https://www.cbsnews.com/colorado/news/jenny-simpson-cardiac-event-heart-condition-recovery-running/",
+      "published_at": "2026-08-22T18:54:58+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/21/66d4a45f-95d9-468f-88d4-7bd36f9527e6/thumbnail/1024x576/12494951d3a10e25571b896ac234b6bf/gettyimages-1178576631.jpg",
+        "alt": ""
+      },
+      "uid": "1521d807-1915-431b-990a-6b927f8a0a07",
+      "questions": [
+        "Did you see the news about Jenny Simpson having to give up running?",
+        "Do you follow track at all?"
+      ],
+      "description": "Olympian Jenny Simpson said she won't be able to run again after being diagnosed with a rare heart condition earlier this year.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    },
+    {
+      "title": "Fisherman attacked by bear in Colorado, bear found and euthanized",
+      "summary": "Colorado Parks and Wildlife says a fisherman was injured in a bear attack in Jefferson County, the foothills county just south of Boulder, on Friday. Wildlife officers located and euthanized the bear on Saturday morning.",
+      "source": "CBS Colorado",
+      "topic": "wildlife",
+      "url": "https://www.cbsnews.com/colorado/video/fisherman-attacked-by-bear-in-colorado-bear-found-and-euthanized/",
+      "published_at": "2026-08-22T23:56:00+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/22/79c1ad64-88da-4a5b-ae9e-03cda08aa568/thumbnail/1024x576/16da5d5b5f6badbf2f07cc2ed8e52493/2ec89fbb6a01fc1c2735982344db00d2.jpg",
+        "alt": ""
+      },
+      "uid": "d7b74176-e2d2-43e0-89fc-ac1ebe9f75fb",
+      "questions": [
+        "Did the bear attack in Jefferson County get talked about around Boulder?",
+        "Are bear sightings common around Boulder in late summer?",
+        "Does living close to the foothills mean thinking about bears much?"
+      ],
+      "description": "Colorado Parks and Wildlife says a fisherman was injured in a bear attack in Jefferson County on Friday. Wildlife officers located and euthanized the bear on Saturday morning.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    },
+    {
+      "title": "New Colorado School of Mines students bring a piece of home for annual M Climb",
+      "summary": "New students at the Colorado School of Mines celebrated the start of the school year by leaving their mark on Mount Zion, the hill above Golden, about 20 miles south of Boulder.",
+      "source": "CBS Colorado",
+      "topic": "civic-events",
+      "url": "https://www.cbsnews.com/colorado/news/colorado-school-mines-student-rocks-m-climb-2026/",
+      "published_at": "2026-08-22T03:39:11+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/22/c45bd5b0-c38a-4871-817e-90f083897166/thumbnail/1024x576/eb17e8fc5959f715d5dd710d41e5aebc/m-climb-transfer-frame-574.jpg",
+        "alt": ""
+      },
+      "uid": "f9120d94-df08-40eb-8e02-80e6361a82e1",
+      "questions": [
+        "Had you heard of the M Climb tradition at Mines?",
+        "Does the start of the school year change the feel of things around you?"
+      ],
+      "description": "New students at the Colorado School of Mines celebrated the start of the school year on Friday by leaving their mark on Mount Zion.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    }
+  ],
+  "sports": [
+    {
+      "team": "Broncos",
+      "scores": [
+        "Packers 33, Broncos 13"
+      ]
+    },
+    {
+      "team": "Nuggets",
+      "scores": [
+        "signs DeMar DeRozan to 1-year deal"
+      ]
+    }
+  ],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "Drastic water cuts issued for California, Nevada and Arizona from drought-stricken Colorado River",
+      "summary": "",
+      "source": "CBS Colorado",
+      "topic": "drought-water",
+      "url": "https://www.cbsnews.com/colorado/news/colorado-river-drastic-water-cuts-california-nevada-arizona-drought/",
+      "published_at": "2026-08-22T04:01:54+00:00",
+      "image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/22/f6193208-f6dd-4151-a49d-983c7aac0784/thumbnail/1024x576/3052394293bdc49fb6abfe605bfd049b/img-3900.jpg",
+        "alt": ""
+      },
+      "uid": "f489aade-176b-4eae-9529-559ff6459a50",
+      "description": "Federal officials announced sharp water cuts for the next two years on Friday for three Western states that rely on the imperiled Colorado River.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    }
+  ]
+}

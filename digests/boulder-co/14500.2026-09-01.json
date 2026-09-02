@@ -1,0 +1,267 @@
+{
+  "shortName": "Boulder, CO",
+  "metroCode": "14500",
+  "metro": "Boulder, CO",
+  "date": "2026-09-01",
+  "are_you_ok": [],
+  "conversation_starters": [
+    {
+      "title": "City of Boulder to begin construction on flood mitigation project",
+      "summary": "",
+      "source": "CBS Colorado",
+      "topic": "development-projects",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/colorado/video/city-of-boulder-to-begin-construction-on-flood-mitigation-project/",
+      "published_at": "2026-09-01T01:13:00+00:00",
+      "image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/01/72f62184-9a7e-4344-aad5-26bc3ca513fb/thumbnail/1024x576/0a847f6949f76d5861f5b7614f68e555/38e5c9ca3dfc61ca8fc544dbe20013f4.jpg",
+        "alt": ""
+      },
+      "uid": "30ee2b5d-5f39-4ecd-88b3-7067ee530bdf",
+      "questions": [
+        "Has the construction along South Boulder Creek changed the route to work?",
+        "Is flooding along South Boulder Creek something the neighborhood has dealt with before?"
+      ],
+      "description": "The City of Boulder is preparing to begin construction around South Boulder Creek to mitigate flooding. The move includes multiple projects to help manage and store the water.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    },
+    {
+      "title": "Colorado residents can use mobile driver's license to get through airport security across U.S.",
+      "summary": "",
+      "source": "CBS Colorado",
+      "topic": "transportation",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/colorado/news/colorado-residents-mobile-drivers-license-airport-security/",
+      "published_at": "2026-09-01T14:28:56+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/01/707bf357-3a19-4498-8d7f-a651735cb25a/thumbnail/1024x576/a1743bb8e74314537dac96e76844c948/mobile-drivers-license-tsa-5vo-transfer-frame-269.jpg",
+        "alt": ""
+      },
+      "uid": "a3d1dc50-f874-41ca-9afe-98cdc5b18000",
+      "questions": [
+        "Has the mobile driver's license worked at airport security yet?",
+        "Is a phone ID worth setting up before the next trip?"
+      ],
+      "description": "Colorado residents can now get through airport security checkpoints across the U.S. by using their phone to provide ID.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    },
+    {
+      "title": "Colorado families may be missing out on thousands in tax credits: it's not too late to apply",
+      "summary": "",
+      "source": "CBS Colorado",
+      "topic": "public-benefits",
+      "topics_secondary": [
+        "consumer-advice"
+      ],
+      "url": "https://www.cbsnews.com/colorado/video/colorado-families-may-be-missing-out-on-thousands-in-tax-credits-its-not-too-late-to-apply/",
+      "published_at": "2026-09-01T00:33:00+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/01/191b8a84-561d-4b94-b92f-1b5a9ff31f25/thumbnail/1024x576/7587f877d8862629b8b61ed304dc4570/5a9de673ecb25efd1207d97c804d4b70.jpg",
+        "alt": ""
+      },
+      "uid": "28657ff3-d7c1-4d00-a3e4-e4993b91bc19",
+      "questions": [
+        "Have the state tax credits come up much around Colorado?",
+        "Do the tax credits seem widely known, or is this news to most people?"
+      ],
+      "description": "Many Colorado families struggling to make ends meet could be leaving thousands of dollars unclaimed through state tax credits designed to help lower-income households.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    },
+    {
+      "title": "'The consequences can become serious very quickly': Aurora police say crowd of 500 descended on local shopping center",
+      "summary": "Social media videos captured a chaotic scene at a King Soopers, the Colorado supermarket chain, and other establishments in Aurora, a large suburb 40 miles SE of Boulder.",
+      "source": "9NEWS",
+      "topic": "property-crime",
+      "topics_secondary": [],
+      "url": "https://www.9news.com/article/news/local/aurora-police-investigating-after-crowd-of-500-descends-on-local-shopping-center/73-e66ded08-da2a-46e2-a102-224681b05df8",
+      "published_at": "2026-09-01T01:04:28+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/ecd0c24c-2aab-4814-b21e-e288a96a9d78/20260831T232916/ecd0c24c-2aab-4814-b21e-e288a96a9d78_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "ab6ec36a-cf6c-48e1-8163-1d2ed8b28fcb",
+      "questions": [
+        "Has the Aurora shopping center incident been a big topic around Colorado?",
+        "Is Aurora somewhere people from Boulder end up often?"
+      ],
+      "description": "Social media videos captured chaotic scene at King Soopers, other establishments."
+    },
+    {
+      "title": "Waymo launches in Denver: Here's where you can ride",
+      "summary": "Waymo launched its driverless taxi service in Denver, the state capital, about 30 miles southeast of Boulder, initially covering 60 square miles.",
+      "source": "9NEWS",
+      "topic": "transportation",
+      "topics_secondary": [],
+      "url": "https://www.9news.com/article/news/community/transportation/waymo-launches-denver-map-area/73-47825686-251b-40c7-9b3f-f56e8ddbbc4a",
+      "published_at": "2026-09-01T14:25:03+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KPNX/images/b8446ee1-1c3c-4e09-9117-88c4ae031563/20260820T143745/b8446ee1-1c3c-4e09-9117-88c4ae031563_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "c402ca27-e61b-44dd-8d34-edf72fdb87ad",
+      "questions": [
+        "Have the driverless taxis started showing up around Denver?",
+        "Would riding in a Waymo be something worth trying?"
+      ],
+      "description": "Waymo launched its driverless taxi service in Denver on Tuesday, initially covering 60 square miles."
+    },
+    {
+      "title": "Colorado schools are losing students as births, migration slow",
+      "summary": "",
+      "source": "9NEWS",
+      "topic": "education",
+      "topics_secondary": [],
+      "url": "https://www.9news.com/article/news/education/colorado-schools-losing-students/73-298de588-e3bf-4ea1-99e6-a35d04e7542d",
+      "published_at": "2026-09-01T12:45:11+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/b8b61ef3-5987-4d87-9533-d43edfb4d272/b8b61ef3-5987-4d87-9533-d43edfb4d272_750x422.png",
+        "alt": ""
+      },
+      "uid": "48b90268-7226-4036-9e49-a106e30e4d1b",
+      "questions": [
+        "Have the schools nearby felt the drop in enrollment?",
+        "Has the enrollment decline come up in the school district?"
+      ],
+      "description": "Enrollment peaked in 2019 in Colorado with its 913,223 students, according to the Colorado Department of Education."
+    },
+    {
+      "title": "Colorado Ski Passport returns for 30th year, opening slopes to kids",
+      "summary": "",
+      "source": "9NEWS",
+      "topic": "other",
+      "topics_secondary": [],
+      "url": "https://www.9news.com/article/life/style/colorado-guide/colorado-ski-passport-kids/73-aecc3e9a-11fe-4fa7-9130-9b5f174009f4",
+      "published_at": "2026-09-01T10:21:25+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/c0ca0acf-e3ff-401a-9e29-b373637d0cdb/20260901T100627/c0ca0acf-e3ff-401a-9e29-b373637d0cdb_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "e278403b-f4d6-4811-acd2-a9c91aadd966",
+      "questions": [
+        "Does the Colorado Ski Passport get used in the household?",
+        "Which of the 19 resorts is the easiest to reach from Boulder?"
+      ],
+      "description": "The Colorado Ski Passport offers kids four days of skiing at 19 resorts, celebrating 30 years of making Colorado's slopes accessible to young skiers."
+    },
+    {
+      "title": "New species coming to Denver for first time in zoo's 130-year history",
+      "summary": "The Denver Zoo Conservation Alliance, in Denver, the state capital, about 30 miles southeast of Boulder, is set to welcome southern white rhinos for the first time, marking a historic addition to its 130-year history.",
+      "source": "9NEWS",
+      "topic": "wildlife",
+      "topics_secondary": [],
+      "url": "https://www.9news.com/article/life/animals/new-species-coming-to-denver-zoo/73-536d3ef2-deb5-45aa-9c60-f42d8c8e77d1",
+      "published_at": "2026-09-01T11:51:30+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/ee21a602-807f-4bfb-8fdf-e6ccbced4c25/20260901T114757/ee21a602-807f-4bfb-8fdf-e6ccbced4c25_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "a22564f3-04cb-4e9b-acfb-78ad8f33e8ce",
+      "questions": [
+        "Is the Denver Zoo a regular outing?",
+        "Would the new rhinos be worth a trip to the Denver Zoo?"
+      ],
+      "description": "The Denver Zoo Conservation Alliance is set to welcome southern white rhinos for the first time this fall, marking a historic addition to its 130-year history."
+    }
+  ],
+  "sports": [
+    {
+      "team": "Broncos",
+      "scores": [
+        "sets practice squad, loses two",
+        "radio voice on running-game needs"
+      ]
+    },
+    {
+      "team": "Rockies",
+      "scores": [
+        "lose on game-saving catch"
+      ]
+    }
+  ],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "Young cancer survivors push for change in Colorado legislation",
+      "summary": "Two nuclear sites in Colorado could be the cause of cancer for some Coloradans. One woman has started a grassroots effort to track cases of cancer in young people in Jefferson County, a suburban county about 20 miles south of Boulder, near the former Rocky Flats nuclear weapons plant. Now, U.S. Rep. Brittany Pettersen is pushing for legislation to expand coverage for affected people.",
+      "source": "CBS Colorado",
+      "topic": "public-health",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/colorado/video/young-cancer-survivors-push-for-change-in-colorado-legislation/",
+      "published_at": "2026-09-01T01:04:00+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/01/cba58235-1401-4fc5-b6a0-ae35062dd77b/thumbnail/1024x576/db9395830d03f4f907f81d6d83933e01/51f37a3e4470c39850ba761d8611dd82.jpg",
+        "alt": ""
+      },
+      "uid": "68ba3e3d-2f53-4fa1-bd2b-06d35c1f052e",
+      "description": "Two nuclear sites in Colorado could be the cause of cancer for some Coloradans. One woman has started a grassroots effort to track cases of cancer in young people in Jefferson County, near the former Rocky Flats nuclear weapons plant. Now, U.S. Rep. Brittany Pettersen is pushing",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    },
+    {
+      "title": "Colorado trucking school ordered to shut down as federal crackdown targets fraudulent practices",
+      "summary": "The U.S. Department of Transportation announced that 110 CDL, or commercial driver's license, training schools were being ordered to shut down over a lack of English proficiency.",
+      "source": "CBS Colorado",
+      "topic": "transportation",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/colorado/news/colorado-trucking-school-shut-down-federal-crackdown-fraudulent-practices/",
+      "published_at": "2026-09-01T13:49:11+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/09/01/6b33667f-dae3-445d-898c-eb479165e1ff/thumbnail/1024x576/c4c3505066732af6c4e73624074067ff/cdl-school-crackdown-10pkg-transfer-frame-1614-copy.jpg",
+        "alt": ""
+      },
+      "uid": "0ae903aa-ff2b-47de-9af1-2edf5e0ba19c",
+      "description": "The U.S. Department of Transportation announced that 110 CDL training schools were being ordered to shut down over a lack of English proficiency.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    },
+    {
+      "title": "Immigration processing times double in 2 years",
+      "summary": "",
+      "source": "9NEWS",
+      "topic": "immigration-enforcement",
+      "topics_secondary": [],
+      "url": "https://www.9news.com/article/news/politics/immigration-news/immigration-processing-times-double/73-52cbaa9a-3fbb-47af-8f27-f2b031e7c7a4",
+      "published_at": "2026-09-01T01:31:38+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/6af670ab-ca1d-4e42-afd5-a10ecb44e66c/20260519T001354/6af670ab-ca1d-4e42-afd5-a10ecb44e66c_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "d94ae4ad-4426-4ccf-814a-9a678abfcd88",
+      "description": "U.S. immigration wait times have surged, with attorney Ian Rochstein noting routine approvals are often taking years."
+    },
+    {
+      "title": "Colorado Congresswoman introduces legislation to update Radiation Exposure Compensation Act",
+      "summary": "",
+      "source": "CBS Colorado",
+      "topic": "government",
+      "topics_secondary": [
+        "public-health"
+      ],
+      "url": "https://www.cbsnews.com/colorado/news/colorado-congresswoman-pettersen-legislation-radiation-exposure-compensation-reauthorization-act/",
+      "published_at": "2026-09-01T13:00:59+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/01/949c5655-9753-4e71-ba9f-f69236e1ce80/thumbnail/1024x576/80129e3a60edfb666c717c2a30f47dc8/reca-expansion-6pkg-transfer-frame-2053.jpg",
+        "alt": ""
+      },
+      "uid": "9019b915-6b09-4eec-b025-2943ef016f8b",
+      "description": "If passed, the legislation would expand eligibility for residents in 57 Colorado zip codes to get compensation based on a list of eligible diseases and cancers, and would include coverage for workers and residents known as \"downwinders.\"",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    },
+    {
+      "title": "Denver mayor safe after security detail draws gun on knife-wielding man; \"Over in a matter of seconds,\" office says",
+      "summary": "Denver Mayor Mike Johnston's security detail drew his gun on a man at Union Station, Denver's main train and bus hub, the mayor's office said.",
+      "source": "CBS Colorado",
+      "topic": "government",
+      "topics_secondary": [
+        "policing"
+      ],
+      "url": "https://www.cbsnews.com/colorado/news/denver-mayor-safe-security-detail-draws-gun-knife-man/",
+      "published_at": "2026-09-01T12:41:24+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/09/01/701d5c69-7aa2-4aa8-ad0c-346844dac23a/thumbnail/1024x576/a039b9cd7a092c984273aa6d0887df5a/gettyimages-1177051210.jpg",
+        "alt": ""
+      },
+      "uid": "be258f58-e2a5-4608-ae5f-74ee9a2fe079",
+      "description": "Denver Mayor Mike Johnston's security detail drew his gun on a man at Union Station last week, the mayor's office said Monday.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    }
+  ]
+}

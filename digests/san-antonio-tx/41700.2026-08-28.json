@@ -1,0 +1,120 @@
+{
+  "shortName": "San Antonio, TX",
+  "metroCode": "41700",
+  "metro": "San Antonio-New Braunfels, TX",
+  "date": "2026-08-28",
+  "are_you_ok": [
+    {
+      "title": "Residents assess damage after powerful storm hits Somerset, causing power outages and school closures",
+      "summary": "A severe storm hit Somerset, a small town about 20 miles southwest of San Antonio, causing significant damage and power outages that led to school closures.",
+      "source": "KENS 5",
+      "topic": "weather-hazard",
+      "topics_secondary": [],
+      "url": "https://www.kens5.com/article/news/local/somerset-texas-storm-damage-power-outages-school-closures-august-2026/273-c2ad4482-4988-433e-b2f1-75eb4af5f136",
+      "published_at": "2026-08-28T22:53:37+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/14b2fdc7-ec02-4a14-b327-929b1514f757/20260828T211142/14b2fdc7-ec02-4a14-b327-929b1514f757_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "e0d9fedc-b37b-472f-8e0c-c2f46518464b",
+      "questions": [
+        "Did the storm that hit Somerset reach your area?",
+        "Did you lose power in the storms?"
+      ],
+      "description": "A severe storm hit Somerset, causing significant damage and power outages that led to school closures."
+    }
+  ],
+  "conversation_starters": [
+    {
+      "title": "TxDOT Loop 410 San Pedro improvements construction project near San Antonio airport set to begin in September",
+      "summary": "San Antonio drivers face more construction as a $156 million project from TxDOT, the Texas Department of Transportation, aims to ease congestion on Loop 410, the freeway that rings the city, and U.S. 281, the highway running north out of downtown. Expected completion: 2029.",
+      "source": "KENS 5",
+      "topic": "transportation",
+      "topics_secondary": [],
+      "url": "https://www.kens5.com/article/traffic/texas-traffic-txdot-loop-410-san-antonio-pedro-construction-project-airport-september/273-c22a46e0-8f60-4f28-b4de-52cfc4392661",
+      "published_at": "2026-08-28T03:16:03+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/e8032e08-b51f-476c-a5e9-dbc64d50aa44/20260828T031408/e8032e08-b51f-476c-a5e9-dbc64d50aa44_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "1d3f3625-608f-4bf0-aeb3-e5d6e582715c",
+      "questions": [
+        "Does your commute take you anywhere near Loop 410 and U.S. 281?",
+        "Is the construction on Loop 410 going to change how you get around?"
+      ],
+      "description": "San Antonio drivers face more construction as a $156 million TxDOT project aims to ease congestion on Loop 410 and U.S. 281. Expected completion: 2029."
+    },
+    {
+      "title": "Northside ISD partnering with OpenAI for 'ChatGPT for Teachers'",
+      "summary": "Northside ISD, the school district covering the northwest side of San Antonio, joins dozens of school districts integrating ChatGPT for classroom experiences while prioritizing data privacy in an AI expansion.",
+      "source": "KENS 5",
+      "topic": "education",
+      "topics_secondary": [],
+      "url": "https://www.kens5.com/article/news/education/northside-isd-partnering-with-open-ai-for-chatgpt-for-teachers/273-f4661298-13d1-4f0c-831c-2c8a8634093f",
+      "published_at": "2026-08-28T16:42:24+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/321a2512-0bcc-4005-9059-0a25d54807f2/20260207T000901/321a2512-0bcc-4005-9059-0a25d54807f2_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "21f80893-9af6-4243-8fab-6e7c8b16497a",
+      "questions": [
+        "Have you heard anything about Northside ISD bringing ChatGPT into classrooms?",
+        "Do you know families with kids in the Northside district?"
+      ],
+      "description": "Northside ISD joins dozens of school districts integrating ChatGPT for classroom experiences while prioritizing data privacy in an AI expansion."
+    },
+    {
+      "title": "Aaron Watson returning to Gruene Hall for three nights to record live album",
+      "summary": "Texas country star Aaron Watson is giving fans a chance to become part of his next live album during three shows at Gruene Hall, the historic dance hall in New Braunfels, about 30 miles northeast of San Antonio.",
+      "source": "KENS 5",
+      "topic": "culture-events",
+      "topics_secondary": [],
+      "url": "https://www.kens5.com/article/entertainment/music/aaron-watson-gruene-hall-new-braunfels-live-album-concert-recording-texas-country-jake-watson-music-november-tickets-father-son/273-a484bee9-1c42-4d9e-8836-f105c25292f5",
+      "published_at": "2026-08-28T18:46:18+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/bede0c1c-1ad1-4032-bc7c-1978e506012c/20260828T184546/bede0c1c-1ad1-4032-bc7c-1978e506012c_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "63e1feda-95e3-4f96-beec-040bb5dd5e6e",
+      "questions": [
+        "Have you ever caught a show at Gruene Hall?",
+        "Is Gruene Hall worth the drive from San Antonio?"
+      ],
+      "description": "Texas country star Aaron Watson is giving fans a chance to become part of his next live album during three shows at Gruene Hall."
+    }
+  ],
+  "sports": [],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "Man accused of threatening ICE officers outside San Antonio federal office, affidavit says",
+      "summary": "",
+      "source": "KENS 5",
+      "topic": "immigration-enforcement",
+      "topics_secondary": [],
+      "url": "https://www.kens5.com/article/news/crime/ice-threat-jackson-keller-castle-hills-cellphone-officers-honda-affidavit-warrant-federal-pineda-munoz-homeland-security/273-c7049da9-cb95-4bae-b1d9-6a018c0f5853",
+      "published_at": "2026-08-28T23:17:44+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/bef733fe-c55c-48ac-9ab1-2d04fbf3119d/20260828T160346/bef733fe-c55c-48ac-9ab1-2d04fbf3119d_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "489eab7d-5041-4767-afe5-2696dc053305",
+      "description": "Investigators say the suspect repeatedly drove past federal officers and threatened to shoot them while holding up a cellphone."
+    },
+    {
+      "title": "Gov. Abbott blocks state agencies from spending money on Flock cameras",
+      "summary": "Gov. Greg Abbott has ordered all state agencies to pause funding for Flock cameras, automated license plate readers, as scrutiny over the AI-powered surveillance devices has mounted.",
+      "source": "KENS 5",
+      "topic": "policing",
+      "topics_secondary": [],
+      "url": "https://www.kens5.com/article/news/local/texas/gov-abbott-blocks-state-agencies-from-spending-money-on-flock-cameras/287-77449273-4be6-4136-922c-4cc30e2bdbb6",
+      "published_at": "2026-08-28T22:45:19+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/WFAA/images/f773bbec-5fc4-404b-95b5-b6da9f0a5489/20260828T222058/f773bbec-5fc4-404b-95b5-b6da9f0a5489_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "568eae21-0a84-4384-9132-c25a4191be73",
+      "description": "Gov. Greg Abbott has ordered all state agencies to pause funding for Flock cameras as scrutiny over the AI-powered surveillance devices has mounted."
+    }
+  ]
+}

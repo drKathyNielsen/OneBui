@@ -1,0 +1,89 @@
+{
+  "shortName": "Minneapolis, MN",
+  "metroCode": "33460",
+  "metro": "Minneapolis-St. Paul-Bloomington, MN-WI",
+  "date": "2026-08-25",
+  "are_you_ok": [],
+  "conversation_starters": [],
+  "sports": [
+    {
+      "team": "Vikings",
+      "scores": [
+        "WR suspended 3 games",
+        "preseason finale at Denver Friday",
+        "signs cornerback Tre Hawkins III",
+        "unveils Rivalries uniform"
+      ]
+    },
+    {
+      "team": "Minnesota United",
+      "scores": [
+        "sporting director leaves for Austin"
+      ]
+    }
+  ],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "How does a Minneapolis neighborhoods impacted by car break-ins feel about Flock cameras?",
+      "summary": "",
+      "source": "KARE 11",
+      "topic": "property-crime",
+      "topics_secondary": [],
+      "url": "https://www.kare11.com/article/news/crime/how-does-a-minneapolis-neighborhoods-impacted-by-car-break-ins-feel-about-flock-cameras/89-e0266eea-5251-4a94-b5d4-48bd68683cb2",
+      "published_at": "2026-08-25T23:28:18+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/5554a5c2-db3f-455e-b009-e55334272120/20260825T231046/5554a5c2-db3f-455e-b009-e55334272120_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "82681bdc-6a58-4000-9a88-a2e65ab0a80a",
+      "description": "On Friday, dozens of cars were broken into throughout Minneapolis."
+    },
+    {
+      "title": "What Canada's retaliatory tariffs could mean for Minnesotans",
+      "summary": "",
+      "source": "CBS Minnesota",
+      "topic": "business-jobs",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/minnesota/news/canada-tariffs-minnesota/",
+      "published_at": "2026-08-25T23:23:35+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/25/28e7229f-05ce-4bad-899d-97adf7571e90/thumbnail/1024x576/f91ad318a3e4cdd7cf69142c709ef00c/gettyimages-2229754554.jpg",
+        "alt": ""
+      },
+      "uid": "8f8ff8b3-6b54-4294-8dfc-f3ec89df3bcd",
+      "description": "Canada's finance minister on Tuesday says a set of retaliatory tariffs​ will target more than $27 billion of U.S. imports, including steel, appliances and dairy.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    },
+    {
+      "title": "Walz executive order to restrict mining near Boundary Waters faces bipartisan backlash in northern Minnesota",
+      "summary": "Several Democratic candidates running in northern Minnesota legislative races in November have publicly broken with Gov. Walz over his executive order on mining near the Boundary Waters Canoe Area Wilderness, lake country on the Canadian border roughly 250 miles north of Minneapolis.",
+      "source": "KARE 11",
+      "topic": "elections-politics",
+      "topics_secondary": [],
+      "url": "https://www.kare11.com/article/news/local/breaking-the-news/walz-executive-order-to-restrict-mining-near-boundary-waters-faces-bipartisan-backlash-in-northern-minnesota/89-a646f51b-edee-4a8a-abca-2f1f0f26a672",
+      "published_at": "2026-08-25T16:28:27+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/ac1ed649-221f-4e30-9076-5b5db986c57a/20260824T224735/ac1ed649-221f-4e30-9076-5b5db986c57a_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "66ca43ba-5c73-49bb-b5bb-8a7bb41afc8a",
+      "description": "Several Democratic candidates running in northern Minnesota legislative races this November have publicly broken with Gov. Walz over his executive order on mining."
+    },
+    {
+      "title": "County attorney declines felony charges against Jake Lang, city could still pursue charges",
+      "summary": "",
+      "source": "KARE 11",
+      "topic": "violent-crime",
+      "topics_secondary": [],
+      "url": "https://www.kare11.com/article/news/local/hcao-declines-felony-charge-after-an-mpd-officer-was-injured-at-far-right-extremist-rally/89-bfd44aa8-1d0f-45ea-a07a-a449a6f05baa",
+      "published_at": "2026-08-25T17:43:50+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/bb0c9e84-0dbc-4433-9071-f49e8f2ea9cb/20260822T201612/bb0c9e84-0dbc-4433-9071-f49e8f2ea9cb_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "dc1caaa1-05e3-4c49-9028-48f9c7b64a09",
+      "description": "The Hennepin County Attorney's Office said a review of evidence showed there was \"not a path forward\" for felony charges."
+    }
+  ]
+}

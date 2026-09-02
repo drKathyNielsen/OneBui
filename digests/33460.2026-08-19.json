@@ -1,0 +1,147 @@
+{
+  "shortName": "Minneapolis, MN",
+  "metroCode": "33460",
+  "metro": "Minneapolis-St. Paul-Bloomington, MN-WI",
+  "date": "2026-08-19",
+  "are_you_ok": [],
+  "conversation_starters": [
+    {
+      "title": "Target's comeback quarter: New merchandise, more shoppers and a $994M tariff refund",
+      "summary": "",
+      "source": "CBS Minnesota",
+      "topic": "business-jobs",
+      "url": "https://www.cbsnews.com/minnesota/news/target-comeback-quarter-new-merchandise-more-shoppers-994m-tariff-refund/",
+      "published_at": "2026-08-19T11:53:58+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/19/4c427846-4b76-4db7-b8e1-9f4dfed68da4/thumbnail/1024x576/cfbae0f498678018836c85f3ec9d53a8/gettyimages-2288436986.jpg",
+        "alt": ""
+      },
+      "uid": "b755e755-d5a3-4d6e-baf8-13236969b5de",
+      "questions": [
+        "Have you noticed the changes Target's been making in stores?",
+        "Does Target being headquartered there come up much day to day?"
+      ],
+      "description": "Target is reporting its second straight quarter of comparable sales gains, saying a merchandising overhaul under the discount retailer's new CEO was attracting more customers.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    },
+    {
+      "title": "Rush City urges immediate water conservation amid state drought warning",
+      "summary": "Rush City, a small town about 55 miles north of Minneapolis, urges residents to reduce water use as the St. Croix River basin, the river valley along the Minnesota-Wisconsin line east of Minneapolis, moves into drought warning.",
+      "source": "KARE 11",
+      "topic": "drought-water",
+      "url": "https://www.kare11.com/article/news/local/rush-city-urges-immediate-water-conservation-amid-state-drought-warning-mn/89-643c7380-7cb9-4e40-9019-cd415b45220c",
+      "published_at": "2026-08-19T20:50:07+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/e38e4e61-3ada-49ae-848b-e6962d8fd70f/20260504T231714/e38e4e61-3ada-49ae-848b-e6962d8fd70f_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "c9b6070b-c680-4315-95df-f3a06561d386",
+      "questions": [
+        "Has the dry stretch changed anything where you are - watering rules, the yard, the garden?",
+        "Is the drought something people are talking about locally?"
+      ],
+      "description": "Rush City urges residents to reduce water use as the St. Croix River basin moves into drought warning."
+    },
+    {
+      "title": "Officials report Camp Fire at 97% containment in BWCAW",
+      "summary": "Firefighters reported increased containment at the Camp, Sioux and Bear Trap fires in the BWCAW, the Boundary Waters Canoe Area Wilderness, lake country on the Canadian border roughly 250 miles north of Minneapolis.",
+      "source": "KARE 11",
+      "topic": "wildfire",
+      "url": "https://www.kare11.com/article/news/local/officials-report-camp-fire-at-97-containment-in-bwcaw-mn/89-c9a278c3-e004-4400-bd95-c4c41e7525ab",
+      "published_at": "2026-08-19T17:52:47+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/d46c3aa3-1f7a-494d-a538-a9243d038b72/20260723T231359/d46c3aa3-1f7a-494d-a538-a9243d038b72_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "b5883532-8d69-48cc-ac1c-c488c84d6881",
+      "questions": [
+        "Have the northern fires sent any smoke your way this summer?",
+        "Do you get up to the Boundary Waters much?"
+      ],
+      "description": "Firefighters reported increased containment over the last week at the Camp, Sioux and Bear Trap fires."
+    }
+  ],
+  "sports": [
+    {
+      "team": "Vikings",
+      "scores": [
+        "coach wants intense Ravens joint practices",
+        "sign OL Joshua Gray"
+      ]
+    }
+  ],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "State's minimum wage to rise to $11.87 an hour next year",
+      "summary": "",
+      "source": "KARE 11",
+      "topic": "business-jobs",
+      "url": "https://www.kare11.com/article/news/local/states-minimum-wage-to-rise-to-1187-an-hour-next-year/89-7a56e23c-76fb-4418-8db4-4f5f78544a74",
+      "published_at": "2026-08-19T21:03:40+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/dafefeb2-a2c8-483f-9b61-67d5b0394e36/20260408T112433/dafefeb2-a2c8-483f-9b61-67d5b0394e36_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "f3761909-de6c-44dc-8cf2-e12b2ddf9941",
+      "description": "Minimum-wage increase reflects inflation adjustment and takes effect Jan. 1."
+    },
+    {
+      "title": "Gov. Walz authorizes emergency assistance for counties damaged by summer storms",
+      "summary": "",
+      "source": "KARE 11",
+      "topic": "severe-weather",
+      "url": "https://www.kare11.com/article/news/local/gov-walz-authorizes-emergency-assistance-counties-damaged-summer-storms/89-3905e406-4b90-491b-bc90-fcf801fc84fc",
+      "published_at": "2026-08-19T20:21:41+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/da6d9c4d-e20e-4257-8351-1cbb6ac3eea7/20260707T220551/da6d9c4d-e20e-4257-8351-1cbb6ac3eea7_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "7b7457ba-0085-4492-bea5-dcc674614f25",
+      "description": "The funds will be for a handful of counties that were impacted by the severe storms that hit the state between June 28 and July 8."
+    },
+    {
+      "title": "Three men agree to stay away from MN State Fair as part of gang injunction case",
+      "summary": "",
+      "source": "KARE 11",
+      "topic": "civil-litigation",
+      "url": "https://www.kare11.com/article/news/local/three-men-agree-to-stay-away-from-mn-state-fair-part-of-gang-injunction-case/89-914cf4ae-34b1-49c2-b746-1ffddcaaea12",
+      "published_at": "2026-08-19T18:41:50+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/bb485161-f48f-4fa0-b338-ff86212adf9c/20260813T230737/bb485161-f48f-4fa0-b338-ff86212adf9c_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "dfd78554-b92e-4c56-bef2-82d12ae9d25a",
+      "description": "Three men agreed to a proposed order barring them from the Minnesota State Fair amid allegations of gang ties. They deny the claims, and no liability is admitted."
+    },
+    {
+      "title": "Ellison releases hundreds of internal Fleet Farm documents as part of straw-purchase lawsuit settlement",
+      "summary": "As part of the settlement, Fleet Farm, the farm-and-ranch supply retail chain, was ordered to pay a $1 million penalty, implement changes to its Minnesota stores and release internal documents.",
+      "source": "KARE 11",
+      "topic": "civil-litigation",
+      "url": "https://www.kare11.com/article/news/local/ellison-releases-hundreds-internal-fleet-farm-documents-part-of-straw-purchase-lawsuit-settlement/89-72f67362-57cf-452b-b609-0961470f5fed",
+      "published_at": "2026-08-19T19:06:23+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/6f7b126f-b432-4cdc-a43e-56eb7c7f4d49/20260226T010126/6f7b126f-b432-4cdc-a43e-56eb7c7f4d49_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "17ad642c-244e-4b74-a6af-c9c8ef550ee7",
+      "description": "As part of the settlement, Fleet Farm was ordered to pay $1 million penalty, implement changes to Minnesota stores and release internal documents."
+    },
+    {
+      "title": "Judge mulling arguments in xAI's request to temporarily block Minnesota's AI \"nudification\" ban",
+      "summary": "",
+      "source": "CBS Minnesota",
+      "topic": "civil-litigation",
+      "url": "https://www.cbsnews.com/minnesota/news/hearing-xai-request-to-temporarily-block-minnesota-ai-nudification-ban/",
+      "published_at": "2026-08-19T17:24:05+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/19/f3813dfe-ca24-4592-bfaa-aa9672ba1e09/thumbnail/1024x576/80cf4e12aaee4050d4a9e7cf0a5851bd/gettyimages-2259623050.jpg",
+        "alt": ""
+      },
+      "uid": "602f5fe5-cef0-4101-a649-bd28300e1fbd",
+      "description": "There will be no decision Wednesday on xAI's request for a judge to temporarily block Minnesota's ban on AI \"nudification.\"",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    }
+  ]
+}

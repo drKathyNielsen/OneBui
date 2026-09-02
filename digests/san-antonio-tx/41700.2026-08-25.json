@@ -1,0 +1,47 @@
+{
+  "shortName": "San Antonio, TX",
+  "metroCode": "41700",
+  "metro": "San Antonio-New Braunfels, TX",
+  "date": "2026-08-25",
+  "are_you_ok": [],
+  "conversation_starters": [
+    {
+      "title": "'This is a game changer': Thousands of jobs expected from planned manufacturing facility on San Antonio's southeast side",
+      "summary": "The $200 million facility will occupy space at Brooks, the former Air Force base redeveloped into a business district on San Antonio's southeast side, and is expected to open by 2030.",
+      "source": "KENS 5",
+      "topic": "business-jobs",
+      "topics_secondary": [],
+      "url": "https://www.kens5.com/article/news/local/this-is-a-game-changer-thousands-of-jobs-expected-from-planned-manufacturing-facility-on-san-antonios-southeast-side/273-c58b74e9-0f68-4d1d-8fdb-db9c8f3e4380",
+      "published_at": "2026-08-25T23:25:09+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/bbc098fd-f24f-4d79-bd54-eb271bda3aa8/20260825T224436/bbc098fd-f24f-4d79-bd54-eb271bda3aa8_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "c4b0e00b-9702-46db-88b3-6f265f12a0b8",
+      "questions": [
+        "Have you heard much about the new plant coming to Brooks?",
+        "Is the southeast side of San Antonio an area you know well?"
+      ],
+      "description": "The $200 million facility will occupy space at Brooks and is expected to open by 2030."
+    }
+  ],
+  "sports": [],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "Texas lawmakers to review cuts to affordable child care scholarships as demand rises",
+      "summary": "",
+      "source": "KENS 5",
+      "topic": "public-benefits",
+      "topics_secondary": [],
+      "url": "https://www.kens5.com/article/news/local/texas/texas-lawmakers-to-review-cuts-to-affordable-child-care-scholarships-as-demand-rises/273-dbf8f645-20cd-4c83-8a15-3f78e77a961c",
+      "published_at": "2026-08-25T20:30:50+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/b7b79b15-cbaf-461e-970e-f9567289d515/20250806T013235/b7b79b15-cbaf-461e-970e-f9567289d515_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "32b9d3a5-8b57-4251-8c18-4768d4d2b187",
+      "description": "The Texas Workforce Commission said it plans to reduce the number of families it can serve by more than 14,000 in 2027."
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "shortName": "Boulder, CO",
+  "metroCode": "14500",
+  "metro": "Boulder, CO",
+  "date": "2026-08-29",
+  "are_you_ok": [],
+  "conversation_starters": [
+    {
+      "title": "Colorado family looking for answers after military helicopter crashes near their property",
+      "summary": "",
+      "source": "CBS Colorado",
+      "topic": "accident",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/colorado/video/colorado-family-looking-for-answers-after-military-helicopter-crashes-near-their-property/",
+      "published_at": "2026-08-29T23:44:00+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/29/d777d458-cc4d-416a-959f-15cf12d6192b/thumbnail/1024x576/ad2b2582f8012e47d659603afbc35454/4c4724ebe8f7b7d79d33db8873af93d3.jpg",
+        "alt": ""
+      },
+      "uid": "1466e297-fdd6-41ab-9911-b288a2f7d958",
+      "questions": [
+        "Did you hear about the Army helicopter that went down in Colorado?",
+        "Was the crash anywhere near you?"
+      ],
+      "description": "A U.S. Army Black Hawk helicopter went down in Colorado earlier this week, and a family that lives in a nearby home is now searching for answers.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    },
+    {
+      "title": "Residents back home after Moose Mountain Fire sparks in Northern Colorado",
+      "summary": "Evacuations lifted for residents in the area of Pinewood Springs, a small mountain town about 25 miles northwest of Boulder, in Larimer County, just north of Boulder County.",
+      "source": "CBS Colorado",
+      "topic": "weather-hazard",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/colorado/video/residents-back-home-after-moose-mountain-fire-sparks-in-northern-colorado/",
+      "published_at": "2026-08-29T04:09:00+00:00",
+      "image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/29/5c583689-8088-43a3-a2c9-7a7e15f7701a/thumbnail/1024x576/4b6fc9bebf42ba60dee2497d81b8ed03/a0e82af611fe699db3ef75f5757aad47.jpg",
+        "alt": ""
+      },
+      "uid": "c7c6a618-4699-4721-9215-bb01e90b6a65",
+      "questions": [
+        "Did the Moose Mountain Fire come close to anyone you know?",
+        "Does wildfire season change your plans this time of year?"
+      ],
+      "description": "Evacuations lifted for residents in the area of Pinewood Springs in Larimer County for the Moose Mountain Fire.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    }
+  ],
+  "sports": [
+    {
+      "team": "Broncos",
+      "scores": [
+        "cuts Prentice and 10 others",
+        "owner sees Super Bowl contender",
+        "Broncos 34, Vikings 6",
+        "families find affordable preseason seats"
+      ]
+    },
+    {
+      "team": "Avalanche",
+      "scores": [
+        "Makar signs record 8-year extension"
+      ]
+    }
+  ],
+  "weather_alert": [],
+  "you_should_know": []
+}

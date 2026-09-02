@@ -1,0 +1,115 @@
+{
+  "shortName": "San Antonio, TX",
+  "metroCode": "41700",
+  "metro": "San Antonio-New Braunfels, TX",
+  "date": "2026-08-26",
+  "are_you_ok": [],
+  "conversation_starters": [
+    {
+      "title": "‘Complete opposite’ | Donations lag as Texas Hill Country continues to deal with flood damage",
+      "summary": "Despite four times as many damaged homes and businesses, a nonprofit in the Hill Country, the region of hills and small towns just northwest of San Antonio, says donations and volunteers have dropped compared to the July 4, 2025 floods.",
+      "source": "KENS 5",
+      "topic": "weather-hazard",
+      "topics_secondary": [],
+      "url": "https://www.kens5.com/article/news/local/donations-lag-texas-hill-country-faces-greater-damage-2026-floods/269-2bd6bc3d-7e05-4d6e-bcf0-772d77a269c7",
+      "published_at": "2026-08-26T21:19:16+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KVUE/images/5c43b2f4-cefe-4ad6-ae20-1dcacc4c5a2c/20260717T230721/5c43b2f4-cefe-4ad6-ae20-1dcacc4c5a2c_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "26925394-b609-4e3a-bf49-d653212d4038",
+      "questions": [
+        "Have you been following the Hill Country flood recovery?",
+        "Is the Hill Country somewhere you spend much time?"
+      ],
+      "description": "Despite four times as many damaged homes and businesses, a Hill Country nonprofit says donations and volunteers have dropped compared to the July 4, 2025 floods."
+    },
+    {
+      "title": "San Antonio Zoo welcomes endangered tree kangaroo joey",
+      "summary": "",
+      "source": "KENS 5",
+      "topic": "human-interest",
+      "topics_secondary": [],
+      "url": "https://www.kens5.com/article/life/animals/joey-finni-tobai-endangered-conservation-pouch-wildaustralia-papuanewguinea-newborn/273-13be294a-de94-4dc7-aea8-e4f212872d0c",
+      "published_at": "2026-08-26T18:13:10+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/c80172dd-6cc9-4fee-b585-503685c6e849/20260826T150142/c80172dd-6cc9-4fee-b585-503685c6e849_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "c4e3f210-2441-4ca9-89d4-1c018e792874",
+      "questions": [
+        "Do you ever get out to the San Antonio Zoo?",
+        "Had you heard about the new tree kangaroo joey?"
+      ],
+      "description": "The joey is starting to peek from Finni’s pouch, marking an important birth for the endangered species."
+    },
+    {
+      "title": "San Antonio Animal Care Services celebrates National Dog Day with free adoptions",
+      "summary": "Looking for a new best friend? SAACS, San Antonio Animal Care Services, is offering $0 adoptions over the weekend as hundreds of dogs and puppies wait for homes.",
+      "source": "KENS 5",
+      "topic": "animal-welfare",
+      "topics_secondary": [],
+      "url": "https://www.kens5.com/article/life/pets/free-adoption-puppies-shelter-canine-matchmaking-foreverhome-august26-pets/273-f9091ad6-a906-4127-ba06-ed05298c523d",
+      "published_at": "2026-08-26T14:46:37+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/c1141232-53f0-4a4f-8cad-9c7e5ca8c944/c1141232-53f0-4a4f-8cad-9c7e5ca8c944_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "aaa47162-a0aa-49c1-b86a-ff86ad04a38b",
+      "questions": [
+        "Do you have any pets at home?",
+        "Have you ever adopted from San Antonio Animal Care Services?"
+      ],
+      "description": "Looking for a new best friend? SAACS is offering $0 adoptions through the weekend as hundreds of dogs and puppies wait for homes."
+    }
+  ],
+  "sports": [],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "San Antonio City Council could add rules for data center development, but some leaders concerned about all-out pause",
+      "summary": "Some San Antonio leaders said they want the ability to approve any data center project looking to break ground in the Alamo City, as San Antonio is nicknamed.",
+      "source": "KENS 5",
+      "topic": "technology",
+      "topics_secondary": [],
+      "url": "https://www.kens5.com/article/news/politics/san-antonio-city-council-could-add-rules-for-data-center-development-but-some-leaders-concerned-about-all-out-pause/273-35e3d06f-bc7a-485a-ba5f-fb15e3e9565f",
+      "published_at": "2026-08-26T03:18:25+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/256c8f57-2e5f-43fc-9e87-82e5ee710c02/20260826T031712/256c8f57-2e5f-43fc-9e87-82e5ee710c02_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "5dae12d0-21ef-4593-86d3-c7deb0df0888",
+      "description": "Some San Antonio leaders said they want the ability to approve any data center project looking to break ground in the Alamo City."
+    },
+    {
+      "title": "Kendall County commissioners unanimously vote not to renew Flock Safety contract",
+      "summary": "Kendall County, the Hill Country county about 30 miles northwest of San Antonio, voted to end its contract with Flock Safety after resident pushback against automated license plate cameras, citing privacy concerns.",
+      "source": "KENS 5",
+      "topic": "policing",
+      "topics_secondary": [],
+      "url": "https://www.kens5.com/article/news/politics/kendall-county-commissioners-unanimously-vote-not-renew-flock-safety-contract-texas-privacy-concerns/273-9abe1f4a-3e06-4ddb-97c8-21874ed9531b",
+      "published_at": "2026-08-26T03:14:12+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/0fc609ed-8658-4cdb-b253-6f934e3638f6/20260826T031131/0fc609ed-8658-4cdb-b253-6f934e3638f6_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "4c5a7279-9bb3-43bf-bf83-8a5e726cbe96",
+      "description": "Kendall County voted to end its contract with Flock Safety after resident pushback against automated license plate cameras, citing privacy concerns."
+    },
+    {
+      "title": "Man accused of making threats against San Antonio officials on Facebook, affidavit says",
+      "summary": "",
+      "source": "KENS 5",
+      "topic": "violent-crime",
+      "topics_secondary": [],
+      "url": "https://www.kens5.com/article/news/crime/san-antonio-officials-texas-timothy-alejos-facebook-terroristic-threats/273-45be7b94-dbc2-4d82-8e30-0158ea8c5a14",
+      "published_at": "2026-08-26T22:30:21+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/d157126f-661c-42f0-9998-c3162ce508c5/20260826T221716/d157126f-661c-42f0-9998-c3162ce508c5_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "902337f0-7e44-469e-8420-6c3a01c56e5d",
+      "description": "Timothy Alejos, 38, has been charged with terroristic threat involving impairment of public service, public fear of serious bodily injury or influencing government."
+    }
+  ]
+}

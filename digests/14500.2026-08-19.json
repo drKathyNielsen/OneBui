@@ -1,0 +1,196 @@
+{
+  "shortName": "Boulder, CO",
+  "metroCode": "14500",
+  "metro": "Boulder, CO",
+  "date": "2026-08-19",
+  "are_you_ok": [],
+  "conversation_starters": [
+    {
+      "title": "Rüfüs Du Sol in Colorado: What to know for the stadium concert",
+      "summary": "Rufus Du Sol is set to electrify Colorado with its largest North American headline tour, performing at CU Boulder's Folsom Field, the university's football stadium in the middle of the city.",
+      "source": "9NEWS",
+      "topic": "civic-events",
+      "url": "https://www.9news.com/article/entertainment/music/colorado-music/rufus-du-sol-folsom-field-stadium-colorado-concert/73-6f749886-4aa4-4874-9778-8536425e8a7c",
+      "published_at": "2026-08-19T15:53:02+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/c455c46c-547c-46b9-8620-71367d86a555/20260819T152840/c455c46c-547c-46b9-8620-71367d86a555_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "3e4cc333-1b49-422b-ac5f-4390d80f513d",
+      "questions": [
+        "Do the big shows at Folsom Field change how the city feels for a weekend?",
+        "Are you someone who goes to the stadium concerts, or do you steer clear?"
+      ],
+      "description": "Rüfüs Du Sol is set to electrify Colorado with its largest North American headline tour, performing at CU Boulder's Folsom Field this Saturday."
+    },
+    {
+      "title": "Boulder County opens new quantum computing facility",
+      "summary": "The Colorado Quantum Innovation Center will serve as Inflection's headquarters in Louisville, a small city about 10 miles southeast of Boulder.",
+      "source": "CBS Colorado",
+      "topic": "business-jobs",
+      "url": "https://www.cbsnews.com/colorado/news/boulder-county-reveals-new-quantum-computing-center/",
+      "published_at": "2026-08-19T19:28:24+00:00",
+      "image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/19/4bf3aa60-6fce-4a0b-92cc-dd27026c9dd4/thumbnail/1024x576/38874596c432e6ce390fa813303eee22/boulder-quantum-6vo-transfer-frame-23.jpg",
+        "alt": ""
+      },
+      "uid": "f3c9b0db-ca7c-4dd8-a855-90286410bc74",
+      "questions": [
+        "Have you heard much about the new quantum center opening in Louisville?",
+        "Does the growth in that kind of research show up around town at all?"
+      ],
+      "description": "The Colorado Quantum Innovation Center will serve as Inflection's headquarters in Louisville.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    },
+    {
+      "title": "Drought conditions prompt 8 fish salvages across Colorado",
+      "summary": "",
+      "source": "9NEWS",
+      "topic": "drought-water",
+      "url": "https://www.9news.com/article/news/local/colorado-fish-salvages-drought-water/73-2996d504-6269-41fe-8f89-3aba26b83c58",
+      "published_at": "2026-08-19T22:50:52+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/e48baee1-2e87-4a3b-87a7-2e8397511726/20260819T223952/e48baee1-2e87-4a3b-87a7-2e8397511726_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "a2e90bf3-ea52-404b-9ad6-a04fddfbe4fa",
+      "questions": [
+        "Are you noticing the drought where you are?",
+        "Do you fish or get out on the water around there?"
+      ],
+      "description": "Colorado’s worsening drought is driving emergency fish salvages as shrinking water supplies put thousands of fish at risk."
+    },
+    {
+      "title": "Bear crashes CSU move-in day, giving students a Colorado welcome",
+      "summary": "Around 3,200 students were expected to move into Colorado State University's campus in Fort Collins, a city about 45 miles north of Boulder. One bear decided to join the fun.",
+      "source": "9NEWS",
+      "topic": "wildlife",
+      "url": "https://www.9news.com/article/news/local/bear-crashes-csu-move-in-day/73-2c3ea266-8c74-44db-b615-9dcd497e1331",
+      "published_at": "2026-08-19T16:20:37+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/f8c64811-8204-4777-80d8-a079806cf560/20260818T224540/f8c64811-8204-4777-80d8-a079806cf560_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "2d7d516f-ff1b-4b62-93b4-dfca9f470137",
+      "questions": [
+        "Did you see the story about the bear turning up for move-in at CSU?",
+        "Are bear sightings a normal part of late summer where you are?"
+      ],
+      "description": "Around 3,200 students were expected to move into Colorado State University's campus Tuesday. One bear decided to join the fun."
+    },
+    {
+      "title": "Denver science museum opening new wing after $20M donation",
+      "summary": "",
+      "source": "9NEWS",
+      "topic": "other",
+      "url": "https://www.9news.com/article/life/style/colorado-guide/denver-nature-science-museum-sturm-family-wing/73-cb747b39-8389-40e4-9165-35c481247ac5",
+      "published_at": "2026-08-19T12:48:21+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/d7df3c9c-960b-46b1-adf4-e52d03e6e039/20260818T151652/d7df3c9c-960b-46b1-adf4-e52d03e6e039_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "a500df53-cc43-4c7e-9336-040f420c807f",
+      "questions": [
+        "Have you been to the Denver science museum recently?",
+        "Is the new wing something you would make a trip for?"
+      ],
+      "description": "The Denver Museum of Nature & Science is set to unveil its new Sturm Family Wing and revamped theater, thanks to a record-breaking $20 million donation."
+    },
+    {
+      "title": "Colorado firefighters say bear broke into home and started fire",
+      "summary": "A kitchen fire was started by a bear after the animal broke into a home in Crested Butte, a small mountain town about 150 miles southwest of Boulder.",
+      "source": "CBS Colorado",
+      "topic": "wildlife",
+      "url": "https://www.cbsnews.com/colorado/news/colorado-firefighters-bear-home-started-fire/",
+      "published_at": "2026-08-19T16:06:42+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/19/069c7c1f-9876-4abd-b82b-956694e71bc3/thumbnail/1024x576/b28b35d75d9c52e745c60e301b468e56/map.png",
+        "alt": ""
+      },
+      "uid": "0774f7a1-7e8f-443f-9a70-01f65d9aedeb",
+      "questions": [
+        "Did you catch the story about the bear that set off a kitchen fire?",
+        "Do people where you are take extra steps to keep bears out this time of year?"
+      ],
+      "description": "A kitchen fire was started by a bear after the animal broke into a home in Crested Butte.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    }
+  ],
+  "sports": [
+    {
+      "team": "Rockies",
+      "scores": [
+        "unveiling Larry Walker statue Sunday",
+        "fall to Dodgers as Ohtani homers"
+      ]
+    },
+    {
+      "team": "Broncos",
+      "scores": [
+        "names new team behind mascot Thunder"
+      ]
+    }
+  ],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "Colorado regulators approve Xcel Energy rate increase, raising monthly electric bills",
+      "summary": "",
+      "source": "CBS Colorado",
+      "topic": "other",
+      "url": "https://www.cbsnews.com/colorado/news/colorado-regulators-xcel-energy-rate-increase-electric-bills/",
+      "published_at": "2026-08-19T20:40:57+00:00",
+      "image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/19/3ed50675-ab42-4f09-b8f0-3f1adf775294/thumbnail/1024x576/33d9fa56956203a952ddf6128171ae1d/gettyimages-1405271157-1.jpg",
+        "alt": ""
+      },
+      "uid": "c18ca92c-6db7-4805-816c-2439522d20a5",
+      "description": "Under the approved plan, residential customers will see an average increase of about $5 per month, while commercial customers will pay about $7 more each month.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    },
+    {
+      "title": "Boulder will begin collecting its new transportation fee in 2027",
+      "summary": "",
+      "source": "Boulder Reporting Lab",
+      "topic": "transportation",
+      "url": "https://boulderreportinglab.org/2026/08/18/boulder-will-begin-collecting-its-new-transportation-fee-in-2027/",
+      "published_at": "2026-08-19T04:57:23+00:00",
+      "image": {
+        "url": "https://i0.wp.com/boulderreportinglab.org/wp-content/uploads/2024/07/DSC01173-scaled.jpeg?fit=1024%2C683&ssl=1",
+        "alt": ""
+      },
+      "uid": "f437dd75-ff39-4626-938b-895d882e5fab",
+      "description": "Boulder plans to begin collecting its new transportation maintenance fee in 2027. The fee is intended to provide a steady source of funding as revenue from city sales taxes levels off. The fee was approved by city council in 2025, with funds to be used for repairs and",
+      "logo": "https://boulderreportinglab.org/wp-content/uploads/2021/06/cropped-brl-favicon-32x32.png"
+    },
+    {
+      "title": "Colorado sues Aurora ICE detention facility over failure to comply in tuberculosis investigation",
+      "summary": "A case of active tuberculosis was first reported at the detention facility in Aurora, a large suburb 40 miles SE of Boulder, in June. Health officials said they have been stonewalled in their investigation.",
+      "source": "9NEWS",
+      "topic": "immigration-enforcement",
+      "url": "https://www.9news.com/article/news/local/colorado-sues-aurora-ice-detention-facility-operators-to-force-cooperation-in-tuberculosis-investigation/73-b927e4a2-6915-4422-876b-94289a1c1141",
+      "published_at": "2026-08-19T23:45:11+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/cfa9ac1e-003f-45b5-9a29-c4eaf75b9782/20260801T004916/cfa9ac1e-003f-45b5-9a29-c4eaf75b9782_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "054dffa4-7472-4f83-abff-8516663f5feb",
+      "description": "A case of active tuberculosis was first reported at the facility in June. Health officials said they have been stonewalled in their investigation."
+    },
+    {
+      "title": "Colorado among states suing Meta, company behind Facebook and Instagram",
+      "summary": "",
+      "source": "CBS Colorado",
+      "topic": "civil-litigation",
+      "url": "https://www.cbsnews.com/colorado/video/colorado-among-states-suing-meta-company-behind-facebook-and-instagram/",
+      "published_at": "2026-08-19T13:29:00+00:00",
+      "image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/19/589357a4-3c95-47c3-8fcd-95f7fd59b5cf/thumbnail/1024x576/85f8681a04102a874d7e680aa4d33596/81f6a089ca7232a3dd12268d17138e8c.jpg",
+        "alt": ""
+      },
+      "uid": "a2b16f12-d701-484d-882c-17a89bcdaec7",
+      "description": "Colorado is among 29 states suing Meta, the company behind Facebook and Instagram, over the social media platforms and claims of addiction for children.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    }
+  ]
+}

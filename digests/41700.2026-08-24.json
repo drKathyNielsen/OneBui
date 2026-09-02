@@ -1,0 +1,74 @@
+{
+  "shortName": "San Antonio, TX",
+  "metroCode": "41700",
+  "metro": "San Antonio-New Braunfels, TX",
+  "date": "2026-08-24",
+  "are_you_ok": [
+    {
+      "title": "UTSA students return to class after cybersecurity incident delays fall semester",
+      "summary": "About 42,000 students are starting the fall semester after UTSA, the University of Texas at San Antonio, pushed back classes while it worked to restore systems after attempted unauthorized network activity.",
+      "source": "KENS 5",
+      "topic": "technology",
+      "url": "https://www.kens5.com/article/news/local/roadrunners-cyber-security-pass-phrase-campus-semester-network-aerospace-san-pedro-computing-classes/273-4fc3394d-139e-4152-8b42-3886ecee8711",
+      "published_at": "2026-08-24T11:43:37+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/16237bdd-456e-4724-aa13-809a4f60ac5a/20260824T114213/16237bdd-456e-4724-aa13-809a4f60ac5a_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "7b4f8907-4e45-4423-ac21-9ddcb61d66f7",
+      "questions": [
+        "Did the delayed start at UTSA affect anyone in your family or circle?",
+        "How have things felt around San Antonio while UTSA sorted out the cybersecurity issue?"
+      ],
+      "description": "About 42,000 students are starting the fall semester after UTSA pushed back classes while it worked to restore systems after attempted unauthorized network activity."
+    }
+  ],
+  "conversation_starters": [
+    {
+      "title": "San Antonio native Jordan Clarkson honored for giving back to his hometown",
+      "summary": "",
+      "source": "KENS 5",
+      "topic": "human-interest",
+      "url": "https://www.kens5.com/article/news/local/clarkson-knicks-wagner-filipino-champion-hometown-charity-golf-ac3-recognition-nba/273-c54824b5-e4aa-4532-b8fe-47be93b96ccb",
+      "published_at": "2026-08-24T12:56:35+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/cee1eaef-936b-44da-b214-4303bbe48b33/20260824T115435/cee1eaef-936b-44da-b214-4303bbe48b33_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "365e6bd7-ee5d-4b2b-8621-5abe7def675c",
+      "questions": [
+        "Did you see that Jordan Clarkson got honored for giving back to San Antonio?",
+        "Do people in San Antonio keep up with hometown players once the players reach the NBA?"
+      ],
+      "description": "The San Antonio native was honored for his NBA success and continued commitment to his hometown."
+    }
+  ],
+  "sports": [],
+  "weather_alert": [
+    {
+      "uid": "4ed7d616-fa35-5729-9e9d-6600a6a7d7ad",
+      "event": "Heat Advisory",
+      "area": "Atascosa, Bexar +3 more",
+      "severity": "Moderate",
+      "summary": "Heat Advisory: temperatures up to 105 and heat index values up to 110 expected across Bexar, Atascosa, south of San Antonio, Comal and Guadalupe, just northeast of San Antonio, and Wilson County, the rural county southeast of San Antonio. Hot temperatures and high humidity may cause heat illnesses.",
+      "description": "Heat Advisory issued August 23 at 7:11PM CDT until August 26 at 7:00PM CDT by NWS Austin/San Antonio TX\n\n* WHAT...Temperatures up to 105 and heat index values up to 110\nexpected.\n\n* WHERE...Atascosa, Bexar, Comal, De Witt, Guadalupe, Hays, Karnes,\nand Wilson Counties.\n\n* WHEN...Until 7 PM CDT Wednesday.\n\n* IMPACTS...Hot temperatures and high humidity may cause heat\nillnesses.",
+      "ends": "2026-08-26T19:00:00-05:00"
+    }
+  ],
+  "you_should_know": [
+    {
+      "title": "Texas data center fight heats up as Democrats demand special session",
+      "summary": "",
+      "source": "KENS 5",
+      "topic": "technology",
+      "url": "https://www.kens5.com/article/news/local/data-centers-abbott-hinojosa-power-grid-electricity-special-session-lawmakers-energy-regulation-election/273-69d8d9f3-0303-4191-b9a4-9ddb86407bbb",
+      "published_at": "2026-08-24T11:10:17+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/17becf86-d6be-46c4-9426-56b4f7c0e680/20260824T110936/17becf86-d6be-46c4-9426-56b4f7c0e680_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "2830a1a6-6365-40f4-843e-13217b92e52d",
+      "description": "Gov. Greg Abbott has paused new data center projects while the state reviews their impact on the power grid, but Democrats say Texas needs legislative action."
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "shortName": "San Antonio, TX",
+  "metroCode": "41700",
+  "metro": "San Antonio-New Braunfels, TX",
+  "date": "2026-09-01",
+  "are_you_ok": [
+    {
+      "title": "Number of CPS Energy customers without power drops to the hundreds days after storms tear through San Antonio",
+      "summary": "Temperatures inside a family's home on the southwest side of San Antonio have sat in the low 90s.",
+      "source": "KENS 5",
+      "topic": "weather-hazard",
+      "topics_secondary": [],
+      "url": "https://www.kens5.com/article/news/local/number-of-cps-energy-customers-without-power-drops-to-the-hundreds-days-after-storms-tear-through-san-antonio/273-1fa74fb5-b032-49b5-90bf-ee5c3da1dfe3",
+      "published_at": "2026-09-01T03:37:16+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/307e1b66-6d00-4930-adca-b4ed0c3c782f/20260901T032409/307e1b66-6d00-4930-adca-b4ed0c3c782f_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "dfbc0527-08ac-42e0-9480-c1b8202f06d3",
+      "questions": [
+        "The storms knocked out power across San Antonio for days — is the power back on at your place?",
+        "How did your household get through the days without air conditioning?",
+        "Did your neighborhood see much damage from the storms?"
+      ],
+      "description": "Temperatures inside a family's home on the southwest side have sat in the low 90s."
+    }
+  ],
+  "conversation_starters": [],
+  "sports": [
+    {
+      "team": "UTSA",
+      "scores": [
+        "hosts UTRGV in season opener"
+      ]
+    }
+  ],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "Man arrested after allegedly threatening to shoot up San Antonio elementary school in AI chats, affidavit says",
+      "summary": "",
+      "source": "KENS 5",
+      "topic": "violent-crime",
+      "topics_secondary": [],
+      "url": "https://www.kens5.com/article/news/crime/neisd-man-threatens-shoot-school-ai-chat-serna-elementary-neisd/273-f44b44c5-5ea3-4d9c-b50f-9e87d2bcc6cb",
+      "published_at": "2026-09-01T03:00:21+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/aa8aff47-70d3-4768-928b-f9c785fa322f/20260901T024736/aa8aff47-70d3-4768-928b-f9c785fa322f_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "60a13d00-fcf4-46a4-a0d5-e564e753d9c8",
+      "description": "One quote from the chat included: \"I'm getting a gun as soon as I can, and when Serna Elementary starts, I'm just gonna walk in there and start shooting up kids.\""
+    },
+    {
+      "title": "Feds ordered to extend pause on Big Bend border construction, state senator says",
+      "summary": "",
+      "source": "KENS 5",
+      "topic": "civil-litigation",
+      "topics_secondary": [],
+      "url": "https://www.kens5.com/article/news/local/texas/feds-ordered-to-extend-halt-on-big-bend-border-construction-texas-senator-says/273-e9554ecf-081c-4549-ada1-c0db94ce7183",
+      "published_at": "2026-09-01T03:53:18+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/1e75c3eb-7793-4183-b16e-22d991310dd7/20260901T035207/1e75c3eb-7793-4183-b16e-22d991310dd7_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "ad1c6b74-363f-4684-a3f8-35b6421bb790",
+      "description": "The pause, previously in place until Sept. 15, was extended by 15 days, Texas State Senator Roland Gutierrez said Monday afternoon."
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "shortName": "Minneapolis, MN",
+  "metroCode": "33460",
+  "metro": "Minneapolis-St. Paul-Bloomington, MN-WI",
+  "date": "2026-09-01",
+  "are_you_ok": [
+    {
+      "title": "More vehicle windows smashed overnight in northeast Minneapolis",
+      "summary": "",
+      "source": "CBS Minnesota",
+      "topic": "property-crime",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/minnesota/news/northeast-minneapolis-vehicle-break-ins-waite-park-holland-neighborhoods/",
+      "published_at": "2026-09-01T12:11:29+00:00",
+      "image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/01/cedd88e6-06b1-4950-bc41-39a6b16fa0c7/thumbnail/1024x576/3741e21990573d79815c01e1f9674c40/window-smash.jpg",
+        "alt": ""
+      },
+      "uid": "6f4c9580-9834-4bf9-aaf1-8cb49ac4e976",
+      "questions": [
+        "Have any cars in your neighborhood been broken into recently?",
+        "Do you end up parking on the street overnight?"
+      ],
+      "description": "Minneapolis police are investigating at least two vehicle break-in incidents this week where nine vehicles were damaged.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    },
+    {
+      "title": "Everything Sprouts in Minneapolis expands recall as FDA eyes seed supplier in multistate outbreak",
+      "summary": "",
+      "source": "FOX 9",
+      "topic": "product-recall",
+      "topics_secondary": [
+        "health-hazard"
+      ],
+      "url": "https://www.fox9.com/news/everything-sprouts-minneapolis-expands-recall-fda-eyes-seed-supplier-multistate-outbreak-aug-2026",
+      "published_at": "2026-09-01T02:14:26+00:00",
+      "image": {
+        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/08/vlcsnap-2026-08-31-20h13m26s742.jpg",
+        "alt": ""
+      },
+      "uid": "5e18ea7c-c456-4152-88d2-0ff4613a8dc7",
+      "questions": [
+        "Has the sprouts recall come up at the grocery stores near you?",
+        "Do you keep an eye on recall notices, or is that easy to miss?"
+      ],
+      "description": "A Minneapolis sprouts distributor is now expanding its recall as federal investigators dig deeper into a nationwide salmonella and E. coli outbreak – and the seed supplier that may connect it all."
+    }
+  ],
+  "conversation_starters": [
+    {
+      "title": "Minnesota weather: Twin Cities experiences 5th warmest summer on record",
+      "summary": "",
+      "source": "FOX 9",
+      "topic": "drought-water",
+      "topics_secondary": [
+        "weather-forecast"
+      ],
+      "url": "https://www.fox9.com/weather/twin-cities-experiences-5th-warmest-summer-record",
+      "published_at": "2026-09-01T14:56:03+00:00",
+      "image": {
+        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/09/warmest-summer-on-record.jpg",
+        "alt": ""
+      },
+      "uid": "cddbebf6-f5e5-4dc4-8b27-8658d5233717",
+      "questions": [
+        "Did this summer feel hotter and drier than usual where you are?",
+        "Has the drought changed anything about watering the yard or garden?"
+      ],
+      "description": "Meteorological summer is over, and if you thought this summer was unusually hot and dry, you were right. It was officially the fifth-hottest summer on record for the Twin Cities metro, and also one of the driest."
+    }
+  ],
+  "sports": [
+    {
+      "team": "Twins",
+      "scores": [
+        "Twins 11, Tigers 1"
+      ]
+    }
+  ],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "Vance Boelter to rely on \"justifiable taking of life\" and \"double jeopardy\" defenses in state trial",
+      "summary": "",
+      "source": "CBS Minnesota",
+      "topic": "violent-crime",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/minnesota/news/vance-boelter-defenses-court-state-trial/",
+      "published_at": "2026-09-01T00:34:14+00:00",
+      "image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/03/c8aee7a4-bde5-4d7e-97e7-7a3246e0af90/thumbnail/1024x576/29cd42a8a203e8d9e2168b85a0c653f6/afd033d7-cff5-4abc-8d66-bd29ea487c0d.jpg",
+        "alt": ""
+      },
+      "uid": "aecb321b-8b74-423e-af6a-9a4b87c5c76e",
+      "description": "Vance Boelter, the man sentenced by a federal court to two life terms and an additional 40 years for killing a Minnesota lawmaker and her husband, is planning to rely upon the defenses of \"justifiable taking of life\" and \"double jeopardy\" in the state case against him, court",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    },
+    {
+      "title": "13% of Minnesota, Wisconsin kindergartners didn't get standard vaccinations, CDC data shows",
+      "summary": "",
+      "source": "CBS Minnesota",
+      "topic": "public-health",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/minnesota/news/vaccinations-minnesota-wisconsin-kindergartners-cdc-data/",
+      "published_at": "2026-09-01T14:34:26+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/21/c4c9a429-4077-4a69-9ac9-5246b9b10e43/thumbnail/1024x576/6f5a07a3926074fe01a2ede747309359/cbsn-fusion-kindergarten-vaccine-exemptions-hit-record-42-cdc-says-thumbnail.jpg",
+        "alt": ""
+      },
+      "uid": "f59e17fd-2375-409d-b24e-78ce7c7a74ce",
+      "description": "This year, your kid may be more likely to catch a back-to-school bug, as fewer students are getting their shots than at any time in the past decade.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    },
+    {
+      "title": "Shakopee city council considers changes after noise complaints at new amphitheater",
+      "summary": "Mayor Matt Lehman says he's fielded concerns from people in Eden Prairie, a suburb about 12 miles southwest of Minneapolis, and Bloomington, a suburb about 10 miles south of Minneapolis.",
+      "source": "KARE 11",
+      "topic": "government",
+      "topics_secondary": [],
+      "url": "https://www.kare11.com/article/news/local/shakopee-city-council-considers-changes-noise-complaints-new-amphitheater/89-1640a40c-b6fd-4068-af82-419754ba7608",
+      "published_at": "2026-09-01T03:14:39+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/d4c27a60-e811-44b3-a52e-4d109f91c29b/20260901T012058/d4c27a60-e811-44b3-a52e-4d109f91c29b_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "3ce0dcd9-a711-4f21-b6d6-1430ce1bf2cd",
+      "description": "Mayor Matt Lehman says he's fielded concerns from people in Eden Prairie and Bloomington."
+    }
+  ]
+}

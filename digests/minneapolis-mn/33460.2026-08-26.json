@@ -1,0 +1,119 @@
+{
+  "shortName": "Minneapolis, MN",
+  "metroCode": "33460",
+  "metro": "Minneapolis-St. Paul-Bloomington, MN-WI",
+  "date": "2026-08-26",
+  "are_you_ok": [],
+  "conversation_starters": [
+    {
+      "title": "Boston Scientific hit by cybersecurity incident",
+      "summary": "According to Boston Scientific, the medical device manufacturer, the incident impacted certain operating systems, including the ability to process and ship customers' orders.",
+      "source": "KARE 11",
+      "topic": "technology",
+      "topics_secondary": [],
+      "url": "https://www.kare11.com/article/news/local/boston-scientific-cybersecurity-incident/89-d6e0bc57-5984-4102-bd0e-6291c1ad8aac",
+      "published_at": "2026-08-26T20:13:59+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/ded629a3-0baa-4a43-9951-2add6ae82d96/20260826T201046/ded629a3-0baa-4a43-9951-2add6ae82d96_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "1bd77953-b15d-49ec-82ff-2b9f917a5bde",
+      "questions": [
+        "Has the Boston Scientific cybersecurity incident touched anyone you know?",
+        "Is Boston Scientific a big employer around Minneapolis?"
+      ],
+      "description": "According to the company, the incident impacted certain operating systems, including the ability to process and ship customers' orders."
+    },
+    {
+      "title": "Emerald ash borer in Minnesota: Over a billion ash trees at risk as spread moves north",
+      "summary": "",
+      "source": "FOX 9",
+      "topic": "environment-conservation",
+      "topics_secondary": [],
+      "url": "https://www.fox9.com/news/emerald-ash-borer-minnesota-over-billion-ash-trees-risk-spread-moves-north",
+      "published_at": "2026-08-26T01:38:59+00:00",
+      "image": {
+        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/08/gettyimages-2207331067.jpg",
+        "alt": ""
+      },
+      "uid": "a57510b7-2844-460c-ba9e-2bd553aad250",
+      "questions": [
+        "Are ash trees coming down in your neighborhood?",
+        "Has the emerald ash borer changed how the streets look where you live?"
+      ],
+      "description": "More than a billion ash trees in Minnesota are under threat from a tiny but destructive invasive insect — and the fight to stop it has been going on for more than 15 years."
+    },
+    {
+      "title": "University of Minnesota launches new ice cream",
+      "summary": "",
+      "source": "CBS Minnesota",
+      "topic": "human-interest",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/minnesota/video/university-of-minnesota-launches-new-ice-cream/",
+      "published_at": "2026-08-26T22:31:00+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/26/372a9aa8-7e85-4523-ab25-4dc4edfe1b4e/thumbnail/1024x576/734edaac0766f72a06b1a6e79442a1b8/a12c19554831f6dabf4ea74d8e1c83e9.jpg",
+        "alt": ""
+      },
+      "uid": "c4eafa7c-b822-4307-a8ad-930196665a28",
+      "questions": [
+        "Have you tried the new University of Minnesota ice cream?",
+        "Is the university's 175th anniversary getting much attention around town?"
+      ],
+      "description": "The University of Minnesota put out a challenge ahead of its 175 anniversary.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    },
+    {
+      "title": "Dolly Parton’s legacy lives on in Minnesota through music and books",
+      "summary": "",
+      "source": "KARE 11",
+      "topic": "celebrity-entertainment",
+      "topics_secondary": [],
+      "url": "https://www.kare11.com/article/news/entertainment-news/dolly-partons-legacy-lives-in-minnesota-through-music-and-books/89-8f1b0789-a7c5-4d10-8c4f-9a411710de97",
+      "published_at": "2026-08-26T15:45:03+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/c6d98f31-7a1f-462d-b31e-c7661ce3d179/20260826T154401/c6d98f31-7a1f-462d-b31e-c7661ce3d179_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "58e46871-9781-40fc-ab19-cc97c125eb25",
+      "questions": [
+        "Did your family ever get books from Dolly Parton's Imagination Library?",
+        "Is the Imagination Library active where you live?"
+      ],
+      "description": "Dolly Parton's Imagination Library launched in 1995 and has since mailed more than 300 million books to children around the world."
+    }
+  ],
+  "sports": [
+    {
+      "team": "Timberwolves",
+      "scores": [
+        "signs forward Jonathan Kuminga"
+      ]
+    },
+    {
+      "team": "Twins",
+      "scores": [
+        "Athletics 4, Twins 2"
+      ]
+    }
+  ],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "Minnesota’s Inspector General office launches",
+      "summary": "Four members of the DFL, Minnesota's Democratic-Farmer-Labor Party, and four Republicans split between the state House and Senate met as part of their work on the state's new office of the Inspector General.",
+      "source": "CBS Minnesota",
+      "topic": "government",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/minnesota/video/minnesotas-inspector-general-office-launches/",
+      "published_at": "2026-08-26T22:29:00+00:00",
+      "image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/26/a2d82b74-440a-48d2-a7fe-469133d8b924/thumbnail/1024x576/c4e2659b18c49e6b38e3ed68bc684ddc/97ae3370699427f62aa9b5d915a862bc.jpg",
+        "alt": ""
+      },
+      "uid": "80c7e117-f369-484f-b71d-b18afc348ba3",
+      "description": "Four DFL members and four Republicans split between the state House and Senate met on Wednesday as part of their work on the state’s new office of the Inspector General.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    }
+  ]
+}

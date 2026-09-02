@@ -1,0 +1,128 @@
+{
+  "shortName": "Boulder, CO",
+  "metroCode": "14500",
+  "metro": "Boulder, CO",
+  "date": "2026-08-31",
+  "are_you_ok": [
+    {
+      "title": "Monsoon moisture moves in bringing a risk of flooding a severe storms to Colorado",
+      "summary": "Monsoon moisture is moving into Colorado, bringing a risk of flooding and severe storms across the state.",
+      "source": "CBS Colorado",
+      "topic": "weather-hazard",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/colorado/video/monsoon-moisture-moves-in-bringing-a-risk-of-flooding-a-severe-storms-to-colorado/",
+      "published_at": "2026-08-31T14:09:00+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/31/7b95c82e-7765-4d6f-b22d-33d28b6ab607/thumbnail/1024x576/cdb1ddf9351b4eb7e1a45d2939f11523/463c1e5110d25d7bdede34d3b9000ab0.jpg",
+        "alt": ""
+      },
+      "uid": "fc841032-d81e-48c4-b61b-328a336f8137",
+      "questions": [
+        "Did the storms bring any flooding around Boulder?",
+        "Has the heavy rain made the roads around town harder to get through?"
+      ],
+      "description": "Watch Alex Lehnert's forecast",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    },
+    {
+      "title": "Northern Colorado health officials confirm first West Nile Virus case in Weld County",
+      "summary": "Health officials confirmed the first case of West Nile virus this year in Weld County, a largely rural county about 30 miles northeast of Boulder.",
+      "source": "CBS Colorado",
+      "topic": "health-hazard",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/colorado/news/first-west-nile-virus-case-weld-county-colorado-2026/",
+      "published_at": "2026-08-31T22:56:15+00:00",
+      "image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/07/22/a1a2fc5d-fcdd-4b6b-bbb1-ec8307517126/thumbnail/1024x576/a3300ec91abd5ac5ac97ea31cffd4371/gettyimages-1325731071.jpg",
+        "alt": ""
+      },
+      "uid": "9b2cbe0a-d053-45f1-91a1-7b0c8e0d5128",
+      "questions": [
+        "Have the mosquitoes been bad around Boulder this year?",
+        "Is the West Nile case in Weld County something people nearby are watching?"
+      ],
+      "description": "On Monday, health officials confirmed the first case of West Nile Virus found in Weld County this year.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    }
+  ],
+  "conversation_starters": [
+    {
+      "title": "Bear spotted outside Northern Colorado school ready to head back to class",
+      "summary": "A small bear was spotted outside B.F. Kitchen Elementary School in southwest Loveland, a city about 30 miles north of Boulder.",
+      "source": "CBS Colorado",
+      "topic": "wildlife",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/colorado/news/bear-northern-colorado-loveland-school-class/",
+      "published_at": "2026-08-31T18:27:12+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/31/a66e507b-6753-4b81-8641-5d1d04c53ebd/thumbnail/1024x576/ae9991082d32d6d984633e2816e41296/bear-at-school-1-still-from-video-credit-aja-hemmati.png",
+        "alt": ""
+      },
+      "uid": "ff06489a-e1f0-46b2-893c-d570c93d3f96",
+      "questions": [
+        "Do bears turn up around town in Boulder too?",
+        "Has a bear ever shown up near the neighborhood?"
+      ],
+      "description": "A small bear was spotted outside B.F. Kitchen Elementary School in southwest Loveland early Monday morning.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    },
+    {
+      "title": "Halloween festival brings thousands of jack-o’-lanterns to Colorado",
+      "summary": "",
+      "source": "9NEWS",
+      "topic": "culture-events",
+      "topics_secondary": [],
+      "url": "https://www.9news.com/article/life/holidays/halloween/magic-jack-o-lanterns-festival-denver/73-f886e264-f39d-4464-b35b-2a5b5e953a8e",
+      "published_at": "2026-08-31T17:20:28+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/7283a048-3340-45e6-8fa3-e48e61cf44f9/7283a048-3340-45e6-8fa3-e48e61cf44f9_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "3e459bd6-f0a3-4d6f-9090-ce7029c7d6e8",
+      "questions": [
+        "Is the jack-o'-lantern festival a yearly tradition around Colorado?",
+        "Would the Halloween festival be worth the drive?"
+      ],
+      "description": "Approximately every 30 minutes, illuminated jack o’ lanterns and displays dance along to music, transforming the trail into a glowing Halloween spectacle."
+    }
+  ],
+  "sports": [
+    {
+      "team": "Broncos",
+      "scores": [
+        "pleads not guilty, trial in November"
+      ]
+    },
+    {
+      "team": "Rams",
+      "scores": [
+        "opens Pac-12 era vs Wyoming"
+      ]
+    },
+    {
+      "team": "Buffaloes",
+      "scores": [
+        "new videoboard, in-game host at Folsom"
+      ]
+    }
+  ],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "The only domestic violence shelter in Northern Colorado city could close during high demand",
+      "summary": "Safe Shelter at St Vrain Valley, the only domestic violence shelter in Longmont, a city about 15 miles northeast of Boulder, says it needs to raise $295,000 by the end of the year to keep all of its services open.",
+      "source": "CBS Colorado",
+      "topic": "public-benefits",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/colorado/news/domestic-violence-shelter-northern-colorado-high-demand/",
+      "published_at": "2026-08-31T17:35:39+00:00",
+      "image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/31/2de250f0-c0f8-4a83-b2f7-c7c61c91e6d5/thumbnail/1024x576/148d41b6cf0428e692c0b78aedf718a2/longmont-dv-center-10pkg-transfer-frame-2774.jpg",
+        "alt": ""
+      },
+      "uid": "9722ca02-b413-43a1-9a0e-4202beb15a07",
+      "description": "Longmont's only domestic violence shelter, Safe Shelter at St Vrain Valley, says it needs to raise $295,000 by the end of the year to keep all of its services open.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    }
+  ]
+}

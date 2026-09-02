@@ -1,0 +1,74 @@
+{
+  "shortName": "Minneapolis, MN",
+  "metroCode": "33460",
+  "metro": "Minneapolis-St. Paul-Bloomington, MN-WI",
+  "date": "2026-08-29",
+  "are_you_ok": [],
+  "conversation_starters": [
+    {
+      "title": "Never-before-heard Prince recordings featured on new album",
+      "summary": "",
+      "source": "CBS Minnesota",
+      "topic": "celebrity-entertainment",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/minnesota/news/prince-new-album-timeless-estate-music/",
+      "published_at": "2026-08-29T00:04:15+00:00",
+      "image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/28/c9aa4ce5-2762-49fc-904d-3e40844958de/thumbnail/1024x576/92b17fb86ce3ece47c0b10fd7f90c868/gettyimages-74291807.jpg",
+        "alt": ""
+      },
+      "uid": "3c2863e2-afe3-4706-9feb-ef7648ce9f1b",
+      "questions": [
+        "Has the new Prince album from the vault come up around town?",
+        "Is Prince's music still a big part of life in Minneapolis?"
+      ],
+      "description": "The vault is open. Recordings no one's ever heard, spanning 40 years of Prince's musical career, are now available on a new album called \"Timeless.\"",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    },
+    {
+      "title": "Minnesota State Fair visitors get their own AI-generated ‘butter busts’",
+      "summary": "",
+      "source": "KARE 11",
+      "topic": "culture-events",
+      "topics_secondary": [],
+      "url": "https://www.kare11.com/article/news/mn-state-fair-visitors-get-their-own-ai-generated-butter-busts/89-ec8d9606-3d86-4a05-b66d-5b47dc2d7b49",
+      "published_at": "2026-08-29T23:12:34+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/3aa68222-0206-473e-8dba-7ed70174cae0/20260829T230432/3aa68222-0206-473e-8dba-7ed70174cae0_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "33a108bd-51c2-43cc-a6bf-98d5dea97d94",
+      "questions": [
+        "Have the AI-generated butter busts at the State Fair come up in conversation?",
+        "What do folks around you make of the butter sculptures at the Minnesota State Fair?"
+      ],
+      "description": "Attendees at the Minnesota State Fair enjoyed creating AI-generated butter busts, sparking discussions led by the AI Hub about the use of artificial intelligence."
+    }
+  ],
+  "sports": [
+    {
+      "team": "Vikings",
+      "scores": [
+        "Broncos 34, Vikings 6"
+      ]
+    }
+  ],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "St. Paul police release bodycam, surveillance footage of shooting at Regions Hospital",
+      "summary": "Police in St. Paul, the capital city, just east of Minneapolis, released body-worn camera footage of a shooting at Regions Hospital.",
+      "source": "FOX 9",
+      "topic": "policing",
+      "topics_secondary": [],
+      "url": "https://www.fox9.com/news/st-paul-police-release-bodycam-surveillance-footage-shooting-regions-hospital-aug-29-2026",
+      "published_at": "2026-08-29T21:32:29+00:00",
+      "image": {
+        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/08/7s-sppd-bodycam-of-shooting_00.00.12.26.jpg",
+        "alt": ""
+      },
+      "uid": "13c915c5-a0ea-495d-90f0-35a3e7bd7a31",
+      "description": "St. Paul police released body-worn camera footage of shooting at Regions Hospital that happened earlier this month."
+    }
+  ]
+}

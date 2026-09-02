@@ -1,0 +1,167 @@
+{
+  "shortName": "San Antonio, TX",
+  "metroCode": "41700",
+  "metro": "San Antonio-New Braunfels, TX",
+  "date": "2026-08-20",
+  "are_you_ok": [
+    {
+      "title": "CPS Energy asks customers to conserve power, declares ‘Yellow Day’",
+      "summary": "CPS Energy, the city-owned electric and gas utility, is encouraging customers to limit their electricity use during certain hours, including avoiding the use of large appliances.",
+      "source": "KENS 5",
+      "topic": "other",
+      "url": "https://www.kens5.com/article/news/local/san-antonio-cps-energy-yellow-day-peak-energy-demand/273-2fa8975c-068f-4e48-b66f-8b72267261f2",
+      "published_at": "2026-08-20T11:50:55+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/c077a716-6022-4d47-8d8f-1d061d472101/c077a716-6022-4d47-8d8f-1d061d472101_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "0ba18a16-4915-4b52-bd67-314265100e24",
+      "questions": [
+        "Have you been asked to cut back on power use at home?",
+        "Is the heat making it hard to keep the house comfortable?",
+        "Does your area usually hold up when the grid gets stretched?"
+      ],
+      "description": "Customers are encouraged to limit their electricity use during certain hours, including avoiding the use of large appliances."
+    },
+    {
+      "title": "UTSA offering resources, solutions as they prepare for delayed start to fall semester after cybersecurity incident",
+      "summary": "Officials said more systems and services at UTSA, the University of Texas at San Antonio, are coming online each day.",
+      "source": "KENS 5",
+      "topic": "education",
+      "url": "https://www.kens5.com/article/tech/utsa-resources-solutions-prepare-delayed-start-fall-semester/273-7084f2ef-14c5-40c9-a534-4cad77129645",
+      "published_at": "2026-08-20T15:07:38+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/e8ec202c-4b71-40b5-91fa-31febf1a59b8/e8ec202c-4b71-40b5-91fa-31febf1a59b8_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "26d8a057-f93c-4241-9747-5e64dba232b2",
+      "questions": [
+        "Has the delayed start at the university touched anyone in your circle?",
+        "Did the campus systems being down affect anything you needed?"
+      ],
+      "description": "Officials said more university systems and services are coming online each day."
+    },
+    {
+      "title": "Rabies case in San Antonio dog prompts warning after skunk encounter goes unreported",
+      "summary": "",
+      "source": "KENS 5",
+      "topic": "public-health",
+      "url": "https://www.kens5.com/article/life/pets/rabies-pet-dog-san-antonio-texas-husky-warning-skunk-encounter-unreported/273-7e10972a-70e8-477b-bb38-32c27000c5b5",
+      "published_at": "2026-08-20T03:32:42+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/WCNC/images/a6d14423-7bb0-4f33-8f6b-6ff3a1359615/20250409T235441/a6d14423-7bb0-4f33-8f6b-6ff3a1359615_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "7070309a-a744-4508-a157-ed48c9568cb0",
+      "questions": [
+        "Do you have pets that might run into wildlife around your place?",
+        "Has the rabies warning changed anything about walking the dog?"
+      ],
+      "description": "The case is the first reported rabid pet dog in Bexar County in more than a decade and comes amid a sharp increase in rabies among wild animals in the area."
+    }
+  ],
+  "conversation_starters": [
+    {
+      "title": "TxDOT planning multiple weekend closures along northeast Interstate 35",
+      "summary": "The closures will affect major portions of I-35, the interstate running northeast out of San Antonio, beginning Saturday and lasting through early Monday.",
+      "source": "KENS 5",
+      "topic": "transportation",
+      "url": "https://www.kens5.com/article/news/local/txdot-planning-multiple-weekend-closures-along-northeast-interstate-35/273-f4a71e4d-b84e-4b5b-b236-1bbb04f42872",
+      "published_at": "2026-08-20T22:31:54+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/a167807c-0558-4dad-9149-19856ac9ef33/20250919T030855/a167807c-0558-4dad-9149-19856ac9ef33_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "5b294789-051e-4607-b89c-33f321a2debe",
+      "questions": [
+        "Does your commute touch that stretch of I-35?",
+        "Were you planning to drive anywhere that way?",
+        "Do the weekend closures there usually snarl things up?"
+      ],
+      "description": "The closures will affect major portions of the highway beginning Saturday and lasting through early Monday."
+    },
+    {
+      "title": "San Antonio Stock Show and Rodeo releases first group of entertainers",
+      "summary": "",
+      "source": "KENS 5",
+      "topic": "civic-events",
+      "url": "https://www.kens5.com/article/news/local/san-antonio-stock-show-and-rodeo-releases-first-group-of-entertainers/273-efd217c3-285f-4ab6-b8bc-568d5d08728c",
+      "published_at": "2026-08-20T18:44:08+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/c836dd93-a483-4f14-8003-b11b28e195cf/20250209T120821/c836dd93-a483-4f14-8003-b11b28e195cf_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "eea32f94-0ad1-43f8-be97-ce06f0032478",
+      "questions": [
+        "Do you usually go to the rodeo?",
+        "Any of those acts ones you'd want to see?",
+        "Is the rodeo a big deal in your household?"
+      ],
+      "description": "The San Antonio Stock Show and Rodeo unveil a lineup with Flatland Cavalry, Turnpike Troubadours, BlackHawk, and Keith Urban for the 2027 event."
+    },
+    {
+      "title": "Concerns about the New World screwworm have put Texas pet adoptions on hold",
+      "summary": "",
+      "source": "KENS 5",
+      "topic": "agriculture",
+      "url": "https://www.kens5.com/article/syndication/associatedpress/concerns-about-the-new-world-screwworm-have-put-texas-pet-adoptions-on-hold/616-39be10dc-c9a1-44a8-b995-e43c7dcc09a7",
+      "published_at": "2026-08-20T15:31:18+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/AssociatedPress/images/63da7246-6436-4a80-bea1-a7a4b09893f4/20260819T130519/63da7246-6436-4a80-bea1-a7a4b09893f4_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "89acf62f-d1ba-4d80-a63a-25c3cd6ed29d",
+      "questions": [
+        "Have you seen the shelters around you filling up?",
+        "Were you thinking about adopting a pet any time soon?"
+      ],
+      "description": "The first New World screwworm outbreak in Texas in 60 years is hindering efforts to move rescued dogs and cats out of crowded animal shelters to states where they..."
+    }
+  ],
+  "sports": [],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "San Antonio City Council approves renaming Cesar E. Chavez Boulevard back to Durango Boulevard",
+      "summary": "In March, multiple sexual misconduct allegations against Cesar Chavez, the farm labor leader the boulevard was named for, were brought to the forefront in a \"New York Times\" report.",
+      "source": "KENS 5",
+      "topic": "elections-politics",
+      "url": "https://www.kens5.com/article/news/community/san-antonio-city-council-renaming-cesar-chavez-boulevard-decision/273-0eec7172-0e45-4b37-b2e1-ee1bc70b0fad",
+      "published_at": "2026-08-20T15:39:44+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/413454024/413454024_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "5a437a37-b5eb-4e8c-9c74-0a1ec11ab0a8",
+      "description": "In March, multiple sexual misconduct allegations against Chavez were brought to the forefront in a \"New York Times\" report."
+    },
+    {
+      "title": "Texas lawmakers discuss data centers, transmission lines in marathon hearing",
+      "summary": "The House State Affairs Committee, a committee of the Texas Legislature, took up two of the biggest topics that Texans are fired up about right now: data centers and transmission lines.",
+      "source": "KENS 5",
+      "topic": "data-centers",
+      "url": "https://www.kens5.com/article/news/politics/texas-legislature/texas-lawmakers-data-centers-transmission-lines-hearing/269-59a311a0-b8cd-46bf-82a6-1fb5bd63c1e6",
+      "published_at": "2026-08-20T15:44:21+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KVUE/images/5886d65c-79fa-4570-bed6-f14e55faee8d/20260727T121346/5886d65c-79fa-4570-bed6-f14e55faee8d_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "144d7858-ddc9-4bd3-857d-2048759b97a5",
+      "description": "The House State Affairs Committee took up two of the biggest topics that Texans are fired up about right now: data centers and transmission lines."
+    },
+    {
+      "title": "Conservation Society of San Antonio cites city’s ‘redevelopment plans’ as cause for NIOSA refresh",
+      "summary": "At least two staff members have left the organization, which has put on NIOSA, short for A Night in Old San Antonio, a food-and-music street party held during Fiesta, the city's biggest annual festival, for more than seven decades.",
+      "source": "KENS 5",
+      "topic": "development-projects",
+      "url": "https://www.kens5.com/article/news/local/staff-reduction-looms-as-conservation-society-of-san-antonio-signals-refresh-of-niosa-event/273-338d551c-56ea-44ab-a632-56dfa2dad190",
+      "published_at": "2026-08-20T03:33:14+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/4350ffff-8e36-4a2d-8e63-17e3df601573/20260422T032313/4350ffff-8e36-4a2d-8e63-17e3df601573_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "4420c313-991e-42cd-b9ed-2eb14b8feb82",
+      "description": "At least two staff members have left the organization, which has put on the NIOSA event during Fiesta for more than seven decades."
+    }
+  ]
+}

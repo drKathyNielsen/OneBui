@@ -1,0 +1,40 @@
+{
+  "shortName": "Minneapolis, MN",
+  "metroCode": "33460",
+  "metro": "Minneapolis-St. Paul-Bloomington, MN-WI",
+  "date": "2026-08-30",
+  "are_you_ok": [],
+  "conversation_starters": [],
+  "sports": [
+    {
+      "team": "Lynx",
+      "scores": [
+        "Dream 89, Lynx 81"
+      ]
+    },
+    {
+      "team": "Twins",
+      "scores": [
+        "Twins 5, White Sox 1"
+      ]
+    }
+  ],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "Minnesota Supreme Court denies Mike Lindell's recount challenge",
+      "summary": "",
+      "source": "FOX 9",
+      "topic": "elections-politics",
+      "topics_secondary": [],
+      "url": "https://www.fox9.com/news/minnesota-supreme-court-denies-lindell-bid-force-new-recount-process",
+      "published_at": "2026-08-30T23:31:19+00:00",
+      "image": {
+        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/08/image2026-08-06-12h55m18s816.jpg",
+        "alt": ""
+      },
+      "uid": "3af08608-47af-4f83-9e0a-b642a9e9063f",
+      "description": "An effort by former MyPillow CEO Mike Lindell to force the state to allow a recount in the Republican primary for Minnesota governor under his terms has been denied by the Minnesota Supreme Court."
+    }
+  ]
+}

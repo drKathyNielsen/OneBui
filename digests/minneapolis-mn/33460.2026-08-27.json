@@ -1,0 +1,128 @@
+{
+  "shortName": "Minneapolis, MN",
+  "metroCode": "33460",
+  "metro": "Minneapolis-St. Paul-Bloomington, MN-WI",
+  "date": "2026-08-27",
+  "are_you_ok": [],
+  "conversation_starters": [
+    {
+      "title": "A partial lunar eclipse will be visible over Minnesota on Thursday. Here's what to know.",
+      "summary": "",
+      "source": "CBS Minnesota",
+      "topic": "science",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/minnesota/news/partial-lunar-eclipse-minnesota-aug-27/",
+      "published_at": "2026-08-27T13:41:30+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/24/75b84598-358f-4043-ad3d-3500ef795fb6/thumbnail/1024x576/0d4794cf044e244604c33d367c841073/gettyimages-2265603192.jpg",
+        "alt": ""
+      },
+      "uid": "3d07787a-272f-4d20-925f-6601fb4301f0",
+      "questions": [
+        "Are you planning to watch the partial lunar eclipse?",
+        "Do the skies over Minnesota usually cooperate for something like an eclipse?"
+      ],
+      "description": "A partial lunar eclipse will be visible over Minnesota and Wisconsin between Thursday evening and early Friday.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    },
+    {
+      "title": "General Mills ditches artificial dye from Lucky Charms, Trix",
+      "summary": "",
+      "source": "FOX 9",
+      "topic": "business-jobs",
+      "topics_secondary": [],
+      "url": "https://www.fox9.com/news/general-mills-artificial-dyes-cereals",
+      "published_at": "2026-08-27T21:13:50+00:00",
+      "image": {
+        "url": "https://static.livenowfox.com/www.livenowfox.com/content/uploads/2026/08/lucky-charms-.jpg",
+        "alt": ""
+      },
+      "uid": "8375652d-e08a-4a1f-8ee3-e3079f3ff3e4",
+      "questions": [
+        "Has the General Mills switch to natural food dyes been talked about locally?",
+        "Do you know people who work at General Mills?"
+      ],
+      "description": "General Mills announced it is dropping synthetic food dyes in its cereals, swapping them for natural alternatives to keep its products colorful."
+    }
+  ],
+  "sports": [],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "St. Paul removing Flock cameras after residents raise privacy concerns",
+      "summary": "",
+      "source": "CBS Minnesota",
+      "topic": "policing",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/minnesota/video/st-paul-removing-flock-cameras-after-residents-raise-privacy-concerns/",
+      "published_at": "2026-08-27T17:33:00+00:00",
+      "image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/27/edec9dec-9700-4e6b-8dde-28f2f10c7236/thumbnail/1024x576/4ba6765f3fd2aa49607e1d2a276798f2/5845386e573ca6ec97b4b5e9afe2bb37.jpg",
+        "alt": ""
+      },
+      "uid": "1381d543-5ff0-4958-b7eb-cbfdbf53dea5",
+      "description": "Officers have used the cameras to help solve and respond to crimes, but residents have raised concerns about surveillance and the handling of their private data.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    },
+    {
+      "title": "One year later, impact of Annunciation tragedy still felt in surrounding neighborhoods",
+      "summary": "Neighbors in south Minneapolis have banded together over the last year to support families from Annunciation, the Catholic church and school where the Aug. 27, 2025 mass shooting happened.",
+      "source": "KARE 11",
+      "topic": "human-interest",
+      "topics_secondary": [],
+      "url": "https://www.kare11.com/article/news/local/one-year-later-impact-annunciation-tragedy-neighbors/89-5107bdd6-7978-48cb-8d1a-40bc971ade4a",
+      "published_at": "2026-08-27T23:41:39+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/d772a80e-13cf-4d2e-986d-5f4125cf0320/20260827T210845/d772a80e-13cf-4d2e-986d-5f4125cf0320_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "951afdb2-7b3d-42f0-ad38-c6334fdf5ccc",
+      "description": "Neighbors in South Minneapolis have banded together over the last year to support Annunciation families following the Aug. 27, 2025 mass shooting."
+    },
+    {
+      "title": "Officials sued to keep gangs from State Fair: What happens if they show up anyway?",
+      "summary": "Posts on social media tipped off deputies in Ramsey County, the county that covers St. Paul, just east of Minneapolis, about a planned violent confrontation at the Minnesota State Fair, and officials moved quickly to shut it down in court. But what happens if they show up anyway?",
+      "source": "FOX 9",
+      "topic": "policing",
+      "topics_secondary": [],
+      "url": "https://www.fox9.com/news/officials-sued-keep-gangs-from-state-fair-what-happens-show-up-anyway",
+      "published_at": "2026-08-27T22:47:15+00:00",
+      "image": {
+        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/08/vlcsnap-2026-08-27-17h41m36s488.jpg",
+        "alt": ""
+      },
+      "uid": "c6549878-00b2-488e-98f7-fb1549a84a3c",
+      "description": "Posts on social media tipped Ramsey County Sheriff's deputies off about a planned violent confrontation at the Minnesota State Fair, and officials moved quickly to shut it down in court. But what happens if they show up anyway?"
+    },
+    {
+      "title": "Heritage Park Apartments: $6 million investment aims to address poor living conditions",
+      "summary": "The Minneapolis Public Housing Authority Board of Commissioners voted to approve a $6 million investment after public outcry over poor living conditions at Heritage Park Apartments, a public housing complex on the north side of Minneapolis.",
+      "source": "FOX 9",
+      "topic": "housing",
+      "topics_secondary": [],
+      "url": "https://www.fox9.com/news/heritage-park-apartments-6-million-poor-living-conditions-aug-27-2026",
+      "published_at": "2026-08-27T17:42:54+00:00",
+      "image": {
+        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/06/heritage-apts-problems-folo-thumb.jpg",
+        "alt": ""
+      },
+      "uid": "c29a07a2-9e7b-4bec-b988-a3e0eaac790f",
+      "description": "The Minneapolis Public Housing Authority Board of Commissioners voted to approve a $6 million investment after public outcry over poor living conditions at Heritage Park Apartments."
+    },
+    {
+      "title": "Minneapolis City Council approves new dress code ordinance for bars, restaurants",
+      "summary": "",
+      "source": "FOX 9",
+      "topic": "government",
+      "topics_secondary": [],
+      "url": "https://www.fox9.com/news/minneapolis-city-council-approves-new-dress-code-ordinance-bars-restaurants",
+      "published_at": "2026-08-27T17:17:13+00:00",
+      "image": {
+        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2024/08/Minneapolis-skyline-sized.jpg",
+        "alt": ""
+      },
+      "uid": "1e70d31e-7985-42a0-92bc-33b82bbccf71",
+      "description": "The Minneapolis City Council voted 13-0 on Thursday to pass a new ordinance requiring liquor-serving establishments with dress codes to display them clearly at their entrances."
+    }
+  ]
+}

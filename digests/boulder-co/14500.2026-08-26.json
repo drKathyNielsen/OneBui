@@ -1,0 +1,112 @@
+{
+  "shortName": "Boulder, CO",
+  "metroCode": "14500",
+  "metro": "Boulder, CO",
+  "date": "2026-08-26",
+  "are_you_ok": [],
+  "conversation_starters": [
+    {
+      "title": "United Airlines announces large international expansion with new Denver flight",
+      "summary": "",
+      "source": "9NEWS",
+      "topic": "transportation",
+      "topics_secondary": [],
+      "url": "https://www.9news.com/article/travel/denver-international-airport/denver-paris-nonstop-flights-united-airlines/73-80e0cbbf-d77e-4e2b-8230-c60bddde8d1b",
+      "published_at": "2026-08-26T14:12:42+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/ad0bb18b-f2c4-461b-8b18-87db5c660c5e/20260825T115337/ad0bb18b-f2c4-461b-8b18-87db5c660c5e_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "87b9d949-17ed-40bd-a3aa-647af572fd26",
+      "questions": [
+        "Do you fly out of Denver often?",
+        "Would any of the new international routes be useful for you?"
+      ],
+      "description": "United Airlines is launching its largest international expansion, adding routes to 10 new cities across Europe and Asia, and introducing the A321XLR aircraft."
+    },
+    {
+      "title": "322 goats clock in for work at Centennial Airport",
+      "summary": "Centennial Airport, in Centennial, a suburb of Denver, 40 miles SE of Boulder, employed 322 goats to clear vegetation in hard-to-reach areas, reducing wildfire risk and discouraging wildlife near runways.",
+      "source": "9NEWS",
+      "topic": "human-interest",
+      "topics_secondary": [],
+      "url": "https://www.9news.com/article/life/animals/goats-t-centennial-airport/73-793d9e97-c7f8-407b-a082-81b5053874dc",
+      "published_at": "2026-08-26T01:23:10+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/b6719039-773d-45a8-9bd2-c48c7c3c1e95/20260826T004757/b6719039-773d-45a8-9bd2-c48c7c3c1e95_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "725b0f6d-d8d5-49a2-ba40-2309a15865eb",
+      "questions": [
+        "Did you see the story about the goats at Centennial Airport?",
+        "Are goats used for fire mitigation around Boulder too?"
+      ],
+      "description": "Centennial Airport employed 322 goats to clear vegetation in hard-to-reach areas, reducing wildfire risk and discouraging wildlife near runways."
+    }
+  ],
+  "sports": [
+    {
+      "team": "Rockies",
+      "scores": [
+        "adds Buffalo Chicken Donut at Coors"
+      ]
+    },
+    {
+      "team": "Broncos",
+      "scores": [
+        "signs Stone, cuts Butler",
+        "Joseph on the pass rush"
+      ]
+    }
+  ],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "Boulder Valley School District proposes closing schools amid enrollment decline",
+      "summary": "",
+      "source": "CBS Colorado",
+      "topic": "education",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/colorado/news/boulder-valley-school-district-proposes-closing-schools-amid-enrollment-decline/",
+      "published_at": "2026-08-26T04:34:42+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/26/5d69e8ac-7637-4fcf-b355-d3a98a99121d/thumbnail/1024x576/1738d5b95092889d3c3725d059626fed/boulder-valley-school-district.jpg",
+        "alt": ""
+      },
+      "uid": "bb591f13-f52b-442d-a2aa-43dc3ba37f6b",
+      "description": "Boulder Valley School District leaders are proposing a major reshaping of schools across the district as enrollment continues to decline.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    },
+    {
+      "title": "Boulder Planning Board chair cleared in complaints over airport advocacy",
+      "summary": "",
+      "source": "Boulder Reporting Lab",
+      "topic": "government",
+      "topics_secondary": [],
+      "url": "https://boulderreportinglab.org/2026/08/26/boulder-planning-board-chair-cleared-in-complaints-over-airport-advocacy/",
+      "published_at": "2026-08-26T13:33:53+00:00",
+      "image": {
+        "url": "https://i0.wp.com/boulderreportinglab.org/wp-content/uploads/2024/05/DSC00974-scaled.jpeg?fit=1024%2C683&ssl=1",
+        "alt": ""
+      },
+      "uid": "d0f11e42-efd6-46bf-97bd-632f0ef30ad9",
+      "description": "A special counsel has concluded that Boulder’s Planning Board Chair Laura Kaplan did not violate the city’s code of conduct through her advocacy for closing the municipal airport. The post Boulder Planning Board chair cleared in complaints over airport advocacy appeared first on",
+      "logo": "https://boulderreportinglab.org/wp-content/uploads/2021/06/cropped-brl-favicon-32x32.png"
+    },
+    {
+      "title": "Colorado Supreme Court orders Weld County judge to explain child sex assault case dismissal",
+      "summary": "The judge dismissed the case citing \"outrageous government conduct\" from CBI, the Colorado Bureau of Investigation, and former state DNA analyst Missy Woods.",
+      "source": "9NEWS",
+      "topic": "violent-crime",
+      "topics_secondary": [],
+      "url": "https://www.9news.com/article/news/crime/colorado-supreme-court-orders-weld-county-judge-to-explain-case-dismissal/73-2ad57383-e940-46ba-b98b-8fe66371bbba",
+      "published_at": "2026-08-26T18:10:31+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/46941eef-de4c-40e9-83ae-7a9b767a479c/20260623T224541/46941eef-de4c-40e9-83ae-7a9b767a479c_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "881a5477-1b77-49f6-89f6-ff5b4860beae",
+      "description": "The judge dismissed the case citing \"outrageous government conduct\" from CBI and former DNA analyst Missy Woods."
+    }
+  ]
+}
