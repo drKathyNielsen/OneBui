@@ -7,7 +7,6 @@ import PeriodNav from './PeriodNav';
 import WeatherAlert from './WeatherAlert';
 import AreTheyOk from './AreTheyOk';
 import ArticleList from './ArticleList';
-import Sports from './Sports';
 
 interface Props {
   vm: DigestViewModel; // the day's brief or the weekly aggregate, already mapped
@@ -80,11 +79,6 @@ export default function NewsDigest({ vm, days, hasWeekly, period, selectedDate, 
           </div>
         </div>
 
-        <div className="row mt-4">
-          <div className="col-12">
-            <Sports sports={vm.sports} heading={strings.sportsHeading} emptyNote={strings.emptySports} pager={strings.pager} />
-          </div>
-        </div>
       </main>
     </div>
   );
