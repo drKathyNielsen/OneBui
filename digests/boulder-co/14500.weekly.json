@@ -4,62 +4,28 @@
   "metroCode": "14500",
   "metro": "Boulder, CO",
   "range": {
-    "start": "2026-08-27",
-    "end": "2026-09-02"
+    "start": "2026-08-30",
+    "end": "2026-09-05"
   },
   "are_you_ok": [
     {
-      "title": "Monsoon moisture moves in bringing a risk of flooding a severe storms to Colorado",
-      "summary": "Severe storms swept through Denver, the state capital, about 30 miles southeast of Boulder, with forecasters warning more could follow later in the week. Days later a surge of monsoon moisture moved into Colorado, bringing a risk of flooding and more severe storms across the state.",
-      "source": "CBS Colorado",
-      "topic": "weather-hazard",
+      "title": "Boulder County’s ponds are drying up. Officials can’t simply refill them.",
+      "summary": "",
+      "source": "Boulder Reporting Lab",
+      "topic": "drought-water",
       "topics_secondary": [],
-      "url": "https://www.cbsnews.com/colorado/video/monsoon-moisture-moves-in-bringing-a-risk-of-flooding-a-severe-storms-to-colorado/",
-      "published_at": "2026-08-31T14:09:00+00:00",
+      "url": "https://boulderreportinglab.org/2026/09/04/boulder-countys-ponds-are-drying-up-officials-cant-simply-refill-them/",
+      "published_at": "2026-09-04T06:36:19+00:00",
       "image": {
-        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/31/7b95c82e-7765-4d6f-b22d-33d28b6ab607/thumbnail/1024x576/cdb1ddf9351b4eb7e1a45d2939f11523/463c1e5110d25d7bdede34d3b9000ab0.jpg",
+        "url": "https://i0.wp.com/boulderreportinglab.org/wp-content/uploads/2026/08/DryingPond-scaled.jpg?fit=1024%2C768&ssl=1",
         "alt": ""
       },
-      "uid": "fc841032-d81e-48c4-b61b-328a336f8137",
-      "description": "Watch Alex Lehnert's forecast",
-      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg",
+      "uid": "234a1e80-f17e-4396-8c5f-8f977aac57c2",
+      "description": "Extreme drought has shrunk ponds and wetlands, causing fish kills and foul odors. Officials often lack the water rights or infrastructure to refill them, though a county wildlife official says the damage is likely temporary. The post Boulder County’s ponds are drying up.",
+      "logo": "https://boulderreportinglab.org/wp-content/uploads/2021/06/cropped-brl-favicon-32x32.png",
       "questions": [
-        "Did the storms bring any flooding around Boulder?",
-        "Has the heavy rain made the roads around town harder to get through?"
-      ],
-      "thread": [
-        {
-          "title": "Severe storms pound Denver Metro with more storms possible for Thursday",
-          "summary": "",
-          "source": "CBS Colorado",
-          "topic": "weather-hazard",
-          "topics_secondary": [],
-          "url": "https://www.cbsnews.com/colorado/video/severe-storms-pound-denver-metro-with-more-storms-possible-for-thursday/",
-          "published_at": "2026-08-27T01:44:00+00:00",
-          "image": {
-            "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/27/9660d5c5-536c-449a-a4c4-5f2c69f5e4d0/thumbnail/1024x576/1c77a4788f25b01e49ef9a368d5c234c/a643b8483a594a437f67c2eae2d6c974.jpg",
-            "alt": ""
-          },
-          "uid": "8c8ac174-32ab-42eb-ba34-f2d821eae1dd",
-          "description": "Watch Dave Aguilera's Forecast",
-          "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
-        },
-        {
-          "title": "Monsoon moisture moves in bringing a risk of flooding a severe storms to Colorado",
-          "summary": "",
-          "source": "CBS Colorado",
-          "topic": "weather-hazard",
-          "topics_secondary": [],
-          "url": "https://www.cbsnews.com/colorado/video/monsoon-moisture-moves-in-bringing-a-risk-of-flooding-a-severe-storms-to-colorado/",
-          "published_at": "2026-08-31T14:09:00+00:00",
-          "image": {
-            "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/31/7b95c82e-7765-4d6f-b22d-33d28b6ab607/thumbnail/1024x576/cdb1ddf9351b4eb7e1a45d2939f11523/463c1e5110d25d7bdede34d3b9000ab0.jpg",
-            "alt": ""
-          },
-          "uid": "fc841032-d81e-48c4-b61b-328a336f8137",
-          "description": "Watch Alex Lehnert's forecast",
-          "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
-        }
+        "Have the ponds and wetlands around Boulder County been noticeably lower this year?",
+        "Is the drought something people are talking about day to day?"
       ]
     },
     {
@@ -83,24 +49,74 @@
       ]
     },
     {
-      "title": "Denver Water to cut off lawn watering in October due to drought conditions",
+      "title": "81% of Coloradans live in ozone polluted areas; clean air advocates asking for change",
       "summary": "",
       "source": "CBS Colorado",
-      "topic": "drought-water",
+      "topic": "environment-conservation",
       "topics_secondary": [],
-      "url": "https://www.cbsnews.com/colorado/video/denver-water-to-cut-off-lawn-watering-in-october-due-to-drought-conditions/",
-      "published_at": "2026-08-27T02:41:00+00:00",
+      "url": "https://www.cbsnews.com/colorado/news/colorado-ozone-polluted-areas-advocates-asking-for-change/",
+      "published_at": "2026-09-03T12:47:45+00:00",
       "image": {
-        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/27/aedfb6df-a8ad-4ad1-a9f0-320870f0fd79/thumbnail/1024x576/1182c859dbb4691b635fa55425ca9b41/8cbee7be4b7d8730f0e7a809ac655862.jpg",
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/01/7d8f35f0-a529-4316-b973-40bcfe810740/thumbnail/1024x576/2e740500b5593fd038273a8dcb269e27/worst-ozone-in-years-53vo-frame-381.jpg",
         "alt": ""
       },
-      "uid": "46bf8c03-04c1-4790-be71-b251e4d25548",
-      "description": "Amid continuing drought conditions and record-breaking temperatures, Denver Water has amended its Stage 1 drought resolution to cut off lawn watering on Oct. 1. The Denver Board of Water Commissioners made the decision during its Wednesday morning meeting.",
+      "uid": "3b71784d-59d0-4586-a678-279145f8b1c5",
+      "description": "Clean air advocates are asking local and state leaders in Colorado to act on the unhealthy ozone levels and their impacts.",
       "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg",
       "questions": [
-        "Is your water served by Denver Water?",
-        "Will the October lawn watering cutoff affect your yard?",
-        "How has the drought been where you are?"
+        "Is air quality something people notice over the summer there?",
+        "Do ozone alerts change what people do outdoors?"
+      ]
+    },
+    {
+      "title": "Drought, wildfires drastically increase human-bear incidents, say wildlife experts",
+      "summary": "A hard year for Colorado's bears turned into a running conversation about how people should respond. Wildlife officials fielded a wave of questions about whether they could put food out for bears going hungry in a difficult season, and said flatly that feeding them is a bad idea. The scale of the problem then came into focus: drought and wildfire have driven bear-related reports past 8,600 so far this year, against about 3,600 last year, as bears enter hyperphagia and hunt for the calories they need before winter.",
+      "source": "9NEWS",
+      "topic": "wildlife",
+      "topics_secondary": [],
+      "url": "https://www.9news.com/article/life/animals/drought-wildfires-drastically-increase-human-bear-incidents-say-wildlife-experts/73-8df805f7-ecee-46d5-8123-047aed7d1450",
+      "published_at": "2026-09-04T03:58:21+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/f48ce6a6-1919-48f1-8c36-d23171aad40d/f48ce6a6-1919-48f1-8c36-d23171aad40d_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "40bd0af0-a8fb-4783-96d8-80cf2abdded1",
+      "description": "This year's more than 8,600 bear-related reports is a drastic increase compared to last year's 3,600. Bears are entering hyperphagia, seeking winter calories.",
+      "questions": [
+        "Have bears been showing up around the neighborhood this year?",
+        "Do people there change anything about trash or food storage this time of year?"
+      ],
+      "thread": [
+        {
+          "title": "Food delivery for hungry bears? Wildlife officials said it's not a good idea",
+          "summary": "",
+          "source": "9NEWS",
+          "topic": "wildlife",
+          "topics_secondary": [],
+          "url": "https://www.9news.com/article/news/local/next/next-with-kyle-clark/food-delivery-hungry-bears-wildlife-officials/73-c2055e12-0993-4564-801f-6f9cae8a20c9",
+          "published_at": "2026-09-03T21:41:15+00:00",
+          "image": {
+            "url": "https://media.tegna-media.com/assets/KUSA/images/bae4cd96-c021-482b-9108-df2e5d3bf8b8/20250801T015349/bae4cd96-c021-482b-9108-df2e5d3bf8b8_750x422.jpg",
+            "alt": ""
+          },
+          "uid": "0af28e18-4d10-4dd3-944e-3408dac8f9f7",
+          "description": "CPW said officials have been bombarded with questions about why they can't drop off food for the bears during a difficult season."
+        },
+        {
+          "title": "Drought, wildfires drastically increase human-bear incidents, say wildlife experts",
+          "summary": "",
+          "source": "9NEWS",
+          "topic": "wildlife",
+          "topics_secondary": [],
+          "url": "https://www.9news.com/article/life/animals/drought-wildfires-drastically-increase-human-bear-incidents-say-wildlife-experts/73-8df805f7-ecee-46d5-8123-047aed7d1450",
+          "published_at": "2026-09-04T03:58:21+00:00",
+          "image": {
+            "url": "https://media.tegna-media.com/assets/KUSA/images/f48ce6a6-1919-48f1-8c36-d23171aad40d/f48ce6a6-1919-48f1-8c36-d23171aad40d_750x422.jpg",
+            "alt": ""
+          },
+          "uid": "40bd0af0-a8fb-4783-96d8-80cf2abdded1",
+          "description": "This year's more than 8,600 bear-related reports is a drastic increase compared to last year's 3,600. Bears are entering hyperphagia, seeking winter calories."
+        }
       ]
     },
     {
@@ -122,9 +138,82 @@
         "Have the mosquitoes been bad around Boulder this year?",
         "Is the West Nile case in Weld County something people nearby are watching?"
       ]
+    },
+    {
+      "title": "Man faces charges of tampering with public water system on Colorado's Berthoud Pass",
+      "summary": "A case first reported as alleged ecoterrorism in Grand County, a rural mountain county about 60 miles west of Boulder, CO, dating to 2022, has moved into court: a 65-year-old man now faces four felony counts for allegedly tampering with a water system on Berthoud Pass, a high mountain pass about 50 miles west of Boulder, that delivers drinking water to some Front Range communities, the corridor of cities along the eastern foot of the Rockies.",
+      "source": "CBS Colorado",
+      "topic": "property-crime",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/colorado/news/fabrizio-lorenzin-tampering-water-system-colorado/",
+      "published_at": "2026-09-03T03:31:32+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/03/c4ffe52e-3f54-4e5c-b22a-2db0eaaa8923/thumbnail/1024x576/780ba80fe5c9c972c2d04b3277629727/trail-camera-image.jpg",
+        "alt": ""
+      },
+      "uid": "c179fed3-1ae6-4ea2-a67f-c09886bc5af6",
+      "description": "A 65-year-old man is facing four felony counts for allegedly tampering with a water system on Berthoud Pass that delivers drinking water to some Front Range communities.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg",
+      "questions": [
+        "Was the water system case something people heard about locally?",
+        "Is where the drinking water comes from something people there think about?"
+      ],
+      "thread": [
+        {
+          "title": "Man accused of tampering with water system on Berthoud Pass",
+          "summary": "",
+          "source": "CBS Colorado",
+          "topic": "property-crime",
+          "topics_secondary": [],
+          "url": "https://www.cbsnews.com/colorado/video/man-accused-of-tampering-with-water-system-on-berthoud-pass/",
+          "published_at": "2026-09-02T21:06:00+00:00",
+          "image": {
+            "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/09/02/5db9933c-7f68-49cf-b5e2-1b5479cc806d/thumbnail/1024x576/c691e10735dcb44c0d41638e7d7d7c40/1b5471dd40ada182608a5e6504183e15.jpg",
+            "alt": ""
+          },
+          "uid": "0799c035-3d73-4157-8b01-5819d844c53b",
+          "description": "The case of alleged ecoterrorism happened in Grand County, Colorado, in 2022.",
+          "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+        },
+        {
+          "title": "Man faces charges of tampering with public water system on Colorado's Berthoud Pass",
+          "summary": "",
+          "source": "CBS Colorado",
+          "topic": "property-crime",
+          "topics_secondary": [],
+          "url": "https://www.cbsnews.com/colorado/news/fabrizio-lorenzin-tampering-water-system-colorado/",
+          "published_at": "2026-09-03T03:31:32+00:00",
+          "image": {
+            "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/03/c4ffe52e-3f54-4e5c-b22a-2db0eaaa8923/thumbnail/1024x576/780ba80fe5c9c972c2d04b3277629727/trail-camera-image.jpg",
+            "alt": ""
+          },
+          "uid": "c179fed3-1ae6-4ea2-a67f-c09886bc5af6",
+          "description": "A 65-year-old man is facing four felony counts for allegedly tampering with a water system on Berthoud Pass that delivers drinking water to some Front Range communities.",
+          "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+        }
+      ]
     }
   ],
   "conversation_starters": [
+    {
+      "title": "Federal disaster aid approved for Colorado counties affected by Aspen Acres and Gold Mountain Fires",
+      "summary": "",
+      "source": "9NEWS",
+      "topic": "weather-hazard",
+      "topics_secondary": [],
+      "url": "https://www.9news.com/article/news/local/wildfire/federal-disaster-aid-approved-for-colorado-counties-affected-by-aspen-acres-and-gold-mountain-fires/73-a6e495b7-ee78-415a-a9bf-a2794c3b98d5",
+      "published_at": "2026-09-05T05:12:48+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/b125ca14-c8e1-44e0-a579-5eb05390aae4/20260826T002318/b125ca14-c8e1-44e0-a579-5eb05390aae4_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "30944db6-eaa3-4e84-a4c8-a5f2933cbe52",
+      "description": "On Friday, Democratic Governor Jared Polis announced that the Trump administration had approved public assistance for Colorado's Major Disaster Declaration.",
+      "questions": [
+        "Have the Aspen Acres or Gold Mountain fires affected anyone you know?",
+        "Have you been following what the federal disaster aid is expected to cover?"
+      ]
+    },
     {
       "title": "City of Boulder to begin construction on flood mitigation project",
       "summary": "",
@@ -143,26 +232,6 @@
       "questions": [
         "Has the construction along South Boulder Creek changed the route to work?",
         "Is flooding along South Boulder Creek something the neighborhood has dealt with before?"
-      ]
-    },
-    {
-      "title": "Boulder’s Roots Music Festival returns as Tulagi, with ambitions far beyond music",
-      "summary": "",
-      "source": "Boulder Reporting Lab",
-      "topic": "culture-events",
-      "topics_secondary": [],
-      "url": "https://boulderreportinglab.org/2026/08/27/boulders-roots-music-festival-returns-as-tulagi-with-ambitions-far-beyond-music/",
-      "published_at": "2026-08-27T19:13:33+00:00",
-      "image": {
-        "url": "https://i0.wp.com/boulderreportinglab.org/wp-content/uploads/2026/08/viewfrom16thstreetstage-e1787849493991.png?fit=1024%2C802&ssl=1",
-        "alt": ""
-      },
-      "uid": "1f075edd-7255-47eb-a3a8-1a085dc3087f",
-      "description": "The renamed festival aims to complement Sundance, put Boulder back on the national music map and eventually rival SXSW. The post Boulder’s Roots Music Festival returns as Tulagi, with ambitions far beyond music appeared first on The Boulder Reporting Lab.",
-      "logo": "https://boulderreportinglab.org/wp-content/uploads/2021/06/cropped-brl-favicon-32x32.png",
-      "questions": [
-        "Are you planning to check out the Tulagi festival?",
-        "What is the live music scene like in Boulder these days?"
       ]
     },
     {
@@ -187,41 +256,121 @@
       ]
     },
     {
-      "title": "Waymo launches in Denver: Here's where you can ride",
-      "summary": "Waymo launched its driverless taxi service in Denver, the state capital, about 30 miles southeast of Boulder, initially covering 60 square miles.",
+      "title": "Hundreds of thousands of holiday travelers expected in Colorado over Labor Day weekend",
+      "summary": "Denver International Airport forecasts screening 433,000 passengers over the Labor Day weekend and CDOT, the Colorado Department of Transportation, said 47,000 cars will travel I-70, the interstate running west from Denver into the mountains, through the mountain tunnels Friday to Monday.",
       "source": "9NEWS",
       "topic": "transportation",
       "topics_secondary": [],
-      "url": "https://www.9news.com/article/news/community/transportation/waymo-launches-denver-map-area/73-47825686-251b-40c7-9b3f-f56e8ddbbc4a",
-      "published_at": "2026-09-01T14:25:03+00:00",
+      "url": "https://www.9news.com/article/news/community/transportation/hundreds-of-thousands-holiday-travelers-expected-colorado-labor-day-weekend/73-d99df098-89e7-429f-ba1c-962eb224de00",
+      "published_at": "2026-09-03T16:18:47+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/KPNX/images/b8446ee1-1c3c-4e09-9117-88c4ae031563/20260820T143745/b8446ee1-1c3c-4e09-9117-88c4ae031563_750x422.jpg",
+        "url": "https://media.tegna-media.com/assets/KUSA/images/906bb50e-afba-4eaa-b206-94879bb09e16/20260903T135624/906bb50e-afba-4eaa-b206-94879bb09e16_750x422.jpg",
         "alt": ""
       },
-      "uid": "c402ca27-e61b-44dd-8d34-edf72fdb87ad",
-      "description": "Waymo launched its driverless taxi service in Denver on Tuesday, initially covering 60 square miles.",
+      "uid": "71c0110d-fb70-404d-b5ae-4b0eec9511a6",
+      "description": "Denver International Airport forecasts screening 433,000 passengers over the weekend and CDOT said 47,000 cars will travel I-70 through the tunnels Friday to Monday.",
       "questions": [
-        "Have the driverless taxis started showing up around Denver?",
-        "Would riding in a Waymo be something worth trying?"
+        "Do the holiday weekend crowds change travel plans there?",
+        "Is mountain traffic on I-70 something people plan around?"
       ]
     },
     {
-      "title": "Bear attacks woman in Estes Park home",
-      "summary": "The woman in her 80s says the bear scratched her stomach and knocked her to the ground inside her home in Estes Park, a mountain town about 35 miles northwest of Boulder.",
-      "source": "9NEWS",
-      "topic": "wildlife",
+      "title": "Colorado drought improves slightly after recent rainfall, but severe conditions remain",
+      "summary": "",
+      "source": "CBS Colorado",
+      "topic": "drought-water",
       "topics_secondary": [],
-      "url": "https://www.9news.com/article/life/animals/estes-park-bear-attack/73-427a4da2-700c-47eb-802d-8a009f15b057",
-      "published_at": "2026-08-28T23:24:37+00:00",
+      "url": "https://www.cbsnews.com/colorado/news/colorado-drought-improves-slightly-rainfall-severe-conditions/",
+      "published_at": "2026-09-04T19:34:00+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/KUSA/images/d4d1f25e-36c1-4206-8b68-18a8497c9189/20260824T104303/d4d1f25e-36c1-4206-8b68-18a8497c9189_750x422.jpg",
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/04/0e651813-30c6-4cec-a99b-abe40a5f3522/thumbnail/1024x576/7ad3b62897b55a3f1bc1a5a916c57001/alex-drought-change-map.png",
         "alt": ""
       },
-      "uid": "579b4f55-d72b-44df-8efb-be5ede8d7c17",
-      "description": "The woman in her 80s says the bear scratched her stomach and knocked her to the ground.",
+      "uid": "89af8004-73e4-4b92-a98d-485427c4a5a4",
+      "description": "Recent rainfall brought small improvements to Colorado's drought conditions, but nearly half the state remains in Extreme or Exceptional Drought.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg",
       "questions": [
-        "Did you hear about the bear that got into a home in Estes Park?",
-        "Do bears turn up around your neighborhood?"
+        "Has the recent rain made a noticeable difference where you are?",
+        "Do the drought conditions change how you spend time outdoors?"
+      ]
+    },
+    {
+      "title": "Bear spotted outside Northern Colorado school ready to head back to class",
+      "summary": "A small bear was spotted outside B.F. Kitchen Elementary School in southwest Loveland, a city about 30 miles north of Boulder.",
+      "source": "CBS Colorado",
+      "topic": "wildlife",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/colorado/news/bear-northern-colorado-loveland-school-class/",
+      "published_at": "2026-08-31T18:27:12+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/31/a66e507b-6753-4b81-8641-5d1d04c53ebd/thumbnail/1024x576/ae9991082d32d6d984633e2816e41296/bear-at-school-1-still-from-video-credit-aja-hemmati.png",
+        "alt": ""
+      },
+      "uid": "ff06489a-e1f0-46b2-893c-d570c93d3f96",
+      "description": "A small bear was spotted outside B.F. Kitchen Elementary School in southwest Loveland early Monday morning.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg",
+      "questions": [
+        "Do bears turn up around town in Boulder too?",
+        "Has a bear ever shown up near the neighborhood?"
+      ]
+    },
+    {
+      "title": "Alterra Mountain moving HQ to downtown Denver",
+      "summary": "Alterra Mountain Co., the ski-resort operator, plans to relocate its headquarters to downtown Denver, the state capital, about 30 miles southeast of Boulder, moving into the former Denver Post building.",
+      "source": "9NEWS",
+      "topic": "business-jobs",
+      "topics_secondary": [],
+      "url": "https://www.9news.com/article/money/business/alterra-mountain-headquarters-denver-move/73-138878d3-bd1a-48c2-9861-f09e74e04fb7",
+      "published_at": "2026-09-03T22:26:34+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/8f153822-2539-4fb2-a8c1-ff6263a06eca/20260617T031552/8f153822-2539-4fb2-a8c1-ff6263a06eca_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "dabb24bd-57b0-4c2d-af3f-df11024d33f6",
+      "description": "Alterra Mountain Co. plans to relocate its headquarters to downtown Denver, moving into the former Denver Post building.",
+      "questions": [
+        "Is the ski industry a big employer for people in the area?",
+        "Has downtown Denver been drawing companies back in?"
+      ]
+    },
+    {
+      "title": "Boulder County’s starring role in the 1966 ‘Stagecoach’ remake",
+      "summary": "The star-studded 1966 remake of the iconic 1939 western “Stagecoach” was filmed at Silver Lake, a mountain reservoir about 15 miles west of Boulder, along the Switzerland Trail, an old railroad grade in the foothills west of Boulder, and at the Blue Bird Mine complex.",
+      "source": "Boulder Reporting Lab",
+      "topic": "human-interest",
+      "topics_secondary": [],
+      "url": "https://boulderreportinglab.org/2026/09/04/boulder-countys-starring-role-in-the-1966-stagecoach-remake/",
+      "published_at": "2026-09-04T06:34:44+00:00",
+      "image": {
+        "url": "https://i0.wp.com/boulderreportinglab.org/wp-content/uploads/2026/09/1.-VanHeflinMarshalSlimPlckensdriver-scaled.jpg?fit=1024%2C731&ssl=1",
+        "alt": ""
+      },
+      "uid": "481bdc15-3937-4ae9-a507-b5880bc5c773",
+      "description": "The star-studded 1966 remake of the iconic 1939 western “Stagecoach” was filmed at Silver Lake, along the Switzerland Trail and at the Blue Bird Mine complex. The post Boulder County’s starring role in the 1966 ‘Stagecoach’ remake appeared first on The Boulder Reporting Lab.",
+      "logo": "https://boulderreportinglab.org/wp-content/uploads/2021/06/cropped-brl-favicon-32x32.png",
+      "questions": [
+        "Was it known locally that a Hollywood western was filmed in the area?",
+        "Is the Switzerland Trail somewhere people still hike or ride?"
+      ]
+    },
+    {
+      "title": "Denver's annual Dragon Boat Festival draws over 150,000 people",
+      "summary": "Large crowds came out to enjoy the annual Dragon Boat Festival, held at Sloan's Lake Park in Denver, the state capital, about 30 miles southeast of Boulder.",
+      "source": "CBS Colorado",
+      "topic": "culture-events",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/colorado/video/denvers-annual-dragon-boat-festival-draws-over-150000-people/",
+      "published_at": "2026-08-30T23:20:00+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/30/3b580d43-3bda-4730-b8ed-c0cd4350dae8/thumbnail/1024x576/146209966527953989ae01c1bc71eaa6/ec97c60b33d609c2ccf0cdb6d9b2f145.jpg",
+        "alt": ""
+      },
+      "uid": "c2b1eb42-de65-44b6-88d9-0b9bea4890f4",
+      "description": "Large crowds came out to enjoy the annual Dragon Boat Festival, which took place in Denver this weekend at Sloan's Lake Park.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg",
+      "questions": [
+        "Have you ever been to the Dragon Boat Festival at Sloan's Lake?",
+        "Are there summer festivals around Boulder you look forward to?"
       ]
     },
     {
@@ -244,28 +393,134 @@
       ]
     },
     {
-      "title": "Colorado family looking for answers after military helicopter crashes near their property",
-      "summary": "",
-      "source": "CBS Colorado",
-      "topic": "accident",
+      "title": "Jury convicted woman in 2022 double homicide after original prosecutor disqualified",
+      "summary": "The bodies of Rodulfo Santillan-Reyes and Ryan Roth were found down a steep, rocky cliff in Phantom Canyon, a remote canyon in the mountains south of Boulder, in February of 2022.",
+      "source": "9NEWS",
+      "topic": "violent-crime",
       "topics_secondary": [],
-      "url": "https://www.cbsnews.com/colorado/video/colorado-family-looking-for-answers-after-military-helicopter-crashes-near-their-property/",
-      "published_at": "2026-08-29T23:44:00+00:00",
+      "url": "https://www.9news.com/article/news/crime/2022-phantom-canyon-homicide-conviction/73-ab2c5a44-2299-47d4-be4e-00d231c4ad0e",
+      "published_at": "2026-09-03T23:30:29+00:00",
       "image": {
-        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/29/d777d458-cc4d-416a-959f-15cf12d6192b/thumbnail/1024x576/ad2b2582f8012e47d659603afbc35454/4c4724ebe8f7b7d79d33db8873af93d3.jpg",
+        "url": "https://media.tegna-media.com/assets/KCEN/images/a911bc4a-4f4f-4d5c-9a08-529cf6d9ed45/a911bc4a-4f4f-4d5c-9a08-529cf6d9ed45_750x422.png",
         "alt": ""
       },
-      "uid": "1466e297-fdd6-41ab-9911-b288a2f7d958",
-      "description": "A U.S. Army Black Hawk helicopter went down in Colorado earlier this week, and a family that lives in a nearby home is now searching for answers.",
+      "uid": "e1684dd5-7f7b-4265-b73d-c1374a9de38b",
+      "description": "The bodies of Rodulfo Santillan-Reyes and Ryan Roth were found down a steep, rocky cliff in Phantom Canyon in February of 2022.",
+      "questions": [
+        "Has the case been followed locally over the past few years?",
+        "Did the prosecutor being disqualified draw much attention?"
+      ]
+    },
+    {
+      "title": "Colorado community leaders reflect after Aurora teen takeover damages businesses",
+      "summary": "Police in Aurora, a large suburb 40 miles SE of Boulder, said a crowd of about 500 descended on a shopping center, with social media video capturing a chaotic scene at a King Soopers grocery store and other businesses, and warned that the consequences can become serious very quickly. In the days after, community activists argued that adults were partly to blame for what was being called a teen takeover, and community leaders reflected on what went right and wrong around the youth basketball tournaments the crowds formed around, after businesses were damaged.",
+      "source": "CBS Colorado",
+      "topic": "property-crime",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/colorado/news/colorado-community-leaders-reflect-aurora-youth-basketball-events-disarray/",
+      "published_at": "2026-09-04T02:28:35+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/04/0fd6f479-730d-4276-bf08-ef97f9b1af75/thumbnail/1024x576/4384ee21407096d8618419aec9c44fd9/olivia-omega.jpg",
+        "alt": ""
+      },
+      "uid": "4701bfb8-e54d-47ba-ab85-10f02f34cc48",
+      "description": "Community leaders in Aurora are reflecting on what went right and what went wrong during recent youth basketball tournaments.",
       "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg",
       "questions": [
-        "Did you hear about the Army helicopter that went down in Colorado?",
-        "Was the crash anywhere near you?"
+        "Has the situation in Aurora come up in conversation locally?",
+        "Do big youth tournaments usually bring crowds into the area?"
+      ],
+      "thread": [
+        {
+          "title": "'The consequences can become serious very quickly': Aurora police say crowd of 500 descended on local shopping center",
+          "summary": "",
+          "source": "9NEWS",
+          "topic": "property-crime",
+          "topics_secondary": [],
+          "url": "https://www.9news.com/article/news/local/aurora-police-investigating-after-crowd-of-500-descends-on-local-shopping-center/73-e66ded08-da2a-46e2-a102-224681b05df8",
+          "published_at": "2026-09-01T01:04:28+00:00",
+          "image": {
+            "url": "https://media.tegna-media.com/assets/KUSA/images/ecd0c24c-2aab-4814-b21e-e288a96a9d78/20260831T232916/ecd0c24c-2aab-4814-b21e-e288a96a9d78_750x422.jpg",
+            "alt": ""
+          },
+          "uid": "ab6ec36a-cf6c-48e1-8163-1d2ed8b28fcb",
+          "description": "Social media videos captured chaotic scene at King Soopers, other establishments."
+        },
+        {
+          "title": "Community activists claim adults partly to blame for \"teen takeover\" in Aurora",
+          "summary": "",
+          "source": "CBS Colorado",
+          "topic": "property-crime",
+          "topics_secondary": [],
+          "url": "https://www.cbsnews.com/colorado/video/community-activists-claim-adults-partly-to-blame-for-teen-takeover-in-aurora/",
+          "published_at": "2026-09-03T19:16:00+00:00",
+          "image": {
+            "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/03/c78f779f-da78-47c9-8540-82ff2ab65c96/thumbnail/1024x576/b5ca1967b1c9d7881dc036a969a162f0/84fc0cb4ee000f8eabc78fc5f29c88ab.jpg",
+            "alt": ""
+          },
+          "uid": "8e75d77a-ed82-4b2e-8d55-6c345f6ebfa1",
+          "description": "Community activists claim that adults are partly to blame for the \"teen takeover\" in Aurora.",
+          "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+        },
+        {
+          "title": "Colorado community leaders reflect after Aurora teen takeover damages businesses",
+          "summary": "",
+          "source": "CBS Colorado",
+          "topic": "property-crime",
+          "topics_secondary": [],
+          "url": "https://www.cbsnews.com/colorado/news/colorado-community-leaders-reflect-aurora-youth-basketball-events-disarray/",
+          "published_at": "2026-09-04T02:28:35+00:00",
+          "image": {
+            "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/04/0fd6f479-730d-4276-bf08-ef97f9b1af75/thumbnail/1024x576/4384ee21407096d8618419aec9c44fd9/olivia-omega.jpg",
+            "alt": ""
+          },
+          "uid": "4701bfb8-e54d-47ba-ab85-10f02f34cc48",
+          "description": "Community leaders in Aurora are reflecting on what went right and what went wrong during recent youth basketball tournaments.",
+          "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+        }
+      ]
+    },
+    {
+      "title": "'The casino is in your pocket:' New Colorado law targets abusive sports betting practices",
+      "summary": "A new Colorado law limits deposits, bans push notifications and blocks credit card bets — counselors at CU Boulder, the University of Colorado's campus in Boulder, say the law is another tool to help students.",
+      "source": "9NEWS",
+      "topic": "gambling-lottery",
+      "topics_secondary": [],
+      "url": "https://www.9news.com/article/news/local/local-politics/the-casino-is-in-your-pocket-new-colorado-law-targets-abusive-sports-betting-practices/73-9385b54e-e4df-4f6c-969f-2df4cd6cf636",
+      "published_at": "2026-08-30T01:49:01+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/a425b5e0-8a35-4689-8792-33db057faef7/20260811T223835/a425b5e0-8a35-4689-8792-33db057faef7_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "bc5d2390-8cb8-4465-b98f-769d2c8d9fa6",
+      "description": "A new Colorado law limits deposits, bans push notifications and blocks credit card bets — CU Boulder counselors say it's another tool to help students.",
+      "questions": [
+        "Has the new sports betting law come up around Boulder?",
+        "Do students talk much about sports betting at CU?"
+      ]
+    },
+    {
+      "title": "Vail breaks ground on $185M workforce housing project",
+      "summary": "The Southface project aims to provide 268 affordable apartments to help workers live near their jobs in Vail, a mountain ski-resort town about 100 miles west of Boulder, addressing high living costs there.",
+      "source": "9NEWS",
+      "topic": "housing",
+      "topics_secondary": [],
+      "url": "https://www.9news.com/article/money/business/vail-affordable-apartments-workforce-housing/73-ef2f4859-6f1e-49cb-9f1c-165388bb1a94",
+      "published_at": "2026-09-03T13:33:36+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/eb60221e-c9cf-49c6-afa5-214dbb009219/eb60221e-c9cf-49c6-afa5-214dbb009219_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "48216e78-8814-435d-82cf-876e73cf0aab",
+      "description": "The Southface project aims to provide 268 affordable apartments to help workers live near their jobs, addressing high living costs in the area.",
+      "questions": [
+        "Is housing for workers a topic in the area too?",
+        "Do people commute long distances for work around there?"
       ]
     },
     {
       "title": "Colorado families may be missing out on thousands in tax credits: it's not too late to apply",
-      "summary": "Coverage returned through the week to the same warning for Colorado households: many families struggling to make ends meet could be leaving thousands of dollars unclaimed through state tax credits designed to help lower-income households, and there is still time to apply.",
+      "summary": "Coverage across the week highlighted that many Colorado families struggling to make ends meet are leaving thousands of dollars unclaimed in state tax credits designed to help lower-income households, with reporting stressing that it is not too late to apply.",
       "source": "CBS Colorado",
       "topic": "public-benefits",
       "topics_secondary": [
@@ -322,228 +577,105 @@
           "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
         }
       ]
-    },
-    {
-      "title": "'The casino is in your pocket:' New Colorado law targets abusive sports betting practices",
-      "summary": "A new Colorado law limits deposits, bans push notifications and blocks credit card bets — counselors at CU Boulder, the University of Colorado's campus in Boulder, say the law is another tool to help students.",
-      "source": "9NEWS",
-      "topic": "gambling-lottery",
-      "topics_secondary": [],
-      "url": "https://www.9news.com/article/news/local/local-politics/the-casino-is-in-your-pocket-new-colorado-law-targets-abusive-sports-betting-practices/73-9385b54e-e4df-4f6c-969f-2df4cd6cf636",
-      "published_at": "2026-08-30T01:49:01+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KUSA/images/a425b5e0-8a35-4689-8792-33db057faef7/20260811T223835/a425b5e0-8a35-4689-8792-33db057faef7_750x422.jpg",
-        "alt": ""
-      },
-      "uid": "bc5d2390-8cb8-4465-b98f-769d2c8d9fa6",
-      "description": "A new Colorado law limits deposits, bans push notifications and blocks credit card bets — CU Boulder counselors say it's another tool to help students.",
-      "questions": [
-        "Has the new sports betting law come up around Boulder?",
-        "Do students talk much about sports betting at CU?"
-      ]
-    },
-    {
-      "title": "Bear cub relocated after climbing a tree in Superior",
-      "summary": "A bear cub was relocated after climbing a tree in Superior, a small town about 8 miles southeast of Boulder.",
-      "source": "CBS Colorado",
-      "topic": "wildlife",
-      "topics_secondary": [],
-      "url": "https://www.cbsnews.com/colorado/video/bear-cub-relocated-after-climbing-a-tree-in-superior/",
-      "published_at": "2026-08-27T13:20:00+00:00",
-      "image": {
-        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/27/140e662b-51bc-498d-a2e5-1092eb96c9cc/thumbnail/1024x576/61fad01781adbb5a7925d5ee77eaf556/dd8ba5143d959c270bf8557329184aa1.jpg",
-        "alt": ""
-      },
-      "uid": "f4f33b82-515d-4653-8120-4f043f4f208e",
-      "description": "A bear cub was relocated after climbing a tree in Superior.",
-      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg",
-      "questions": [
-        "Did the bear cub in Superior make the rounds locally?",
-        "Is wildlife wandering into town common around Boulder?"
-      ]
-    },
-    {
-      "title": "Colorado Ski Passport returns for 30th year, opening slopes to kids",
-      "summary": "",
-      "source": "9NEWS",
-      "topic": "other",
-      "topics_secondary": [],
-      "url": "https://www.9news.com/article/life/style/colorado-guide/colorado-ski-passport-kids/73-aecc3e9a-11fe-4fa7-9130-9b5f174009f4",
-      "published_at": "2026-09-01T10:21:25+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KUSA/images/c0ca0acf-e3ff-401a-9e29-b373637d0cdb/20260901T100627/c0ca0acf-e3ff-401a-9e29-b373637d0cdb_750x422.jpg",
-        "alt": ""
-      },
-      "uid": "e278403b-f4d6-4811-acd2-a9c91aadd966",
-      "description": "The Colorado Ski Passport offers kids four days of skiing at 19 resorts, celebrating 30 years of making Colorado's slopes accessible to young skiers.",
-      "questions": [
-        "Does the Colorado Ski Passport get used in the household?",
-        "Which of the 19 resorts is the easiest to reach from Boulder?"
-      ]
-    },
-    {
-      "title": "Halloween festival brings thousands of jack-o’-lanterns to Colorado",
-      "summary": "",
-      "source": "9NEWS",
-      "topic": "culture-events",
-      "topics_secondary": [],
-      "url": "https://www.9news.com/article/life/holidays/halloween/magic-jack-o-lanterns-festival-denver/73-f886e264-f39d-4464-b35b-2a5b5e953a8e",
-      "published_at": "2026-08-31T17:20:28+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KUSA/images/7283a048-3340-45e6-8fa3-e48e61cf44f9/7283a048-3340-45e6-8fa3-e48e61cf44f9_750x422.jpg",
-        "alt": ""
-      },
-      "uid": "3e459bd6-f0a3-4d6f-9090-ce7029c7d6e8",
-      "description": "Approximately every 30 minutes, illuminated jack o’ lanterns and displays dance along to music, transforming the trail into a glowing Halloween spectacle.",
-      "questions": [
-        "Is the jack-o'-lantern festival a yearly tradition around Colorado?",
-        "Would the Halloween festival be worth the drive?"
-      ]
-    },
-    {
-      "title": "Watch the lunar eclipse peak in Colorado",
-      "summary": "Colorado got a near-total lunar eclipse, 96% at its peak, with coverage first setting out the viewing time and then capturing the eclipse itself from the Eastern Plains, the flat farmland stretching east of Colorado's mountains.",
-      "source": "CBS Colorado",
-      "topic": "science",
-      "topics_secondary": [],
-      "url": "https://www.cbsnews.com/colorado/video/watch-the-lunar-eclipse-peak-in-colorado/",
-      "published_at": "2026-08-28T05:42:00+00:00",
-      "image": {
-        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/28/d5dff03e-8921-4f0d-882c-927ccec2f84a/thumbnail/1024x576/1469f1c8f0030a7a380dcc417d53c21a/b44ac6ff0147a6d14674bcbe32d6dc3b.jpg",
-        "alt": ""
-      },
-      "uid": "67aacfda-37e7-49ed-a4c7-7f01fe446065",
-      "description": "Joe Ruch went out on the Eastern Plains to capture the lunar eclipse.",
-      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg",
-      "questions": [
-        "Did you get a look at the lunar eclipse?",
-        "Where do you go around Boulder for a clear view of the night sky?"
-      ],
-      "thread": [
-        {
-          "title": "96% Lunar Eclipse tonight in Colorado, here is when to view",
-          "summary": "",
-          "source": "CBS Colorado",
-          "topic": "science",
-          "topics_secondary": [],
-          "url": "https://www.cbsnews.com/colorado/video/96-lunar-eclipse-tonight-in-colorado-here-is-when-to-view/",
-          "published_at": "2026-08-27T23:32:00+00:00",
-          "image": {
-            "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/27/fe3fa9c7-57ed-4f8e-8a2d-3525a521e346/thumbnail/1024x576/e90652b5447ad95ff4eca9db07bae48f/067cf35ab702212026aff761afd60e10.jpg",
-            "alt": ""
-          },
-          "uid": "9538e296-6e5f-46b2-85f8-110fbaa11fdb",
-          "description": "The lunar eclipse will be visible tonight in Colorado.",
-          "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
-        },
-        {
-          "title": "Watch the lunar eclipse peak in Colorado",
-          "summary": "",
-          "source": "CBS Colorado",
-          "topic": "science",
-          "topics_secondary": [],
-          "url": "https://www.cbsnews.com/colorado/video/watch-the-lunar-eclipse-peak-in-colorado/",
-          "published_at": "2026-08-28T05:42:00+00:00",
-          "image": {
-            "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/28/d5dff03e-8921-4f0d-882c-927ccec2f84a/thumbnail/1024x576/1469f1c8f0030a7a380dcc417d53c21a/b44ac6ff0147a6d14674bcbe32d6dc3b.jpg",
-            "alt": ""
-          },
-          "uid": "67aacfda-37e7-49ed-a4c7-7f01fe446065",
-          "description": "Joe Ruch went out on the Eastern Plains to capture the lunar eclipse.",
-          "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Residents back home after Moose Mountain Fire sparks in Northern Colorado",
-      "summary": "The Moose Mountain Fire briefly pushed people out of their homes in northern Colorado. Mandatory evacuations were ordered for the area of Pinewood Springs, a small mountain town about 25 miles northwest of Boulder, in Larimer County, just north of Boulder County. Those evacuations were later lifted and residents returned home.",
-      "source": "CBS Colorado",
-      "topic": "weather-hazard",
-      "topics_secondary": [],
-      "url": "https://www.cbsnews.com/colorado/video/residents-back-home-after-moose-mountain-fire-sparks-in-northern-colorado/",
-      "published_at": "2026-08-29T04:09:00+00:00",
-      "image": {
-        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/29/5c583689-8088-43a3-a2c9-7a7e15f7701a/thumbnail/1024x576/4b6fc9bebf42ba60dee2497d81b8ed03/a0e82af611fe699db3ef75f5757aad47.jpg",
-        "alt": ""
-      },
-      "uid": "c7c6a618-4699-4721-9215-bb01e90b6a65",
-      "description": "Evacuations lifted for residents in the area of Pinewood Springs in Larimer County for the Moose Mountain Fire.",
-      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg",
-      "questions": [
-        "Did the Moose Mountain Fire come close to anyone you know?",
-        "Does wildfire season change your plans this time of year?"
-      ],
-      "thread": [
-        {
-          "title": "Mandatory evacuations ordered for Pinewood Springs in Northern Colorado for Moose Mountain Fire",
-          "summary": "",
-          "source": "CBS Colorado",
-          "topic": "weather-hazard",
-          "topics_secondary": [],
-          "url": "https://www.cbsnews.com/colorado/video/mandatory-evacuations-ordered-for-pinewood-springs-in-northern-colorado-for-moose-mountain-fire/",
-          "published_at": "2026-08-28T20:23:00+00:00",
-          "image": {
-            "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/28/a71c6735-8b15-4a8d-a496-035ab11c67c9/thumbnail/1024x576/7e925a9406f8c148e74ad48abaa1caaa/85cef64a793334c9e59db0d059f3d3d6-6.jpg",
-            "alt": ""
-          },
-          "uid": "a7453935-5356-42e3-98af-b8f02e8b8592",
-          "description": "Mandatory evacuations have been ordered for residents in the area of Pinewood Springs in Larimer County for the Moose Mountain Fire.",
-          "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
-        },
-        {
-          "title": "Residents back home after Moose Mountain Fire sparks in Northern Colorado",
-          "summary": "",
-          "source": "CBS Colorado",
-          "topic": "weather-hazard",
-          "topics_secondary": [],
-          "url": "https://www.cbsnews.com/colorado/video/residents-back-home-after-moose-mountain-fire-sparks-in-northern-colorado/",
-          "published_at": "2026-08-29T04:09:00+00:00",
-          "image": {
-            "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/29/5c583689-8088-43a3-a2c9-7a7e15f7701a/thumbnail/1024x576/4b6fc9bebf42ba60dee2497d81b8ed03/a0e82af611fe699db3ef75f5757aad47.jpg",
-            "alt": ""
-          },
-          "uid": "c7c6a618-4699-4721-9215-bb01e90b6a65",
-          "description": "Evacuations lifted for residents in the area of Pinewood Springs in Larimer County for the Moose Mountain Fire.",
-          "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
-        }
-      ]
-    },
-    {
-      "title": "My Chemical Romance brings 'Black Parade' tour to Denver's Coors Field",
-      "summary": "My Chemical Romance is set to play Coors Field, the baseball stadium in Denver, the state capital, about 30 miles southeast of Boulder, with their \"The Black Parade\" 20th anniversary concert on Thursday, joined by The Breeders.",
-      "source": "9NEWS",
-      "topic": "culture-events",
-      "topics_secondary": [],
-      "url": "https://www.9news.com/article/life/style/colorado-guide/my-chemical-romance-denver-concert/73-7238d368-a1f3-4cbe-87d1-06870d3c4458",
-      "published_at": "2026-08-27T20:52:38+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/e0643b0b-2d9f-4d7a-871d-cf7caec77362/20250922T175944/e0643b0b-2d9f-4d7a-871d-cf7caec77362_750x422.jpg",
-        "alt": ""
-      },
-      "uid": "a2f4103c-faf9-4dac-9b30-07b7a0b5f704",
-      "description": "My Chemical Romance is set to rock Coors Field in Denver with their \"The Black Parade\" 20th anniversary concert on Thursday, joined by The Breeders.",
-      "questions": [
-        "Do you go to concerts at Coors Field?",
-        "Were you a My Chemical Romance fan back in the day?"
-      ]
     }
   ],
   "you_should_know": [
     {
-      "title": "Boulder’s new land-use plan could make room for up to 40% more housing",
-      "summary": "The update to the land-use map for the Boulder Valley, the city and the surrounding county land, follows two years of public engagement and debate and establishes a new long-term development framework for the region.",
-      "source": "Boulder Reporting Lab",
-      "topic": "housing",
+      "title": "Barry Morphew arrested, booked into Boulder County Jail on outstanding warrant",
+      "summary": "The case against Barry Morphew, the Colorado man charged with murdering his wife Suzanne, moved back into the courts over his conduct while out on bond. Prosecutors asked a judge to tighten his bond conditions after an alleged hit-and-run in Denver, the state capital, about 30 miles southeast of Boulder. He was then booked into the Boulder County Jail late one Thursday night on an outstanding warrant, according to a custody record.",
+      "source": "CBS Colorado",
+      "topic": "violent-crime",
       "topics_secondary": [],
-      "url": "https://boulderreportinglab.org/2026/08/27/boulders-new-land-use-plan-could-make-room-for-up-to-40-more-housing/",
-      "published_at": "2026-08-28T03:55:17+00:00",
+      "url": "https://www.cbsnews.com/colorado/news/barry-morphew-booked-boulder-county-jail/",
+      "published_at": "2026-09-04T12:54:25+00:00",
       "image": {
-        "url": "https://i0.wp.com/boulderreportinglab.org/wp-content/uploads/2025/12/multiunithousing.jpg?fit=1024%2C683&ssl=1",
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/04/85a8899a-657d-40b5-874c-be0627718771/thumbnail/1024x576/d7626816431a2b7728c3cdbcb30f0a7c/barry-morphew-mug-boulder-county.jpg",
         "alt": ""
       },
-      "uid": "6320ead5-0713-4bb9-853e-a2e8b5eee192",
-      "description": "The update to the Boulder Valley’s land-use map follows two years of public engagement and debate and establishes a new long-term development framework for the region. The post Boulder’s new land-use plan could make room for up to 40% more housing appeared first on The Boulder",
-      "logo": "https://boulderreportinglab.org/wp-content/uploads/2021/06/cropped-brl-favicon-32x32.png"
+      "uid": "90102bab-6127-488e-9fce-ea7b62c44133",
+      "description": "Barry Morphew was booked into the Boulder County Jail late Thursday night, according to a custody record.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg",
+      "thread": [
+        {
+          "title": "Prosecutors seek tougher bond restrictions for Barry Morphew",
+          "summary": "",
+          "source": "CBS Colorado",
+          "topic": "violent-crime",
+          "topics_secondary": [],
+          "url": "https://www.cbsnews.com/colorado/video/prosecutors-seek-tougher-bond-restrictions-for-barry-morphew/",
+          "published_at": "2026-09-03T22:21:00+00:00",
+          "image": {
+            "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/09/03/1f3ac490-67d8-4ac3-bf3f-f2d3997b807f/thumbnail/1024x576/5788581a452801acb22036f099eaaa63/c280e47269d5a89bbb2433ef94862c17.jpg",
+            "alt": ""
+          },
+          "uid": "4d0265e8-d08e-4b53-a292-d63f8988704d",
+          "description": "Prosecutors are asking a judge to further tighten Barry Morphew's bond conditions following an alleged hit-and-run in Denver that was first reported by CBS Colorado.",
+          "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+        },
+        {
+          "title": "Barry Morphew arrested, booked into Boulder County Jail on outstanding warrant",
+          "summary": "",
+          "source": "CBS Colorado",
+          "topic": "violent-crime",
+          "topics_secondary": [],
+          "url": "https://www.cbsnews.com/colorado/news/barry-morphew-booked-boulder-county-jail/",
+          "published_at": "2026-09-04T12:54:25+00:00",
+          "image": {
+            "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/04/85a8899a-657d-40b5-874c-be0627718771/thumbnail/1024x576/d7626816431a2b7728c3cdbcb30f0a7c/barry-morphew-mug-boulder-county.jpg",
+            "alt": ""
+          },
+          "uid": "90102bab-6127-488e-9fce-ea7b62c44133",
+          "description": "Barry Morphew was booked into the Boulder County Jail late Thursday night, according to a custody record.",
+          "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Weather unit guiding planes through Colorado skies was closed for parts of 3 days due to short-staffing, documents show",
+      "summary": "A bulletin from the NWS, the National Weather Service, said the weather team based in Longmont, a city about 15 miles northeast of Boulder, was closed due to short-staffing.",
+      "source": "9NEWS",
+      "topic": "government",
+      "topics_secondary": [],
+      "url": "https://www.9news.com/article/weather/weather-unit-guiding-planes-colorado-closed-short-staffing/73-a7aa3854-b323-4041-87a8-ab39384ef24e",
+      "published_at": "2026-09-03T00:38:54+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/a7fadde9-fbc4-4afd-a342-7224d1c55679/20260903T001821/a7fadde9-fbc4-4afd-a342-7224d1c55679_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "0397dbe5-3849-4b1c-82e6-955919004b64",
+      "description": "NWS bulletin said the Longmont-based weather team was closed due to short-staffing."
+    },
+    {
+      "title": "The only domestic violence shelter in Northern Colorado city could close during high demand",
+      "summary": "Safe Shelter at St Vrain Valley, the only domestic violence shelter in Longmont, a city about 15 miles northeast of Boulder, says it needs to raise $295,000 by the end of the year to keep all of its services open.",
+      "source": "CBS Colorado",
+      "topic": "public-benefits",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/colorado/news/domestic-violence-shelter-northern-colorado-high-demand/",
+      "published_at": "2026-08-31T17:35:39+00:00",
+      "image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/31/2de250f0-c0f8-4a83-b2f7-c7c61c91e6d5/thumbnail/1024x576/148d41b6cf0428e692c0b78aedf718a2/longmont-dv-center-10pkg-transfer-frame-2774.jpg",
+        "alt": ""
+      },
+      "uid": "9722ca02-b413-43a1-9a0e-4202beb15a07",
+      "description": "Longmont's only domestic violence shelter, Safe Shelter at St Vrain Valley, says it needs to raise $295,000 by the end of the year to keep all of its services open.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    },
+    {
+      "title": "Colorado's \"birthday rule\" creates coverage headaches for family of twins",
+      "summary": "",
+      "source": "CBS Colorado",
+      "topic": "public-health",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/colorado/news/colorados-birthday-rule-coverage-headaches-family-twins/",
+      "published_at": "2026-09-05T12:12:22+00:00",
+      "image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/05/185f362e-4498-49c8-bf91-69ed99e57aa9/thumbnail/1024x576/774f1670034363a96153bbe10004f4de/children.jpg",
+        "alt": ""
+      },
+      "uid": "e0bf8fe3-6119-453a-90b6-0cf914f07672",
+      "description": "Despite having health insurance, families in Colorado have been hit with massive medical bills after their babies spent time in NICUs.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
     },
     {
       "title": "Colorado waits for disaster aid as Trump doles out assistance to political allies",
@@ -563,35 +695,35 @@
       "description": "The Aspen Acres and Gold Mountain fires burned more than 300 homes and caused nearly $19 million in damage to public infrastructure."
     },
     {
-      "title": "The only domestic violence shelter in Northern Colorado city could close during high demand",
-      "summary": "Safe Shelter at St Vrain Valley, the only domestic violence shelter in Longmont, a city about 15 miles northeast of Boulder, says it needs to raise $295,000 by the end of the year to keep all of its services open.",
-      "source": "CBS Colorado",
-      "topic": "public-benefits",
+      "title": "San Lazaro residents need millions to buy their Boulder County mobile home park before someone else does",
+      "summary": "",
+      "source": "9NEWS",
+      "topic": "housing",
       "topics_secondary": [],
-      "url": "https://www.cbsnews.com/colorado/news/domestic-violence-shelter-northern-colorado-high-demand/",
-      "published_at": "2026-08-31T17:35:39+00:00",
+      "url": "https://www.9news.com/article/news/community/san-lazaro-residents-need-millions-to-buy-their-boulder-county-mobile-home-park-before-someone-else-does/73-b430ebd8-4f8d-4a50-a9c5-6a09819583f0",
+      "published_at": "2026-09-04T00:55:53+00:00",
       "image": {
-        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/31/2de250f0-c0f8-4a83-b2f7-c7c61c91e6d5/thumbnail/1024x576/148d41b6cf0428e692c0b78aedf718a2/longmont-dv-center-10pkg-transfer-frame-2774.jpg",
+        "url": "https://media.tegna-media.com/assets/KUSA/images/e1a51a9f-1f46-4230-8e56-7624a8a6561c/20260903T234026/e1a51a9f-1f46-4230-8e56-7624a8a6561c_750x422.jpg",
         "alt": ""
       },
-      "uid": "9722ca02-b413-43a1-9a0e-4202beb15a07",
-      "description": "Longmont's only domestic violence shelter, Safe Shelter at St Vrain Valley, says it needs to raise $295,000 by the end of the year to keep all of its services open.",
-      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+      "uid": "1dbec65e-8c48-42f4-85b4-5c73346003ba",
+      "description": "An unidentified buyer offered $42.5 million for the Boulder County property, giving its 213 households until Dec. 8 to submit a competing offer."
     },
     {
-      "title": "Erie Town Council reverses course on mineral rights sale, energy company pulls plug on deal",
-      "summary": "SM Energy, an oil and gas producer, backed out of the sale just weeks after Erie, a town about 10 miles east of Boulder, received enough signatures to take the question of mineral rights to a voter referendum.",
-      "source": "9NEWS",
-      "topic": "energy-utilities",
+      "title": "Colorado students organize walkout to protest ICE actions",
+      "summary": "",
+      "source": "CBS Colorado",
+      "topic": "immigration-enforcement",
       "topics_secondary": [],
-      "url": "https://www.9news.com/article/money/business/erie-town-council-mineral-rights/73-ec736b7b-fa17-4acd-96c9-79e69e239012",
-      "published_at": "2026-08-27T23:28:33+00:00",
+      "url": "https://www.cbsnews.com/colorado/news/colorado-students-organize-walkout-protest-ice-actions/",
+      "published_at": "2026-09-05T02:09:54+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/KUSA/images/a210b413-c760-45ad-8f2b-04ec3891c4ac/20260827T232653/a210b413-c760-45ad-8f2b-04ec3891c4ac_750x422.jpg",
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/09/04/a8254e52-0f46-4034-b5c9-49c9ec7a6a27/thumbnail/1024x576/d40ca78c3ef1543246bc92f8f86fd056/student-walkouts-galarza-1a-frame-429.jpg",
         "alt": ""
       },
-      "uid": "f48ceb36-d2b0-4ae5-ae60-faadf80f9a21",
-      "description": "SM Energy backed out of the sale just weeks after the town received enough signatures to take the question of mineral rights to a voter referendum this fall."
+      "uid": "37ed6f7b-3173-4ccf-9aad-6d4dfbd2daa9",
+      "description": "Some high school students in Colorado organized a walkout to protest ICE actions on Friday.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
     },
     {
       "title": "Young cancer survivors push for change in Colorado legislation",
@@ -607,6 +739,22 @@
       },
       "uid": "68ba3e3d-2f53-4fa1-bd2b-06d35c1f052e",
       "description": "Two nuclear sites in Colorado could be the cause of cancer for some Coloradans. One woman has started a grassroots effort to track cases of cancer in young people in Jefferson County, near the former Rocky Flats nuclear weapons plant. Now, U.S. Rep. Brittany Pettersen is pushing",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    },
+    {
+      "title": "New Colorado law allows tougher charges in some fatal crashes",
+      "summary": "",
+      "source": "CBS Colorado",
+      "topic": "government",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/colorado/news/new-colorado-law-tougher-charges-fatal-crashes-alex-mackiewicz/",
+      "published_at": "2026-09-03T01:22:00+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/03/14/1037e7b7-0cb0-484c-ad3f-fb508c152ba1/thumbnail/1024x576/07f20d0b24b4e0b248b567dddaa8cce2/alex-mackiewicz.jpg",
+        "alt": ""
+      },
+      "uid": "18e5ad5b-ffe7-48c9-afcc-353634f2add9",
+      "description": "Effective Sept. 1, crimes for some fatal crashes could be charged as criminally negligent homicide, a Class 5 felony carrying up to three years in prison.",
       "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
     },
     {
@@ -626,84 +774,20 @@
       "logo": "https://boulderreportinglab.org/wp-content/uploads/2021/06/cropped-brl-favicon-32x32.png"
     },
     {
-      "title": "Federal judge temporarily blocks new mail-in ballot rule",
-      "summary": "Colorado joined more than two dozen states in suing the U.S. Postal Service over a new rule that would have let the agency regulate how mail ballots are handled, filed 69 days before the November election, with county clerks from both parties across the state saying they were already building contingency plans ahead of ballots going out in early October. A federal judge then temporarily blocked the rule.",
-      "source": "CBS Colorado",
-      "topic": "elections-politics",
-      "topics_secondary": [],
-      "url": "https://www.cbsnews.com/colorado/video/federal-judge-temporarily-blocks-new-mail-in-ballot-rule/",
-      "published_at": "2026-08-28T04:09:00+00:00",
-      "image": {
-        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/28/1ad95f71-be21-482a-bfe5-f3dffb527513/thumbnail/1024x576/f0fa214aa03ae8dd568bf7a762799d98/17ac133317520185b2ca976a46edc339.jpg",
-        "alt": ""
-      },
-      "uid": "362b9fc9-3538-48d8-8650-e7c482b4b113",
-      "description": "A federal judge has temporarily blocked a new rule that would have allowed the U.S. Postal Service to regulate mail-in ballots. Colorado was among more than two dozen states that filed a lawsuit to block the rule.",
-      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg",
-      "thread": [
-        {
-          "title": "Colorado sues USPS over mail ballot rule 69 days before the November election",
-          "summary": "",
-          "source": "9NEWS",
-          "topic": "elections-politics",
-          "topics_secondary": [],
-          "url": "https://www.9news.com/article/news/local/local-politics/colorado-sues-usps-mail-ballot-rule-november-election/73-dd5cef4c-4992-41dd-b3ed-09ffdf9ab5dc",
-          "published_at": "2026-08-27T00:47:52+00:00",
-          "image": {
-            "url": "https://media.tegna-media.com/assets/KUSA/images/20f034f2-9f9d-416d-848c-2ff104f90751/20260827T000433/20f034f2-9f9d-416d-848c-2ff104f90751_750x422.jpg",
-            "alt": ""
-          },
-          "uid": "a381c3cf-bf06-48d0-8994-7a77f6f55788",
-          "description": "County clerks from both parties across the state say they're already building contingency plans, with ballots set to go out in early October."
-        },
-        {
-          "title": "Federal judge temporarily blocks new mail-in ballot rule",
-          "summary": "",
-          "source": "CBS Colorado",
-          "topic": "elections-politics",
-          "topics_secondary": [],
-          "url": "https://www.cbsnews.com/colorado/video/federal-judge-temporarily-blocks-new-mail-in-ballot-rule/",
-          "published_at": "2026-08-28T04:09:00+00:00",
-          "image": {
-            "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/28/1ad95f71-be21-482a-bfe5-f3dffb527513/thumbnail/1024x576/f0fa214aa03ae8dd568bf7a762799d98/17ac133317520185b2ca976a46edc339.jpg",
-            "alt": ""
-          },
-          "uid": "362b9fc9-3538-48d8-8650-e7c482b4b113",
-          "description": "A federal judge has temporarily blocked a new rule that would have allowed the U.S. Postal Service to regulate mail-in ballots. Colorado was among more than two dozen states that filed a lawsuit to block the rule.",
-          "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Colorado voters won't decide major road funding ballot measure in November",
+      "title": "Ty Haney and Katie Wolf: BVSD should prove school closures are the best option",
       "summary": "",
-      "source": "CBS Colorado",
-      "topic": "elections-politics",
+      "source": "Boulder Reporting Lab",
+      "topic": "education",
       "topics_secondary": [],
-      "url": "https://www.cbsnews.com/colorado/news/colorado-voters-major-road-funding-ballot-measure-november/",
-      "published_at": "2026-08-27T16:21:11+00:00",
+      "url": "https://boulderreportinglab.org/2026/09/04/ty-haney-and-katie-wolf-bvsd-should-prove-school-closures-are-the-best-option/",
+      "published_at": "2026-09-04T06:34:09+00:00",
       "image": {
-        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/19/b63c3c73-07f8-4056-9127-8c388fb5f596/thumbnail/1024x576/f52b1d494ac2d70db6ca57155e1f3496/buckley-buckling-2-arapco-so-on-fb.jpg",
+        "url": "https://i0.wp.com/boulderreportinglab.org/wp-content/uploads/2025/04/BRL_OpinionGraphic1.jpg?fit=1024%2C576&ssl=1",
         "alt": ""
       },
-      "uid": "cb0bda12-52f3-41de-9547-2490112c6f4f",
-      "description": "State lawmakers have reached a deal that funds repairs and improvements to roads across Colorado and will take the Restore Our Roads measure off the November ballot.",
-      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
-    },
-    {
-      "title": "59 confidential Colorado voters' profiles accessed after website update",
-      "summary": "",
-      "source": "9NEWS",
-      "topic": "government",
-      "topics_secondary": [],
-      "url": "https://www.9news.com/article/news/local/local-politics/confidential-colorado-voters-profiles-accessed/73-41f3e2eb-ecdd-4c26-8bef-a14ccd1ad73a",
-      "published_at": "2026-08-28T02:44:02+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KUSA/images/c4222c23-ec75-4440-83e9-e94c1f465ca8/c4222c23-ec75-4440-83e9-e94c1f465ca8_750x422.jpg",
-        "alt": ""
-      },
-      "uid": "6cd8d269-1475-4ea6-8a07-ff55bc1e250b",
-      "description": "Democratic Secretary of State Jena Griswold said she sincerely regrets what happened."
+      "uid": "8d1d366b-a028-4564-94cd-48b86273afb0",
+      "description": "Declining enrollment is real. But before closing neighborhood elementary schools, the district should publicly model less destructive alternatives and explain why they would not work. The post Ty Haney and Katie Wolf: BVSD should prove school closures are the best option",
+      "logo": "https://boulderreportinglab.org/wp-content/uploads/2021/06/cropped-brl-favicon-32x32.png"
     },
     {
       "title": "Colorado trucking school ordered to shut down as federal crackdown targets fraudulent practices",
@@ -722,89 +806,94 @@
       "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
     },
     {
-      "title": "Immigration processing times double in 2 years",
-      "summary": "",
-      "source": "9NEWS",
-      "topic": "immigration-enforcement",
-      "topics_secondary": [],
-      "url": "https://www.9news.com/article/news/politics/immigration-news/immigration-processing-times-double/73-52cbaa9a-3fbb-47af-8f27-f2b031e7c7a4",
-      "published_at": "2026-09-01T01:31:38+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KUSA/images/6af670ab-ca1d-4e42-afd5-a10ecb44e66c/20260519T001354/6af670ab-ca1d-4e42-afd5-a10ecb44e66c_750x422.jpg",
-        "alt": ""
-      },
-      "uid": "d94ae4ad-4426-4ccf-814a-9a678abfcd88",
-      "description": "U.S. immigration wait times have surged, with attorney Ian Rochstein noting routine approvals are often taking years."
-    },
-    {
-      "title": "Colorado Congresswoman introduces legislation to update Radiation Exposure Compensation Act",
-      "summary": "",
-      "source": "CBS Colorado",
-      "topic": "government",
-      "topics_secondary": [
-        "public-health"
-      ],
-      "url": "https://www.cbsnews.com/colorado/news/colorado-congresswoman-pettersen-legislation-radiation-exposure-compensation-reauthorization-act/",
-      "published_at": "2026-09-01T13:00:59+00:00",
-      "image": {
-        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/01/949c5655-9753-4e71-ba9f-f69236e1ce80/thumbnail/1024x576/80129e3a60edfb666c717c2a30f47dc8/reca-expansion-6pkg-transfer-frame-2053.jpg",
-        "alt": ""
-      },
-      "uid": "9019b915-6b09-4eec-b025-2943ef016f8b",
-      "description": "If passed, the legislation would expand eligibility for residents in 57 Colorado zip codes to get compensation based on a list of eligible diseases and cancers, and would include coverage for workers and residents known as \"downwinders.\"",
-      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
-    },
-    {
-      "title": "Substance abuse recovery center in Colorado to lose Medicaid access to treatment",
-      "summary": "",
+      "title": "Number of Colorado overdose deaths rising, to the concern of medical professionals",
+      "summary": "Lindsey Fish, a Colorado doctor and chief of Urgent Care at Denver Health, the public hospital system serving Denver, spoke about how to prevent opioid overdoses and how to treat substance use disorders.",
       "source": "CBS Colorado",
       "topic": "public-health",
       "topics_secondary": [],
-      "url": "https://www.cbsnews.com/colorado/news/substance-abuse-recovery-center-littleton-colorado-lose-medicaid-access-treatment/",
-      "published_at": "2026-08-28T14:21:43+00:00",
+      "url": "https://www.cbsnews.com/colorado/video/number-of-colorado-overdose-deaths-rising-to-the-concern-of-medical-professionals/",
+      "published_at": "2026-09-03T22:29:00+00:00",
       "image": {
-        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/28/b34c5a24-9972-4588-a7bf-5fd308d6ca41/thumbnail/1024x576/40192dd453b0778f1e1180196c492fc6/recovery-center-medicaid-63pkg-transfer-frame-2625.jpg",
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/03/aa930300-eb56-43d7-bb82-0b08d5cb888c/thumbnail/1024x576/16fe4a284773e43a21657f948f5b9c8d/483332860527e40ef041241a3366c485.jpg",
         "alt": ""
       },
-      "uid": "a42598a3-4476-46ec-a190-47199bfe7c32",
-      "description": "The president of New Beginnings Recovery Center says they were informed that their contract to serve members with Medicaid is expiring in February 2027.",
+      "uid": "09c0a1fc-d568-42e8-a554-3eafc6b028f7",
+      "description": "Lindsey Fish, a Colorado doctor and chief of Urgent Care at Denver Health, spoke about how to prevent opioid overdoses and how to treat substance use disorders.",
       "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
     },
     {
-      "title": "Denver mayor safe after security detail draws gun on knife-wielding man; \"Over in a matter of seconds,\" office says",
-      "summary": "Denver Mayor Mike Johnston's security detail drew his gun on a man at Union Station, Denver's main train and bus hub, the mayor's office said.",
-      "source": "CBS Colorado",
-      "topic": "government",
-      "topics_secondary": [
-        "policing"
-      ],
-      "url": "https://www.cbsnews.com/colorado/news/denver-mayor-safe-security-detail-draws-gun-knife-man/",
-      "published_at": "2026-09-01T12:41:24+00:00",
-      "image": {
-        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/09/01/701d5c69-7aa2-4aa8-ad0c-346844dac23a/thumbnail/1024x576/a039b9cd7a092c984273aa6d0887df5a/gettyimages-1177051210.jpg",
-        "alt": ""
-      },
-      "uid": "be258f58-e2a5-4608-ae5f-74ee9a2fe079",
-      "description": "Denver Mayor Mike Johnston's security detail drew his gun on a man at Union Station last week, the mayor's office said Monday.",
-      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
-    },
-    {
-      "title": "Colorado regulators set to adopt new rules in death care regulation on Monday",
-      "summary": "",
+      "title": "Denver councilman warns of gaps as ShotSpotter contract winds down",
+      "summary": "The ShotSpotter contract in Denver, the state capital, about 30 miles southeast of Boulder, expires in December with no replacement lined up. A councilman warns the city could lose a key gunfire-detection tool.",
       "source": "9NEWS",
-      "topic": "government",
+      "topic": "policing",
       "topics_secondary": [],
-      "url": "https://www.9news.com/article/news/local/colorado-news/colorado-regulators-new-rules-death-care-regulation/73-18fe96c8-8dc9-4f80-ba0f-9b4c0a03f799",
-      "published_at": "2026-08-28T00:55:52+00:00",
+      "url": "https://www.9news.com/article/news/crime/denver-shotspotter-contract-expires/73-afc13d13-5708-408a-845a-4f4a7b5d593d",
+      "published_at": "2026-09-03T22:50:54+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/KUSA/images/c0d73486-3385-4c54-a967-3e38b6e53ce3/20250823T001040/c0d73486-3385-4c54-a967-3e38b6e53ce3_750x422.jpg",
+        "url": "https://media.tegna-media.com/assets/KUSA/images/b728b09d-90b7-47a1-b2a3-6282de2cad10/20260903T205457/b728b09d-90b7-47a1-b2a3-6282de2cad10_750x422.jpg",
         "alt": ""
       },
-      "uid": "c9ca3169-f405-4806-bdd7-901252d37a4d",
-      "description": "House Bill 1258 established more regulation in death care-related practices. Some rules associated with that legislation will be adopted on Monday once finalized."
+      "uid": "fd1c00f6-3740-4a5d-8656-89ab0eb67dab",
+      "description": "Denver's ShotSpotter contract expires in December with no replacement lined up. A councilman warns the city could lose a key gunfire-detection tool."
+    },
+    {
+      "title": "Denver businesses now legally have to compost and recycle",
+      "summary": "The city of Denver, the state capital, about 30 miles southeast of Boulder, is enacting its Universal Recycling and Composting Ordinance, which requires businesses to compost and recycle.",
+      "source": "CBS Colorado",
+      "topic": "environment-conservation",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/colorado/news/denver-businesses-compost-recycle-ordinance/",
+      "published_at": "2026-09-04T02:01:10+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/09/04/cbd1fe1e-eb5b-4791-aa55-81a68eb9fcaf/thumbnail/1024x576/2e6ca76bebcb4c644be3811eda821070/recycling.jpg",
+        "alt": ""
+      },
+      "uid": "81966cc7-341a-4de9-972b-ce6297a5b8c1",
+      "description": "Starting this week, the city of Denver is enacting its Universal Recycling and Composting Ordinance.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
     }
   ],
   "sports": [
+    {
+      "team": "CSU Rams",
+      "scores": [
+        "renews Border War with Wyoming"
+      ]
+    },
+    {
+      "team": "Broncos",
+      "scores": [
+        "Nix snubbed in QB rankings",
+        "Mahomes on track to start Week 1 vs Broncos",
+        "school-attendance initiative",
+        "biggest preseason crowd in a decade",
+        "sets practice squad, loses two",
+        "radio voice on running-game needs",
+        "pleads not guilty, trial in November",
+        "sets 53-man roster, cuts Joly"
+      ]
+    },
+    {
+      "team": "Buffaloes",
+      "scores": [
+        "Buffaloes 14, Georgia Tech 13",
+        "new $5 fan value menu at venues",
+        "new videoboard, in-game host at Folsom"
+      ]
+    },
+    {
+      "team": "Rapids",
+      "scores": [
+        "record cash trade sends Navarro to St. Louis"
+      ]
+    },
+    {
+      "team": "Rockies",
+      "scores": [
+        "Rockies 6, Orioles 5 (11 innings)",
+        "lose on game-saving catch"
+      ]
+    },
     {
       "team": "Nuggets",
       "scores": [
@@ -812,42 +901,9 @@
       ]
     },
     {
-      "team": "Broncos",
-      "scores": [
-        "biggest preseason crowd in a decade",
-        "sets practice squad, loses two",
-        "radio voice on running-game needs",
-        "pleads not guilty, trial in November",
-        "cuts Prentice and 10 others",
-        "owner sees Super Bowl contender",
-        "Broncos 34, Vikings 6",
-        "families find affordable preseason seats",
-        "Nix back from ankle surgeries",
-        "giant stadium sandwich debuts"
-      ]
-    },
-    {
-      "team": "Rockies",
-      "scores": [
-        "lose on game-saving catch"
-      ]
-    },
-    {
       "team": "Rams",
       "scores": [
         "opens Pac-12 era vs Wyoming"
-      ]
-    },
-    {
-      "team": "Buffaloes",
-      "scores": [
-        "new videoboard, in-game host at Folsom"
-      ]
-    },
-    {
-      "team": "Avalanche",
-      "scores": [
-        "Makar signs record 8-year extension"
       ]
     }
   ]

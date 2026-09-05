@@ -1,0 +1,213 @@
+{
+  "shortName": "Minneapolis, MN",
+  "metroCode": "33460",
+  "metro": "Minneapolis-St. Paul-Bloomington, MN-WI",
+  "date": "2026-09-04",
+  "are_you_ok": [
+    {
+      "title": "Minnesota weather: Heat advisory for Twin Cities as Friday turns hot and humid",
+      "summary": "",
+      "source": "FOX 9",
+      "topic": "weather-hazard",
+      "topics_secondary": [],
+      "url": "https://www.fox9.com/weather/minnesota-weather-forecast-sept-4-2026",
+      "published_at": "2026-09-04T11:27:59+00:00",
+      "image": {
+        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/09/clean-feed-am-news-6a2026_09_04-kmspme003_05_59_59_00.31.31.52.jpg",
+        "alt": ""
+      },
+      "uid": "c3d94101-f50d-42e0-9a3f-e37bc91bf455",
+      "questions": [
+        "Was it hot enough in Minneapolis to change any plans?",
+        "Does the office stay comfortable on days that humid?"
+      ],
+      "description": "Minnesota heats up Friday as sunshine, humidity and temperatures in the 80s and 90s make for a steamy afternoon."
+    },
+    {
+      "title": "Walmart berry recall expands over E. coli contamination risk",
+      "summary": "",
+      "source": "FOX 9",
+      "topic": "product-recall",
+      "topics_secondary": [
+        "health-hazard"
+      ],
+      "url": "https://www.fox9.com/news/walmart-berry-recall-e-coli-contamination-risk",
+      "published_at": "2026-09-04T18:06:40+00:00",
+      "image": {
+        "url": "https://static.livenowfox.com/www.livenowfox.com/content/uploads/2026/09/recalled-berries-.jpg",
+        "alt": ""
+      },
+      "uid": "4e47428d-432a-49ae-914f-226f5cfabadf",
+      "questions": [
+        "Have you seen the recall notice on the frozen berries sold at Walmart?",
+        "Did the recall reach any of the stores you shop at?"
+      ],
+      "description": "The new recall is an expansion of one issued in July with federal health officials saying the affected frozen berries were sold at Walmart stores in multiple states including Florida, Illinois, and Minnesota."
+    }
+  ],
+  "conversation_starters": [
+    {
+      "title": "Railing collapse after high school football game at Eagan's TCO Stadium leaves several people hurt",
+      "summary": "Several people were injured in a railing collapse at TCO Stadium, the Minnesota Vikings' training facility in Eagan, a suburb about 15 miles southeast of Minneapolis, following a football game between Cretin-Derham Hall and St. Thomas Academy, according to the Minnesota Vikings.",
+      "source": "CBS Minnesota",
+      "topic": "accident",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/minnesota/news/railing-collapse-tco-cretin-derham-st-thomas/",
+      "published_at": "2026-09-04T22:29:23+00:00",
+      "image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/04/25ecc35f-a9cd-449b-94b6-0ce09bea3b2a/thumbnail/1024x576/cce0d1296b1be2569f4f93fc9742e7e2/vikings-tco-stadium-vo.jpg",
+        "alt": ""
+      },
+      "uid": "a3dbe9ea-ff0f-4996-b708-d6a5385e2c23",
+      "questions": [
+        "Did you hear about the railing collapse after the high school football game in Eagan?",
+        "Any word on how the people who were hurt at TCO Stadium are doing?"
+      ],
+      "description": "Several people were injured in a railing collapse at TCO Stadium in Eagan, Minnesota, Thursday night, following a football game between Cretin-Derham Hall and St. Thomas Academy, according to the Minnesota Vikings.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    },
+    {
+      "title": "Minnesota State Fair: Best Awards announced for 2026",
+      "summary": "The Minnesota State Fair, known locally as the Great Minnesota Get-Together, has announced its annual awards for the fair's best exhibitors, concessions, attractions and food.",
+      "source": "FOX 9",
+      "topic": "culture-events",
+      "topics_secondary": [],
+      "url": "https://www.fox9.com/news/minnesota-state-fair-best-awards-2026",
+      "published_at": "2026-09-04T23:06:57+00:00",
+      "image": {
+        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/09/minnesota-state-fair-sept-3-2026.jpg",
+        "alt": ""
+      },
+      "uid": "3bb04fff-56a6-411d-a6fe-466b851d723d",
+      "questions": [
+        "Did any of the State Fair award winners match your own favorites?",
+        "What is the one thing at the Minnesota State Fair worth standing in line for?"
+      ],
+      "description": "The Great Minnesota Get-Together has announced its annual awards for the fair’s best exhibitors, concessions, attractions and food."
+    },
+    {
+      "title": "Bemidji could play home to a Hallmark Holiday Movie",
+      "summary": "A Hallmark Holiday Movie could be filmed in Bemidji, a small city about 200 miles northwest of Minneapolis. But to make it a reality, the city needs your help! Here's how to make Bemidji the next Hallmark Movie location.",
+      "source": "CBS Minnesota",
+      "topic": "human-interest",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/minnesota/video/bemidji-could-play-home-to-a-hallmark-holiday-movie/",
+      "published_at": "2026-09-04T00:03:00+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/04/ca1a100d-eb8c-408f-988f-8fa7c70a1765/thumbnail/1024x576/dee03e32a51ac3a0f135adda4072b218/569207f23ee6bea426465831734d6876.jpg",
+        "alt": ""
+      },
+      "uid": "236a01eb-a494-423f-96e2-41cb6535ca06",
+      "questions": [
+        "Have you heard about the push to get a Hallmark holiday movie filmed in Bemidji?",
+        "Do parts of Minnesota get used for filming often?"
+      ],
+      "description": "A Hallmark Holiday Movie could be filmed in Bemidji. But to make it a reality, the city needs your help! Here's how to make Bemidji the next Hallmark Movie location.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    }
+  ],
+  "sports": [
+    {
+      "team": "Vikings",
+      "scores": [
+        "names 2026 team captains"
+      ]
+    },
+    {
+      "team": "Timberwolves",
+      "scores": [
+        "agree to deal with Kuminga"
+      ]
+    },
+    {
+      "team": "Gophers",
+      "scores": [
+        "Gophers 59, Eastern Illinois 7"
+      ]
+    }
+  ],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "Unsealed federal indictment details alleged lies by ICE officer charged in Minneapolis shooting",
+      "summary": "",
+      "source": "CBS Minnesota",
+      "topic": "violent-crime",
+      "topics_secondary": [
+        "immigration-enforcement"
+      ],
+      "url": "https://www.cbsnews.com/minnesota/news/ice-agent-christian-castro-minneapolis-shooting-unsealed-indictment/",
+      "published_at": "2026-09-04T20:31:52+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/28/18bc9863-c02d-49fa-a4c2-fadbfc9c399b/thumbnail/1024x576/8f2b553140bffb9bf36a46822efdb61d/bp-crash-subclip-h264-00-00-00-18-still002.jpg",
+        "alt": ""
+      },
+      "uid": "cd9d031d-c18d-4557-9a4d-8e947326cb13",
+      "description": "The federal indictment against ICE officer Christian Castro has been unsealed, detailing charges accusing him of lying to investigators about a north Minneapolis shooting of a Venezuelan immigrant in January.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    },
+    {
+      "title": "Autism treatment plan approval backlog in Minnesota leaves families frustrated",
+      "summary": "",
+      "source": "CBS Minnesota",
+      "topic": "public-benefits",
+      "topics_secondary": [
+        "public-health"
+      ],
+      "url": "https://www.cbsnews.com/minnesota/news/autism-treatment-plan-approval-backlog-minnesota/",
+      "published_at": "2026-09-04T23:10:00+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/09/04/0dcf2ec7-c7ac-4945-9156-09a4a665904c/thumbnail/1024x576/138ae13326ff3915b48a258f27503f72/5p-pkg-autism-care-centers-wccob7oi.jpg",
+        "alt": ""
+      },
+      "uid": "2f581a07-0fff-41d6-8d81-de58bae157f7",
+      "description": "The Minnesota Department of Human Services is working with a contractor to correct an autism treatment plan backlog that is frustrating both parents and providers.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    },
+    {
+      "title": "Minneapolis shooting renews push to expand Minnesota's red flag law",
+      "summary": "",
+      "source": "FOX 9",
+      "topic": "elections-politics",
+      "topics_secondary": [],
+      "url": "https://www.fox9.com/news/minneapolis-shooting-renews-push-expand-red-flag-law-sept-4-2026",
+      "published_at": "2026-09-04T22:10:31+00:00",
+      "image": {
+        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/09/vlcsnap-2026-09-04-17h05m55s351.jpg",
+        "alt": ""
+      },
+      "uid": "6537dbfe-239c-47e6-9557-070c349825c9",
+      "description": "A mass shooting on the outskirts of downtown Minneapolis is reigniting calls for stronger red flag laws."
+    },
+    {
+      "title": "Minnesota hemp THC drinks: Federal ban deadline set as Minneapolis brewery faces revenue loss",
+      "summary": "",
+      "source": "FOX 9",
+      "topic": "business-jobs",
+      "topics_secondary": [],
+      "url": "https://www.fox9.com/news/minnesota-hemp-thc-drinks-federal-ban-deadline-set-minneapolis-brewery-faces-revenue-loss",
+      "published_at": "2026-09-04T02:48:52+00:00",
+      "image": {
+        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/09/10-hemp-ban-delay-_-manzoni_00.00.28.54.jpg",
+        "alt": ""
+      },
+      "uid": "a76662be-1bd6-43a5-bd4f-184ea056a950",
+      "description": "A Minneapolis brewery is grappling with how to handle a federal deadline that could wipe out a major slice of its business overnight."
+    },
+    {
+      "title": "Minnesota's AI nudification ban remains in effect after legal challenge from xAI",
+      "summary": "",
+      "source": "FOX 9",
+      "topic": "civil-litigation",
+      "topics_secondary": [],
+      "url": "https://www.fox9.com/news/mn-ai-nudification-ban-remains-after-legal-challenge-from-xai-sept-4-2026",
+      "published_at": "2026-09-04T20:40:04+00:00",
+      "image": {
+        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/05/5v_-nudification-bill-passed_kmspe0ec_146_mxf_00.00.00.38.jpg",
+        "alt": ""
+      },
+      "uid": "6dc3a71b-23b2-4ca1-91dd-886c1f2eed27",
+      "description": "A federal judge has again denied Elon Musk's xAI’s attempt to block Minnesota's ban on AI-generated fake nude images."
+    }
+  ]
+}

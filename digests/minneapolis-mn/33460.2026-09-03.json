@@ -1,0 +1,150 @@
+{
+  "shortName": "Minneapolis, MN",
+  "metroCode": "33460",
+  "metro": "Minneapolis-St. Paul-Bloomington, MN-WI",
+  "date": "2026-09-03",
+  "are_you_ok": [
+    {
+      "title": "Minnesota Supreme Court information impacted by third-party data breach",
+      "summary": "",
+      "source": "CBS Minnesota",
+      "topic": "technology",
+      "topics_secondary": [
+        "government"
+      ],
+      "url": "https://www.cbsnews.com/minnesota/news/minnesota-supreme-court-data-breach/",
+      "published_at": "2026-09-03T16:06:11+00:00",
+      "image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/20/eb8bb2ee-68c0-48fc-8a3f-a10c547de09d/thumbnail/1024x576/8a3d38c15fa61c00b01bbd3df02dade8/arrest-slider.jpg",
+        "alt": ""
+      },
+      "uid": "e867702a-c9f0-4666-bae5-d6ca96cb5bf7",
+      "questions": [
+        "Has the Minnesota court data breach affected anyone you know?",
+        "Have any notices gone out about what was exposed?"
+      ],
+      "description": "The Minnesota Supreme Court and the Minnesota Court of Appeals were among the units of the state's judicial branch that were hit by a data breach involving user information, officials confirmed Thursday.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    },
+    {
+      "title": "Police clear up rumors of ICE presence at Minnesota State Fair, report smooth operations",
+      "summary": "",
+      "source": "CBS Minnesota",
+      "topic": "immigration-enforcement",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/minnesota/news/police-say-so-far-so-good-when-it-comes-to-minnesota-state-fair-safety/",
+      "published_at": "2026-09-03T01:48:37+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/09/02/4d6473d9-acf5-4bd8-b019-6896629368ee/thumbnail/1024x576/c74e7b94318caa7547dd62ccabfeef50/5p-pkg-tsa-state-fair-wccob75w-00-01-1210.jpg",
+        "alt": ""
+      },
+      "uid": "9fd75be3-eff3-4d33-9ca9-f403e7b1bc88",
+      "questions": [
+        "Did the rumors about federal immigration agents at the State Fair come up locally?",
+        "Has the State Fair felt calm this year?"
+      ],
+      "description": "An extensive effort to shield the Minnesota State Fair from threats of violence has paid off as the fair reaches the midway point.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    }
+  ],
+  "conversation_starters": [
+    {
+      "title": "Cancer survivor Randy Moss partners with Minnesota nonprofit to fund research for kids with cancer",
+      "summary": "",
+      "source": "CBS Minnesota",
+      "topic": "human-interest",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/minnesota/video/cancer-survivor-randy-moss-partners-with-minnesota-nonprofit-to-fund-research-for-kids-with-cancer/",
+      "published_at": "2026-09-03T15:57:00+00:00",
+      "image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/03/68bb84bd-1b0b-453b-918c-b6440903209c/thumbnail/1024x576/20a65784ccc77348373536a365b946ab/73a7aa7656fec6f180458c00899d2e73.jpg",
+        "alt": ""
+      },
+      "uid": "8aa36be4-9184-4a70-8706-91fb3fdc9493",
+      "questions": [
+        "Did the Randy Moss cancer research campaign get much attention locally?",
+        "Is the Children's Cancer Research Fund well known around Minneapolis?"
+      ],
+      "description": "After surviving bile duct cancer, NFL Hall of Famer Randy Moss is channeling that experience into a campaign supporting Children's Cancer Research Fund, a Twin Cities nonprofit founded 45 years ago.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    },
+    {
+      "title": "Remaining northern Minnesota wildfires approaching full containment",
+      "summary": "",
+      "source": "FOX 9",
+      "topic": "weather-hazard",
+      "topics_secondary": [],
+      "url": "https://www.fox9.com/news/mn-wildfires-approach-full-containment-after-weeks-battles",
+      "published_at": "2026-09-03T20:34:50+00:00",
+      "image": {
+        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/07/5v-bwca-closure-update_kmsp8c45_146_mxf_00.01.30.46.jpg",
+        "alt": ""
+      },
+      "uid": "2521ade6-c1f8-4399-a2f4-b37d6b6f1e6e",
+      "questions": [
+        "Has the smoke from the northern Minnesota wildfires reached Minneapolis?",
+        "Did the wildfires change any plans for heading up north?"
+      ],
+      "description": "After weeks of work by firefighters in northern Minnesota, all of Minnesota's major wildfires are now at 95% containment or better, according to federal trackers."
+    }
+  ],
+  "sports": [
+    {
+      "team": "Timberwolves",
+      "scores": [
+        "6 games on NBA TV this season"
+      ]
+    }
+  ],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "Minnesota tariffs: Average family paying $2K more as toys, games take hit",
+      "summary": "",
+      "source": "FOX 9",
+      "topic": "business-jobs",
+      "topics_secondary": [],
+      "url": "https://www.fox9.com/news/minnesota-tariffs-average-family-paying-2k-more-toys-games-take-hit",
+      "published_at": "2026-09-03T21:15:41+00:00",
+      "image": {
+        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/09/vlcsnap-2026-09-03-10h46m05s803.jpg",
+        "alt": ""
+      },
+      "uid": "69d15453-ae48-4d76-b7c6-f9863750cf6a",
+      "description": "Minnesota families are feeling the weight of new tariffs — and it's hitting them in the toy aisle."
+    },
+    {
+      "title": "Annunciation Light Alliance remembers Harper and Fletcher",
+      "summary": "Harper and Fletcher's parents talked about their journeys with the Annunciation Light Alliance, a group formed after the deadly shooting at Annunciation Catholic School in Minneapolis. This aired on Aug. 27, 2026.",
+      "source": "CBS Minnesota",
+      "topic": "human-interest",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/minnesota/video/annunciation-light-alliance-remembers-harper-and-fletcher/",
+      "published_at": "2026-09-03T19:25:00+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/09/03/5207f104-c30d-4da3-aaf1-7addccaabd3a/thumbnail/1024x576/ecb856cc5f4ee416f1ebfc747f0e0e80/b8f1daae5600845a51a884df80a4feac.jpg",
+        "alt": ""
+      },
+      "uid": "64e662e1-2c63-4448-a172-a432e182bed2",
+      "description": "Harper and Fletcher's parents talked about their journeys with the Annunciation Light Alliance. This aired on Aug. 27, 2026.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    },
+    {
+      "title": "Minneapolis may add 11 more traffic cameras after data shows steep drop in speeding",
+      "summary": "",
+      "source": "FOX 9",
+      "topic": "transportation",
+      "topics_secondary": [
+        "policing"
+      ],
+      "url": "https://www.fox9.com/news/minneapolis-11-traffic-cameras-data-shows-steep-drop-speeding-september-3-2026",
+      "published_at": "2026-09-03T23:45:19+00:00",
+      "image": {
+        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/09/09_03_26-speed-cameras-raw-broll-ch-mm_00.00.21.38.jpg",
+        "alt": ""
+      },
+      "uid": "130b9f6b-3978-4820-be67-7bc69e29c0e3",
+      "description": "Speed cameras are working in Minneapolis — and now city leaders want more of them."
+    }
+  ]
+}

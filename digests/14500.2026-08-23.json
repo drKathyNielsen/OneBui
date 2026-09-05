@@ -1,0 +1,85 @@
+{
+  "shortName": "Boulder, CO",
+  "metroCode": "14500",
+  "metro": "Boulder, CO",
+  "date": "2026-08-23",
+  "are_you_ok": [
+    {
+      "title": "Severe storm threat continues Sunday in Colorado as scattered storms return",
+      "summary": "",
+      "source": "CBS Colorado",
+      "topic": "severe-weather",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/colorado/video/colorado-weather-severe-storm-threat-continues-sunday-as-scattered-storms-return-through-thursday/",
+      "published_at": "2026-08-23T14:12:00+00:00",
+      "image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/23/3ca8c718-6c39-44cf-ae76-86ab6b08230f/thumbnail/1024x576/1c6e871f7a02490d718f0d703e511c3c/ae0a99bcfca31b1c4c4032681d410be6.jpg",
+        "alt": ""
+      },
+      "uid": "d1ac453d-bc4b-4a72-9387-4f56160f16dc",
+      "questions": [
+        "Have the scattered storms been causing any trouble around Boulder?",
+        "Is the severe storm threat affecting any plans or the commute?"
+      ],
+      "description": "Watch meteorologist Callie Zanandrie's forecast.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    }
+  ],
+  "conversation_starters": [
+    {
+      "title": "Fall Foliage is forecast to arrive early in Colorado",
+      "summary": "",
+      "source": "CBS Colorado",
+      "topic": "human-interest",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/colorado/video/fall-foliage-is-forecast-to-arrive-early-in-colorado/",
+      "published_at": "2026-08-23T01:06:00+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/23/b1a65aa2-9a35-4fa1-8473-680efef98985/thumbnail/1024x576/b86825fac038dc095adbbe85ecb6e4c5/9b5489d10fe0bb8b9178de1e3937834f.jpg",
+        "alt": ""
+      },
+      "uid": "14108513-eb1b-4283-a6d0-9e4ecdecd07f",
+      "questions": [
+        "Have the aspens started turning near Boulder yet?",
+        "Do you have a favorite spot for seeing the fall colors around Boulder?",
+        "Does an early fall change the timing of any leaf-peeping trips?"
+      ],
+      "description": "Colorado's fall colors are starting up to 10 days early in 2026.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    }
+  ],
+  "sports": [],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "Polis officially requests federal disaster declaration for Colorado wildfires and floods",
+      "summary": "",
+      "source": "9NEWS",
+      "topic": "wildfire",
+      "topics_secondary": [],
+      "url": "https://www.9news.com/article/news/local/colorado-news/polis-requests-major-disaster-declaration-support-recovery-wildfires/73-7a4dd46d-7639-42f4-9583-47aaaca54bac",
+      "published_at": "2026-08-23T19:03:16+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/508ad37e-5cb8-485f-b4de-41a1a6160bc4/20260818T225140/508ad37e-5cb8-485f-b4de-41a1a6160bc4_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "30d0a8ad-c689-4f6f-b455-316b736f289a",
+      "description": "Gov. Jared Polis has requested a Major Disaster Declaration to aid recovery from the Aspen Acres and Gold Mountain fires, and subsequent flooding in the burn scars."
+    },
+    {
+      "title": "Lyons could become first Colorado town to require wildfire mitigation at existing homes",
+      "summary": "In an effort to bolster wildfire defenses, the Town of Lyons, a small town about 15 miles north of Boulder, is eyeing an unprecedented ordinance requiring homeowners to implement specific mitigation measures.",
+      "source": "9NEWS",
+      "topic": "wildfire",
+      "topics_secondary": [],
+      "url": "https://www.9news.com/article/news/local/wildfire/lyons-could-become-first-colorado-town-to-require-wildfire-mitigation-at-existing-homes/73-731c0ef4-6519-4432-89b2-1c014307da06",
+      "published_at": "2026-08-23T00:01:23+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/d37e98b0-41ba-4367-96c2-f9f8ce3bf9a5/20260822T220234/d37e98b0-41ba-4367-96c2-f9f8ce3bf9a5_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "74c35f8c-aac2-4b6c-ba71-a468a6ec82d5",
+      "description": "In an effort to bolster wildfire defenses, the Town of Lyons is eyeing an unprecedented ordinance requiring homeowners to implement specific mitigation measures."
+    }
+  ]
+}

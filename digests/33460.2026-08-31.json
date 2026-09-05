@@ -26,6 +26,26 @@
       "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
     },
     {
+      "title": "11-year-old with bone cancer used football to stay strong — then got to coach the Minnesota Vikings",
+      "summary": "",
+      "source": "CBS Minnesota",
+      "topic": "human-interest",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/minnesota/news/bone-cancer-vikings-coach-make-a-wish/",
+      "published_at": "2026-08-31T17:49:51+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/31/63c563e1-3171-44db-9d19-c26f664cefb3/thumbnail/1024x576/d9e18191a22d90954b663e3486439718/download-1.png",
+        "alt": ""
+      },
+      "uid": "1993f125-bc70-4e21-857c-e0325f8c8014",
+      "questions": [
+        "Did you see the story about the 11-year-old who got to coach the Vikings?",
+        "Do you follow the Vikings once the season gets going?"
+      ],
+      "description": "Zy'ire was diagnosed with bone cancer in his tibia, and throughout treatment, his love of the game helped keep his spirits up. Make-A-Wish Minnesota granted his wish by putting him on the sideline in Vikings gear.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    },
+    {
       "title": "Second person charged in connection with missing Suni Lee statue",
       "summary": "Prosecutors in Ramsey County, the county that covers St. Paul, just east of Minneapolis, charged Tamica Bazinet Monday after police located the missing statue inside a St. Paul home Friday morning.",
       "source": "KARE 11",
@@ -45,24 +65,23 @@
       "description": "The Ramsey County Attorney's Office charged Tamica Bazinet Monday after police located the missing statue inside a St. Paul home Friday morning."
     },
     {
-      "title": "11-year-old with bone cancer used football to stay strong — then got to coach the Minnesota Vikings",
+      "title": "Minnesota State Fair inflation slows to 3%, St. Thomas 'On a Stick' report finds",
       "summary": "",
-      "source": "CBS Minnesota",
-      "topic": "human-interest",
+      "source": "FOX 9",
+      "topic": "business-jobs",
       "topics_secondary": [],
-      "url": "https://www.cbsnews.com/minnesota/news/bone-cancer-vikings-coach-make-a-wish/",
-      "published_at": "2026-08-31T17:49:51+00:00",
+      "url": "https://www.fox9.com/news/minnesota-state-fair-inflation-slows-3-2025-ust-on-stick-report-finds",
+      "published_at": "2026-08-31T22:19:08+00:00",
       "image": {
-        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/31/63c563e1-3171-44db-9d19-c26f664cefb3/thumbnail/1024x576/d9e18191a22d90954b663e3486439718/download-1.png",
+        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/08/img_9473-scaled.jpg",
         "alt": ""
       },
-      "uid": "1993f125-bc70-4e21-857c-e0325f8c8014",
+      "uid": "ec8bb0b9-25a9-454a-bdf8-7faf73acceb8",
       "questions": [
-        "Did you see the story about the 11-year-old who got to coach the Vikings?",
-        "Do you follow the Vikings once the season gets going?"
+        "Do you usually make it out to the State Fair?",
+        "What is the one thing at the State Fair actually worth the money?"
       ],
-      "description": "Zy'ire was diagnosed with bone cancer in his tibia, and throughout treatment, his love of the game helped keep his spirits up. Make-A-Wish Minnesota granted his wish by putting him on the sideline in Vikings gear.",
-      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+      "description": "Your wallet might not take as big of a hit at the Minnesota State Fair this year, according to the \"On a Stick\" inflation report done by the University of St. Thomas."
     }
   ],
   "sports": [

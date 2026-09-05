@@ -1,0 +1,184 @@
+{
+  "shortName": "Minneapolis, MN",
+  "metroCode": "33460",
+  "metro": "Minneapolis-St. Paul-Bloomington, MN-WI",
+  "date": "2026-08-28",
+  "are_you_ok": [
+    {
+      "title": "3M accused of contaminating public wells in Hastings with toxic chemical",
+      "summary": "A lawsuit accuses the global manufacturing company 3M of contaminating public drinking water wells in Hastings, a small city about 25 miles southeast of Minneapolis, with the toxic chemical perfluorooctanoic acid.",
+      "source": "CBS Minnesota",
+      "topic": "health-hazard",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/minnesota/news/hastings-lawsuit-3m-pfas-forever-chemicals/",
+      "published_at": "2026-08-28T18:53:00+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/28/1e0c546b-028b-4ccb-bfc2-9fb849f24c02/thumbnail/1024x576/8540f7598724411c0bee0fc435b5adfd/gettyimages-1895743817.jpg",
+        "alt": ""
+      },
+      "uid": "18fe7ff2-8bc1-4102-a664-3f96fa165d79",
+      "questions": [
+        "Are you close enough to Hastings for the water lawsuit against 3M to matter where you live?",
+        "Has anything changed about the drinking water in your area?"
+      ],
+      "description": "A lawsuit accuses the global manufacturing company 3M of contaminating public drinking water wells in Hastings, Minnesota, with the toxic chemical perfluorooctanoic acid.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    }
+  ],
+  "conversation_starters": [
+    {
+      "title": "Minnesota AG announces 10-year oversight agreement in North Memorial Health, Sanford Health merger",
+      "summary": "A major merger between Minnesota-based hospital system North Memorial Health and South Dakota-based Sanford Health was announced, and is set to close within days.",
+      "source": "CBS Minnesota",
+      "topic": "business-jobs",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/minnesota/news/draft-north-memorial-sanford-merger-oversight-agreement/",
+      "published_at": "2026-08-28T22:31:06+00:00",
+      "image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/05/08/b0c93f15-d630-47fd-9aaa-6fc215b20e90/thumbnail/1024x576/b40deeb70c21c72332a974920096fb84/yt-thumbnail-30.png",
+        "alt": ""
+      },
+      "uid": "964deac9-09f5-4ffb-8d42-cbcf29e55f9a",
+      "questions": [
+        "Has the North Memorial and Sanford Health merger been a topic where you are?",
+        "Does the merger change where people in the area get care?"
+      ],
+      "description": "A major merger between Minnesota-based North Memorial Health and South Dakota-based Sanford Health was announced Friday morning, and is set to close in a matter of days.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    },
+    {
+      "title": "Friends remember Minneapolis radio personality Chaz Millionaire as a champion for the community",
+      "summary": "The community is mourning the loss of Charles Dillon, also known as Chaz Millionaire, a longtime voice on the airwaves in the Twin Cities, the neighboring cities of Minneapolis and St. Paul.",
+      "source": "CBS Minnesota",
+      "topic": "human-interest",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/minnesota/news/minneapolis-dj-remembered-chaz-millionaire/",
+      "published_at": "2026-08-28T22:32:19+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/28/c552d5ac-e73a-426f-997f-5df5c5c357ce/thumbnail/1024x576/8ab2dfc5e95bbf0307f3e45dcdd6333e/5p-pkg-chaz-millionaire-wccob67k.jpg",
+        "alt": ""
+      },
+      "uid": "01da3334-3202-4b24-b86a-f11e8ad764ec",
+      "questions": [
+        "Did you listen to Chaz Millionaire on the radio?",
+        "How are people around Minneapolis remembering Chaz Millionaire?"
+      ],
+      "description": "The community is mourning the loss of Charles Dillon, also known as Chaz Millionaire, a longtime voice on the Twin Cities airwaves.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    },
+    {
+      "title": "PGA Tour Americas is back and Adam Thielen is taking to the course",
+      "summary": "The PGA Tour Americas is back in Brainerd, a small city about 130 miles north of Minneapolis, with some big Minnesota sports names — including former Vikings receiver Adam Thielen — changing sports for the week.",
+      "source": "CBS Minnesota",
+      "topic": "sports-offfield",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/minnesota/news/adam-thielen-pga-tour-america-2026/",
+      "published_at": "2026-08-28T03:34:52+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/28/03f9e4a8-ce0d-4462-ab9d-b5e1efec7d6c/thumbnail/1024x576/fa23e63444b5b4d13e0b6568c5f589cf/adam-thielen-golf-brainerd-pkg-wccob62g.jpg",
+        "alt": ""
+      },
+      "uid": "54be4b63-77ab-4bfe-9231-d91dd4a41b83",
+      "questions": [
+        "Do you follow the PGA Tour Americas stop up in Brainerd?",
+        "Is Adam Thielen still a household name around Minnesota?"
+      ],
+      "description": "The PGA Tour Americas is back in Brainerd. With some big Minnesota sports names changing sports for the week.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    }
+  ],
+  "sports": [
+    {
+      "team": "Twins",
+      "scores": [
+        "call up prospect Walker Jenkins"
+      ]
+    },
+    {
+      "team": "Vikings",
+      "scores": [
+        "Turner takes on bigger camp role"
+      ]
+    }
+  ],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "Minnesota fears ICE officer Christian Castro may flee to Mexico after Texas releases him without extradition",
+      "summary": "",
+      "source": "CBS Minnesota",
+      "topic": "violent-crime",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/minnesota/news/castro-ice-officer-flee-mexico-minnesota-extradition/",
+      "published_at": "2026-08-28T13:53:49+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/27/e96e7030-b2bf-4825-9e4d-33a268605442/thumbnail/1024x576/0770a6f1e33dcee067b09512708f142e/christian-castro-leaves-jail-ap-photo.jpg",
+        "alt": ""
+      },
+      "uid": "9d0caa36-1f6d-44d1-bf63-e485be32bcd4",
+      "description": "Minnesota officials say Christian Castro, charged in a January Minneapolis shooting, could cross into Mexico now that Texas has released him without honoring the state's extradition request.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    },
+    {
+      "title": "St. Paul homeless encampment by apartment grows after Pig’s Eye closure",
+      "summary": "After closing the largest homeless encampment in St. Paul, the capital city, just east of Minneapolis, city leaders say they may now be facing an even more dangerous situation.",
+      "source": "FOX 9",
+      "topic": "housing",
+      "topics_secondary": [],
+      "url": "https://www.fox9.com/news/st-paul-homeless-encampment-apartment-grows-after-pigs-eye-closure",
+      "published_at": "2026-08-28T23:00:05+00:00",
+      "image": {
+        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/08/vlcsnap-2026-08-28-17h59m44s230.jpg",
+        "alt": ""
+      },
+      "uid": "9cf0c657-e27c-41ec-b6a6-be12fbf3c82f",
+      "description": "After closing St. Paul's largest homeless encampment, city leaders say they may now be facing an even more dangerous situation."
+    },
+    {
+      "title": "Judge temporarily blocks new Postal Service rules for mail voting",
+      "summary": "",
+      "source": "CBS Minnesota",
+      "topic": "elections-politics",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/minnesota/news/judge-temporarily-blocks-new-postal-service-rules-for-mail-voting-trump/",
+      "published_at": "2026-08-28T19:45:51+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/05/12/ec3ebb6a-ce4f-4ad9-b83e-d5eddb7e23a8/thumbnail/1024x576/517edd58dac427e6f3fde896d6efffd9/gettyimages-2180910258.jpg",
+        "alt": ""
+      },
+      "uid": "efc8b401-6a55-43e2-b034-a7a6b763da61",
+      "description": "A federal judge on Thursday temporarily blocked the U.S. Postal Service from enforcing its new requirements for mail voting for the November midterm elections.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    },
+    {
+      "title": "'We are not satisfied with an apology' | Minnesota civil rights leaders pledge to continue Target boycott",
+      "summary": "",
+      "source": "KARE 11",
+      "topic": "other",
+      "topics_secondary": [],
+      "url": "https://www.kare11.com/article/news/local/minnesota-civil-rights-leaders-pledge-continued-target-boycott/89-b9a35c87-c8e7-41ca-9cd6-09f12257316e",
+      "published_at": "2026-08-28T19:35:09+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KARE/images/b4aed48d-8aee-4dc6-91c1-ebb76fc53cdd/20260828T191534/b4aed48d-8aee-4dc6-91c1-ebb76fc53cdd_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "5dbcd717-bfe5-4559-bb6d-b1c209047e40",
+      "description": "The announcement comes after Target apologized for a racist Halloween costume available for sale on its website."
+    },
+    {
+      "title": "Arguments heard over releasing records in federal conspiracy case against MN 15",
+      "summary": "",
+      "source": "FOX 9",
+      "topic": "other",
+      "topics_secondary": [],
+      "url": "https://www.fox9.com/news/arguments-heard-over-releasing-records-federal-conspiracy-case-against-mn-15",
+      "published_at": "2026-08-28T02:57:39+00:00",
+      "image": {
+        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/08/10natvo-isaac-sant-case-_-soyoung-kim_00.00.12.12.jpg",
+        "alt": ""
+      },
+      "uid": "1cbafb7a-eaf7-42a0-a2e3-461a22a6245f",
+      "description": "A defense attorney in the federal conspiracy case against the group known as the \"Minnesota 15\" argued for the release of more surveillance-related records from the federal government."
+    }
+  ]
+}

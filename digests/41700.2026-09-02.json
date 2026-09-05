@@ -28,14 +28,7 @@
       "description": "2M Smokehouse owners Esaul and Grecia Ramos took home the trophy and a $30,000 prize."
     }
   ],
-  "sports": [
-    {
-      "team": "Spurs",
-      "scores": [
-        "fan meet-and-greet with Champagnie"
-      ]
-    }
-  ],
+  "sports": [],
   "weather_alert": [],
   "you_should_know": [
     {
@@ -69,23 +62,6 @@
       },
       "uid": "1bdac96c-d993-4370-9066-cb1146b6f391",
       "description": "San Antonio City Manager Erik Walsh is set to announce a new police chief on Wednesday morning, filling the position after the retirement of Chief McManus."
-    },
-    {
-      "title": "SAPD release body cam video of man shot, killed after police say he ignored multiple warnings to drop gun",
-      "summary": "",
-      "source": "KENS 5",
-      "topic": "policing",
-      "topics_secondary": [
-        "violent-crime"
-      ],
-      "url": "https://www.kens5.com/article/news/crime/san-antonio-police-body-cam-video-man-deadly-shooting-aurora-ave/273-44508f3f-a82e-47f3-b3e3-fbd5620dde45",
-      "published_at": "2026-09-02T20:46:38+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/a667e8f0-3d07-4b4c-9648-cd233f198295/20260902T203954/a667e8f0-3d07-4b4c-9648-cd233f198295_750x422.jpg",
-        "alt": ""
-      },
-      "uid": "a43de53a-dba9-4fa0-86cd-fe057cb56835",
-      "description": "Police said multiple 911 calls were made by neighbors in the past month, though the exact number was unclear."
     },
     {
       "title": "'ICE is going to take him:' Mother says her son was wrongly accused of threatening ICE officers in San Antonio",

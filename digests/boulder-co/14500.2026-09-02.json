@@ -48,6 +48,106 @@
       "description": "Boulder started a new bee bio-monitoring project to learn more about the environment from a regional to an individual level."
     },
     {
+      "title": "Evacuation for wildfire in Fort Collins canceled",
+      "summary": "Residents near the 2900 block of Arbee Lane in Fort Collins, a city about 45 miles north of Boulder, are no longer being told to evacuate.",
+      "source": "9NEWS",
+      "topic": "weather-hazard",
+      "topics_secondary": [],
+      "url": "https://www.9news.com/article/news/local/wildfire/mandatory-evacuation-issued-wildfire-fort-collins/73-0361ff92-1cb2-477a-96e2-24153d3c52eb",
+      "published_at": "2026-09-02T23:51:07+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/b6392ff1-84ab-44b4-9dc1-04ac6b1c9238/20260902T233954/b6392ff1-84ab-44b4-9dc1-04ac6b1c9238_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "6644430a-84ed-4c29-99e8-03934e9a4905",
+      "questions": [
+        "Have wildfire evacuations come close to the area this year?",
+        "Is there a plan in place at home for a fast evacuation?"
+      ],
+      "description": "Residents in the area of the 2900 block of Arbee Lane are now being told they don't have to evacuate."
+    },
+    {
+      "title": "Denver residents concerned about future of Huston Lake after lack of water",
+      "summary": "Huston Lake was once a spot for residents of the Athmar Park neighborhood in Denver, the state capital, about 30 miles southeast of Boulder, to gather. This year, the water is nearly nonexistent.",
+      "source": "CBS Colorado",
+      "topic": "drought-water",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/colorado/news/denver-residents-concerned-future-huston-lake-lack-water/",
+      "published_at": "2026-09-02T17:49:00+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/09/02/efbad4ff-1997-473a-9d52-7bef5629a2bc/thumbnail/1024x576/bb94c8e24b6c387ef80f463bc04acd5a/huston-lake-future-6pkg-transfer-frame-395.jpg",
+        "alt": ""
+      },
+      "uid": "b74b4b2d-fddd-4592-8e71-914d096a647c",
+      "questions": [
+        "Have nearby lakes and ponds been running low too?",
+        "Is losing a neighborhood gathering spot something people are talking about?"
+      ],
+      "description": "Huston Lake was once a spot for residents of Denver's Athmar Park neighborhood to gather. This year, the water is nearly nonexistent.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    },
+    {
+      "title": "National Western Stock Show announces 2027 Citizen of the West",
+      "summary": "Larry A. Mizel, founder of M.D.C. Holdings, the homebuilding company, was named the 2027 Citizen of the West by the National Western Stock Show, the annual livestock show and rodeo held each January in Denver, for his contributions to agriculture and community.",
+      "source": "9NEWS",
+      "topic": "human-interest",
+      "topics_secondary": [
+        "agriculture"
+      ],
+      "url": "https://www.9news.com/article/entertainment/events/national-western-stock-show/national-western-stock-show-citizen-of-the-west-larry-mizel/73-a702a052-eca3-491e-8942-4f2f563fe191",
+      "published_at": "2026-09-02T16:23:36+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/dec04342-706c-4c5e-823d-3efd5ea72187/20260902T122031/dec04342-706c-4c5e-823d-3efd5ea72187_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "d59ef4a2-3472-4f96-83d1-bf32564918f0",
+      "questions": [
+        "Do people from the area go to the Stock Show?",
+        "Is the Stock Show a tradition for families around there?"
+      ],
+      "description": "Larry A. Mizel, founder of M.D.C. Holdings, was named the 2027 Citizen of the West by the National Western Stock Show for his contributions to agriculture and community."
+    },
+    {
+      "title": "Colorado Youth Sports Giving Day designed to break through barriers, expand access to sports",
+      "summary": "",
+      "source": "CBS Colorado",
+      "topic": "culture-events",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/colorado/video/colorado-youth-sports-giving-day-designed-to-break-through-barriers-expand-access-to-sports/",
+      "published_at": "2026-09-02T15:56:00+00:00",
+      "image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/02/64e7144f-c7a9-4a10-bbc2-23402ff732f6/thumbnail/1024x576/e88a183705508faaad64c126b6faaf6a/38afa2af60245ac0def4c876ff7df350.jpg",
+        "alt": ""
+      },
+      "uid": "0e3f8277-4dc2-4b71-9018-8e0abb6a00f2",
+      "questions": [
+        "Are youth sports a big part of life for families in the area?",
+        "Is cost a barrier for kids getting into sports there?"
+      ],
+      "description": "This year is the 3rd annual Colorado Youth Sports Giving Day, which is designed to break through barriers and expand access to sports.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    },
+    {
+      "title": "Colorado Parks and Wildlife asks people to come fish Hugo Ponds before several ponds are drained",
+      "summary": "Colorado Parks and Wildlife is asking people to grab their fishing poles and head to Hugo Ponds, at a wildlife area near Hugo, a small plains town about 140 miles southeast of Boulder, to catch some fish before several ponds are drained.",
+      "source": "CBS Colorado",
+      "topic": "wildlife",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/colorado/video/colorado-parks-and-wildlife-asks-people-to-come-fish-hugo-ponds-before-several-ponds-are-drained/",
+      "published_at": "2026-09-02T18:19:00+00:00",
+      "image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/02/80712371-ec54-4fb5-8431-23a3a798d169/thumbnail/1024x576/bfbf7284ba887a7f0908be2ef492b4f6/a723f2c80b8623c2b97630236673c9b6.jpg",
+        "alt": ""
+      },
+      "uid": "e6523f7e-aed3-49ff-bae0-b41b19d7a2c6",
+      "questions": [
+        "Is fishing something people drive out to the plains for?",
+        "Have the low water levels changed where people fish this year?"
+      ],
+      "description": "Colorado Parks and Wildlife is asking people to grab their fishing poles and head to Hugo Ponds to catch some fish.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    },
+    {
       "title": "Denver Water eliminating water references in marketing campaign",
       "summary": "\"Water is Missing\" sees popular water phrases changed on billboards in Denver, the state capital, about 30 miles southeast of Boulder.",
       "source": "9NEWS",
@@ -68,6 +168,18 @@
     }
   ],
   "sports": [
+    {
+      "team": "Broncos",
+      "scores": [
+        "school-attendance initiative"
+      ]
+    },
+    {
+      "team": "Buffaloes",
+      "scores": [
+        "new $5 fan value menu at venues"
+      ]
+    },
     {
       "team": "Nuggets",
       "scores": [

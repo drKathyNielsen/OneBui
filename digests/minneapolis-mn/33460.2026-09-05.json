@@ -1,0 +1,28 @@
+{
+  "shortName": "Minneapolis, MN",
+  "metroCode": "33460",
+  "metro": "Minneapolis-St. Paul-Bloomington, MN-WI",
+  "date": "2026-09-05",
+  "are_you_ok": [],
+  "conversation_starters": [],
+  "sports": [],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "Group of over 150 Allina Health doctors in Twin Cities files notice for strike",
+      "summary": "A group of over 150 doctors at Allina Health, a hospital and clinic system across the Twin Cities — Minneapolis and St. Paul, the capital city, just east of Minneapolis — has filed a 10-day unfair labor practice strike notice, their union said.",
+      "source": "CBS Minnesota",
+      "topic": "business-jobs",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/minnesota/news/allina-health-unity-mercy-hospital-strike-notice/",
+      "published_at": "2026-09-05T02:39:00+00:00",
+      "image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/05/9daf62df-04c1-4be8-8a6b-2f99f97ba9c9/thumbnail/1024x576/d64d9be4975fe9c20ef2ede771a7f997/yt-thumbnail-2026-09-04t203840-089.png",
+        "alt": ""
+      },
+      "uid": "825c3efa-95e7-4218-86b0-a40a8c8fb2ac",
+      "description": "A group of over 150 Allina Health doctors in the Twin Cities has filed a 10-day unfair labor practice strike notice, their union said on Friday.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    }
+  ]
+}

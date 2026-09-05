@@ -1,0 +1,34 @@
+{
+  "shortName": "San Antonio, TX",
+  "metroCode": "41700",
+  "metro": "San Antonio-New Braunfels, TX",
+  "date": "2026-09-05",
+  "are_you_ok": [],
+  "conversation_starters": [],
+  "sports": [
+    {
+      "team": "UIW",
+      "scores": [
+        "receiver sues NCAA over suspension"
+      ]
+    }
+  ],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "San Antonio launches pilot program targeting recurring homeless encampments",
+      "summary": "",
+      "source": "KENS 5",
+      "topic": "housing",
+      "topics_secondary": [],
+      "url": "https://www.kens5.com/article/news/community/san-antonio-launches-pilot-program-targeting-recurring-homeless-encampments/273-e91bcaf4-2a34-4f8c-a72f-66e830198f53",
+      "published_at": "2026-09-05T04:19:16+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/6aa124b4-b9f3-48b9-8471-b15ffdd8b225/20260905T035046/6aa124b4-b9f3-48b9-8471-b15ffdd8b225_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "0731e2da-f7b1-4c53-96df-9469992017cc",
+      "description": "The city plans weeks of intensive outreach before clearing selected camps. Right now, there are 33 encampments where the city has been going to every two weeks."
+    }
+  ]
+}

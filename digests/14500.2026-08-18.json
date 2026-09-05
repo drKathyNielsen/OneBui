@@ -1,0 +1,207 @@
+{
+  "shortName": "Boulder, CO",
+  "metroCode": "14500",
+  "metro": "Boulder, CO",
+  "date": "2026-08-18",
+  "are_you_ok": [
+    {
+      "title": "Severe storms possible around the Denver area",
+      "summary": "Watch the forecast from Lauren Whitney, a local television meteorologist.",
+      "source": "CBS Colorado",
+      "topic": "severe-weather",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/colorado/video/severe-storms-possible-around-the-denver-area/",
+      "published_at": "2026-08-18T14:08:00+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/18/6db2e1f4-e663-43e8-bbcb-766a3b5e7fbd/thumbnail/1024x576/4334d03a0feccf99d74fd1c355fcdebf/1f40611d88280a0bcf3f3c5337ef5ee1.jpg",
+        "alt": ""
+      },
+      "uid": "518bc76d-1b1a-4fd0-838d-8eca08f107bc",
+      "questions": [
+        "Did the storms come through your area?",
+        "Is everything alright at home after the weather?"
+      ],
+      "description": "Watch Lauren Whitney's forecast",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    }
+  ],
+  "conversation_starters": [
+    {
+      "title": "CU named official university partner for Sundance Film Festival's move to Boulder",
+      "summary": "",
+      "source": "9NEWS",
+      "topic": "civic-events",
+      "topics_secondary": [],
+      "url": "https://www.9news.com/article/life/style/colorado-guide/cu-boulder-official-partner-sundance-film-festival/73-162fac1e-1862-42a0-b8d2-180742a928f8",
+      "published_at": "2026-08-18T22:39:58+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/c6b44600-f382-42be-9bcf-a773a6e41588/20260404T001206/c6b44600-f382-42be-9bcf-a773a6e41588_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "b86cc783-979c-4657-9b58-28aa6d6b244e",
+      "questions": [
+        "What do people there make of Sundance moving to Boulder?",
+        "Is the university partnership something you would get involved with?"
+      ],
+      "description": "The University of Colorado Boulder is an official partner for the Sundance Film Festival, beginning a year of programming that will extend beyond the festival."
+    },
+    {
+      "title": "New law requires Colorado teenagers to take 30 hours of driver's training to receive permit",
+      "summary": "",
+      "source": "CBS Colorado",
+      "topic": "transportation",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/colorado/news/new-law-colorado-teenagers-drivers-training-permit/",
+      "published_at": "2026-08-18T12:52:08+00:00",
+      "image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/18/7d33e24e-80d8-4c7a-a1d7-a0f7f5314357/thumbnail/1024x576/2bc875587a7a3fee616e6eb34311831b/gettyimages-958322434-1.jpg",
+        "alt": ""
+      },
+      "uid": "755de4af-1dcd-4e8c-b340-b06f60d282c8",
+      "questions": [
+        "Do you have anyone in the house close to driving age?",
+        "What do you make of the new training requirement for teen drivers?"
+      ],
+      "description": "A new law takes effect in Colorado at the beginning of the year that will change the requirements for teen drivers who want to get behind the wheel.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    },
+    {
+      "title": "Airbnb offers $200 bonus as Sundance rental demand surges in Boulder",
+      "summary": "",
+      "source": "9NEWS",
+      "topic": "business-jobs",
+      "topics_secondary": [],
+      "url": "https://www.9news.com/article/news/local/colorado-news/airbnb-offers-bonus-sundance-rental-demand-surges-boulder/73-64181fec-5628-4df1-8c77-79dbe5f0f33a",
+      "published_at": "2026-08-18T22:06:29+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/d670356f-2ea6-4994-800d-8f57f576bcc5/20260818T214344/d670356f-2ea6-4994-800d-8f57f576bcc5_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "d31f14d8-8e66-44ad-8740-17f6bcc0d4c6",
+      "questions": [
+        "Are people you know thinking about renting out their places during the festival?",
+        "Has the festival started to change the rental market where you are?"
+      ],
+      "description": "Homeowners in Boulder can earn a $200 incentive from Airbnb for hosting during the Sundance Film Festival, as demand for rentals surges before its Colorado debut."
+    },
+    {
+      "title": "Bear dies after becoming trapped inside car in Colorado Springs",
+      "summary": "",
+      "source": "CBS Colorado",
+      "topic": "wildlife",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/colorado/news/bear-dies-trapped-inside-car-colorado-springs/",
+      "published_at": "2026-08-18T14:07:52+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/18/3f115573-c8ee-47a2-81c6-6bdbd0f64d11/thumbnail/1024x576/62e33d96d3a86fd1706b13fc0d1ca2eb/springs-bear-car-break-in-cpw-se-region-1-copy.jpg",
+        "alt": ""
+      },
+      "uid": "cf271bbc-8a3e-49cf-a23e-9f37d96fbb3e",
+      "questions": [
+        "Did you see the warning about bears getting into parked cars?",
+        "Do you lock the car for that reason where you live?"
+      ],
+      "description": "The bear's death has prompted Colorado Parks and Wildlife to issue a warning to drivers.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    },
+    {
+      "title": "Coors Field gets surprise visit from ‘Frozen’ star at Savannah Bananas game",
+      "summary": "",
+      "source": "9NEWS",
+      "topic": "human-interest",
+      "topics_secondary": [],
+      "url": "https://www.9news.com/article/sports/baseball/kristen-bell-savannah-bananas-frozen-songs/73-cf04c627-3d6f-425c-826f-6acdcd844607",
+      "published_at": "2026-08-18T11:40:14+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/13b2a534-2999-4a59-9df1-dfbc495e8514/20260817T005717/13b2a534-2999-4a59-9df1-dfbc495e8514_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "91eac93e-f0ae-44f3-8456-2b6313276e00",
+      "questions": [
+        "Did you get to any of the Savannah Bananas games?",
+        "Is that the kind of event you would take family to?"
+      ],
+      "description": "The Savannah Bananas thrilled 100,000 fans in Denver with sold-out games and a surprise appearance by \"Frozen\" star Kristen Bell."
+    }
+  ],
+  "sports": [
+    {
+      "team": "Broncos",
+      "scores": [
+        "tempers flare at camp practice"
+      ]
+    },
+    {
+      "team": "Rockies",
+      "scores": [
+        "Dodgers 11, Rockies 5",
+        "designates Lorenzen for assignment"
+      ]
+    }
+  ],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "Colorado minimum wage rising in 2027",
+      "summary": "",
+      "source": "9NEWS",
+      "topic": "business-jobs",
+      "topics_secondary": [],
+      "url": "https://www.9news.com/article/money/business/small-business/colorado-minimum-wage-rising/73-b563ece8-e44e-4830-a4d4-9ee49e5a61a4",
+      "published_at": "2026-08-18T09:49:32+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/b1cc4628-283a-4254-9f26-5605b3e62a33/20260818T094823/b1cc4628-283a-4254-9f26-5605b3e62a33_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "fbc1eae1-5b85-41fc-99d5-9e8926e8a662",
+      "description": "The City and County of Denver previously announced a minimum wage increase to $19.84."
+    },
+    {
+      "title": "Colorado cites White House email as key evidence in lawsuit against Trump administration",
+      "summary": "Attorneys for the State of Colorado say a newly uncovered White House email provides crucial evidence in their lawsuit alleging the Trump administration retaliated against the state over election policies and the prosecution of former Mesa County Clerk Tina Peters, the local election official convicted over a breach of voting systems in Mesa County, in western Colorado about 250 miles west of Boulder.",
+      "source": "CBS Colorado",
+      "topic": "elections-politics",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/colorado/video/colorado-cites-white-house-email-as-key-evidence-in-lawsuit-against-trump-administration/",
+      "published_at": "2026-08-18T03:26:00+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/18/d124c4d8-4a0f-4bc7-972e-61bd577d89a4/thumbnail/1024x576/2c2c3df1b3fcaf1dbc5c8cdfe671b5cf/8e285a5b4f46d4865ad66a221d32939e.jpg",
+        "alt": ""
+      },
+      "uid": "6f0eba80-7ebb-47f9-8571-59ad213b632e",
+      "description": "Attorneys for the State of Colorado say a newly uncovered White House email provides crucial evidence in their lawsuit alleging the Trump administration retaliated against the state over election policies and the prosecution of former Mesa County Clerk Tina Peters.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    },
+    {
+      "title": "Deadline arrives for Colorado Department of Health order over ICE detention center tuberculosis case",
+      "summary": "Monday is the deadline for the GEO Group, the private company that runs the facility, to turn over information about a case of tuberculosis inside the ICE detention center in Aurora, a large suburb 40 miles SE of Boulder.",
+      "source": "CBS Colorado",
+      "topic": "public-health",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/colorado/video/deadline-arrives-for-colorado-department-of-health-order-over-ice-detention-center-tuberculosis-case/",
+      "published_at": "2026-08-18T03:31:00+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/18/1a8e52f2-865b-487c-92ee-8e207740d506/thumbnail/1024x576/26d71d4c9410ad0943c98db1dd9d1d3c/c9132591bd13e177cbfb3dc608242066.jpg",
+        "alt": ""
+      },
+      "uid": "fca7a1c1-45c4-44c8-ae23-3f087a39371f",
+      "description": "Monday is the deadline for the GEO Group to turn over information about a case of tuberculosis inside the Aurora ICE Detention Center.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    },
+    {
+      "title": "Castle Rock man pleads guilty to attempting to support ISIS after arrest at Denver airport in 2023",
+      "summary": "",
+      "source": "9NEWS",
+      "topic": "violent-crime",
+      "topics_secondary": [],
+      "url": "https://www.9news.com/article/news/crime/castle-rock-man-pleads-guilty-attempting-to-support-isis/73-ff66d186-96c5-4c4b-929c-17eb769449a2",
+      "published_at": "2026-08-18T01:51:26+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/590323425/590323425_750x422.png",
+        "alt": ""
+      },
+      "uid": "3a269630-9c1a-402b-a378-0588fde96c36",
+      "description": "Davin Meyer has pleaded guilty to attempting to support ISIS after being arrested trying to board a flight to Turkey, according to FBI Denver."
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "shortName": "San Antonio, TX",
+  "metroCode": "41700",
+  "metro": "San Antonio-New Braunfels, TX",
+  "date": "2026-08-23",
+  "are_you_ok": [],
+  "conversation_starters": [
+    {
+      "title": "'Too much at stake': Elf Louise Christmas Project searching for new San Antonio home ahead of holiday season",
+      "summary": "",
+      "source": "KENS 5",
+      "topic": "human-interest",
+      "topics_secondary": [],
+      "url": "https://www.kens5.com/article/news/local/outreach/elf-louise-christmas-project-searching-new-san-antonio-home-holiday-season-children-in-need-locker-karen-gordon-santa-holiday-operation/273-1e23dcff-e58f-47c9-a679-64f81ca3f080",
+      "published_at": "2026-08-23T23:04:30+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/4080b59d-deef-4c66-914c-6d43fd983707/4080b59d-deef-4c66-914c-6d43fd983707_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "f4e9f8b1-9026-4f4b-99cd-c8a3672d6bc4",
+      "questions": [
+        "Have you heard the Elf Louise Christmas Project is looking for a new space in San Antonio?",
+        "Are there local holiday traditions in San Antonio that people really rally around?"
+      ],
+      "description": "The Elf Louise Christmas Project urgently seeks a new 40,000 sq. ft. space in San Antonio to continue its 58-year mission of gifting joy to thousands of children."
+    },
+    {
+      "title": "Nearly La Parra, almost HemisFair: Durango Boulevard’s surprising history",
+      "summary": "Durango survived an attempted rebranding tied to HemisFair, the 1968 world's fair held in San Antonio, and was transformed from a short street on the West Side, just west of downtown, into a major boulevard before losing its name in 2011.",
+      "source": "KENS 5",
+      "topic": "other",
+      "topics_secondary": [],
+      "url": "https://www.kens5.com/article/news/history/san-antonio-la-parra-hemisfair-durango-boulevard-history/273-5f477d1c-98fd-4f77-b27f-1015654cf2c2",
+      "published_at": "2026-08-23T02:42:44+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/f126d085-949d-4e4b-9b01-5d2ba7e86e61/20260823T022406/f126d085-949d-4e4b-9b01-5d2ba7e86e61_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "cf2c46ec-6bc7-4813-9506-b680306e99fc",
+      "questions": [
+        "Have you come across the story of how Durango Boulevard started out as a short West Side street?",
+        "Is San Antonio history something you follow, or mostly news to you?",
+        "What's a piece of San Antonio history that people outside the city usually don't know?"
+      ],
+      "description": "Durango survived an attempted HemisFair rebranding and was transformed from a short West Side street into a major boulevard before losing its name in 2011."
+    }
+  ],
+  "sports": [],
+  "weather_alert": [],
+  "you_should_know": []
+}

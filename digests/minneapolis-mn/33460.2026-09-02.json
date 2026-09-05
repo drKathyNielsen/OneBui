@@ -3,37 +3,48 @@
   "metroCode": "33460",
   "metro": "Minneapolis-St. Paul-Bloomington, MN-WI",
   "date": "2026-09-02",
-  "are_you_ok": [],
-  "conversation_starters": [
+  "are_you_ok": [
     {
-      "title": "Which food vendors make the most money at the Minnesota State Fair?",
+      "title": "MN court data breach: Private user data exposed after third-party vendor hacked",
       "summary": "",
-      "source": "CBS Minnesota",
-      "topic": "business-jobs",
-      "topics_secondary": [
-        "food-dining"
-      ],
-      "url": "https://www.cbsnews.com/minnesota/news/minnesota-state-fair-which-vendors-make-the-most-money/",
-      "published_at": "2026-09-02T03:31:12+00:00",
+      "source": "FOX 9",
+      "topic": "technology",
+      "topics_secondary": [],
+      "url": "https://www.fox9.com/news/mn-court-data-breach-private-data-exposed-third-party-vendor-hacked-sept-2-2026",
+      "published_at": "2026-09-02T22:06:51+00:00",
       "image": {
-        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/31/80da53e6-3a96-4207-bc29-2507ec7ef34b/thumbnail/1024x576/05979b60ecd135a9d10ea3ba18699894/gettyimages-1340349078.jpg",
+        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/09/getty-hack.jpg",
         "alt": ""
       },
-      "uid": "822f0125-3811-4c9f-8e3a-df3992892abc",
+      "uid": "b531d87b-4676-4fa3-8369-a200efff11f9",
       "questions": [
-        "Have you been out to the Minnesota State Fair?",
-        "What's the one State Fair food worth standing in line for?",
-        "Is there a fair vendor you go back to every year?"
+        "Have Minnesota court users been told what information was exposed?",
+        "Is the court data breach a concern for anyone who has been through the court system?"
       ],
-      "description": "There's more than 300 vendors keeping people fed at the Minnesota State Fair. That's a lot of competition for your cash and the limited space in your stomach.",
-      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+      "description": "Personal data within Minnesota court systems, as well as several other states, was exposed after a third-party vendor used to process caseloads was breached."
     }
   ],
+  "conversation_starters": [],
   "sports": [
+    {
+      "team": "Lynx",
+      "scores": [
+        "Miles wins 4th straight Rookie of the Month",
+        "TV streaming partner dissolving"
+      ]
+    },
     {
       "team": "Vikings",
       "scores": [
+        "signs Van Noy, re-signs Brosmer to practice squad",
+        "McCarthy fully practicing",
         "sign veteran edge rusher Van Noy"
+      ]
+    },
+    {
+      "team": "Wild",
+      "scores": [
+        "games move exclusively to Prime Video"
       ]
     },
     {
@@ -46,21 +57,35 @@
   "weather_alert": [],
   "you_should_know": [
     {
-      "title": "Annunciation shooting: $2.6M in federal funds awarded for mental health, support services",
-      "summary": "",
-      "source": "FOX 9",
-      "topic": "public-health",
-      "topics_secondary": [
-        "government"
-      ],
-      "url": "https://www.fox9.com/news/annunciation-shooting-2-6m-federal-funds-awarded-mental-health-support-services",
-      "published_at": "2026-09-02T14:04:19+00:00",
+      "title": "Vance Boelter claims he was trying to make citizen's arrest during lawmaker shootings",
+      "summary": "A strange start today in the state case against a political assassin. That includes a jail house blog, a \"Fight Club\" reference, and this stunning new defense. Vance Boelter, the man charged in the 2025 attacks on two Minnesota lawmakers and their spouses, now claims he was trying to make a citizen's arrest when he carried out the attacks. It's a claim prosecutors call \"delusional.\" Jason Rantala was in court today.",
+      "source": "CBS Minnesota",
+      "topic": "violent-crime",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/minnesota/video/vance-boelter-claims-he-was-trying-to-make-citizens-arrest-during-lawmaker-shootings/",
+      "published_at": "2026-09-02T22:19:00+00:00",
       "image": {
-        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2025/08/annunciation-sized.jpg",
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/02/fb9a6b68-3559-4745-949d-888faaa74d74/thumbnail/1024x576/b9408c727d50f2c30def9b0a6bb88e3e/7f4c993599636d2f189e157eaea8aa7b-0-1788387614650.png",
         "alt": ""
       },
-      "uid": "99fc1941-84ee-4a70-b8e0-d4fccafa8e11",
-      "description": "The Annunciation Catholic School community will receive approximately $2.6 million in federal funding to help support those impacted by last year’s deadly mass shooting in Minneapolis."
+      "uid": "08250c45-c5bc-4b0e-939c-c82f822db8f5",
+      "description": "A strange start today in the state case against a political assassin. That includes a jail house blog, a \"Fight Club\" reference, and this stunning new defense. Vance Boelter now claims he was trying to make a citizen's arrest when he carried out the lawmaker attacks. It's a",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    },
+    {
+      "title": "St. Paul minimum wage rates for 2027 announced",
+      "summary": "Workers in St. Paul, the capital city, just east of Minneapolis, are getting a pay bump in 2027 — and the city is making clear it will hold employers accountable.",
+      "source": "FOX 9",
+      "topic": "government",
+      "topics_secondary": [],
+      "url": "https://www.fox9.com/news/st-paul-minimum-wage-rates-2027-announced",
+      "published_at": "2026-09-02T21:03:21+00:00",
+      "image": {
+        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2022/07/st-paul-skyline.jpg",
+        "alt": ""
+      },
+      "uid": "d7e813f4-cd1c-423f-a1f5-df4bf14ef798",
+      "description": "St. Paul workers are getting a pay bump in 2027 — and the city is making clear it will hold employers accountable."
     },
     {
       "title": "Shakopee flock cameras: City defends surveillance tools amid misinformation concerns",

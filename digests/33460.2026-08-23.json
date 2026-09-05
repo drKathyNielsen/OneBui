@@ -1,0 +1,104 @@
+{
+  "shortName": "Minneapolis, MN",
+  "metroCode": "33460",
+  "metro": "Minneapolis-St. Paul-Bloomington, MN-WI",
+  "date": "2026-08-23",
+  "are_you_ok": [
+    {
+      "title": "As Minnesota drought conditions worsen, relief remains uncertain",
+      "summary": "",
+      "source": "CBS Minnesota",
+      "topic": "drought-water",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/minnesota/news/as-minnesota-drought-conditions-worsen-relief-remains-uncertain/",
+      "published_at": "2026-08-23T22:45:45+00:00",
+      "image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/23/d3eba425-b4bf-40ed-8e66-816f87af4e24/thumbnail/1024x576/5e0da27dc45d803ebede4e5a05c56335/vb-drought-comparison-wccob507.jpg",
+        "alt": ""
+      },
+      "uid": "e187412e-b0d8-4c2b-9e2a-303436fc8451",
+      "questions": [
+        "How is the drought showing up day to day around the Twin Cities?",
+        "Have any water restrictions come into effect where you live?"
+      ],
+      "description": "Minnesota's drought has reached extreme levels in part of northwestern Minnesota, as more than 88% of the state is now feeling the impacts.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    },
+    {
+      "title": "Minneapolis car break-ins: Police investigate 87 smashed windows across 9 neighborhoods",
+      "summary": "",
+      "source": "FOX 9",
+      "topic": "property-crime",
+      "topics_secondary": [],
+      "url": "https://www.fox9.com/news/minneapolis-car-break-ins-police-investigate-87-smashed-windows-across-9-neighborhoods",
+      "published_at": "2026-08-23T02:33:52+00:00",
+      "image": {
+        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/08/9p-87-car-break_ins-_-leon-purvis_00.00.02.48.jpg",
+        "alt": ""
+      },
+      "uid": "e358ecef-25fe-48cd-809e-c2da280af6df",
+      "questions": [
+        "Did the car break-ins reach your neighborhood?",
+        "Has the string of break-ins changed where people park in your area?"
+      ],
+      "description": "Minneapolis police are working to determine whether there is any connection between at least 87 car break-ins that happened across the city Friday morning."
+    }
+  ],
+  "conversation_starters": [],
+  "sports": [
+    {
+      "team": "Twins",
+      "scores": [
+        "Padres 8, Twins 1",
+        "Padres 7, Twins 5"
+      ]
+    },
+    {
+      "team": "Vikings",
+      "scores": [
+        "Ravens 13, Vikings 3"
+      ]
+    },
+    {
+      "team": "Minnesota United",
+      "scores": [
+        "Minnesota United 5, Earthquakes 1"
+      ]
+    }
+  ],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "Far-right instigator among those arrested for probable cause riot in Minneapolis, police say",
+      "summary": "",
+      "source": "CBS Minnesota",
+      "topic": "violent-crime",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/minnesota/news/far-right-jake-lang-rally-arrested-inciting-riot/",
+      "published_at": "2026-08-23T15:57:52+00:00",
+      "image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/22/3d6f161f-d06b-4409-9ec7-f6d4f2a6bca8/thumbnail/1024x576/c44f64e1fb3b2d284996a7c9e522d99c/inx-aerials-jake-lang-rally-082226.jpg",
+        "alt": ""
+      },
+      "uid": "c7de3407-82d0-4460-9dc5-e008f77a3282",
+      "description": "Far-right influencer and pardoned Jan. 6 insurrectionist Jake Lang was arrested Saturday, according to the Minneapolis Police Department.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    },
+    {
+      "title": "St. Paul residents call for end to Flock camera contract ahead of city council vote",
+      "summary": "The fight over Flock cameras could be moving to St. Paul, the capital city, just east of Minneapolis. The automatic license plate-reading cameras continue to spark debate across Minnesota, with some cities cutting ties with the technology, as other cities deal with vandals taking matters into their own hands.",
+      "source": "CBS Minnesota",
+      "topic": "policing",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/minnesota/news/the-fight-flock-cameras-st-paul/",
+      "published_at": "2026-08-23T16:29:51+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/22/f02fe16a-0f27-46f4-b0e3-c0b16aaff14d/thumbnail/1024x576/3dcd0449000ee66b4e5fd20c63893ac3/6p-pkg-sppd-drones-wccob4ux.jpg",
+        "alt": ""
+      },
+      "uid": "877868c1-1e94-4a53-96a3-5d86e5b638be",
+      "description": "The fight over Flock cameras could be moving to Minnesota's Capitol City. The automatic license plate-reading cameras continue to spark debate across Minnesota, with some cities cutting ties with the technology, as other cities deal with vandals taking matters into their own",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    }
+  ]
+}

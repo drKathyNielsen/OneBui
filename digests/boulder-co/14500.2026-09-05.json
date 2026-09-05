@@ -1,0 +1,71 @@
+{
+  "shortName": "Boulder, CO",
+  "metroCode": "14500",
+  "metro": "Boulder, CO",
+  "date": "2026-09-05",
+  "are_you_ok": [],
+  "conversation_starters": [
+    {
+      "title": "Federal disaster aid approved for Colorado counties affected by Aspen Acres and Gold Mountain Fires",
+      "summary": "",
+      "source": "9NEWS",
+      "topic": "weather-hazard",
+      "topics_secondary": [],
+      "url": "https://www.9news.com/article/news/local/wildfire/federal-disaster-aid-approved-for-colorado-counties-affected-by-aspen-acres-and-gold-mountain-fires/73-a6e495b7-ee78-415a-a9bf-a2794c3b98d5",
+      "published_at": "2026-09-05T05:12:48+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/b125ca14-c8e1-44e0-a579-5eb05390aae4/20260826T002318/b125ca14-c8e1-44e0-a579-5eb05390aae4_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "30944db6-eaa3-4e84-a4c8-a5f2933cbe52",
+      "questions": [
+        "Have the Aspen Acres or Gold Mountain fires affected anyone you know?",
+        "Have you been following what the federal disaster aid is expected to cover?"
+      ],
+      "description": "On Friday, Democratic Governor Jared Polis announced that the Trump administration had approved public assistance for Colorado's Major Disaster Declaration."
+    }
+  ],
+  "sports": [
+    {
+      "team": "CSU Rams",
+      "scores": [
+        "renews Border War with Wyoming"
+      ]
+    }
+  ],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "Colorado's \"birthday rule\" creates coverage headaches for family of twins",
+      "summary": "",
+      "source": "CBS Colorado",
+      "topic": "public-health",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/colorado/news/colorados-birthday-rule-coverage-headaches-family-twins/",
+      "published_at": "2026-09-05T12:12:22+00:00",
+      "image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/05/185f362e-4498-49c8-bf91-69ed99e57aa9/thumbnail/1024x576/774f1670034363a96153bbe10004f4de/children.jpg",
+        "alt": ""
+      },
+      "uid": "e0bf8fe3-6119-453a-90b6-0cf914f07672",
+      "description": "Despite having health insurance, families in Colorado have been hit with massive medical bills after their babies spent time in NICUs.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    },
+    {
+      "title": "Colorado students organize walkout to protest ICE actions",
+      "summary": "",
+      "source": "CBS Colorado",
+      "topic": "immigration-enforcement",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/colorado/news/colorado-students-organize-walkout-protest-ice-actions/",
+      "published_at": "2026-09-05T02:09:54+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/09/04/a8254e52-0f46-4034-b5c9-49c9ec7a6a27/thumbnail/1024x576/d40ca78c3ef1543246bc92f8f86fd056/student-walkouts-galarza-1a-frame-429.jpg",
+        "alt": ""
+      },
+      "uid": "37ed6f7b-3173-4ccf-9aad-6d4dfbd2daa9",
+      "description": "Some high school students in Colorado organized a walkout to protest ICE actions on Friday.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "shortName": "San Antonio, TX",
+  "metroCode": "41700",
+  "metro": "San Antonio-New Braunfels, TX",
+  "date": "2026-08-22",
+  "are_you_ok": [],
+  "conversation_starters": [
+    {
+      "title": "Major highway closures underway this weekend at LP 1604, I-10 on north west side",
+      "summary": "The closures are scheduled to remain in place until 5 a.m. Monday as part of bridge demolition work for the North Expansion Project on Loop 1604, the outer highway loop that circles San Antonio.",
+      "source": "KENS 5",
+      "topic": "transportation",
+      "topics_secondary": [],
+      "url": "https://www.kens5.com/article/traffic/loop-1604-highway-closures-the-rim-la-cantera/273-48706725-6cef-4bf8-8505-cbc9709cb784",
+      "published_at": "2026-08-22T15:04:04+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/b5167397-2dec-47fb-8b96-e3b15c1495f5/20250410T181054/b5167397-2dec-47fb-8b96-e3b15c1495f5_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "260f2d53-ef61-4a23-a6ad-835850a95f7d",
+      "questions": [
+        "Have the Loop 1604 closures changed how you get around?",
+        "Is the 1604 expansion work something you notice day to day?"
+      ],
+      "description": "The closures are scheduled to remain in place until 5 a.m. Monday as part of bridge demolition work for the Loop 1604 North Expansion Project."
+    }
+  ],
+  "sports": [],
+  "weather_alert": [],
+  "you_should_know": []
+}

@@ -26,45 +26,23 @@
       "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
     },
     {
-      "title": "Colorado traction law begins Sept. 1: What drivers need to know",
-      "summary": "Colorado's traction and chain law is in effect, requiring specific equipment for vehicles on I-70, the interstate that crosses the mountains west of Boulder, from Dotsero, a small town about 130 miles west, to Morrison, a small foothills town about 30 miles south, through May 31 to prevent accidents.",
+      "title": "Waymo launches in Denver: Here's where you can ride",
+      "summary": "Waymo launched its driverless taxi service in Denver, the state capital, about 30 miles southeast of Boulder, initially covering 60 square miles.",
       "source": "9NEWS",
       "topic": "transportation",
       "topics_secondary": [],
-      "url": "https://www.9news.com/article/news/community/transportation/colorado-traction-law-what-drivers-need-to-know/73-9bed5045-7596-4151-83d6-f47fc289d506",
-      "published_at": "2026-09-01T21:35:13+00:00",
+      "url": "https://www.9news.com/article/news/community/transportation/waymo-launches-denver-map-area/73-47825686-251b-40c7-9b3f-f56e8ddbbc4a",
+      "published_at": "2026-09-01T14:25:03+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/KUSA/images/e306a8e3-bf36-4351-82d5-21eceb23d045/20260901T201055/e306a8e3-bf36-4351-82d5-21eceb23d045_750x422.jpg",
+        "url": "https://media.tegna-media.com/assets/KPNX/images/b8446ee1-1c3c-4e09-9117-88c4ae031563/20260820T143745/b8446ee1-1c3c-4e09-9117-88c4ae031563_750x422.jpg",
         "alt": ""
       },
-      "uid": "0b62d6f1-9125-4246-b1b8-018d7d299412",
+      "uid": "c402ca27-e61b-44dd-8d34-edf72fdb87ad",
       "questions": [
-        "Does the traction law change anything about winter drives into the mountains?",
-        "Is driving I-70 in the winter part of the usual routine?"
+        "Have the driverless taxis started showing up around Denver?",
+        "Would riding in a Waymo be something worth trying?"
       ],
-      "description": "Colorado's traction and chain law is in effect, requiring specific equipment for vehicles on I-70 from Dotsero to Morrison through May 31 to prevent accidents."
-    },
-    {
-      "title": "Colorado families may be missing out on thousands in tax credits: it's not too late to apply",
-      "summary": "",
-      "source": "CBS Colorado",
-      "topic": "public-benefits",
-      "topics_secondary": [
-        "consumer-advice"
-      ],
-      "url": "https://www.cbsnews.com/colorado/video/colorado-families-may-be-missing-out-on-thousands-in-tax-credits-its-not-too-late-to-apply/",
-      "published_at": "2026-09-01T00:33:00+00:00",
-      "image": {
-        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/01/191b8a84-561d-4b94-b92f-1b5a9ff31f25/thumbnail/1024x576/7587f877d8862629b8b61ed304dc4570/5a9de673ecb25efd1207d97c804d4b70.jpg",
-        "alt": ""
-      },
-      "uid": "28657ff3-d7c1-4d00-a3e4-e4993b91bc19",
-      "questions": [
-        "Have the state tax credits come up much around Colorado?",
-        "Do the tax credits seem widely known, or is this news to most people?"
-      ],
-      "description": "Many Colorado families struggling to make ends meet could be leaving thousands of dollars unclaimed through state tax credits designed to help lower-income households.",
-      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+      "description": "Waymo launched its driverless taxi service in Denver on Tuesday, initially covering 60 square miles."
     },
     {
       "title": "New species coming to Denver for first time in zoo's 130-year history",
@@ -89,7 +67,7 @@
       "title": "Colorado Ski Passport returns for 30th year, opening slopes to kids",
       "summary": "",
       "source": "9NEWS",
-      "topic": "consumer-advice",
+      "topic": "other",
       "topics_secondary": [],
       "url": "https://www.9news.com/article/life/style/colorado-guide/colorado-ski-passport-kids/73-aecc3e9a-11fe-4fa7-9130-9b5f174009f4",
       "published_at": "2026-09-01T10:21:25+00:00",
@@ -105,23 +83,45 @@
       "description": "The Colorado Ski Passport offers kids four days of skiing at 19 resorts, celebrating 30 years of making Colorado's slopes accessible to young skiers."
     },
     {
-      "title": "Colorado schools are losing students as births, migration slow",
+      "title": "Colorado families may be missing out on thousands in tax credits: it's not too late to apply",
       "summary": "",
-      "source": "9NEWS",
-      "topic": "education",
-      "topics_secondary": [],
-      "url": "https://www.9news.com/article/news/education/colorado-schools-losing-students/73-298de588-e3bf-4ea1-99e6-a35d04e7542d",
-      "published_at": "2026-09-01T12:45:11+00:00",
+      "source": "CBS Colorado",
+      "topic": "public-benefits",
+      "topics_secondary": [
+        "consumer-advice"
+      ],
+      "url": "https://www.cbsnews.com/colorado/video/colorado-families-may-be-missing-out-on-thousands-in-tax-credits-its-not-too-late-to-apply/",
+      "published_at": "2026-09-01T00:33:00+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/KUSA/images/b8b61ef3-5987-4d87-9533-d43edfb4d272/b8b61ef3-5987-4d87-9533-d43edfb4d272_750x422.png",
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/01/191b8a84-561d-4b94-b92f-1b5a9ff31f25/thumbnail/1024x576/7587f877d8862629b8b61ed304dc4570/5a9de673ecb25efd1207d97c804d4b70.jpg",
         "alt": ""
       },
-      "uid": "48b90268-7226-4036-9e49-a106e30e4d1b",
+      "uid": "28657ff3-d7c1-4d00-a3e4-e4993b91bc19",
       "questions": [
-        "Have the schools nearby felt the drop in enrollment?",
-        "Has the enrollment decline come up in the school district?"
+        "Have the state tax credits come up much around Colorado?",
+        "Do the tax credits seem widely known, or is this news to most people?"
       ],
-      "description": "Enrollment peaked in 2019 in Colorado with its 913,223 students, according to the Colorado Department of Education."
+      "description": "Many Colorado families struggling to make ends meet could be leaving thousands of dollars unclaimed through state tax credits designed to help lower-income households.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    },
+    {
+      "title": "'The consequences can become serious very quickly': Aurora police say crowd of 500 descended on local shopping center",
+      "summary": "Social media videos captured a chaotic scene at a King Soopers, the Colorado supermarket chain, and other establishments in Aurora, a large suburb 40 miles SE of Boulder.",
+      "source": "9NEWS",
+      "topic": "property-crime",
+      "topics_secondary": [],
+      "url": "https://www.9news.com/article/news/local/aurora-police-investigating-after-crowd-of-500-descends-on-local-shopping-center/73-e66ded08-da2a-46e2-a102-224681b05df8",
+      "published_at": "2026-09-01T01:04:28+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/ecd0c24c-2aab-4814-b21e-e288a96a9d78/20260831T232916/ecd0c24c-2aab-4814-b21e-e288a96a9d78_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "ab6ec36a-cf6c-48e1-8163-1d2ed8b28fcb",
+      "questions": [
+        "Has the Aurora shopping center incident been a big topic around Colorado?",
+        "Is Aurora somewhere people from Boulder end up often?"
+      ],
+      "description": "Social media videos captured chaotic scene at King Soopers, other establishments."
     },
     {
       "title": "Colorado residents can use mobile driver's license to get through airport security across U.S.",
@@ -144,23 +144,42 @@
       "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
     },
     {
-      "title": "Waymo launches in Denver: Here's where you can ride",
-      "summary": "Waymo launched its driverless taxi service in Denver, the state capital, about 30 miles southeast of Boulder, initially covering 60 square miles.",
+      "title": "Colorado traction law begins Sept. 1: What drivers need to know",
+      "summary": "Colorado's traction and chain law is in effect, requiring specific equipment for vehicles on I-70, the interstate that crosses the mountains west of Boulder, from Dotsero, a small town about 130 miles west, to Morrison, a small foothills town about 30 miles south, through May 31 to prevent accidents.",
       "source": "9NEWS",
       "topic": "transportation",
       "topics_secondary": [],
-      "url": "https://www.9news.com/article/news/community/transportation/waymo-launches-denver-map-area/73-47825686-251b-40c7-9b3f-f56e8ddbbc4a",
-      "published_at": "2026-09-01T14:25:03+00:00",
+      "url": "https://www.9news.com/article/news/community/transportation/colorado-traction-law-what-drivers-need-to-know/73-9bed5045-7596-4151-83d6-f47fc289d506",
+      "published_at": "2026-09-01T21:35:13+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/KPNX/images/b8446ee1-1c3c-4e09-9117-88c4ae031563/20260820T143745/b8446ee1-1c3c-4e09-9117-88c4ae031563_750x422.jpg",
+        "url": "https://media.tegna-media.com/assets/KUSA/images/e306a8e3-bf36-4351-82d5-21eceb23d045/20260901T201055/e306a8e3-bf36-4351-82d5-21eceb23d045_750x422.jpg",
         "alt": ""
       },
-      "uid": "c402ca27-e61b-44dd-8d34-edf72fdb87ad",
+      "uid": "0b62d6f1-9125-4246-b1b8-018d7d299412",
       "questions": [
-        "Have the driverless taxis started showing up around Denver?",
-        "Would riding in a Waymo be something worth trying?"
+        "Does the traction law change anything about winter drives into the mountains?",
+        "Is driving I-70 in the winter part of the usual routine?"
       ],
-      "description": "Waymo launched its driverless taxi service in Denver on Tuesday, initially covering 60 square miles."
+      "description": "Colorado's traction and chain law is in effect, requiring specific equipment for vehicles on I-70 from Dotsero to Morrison through May 31 to prevent accidents."
+    },
+    {
+      "title": "Colorado schools are losing students as births, migration slow",
+      "summary": "",
+      "source": "9NEWS",
+      "topic": "education",
+      "topics_secondary": [],
+      "url": "https://www.9news.com/article/news/education/colorado-schools-losing-students/73-298de588-e3bf-4ea1-99e6-a35d04e7542d",
+      "published_at": "2026-09-01T12:45:11+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/b8b61ef3-5987-4d87-9533-d43edfb4d272/b8b61ef3-5987-4d87-9533-d43edfb4d272_750x422.png",
+        "alt": ""
+      },
+      "uid": "48b90268-7226-4036-9e49-a106e30e4d1b",
+      "questions": [
+        "Have the schools nearby felt the drop in enrollment?",
+        "Has the enrollment decline come up in the school district?"
+      ],
+      "description": "Enrollment peaked in 2019 in Colorado with its 913,223 students, according to the Colorado Department of Education."
     }
   ],
   "sports": [

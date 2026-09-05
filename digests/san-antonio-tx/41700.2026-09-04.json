@@ -1,0 +1,35 @@
+{
+  "shortName": "San Antonio, TX",
+  "metroCode": "41700",
+  "metro": "San Antonio-New Braunfels, TX",
+  "date": "2026-09-04",
+  "are_you_ok": [],
+  "conversation_starters": [],
+  "sports": [
+    {
+      "team": "Spurs",
+      "scores": [
+        "announcer staying on play-by-play",
+        "streaming costs rise under new DAZN deal"
+      ]
+    }
+  ],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "Trump approves federal disaster aid for Texas counties impacted by devastating July floods",
+      "summary": "Communities in the Texas Hill Country, the region of small towns and rivers beginning about 30 miles northwest of San Antonio, TX, hit by severe floods gain extended federal support after President Trump approved a major disaster declaration.",
+      "source": "KENS 5",
+      "topic": "government",
+      "topics_secondary": [],
+      "url": "https://www.kens5.com/article/news/state/texas-news/texas-flood/texas-hill-country-federal-aid-trump-approves-disaster-declaration-texas-counties-impacted-july-floods-2026/273-4ec333c3-880e-480e-8629-80a32c15aeab",
+      "published_at": "2026-09-04T13:21:36+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/759ded38-c812-4b8c-8ed6-f0030f079d0b/20260904T132053/759ded38-c812-4b8c-8ed6-f0030f079d0b_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "ffeba48a-6f6c-4ee0-bc04-06d7d6e6bb24",
+      "description": "Texas communities hit by severe floods gain extended federal support after President Trump approved a major disaster declaration."
+    }
+  ]
+}

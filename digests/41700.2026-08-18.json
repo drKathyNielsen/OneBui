@@ -1,0 +1,97 @@
+{
+  "shortName": "San Antonio, TX",
+  "metroCode": "41700",
+  "metro": "San Antonio-New Braunfels, TX",
+  "date": "2026-08-18",
+  "are_you_ok": [
+    {
+      "title": "UT San Antonio delays start of fall semester by three days after 'unauthorized activity' detected on campus systems, administration says",
+      "summary": "",
+      "source": "KENS 5",
+      "topic": "other",
+      "topics_secondary": [],
+      "url": "https://www.kens5.com/article/news/local/ut-san-antonio-delays-start-three-days-unauthorized-activity-detected-on-campus-systems-administration-says/273-e92938ed-a6cc-4718-8707-3225a8d22617",
+      "published_at": "2026-08-18T22:56:57+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/e9cbfa21-fcc9-4b4c-8082-b55b1f06b1d6/20260302T041031/e9cbfa21-fcc9-4b4c-8082-b55b1f06b1d6_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "01a639f8-95ec-4c75-bec5-fd1c05bc5e0b",
+      "questions": [
+        "Did the UTSA delay end up touching anyone you know?",
+        "How are people on campus taking the later start?"
+      ],
+      "description": "The University of Texas at San Antonio said in a statement on Tuesday that they do not believe any data was accessed."
+    }
+  ],
+  "conversation_starters": [
+    {
+      "title": "Loose bull calf rescued in drain tunnel after passing through Walmart parking lot, ACS says",
+      "summary": "The calf was spotted in the parking lot of a Walmart in the 1200 block of Southeast Military Drive, a road across the south side of San Antonio.",
+      "source": "KENS 5",
+      "topic": "human-interest",
+      "topics_secondary": [],
+      "url": "https://www.kens5.com/article/news/local/loose-bull-calf-rescued-in-drain-tunnel-after-passing-through-walmart-parking-lot-acs-says/273-09ffe871-b36f-4a0c-a2ab-56454e72c438",
+      "published_at": "2026-08-18T19:49:10+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/ccae76ce-618a-420e-af29-f22071de8fe1/20260818T194640/ccae76ce-618a-420e-af29-f22071de8fe1_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "c5eccc0b-9448-460f-b9a1-cd3a04d5d500",
+      "questions": [
+        "Did you see the story about the calf loose in the Walmart parking lot?",
+        "Does livestock turn up like that very often around there?"
+      ],
+      "description": "The calf was spotted in the parking lot of a Walmart in the 1200 block of Southeast Military Drive on Tuesday."
+    }
+  ],
+  "sports": [],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "San Antonio City Council rejects November vote on Spurs arena funding; members react",
+      "summary": "",
+      "source": "KENS 5",
+      "topic": "development-projects",
+      "topics_secondary": [],
+      "url": "https://www.kens5.com/article/news/local/project-marvel/san-antonio-city-council-rejects-november-vote-spurs-arena-funding-members-react/273-cc3a75f1-2da0-4c04-8530-831fe76c0eb4",
+      "published_at": "2026-08-18T03:08:16+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/b1ef887c-9cbc-4f61-9a8a-95bb0e1b4263/20260818T030727/b1ef887c-9cbc-4f61-9a8a-95bb0e1b4263_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "995b8f2a-9f7a-480c-9d0f-e61eafad2890",
+      "description": "San Antonio's City Council narrowly voted against allowing residents to vote on the city's $489 million contribution to a new Spurs arena, sparking a debate."
+    },
+    {
+      "title": "Families ask U.S. Supreme Court to rule on Texas’ Ten Commandments requirement for public schools",
+      "summary": "",
+      "source": "KENS 5",
+      "topic": "civil-litigation",
+      "topics_secondary": [],
+      "url": "https://www.kens5.com/article/news/local/texas/families-ask-us-supreme-court-to-rule-on-texas-ten-commandments-requirement-for-public-schools/273-f6d75e66-c9fc-4459-8554-d70c11ba2122",
+      "published_at": "2026-08-18T11:59:16+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/50fcac32-885d-4176-96cc-091d6e64bf72/20260818T115854/50fcac32-885d-4176-96cc-091d6e64bf72_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "8ec72b64-757a-4f74-9303-e3e27db09a26",
+      "description": "Texas can enforce the state's law requiring Ten Commandments posters in public schools. Here's what to know about the latest legal challenges."
+    },
+    {
+      "title": "Gov. Abbott proposes ban on H-1B workers in Texas public schools",
+      "summary": "",
+      "source": "KENS 5",
+      "topic": "immigration-enforcement",
+      "topics_secondary": [],
+      "url": "https://www.kens5.com/article/news/local/texas/abbott-ban-h-1b-workers-texas-public-schools/285-2e34b4ee-ee1c-424c-a2f8-997bb0136e53",
+      "published_at": "2026-08-18T22:58:22+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KHOU/images/73ab2bdb-e30d-428a-8edd-e53baaf919cd/20260807T031157/73ab2bdb-e30d-428a-8edd-e53baaf919cd_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "7bfd5214-fb6f-42ea-89d4-46e6f6aed7ce",
+      "description": "Abbott said he wants to stop \"foreign influence\" in schools."
+    }
+  ]
+}

@@ -6,6 +6,26 @@
   "are_you_ok": [],
   "conversation_starters": [
     {
+      "title": "Colorado family looking for answers after military helicopter crashes near their property",
+      "summary": "",
+      "source": "CBS Colorado",
+      "topic": "accident",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/colorado/video/colorado-family-looking-for-answers-after-military-helicopter-crashes-near-their-property/",
+      "published_at": "2026-08-29T23:44:00+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/29/d777d458-cc4d-416a-959f-15cf12d6192b/thumbnail/1024x576/ad2b2582f8012e47d659603afbc35454/4c4724ebe8f7b7d79d33db8873af93d3.jpg",
+        "alt": ""
+      },
+      "uid": "1466e297-fdd6-41ab-9911-b288a2f7d958",
+      "questions": [
+        "Did you hear about the Army helicopter that went down in Colorado?",
+        "Was the crash anywhere near you?"
+      ],
+      "description": "A U.S. Army Black Hawk helicopter went down in Colorado earlier this week, and a family that lives in a nearby home is now searching for answers.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    },
+    {
       "title": "Residents back home after Moose Mountain Fire sparks in Northern Colorado",
       "summary": "Evacuations lifted for residents in the area of Pinewood Springs, a small mountain town about 25 miles northwest of Boulder, in Larimer County, just north of Boulder County.",
       "source": "CBS Colorado",
@@ -30,6 +50,7 @@
     {
       "team": "Broncos",
       "scores": [
+        "cuts Prentice and 10 others",
         "owner sees Super Bowl contender",
         "Broncos 34, Vikings 6",
         "families find affordable preseason seats"

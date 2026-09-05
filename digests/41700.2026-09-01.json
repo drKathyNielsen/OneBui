@@ -5,6 +5,26 @@
   "date": "2026-09-01",
   "are_you_ok": [
     {
+      "title": "Number of CPS Energy customers without power drops to the hundreds days after storms tear through San Antonio",
+      "summary": "Temperatures inside a family's home on the southwest side of San Antonio have sat in the low 90s.",
+      "source": "KENS 5",
+      "topic": "weather-hazard",
+      "topics_secondary": [],
+      "url": "https://www.kens5.com/article/news/local/number-of-cps-energy-customers-without-power-drops-to-the-hundreds-days-after-storms-tear-through-san-antonio/273-1fa74fb5-b032-49b5-90bf-ee5c3da1dfe3",
+      "published_at": "2026-09-01T03:37:16+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/307e1b66-6d00-4930-adca-b4ed0c3c782f/20260901T032409/307e1b66-6d00-4930-adca-b4ed0c3c782f_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "dfbc0527-08ac-42e0-9480-c1b8202f06d3",
+      "questions": [
+        "The storms knocked out power across San Antonio for days — is the power back on at your place?",
+        "How did your household get through the days without air conditioning?",
+        "Did your neighborhood see much damage from the storms?"
+      ],
+      "description": "Temperatures inside a family's home on the southwest side have sat in the low 90s."
+    },
+    {
       "title": "Burnout operation underway in Atascosa County as firefighters battle 300-acre River Bluff Fire",
       "summary": "",
       "source": "KENS 5",

@@ -1,0 +1,306 @@
+{
+  "shortName": "Boulder, CO",
+  "metroCode": "14500",
+  "metro": "Boulder, CO",
+  "date": "2026-09-03",
+  "are_you_ok": [
+    {
+      "title": "81% of Coloradans live in ozone polluted areas; clean air advocates asking for change",
+      "summary": "",
+      "source": "CBS Colorado",
+      "topic": "environment-conservation",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/colorado/news/colorado-ozone-polluted-areas-advocates-asking-for-change/",
+      "published_at": "2026-09-03T12:47:45+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/01/7d8f35f0-a529-4316-b973-40bcfe810740/thumbnail/1024x576/2e740500b5593fd038273a8dcb269e27/worst-ozone-in-years-53vo-frame-381.jpg",
+        "alt": ""
+      },
+      "uid": "3b71784d-59d0-4586-a678-279145f8b1c5",
+      "questions": [
+        "Is air quality something people notice over the summer there?",
+        "Do ozone alerts change what people do outdoors?"
+      ],
+      "description": "Clean air advocates are asking local and state leaders in Colorado to act on the unhealthy ozone levels and their impacts.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    },
+    {
+      "title": "Man faces charges of tampering with public water system on Colorado's Berthoud Pass",
+      "summary": "A 65-year-old man is facing four felony counts for allegedly tampering with a water system on Berthoud Pass, a high mountain pass about 50 miles west of Boulder, that delivers drinking water to some Front Range communities, the corridor of cities along the eastern foot of the Rockies.",
+      "source": "CBS Colorado",
+      "topic": "property-crime",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/colorado/news/fabrizio-lorenzin-tampering-water-system-colorado/",
+      "published_at": "2026-09-03T03:31:32+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/03/c4ffe52e-3f54-4e5c-b22a-2db0eaaa8923/thumbnail/1024x576/780ba80fe5c9c972c2d04b3277629727/trail-camera-image.jpg",
+        "alt": ""
+      },
+      "uid": "c179fed3-1ae6-4ea2-a67f-c09886bc5af6",
+      "questions": [
+        "Was the water system case something people heard about locally?",
+        "Is where the drinking water comes from something people there think about?"
+      ],
+      "description": "A 65-year-old man is facing four felony counts for allegedly tampering with a water system on Berthoud Pass that delivers drinking water to some Front Range communities.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    }
+  ],
+  "conversation_starters": [
+    {
+      "title": "Hundreds of thousands of holiday travelers expected in Colorado over Labor Day weekend",
+      "summary": "Denver International Airport forecasts screening 433,000 passengers over the Labor Day weekend and CDOT, the Colorado Department of Transportation, said 47,000 cars will travel I-70, the interstate running west from Denver into the mountains, through the mountain tunnels Friday to Monday.",
+      "source": "9NEWS",
+      "topic": "transportation",
+      "topics_secondary": [],
+      "url": "https://www.9news.com/article/news/community/transportation/hundreds-of-thousands-holiday-travelers-expected-colorado-labor-day-weekend/73-d99df098-89e7-429f-ba1c-962eb224de00",
+      "published_at": "2026-09-03T16:18:47+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/906bb50e-afba-4eaa-b206-94879bb09e16/20260903T135624/906bb50e-afba-4eaa-b206-94879bb09e16_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "71c0110d-fb70-404d-b5ae-4b0eec9511a6",
+      "questions": [
+        "Do the holiday weekend crowds change travel plans there?",
+        "Is mountain traffic on I-70 something people plan around?"
+      ],
+      "description": "Denver International Airport forecasts screening 433,000 passengers over the weekend and CDOT said 47,000 cars will travel I-70 through the tunnels Friday to Monday."
+    },
+    {
+      "title": "Alterra Mountain moving HQ to downtown Denver",
+      "summary": "Alterra Mountain Co., the ski-resort operator, plans to relocate its headquarters to downtown Denver, the state capital, about 30 miles southeast of Boulder, moving into the former Denver Post building.",
+      "source": "9NEWS",
+      "topic": "business-jobs",
+      "topics_secondary": [],
+      "url": "https://www.9news.com/article/money/business/alterra-mountain-headquarters-denver-move/73-138878d3-bd1a-48c2-9861-f09e74e04fb7",
+      "published_at": "2026-09-03T22:26:34+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/8f153822-2539-4fb2-a8c1-ff6263a06eca/20260617T031552/8f153822-2539-4fb2-a8c1-ff6263a06eca_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "dabb24bd-57b0-4c2d-af3f-df11024d33f6",
+      "questions": [
+        "Is the ski industry a big employer for people in the area?",
+        "Has downtown Denver been drawing companies back in?"
+      ],
+      "description": "Alterra Mountain Co. plans to relocate its headquarters to downtown Denver, moving into the former Denver Post building."
+    },
+    {
+      "title": "Racist words painted on Northern Colorado tree, then covered up by hearts supporting inclusion",
+      "summary": "A tree near a park in Wellington, a small town about 55 miles north of Boulder, became the center of attention after racist and graphic graffiti were painted on it.",
+      "source": "CBS Colorado",
+      "topic": "property-crime",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/colorado/news/racist-words-painted-northern-colorado-tree/",
+      "published_at": "2026-09-03T02:39:25+00:00",
+      "image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/03/6bc89949-2bea-4acd-a3af-e97b865421aa/thumbnail/1024x576/07b0046ebb2cc66ef2dc7391aac33074/tree-vandalism-wellington-colorado.jpg",
+        "alt": ""
+      },
+      "uid": "f0aeedf6-a46d-49a2-8c64-f9917339e5b4",
+      "questions": [
+        "Did the response in Wellington get attention around the area?",
+        "Are there community efforts locally that work on the same thing?"
+      ],
+      "description": "A tree near a park in Wellington became the center of attention after racist and graphic graffiti were painted on it.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    },
+    {
+      "title": "Denver's Sloans Lake to get $50M investment in popular neighborhood park",
+      "summary": "City officials in Denver, the state capital, about 30 miles southeast of Boulder, said some parts of the lake that should measure 12 feet deep are only four feet deep.",
+      "source": "CBS Colorado",
+      "topic": "environment-conservation",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/colorado/news/denvers-sloans-lake-50m-investment-popular-neighborhood-park/",
+      "published_at": "2026-09-03T19:39:39+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/09/03/837dfe9d-67ea-488c-af54-17f239e9b092/thumbnail/1024x576/65b3e5a0abd12bacf7f469bf11455617/sloans-lake-improvements-6vo-transfer-frame-0.jpg",
+        "alt": ""
+      },
+      "uid": "1f78fbf4-af23-4b27-be8c-d32af52f333a",
+      "questions": [
+        "Is Sloan's Lake a park people go to from around the area?",
+        "Have low water levels been showing up at other lakes nearby?"
+      ],
+      "description": "City officials said some parts of the lake that should measure 12 feet deep are only four feet deep.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    },
+    {
+      "title": "Vail breaks ground on $185M workforce housing project",
+      "summary": "The Southface project aims to provide 268 affordable apartments to help workers live near their jobs in Vail, a mountain ski-resort town about 100 miles west of Boulder, addressing high living costs there.",
+      "source": "9NEWS",
+      "topic": "housing",
+      "topics_secondary": [],
+      "url": "https://www.9news.com/article/money/business/vail-affordable-apartments-workforce-housing/73-ef2f4859-6f1e-49cb-9f1c-165388bb1a94",
+      "published_at": "2026-09-03T13:33:36+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/eb60221e-c9cf-49c6-afa5-214dbb009219/eb60221e-c9cf-49c6-afa5-214dbb009219_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "48216e78-8814-435d-82cf-876e73cf0aab",
+      "questions": [
+        "Is housing for workers a topic in the area too?",
+        "Do people commute long distances for work around there?"
+      ],
+      "description": "The Southface project aims to provide 268 affordable apartments to help workers live near their jobs, addressing high living costs in the area."
+    },
+    {
+      "title": "Jury convicted woman in 2022 double homicide after original prosecutor disqualified",
+      "summary": "The bodies of Rodulfo Santillan-Reyes and Ryan Roth were found down a steep, rocky cliff in Phantom Canyon, a remote canyon in the mountains south of Boulder, in February of 2022.",
+      "source": "9NEWS",
+      "topic": "violent-crime",
+      "topics_secondary": [],
+      "url": "https://www.9news.com/article/news/crime/2022-phantom-canyon-homicide-conviction/73-ab2c5a44-2299-47d4-be4e-00d231c4ad0e",
+      "published_at": "2026-09-03T23:30:29+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KCEN/images/a911bc4a-4f4f-4d5c-9a08-529cf6d9ed45/a911bc4a-4f4f-4d5c-9a08-529cf6d9ed45_750x422.png",
+        "alt": ""
+      },
+      "uid": "e1684dd5-7f7b-4265-b73d-c1374a9de38b",
+      "questions": [
+        "Has the case been followed locally over the past few years?",
+        "Did the prosecutor being disqualified draw much attention?"
+      ],
+      "description": "The bodies of Rodulfo Santillan-Reyes and Ryan Roth were found down a steep, rocky cliff in Phantom Canyon in February of 2022."
+    },
+    {
+      "title": "Colorado philanthropists donate money to help rebuild City Park bandstand",
+      "summary": "Two Colorado philanthropists have donated money to help rebuild the City Park bandstand in Denver, the state capital, about 30 miles southeast of Boulder, which was destroyed in a fire earlier this year.",
+      "source": "CBS Colorado",
+      "topic": "human-interest",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/colorado/news/colorado-philanthropists-donate-money-rebuild-city-park-bandstand/",
+      "published_at": "2026-09-03T18:37:25+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/08/14/a70da608-abb4-4606-896c-54df6f0d2fe9/thumbnail/1024x576/e9c7b69d980063823e0ce2b79b2b6ffa/gettyimages-2268489472.jpg",
+        "alt": ""
+      },
+      "uid": "05813d15-1a8a-49c3-8dbb-565c2389b6e8",
+      "questions": [
+        "Was the bandstand fire a loss people talked about?",
+        "Are there concerts or events at City Park that people go to?"
+      ],
+      "description": "Two Colorado philanthropists have donated money to help rebuild the City Park bandstand that was destroyed in a fire earlier this year.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    },
+    {
+      "title": "Bear breaks fence trying to get into trash cans in backyard",
+      "summary": "",
+      "source": "CBS Colorado",
+      "topic": "wildlife",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/colorado/video/bear-breaks-fence-trying-to-get-into-trash-cans-in-backyard/",
+      "published_at": "2026-09-03T20:27:00+00:00",
+      "image": {
+        "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/09/03/4d67987b-fa7b-477c-a2ec-73a538c321f5/thumbnail/1024x576/93b38d5e62121c5c09a1e3834e7ed70a/221988e10cea5c6f4285736450323795.jpg",
+        "alt": ""
+      },
+      "uid": "63054d98-fc84-4cc4-aeb7-15b15b61b008",
+      "questions": [
+        "Have bears gotten into trash cans around the neighborhood?",
+        "Do people there use bear-resistant containers?"
+      ],
+      "description": "A big bear broke a gate trying to get into a yard where trash cans were stored.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    }
+  ],
+  "sports": [
+    {
+      "team": "Rapids",
+      "scores": [
+        "record cash trade sends Navarro to St. Louis"
+      ]
+    },
+    {
+      "team": "Broncos",
+      "scores": [
+        "Mahomes on track to start Week 1 vs Broncos"
+      ]
+    },
+    {
+      "team": "Rockies",
+      "scores": [
+        "Rockies 6, Orioles 5 (11 innings)"
+      ]
+    }
+  ],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "Weather unit guiding planes through Colorado skies was closed for parts of 3 days due to short-staffing, documents show",
+      "summary": "A bulletin from the NWS, the National Weather Service, said the weather team based in Longmont, a city about 15 miles northeast of Boulder, was closed due to short-staffing.",
+      "source": "9NEWS",
+      "topic": "government",
+      "topics_secondary": [],
+      "url": "https://www.9news.com/article/weather/weather-unit-guiding-planes-colorado-closed-short-staffing/73-a7aa3854-b323-4041-87a8-ab39384ef24e",
+      "published_at": "2026-09-03T00:38:54+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/a7fadde9-fbc4-4afd-a342-7224d1c55679/20260903T001821/a7fadde9-fbc4-4afd-a342-7224d1c55679_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "0397dbe5-3849-4b1c-82e6-955919004b64",
+      "description": "NWS bulletin said the Longmont-based weather team was closed due to short-staffing."
+    },
+    {
+      "title": "New Colorado law allows tougher charges in some fatal crashes",
+      "summary": "",
+      "source": "CBS Colorado",
+      "topic": "government",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/colorado/news/new-colorado-law-tougher-charges-fatal-crashes-alex-mackiewicz/",
+      "published_at": "2026-09-03T01:22:00+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/03/14/1037e7b7-0cb0-484c-ad3f-fb508c152ba1/thumbnail/1024x576/07f20d0b24b4e0b248b567dddaa8cce2/alex-mackiewicz.jpg",
+        "alt": ""
+      },
+      "uid": "18e5ad5b-ffe7-48c9-afcc-353634f2add9",
+      "description": "Effective Sept. 1, crimes for some fatal crashes could be charged as criminally negligent homicide, a Class 5 felony carrying up to three years in prison.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    },
+    {
+      "title": "Number of Colorado overdose deaths rising, to the concern of medical professionals",
+      "summary": "Lindsey Fish, a Colorado doctor and chief of Urgent Care at Denver Health, the public hospital system serving Denver, spoke about how to prevent opioid overdoses and how to treat substance use disorders.",
+      "source": "CBS Colorado",
+      "topic": "public-health",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/colorado/video/number-of-colorado-overdose-deaths-rising-to-the-concern-of-medical-professionals/",
+      "published_at": "2026-09-03T22:29:00+00:00",
+      "image": {
+        "url": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/09/03/aa930300-eb56-43d7-bb82-0b08d5cb888c/thumbnail/1024x576/16fe4a284773e43a21657f948f5b9c8d/483332860527e40ef041241a3366c485.jpg",
+        "alt": ""
+      },
+      "uid": "09c0a1fc-d568-42e8-a554-3eafc6b028f7",
+      "description": "Lindsey Fish, a Colorado doctor and chief of Urgent Care at Denver Health, spoke about how to prevent opioid overdoses and how to treat substance use disorders.",
+      "logo": "https://www.cbsnews.com/assets/local/colorado_favicon.jpg"
+    },
+    {
+      "title": "Denver councilman warns of gaps as ShotSpotter contract winds down",
+      "summary": "The ShotSpotter contract in Denver, the state capital, about 30 miles southeast of Boulder, expires in December with no replacement lined up. A councilman warns the city could lose a key gunfire-detection tool.",
+      "source": "9NEWS",
+      "topic": "policing",
+      "topics_secondary": [],
+      "url": "https://www.9news.com/article/news/crime/denver-shotspotter-contract-expires/73-afc13d13-5708-408a-845a-4f4a7b5d593d",
+      "published_at": "2026-09-03T22:50:54+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/b728b09d-90b7-47a1-b2a3-6282de2cad10/20260903T205457/b728b09d-90b7-47a1-b2a3-6282de2cad10_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "fd1c00f6-3740-4a5d-8656-89ab0eb67dab",
+      "description": "Denver's ShotSpotter contract expires in December with no replacement lined up. A councilman warns the city could lose a key gunfire-detection tool."
+    },
+    {
+      "title": "State seeks $50k fine against Victor Marx for 'unprecedented' campaign finance violations",
+      "summary": "",
+      "source": "9NEWS",
+      "topic": "elections-politics",
+      "topics_secondary": [],
+      "url": "https://www.9news.com/article/news/local/local-politics/state-seeks-50k-fine-against-victor-marx-unprecedented-campaign-finance-violations/73-5f3d3a56-2863-4fcb-a5d6-9d4395b473b6",
+      "published_at": "2026-09-03T11:53:44+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KUSA/images/139d4a30-5acd-4017-92d1-68092bfea58a/20260903T000948/139d4a30-5acd-4017-92d1-68092bfea58a_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "5a6a983e-4de4-494e-8ebe-95b4426c945c",
+      "description": "Colorado's elections division is asking a hearing officer to impose what could be the largest campaign finance violation fine in state history."
+    }
+  ]
+}

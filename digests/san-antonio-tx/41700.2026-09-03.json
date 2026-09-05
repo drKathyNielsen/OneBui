@@ -1,0 +1,132 @@
+{
+  "shortName": "San Antonio, TX",
+  "metroCode": "41700",
+  "metro": "San Antonio-New Braunfels, TX",
+  "date": "2026-09-03",
+  "are_you_ok": [
+    {
+      "title": "CPS Energy wraps up days-long power restoration efforts after severe weather in San Antonio",
+      "summary": "CPS Energy, the city-owned electric and gas utility, says it has restored power to the over 250,000 customers affected by Friday's severe storms in San Antonio.",
+      "source": "KENS 5",
+      "topic": "weather-hazard",
+      "topics_secondary": [
+        "energy-utilities"
+      ],
+      "url": "https://www.kens5.com/article/news/local/san-antonio-texas-satx-cps-energy-update-storm-aftermath-coverage-severe-weather-cleanup-power-outages-restoration-september-2026/273-b211af9c-91c2-4d9c-b08d-9c39383dcf33",
+      "published_at": "2026-09-03T22:26:08+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/cdab8ed0-f505-46a6-81e2-fc84fd5bc906/20260903T221215/cdab8ed0-f505-46a6-81e2-fc84fd5bc906_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "a5e33b6c-8119-4cd8-9e13-ce924bb8beb5",
+      "questions": [
+        "Did the storms last week knock out power at your house?",
+        "How long did the power stay out in your neighborhood?"
+      ],
+      "description": "CPS Energy says it has restored power to the over 250,000 customers affected by Friday's severe storms in San Antonio."
+    }
+  ],
+  "conversation_starters": [
+    {
+      "title": "Karol G draws nearly 50K San Antonio fans to the Alamodome, setting new venue attendance record",
+      "summary": "Karol G made history at the Alamodome, San Antonio's downtown domed stadium, as nearly 50,000 fans packed the venue for her TropiTour, the largest crowd ever for a solo female headliner.",
+      "source": "KENS 5",
+      "topic": "celebrity-entertainment",
+      "topics_secondary": [
+        "culture-events"
+      ],
+      "url": "https://www.kens5.com/article/entertainment/music/san-antonio-texas-satx-karol-g-tropitour-concert-alamodome-history-highest-attended-solo-female-headliner-becky-g-september-2026/273-1936464a-663a-4cc6-b305-0c3673781d64",
+      "published_at": "2026-09-03T20:29:06+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/bf0225e6-c84c-4928-bbed-e68f476b087a/20260903T195809/bf0225e6-c84c-4928-bbed-e68f476b087a_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "3c6f8d40-4cbf-41a5-afb9-3073e752566a",
+      "questions": [
+        "Did you hear about the record crowd at the Alamodome for the Karol G show?",
+        "Do you ever catch concerts at the Alamodome?"
+      ],
+      "description": "Karol G made Alamodome history Wednesday night as nearly 50,000 fans packed the venue for her TropiTour, the largest crowd ever for a solo female headliner."
+    },
+    {
+      "title": "From stray to hero: Lytle search-and-rescue dog Canyon named ASPCA Dog of the Year",
+      "summary": "",
+      "source": "KENS 5",
+      "topic": "animal-welfare",
+      "topics_secondary": [
+        "human-interest"
+      ],
+      "url": "https://www.kens5.com/article/life/animals/canyon-aspca-lytle-k9-rescue-floods-guadalupe-river-camp-mystic-fema-hero-kerrville-hunt-texas-k9-hillcountry-canine-dog/273-64a5f6b8-e380-4465-9758-98020873a34a",
+      "published_at": "2026-09-03T18:42:55+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/c4a4de0b-2135-470c-ad9f-eca677c1ffca/20260903T180956/c4a4de0b-2135-470c-ad9f-eca677c1ffca_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "d5b46692-571b-4656-8287-b706bfb5aabc",
+      "questions": [
+        "Did you see that a search-and-rescue dog from Lytle was named ASPCA Dog of the Year?",
+        "Do you have a dog at home?"
+      ],
+      "description": "Canyon went from a shelter dog to a lifesaving search-and-rescue K9 who spent more than 90 days searching after the 2025 Texas floods."
+    },
+    {
+      "title": "San Antonio’s Main Plaza set for major renovation, including new stage and pavilion",
+      "summary": "Main Plaza, the historic square in downtown San Antonio, is set for a multimillion dollar transformation to enhance accessibility and community events.",
+      "source": "KENS 5",
+      "topic": "development-projects",
+      "topics_secondary": [],
+      "url": "https://www.kens5.com/article/news/community/san-antonio-main-plaza-major-renovation-stage-pavilion/273-5cac154f-7bd7-4515-a91f-4cf5ea33fde5",
+      "published_at": "2026-09-03T03:23:20+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/a861be4c-f507-43d0-8c17-8e35d15c47fd/20260903T032249/a861be4c-f507-43d0-8c17-8e35d15c47fd_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "b6d8f769-61b5-4ee0-a9cb-f5178b192d76",
+      "questions": [
+        "Do you spend much time at Main Plaza downtown?",
+        "What do you make of the plans to rebuild Main Plaza?"
+      ],
+      "description": "San Antonio's Main Plaza is set for a multimillion dollar transformation to enhance accessibility and community events."
+    },
+    {
+      "title": "OLLU volunteers help west-side residents clean up debris after severe storms",
+      "summary": "Martin Crisantes, 86, was about to hire a company to help with removing all the broken branches in his backyard but then he got a call from Our Lady of the Lake University.",
+      "source": "KENS 5",
+      "topic": "weather-hazard",
+      "topics_secondary": [
+        "human-interest"
+      ],
+      "url": "https://www.kens5.com/article/news/community/ollu-san-antonio-volunteers-west-side-clean-up-debris-severe-storms/273-cbb498ba-8458-4035-849f-b93089e2fdab",
+      "published_at": "2026-09-03T03:14:13+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/dd979e4a-075a-43fd-97ff-6ebd72d33a08/20260903T031343/dd979e4a-075a-43fd-97ff-6ebd72d33a08_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "b8c7b857-33a8-4d87-8004-0bdf73fd5e29",
+      "questions": [
+        "Did your street get much storm debris to clean up?",
+        "Have you seen the university volunteers helping out on the west side?"
+      ],
+      "description": "Martin Crisantes, 86, was about to hire a company to help with removing all the broken branches in his backyard but then he got a call from the university."
+    }
+  ],
+  "sports": [],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "'Lay down and enjoy it': Balcones Heights mayor repeats rape remark, then laughs in newly obtained audio",
+      "summary": "KENS 5 obtained audio from a September 2025 staff meeting in Balcones Heights, a small city surrounded by San Antonio, after a councilmember referenced the comment at the Aug. 24, 2026, council meeting.",
+      "source": "KENS 5",
+      "topic": "government",
+      "topics_secondary": [],
+      "url": "https://www.kens5.com/article/news/politics/balcones-heights-mayorrape-remark-audio-release-texas/273-a7d532a4-4303-4b5c-ab23-9619dec76ea0",
+      "published_at": "2026-09-03T21:41:10+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/a8a7d86f-3810-40b0-8fc6-3c92796b5547/20260324T031831/a8a7d86f-3810-40b0-8fc6-3c92796b5547_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "ae1bb6c7-8c9c-41a4-b02f-dfd28f9b7062",
+      "description": "KENS 5 obtained audio from a September 2025 staff meeting after a councilmember referenced the comment at the Aug. 24, 2026, council meeting."
+    }
+  ]
+}

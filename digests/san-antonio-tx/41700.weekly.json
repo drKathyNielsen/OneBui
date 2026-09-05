@@ -4,45 +4,31 @@
   "metroCode": "41700",
   "metro": "San Antonio-New Braunfels, TX",
   "range": {
-    "start": "2026-08-27",
-    "end": "2026-09-02"
+    "start": "2026-08-30",
+    "end": "2026-09-05"
   },
   "are_you_ok": [
     {
-      "title": "Number of CPS Energy customers without power drops to the hundreds days after storms tear through San Antonio",
-      "summary": "Severe thunderstorms tore through Bexar County on Friday, with wind gusts reaching 75 miles per hour and causing widespread damage that knocked out power for more than 100,000 CPS Energy customers. The city opened six resilience hubs and the San Antonio Food Bank scheduled three food distribution events for residents still without power, while CPS Energy said restoration would run through Tuesday night. The outage count fell from six figures to fewer than 2,000 and then to the hundreds, though some families spent the wait in homes sitting in the low 90s. No repeat of the storms is forecast for the following seven days.",
+      "title": "CPS Energy wraps up days-long power restoration efforts after severe weather in San Antonio",
+      "summary": "Severe storms cut power to more than 250,000 customers of CPS Energy, the city-owned electric and gas utility, across San Antonio. In the first days after, the city ran six resilience hubs and the San Antonio Food Bank held three food distribution events for residents still in the dark, some sitting in homes in the low 90s. Outages fell from more than 100,000 to under 2,000 and then to the hundreds as crews worked through the week, and CPS Energy closed out the restoration effort saying power was back for all 250,000-plus customers affected.",
       "source": "KENS 5",
       "topic": "weather-hazard",
-      "topics_secondary": [],
-      "url": "https://www.kens5.com/article/news/local/number-of-cps-energy-customers-without-power-drops-to-the-hundreds-days-after-storms-tear-through-san-antonio/273-1fa74fb5-b032-49b5-90bf-ee5c3da1dfe3",
-      "published_at": "2026-09-01T03:37:16+00:00",
+      "topics_secondary": [
+        "energy-utilities"
+      ],
+      "url": "https://www.kens5.com/article/news/local/san-antonio-texas-satx-cps-energy-update-storm-aftermath-coverage-severe-weather-cleanup-power-outages-restoration-september-2026/273-b211af9c-91c2-4d9c-b08d-9c39383dcf33",
+      "published_at": "2026-09-03T22:26:08+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/307e1b66-6d00-4930-adca-b4ed0c3c782f/20260901T032409/307e1b66-6d00-4930-adca-b4ed0c3c782f_750x422.jpg",
+        "url": "https://media.tegna-media.com/assets/KENS/images/cdab8ed0-f505-46a6-81e2-fc84fd5bc906/20260903T221215/cdab8ed0-f505-46a6-81e2-fc84fd5bc906_750x422.jpg",
         "alt": ""
       },
-      "uid": "dfbc0527-08ac-42e0-9480-c1b8202f06d3",
-      "description": "Temperatures inside a family's home on the southwest side have sat in the low 90s.",
+      "uid": "a5e33b6c-8119-4cd8-9e13-ce924bb8beb5",
+      "description": "CPS Energy says it has restored power to the over 250,000 customers affected by Friday's severe storms in San Antonio.",
       "questions": [
-        "The storms knocked out power across San Antonio for days — is the power back on at your place?",
-        "How did your household get through the days without air conditioning?",
-        "Did your neighborhood see much damage from the storms?"
+        "Did the storms last week knock out power at your house?",
+        "How long did the power stay out in your neighborhood?"
       ],
       "thread": [
-        {
-          "title": "Wind gusts hit 75 miles per hour in Bexar County during severe thunderstorms on Friday",
-          "summary": "",
-          "source": "KENS 5",
-          "topic": "weather-hazard",
-          "topics_secondary": [],
-          "url": "https://www.kens5.com/article/weather/severe-weather/wind-gusts-hit-75-miles-per-hour-bexar-county-severe-thunderstorms-friday-power-outage-texas-weather-rain-flash-flood/273-919dcf76-d815-4876-8cbb-df6ee35b829a",
-          "published_at": "2026-08-29T23:57:06+00:00",
-          "image": {
-            "url": "https://media.tegna-media.com/assets/KENS/images/dcf3fbad-5d04-4bbd-976a-ff533ad1ac8d/20260829T151737/dcf3fbad-5d04-4bbd-976a-ff533ad1ac8d_750x422.jpg",
-            "alt": ""
-          },
-          "uid": "b29450b0-3f94-4045-afe6-a74070c5598f",
-          "description": "Severe thunderstorms hit Bexar County on Friday, causing widespread damage. No repeat of this activity is forecast for the next seven days."
-        },
         {
           "title": "Resources available for San Antonio residents still without power after storms",
           "summary": "",
@@ -87,66 +73,24 @@
           },
           "uid": "dfbc0527-08ac-42e0-9480-c1b8202f06d3",
           "description": "Temperatures inside a family's home on the southwest side have sat in the low 90s."
+        },
+        {
+          "title": "CPS Energy wraps up days-long power restoration efforts after severe weather in San Antonio",
+          "summary": "",
+          "source": "KENS 5",
+          "topic": "weather-hazard",
+          "topics_secondary": [
+            "energy-utilities"
+          ],
+          "url": "https://www.kens5.com/article/news/local/san-antonio-texas-satx-cps-energy-update-storm-aftermath-coverage-severe-weather-cleanup-power-outages-restoration-september-2026/273-b211af9c-91c2-4d9c-b08d-9c39383dcf33",
+          "published_at": "2026-09-03T22:26:08+00:00",
+          "image": {
+            "url": "https://media.tegna-media.com/assets/KENS/images/cdab8ed0-f505-46a6-81e2-fc84fd5bc906/20260903T221215/cdab8ed0-f505-46a6-81e2-fc84fd5bc906_750x422.jpg",
+            "alt": ""
+          },
+          "uid": "a5e33b6c-8119-4cd8-9e13-ce924bb8beb5",
+          "description": "CPS Energy says it has restored power to the over 250,000 customers affected by Friday's severe storms in San Antonio."
         }
-      ]
-    },
-    {
-      "title": "Dangerous heat continues as storms return to South-Central Texas | Weather Impact Alert",
-      "summary": "",
-      "source": "KENS 5",
-      "topic": "weather-hazard",
-      "topics_secondary": [],
-      "url": "https://www.kens5.com/article/weather/forecast/san-antonio-heat-storms-thursday-advisory-triple-digits-rain-thunderstorms-gusty-humidity-forecast-south-central-texas-impact-alert-weekend/273-cb54686e-645d-4c1f-b4bc-2a381ff2af2b",
-      "published_at": "2026-08-27T15:14:07+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/c2212bc4-19d5-4ff9-b73e-2df2dbb1b2bd/c2212bc4-19d5-4ff9-b73e-2df2dbb1b2bd_750x422.jpg",
-        "alt": ""
-      },
-      "uid": "15db79ac-4ef4-4e0b-be15-065e4cf44c1f",
-      "description": "Triple-digit heat remains the biggest concern Thursday, while scattered storms bring a chance for heavy rain and gusty winds.",
-      "questions": [
-        "How are you holding up with the triple-digit heat?",
-        "Does the heat change how you plan out a week?"
-      ]
-    },
-    {
-      "title": "'Those are two very tragic events' | Two people die in separate possible storm-related drownings in San Antonio",
-      "summary": "",
-      "source": "KENS 5",
-      "topic": "accident",
-      "topics_secondary": [
-        "weather-hazard"
-      ],
-      "url": "https://www.kens5.com/article/weather/severe-weather/death-investigation-storm-related-drownings-san-antonio/273-aadfa57c-b6a1-4031-9bd1-c1475d02b077",
-      "published_at": "2026-08-31T03:08:11+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/d8af1efa-29cc-4e3e-8056-f4e74e1cb937/20260831T021456/d8af1efa-29cc-4e3e-8056-f4e74e1cb937_750x422.jpg",
-        "alt": ""
-      },
-      "uid": "b13c3842-133d-4c3c-9544-998844ff0198",
-      "description": "“On Friday evening, two individuals were in a drainage area when they were swept away by rapidly moving water during the heavy rainfall.\"",
-      "questions": [
-        "I saw San Antonio had some serious flooding - are you and your family all right?",
-        "Is flooding in the drainage areas something that affects the roads you normally drive?"
-      ]
-    },
-    {
-      "title": "Residents assess damage after powerful storm hits Somerset, causing power outages and school closures",
-      "summary": "A severe storm hit Somerset, a small town about 20 miles southwest of San Antonio, causing significant damage and power outages that led to school closures.",
-      "source": "KENS 5",
-      "topic": "weather-hazard",
-      "topics_secondary": [],
-      "url": "https://www.kens5.com/article/news/local/somerset-texas-storm-damage-power-outages-school-closures-august-2026/273-c2ad4482-4988-433e-b2f1-75eb4af5f136",
-      "published_at": "2026-08-28T22:53:37+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/14b2fdc7-ec02-4a14-b327-929b1514f757/20260828T211142/14b2fdc7-ec02-4a14-b327-929b1514f757_750x422.jpg",
-        "alt": ""
-      },
-      "uid": "e0d9fedc-b37b-472f-8e0c-c2f46518464b",
-      "description": "A severe storm hit Somerset, causing significant damage and power outages that led to school closures.",
-      "questions": [
-        "Did the storm that hit Somerset reach your area?",
-        "Did you lose power in the storms?"
       ]
     },
     {
@@ -170,6 +114,27 @@
     }
   ],
   "conversation_starters": [
+    {
+      "title": "Karol G draws nearly 50K San Antonio fans to the Alamodome, setting new venue attendance record",
+      "summary": "Karol G made history at the Alamodome, San Antonio's downtown domed stadium, as nearly 50,000 fans packed the venue for her TropiTour, the largest crowd ever for a solo female headliner.",
+      "source": "KENS 5",
+      "topic": "celebrity-entertainment",
+      "topics_secondary": [
+        "culture-events"
+      ],
+      "url": "https://www.kens5.com/article/entertainment/music/san-antonio-texas-satx-karol-g-tropitour-concert-alamodome-history-highest-attended-solo-female-headliner-becky-g-september-2026/273-1936464a-663a-4cc6-b305-0c3673781d64",
+      "published_at": "2026-09-03T20:29:06+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/bf0225e6-c84c-4928-bbed-e68f476b087a/20260903T195809/bf0225e6-c84c-4928-bbed-e68f476b087a_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "3c6f8d40-4cbf-41a5-afb9-3073e752566a",
+      "description": "Karol G made Alamodome history Wednesday night as nearly 50,000 fans packed the venue for her TropiTour, the largest crowd ever for a solo female headliner.",
+      "questions": [
+        "Did you hear about the record crowd at the Alamodome for the Karol G show?",
+        "Do you ever catch concerts at the Alamodome?"
+      ]
+    },
     {
       "title": "San Antonio couple wins Food Network's debut season of 'Pitmasters'",
       "summary": "Esaul and Grecia Ramos, owners of 2M Smokehouse, a San Antonio barbecue restaurant, took home the trophy and a $30,000 prize.",
@@ -212,41 +177,64 @@
       ]
     },
     {
-      "title": "TxDOT Loop 410 San Pedro improvements construction project near San Antonio airport set to begin in September",
-      "summary": "San Antonio drivers face more construction as a $156 million project from TxDOT, the Texas Department of Transportation, aims to ease congestion on Loop 410, the freeway that rings the city, and U.S. 281, the highway running north out of downtown. Expected completion: 2029.",
+      "title": "San Antonio’s Main Plaza set for major renovation, including new stage and pavilion",
+      "summary": "Main Plaza, the historic square in downtown San Antonio, is set for a multimillion dollar transformation to enhance accessibility and community events.",
       "source": "KENS 5",
-      "topic": "transportation",
+      "topic": "development-projects",
       "topics_secondary": [],
-      "url": "https://www.kens5.com/article/traffic/texas-traffic-txdot-loop-410-san-antonio-pedro-construction-project-airport-september/273-c22a46e0-8f60-4f28-b4de-52cfc4392661",
-      "published_at": "2026-08-28T03:16:03+00:00",
+      "url": "https://www.kens5.com/article/news/community/san-antonio-main-plaza-major-renovation-stage-pavilion/273-5cac154f-7bd7-4515-a91f-4cf5ea33fde5",
+      "published_at": "2026-09-03T03:23:20+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/e8032e08-b51f-476c-a5e9-dbc64d50aa44/20260828T031408/e8032e08-b51f-476c-a5e9-dbc64d50aa44_750x422.jpg",
+        "url": "https://media.tegna-media.com/assets/KENS/images/a861be4c-f507-43d0-8c17-8e35d15c47fd/20260903T032249/a861be4c-f507-43d0-8c17-8e35d15c47fd_750x422.jpg",
         "alt": ""
       },
-      "uid": "1d3f3625-608f-4bf0-aeb3-e5d6e582715c",
-      "description": "San Antonio drivers face more construction as a $156 million TxDOT project aims to ease congestion on Loop 410 and U.S. 281. Expected completion: 2029.",
+      "uid": "b6d8f769-61b5-4ee0-a9cb-f5178b192d76",
+      "description": "San Antonio's Main Plaza is set for a multimillion dollar transformation to enhance accessibility and community events.",
       "questions": [
-        "Does your commute take you anywhere near Loop 410 and U.S. 281?",
-        "Is the construction on Loop 410 going to change how you get around?"
+        "Do you spend much time at Main Plaza downtown?",
+        "What do you make of the plans to rebuild Main Plaza?"
       ]
     },
     {
-      "title": "Northside ISD partnering with OpenAI for 'ChatGPT for Teachers'",
-      "summary": "Northside ISD, the school district covering the northwest side of San Antonio, joins dozens of school districts integrating ChatGPT for classroom experiences while prioritizing data privacy in an AI expansion.",
+      "title": "From stray to hero: Lytle search-and-rescue dog Canyon named ASPCA Dog of the Year",
+      "summary": "",
       "source": "KENS 5",
-      "topic": "education",
-      "topics_secondary": [],
-      "url": "https://www.kens5.com/article/news/education/northside-isd-partnering-with-open-ai-for-chatgpt-for-teachers/273-f4661298-13d1-4f0c-831c-2c8a8634093f",
-      "published_at": "2026-08-28T16:42:24+00:00",
+      "topic": "animal-welfare",
+      "topics_secondary": [
+        "human-interest"
+      ],
+      "url": "https://www.kens5.com/article/life/animals/canyon-aspca-lytle-k9-rescue-floods-guadalupe-river-camp-mystic-fema-hero-kerrville-hunt-texas-k9-hillcountry-canine-dog/273-64a5f6b8-e380-4465-9758-98020873a34a",
+      "published_at": "2026-09-03T18:42:55+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/321a2512-0bcc-4005-9059-0a25d54807f2/20260207T000901/321a2512-0bcc-4005-9059-0a25d54807f2_750x422.jpg",
+        "url": "https://media.tegna-media.com/assets/KENS/images/c4a4de0b-2135-470c-ad9f-eca677c1ffca/20260903T180956/c4a4de0b-2135-470c-ad9f-eca677c1ffca_750x422.jpg",
         "alt": ""
       },
-      "uid": "21f80893-9af6-4243-8fab-6e7c8b16497a",
-      "description": "Northside ISD joins dozens of school districts integrating ChatGPT for classroom experiences while prioritizing data privacy in an AI expansion.",
+      "uid": "d5b46692-571b-4656-8287-b706bfb5aabc",
+      "description": "Canyon went from a shelter dog to a lifesaving search-and-rescue K9 who spent more than 90 days searching after the 2025 Texas floods.",
       "questions": [
-        "Have you heard anything about Northside ISD bringing ChatGPT into classrooms?",
-        "Do you know families with kids in the Northside district?"
+        "Did you see that a search-and-rescue dog from Lytle was named ASPCA Dog of the Year?",
+        "Do you have a dog at home?"
+      ]
+    },
+    {
+      "title": "OLLU volunteers help west-side residents clean up debris after severe storms",
+      "summary": "Martin Crisantes, 86, was about to hire a company to help with removing all the broken branches in his backyard but then he got a call from Our Lady of the Lake University.",
+      "source": "KENS 5",
+      "topic": "weather-hazard",
+      "topics_secondary": [
+        "human-interest"
+      ],
+      "url": "https://www.kens5.com/article/news/community/ollu-san-antonio-volunteers-west-side-clean-up-debris-severe-storms/273-cbb498ba-8458-4035-849f-b93089e2fdab",
+      "published_at": "2026-09-03T03:14:13+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/dd979e4a-075a-43fd-97ff-6ebd72d33a08/20260903T031343/dd979e4a-075a-43fd-97ff-6ebd72d33a08_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "b8c7b857-33a8-4d87-8004-0bdf73fd5e29",
+      "description": "Martin Crisantes, 86, was about to hire a company to help with removing all the broken branches in his backyard but then he got a call from the university.",
+      "questions": [
+        "Did your street get much storm debris to clean up?",
+        "Have you seen the university volunteers helping out on the west side?"
       ]
     },
     {
@@ -269,28 +257,24 @@
         "Have you heard about the Project Cool fan drive this year?",
         "Is the heat still as rough as it has been?"
       ]
-    },
-    {
-      "title": "Aaron Watson returning to Gruene Hall for three nights to record live album",
-      "summary": "Texas country star Aaron Watson is giving fans a chance to become part of his next live album during three shows at Gruene Hall, the historic dance hall in New Braunfels, about 30 miles northeast of San Antonio.",
-      "source": "KENS 5",
-      "topic": "culture-events",
-      "topics_secondary": [],
-      "url": "https://www.kens5.com/article/entertainment/music/aaron-watson-gruene-hall-new-braunfels-live-album-concert-recording-texas-country-jake-watson-music-november-tickets-father-son/273-a484bee9-1c42-4d9e-8836-f105c25292f5",
-      "published_at": "2026-08-28T18:46:18+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/bede0c1c-1ad1-4032-bc7c-1978e506012c/20260828T184546/bede0c1c-1ad1-4032-bc7c-1978e506012c_750x422.jpg",
-        "alt": ""
-      },
-      "uid": "63e1feda-95e3-4f96-beec-040bb5dd5e6e",
-      "description": "Texas country star Aaron Watson is giving fans a chance to become part of his next live album during three shows at Gruene Hall.",
-      "questions": [
-        "Have you ever caught a show at Gruene Hall?",
-        "Is Gruene Hall worth the drive from San Antonio?"
-      ]
     }
   ],
   "you_should_know": [
+    {
+      "title": "'Lay down and enjoy it': Balcones Heights mayor repeats rape remark, then laughs in newly obtained audio",
+      "summary": "KENS 5 obtained audio from a September 2025 staff meeting in Balcones Heights, a small city surrounded by San Antonio, after a councilmember referenced the comment at the Aug. 24, 2026, council meeting.",
+      "source": "KENS 5",
+      "topic": "government",
+      "topics_secondary": [],
+      "url": "https://www.kens5.com/article/news/politics/balcones-heights-mayorrape-remark-audio-release-texas/273-a7d532a4-4303-4b5c-ab23-9619dec76ea0",
+      "published_at": "2026-09-03T21:41:10+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/a8a7d86f-3810-40b0-8fc6-3c92796b5547/20260324T031831/a8a7d86f-3810-40b0-8fc6-3c92796b5547_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "ae1bb6c7-8c9c-41a4-b02f-dfd28f9b7062",
+      "description": "KENS 5 obtained audio from a September 2025 staff meeting after a councilmember referenced the comment at the Aug. 24, 2026, council meeting."
+    },
     {
       "title": "DHS signs $17.3M contract to convert east-side San Antonio warehouse into ICE facility, online records say",
       "summary": "",
@@ -322,6 +306,21 @@
       "description": "One quote from the chat included: \"I'm getting a gun as soon as I can, and when Serna Elementary starts, I'm just gonna walk in there and start shooting up kids.\""
     },
     {
+      "title": "San Antonio launches pilot program targeting recurring homeless encampments",
+      "summary": "",
+      "source": "KENS 5",
+      "topic": "housing",
+      "topics_secondary": [],
+      "url": "https://www.kens5.com/article/news/community/san-antonio-launches-pilot-program-targeting-recurring-homeless-encampments/273-e91bcaf4-2a34-4f8c-a72f-66e830198f53",
+      "published_at": "2026-09-05T04:19:16+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/6aa124b4-b9f3-48b9-8471-b15ffdd8b225/20260905T035046/6aa124b4-b9f3-48b9-8471-b15ffdd8b225_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "0731e2da-f7b1-4c53-96df-9469992017cc",
+      "description": "The city plans weeks of intensive outreach before clearing selected camps. Right now, there are 33 encampments where the city has been going to every two weeks."
+    },
+    {
       "title": "Salame to be appointed San Antonio police chief, city leaders confirm",
       "summary": "",
       "source": "KENS 5",
@@ -339,100 +338,74 @@
       "description": "San Antonio City Manager Erik Walsh is set to announce a new police chief on Wednesday morning, filling the position after the retirement of Chief McManus."
     },
     {
-      "title": "Gov. Abbott blocks state agencies from spending money on Flock cameras",
-      "summary": "Gov. Greg Abbott has ordered all state agencies to pause funding for Flock cameras, automated license plate readers, as scrutiny over the AI-powered surveillance devices has mounted.",
+      "title": "Trump approves federal disaster aid for Texas counties impacted by devastating July floods",
+      "summary": "Federal help for Texas communities recovering from the summer's floods and storms arrived in two steps. First President Trump announced $50 million for severe weather recovery, with communities still waiting on details of how it would be distributed. Then he approved a major disaster declaration for the Texas counties hit by the July floods, extending broader federal support to the affected areas.",
       "source": "KENS 5",
-      "topic": "policing",
+      "topic": "government",
       "topics_secondary": [],
-      "url": "https://www.kens5.com/article/news/local/texas/gov-abbott-blocks-state-agencies-from-spending-money-on-flock-cameras/287-77449273-4be6-4136-922c-4cc30e2bdbb6",
-      "published_at": "2026-08-28T22:45:19+00:00",
+      "url": "https://www.kens5.com/article/news/state/texas-news/texas-flood/texas-hill-country-federal-aid-trump-approves-disaster-declaration-texas-counties-impacted-july-floods-2026/273-4ec333c3-880e-480e-8629-80a32c15aeab",
+      "published_at": "2026-09-04T13:21:36+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/WFAA/images/f773bbec-5fc4-404b-95b5-b6da9f0a5489/20260828T222058/f773bbec-5fc4-404b-95b5-b6da9f0a5489_750x422.jpg",
+        "url": "https://media.tegna-media.com/assets/KENS/images/759ded38-c812-4b8c-8ed6-f0030f079d0b/20260904T132053/759ded38-c812-4b8c-8ed6-f0030f079d0b_750x422.jpg",
         "alt": ""
       },
-      "uid": "568eae21-0a84-4384-9132-c25a4191be73",
-      "description": "Gov. Greg Abbott has ordered all state agencies to pause funding for Flock cameras as scrutiny over the AI-powered surveillance devices has mounted."
-    },
-    {
-      "title": "Feds ordered to extend pause on Big Bend border construction, state senator says",
-      "summary": "A federal judge in San Antonio took up an effort to stop border security construction in Big Bend, the stretch of the Texas-Mexico border in far west Texas, hearing arguments over whether the project should be halted. Federal officials were then ordered to extend their pause on the work by 15 days beyond the Sept. 15 date already in place, according to Texas State Senator Roland Gutierrez.",
-      "source": "KENS 5",
-      "topic": "civil-litigation",
-      "topics_secondary": [],
-      "url": "https://www.kens5.com/article/news/local/texas/feds-ordered-to-extend-halt-on-big-bend-border-construction-texas-senator-says/273-e9554ecf-081c-4549-ada1-c0db94ce7183",
-      "published_at": "2026-09-01T03:53:18+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/1e75c3eb-7793-4183-b16e-22d991310dd7/20260901T035207/1e75c3eb-7793-4183-b16e-22d991310dd7_750x422.jpg",
-        "alt": ""
-      },
-      "uid": "ad1c6b74-363f-4684-a3f8-35b6421bb790",
-      "description": "The pause, previously in place until Sept. 15, was extended by 15 days, Texas State Senator Roland Gutierrez said Monday afternoon.",
+      "uid": "ffeba48a-6f6c-4ee0-bc04-06d7d6e6bb24",
+      "description": "Texas communities hit by severe floods gain extended federal support after President Trump approved a major disaster declaration.",
       "thread": [
         {
-          "title": "Big Bend border project heads to federal court in San Antonio",
+          "title": "Trump announces $50 million for Texas severe weather recovery as communities await details",
           "summary": "",
           "source": "KENS 5",
-          "topic": "immigration-enforcement",
-          "topics_secondary": [],
-          "url": "https://www.kens5.com/article/news/politics/big-bend-border-construction-smartwall-lawsuit-hearing-courthouse-lipan-apache-barriers-patrol-preservation-restraining-order/273-68ea81fc-716d-440d-92e1-57df76f02f7b",
-          "published_at": "2026-08-28T11:59:40+00:00",
+          "topic": "weather-hazard",
+          "topics_secondary": [
+            "government"
+          ],
+          "url": "https://www.kens5.com/article/weather/severe-weather/trump-texas-recovery-kerrville-flooding-storms-funding-hill-country-abbott-edouard/273-f1c4e7b9-d969-45b3-adbf-138ec8bd6695",
+          "published_at": "2026-09-03T12:01:34+00:00",
           "image": {
-            "url": "https://media.tegna-media.com/assets/KENS/images/fa558c1a-2127-4bd6-a001-24e45e14ba90/20260828T115848/fa558c1a-2127-4bd6-a001-24e45e14ba90_750x422.jpg",
+            "url": "https://media.tegna-media.com/assets/KENS/images/dd74f184-6dfa-41fa-9aad-2816eafea8e0/20260903T120012/dd74f184-6dfa-41fa-9aad-2816eafea8e0_750x422.jpg",
             "alt": ""
           },
-          "uid": "2bd36b2d-9dce-44ca-bad0-a840707bdd06",
-          "description": "A federal judge will hear arguments over an effort to stop border security construction in Big Bend."
+          "uid": "32044713-05fc-4bd5-8f02-6076ff14681e",
+          "description": "The federal funding comes as communities across Texas recover from devastating floods, storms and widespread damage this summer."
         },
         {
-          "title": "Feds ordered to extend pause on Big Bend border construction, state senator says",
+          "title": "Trump approves federal disaster aid for Texas counties impacted by devastating July floods",
           "summary": "",
           "source": "KENS 5",
-          "topic": "civil-litigation",
+          "topic": "government",
           "topics_secondary": [],
-          "url": "https://www.kens5.com/article/news/local/texas/feds-ordered-to-extend-halt-on-big-bend-border-construction-texas-senator-says/273-e9554ecf-081c-4549-ada1-c0db94ce7183",
-          "published_at": "2026-09-01T03:53:18+00:00",
+          "url": "https://www.kens5.com/article/news/state/texas-news/texas-flood/texas-hill-country-federal-aid-trump-approves-disaster-declaration-texas-counties-impacted-july-floods-2026/273-4ec333c3-880e-480e-8629-80a32c15aeab",
+          "published_at": "2026-09-04T13:21:36+00:00",
           "image": {
-            "url": "https://media.tegna-media.com/assets/KENS/images/1e75c3eb-7793-4183-b16e-22d991310dd7/20260901T035207/1e75c3eb-7793-4183-b16e-22d991310dd7_750x422.jpg",
+            "url": "https://media.tegna-media.com/assets/KENS/images/759ded38-c812-4b8c-8ed6-f0030f079d0b/20260904T132053/759ded38-c812-4b8c-8ed6-f0030f079d0b_750x422.jpg",
             "alt": ""
           },
-          "uid": "ad1c6b74-363f-4684-a3f8-35b6421bb790",
-          "description": "The pause, previously in place until Sept. 15, was extended by 15 days, Texas State Senator Roland Gutierrez said Monday afternoon."
+          "uid": "ffeba48a-6f6c-4ee0-bc04-06d7d6e6bb24",
+          "description": "Texas communities hit by severe floods gain extended federal support after President Trump approved a major disaster declaration."
         }
       ]
     },
     {
-      "title": "Staples Police Department deactivated by state; Guadalupe County deputies take over calls",
-      "summary": "City leaders dispute some of the findings from TCOLE, the Texas Commission on Law Enforcement, and say they had no opportunity to appeal. Amended state standards governing police agencies take effect Sept. 1.",
+      "title": "SAPD release body cam video of man shot, killed after police say he ignored multiple warnings to drop gun",
+      "summary": "",
       "source": "KENS 5",
       "topic": "policing",
-      "topics_secondary": [],
-      "url": "https://www.kens5.com/article/news/local/staples-texas-police-department-deactivated-state-guadalupe-county-deputies/273-5d8faef8-58c3-4ca8-98dd-a96ff087793e",
-      "published_at": "2026-08-27T05:00:04+00:00",
+      "topics_secondary": [
+        "violent-crime"
+      ],
+      "url": "https://www.kens5.com/article/news/crime/san-antonio-police-body-cam-video-man-deadly-shooting-aurora-ave/273-44508f3f-a82e-47f3-b3e3-fbd5620dde45",
+      "published_at": "2026-09-02T20:46:38+00:00",
       "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/f0131d32-16d3-4b39-b594-4e747c8e9ba5/20260827T042843/f0131d32-16d3-4b39-b594-4e747c8e9ba5_750x422.jpg",
+        "url": "https://media.tegna-media.com/assets/KENS/images/a667e8f0-3d07-4b4c-9648-cd233f198295/20260902T203954/a667e8f0-3d07-4b4c-9648-cd233f198295_750x422.jpg",
         "alt": ""
       },
-      "uid": "b122f446-2d40-4f65-8abe-f8d014380a0a",
-      "description": "City leaders dispute some of TCOLE’s findings and say they had no opportunity to appeal. Amended state standards governing police agencies take effect Sept. 1."
-    },
-    {
-      "title": "'Don't you touch me' | Balcones Heights mayor released on bond after arrest following heated council meeting",
-      "summary": "Johnny Rodriguez, mayor of Balcones Heights, a small city surrounded by San Antonio about five miles northwest of downtown, was released on bond after his arrest on an assault charge.",
-      "source": "KENS 5",
-      "topic": "violent-crime",
-      "topics_secondary": [],
-      "url": "https://www.kens5.com/article/news/crime/texas-san-antonio-balcones-heights-mayor-arrested-assault-incident-recent-city-council-meeting/273-3ec1bfba-b1b8-4e4b-97fb-6a30a63ce0af",
-      "published_at": "2026-08-27T11:42:46+00:00",
-      "image": {
-        "url": "https://media.tegna-media.com/assets/KENS/images/b2f8453a-c265-4585-bede-efa41829c276/20260827T033006/b2f8453a-c265-4585-bede-efa41829c276_750x422.jpg",
-        "alt": ""
-      },
-      "uid": "c433c76c-bc31-43f0-b1e2-edb98f7c55f0",
-      "description": "Balcones Heights Mayor Johnny Rodriguez was released on bond after his arrest on an assault charge."
+      "uid": "a43de53a-dba9-4fa0-86cd-fe057cb56835",
+      "description": "Police said multiple 911 calls were made by neighbors in the past month, though the exact number was unclear."
     },
     {
       "title": "'ICE is going to take him:' Mother says her son was wrongly accused of threatening ICE officers in San Antonio",
-      "summary": "An affidavit accused Josue David Pineda Munoz of repeatedly driving past federal immigration officers outside San Antonio's federal office and threatening to shoot them while holding up a cellphone. He was charged with making a terroristic threat and remains held at the Bexar County jail in San Antonio, and his mother has since said publicly that her son was wrongly accused.",
+      "summary": "",
       "source": "KENS 5",
       "topic": "immigration-enforcement",
       "topics_secondary": [
@@ -445,61 +418,44 @@
         "alt": ""
       },
       "uid": "e5a09f67-1cd2-408d-bf3a-fc6fadc13d1c",
-      "description": "Josue David Pineda Munoz remains in the Bexar County jail, where he faces a charge of making a terroristic threat.",
-      "thread": [
-        {
-          "title": "Man accused of threatening ICE officers outside San Antonio federal office, affidavit says",
-          "summary": "",
-          "source": "KENS 5",
-          "topic": "immigration-enforcement",
-          "topics_secondary": [],
-          "url": "https://www.kens5.com/article/news/crime/ice-threat-jackson-keller-castle-hills-cellphone-officers-honda-affidavit-warrant-federal-pineda-munoz-homeland-security/273-c7049da9-cb95-4bae-b1d9-6a018c0f5853",
-          "published_at": "2026-08-28T23:17:44+00:00",
-          "image": {
-            "url": "https://media.tegna-media.com/assets/KENS/images/bef733fe-c55c-48ac-9ab1-2d04fbf3119d/20260828T160346/bef733fe-c55c-48ac-9ab1-2d04fbf3119d_750x422.jpg",
-            "alt": ""
-          },
-          "uid": "489eab7d-5041-4767-afe5-2696dc053305",
-          "description": "Investigators say the suspect repeatedly drove past federal officers and threatened to shoot them while holding up a cellphone."
-        },
-        {
-          "title": "'ICE is going to take him:' Mother says her son was wrongly accused of threatening ICE officers in San Antonio",
-          "summary": "",
-          "source": "KENS 5",
-          "topic": "immigration-enforcement",
-          "topics_secondary": [
-            "violent-crime"
-          ],
-          "url": "https://www.kens5.com/article/news/crime/ice-mother-son-wrongly-accused-hreatening-ice-officers-san-antonio/273-1bfa8e71-385a-4959-868d-ba1acc375607",
-          "published_at": "2026-09-02T03:43:38+00:00",
-          "image": {
-            "url": "https://media.tegna-media.com/assets/KENS/images/e1ad63ed-8b6a-4e91-9a1f-a248fbeb0774/20260902T023325/e1ad63ed-8b6a-4e91-9a1f-a248fbeb0774_750x422.jpg",
-            "alt": ""
-          },
-          "uid": "e5a09f67-1cd2-408d-bf3a-fc6fadc13d1c",
-          "description": "Josue David Pineda Munoz remains in the Bexar County jail, where he faces a charge of making a terroristic threat."
-        }
-      ]
+      "description": "Josue David Pineda Munoz remains in the Bexar County jail, where he faces a charge of making a terroristic threat."
+    },
+    {
+      "title": "Feds ordered to extend pause on Big Bend border construction, state senator says",
+      "summary": "",
+      "source": "KENS 5",
+      "topic": "civil-litigation",
+      "topics_secondary": [],
+      "url": "https://www.kens5.com/article/news/local/texas/feds-ordered-to-extend-halt-on-big-bend-border-construction-texas-senator-says/273-e9554ecf-081c-4549-ada1-c0db94ce7183",
+      "published_at": "2026-09-01T03:53:18+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/1e75c3eb-7793-4183-b16e-22d991310dd7/20260901T035207/1e75c3eb-7793-4183-b16e-22d991310dd7_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "ad1c6b74-363f-4684-a3f8-35b6421bb790",
+      "description": "The pause, previously in place until Sept. 15, was extended by 15 days, Texas State Senator Roland Gutierrez said Monday afternoon."
     }
   ],
   "sports": [
     {
+      "team": "UIW",
+      "scores": [
+        "receiver sues NCAA over suspension"
+      ]
+    },
+    {
       "team": "Spurs",
       "scores": [
-        "Austin game tickets on sale Thursday",
-        "expands Jackals fan section, holds auditions"
+        "announcer staying on play-by-play",
+        "streaming costs rise under new DAZN deal",
+        "fan meet-and-greet with Champagnie",
+        "Austin game tickets on sale Thursday"
       ]
     },
     {
       "team": "UTSA",
       "scores": [
         "hosts UTRGV in season opener"
-      ]
-    },
-    {
-      "team": "Longhorns",
-      "scores": [
-        "season preview: title contender"
       ]
     }
   ]

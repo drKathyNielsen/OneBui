@@ -1,0 +1,33 @@
+{
+  "shortName": "San Antonio, TX",
+  "metroCode": "41700",
+  "metro": "San Antonio-New Braunfels, TX",
+  "date": "2026-08-31",
+  "are_you_ok": [
+    {
+      "title": "'Those are two very tragic events' | Two people die in separate possible storm-related drownings in San Antonio",
+      "summary": "",
+      "source": "KENS 5",
+      "topic": "accident",
+      "topics_secondary": [
+        "weather-hazard"
+      ],
+      "url": "https://www.kens5.com/article/weather/severe-weather/death-investigation-storm-related-drownings-san-antonio/273-aadfa57c-b6a1-4031-9bd1-c1475d02b077",
+      "published_at": "2026-08-31T03:08:11+00:00",
+      "image": {
+        "url": "https://media.tegna-media.com/assets/KENS/images/d8af1efa-29cc-4e3e-8056-f4e74e1cb937/20260831T021456/d8af1efa-29cc-4e3e-8056-f4e74e1cb937_750x422.jpg",
+        "alt": ""
+      },
+      "uid": "b13c3842-133d-4c3c-9544-998844ff0198",
+      "questions": [
+        "I saw San Antonio had some serious flooding - are you and your family all right?",
+        "Is flooding in the drainage areas something that affects the roads you normally drive?"
+      ],
+      "description": "“On Friday evening, two individuals were in a drainage area when they were swept away by rapidly moving water during the heavy rainfall.\""
+    }
+  ],
+  "conversation_starters": [],
+  "sports": [],
+  "weather_alert": [],
+  "you_should_know": []
+}

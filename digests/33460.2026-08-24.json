@@ -1,0 +1,64 @@
+{
+  "shortName": "Minneapolis, MN",
+  "metroCode": "33460",
+  "metro": "Minneapolis-St. Paul-Bloomington, MN-WI",
+  "date": "2026-08-24",
+  "are_you_ok": [],
+  "conversation_starters": [
+    {
+      "title": "University of Minnesota unveils winning Ice cream flavor for 175th anniversary",
+      "summary": "",
+      "source": "FOX 9",
+      "topic": "human-interest",
+      "topics_secondary": [],
+      "url": "https://www.fox9.com/news/university-minnesota-unveils-winning-ice-cream-flavor-175th-anniversary",
+      "published_at": "2026-08-24T02:35:22+00:00",
+      "image": {
+        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/08/vlcsnap-2026-08-23-20h30m49s281.png",
+        "alt": ""
+      },
+      "uid": "b1e8bb65-7e30-4d0a-bec9-28e2d83c4605",
+      "questions": [
+        "Has the University of Minnesota's 175th anniversary ice cream flavor made it around the office yet?",
+        "What flavor would have won if the pick had been up to you?",
+        "Is the university's tie to the state's dairy industry something people in Minnesota grow up knowing about?"
+      ],
+      "description": "Minnesota’s love affair with dairy just got a little sweeter thanks to a new commemorative ice cream flavor born from a century-long partnership between the University of Minnesota and the state’s dairy industry."
+    }
+  ],
+  "sports": [],
+  "weather_alert": [],
+  "you_should_know": [
+    {
+      "title": "Minneapolis police chief search ramps up with community listening sessions",
+      "summary": "",
+      "source": "FOX 9",
+      "topic": "policing",
+      "topics_secondary": [],
+      "url": "https://www.fox9.com/news/minneapolis-police-chief-search-ramps-up-community-listening-sessions",
+      "published_at": "2026-08-24T00:15:48+00:00",
+      "image": {
+        "url": "https://static.fox9.com/www.fox9.com/content/uploads/2026/08/image2026-08-23-18h25m07s893.jpg",
+        "alt": ""
+      },
+      "uid": "986d2866-457f-4979-a67b-25b702bdb0a8",
+      "description": "The search for a new leader of the Minneapolis Police Department will start to take shape this week, with community listening sessions on the books to hear from residents."
+    },
+    {
+      "title": "Ahead of Minnesota State Fair, Ramsey County sheriff sends 233 warning letters to potential gang members",
+      "summary": "Bob Fletcher, sheriff of Ramsey County, the county that covers St. Paul, just east of Minneapolis, is putting young people with potential gang connections on notice days before the start of the 2026 Minnesota State Fair.",
+      "source": "CBS Minnesota",
+      "topic": "policing",
+      "topics_secondary": [],
+      "url": "https://www.cbsnews.com/minnesota/news/minnesota-state-fair-gang-warning-ramsey-county-sheriff-bob-fletcher/",
+      "published_at": "2026-08-24T13:24:02+00:00",
+      "image": {
+        "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/08/24/825697d5-6051-4fa6-beec-ba8a081b3969/thumbnail/1024x576/f77eb23e05ba8f61dd116a5958a6f57b/bob.jpg",
+        "alt": ""
+      },
+      "uid": "38ef5449-fe43-4870-9318-871952cf9c4c",
+      "description": "Ramsey County Sheriff Bob Fletcher is putting young people with potential gang connections on notice days before the start of the 2026 Minnesota State Fair.",
+      "logo": "https://www.cbsnews.com/assets/local/minnesota_favicon.jpg"
+    }
+  ]
+}
